@@ -108,16 +108,65 @@ Commit file state cùng với file HTML trong cùng commit.
 
 ---
 
-## ⚡ Quy tắc hiệu quả (áp dụng xuyên suốt)
+## ⚡ Quy tắc hiệu quả (áp dụng xuyên suốt — BẮT BUỘC)
 
-Routine này chạy local via cron, cần hoàn thành nhanh để không tốn điện/pin máy. Tuân thủ các rule sau để giảm wall-clock time:
+Routine chạy local qua cron mỗi 5 tiếng. Run trước đó mất 21 phút (quá lâu) vì toàn bộ 40 tool calls đều serial. **Target run time: dưới 10 phút.** Tuân thủ nghiêm các rule sau:
 
-1. **Fetch song song** — Khi cần lấy >1 URL liên quan, invoke nhiều `web_fetch` trong **CÙNG 1 message** (parallel tool calls), không tuần tự. Ví dụ: fetch 5 bài NHK cùng lúc, không fetch từng bài một. Target: 3–5 fetch parallel per batch.
-2. **Ưu tiên `web_search` thay vì `web_fetch`** — `web_search` trả về title + snippet đủ để đánh giá bài, chỉ `web_fetch` full article khi thật sự cần content để rewrite/translate. Giảm số fetch ~50%.
-3. **Ưu tiên RSS feeds** — Khi có sẵn endpoint RSS (Zenn `https://zenn.dev/feed`, NHK RSS, Hacker News `https://hn.algolia.com/api/v1/search?tags=front_page`), dùng RSS thay vì scrape trang HTML. Parse nhanh, ít nhiễu.
-4. **Giới hạn 3 fetch per article** — Mỗi bài final chỉ cho phép fetch tối đa 3 URL (bài gốc + 1-2 link liên quan nếu cần). Không dạo quanh trang web.
-5. **Timeout sớm** — Nguồn nào fetch > 10s → skip, chuyển nguồn khác. Không retry quá 1 lần per URL.
-6. **Batch dedup check** — Check toàn bộ candidate URLs/titles qua blocklist trong 1 lượt (1 message tính toán), không check từng cái.
+### 1. CRITICAL: Parallel tool calls
+
+**Invoke NHIỀU tool calls trong CÙNG MỘT assistant message** bất cứ khi nào có thể. Không bao giờ gọi 1 tool rồi đợi kết quả rồi gọi tool tiếp theo nếu cả 2 độc lập.
+
+✅ **ĐÚNG** (1 message, 5 tool_use blocks parallel):
+- `web_fetch(https://zenn.dev/feed)`
+- `web_fetch(https://qiita.com/...)`
+- `web_fetch(https://www.publickey1.jp/rss.xml)`
+- `web_fetch(https://www.itmedia.co.jp/news/subtop/rss.xml)`
+- `web_fetch(https://feeds.feedburner.com/hatena/b/hotentry/it)`
+
+❌ **SAI** (5 messages, 1 tool_use mỗi message — sequential):
+- Message 1: `web_fetch(zenn)` → wait result
+- Message 2: `web_fetch(qiita)` → wait result
+- ...
+
+**Target**: mỗi batch fetch 4–6 URL parallel. Không dưới 3.
+
+### 2. Dùng RSS, KHÔNG scrape HTML
+
+Ưu tiên các endpoint RSS/JSON cụ thể sau (đã verify, không cần search):
+
+| Nguồn | Endpoint |
+|---|---|
+| NHK tổng | https://www.nhk.or.jp/rss/news/cat0.xml |
+| Nikkei | https://www.nikkei.com/rss/index.html |
+| Zenn | https://zenn.dev/feed |
+| Qiita trending | https://qiita.com/popular-items.atom |
+| Publickey | https://www.publickey1.jp/atom.xml |
+| ITmedia NEWS | https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml |
+| Hacker News | https://hn.algolia.com/api/v1/search?tags=front_page |
+| Anthropic News | https://www.anthropic.com/news (no RSS — fetch HTML 1 lần) |
+| Simon Willison | https://simonwillison.net/atom/everything/ |
+| GitHub changelog | https://github.blog/changelog/feed/ |
+
+### 3. Tuyệt đối KHÔNG dùng `web_search` để khám phá
+
+Run trước gọi 7 `web_search` để khám phá (tốn 52s). **Hoàn toàn không cần.** Các nguồn đều đã liệt kê ở Bước 1. `web_search` chỉ dùng 1 trường hợp: khi 1 nguồn xác định fail và cần backup.
+
+### 4. Giới hạn tổng số fetch
+
+- **Tối đa 15 WebFetch per run** (trung bình ~1.3 fetch/article)
+- **Tối đa 1 WebSearch per run** (chỉ khi 1 nguồn fail)
+- Nguồn nào fetch > 10s → skip, chuyển bài khác (không retry)
+
+### 5. Batch dedup check
+
+Check toàn bộ candidate URLs/titles qua blocklist trong 1 turn (tính toán cục bộ, không cần tool call). Không check từng bài một.
+
+### 6. Output ngắn gọn — nhắm thẳng kết quả
+
+- Không planning verbose trước khi act
+- Không recap/summarize giữa chừng
+- Không thinking dài (đã disable `--max-thinking-tokens 0` ở CLI)
+- Sau khi có đủ 11 bài, generate HTML một nhát, không sửa đi sửa lại
 
 ---
 

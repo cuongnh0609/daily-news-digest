@@ -10,6 +10,7 @@ REPO="/Volumes/BKM/git/daily-news-digest"
 LOG_DIR="$REPO/logs"
 TIMESTAMP=$(date +"%Y-%m-%d_%H%M%S")
 RUN_LOG="$LOG_DIR/run_${TIMESTAMP}.log"
+STREAM_LOG="$LOG_DIR/stream_${TIMESTAMP}.jsonl"
 
 mkdir -p "$LOG_DIR"
 
@@ -23,14 +24,19 @@ export PATH="/Users/cuongnh0609/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr
   echo "--- git pull ---"
   git pull --rebase origin main
 
-  echo "--- invoking claude headless (sonnet 4.6 for speed) ---"
+  echo "--- invoking claude headless (sonnet 4.6, thinking off, stream-json to $STREAM_LOG) ---"
   claude \
     --model claude-sonnet-4-6 \
+    --max-thinking-tokens 0 \
     --permission-mode bypassPermissions \
-    --print "$(cat ROUTINE_PROMPT.md)"
+    --output-format stream-json \
+    --verbose \
+    --print "$(cat ROUTINE_PROMPT.md)" \
+    >"$STREAM_LOG"
 
   CLAUDE_EXIT=$?
   echo "--- claude exit: $CLAUDE_EXIT ---"
+  echo "--- stream log size: $(wc -c <"$STREAM_LOG") bytes, $(wc -l <"$STREAM_LOG") lines ---"
 
   echo "=== Run finished: $(date -Iseconds) ==="
   exit $CLAUDE_EXIT

@@ -23,8 +23,9 @@ export PATH="/Users/cuongnh0609/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr
   echo "--- git pull ---"
   git pull --rebase origin main
 
-  echo "--- invoking claude headless ---"
+  echo "--- invoking claude headless (sonnet 4.6 for speed) ---"
   claude \
+    --model claude-sonnet-4-6 \
     --permission-mode bypassPermissions \
     --print "$(cat ROUTINE_PROMPT.md)"
 

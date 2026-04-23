@@ -62,5 +62,6 @@ If you change the prompt's contract (section IDs, classes, badge names, placehol
 
 - Primary language in source files is Vietnamese with Japanese headings and English technical terms. Preserve that mix; do not "translate to English" unless asked.
 - User is on **Claude Max** — token usage from headless `claude` runs counts against the monthly plan.
-- Default model in headless runs is whatever `claude` is configured with (usually Sonnet 4.6 or Opus 4.7 — check `claude config` if it matters).
+- **Model pinned to Sonnet 4.6** via `--model claude-sonnet-4-6` in `scripts/run_digest.sh` (faster than Opus 4.7, acceptable quality for news digest). Change there if you want to override per-run.
+- The prompt includes an "⚡ Quy tắc hiệu quả" section (parallel `web_fetch`, RSS-first, 3 fetches/article cap). Preserve these when editing — they roughly halve wall-clock time.
 - User's email for notifications: `gian@core-corp.co.jp` (via `$DIGEST_EMAIL_TO` env in the plist).

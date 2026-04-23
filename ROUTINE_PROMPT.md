@@ -108,6 +108,19 @@ Commit file state cùng với file HTML trong cùng commit.
 
 ---
 
+## ⚡ Quy tắc hiệu quả (áp dụng xuyên suốt)
+
+Routine này chạy local via cron, cần hoàn thành nhanh để không tốn điện/pin máy. Tuân thủ các rule sau để giảm wall-clock time:
+
+1. **Fetch song song** — Khi cần lấy >1 URL liên quan, invoke nhiều `web_fetch` trong **CÙNG 1 message** (parallel tool calls), không tuần tự. Ví dụ: fetch 5 bài NHK cùng lúc, không fetch từng bài một. Target: 3–5 fetch parallel per batch.
+2. **Ưu tiên `web_search` thay vì `web_fetch`** — `web_search` trả về title + snippet đủ để đánh giá bài, chỉ `web_fetch` full article khi thật sự cần content để rewrite/translate. Giảm số fetch ~50%.
+3. **Ưu tiên RSS feeds** — Khi có sẵn endpoint RSS (Zenn `https://zenn.dev/feed`, NHK RSS, Hacker News `https://hn.algolia.com/api/v1/search?tags=front_page`), dùng RSS thay vì scrape trang HTML. Parse nhanh, ít nhiễu.
+4. **Giới hạn 3 fetch per article** — Mỗi bài final chỉ cho phép fetch tối đa 3 URL (bài gốc + 1-2 link liên quan nếu cần). Không dạo quanh trang web.
+5. **Timeout sớm** — Nguồn nào fetch > 10s → skip, chuyển nguồn khác. Không retry quá 1 lần per URL.
+6. **Batch dedup check** — Check toàn bộ candidate URLs/titles qua blocklist trong 1 lượt (1 message tính toán), không check từng cái.
+
+---
+
 ## 📍 Bước 1 — Thu thập dữ liệu (ÁP DỤNG BLOCKLIST từ Bước 0)
 
 > **Với mọi bài tiềm năng**: check URL và title qua blocklist từ Bước 0.2 trước khi nhận. Nếu trùng → skip, tìm tin khác.

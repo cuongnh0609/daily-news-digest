@@ -8,12 +8,15 @@ Hướng dẫn tạo Routine tự động sinh bản tin tổng hợp mỗi 5 gi
 
 ## 📦 Gói file
 
-| File                 | Mục đích                                        |
-| -------------------- | ----------------------------------------------- |
-| `README.md`          | File này — setup guide                          |
-| `ROUTINE_PROMPT.md`  | Prompt v3 paste vào Routine                     |
-| `news_template.html` | Template HTML 2 cột (hỗ trợ cả layout JP và EN) |
-| `CLAUDE.md`          | Guide cho Claude Code khi edit repo này         |
+| File                                        | Mục đích                                             |
+| ------------------------------------------- | ---------------------------------------------------- |
+| `README.md`                                 | File này — setup guide                               |
+| `ROUTINE_PROMPT.md`                         | Prompt v3 — truyền vào `claude --print` qua wrapper  |
+| `news_template.html`                        | Template HTML 2 cột (hỗ trợ cả layout JP và EN)      |
+| `scripts/run_digest.sh`                     | Wrapper cron chạy `claude` headless + git pull/push  |
+| `scripts/notify_email.sh`                   | Gửi email qua macOS Mail.app (osascript)             |
+| `scripts/com.cuongnh.daily-news-digest.plist` | launchd plist — copy vào `~/Library/LaunchAgents/` |
+| `CLAUDE.md`                                 | Guide cho Claude Code khi edit repo này              |
 
 ---
 
@@ -59,167 +62,134 @@ Không có tin nào lặp lại trong vòng 2 ngày.
 
 ## 🎯 Tần suất & giới hạn
 
-| Mục                | Chi tiết                                                     |
-| ------------------ | ------------------------------------------------------------ |
-| **Tần suất**       | Mỗi 5 giờ từ 00:00 JST (00, 05, 10, 15, 20)                  |
-| **Số runs/ngày**   | 5 lần                                                        |
-| **Plan đang dùng** | Claude **Max** (15 runs/ngày — dùng 5/15, còn dư cho Routine khác) |
-| **Token estimate** | ~15-25K output tokens/run × 5 runs = ~75-125K tokens/ngày    |
-
-Tham khảo các plan khác: Pro 5 runs/ngày (vừa đủ lịch này, không dư), Team/Enterprise 25 runs/ngày.
+| Mục                    | Chi tiết                                                     |
+| ---------------------- | ------------------------------------------------------------ |
+| **Tần suất**           | Mỗi 5 giờ từ 00:00 JST (00, 05, 10, 15, 20)                  |
+| **Số runs/ngày**       | 5 lần                                                        |
+| **Execution model**    | **Local cron (launchd)** — gọi `claude` CLI headless trên máy bạn |
+| **Plan đang dùng**     | Claude **Max** — token usage vẫn tính vào quota hàng tháng   |
+| **Token estimate**     | ~15-25K output tokens/run × 5 runs = ~75-125K tokens/ngày    |
+| **Miss khi máy ngủ**   | ⚠️ launchd **không đánh thức** MacBook — run bị skip nếu máy sleep đúng giờ cron |
 
 ---
 
 ## ⚠️ Lưu ý quan trọng trước khi bắt đầu
 
-### Tần suất "mỗi 5 tiếng"
+### Execution model
 
-UI Routines chỉ có preset hourly/daily/weekdays/weekly. Để set "mỗi 5 tiếng từ 00:00":
+Không dùng Claude Code Routines (server-side). Thay vào đó:
 
-1. Tạo Routine với preset daily trước
-2. Dùng CLI `/schedule update` đổi sang cron: `0 0,5,10,15,20 * * *`
-
-Minimum interval là 1 giờ.
+- **launchd plist** trên máy bạn gọi `scripts/run_digest.sh` mỗi 5 tiếng
+- Wrapper pull git → gọi `claude --permission-mode bypassPermissions --print "$(cat ROUTINE_PROMPT.md)"`
+- Claude CLI crawl → sinh HTML → commit + push branch `claude/news-*` → gửi email qua Mail.app
+- State dedup (`state/last_run_urls.json`) vẫn dùng như cũ
 
 ### Timezone
 
-Phải đặt account timezone = **Asia/Tokyo (UTC+9)** trong claude.ai → Settings → General để cron chạy đúng giờ JST.
+launchd đọc **timezone hệ thống của máy** (System Settings → General → Date & Time → Time Zone). Máy đặt `Asia/Tokyo (UTC+9)` → cron chạy đúng giờ JST.
+
+### MacBook sleep
+
+launchd không có cơ chế đánh thức máy. Run tại 00:00/05:00 rất khả năng bị miss nếu máy đang sleep. Chấp nhận miss, hoặc sau này thêm `pmset schedule wake` để đánh thức Mac trước mỗi run.
 
 ---
 
-## 🛠️ Bước 1 — Chuẩn bị hạ tầng
+## 🛠️ Bước 1 — Cài đặt phụ thuộc (một lần)
 
-### 1.1. Tạo GitHub repository
+Các công cụ sau phải có trên máy:
 
 ```bash
-gh repo create daily-news-digest --private --description "Daily JP+Tech digest for N2+ SE learner"
-cd daily-news-digest
-mkdir -p news state
+# claude CLI
+claude --version         # cần Claude Max login sẵn (~/.claude/ credentials)
+
+# gh CLI (cho git push)
+gh auth status            # cần login với account có write access vào repo
+
+# git
+git --version
 ```
 
-### 1.2. Commit template + prompt
+Đã check trên máy hiện tại: ✅ `claude` tại `/Users/cuongnh0609/.local/bin/claude` (v2.1.118), ✅ `gh` login `cuongnh0609`.
+
+---
+
+## 🛠️ Bước 2 — Cài launchd plist
 
 ```bash
-# Copy các file trong bộ này vào repo
-cp /path/to/routine/news_template.html .
-cp /path/to/routine/ROUTINE_PROMPT.md .
+# Copy plist vào LaunchAgents
+cp scripts/com.cuongnh.daily-news-digest.plist ~/Library/LaunchAgents/
 
-# Tạo state file ban đầu (empty runs array, routine sẽ populate)
-cat > state/last_run_urls.json <<'EOF'
-{
-  "last_run_at": null,
-  "runs": []
-}
-EOF
+# Load vào launchd
+launchctl bootstrap gui/$UID ~/Library/LaunchAgents/com.cuongnh.daily-news-digest.plist
 
-git add .
-git commit -m "init: routine template and prompt"
-git push origin main
+# Xác nhận đã load
+launchctl list | grep daily-news-digest
 ```
 
-### 1.3. GitHub Pages (hiện tại: **không bật**)
+Output `launchctl list` nên thấy: `-    0    com.cuongnh.daily-news-digest` (cột giữa 0 = chưa chạy, cột trái `-` = không đang chạy).
 
-Repo đang **private** trên GitHub Free — plan không hỗ trợ Pages cho private repo. Cách xem HTML hiện tại:
+### Thay đổi lịch
 
-- Mở link GitHub code view (Slack sẽ gửi link này) → bấm **Raw** → save HTML về → mở local browser
-- Hoặc `git clone` + mở file `news/YYYY-MM-DD_HH.html` trực tiếp
-- Nếu muốn Pages: upgrade GitHub Pro (~$4/mo), hoặc đổi repo sang public
-
----
-
-## 🔌 Bước 2 — Connect dịch vụ
-
-### 2.1. Cài Claude GitHub App
-
-Vào claude.ai/code → Settings → GitHub → install app vào repo `daily-news-digest`.
-
-### 2.2. Connect Slack
-
-claude.ai → Settings → Connectors → Add Slack. OAuth vào workspace của bạn. Cần scope `chat:write`, `im:write`.
-
-### 2.3. Kiểm tra
-
-claude.ai/code/routines → đảm bảo GitHub + Slack xuất hiện trong available connectors.
-
----
-
-## 🚀 Bước 3 — Tạo Routine
-
-### Qua web UI (khuyến nghị lần đầu)
-
-1. https://claude.ai/code/routines → **New routine**
-2. Điền form:
-
-| Field                                | Giá trị                                   |
-| ------------------------------------ | ----------------------------------------- |
-| **Name**                             | `デイリーダイジェスト — 5h cadence`       |
-| **Prompt**                           | Copy toàn bộ nội dung `ROUTINE_PROMPT.md` |
-| **Model**                            | Claude Opus 4.7 (recommended for quality) |
-| **Repositories**                     | `<username>/daily-news-digest`             |
-| **Allow unrestricted branch pushes** | ❌ Tắt                                     |
-| **Environment**                      | Default                                   |
-| **Trigger**                          | Scheduled → Daily (sẽ đổi sau)            |
-| **Connectors**                       | ✅ Slack, ✅ GitHub                         |
-
-3. Click **Create**
-
-### Qua CLI
+Edit `scripts/com.cuongnh.daily-news-digest.plist` → đổi các `<integer>Hour</integer>` → reload:
 
 ```bash
-claude
-/schedule daily デイリーダイジェスト at 00:00
+launchctl bootout gui/$UID ~/Library/LaunchAgents/com.cuongnh.daily-news-digest.plist
+cp scripts/com.cuongnh.daily-news-digest.plist ~/Library/LaunchAgents/
+launchctl bootstrap gui/$UID ~/Library/LaunchAgents/com.cuongnh.daily-news-digest.plist
 ```
+
+### Thay đổi email recipient
+
+Edit key `DIGEST_EMAIL_TO` trong plist → reload như trên.
 
 ---
 
-## 🕐 Bước 4 — Đổi sang cron 5h
+## ✅ Bước 3 — Test run thủ công
+
+Trigger chạy ngay không đợi cron:
 
 ```bash
-claude
-/schedule list
-# Copy routine ID
-/schedule update <routine-id>
+# Cách 1: gọi script trực tiếp (không qua launchd)
+./scripts/run_digest.sh
+tail -f logs/run_*.log
+
+# Cách 2: trigger qua launchd
+launchctl kickstart -k gui/$UID/com.cuongnh.daily-news-digest
+tail -f logs/launchd.stderr.log logs/launchd.stdout.log logs/run_*.log
 ```
 
-Khi prompt hỏi về schedule:
+Checklist sau khi run xong:
 
-```
-Custom cron: 0 0,5,10,15,20 * * *
-```
-
----
-
-## ✅ Bước 5 — Test run
-
-1. Routine detail page → **Run now**
-2. Đợi 2–5 phút (11 bài, agents cần fetch nhiều source + check blocklist)
-3. Kiểm tra:
-   - [ ] File `news/YYYY-MM-DD_HH.html` được commit
-   - [ ] File có đủ 3 section: 5 + 3 + 3 = 11 bài
-   - [ ] Layout JP có đủ: tin JP + dịch VN + vocab + grammar
-   - [ ] Layout EN có đủ: tin EN + impact badge + dịch VN + impact note + terminology
-   - [ ] Dark mode toggle ở góc phải hoạt động (Light/System/Dark)
-   - [ ] Slack DM nhận được với tất cả 11 tiêu đề + link
-   - [ ] `state/last_run_urls.json` được update với 11 URL + titles mới
-   - [ ] **Chạy Routine lần 2 (Run now) sau 5 phút → kiểm tra không có tin trùng**
+- [ ] File `news/YYYY-MM-DD_HH.html` được commit
+- [ ] Branch mới `claude/news-*` được push lên GitHub
+- [ ] File có đủ 3 section: 5 + 3 + 3 = 11 bài
+- [ ] Layout JP: tin JP + dịch VN + vocab + grammar
+- [ ] Layout EN: tin EN + impact badge + dịch VN + impact note + terminology
+- [ ] Dark mode toggle hoạt động
+- [ ] Email nhận được ở `gian@core-corp.co.jp` (Mail.app sent từ account default)
+- [ ] `state/last_run_urls.json` được update
+- [ ] **Chạy lần 2 sau 5 phút → kiểm tra không có tin trùng**
 
 ### Các lỗi hay gặp
 
-| Triệu chứng              | Xử lý                                                        |
-| ------------------------ | ------------------------------------------------------------ |
-| Mục B thiếu bài          | Mở rộng search tag trên Zenn/Qiita (thêm `web`, `javascript`) |
-| Mục C ít tin high-impact | Có thể giảm threshold, chấp nhận nhiều medium-impact         |
-| Slack message quá dài    | Giảm số tiêu đề hiển thị xuống 2-3 đầu mỗi section           |
-| Dịch JP → VN cứng        | Chỉnh prompt — thêm hướng dẫn "không dịch word-by-word"      |
-| X post không crawl được  | Dùng web_search `site:x.com @account` thay vì fetch trực tiếp |
+| Triệu chứng                    | Xử lý                                                        |
+| ------------------------------ | ------------------------------------------------------------ |
+| `claude: command not found` trong log | Edit `scripts/run_digest.sh` → thêm path tới `claude` vào `PATH` |
+| `gh` push fail (auth)          | `gh auth login` lại, check `~/.config/gh/hosts.yml`          |
+| Email không gửi                | Mail.app chưa configured → mở Mail.app setup account, hoặc đổi `notify_email.sh` sang curl-SMTP |
+| Mục B thiếu bài                | Mở rộng search tag trên Zenn/Qiita (thêm `web`, `javascript`) |
+| Mục C ít tin high-impact       | Có thể giảm threshold, chấp nhận nhiều medium-impact         |
+| Dịch JP → VN cứng              | Chỉnh prompt — thêm hướng dẫn "không dịch word-by-word"      |
+| X post không crawl được        | Dùng web_search `site:x.com @account` thay vì fetch trực tiếp |
+| launchd không chạy             | `log show --predicate 'subsystem == "com.apple.xpc.launchd"' --last 1h --style compact \| grep daily-news-digest` |
 
 ---
 
 ## 📊 Monitoring
 
-- Usage: https://claude.ai/settings/usage
-- Routine runs: https://claude.ai/code/routines
-- Nếu hết quota → bật **Extra usage** trong Settings → Billing
+- **Run logs**: `logs/run_YYYY-MM-DD_HHMMSS.log` (mỗi run 1 file) + `logs/launchd.stdout.log`, `logs/launchd.stderr.log`
+- **Token usage**: `claude` session kết thúc sẽ in summary; tổng quota dùng `claude --print "show my usage"` hoặc claude.ai/settings/usage
+- **Kiểm tra launchd status**: `launchctl print gui/$UID/com.cuongnh.daily-news-digest`
 
 ---
 
@@ -227,17 +197,21 @@ Custom cron: 0 0,5,10,15,20 * * *
 
 ### Thay đổi nguồn / tiêu chí
 
-Edit `ROUTINE_PROMPT.md` trong repo → copy sang Routine prompt qua web UI hoặc `/schedule update`.
+Edit `ROUTINE_PROMPT.md` → commit + push. Lần chạy cron tiếp theo sẽ dùng prompt mới (wrapper `git pull` trước khi gọi claude).
 
 ### Pause tạm thời
 
-Routine detail page → toggle **Repeats** off.
+```bash
+launchctl bootout gui/$UID ~/Library/LaunchAgents/com.cuongnh.daily-news-digest.plist
+```
+
+Resume: `launchctl bootstrap gui/$UID ~/Library/LaunchAgents/com.cuongnh.daily-news-digest.plist`
 
 ### Xem lịch sử output
 
 - Branch `claude/news-*` trong GitHub repo: https://github.com/cuongnh0609/daily-news-digest/branches
-- File HTML: `news/YYYY-MM-DD_HH.html` trong mỗi branch → bấm Raw để tải
-- Session log: claude.ai/code sessions
+- File HTML: `news/YYYY-MM-DD_HH.html` trong mỗi branch → bấm Raw để tải về, hoặc `git checkout claude/news-...` local
+- Run logs: `ls -lt logs/run_*.log | head`
 
 ---
 
@@ -246,15 +220,19 @@ Routine detail page → toggle **Repeats** off.
 ```
 daily-news-digest/
 ├── README.md
-├── CLAUDE.md                  # Guide cho Claude Code
-├── ROUTINE_PROMPT.md          # Source of truth cho prompt
-├── news_template.html         # Template để routine dùng
+├── CLAUDE.md                              # Guide cho Claude Code
+├── ROUTINE_PROMPT.md                      # Source of truth cho prompt
+├── news_template.html                     # Template HTML
+├── scripts/
+│   ├── run_digest.sh                      # cron wrapper
+│   ├── notify_email.sh                    # email qua Mail.app
+│   └── com.cuongnh.daily-news-digest.plist # launchd plist
 ├── news/
 │   ├── 2026-04-23_00.html
-│   ├── 2026-04-23_05.html
 │   └── ...
 ├── state/
-│   └── last_run_urls.json     # Anti-duplicate state (rolling 7-day)
+│   └── last_run_urls.json                 # Anti-duplicate state (7-day rolling)
+├── logs/                                  # .gitignore'd — launchd + run logs
 └── .gitignore
 ```
 

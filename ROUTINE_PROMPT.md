@@ -345,35 +345,42 @@ git push origin claude/news-YYYY-MM-DD-HH
 
 ---
 
-## 💬 Bước 5 — Thông báo Slack
+## 💬 Bước 5 — Thông báo Email
 
-Gửi DM cho user (@cuongnh). Với tổng 11 bài, hiển thị đủ tất cả tiêu đề:
+Sau khi push branch thành công, gửi email summary qua script `./scripts/notify_email.sh` (dùng macOS Mail.app, recipient đọc từ env `DIGEST_EMAIL_TO`, default `gian@core-corp.co.jp`).
 
-```
-🗞️ *デイリーダイジェスト — YYYY/MM/DD HH:00 JST*
+Chạy lệnh shell sau từ repo root (thay `YYYY-MM-DD-HH` bằng giá trị thực):
 
-🗾 *日本ニュース (5)*
+```bash
+cat <<'EMAIL_BODY' | ./scripts/notify_email.sh "🗞️ デイリーダイジェスト — YYYY/MM/DD HH:00 JST"
+🗾 日本ニュース (5)
 • [tiêu đề 1]
 • [tiêu đề 2]
 • [tiêu đề 3]
 • [tiêu đề 4]
 • [tiêu đề 5]
 
-🇯🇵 *Tech JP (3)*
+🇯🇵 Tech JP (3)
 • [tiêu đề 1]
 • [tiêu đề 2]
 • [tiêu đề 3]
 
-🌐 *Global Tech (3)*
-• [title 1] _🔴 HIGH_
-• [title 2] _🟠 MEDIUM_
-• [title 3] _🟡 LOW_
+🌐 Global Tech (3) — 🔴<N> 🟠<N> 🟡<N>
+• [title 1] 🔴 HIGH
+• [title 2] 🟠 MEDIUM
+• [title 3] 🟡 LOW
 
-📎 https://github.com/cuongnh0609/daily-news-digest/blob/claude/news-YYYY-MM-DD-HH/news/YYYY-MM-DD_HH.html
-📎 Raw: https://raw.githubusercontent.com/cuongnh0609/daily-news-digest/claude/news-YYYY-MM-DD-HH/news/YYYY-MM-DD_HH.html?token=<github raw token if prompted>
+Branch: https://github.com/cuongnh0609/daily-news-digest/tree/claude/news-YYYY-MM-DD-HH
+File:   https://github.com/cuongnh0609/daily-news-digest/blob/claude/news-YYYY-MM-DD-HH/news/YYYY-MM-DD_HH.html
+
+Repo đang private — bấm "Raw" trên GitHub để tải HTML, hoặc git pull + mở file local.
+EMAIL_BODY
 ```
 
-Repo đang **private** (chưa bật Pages). Link đầu mở GitHub code view — bấm "Raw" để tải HTML về xem local, hoặc clone repo + mở file trực tiếp. Mỗi tin mục C gắn emoji impact (🔴🟠🟡) ở cuối tiêu đề.
+**Quy tắc body:**
+- Hiển thị đủ 11 tiêu đề (5 + 3 + 3), không rút gọn
+- Mục C: mỗi tin gắn impact marker ở cuối; dòng đầu section summary số lượng mỗi mức
+- Kết thúc với link branch + link file (code view trên GitHub)
 
 ---
 

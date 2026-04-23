@@ -117,11 +117,13 @@ git commit -m "init: routine template and prompt"
 git push origin main
 ```
 
-### 1.3. (Khuyến nghị) Bật GitHub Pages
+### 1.3. GitHub Pages (hiện tại: **không bật**)
 
-Settings → Pages → Source: `Deploy from branch` → `main` → `/` → Save.
+Repo đang **private** trên GitHub Free — plan không hỗ trợ Pages cho private repo. Cách xem HTML hiện tại:
 
-URL: `https://<username>.github.io/daily-news-digest/news/YYYY-MM-DD_HH.html`
+- Mở link GitHub code view (Slack sẽ gửi link này) → bấm **Raw** → save HTML về → mở local browser
+- Hoặc `git clone` + mở file `news/YYYY-MM-DD_HH.html` trực tiếp
+- Nếu muốn Pages: upgrade GitHub Pro (~$4/mo), hoặc đổi repo sang public
 
 ---
 
@@ -233,8 +235,8 @@ Routine detail page → toggle **Repeats** off.
 
 ### Xem lịch sử output
 
-- HTML: `https://<username>.github.io/daily-news-digest/news/`
-- Branch `claude/news-*` trong GitHub repo
+- Branch `claude/news-*` trong GitHub repo: https://github.com/cuongnh0609/daily-news-digest/branches
+- File HTML: `news/YYYY-MM-DD_HH.html` trong mỗi branch → bấm Raw để tải
 - Session log: claude.ai/code sessions
 
 ---

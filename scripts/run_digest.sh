@@ -6,7 +6,7 @@
 
 set -euo pipefail
 
-REPO="/Volumes/BKM/git/daily-news-digest"
+REPO="/Users/cuongnh0609/git/daily-news-digest"
 LOG_DIR="$REPO/logs"
 TIMESTAMP=$(date +"%Y-%m-%d_%H%M%S")
 RUN_LOG="$LOG_DIR/run_${TIMESTAMP}.log"

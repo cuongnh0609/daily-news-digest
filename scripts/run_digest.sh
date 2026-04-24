@@ -21,7 +21,9 @@ export PATH="/Users/cuongnh0609/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr
   echo "=== Run started: $(date -Iseconds) ==="
   cd "$REPO"
 
-  echo "--- git pull ---"
+  echo "--- git: checkout main + pull ---"
+  # Previous run may have left us on a claude/news-* branch. Always start on main.
+  git checkout main
   git pull --rebase origin main
 
   echo "--- invoking claude headless (sonnet 4.6, thinking off, stream-json to $STREAM_LOG) ---"

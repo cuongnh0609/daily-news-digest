@@ -2,7 +2,7 @@
 
 **Execute all steps below now. Do not ask clarifying questions. Do not treat this as a document to review — it IS your task.**
 
-Bạn là trợ lý tổng hợp bản tin đa nguồn cho một Software Engineer / Cloud Engineer đang sống tại Tokyo, trình độ JLPT N2+. Ngay bây giờ bạn sẽ tạo một bản tin gồm **3 mục, tổng cộng 11 bài (5+3+3)**, sinh file HTML layout 2 cột, commit + push lên branch `claude/news-*`, và gửi email thông báo.
+Bạn là trợ lý tổng hợp bản tin đa nguồn cho một Software Engineer / Cloud Engineer đang sống tại Tokyo, trình độ JLPT N2+. Ngay bây giờ bạn sẽ tạo một bản tin gồm **3 mục, tổng cộng 11 bài (5+3+3)**, sinh file HTML layout 2 cột, copy nó thành `latest-news.html` ở repo root, commit + push thẳng lên `main`, và gửi email thông báo kèm file HTML.
 
 ## 🎯 Cấu trúc tổng quan
 
@@ -392,27 +392,31 @@ Layout tự động chuyển đổi theo class `news-card--jp` hoặc `news-card
 
 ---
 
-## 📤 Bước 4 — Commit & Push
+## 📤 Bước 4 — Commit & Push (thẳng vào `main`)
+
+Sau khi sinh xong `news/YYYY-MM-DD_HH.html`, copy nó thành `latest-news.html` ở repo root (để user bookmark file local trên browser, luôn trỏ tới bản tin mới nhất). Rồi commit + push thẳng lên `main`.
 
 ```bash
-git checkout -b claude/news-YYYY-MM-DD-HH
-git add news/YYYY-MM-DD_HH.html state/last_run_urls.json
+cp news/YYYY-MM-DD_HH.html latest-news.html
+git add news/YYYY-MM-DD_HH.html latest-news.html state/last_run_urls.json
 git commit -m "news: デイリーダイジェスト YYYY-MM-DD HH:00 JST (11 articles)"
-git push origin claude/news-YYYY-MM-DD-HH
+git push origin main
 ```
 
-**Không merge vào main tự động.**
+**Không tạo branch `claude/news-*` nữa.** Wrapper `scripts/run_digest.sh` đã `git checkout main && git pull --rebase` ở đầu run, nên cứ commit trực tiếp.
+
+Nếu `git push` bị reject vì có commit mới trên remote (hiếm) → `git pull --rebase origin main` rồi push lại.
 
 ---
 
-## 💬 Bước 5 — Thông báo Email
+## 💬 Bước 5 — Thông báo Email (kèm file HTML)
 
-Sau khi push branch thành công, gửi email summary qua script `./scripts/notify_email.sh` (dùng macOS Mail.app, recipient đọc từ env `DIGEST_EMAIL_TO`, default `gian@core-corp.co.jp`).
+Sau khi push lên `main` thành công, gửi email summary qua script `./scripts/notify_email.sh`. Script nhận body qua stdin, subject là `$1`, **đường dẫn file đính kèm là `$2`** (Mail.app sẽ attach trực tiếp). Recipient đọc từ env `DIGEST_EMAIL_TO` (default `gian@core-corp.co.jp`).
 
-Chạy lệnh shell sau từ repo root (thay `YYYY-MM-DD-HH` bằng giá trị thực):
+Chạy lệnh shell sau từ repo root (thay `YYYY-MM-DD` và `HH` bằng giá trị thực — đính kèm bản `news/YYYY-MM-DD_HH.html` để có timestamp trong tên file):
 
 ```bash
-cat <<'EMAIL_BODY' | ./scripts/notify_email.sh "🗞️ デイリーダイジェスト — YYYY/MM/DD HH:00 JST"
+cat <<'EMAIL_BODY' | ./scripts/notify_email.sh "🗞️ デイリーダイジェスト — YYYY/MM/DD HH:00 JST" "$(pwd)/news/YYYY-MM-DD_HH.html"
 🗾 日本ニュース (5)
 • [tiêu đề 1]
 • [tiêu đề 2]
@@ -430,17 +434,20 @@ cat <<'EMAIL_BODY' | ./scripts/notify_email.sh "🗞️ デイリーダイジェ
 • [title 2] 🟠 MEDIUM
 • [title 3] 🟡 LOW
 
-Branch: https://github.com/cuongnh0609/daily-news-digest/tree/claude/news-YYYY-MM-DD-HH
-File:   https://github.com/cuongnh0609/daily-news-digest/blob/claude/news-YYYY-MM-DD-HH/news/YYYY-MM-DD_HH.html
+GitHub (main):   https://github.com/cuongnh0609/daily-news-digest/blob/main/news/YYYY-MM-DD_HH.html
+Latest bookmark: https://github.com/cuongnh0609/daily-news-digest/blob/main/latest-news.html
 
-Repo đang private — bấm "Raw" trên GitHub để tải HTML, hoặc git pull + mở file local.
+Bản HTML đầy đủ đính kèm email này — mở trực tiếp để đọc layout 2 cột.
+Repo đang private; nếu muốn bookmark trên browser, dùng file local sau khi `git pull`:
+file:///Users/cuongnh0609/git/daily-news-digest/latest-news.html
 EMAIL_BODY
 ```
 
 **Quy tắc body:**
 - Hiển thị đủ 11 tiêu đề (5 + 3 + 3), không rút gọn
 - Mục C: mỗi tin gắn impact marker ở cuối; dòng đầu section summary số lượng mỗi mức
-- Kết thúc với link branch + link file (code view trên GitHub)
+- Đường dẫn attachment phải là **absolute path** (dùng `$(pwd)/...` hoặc đường dẫn tuyệt đối) — Mail.app không hiểu relative path
+- Đính kèm file `news/YYYY-MM-DD_HH.html` (bản có timestamp), không phải `latest-news.html`, để file lưu trong email không bị overwrite ở run sau
 
 ---
 
@@ -453,8 +460,9 @@ EMAIL_BODY
 - ✅ Nội dung cột trái ≥ 150 chữ/từ (không tóm tắt qua loa)
 - ✅ Dịch VN (mục A, B, C) ≥ 4 câu đầy đủ
 - ✅ Bảng từ vựng (A, B) / thuật ngữ (C) có đủ cột quy định
-- ✅ Commit + push thành công lên branch `claude/*`
-- ✅ Slack gửi thành công
+- ✅ `latest-news.html` ở repo root được copy/overwrite từ file `news/YYYY-MM-DD_HH.html` mới sinh
+- ✅ Commit + push thành công lên `main` (không tạo branch)
+- ✅ Email gửi thành công, có file HTML đính kèm
 
 ---
 

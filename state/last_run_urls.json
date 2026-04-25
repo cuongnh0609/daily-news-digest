@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-04-25T20:00:00+09:00",
+  "last_run_at": "2026-04-26T01:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-04-26T01:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6577640",
+        "https://news.yahoo.co.jp/pickup/6577619",
+        "https://news.yahoo.co.jp/pickup/6577645",
+        "https://www.itmedia.co.jp/news/articles/2604/24/news112.html",
+        "https://www.itmedia.co.jp/news/articles/2604/25/news024.html",
+        "https://zenn.dev/tomokusaba/articles/8d9f4b3cdd996e",
+        "https://zenn.dev/yuden/articles/playwright-auto-heal-claude-code",
+        "https://zenn.dev/winky/articles/envguard-ai-env-secret",
+        "https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot",
+        "https://simonwillison.net/2026/Apr/24/llm/",
+        "https://www.publickey1.jp/blog/26/cloudflareaicloudflare_artifactsgitrestful_api.html"
+      ],
+      "titles": [
+        "米軍施設の防護強化提案 政府検討",
+        "800kgの鉄板と地面に挟まれ 死亡",
+        "イラン外相 パキスタン首相と会談",
+        "高度AIによるサイバー攻撃、片山金融相「今そこにある危機」",
+        "MetaとAWSが提携 エージェント型AI強化に最新のArmベースチップ「Graviton5」を大量採用",
+        "Custom Agents と Subagents で始める自律オーケストレーション入門",
+        "人間が寝ている間にClaude CodeがPlaywrightのE2Eテストを直してPRを出す",
+        "AIツールに気づかず秘密鍵を渡していた——envguardで事前チェック",
+        "GPT-5.5 is generally available for GitHub Copilot",
+        "llm 0.31",
+        "Cloudflare Artifacts: AI Agent File System with Git-Compatible Version Control"
+      ]
+    },
     {
       "run_at": "2026-04-25T20:00:00+09:00",
       "urls": [

@@ -1,4 +1,34 @@
 {
-  "last_run_at": null,
-  "runs": []
+  "last_run_at": "2026-04-25T20:00:00+09:00",
+  "runs": [
+    {
+      "run_at": "2026-04-25T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6577614",
+        "https://news.yahoo.co.jp/pickup/6577611",
+        "https://news.yahoo.co.jp/pickup/6577597",
+        "https://news.yahoo.co.jp/pickup/6577598",
+        "https://www.anthropic.com/news/anthropic-nec",
+        "https://zenn.dev/nka21/articles/claude-code-multi-agent-reviewer",
+        "https://zenn.dev/makocchan/articles/whats_agents_cli",
+        "https://zenn.dev/softbank/articles/e9b87af5589994",
+        "https://api-docs.deepseek.com/news/news260424",
+        "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+        "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/"
+      ],
+      "titles": [
+        "岩手・大槌町の山火事が拡大続く — 避難1,541世帯・1,176ヘクタール焼失",
+        "尼崎脱線事故から21年 — 最後に救出された生存者が語る苦悩",
+        "「トー横」周辺の少年少女補導、5年間で10倍に急増",
+        "弁護士の苦悩 — 16年間担当した依頼人への死刑判決",
+        "AnthropicとNECが提携 — 日本最大規模のAIエンジニア組織を構築へ",
+        "AIレビューの精度を上げる — Claude Code マルチエージェント検証システムの設計",
+        "Google Cloud Next '26発表「agents-cli」の中身 — AIエージェント開発の全工程をCLIで完結",
+        "Google Cloud Next '26 現地レポ — AIエージェントがパイロット段階から本番運用へ",
+        "DeepSeek V4 Released: Near-Frontier Performance at a Fraction of the Price",
+        "Google Plans to Invest Up to $40 Billion in Anthropic",
+        "OpenAI Releases GPT-5.5 Prompting Guide: A New Model Family Requiring Fresh Optimization"
+      ]
+    }
+  ]
 }

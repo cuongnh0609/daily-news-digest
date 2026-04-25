@@ -1,0 +1,1383 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>デイリーダイジェスト - 2026-04-25 20:00 JST</title>
+<style>
+  :root,
+  [data-theme="light"] {
+    --bg: #f8f5f0;
+    --card: #ffffff;
+    --card-alt: #fdfcf8;
+    --ink: #1a1a1a;
+    --ink-soft: #4a4a4a;
+    --accent-jp: #b91c1c;
+    --accent-tech-jp: #059669;
+    --accent-global: #0369a1;
+    --accent-soft-jp: #fef2f2;
+    --accent-soft-tech-jp: #ecfdf5;
+    --accent-soft-global: #f0f9ff;
+    --sub: #6b6b6b;
+    --border: #e5e1da;
+    --divider: #d4cfc5;
+    --jp-mark: #c2410c;
+    --vi: #0369a1;
+    --vi-bg: #f0f9ff;
+    --vi-ink: #0c4a6e;
+    --grammar: #7c3aed;
+    --grammar-bg: #fafaf5;
+    --code-bg: #f1efe9;
+    --note-bg: #fef9e7;
+    --note-border: #d69e2e;
+    --note-ink: #744210;
+    --impact-high: #dc2626;
+    --impact-med: #ea580c;
+    --impact-low: #ca8a04;
+    --header-gradient-start: #fafaf5;
+    --shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+
+  [data-theme="dark"] {
+    --bg: #0f0e0c;
+    --card: #1a1814;
+    --card-alt: #15130f;
+    --ink: #e8e4dc;
+    --ink-soft: #b8b4ac;
+    --accent-jp: #f87171;
+    --accent-tech-jp: #34d399;
+    --accent-global: #60a5fa;
+    --accent-soft-jp: #2a1515;
+    --accent-soft-tech-jp: #0d2820;
+    --accent-soft-global: #0c2440;
+    --sub: #8b8680;
+    --border: #332f28;
+    --divider: #2a2620;
+    --jp-mark: #fb923c;
+    --vi: #60a5fa;
+    --vi-bg: #0c2440;
+    --vi-ink: #bfdbfe;
+    --grammar: #c4b5fd;
+    --grammar-bg: #1c1a16;
+    --code-bg: #2a2620;
+    --note-bg: #2a2410;
+    --note-border: #ca8a04;
+    --note-ink: #fde68a;
+    --impact-high: #ef4444;
+    --impact-med: #f97316;
+    --impact-low: #eab308;
+    --header-gradient-start: #1c1a16;
+    --shadow: 0 1px 3px rgba(0,0,0,0.3);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme]) {
+      --bg: #0f0e0c;
+      --card: #1a1814;
+      --card-alt: #15130f;
+      --ink: #e8e4dc;
+      --ink-soft: #b8b4ac;
+      --accent-jp: #f87171;
+      --accent-tech-jp: #34d399;
+      --accent-global: #60a5fa;
+      --accent-soft-jp: #2a1515;
+      --accent-soft-tech-jp: #0d2820;
+      --accent-soft-global: #0c2440;
+      --sub: #8b8680;
+      --border: #332f28;
+      --divider: #2a2620;
+      --jp-mark: #fb923c;
+      --vi: #60a5fa;
+      --vi-bg: #0c2440;
+      --vi-ink: #bfdbfe;
+      --grammar: #c4b5fd;
+      --grammar-bg: #1c1a16;
+      --code-bg: #2a2620;
+      --note-bg: #2a2410;
+      --note-border: #ca8a04;
+      --note-ink: #fde68a;
+      --impact-high: #ef4444;
+      --impact-med: #f97316;
+      --impact-low: #eab308;
+      --header-gradient-start: #1c1a16;
+      --shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", "Times New Roman", serif;
+    background: var(--bg);
+    color: var(--ink);
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 2rem 2rem 4rem;
+    line-height: 1.75;
+  }
+  header.page-head {
+    border-bottom: 3px double var(--accent-jp);
+    padding-bottom: 1.2rem;
+    margin-bottom: 2.5rem;
+    text-align: center;
+  }
+  header.page-head h1 {
+    font-size: 2rem;
+    margin: 0 0 0.4rem;
+    letter-spacing: 0.08em;
+  }
+  header.page-head .meta {
+    color: var(--sub);
+    font-size: 0.95rem;
+    font-family: system-ui, sans-serif;
+  }
+
+  nav.toc {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+    font-family: system-ui, sans-serif;
+    font-size: 0.9rem;
+  }
+  nav.toc a {
+    text-decoration: none;
+    padding: 6px 14px;
+    border-radius: 20px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--ink);
+    transition: all 0.2s;
+  }
+  nav.toc a:hover { background: var(--accent-soft-jp); color: var(--accent-jp); }
+
+  section.digest-section { margin-bottom: 3rem; }
+  .section-title {
+    font-size: 1.5rem;
+    padding: 0.6rem 1.2rem;
+    margin: 0 0 1.5rem;
+    border-radius: 4px;
+    font-family: system-ui, "Noto Sans", sans-serif;
+    font-weight: 600;
+  }
+  #japan-news .section-title {
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    border-left: 5px solid var(--accent-jp);
+  }
+  #japan-tech .section-title {
+    background: var(--accent-soft-tech-jp);
+    color: var(--accent-tech-jp);
+    border-left: 5px solid var(--accent-tech-jp);
+  }
+  #global-tech .section-title {
+    background: var(--accent-soft-global);
+    color: var(--accent-global);
+    border-left: 5px solid var(--accent-global);
+  }
+
+  article.news-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    margin-bottom: 1.5rem;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+  }
+  .card-header {
+    padding: 1rem 1.5rem;
+    background: linear-gradient(to bottom, var(--header-gradient-start), var(--card));
+    border-bottom: 1px solid var(--border);
+  }
+  .card-header h3 {
+    margin: 0;
+    font-size: 1.15rem;
+    line-height: 1.5;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .news-no {
+    display: inline-block;
+    font-size: 0.7rem;
+    padding: 3px 9px;
+    border-radius: 3px;
+    font-family: system-ui, sans-serif;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  #japan-news .news-no { background: var(--accent-jp); color: white; }
+  #japan-tech .news-no { background: var(--accent-tech-jp); color: white; }
+  #global-tech .news-no { background: var(--accent-global); color: white; }
+
+  .card-body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .col {
+    padding: 1.25rem 1.5rem;
+  }
+  .col-left {
+    border-right: 1px solid var(--divider);
+  }
+  .col-right {
+    background: var(--card-alt);
+  }
+  .col-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--sub);
+    font-family: system-ui, sans-serif;
+    margin-bottom: 0.6rem;
+    font-weight: 600;
+  }
+
+  .content-text {
+    font-size: 1rem;
+    line-height: 1.85;
+    margin: 0 0 1rem;
+    text-align: justify;
+  }
+  .content-text.lang-en {
+    font-family: "Georgia", "Times New Roman", serif;
+  }
+  .content-text.lang-ja {
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+  }
+
+  .translation-vi {
+    font-family: "Noto Sans", system-ui, sans-serif;
+    font-size: 0.95rem;
+    line-height: 1.75;
+    margin: 1rem 0;
+    padding: 0.8rem 1rem;
+    background: var(--vi-bg);
+    border-left: 3px solid var(--vi);
+    border-radius: 2px;
+    color: var(--vi-ink);
+  }
+  .translation-vi::before {
+    content: "🇻🇳 ";
+    font-weight: bold;
+  }
+
+  .impact-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: system-ui, sans-serif;
+    font-size: 0.8rem;
+    margin: 0.8rem 0;
+    padding: 0.4rem 0;
+  }
+  .impact-badge {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 3px;
+    font-weight: 600;
+    font-size: 0.75rem;
+    color: white;
+  }
+  .impact-badge.high { background: var(--impact-high); }
+  .impact-badge.medium { background: var(--impact-med); }
+  .impact-badge.low { background: var(--impact-low); }
+  .impact-text { color: var(--sub); }
+
+  .impact-note {
+    font-family: system-ui, sans-serif;
+    font-size: 0.88rem;
+    color: var(--note-ink);
+    padding: 0.55rem 0.85rem;
+    background: var(--note-bg);
+    border-left: 3px solid var(--note-border);
+    border-radius: 2px;
+    margin: 0.6rem 0 1rem;
+  }
+  .impact-note::before { content: "💡 "; }
+
+  .edu-block {
+    margin-top: 1rem;
+    font-family: system-ui, "Noto Sans", sans-serif;
+  }
+  .edu-block h4 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--sub);
+    margin: 0.8rem 0 0.4rem;
+    border-bottom: 1px dotted var(--border);
+    padding-bottom: 3px;
+  }
+  table.vocab, table.term-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+  }
+  table.vocab th, table.vocab td,
+  table.term-table th, table.term-table td {
+    text-align: left;
+    padding: 6px 8px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  table.vocab th {
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    font-weight: 600;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+  }
+  table.term-table th {
+    background: var(--accent-soft-global);
+    color: var(--accent-global);
+    font-weight: 600;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+  }
+  td.jp-word { font-family: "Hiragino Mincho ProN", serif; font-size: 1rem; white-space: nowrap; }
+  td.reading { color: var(--sub); font-size: 0.8rem; white-space: nowrap; }
+  td.hanviet { color: var(--accent-jp); font-style: italic; font-size: 0.8rem; white-space: nowrap; }
+  td.meaning { font-size: 0.85rem; }
+  td.term-en { font-family: "SF Mono", Monaco, monospace; font-size: 0.9rem; font-weight: 600; color: var(--accent-global); white-space: nowrap; }
+  td.term-pron { font-size: 0.8rem; color: var(--sub); font-style: italic; white-space: nowrap; }
+  td.term-explain { font-size: 0.85rem; line-height: 1.6; }
+
+  .grammar-item { margin-bottom: 0.7rem; font-size: 0.9rem; }
+  .grammar-item strong {
+    color: var(--grammar);
+    font-size: 0.95rem;
+    display: inline-block;
+    margin-bottom: 2px;
+  }
+  .example {
+    background: var(--grammar-bg);
+    padding: 0.55rem 0.8rem;
+    margin-top: 0.35rem;
+    border-left: 2px solid var(--grammar);
+    font-size: 0.88rem;
+  }
+  .example .jp { font-family: "Hiragino Mincho ProN", serif; display: block; }
+  .example .vi { color: var(--vi); font-size: 0.82rem; display: block; margin-top: 3px; }
+
+  .source {
+    font-size: 0.78rem;
+    color: var(--sub);
+    margin-top: 0.8rem;
+    padding-top: 0.6rem;
+    border-top: 1px dotted var(--border);
+    font-family: system-ui, sans-serif;
+  }
+  .source a { color: var(--vi); text-decoration: none; }
+  .source a:hover { text-decoration: underline; }
+
+  code {
+    background: var(--code-bg);
+    padding: 1px 6px;
+    border-radius: 3px;
+    font-size: 0.88em;
+    font-family: "SF Mono", Monaco, "Courier New", monospace;
+  }
+
+  .theme-toggle {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 100;
+    display: flex;
+    gap: 4px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 3px;
+    font-family: system-ui, sans-serif;
+    font-size: 0.85rem;
+    box-shadow: var(--shadow);
+  }
+  .theme-toggle button {
+    background: transparent;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    color: var(--sub);
+    transition: all 0.15s;
+    font-family: inherit;
+  }
+  .theme-toggle button:hover { color: var(--ink); }
+  .theme-toggle button.active { background: var(--accent-jp); color: white; }
+  .theme-toggle button.active:hover { color: white; }
+
+  footer {
+    text-align: center;
+    color: var(--sub);
+    font-size: 0.85rem;
+    margin-top: 4rem;
+    font-family: system-ui, sans-serif;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border);
+  }
+
+  @media (max-width: 1000px) {
+    body { padding: 1rem 0.9rem 3rem; max-width: 100%; }
+    header.page-head h1 { font-size: 1.4rem; }
+    .card-body { grid-template-columns: 1fr; }
+    .col-left { border-right: none; border-bottom: 2px dashed var(--divider); }
+    .col { padding: 1rem 1.1rem; }
+    .section-title { font-size: 1.2rem; }
+    td.reading, td.hanviet, td.term-en, td.term-pron { white-space: normal; }
+  }
+</style>
+</head>
+<body>
+
+<div class="theme-toggle" role="group" aria-label="Theme selector">
+  <button type="button" data-theme-value="light" title="Light mode">☀️</button>
+  <button type="button" data-theme-value="system" title="Auto (follow system)">💻</button>
+  <button type="button" data-theme-value="dark" title="Dark mode">🌙</button>
+</div>
+
+<script>
+  (function() {
+    var saved = localStorage.getItem('digest-theme') || 'system';
+    if (saved !== 'system') {
+      document.documentElement.setAttribute('data-theme', saved);
+    }
+  })();
+</script>
+
+<header class="page-head">
+  <h1>🗞️ デイリーダイジェスト</h1>
+  <div class="meta">2026-04-25（土曜日）20:00 JST — JLPT N2+ 学習者 · SE/Cloud Engineer 向け</div>
+</header>
+
+<nav class="toc">
+  <a href="#japan-news">🗾 日本ニュース (5)</a>
+  <a href="#japan-tech">🇯🇵 Tech JP (3)</a>
+  <a href="#global-tech">🌐 Global Tech (3)</a>
+</nav>
+
+<!-- =========================================================
+     SECTION A: JAPAN NEWS — 5 articles
+     ========================================================= -->
+<section id="japan-news" class="digest-section">
+  <h2 class="section-title">🗾 日本ニュース</h2>
+
+  <!-- A-1: 山火事 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A1</span>岩手・大槌町の山火事が拡大続く — 避難1,541世帯・1,176ヘクタール焼失</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          岩手県大槌町で発生した大規模な山火事は、依然として鎮火の目処が立たず燃焼面積が1,176ヘクタールに達した。これは平成以降で2番目に大きい森林火災であり、当局は1,541世帯・3,233人に対して避難指示を継続している。地元の畜産農家の多くが牛舎の焼失を余儀なくされ、経済的損失も深刻な状況だ。消防と自衛隊が協力して空中消火を実施しているものの、強風と乾燥した気候が延焼を助長しており、住民からは「おさまる見通しが立たず、夜も眠れない」という声が相次いでいる。気象庁は当面、高温・低湿度・強風の三重苦が続くと予測しており、完全鎮火にはなお時間がかかる見通しだ。
+        </p>
+        <div class="translation-vi">
+          Vụ cháy rừng lớn tại thị trấn Otsuchi, tỉnh Iwate vẫn chưa có dấu hiệu dập tắt, với diện tích thiêu rụi lên tới 1.176 hectare — đây là vụ cháy rừng lớn thứ hai kể từ thời Heisei. Lệnh sơ tán đang được áp dụng cho 1.541 hộ gia đình với 3.233 cư dân. Nhiều hộ chăn nuôi gia súc trong vùng đã mất trắng chuồng trại, gây thiệt hại kinh tế nghiêm trọng. Lực lượng cứu hỏa và Lực lượng Phòng vệ phối hợp tiến hành dập lửa từ trên không, nhưng gió mạnh và khí hậu khô hanh liên tục khiến lửa lan rộng. Cơ quan Khí tượng dự báo tình trạng nắng nóng, độ ẩm thấp và gió mạnh sẽ còn kéo dài, khiến việc dập tắt hoàn toàn đám cháy vẫn cần thêm nhiều thời gian.
+        </div>
+        <div class="source">
+          出典: TBS NEWS DIG / Yahoo!ニュース · 2026-04-25 10:25 JST ·
+          <a href="https://news.yahoo.co.jp/pickup/6577614" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">山火事</td>
+              <td class="reading">やまかじ</td>
+              <td class="hanviet">山火事</td>
+              <td class="meaning">cháy rừng / cháy núi</td>
+            </tr>
+            <tr>
+              <td class="jp-word">焼失</td>
+              <td class="reading">しょうしつ</td>
+              <td class="hanviet">Thiêu thất</td>
+              <td class="meaning">bị thiêu rụi, mất do cháy</td>
+            </tr>
+            <tr>
+              <td class="jp-word">避難指示</td>
+              <td class="reading">ひなんしじ</td>
+              <td class="hanviet">Tị nạn chỉ thị</td>
+              <td class="meaning">lệnh sơ tán (chính thức)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">鎮火</td>
+              <td class="reading">ちんか</td>
+              <td class="hanviet">Trấn hỏa</td>
+              <td class="meaning">dập tắt đám cháy</td>
+            </tr>
+            <tr>
+              <td class="jp-word">延焼</td>
+              <td class="reading">えんしょう</td>
+              <td class="hanviet">Diên thiêu</td>
+              <td class="meaning">lửa lan rộng / cháy lan</td>
+            </tr>
+            <tr>
+              <td class="jp-word">畜産農家</td>
+              <td class="reading">ちくさんのうか</td>
+              <td class="hanviet">Súc sản nông gia</td>
+              <td class="meaning">hộ nông dân chăn nuôi gia súc</td>
+            </tr>
+            <tr>
+              <td class="jp-word">空中消火</td>
+              <td class="reading">くうちゅうしょうか</td>
+              <td class="hanviet">Không trung tiêu hỏa</td>
+              <td class="meaning">dập lửa từ trên không (bằng trực thăng)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～の目処が立たない</strong> — không có triển vọng / chưa thấy lối ra
+            <div class="example">
+              <span class="jp">鎮火の目処が立たないまま、被害が拡大している。</span>
+              <span class="vi">Đám cháy vẫn chưa có triển vọng được dập tắt, trong khi thiệt hại tiếp tục mở rộng.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～を余儀なくされる</strong> — bị buộc phải làm gì (do hoàn cảnh bắt buộc)
+            <div class="example">
+              <span class="jp">多くの農家が避難を余儀なくされた。</span>
+              <span class="vi">Nhiều hộ nông dân đã bị buộc phải sơ tán.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A-2: 尼崎脱線事故21年 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A2</span>尼崎脱線事故から21年 — 最後に救出された生存者が語る苦悩</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          2005年4月25日に発生したJR福知山線脱線事故から21年が経過した。この事故では乗客106人が亡くなり、当時大学生だった男性は事故発生から22時間後に奇跡的に生存者として救出された最後の一人となった。救出後、両脚を切断する大手術を経た彼は、身体的なリハビリだけでなく、深刻な精神的後遺症とも長年にわたって向き合い続けてきた。取材に応じた男性は「何回も死にたいと思った」と告白し、今もなお新たな病気と闘っていることを明かした。毎年4月25日には慰霊祭が行われ、遺族や生存者が犠牲者を悼む中、事故が残した傷は21年後も当事者の心身に深く刻まれている。
+        </p>
+        <div class="translation-vi">
+          Đã 21 năm trôi qua kể từ vụ tai nạn lật tàu trên tuyến Fukuchiyama của JR vào ngày 25/4/2005, khiến 106 hành khách thiệt mạng. Một nam sinh viên đại học khi đó là người sống sót cuối cùng được giải cứu, sau 22 giờ mắc kẹt trong đống đổ nát — một điều thần kỳ. Sau khi được đưa ra ngoài, anh phải trải qua ca phẫu thuật cắt cả hai chân và đối mặt với di chứng tâm lý nặng nề trong nhiều năm. Anh chia sẻ: "Tôi đã nhiều lần nghĩ đến cái chết", và tiết lộ rằng hiện tại mình đang chiến đấu với căn bệnh mới. Mỗi năm vào ngày 25/4, lễ tưởng niệm được tổ chức để tưởng nhớ các nạn nhân, nhưng vết thương mà tai nạn để lại vẫn còn hằn sâu trong tâm trí và thể xác những người trong cuộc.
+        </div>
+        <div class="source">
+          出典: 読売テレビ / Yahoo!ニュース · 2026-04-25 09:55 JST ·
+          <a href="https://news.yahoo.co.jp/pickup/6577611" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">脱線</td>
+              <td class="reading">だっせん</td>
+              <td class="hanviet">Thoát tuyến</td>
+              <td class="meaning">trật bánh, lật tàu</td>
+            </tr>
+            <tr>
+              <td class="jp-word">生存者</td>
+              <td class="reading">せいぞんしゃ</td>
+              <td class="hanviet">Sinh tồn giả</td>
+              <td class="meaning">người sống sót</td>
+            </tr>
+            <tr>
+              <td class="jp-word">後遺症</td>
+              <td class="reading">こういしょう</td>
+              <td class="hanviet">Hậu di chứng</td>
+              <td class="meaning">di chứng sau tai nạn/bệnh tật</td>
+            </tr>
+            <tr>
+              <td class="jp-word">慰霊祭</td>
+              <td class="reading">いれいさい</td>
+              <td class="hanviet">Úy linh tế</td>
+              <td class="meaning">lễ tưởng niệm người đã khuất</td>
+            </tr>
+            <tr>
+              <td class="jp-word">遺族</td>
+              <td class="reading">いぞく</td>
+              <td class="hanviet">Di tộc</td>
+              <td class="meaning">thân nhân của người đã mất</td>
+            </tr>
+            <tr>
+              <td class="jp-word">切断</td>
+              <td class="reading">せつだん</td>
+              <td class="hanviet">Thiết đoạn</td>
+              <td class="meaning">cắt đứt, phẫu thuật cắt bỏ chi</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～向き合い続ける</strong> — tiếp tục đối mặt / không ngừng đối diện
+            <div class="example">
+              <span class="jp">21年間、精神的後遺症と向き合い続けてきた。</span>
+              <span class="vi">Suốt 21 năm, anh không ngừng đối mặt với di chứng tâm lý.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～が残した傷</strong> — vết thương mà (sự kiện) để lại
+            <div class="example">
+              <span class="jp">事故が残した傷は、今も消えていない。</span>
+              <span class="vi">Vết thương mà vụ tai nạn để lại vẫn chưa biến mất.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A-3: トー横 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A3</span>「トー横」周辺の少年少女補導、5年間で10倍に急増</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          東京・歌舞伎町の一角に位置する「トー横」と呼ばれるエリアで、少年少女の補導件数が2020年から2025年にかけて10倍に急増したことが明らかになった。この場所は全国から家出や孤立した若者が集まる「たまり場」として知られており、性犯罪や薬物売買などの危険にさらされやすい環境となっている。警視庁と東京都は4月24〜25日に集中的な取り締まりを実施し、周辺のホテルやネットカフェに対しても協力を要請した。当局は未成年者の保護を強化しつつ、背景にある家庭環境の問題や貧困、孤立といった社会的課題への対応も急務だとしている。
+        </p>
+        <div class="translation-vi">
+          Số vụ cảnh sát dẫn giải thiếu niên tại khu vực gọi là "Tō-Yoko" ở Kabukicho, Tokyo đã tăng gấp 10 lần trong 5 năm từ 2020 đến 2025. Đây là nơi tập hợp thanh thiếu niên bỏ nhà ra đi hoặc cô lập từ khắp Nhật Bản, và cũng là môi trường dễ xảy ra tội phạm tình dục, buôn bán ma túy. Cảnh sát Metropolitan Tokyo và chính quyền thành phố đã triển khai chiến dịch trấn áp tập trung vào ngày 24-25/4, đồng thời yêu cầu sự phối hợp từ các khách sạn và internet cafe trong khu vực. Nhà chức trách nhấn mạnh rằng ngoài việc bảo vệ trẻ vị thành niên, cần khẩn cấp giải quyết các vấn đề xã hội nền tảng như hoàn cảnh gia đình khó khăn, nghèo đói và cô lập.
+        </div>
+        <div class="source">
+          出典: 朝日新聞 / Yahoo!ニュース · 2026-04-25 08:18 JST ·
+          <a href="https://news.yahoo.co.jp/pickup/6577597" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">補導</td>
+              <td class="reading">ほどう</td>
+              <td class="hanviet">Bổ đạo</td>
+              <td class="meaning">dẫn giải, hướng dẫn cảnh sát (với thiếu niên)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">急増</td>
+              <td class="reading">きゅうぞう</td>
+              <td class="hanviet">Cấp tăng</td>
+              <td class="meaning">tăng đột biến, tăng nhanh chóng</td>
+            </tr>
+            <tr>
+              <td class="jp-word">たまり場</td>
+              <td class="reading">たまりば</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">nơi tụ tập, tụ điểm (thường có ý tiêu cực)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">孤立</td>
+              <td class="reading">こりつ</td>
+              <td class="hanviet">Cô lập</td>
+              <td class="meaning">bị cô lập, tách biệt khỏi xã hội</td>
+            </tr>
+            <tr>
+              <td class="jp-word">取り締まり</td>
+              <td class="reading">とりしまり</td>
+              <td class="hanviet">Thủ ước</td>
+              <td class="meaning">kiểm soát, trấn áp, tuần tra</td>
+            </tr>
+            <tr>
+              <td class="jp-word">未成年者</td>
+              <td class="reading">みせいねんしゃ</td>
+              <td class="hanviet">Vị thành niên giả</td>
+              <td class="meaning">người chưa thành niên, vị thành niên</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～にさらされやすい</strong> — dễ bị phơi ra trước, dễ bị tác động bởi
+            <div class="example">
+              <span class="jp">若者は犯罪の危険にさらされやすい環境にある。</span>
+              <span class="vi">Giới trẻ đang ở trong môi trường dễ bị phơi trước những nguy hiểm tội phạm.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～も急務だとしている</strong> — cũng cho rằng đó là việc cấp thiết
+            <div class="example">
+              <span class="jp">社会的課題への対応も急務だとしている。</span>
+              <span class="vi">Cũng cho rằng việc giải quyết các vấn đề xã hội là nhiệm vụ cấp bách.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A-4: 弁護士 死刑判決 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A4</span>弁護士の苦悩 — 16年間担当した依頼人への死刑判決</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          16年間にわたって死刑囚の奥本章寛被告の弁護を担ってきた弁護士・黒原智宏氏は、依頼人が死刑判決を受けた際のショックを今も鮮明に覚えていると語った。自身の弁護が「経験不足で不十分だったのではないか」という深い後悔が、16年間という長い時間をかけた関係の中で形成されたという。二人の間には通常の弁護士と依頼人を超えた、独特の絆と信頼関係が生まれており、それが判決への苦悩をさらに深める要因となっている。この報道は、死刑制度の在り方や弁護士の心理的負担、そして司法の課題を改めて社会に問いかけるものとなっている。
+        </p>
+        <div class="translation-vi">
+          Luật sư Tomohiro Kurohara, người đã bào chữa cho tử tù Akihiro Okumoto suốt 16 năm, chia sẻ rằng ông vẫn còn nhớ rõ cú sốc khi thân chủ bị tuyên án tử hình. Nỗi ân hận rằng "liệu kinh nghiệm non kém của mình có góp phần vào bản án đó không" đã hình thành qua mối quan hệ kéo dài 16 năm. Giữa hai người đã nảy sinh một sợi dây liên kết và lòng tin vượt ra ngoài mối quan hệ luật sư-thân chủ thông thường, điều này càng khiến nỗi đau với bản án trở nên sâu sắc hơn. Bài báo đặt ra câu hỏi cho xã hội về chế độ tử hình, gánh nặng tâm lý của luật sư và những vấn đề còn tồn tại trong hệ thống tư pháp Nhật Bản.
+        </div>
+        <div class="source">
+          出典: Yahoo!ニュース · 2026-04-25 08:34 JST ·
+          <a href="https://news.yahoo.co.jp/pickup/6577598" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">死刑囚</td>
+              <td class="reading">しけいしゅう</td>
+              <td class="hanviet">Tử hình tù</td>
+              <td class="meaning">tử tù, tù nhân bị tuyên án tử hình</td>
+            </tr>
+            <tr>
+              <td class="jp-word">死刑判決</td>
+              <td class="reading">しけいはんけつ</td>
+              <td class="hanviet">Tử hình phán quyết</td>
+              <td class="meaning">bản án tử hình</td>
+            </tr>
+            <tr>
+              <td class="jp-word">弁護</td>
+              <td class="reading">べんご</td>
+              <td class="hanviet">Biện hộ</td>
+              <td class="meaning">bào chữa, biện hộ (pháp lý)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">絆</td>
+              <td class="reading">きずな</td>
+              <td class="hanviet">Kết</td>
+              <td class="meaning">sợi dây gắn kết, mối liên hệ tình cảm</td>
+            </tr>
+            <tr>
+              <td class="jp-word">苦悩</td>
+              <td class="reading">くのう</td>
+              <td class="hanviet">Khổ não</td>
+              <td class="meaning">đau khổ, dằn vặt, thống khổ</td>
+            </tr>
+            <tr>
+              <td class="jp-word">司法</td>
+              <td class="reading">しほう</td>
+              <td class="hanviet">Tư pháp</td>
+              <td class="meaning">tư pháp, hệ thống pháp luật</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～を超えた</strong> — vượt ra ngoài, vượt khỏi phạm vi
+            <div class="example">
+              <span class="jp">通常の弁護士と依頼人の関係を超えた絆が生まれた。</span>
+              <span class="vi">Một mối gắn kết đã hình thành, vượt ra ngoài mối quan hệ luật sư-thân chủ thông thường.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～問いかけるものとなっている</strong> — trở thành điều đặt ra câu hỏi cho
+            <div class="example">
+              <span class="jp">この事件は社会に問いかけるものとなっている。</span>
+              <span class="vi">Vụ án này đã trở thành điều đặt ra câu hỏi cho toàn xã hội.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A-5: Anthropic NEC Japan -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A5</span>AnthropicとNECが提携 — 日本最大規模のAIエンジニア組織を構築へ</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          米Anthropicは4月24日、NEC（日本電気株式会社）との戦略的提携を発表した。NECはAnthropicの日本初のグローバルパートナーとなり、グループ約3万人の従業員にClaudeを展開する計画だ。両社は金融・製造・サイバーセキュリティ・地方自治体向けの業界特化型AIソリューションを共同開発するとしており、NECはClaudeをセキュリティ運用センターサービスや「BluStellar」プログラムに組み込む予定だ。また、NECは日本最大規模のAIネイティブエンジニア組織を構築するため「センター・オブ・エクセレンス」を設立し、社員がClaude CodeやClaude Coworkを活用した業務を行えるよう、Anthropicのサポートのもとで研修を進める。日本のエンタープライズAI市場における本格的な競争が加速しそうだ。
+        </p>
+        <div class="translation-vi">
+          Ngày 24/4, Anthropic (Mỹ) thông báo hợp tác chiến lược với NEC (Nhật Bản Điện khí), biến NEC trở thành đối tác toàn cầu đầu tiên của Anthropic tại Nhật Bản. NEC sẽ triển khai Claude cho khoảng 30.000 nhân viên trong toàn tập đoàn. Hai công ty sẽ cùng phát triển các giải pháp AI chuyên biệt theo ngành gồm tài chính, sản xuất, an ninh mạng và chính quyền địa phương. NEC sẽ tích hợp Claude vào trung tâm vận hành bảo mật (SOC) và chương trình tư vấn doanh nghiệp BluStellar. Đặc biệt, NEC sẽ thành lập "Center of Excellence" nhằm xây dựng tổ chức kỹ sư AI-native lớn nhất Nhật Bản, với sự hỗ trợ đào tạo từ Anthropic để nhân viên sử dụng Claude Code và Claude Cowork trong công việc. Đây là tín hiệu cho thấy cuộc cạnh tranh AI doanh nghiệp tại Nhật Bản đang bước vào giai đoạn quyết liệt.
+        </div>
+        <div class="source">
+          出典: Anthropic / ITmedia · 2026-04-24 JST ·
+          <a href="https://www.anthropic.com/news/anthropic-nec" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">提携</td>
+              <td class="reading">ていけい</td>
+              <td class="hanviet">Đề huề</td>
+              <td class="meaning">hợp tác, liên kết chiến lược</td>
+            </tr>
+            <tr>
+              <td class="jp-word">展開</td>
+              <td class="reading">てんかい</td>
+              <td class="hanviet">Triển khai</td>
+              <td class="meaning">deploy, triển khai, mở rộng</td>
+            </tr>
+            <tr>
+              <td class="jp-word">業界特化型</td>
+              <td class="reading">ぎょうかいとっかがた</td>
+              <td class="hanviet">Nghiệp giới đặc hóa hình</td>
+              <td class="meaning">dạng chuyên biệt theo ngành, industry-specific</td>
+            </tr>
+            <tr>
+              <td class="jp-word">組み込む</td>
+              <td class="reading">くみこむ</td>
+              <td class="hanviet">Tổ nhập</td>
+              <td class="meaning">tích hợp vào, nhúng vào (integrate)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">研修</td>
+              <td class="reading">けんしゅう</td>
+              <td class="hanviet">Nghiên tu</td>
+              <td class="meaning">đào tạo, huấn luyện nội bộ</td>
+            </tr>
+            <tr>
+              <td class="jp-word">加速</td>
+              <td class="reading">かそく</td>
+              <td class="hanviet">Gia tốc</td>
+              <td class="meaning">tăng tốc, đẩy nhanh</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～向けの</strong> — dành cho, hướng tới (đối tượng)
+            <div class="example">
+              <span class="jp">金融・製造・自治体向けのAIソリューションを開発する。</span>
+              <span class="vi">Phát triển các giải pháp AI dành cho lĩnh vực tài chính, sản xuất và chính quyền địa phương.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～そうだ（推量）</strong> — có vẻ sẽ, hình như sẽ (suy đoán dựa trên dấu hiệu)
+            <div class="example">
+              <span class="jp">日本のAI市場における競争が加速しそうだ。</span>
+              <span class="vi">Có vẻ như cuộc cạnh tranh trên thị trường AI tại Nhật Bản sẽ tăng tốc.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<!-- =========================================================
+     SECTION B: JAPAN TECH — 3 articles
+     ========================================================= -->
+<section id="japan-tech" class="digest-section">
+  <h2 class="section-title">🇯🇵 Tech / AI in Japanese</h2>
+
+  <!-- B-1: Claude Code Multi-Agent Reviewer -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B1</span>AIレビューの精度を上げる — Claude Code マルチエージェント検証システムの設計</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          AIによるコードレビューは多数の指摘を出す一方、「これ本当に正しいの？」という確認コストが高く、実務での活用に課題が残っていた。Zennで公開されたこの記事では、Claude CodeのHaiku・Sonnet・Opusを段階的に使い分けるマルチエージェント検証システムの設計が紹介されている。まずHaikuがdiffの意味的内容を分析し、2〜4つの専門家ペルソナを動的に生成。次にSonnetによる複数エージェントが並列でそれぞれの視点からレビューを実施し、一エージェントあたり最大5件に絞ることで質を優先する。最後にOpusが実際のソースコードを参照しながら各指摘の妥当性を検証し、複数エージェントに支持された指摘には高い信頼スコアを付与する。このアーキテクチャは、人間のコードレビューにおける「防御プロセス」を再現したものとして注目されている。
+        </p>
+        <div class="translation-vi">
+          AI review code tạo ra nhiều chỉ trích nhưng chi phí kiểm tra "liệu có đúng không" quá cao, khiến việc áp dụng thực tế gặp khó khăn. Bài viết trên Zenn giới thiệu thiết kế hệ thống kiểm chứng đa agent sử dụng ba model của Claude Code — Haiku, Sonnet và Opus — theo từng giai đoạn. Đầu tiên, Haiku phân tích ngữ nghĩa của diff và tự động tạo ra 2-4 persona chuyên gia. Tiếp theo, nhiều agent Sonnet chạy song song để review từ góc độ chuyên môn riêng, mỗi agent chỉ đưa ra tối đa 5 chỉ trích để ưu tiên chất lượng. Cuối cùng, Opus tham chiếu source code thực tế để kiểm tra tính hợp lệ của từng chỉ trích, và gán điểm tin cậy cao cho những chỉ trích được nhiều agent ủng hộ. Kiến trúc này được đánh giá cao vì tái hiện "quy trình phản biện" trong code review của con người.
+        </div>
+        <div class="source">
+          出典: Zenn (@nka21) · 2026-04-24 15:24 JST ·
+          <a href="https://zenn.dev/nka21/articles/claude-code-multi-agent-reviewer" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙 (技術日本語)</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">検証</td>
+              <td class="reading">けんしょう</td>
+              <td class="hanviet">Kiểm chứng</td>
+              <td class="meaning">validate, kiểm tra tính đúng đắn</td>
+            </tr>
+            <tr>
+              <td class="jp-word">指摘</td>
+              <td class="reading">してき</td>
+              <td class="hanviet">Chỉ trích</td>
+              <td class="meaning">chỉ ra vấn đề, finding trong review</td>
+            </tr>
+            <tr>
+              <td class="jp-word">段階的</td>
+              <td class="reading">だんかいてき</td>
+              <td class="hanviet">Đoạn giai đích</td>
+              <td class="meaning">theo từng giai đoạn, step-by-step</td>
+            </tr>
+            <tr>
+              <td class="jp-word">並列</td>
+              <td class="reading">へいれつ</td>
+              <td class="hanviet">Tịnh liệt</td>
+              <td class="meaning">song song, parallel</td>
+            </tr>
+            <tr>
+              <td class="jp-word">信頼スコア</td>
+              <td class="reading">しんらいスコア</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">điểm tin cậy (confidence score)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">妥当性</td>
+              <td class="reading">だとうせい</td>
+              <td class="hanviet">Thỏa đáng tính</td>
+              <td class="meaning">tính hợp lệ, validity</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～として注目されている</strong> — đang được chú ý như là, được đánh giá cao với tư cách là
+            <div class="example">
+              <span class="jp">このシステムは人間のレビューを再現したものとして注目されている。</span>
+              <span class="vi">Hệ thống này đang được chú ý như một thứ tái hiện lại quy trình review của con người.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～に絞ることで</strong> — bằng cách giới hạn ở, nhờ việc hạn chế lại
+            <div class="example">
+              <span class="jp">5件に絞ることで、レビューの質を優先できる。</span>
+              <span class="vi">Bằng cách giới hạn ở 5 chỉ trích, có thể ưu tiên chất lượng review.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- B-2: Google agents-cli -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B2</span>Google Cloud Next '26発表「agents-cli」の中身 — AIエージェント開発の全工程をCLIで完結</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          Google Cloud Next '26で発表された「agents-cli」は、AIエージェント開発における実装・評価・デプロイのサイクルを一貫してコマンドラインから操作できるツールだ。Agent Development Kit（ADK）と連携し、<code>scaffold create</code>でプロジェクト作成、<code>lint</code>で静的解析、<code>run</code>でテスト、<code>eval run</code>で評価、そして<code>deploy</code>でCloud Run・GKE・Agent Runtimeへの本番デプロイまでが可能となる。特筆すべきはコマンドが細かく分割されており、既存のデプロイフローを保ちながら評価フェーズだけを部分的に採用するなど、段階的な導入がしやすい点だ。ツールは人間よりもClaude CodeなどのAIコーディングアシスタントによる利用を想定した設計となっており、エージェント開発のAI駆動化を加速する狙いがある。
+        </p>
+        <div class="translation-vi">
+          "agents-cli" được giới thiệu tại Google Cloud Next '26 là công cụ dòng lệnh cho phép thực hiện toàn bộ chu trình phát triển AI agent — từ implementation, evaluation đến deploy — chỉ từ terminal. Tích hợp với Agent Development Kit (ADK), công cụ hỗ trợ: tạo project bằng <code>scaffold create</code>, phân tích tĩnh với <code>lint</code>, chạy thử với <code>run</code>, đánh giá với <code>eval run</code>, và deploy lên Cloud Run, GKE hoặc Agent Runtime. Điểm nổi bật là các lệnh được chia nhỏ hợp lý, giúp dễ dàng áp dụng từng phần — chẳng hạn chỉ tích hợp giai đoạn đánh giá trong khi giữ nguyên quy trình deploy hiện có. Công cụ được thiết kế hướng tới việc sử dụng bởi AI coding assistant như Claude Code hơn là lập trình viên trực tiếp, phản ánh xu hướng AI-driven development đang ngày càng mạnh mẽ.
+        </div>
+        <div class="source">
+          出典: Zenn (@makocchan) · 2026-04-25 00:19 JST ·
+          <a href="https://zenn.dev/makocchan/articles/whats_agents_cli" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙 (技術日本語)</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">一貫して</td>
+              <td class="reading">いっかんして</td>
+              <td class="hanviet">Nhất quán</td>
+              <td class="meaning">xuyên suốt, nhất quán, end-to-end</td>
+            </tr>
+            <tr>
+              <td class="jp-word">静的解析</td>
+              <td class="reading">せいてきかいせき</td>
+              <td class="hanviet">Tĩnh đích giải tích</td>
+              <td class="meaning">static analysis (phân tích tĩnh code)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">評価</td>
+              <td class="reading">ひょうか</td>
+              <td class="hanviet">Bình giá</td>
+              <td class="meaning">đánh giá, evaluation</td>
+            </tr>
+            <tr>
+              <td class="jp-word">部分的</td>
+              <td class="reading">ぶぶんてき</td>
+              <td class="hanviet">Bộ phận đích</td>
+              <td class="meaning">một phần, partial (không toàn bộ)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">想定</td>
+              <td class="reading">そうてい</td>
+              <td class="hanviet">Tưởng định</td>
+              <td class="meaning">giả định, hướng tới (target use case)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">加速する狙い</td>
+              <td class="reading">かそくするねらい</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">mục tiêu thúc đẩy/tăng tốc (intention to accelerate)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～まで可能となる</strong> — ngay cả ... cũng trở nên khả thi
+            <div class="example">
+              <span class="jp">CLIから本番デプロイまで可能となった。</span>
+              <span class="vi">Ngay cả việc deploy lên production cũng trở nên khả thi từ CLI.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～を保ちながら</strong> — trong khi vẫn duy trì, vừa giữ vừa
+            <div class="example">
+              <span class="jp">既存のフローを保ちながら、新しい評価機能を採用できる。</span>
+              <span class="vi">Có thể áp dụng tính năng đánh giá mới trong khi vẫn duy trì flow hiện có.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- B-3: Google Cloud Next 26 on-site report -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B3</span>Google Cloud Next '26 現地レポ — AIエージェントがパイロット段階から本番運用へ</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          Google Cloud Next '26の基調講演レポートによると、GoogleのCEOトーマス・キュリアン氏は「皆さんはもうパイロットフェーズを卒業した。本当の課題はここから始まる」と強調し、エンタープライズAIが実験段階から本格稼働へと移行したことを宣言した。GoogleはAIエージェント向けの5層統合スタックを発表。「AI Hypercomputer」（計算基盤）、「Agentic Data Cloud」（データ基盤）、「Agentic Defense」（セキュリティ）、「Gemini Enterprise Agent Platform」（エージェント管理）、「Agentic Taskforce」（業務アプリ）で構成される。新たに導入される「エージェントガバナンス」機能ではID認証・レジストリ・ゲートウェイ・異常検知による本番環境でのゼロトラスト管理が可能となり、数千エージェントのスケールでの安全な運用が実現する。今後のエンタープライズ導入を支援するツールとして、可観測性やシミュレーション機能も拡充された。
+        </p>
+        <div class="translation-vi">
+          Theo báo cáo trực tiếp từ keynote của Google Cloud Next '26, CEO Thomas Kurian tuyên bố: "Các bạn đã vượt qua giai đoạn pilot. Thử thách thực sự bắt đầu từ đây" — đánh dấu bước chuyển của AI doanh nghiệp từ thử nghiệm sang vận hành thực tế. Google công bố bộ stack tích hợp 5 lớp dành cho AI agent: "AI Hypercomputer" (hạ tầng tính toán), "Agentic Data Cloud" (hạ tầng dữ liệu), "Agentic Defense" (bảo mật), "Gemini Enterprise Agent Platform" (quản lý agent), và "Agentic Taskforce" (ứng dụng nghiệp vụ). Tính năng "Agent Governance" mới cho phép quản lý zero-trust trong môi trường production với xác thực danh tính, registry, gateway và phát hiện bất thường — đảm bảo vận hành an toàn ở quy mô hàng nghìn agent. Các công cụ observability và simulation cũng được mở rộng để hỗ trợ triển khai doanh nghiệp trong thời gian tới.
+        </div>
+        <div class="source">
+          出典: Zenn / SoftBank · 2026-04-24 14:26 JST ·
+          <a href="https://zenn.dev/softbank/articles/e9b87af5589994" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙 (技術日本語)</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">本番運用</td>
+              <td class="reading">ほんばんうんよう</td>
+              <td class="hanviet">Bản phiên vận dụng</td>
+              <td class="meaning">vận hành production, chạy thật (không phải test)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">可観測性</td>
+              <td class="reading">かかんそくせい</td>
+              <td class="hanviet">Khả quan trắc tính</td>
+              <td class="meaning">observability (khả năng quan sát hệ thống)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">異常検知</td>
+              <td class="reading">いじょうけんち</td>
+              <td class="hanviet">Dị thường kiểm tri</td>
+              <td class="meaning">anomaly detection, phát hiện bất thường</td>
+            </tr>
+            <tr>
+              <td class="jp-word">ゼロトラスト</td>
+              <td class="reading">ぜろとらすと</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">zero-trust (mô hình bảo mật không tin tưởng mặc định)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">統合スタック</td>
+              <td class="reading">とうごうスタック</td>
+              <td class="hanviet">Thống hợp stack</td>
+              <td class="meaning">integrated stack (bộ công cụ tích hợp)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">卒業する</td>
+              <td class="reading">そつぎょうする</td>
+              <td class="hanviet">Tốt nghiệp</td>
+              <td class="meaning">tốt nghiệp, vượt qua (giai đoạn)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～が実現する</strong> — được thực hiện, trở thành hiện thực
+            <div class="example">
+              <span class="jp">数千エージェントの安全な運用が実現する。</span>
+              <span class="vi">Việc vận hành an toàn hàng nghìn agent trở thành hiện thực.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～へと移行した</strong> — đã chuyển dịch sang, đã bước sang
+            <div class="example">
+              <span class="jp">AIが実験段階から本格稼働へと移行した。</span>
+              <span class="vi">AI đã chuyển dịch từ giai đoạn thử nghiệm sang vận hành thực sự.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<!-- =========================================================
+     SECTION C: GLOBAL TECH — 3 articles
+     ========================================================= -->
+<section id="global-tech" class="digest-section">
+  <h2 class="section-title">🌐 Global Tech / AI (English)</h2>
+
+  <!-- C-1: DeepSeek V4 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C1</span>DeepSeek V4 Released: Near-Frontier Performance at a Fraction of the Price</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Article (English)</div>
+        <p class="content-text lang-en">
+          DeepSeek has released two new models — V4-Pro and V4-Flash — both featuring a 1 million token context window as the new standard. DeepSeek-V4-Pro packs 1.6 trillion total parameters with 49 billion active, achieving open-source state-of-the-art results on agentic coding benchmarks and reasoning tasks comparable to leading closed-source models. DeepSeek-V4-Flash uses 284 billion total parameters with 13 billion active, prioritizing speed and cost-efficiency while maintaining strong reasoning performance close to Pro.
+
+          The architecture introduces token-wise compression and DeepSeek Sparse Attention (DSA), dramatically reducing compute and memory requirements for long-context operations. Both models natively integrate with major AI coding tools including Claude Code. The API is live immediately, compatible with both OpenAI's ChatCompletions API format and Anthropic's API format — developers simply switch the model parameter to <code>deepseek-v4-pro</code> or <code>deepseek-v4-flash</code>. Pricing is aggressive: V4-Flash at $0.14/million input tokens and V4-Pro at $1.74/million, significantly undercutting comparable frontier models. Legacy models deepseek-chat and deepseek-reasoner retire July 24, 2026.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge high">🔴 HIGH IMPACT</span>
+          <span class="impact-text">Breaking: pricing resets expectations for long-context agentic workloads; legacy model deprecation requires migration by July 24.</span>
+        </div>
+        <div class="source">
+          Source: DeepSeek API Docs · 2026-04-24 · Author: DeepSeek Team ·
+          <a href="https://api-docs.deepseek.com/news/news260424" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          DeepSeek vừa phát hành hai model mới — V4-Pro và V4-Flash — với context window 1 triệu token trở thành tiêu chuẩn mặc định. V4-Pro có 1.6 nghìn tỷ tham số tổng cộng, 49 tỷ tham số active, đạt kết quả SOTA mã nguồn mở trên các benchmark lập trình agentic và khả năng lý luận ngang ngửa các model closed-source hàng đầu. V4-Flash với 284 tỷ tham số tổng / 13 tỷ active ưu tiên tốc độ và hiệu quả chi phí trong khi vẫn duy trì hiệu năng lý luận gần với Pro. Kiến trúc mới giới thiệu token-wise compression và DeepSeek Sparse Attention (DSA), giảm đáng kể chi phí tính toán và bộ nhớ cho các tác vụ long-context. Cả hai model tích hợp tự nhiên với Claude Code và các AI coding tool phổ biến. API live ngay lập tức, tương thích với cả định dạng OpenAI ChatCompletions và Anthropic API — dev chỉ cần đổi tham số model thành <code>deepseek-v4-pro</code> hoặc <code>deepseek-v4-flash</code>. Giá rất cạnh tranh: V4-Flash $0.14/triệu token, V4-Pro $1.74/triệu — thấp hơn đáng kể so với các model frontier tương đương. Lưu ý: các model cũ deepseek-chat và deepseek-reasoner sẽ bị khai tử vào 24/7/2026.
+        </div>
+        <div class="impact-note">
+          Nếu bạn đang dùng DeepSeek API, cần plan migration từ deepseek-chat/deepseek-reasoner trước 24/7. Với V4-Flash ở $0.14/M tokens + 1M context, đây là lựa chọn hấp dẫn cho long-context agentic pipeline ở chi phí thấp.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ khó</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr>
+              <td class="term-en">Sparse Attention</td>
+              <td class="term-pron">/spɑrs əˈtɛnʃən/</td>
+              <td class="term-explain">Cơ chế attention chỉ tính toán trên tập con các token thay vì toàn bộ sequence, giảm độ phức tạp từ O(n²) xuống O(n log n) hoặc O(n), giúp xử lý context dài với ít tài nguyên hơn.</td>
+            </tr>
+            <tr>
+              <td class="term-en">Active Parameters</td>
+              <td class="term-pron">/ˈæktɪv pəˈræmɪtərz/</td>
+              <td class="term-explain">Trong Mixture-of-Experts (MoE), chỉ một phần nhỏ tham số được kích hoạt cho mỗi token. V4-Pro có 1.6T tổng nhưng chỉ 49B active — nên inference cost bằng model 49B thông thường.</td>
+            </tr>
+            <tr>
+              <td class="term-en">Agentic coding benchmark</td>
+              <td class="term-pron">/eɪˈdʒɛntɪk ˈkoʊdɪŋ ˈbɛntʃmɑrk/</td>
+              <td class="term-explain">Bộ đánh giá khả năng AI tự động viết, sửa và test code trong môi trường thực tế (ví dụ SWE-bench), không chỉ hoàn thành code snippet đơn giản.</td>
+            </tr>
+            <tr>
+              <td class="term-en">Token deprecation</td>
+              <td class="term-pron">/ˈtoʊkən ˌdɛprɪˈkeɪʃən/</td>
+              <td class="term-explain">Việc ngừng hỗ trợ một model cũ, buộc người dùng phải migrate sang model mới trước deadline chỉ định.</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- C-2: Google $40B Anthropic investment -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C2</span>Google Plans to Invest Up to $40 Billion in Anthropic</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Article (English)</div>
+        <p class="content-text lang-en">
+          Google is planning a major investment of up to $40 billion in Anthropic, the AI safety company behind the Claude family of models. This would represent one of the largest single investments in an AI company to date, significantly deepening Google's existing stake in Anthropic and reinforcing its position as a key backer alongside Amazon.
+
+          The deal reflects intensifying competition in the enterprise AI market, where Google, Microsoft, and Amazon are each racing to secure influence over foundational AI model providers. Google's investment comes alongside its separate push to build out its own Gemini model family, suggesting a dual-track strategy: internal model development plus strategic investment in leading external AI labs. For Anthropic, the capital would accelerate research, infrastructure expansion, and the rollout of Claude-based enterprise products. Anthropic and Amazon previously announced a collaboration expanding compute access up to 5 gigawatts, and this Google investment further cements Anthropic's position as a well-capitalized, independent AI lab navigating partnerships with competing cloud giants.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge medium">🟠 MEDIUM IMPACT</span>
+          <span class="impact-text">Signals Anthropic's long-term runway and continued independence; enterprise teams building on Claude can expect sustained investment in model capability.</span>
+        </div>
+        <div class="source">
+          Source: Bloomberg / Hacker News · 2026-04-24 · Author: Bloomberg Tech ·
+          <a href="https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          Google đang lên kế hoạch đầu tư lên đến 40 tỷ USD vào Anthropic — công ty AI safety đằng sau dòng model Claude. Đây sẽ là một trong những khoản đầu tư đơn lẻ lớn nhất vào một công ty AI từ trước đến nay, làm sâu sắc thêm cổ phần hiện có của Google và củng cố vị thế của họ bên cạnh Amazon như một nhà đầu tư chiến lược chủ chốt. Thỏa thuận này phản ánh cuộc cạnh tranh ngày càng khốc liệt trên thị trường AI doanh nghiệp, khi Google, Microsoft và Amazon đua nhau giành ảnh hưởng lên các nhà cung cấp model AI nền tảng. Đầu tư của Google song hành với chiến lược phát triển dòng model Gemini riêng — cho thấy chiến lược hai hướng: vừa phát triển model nội bộ, vừa đầu tư chiến lược vào các AI lab bên ngoài. Về phía Anthropic, nguồn vốn này sẽ đẩy nhanh nghiên cứu, mở rộng hạ tầng và triển khai các sản phẩm doanh nghiệp dựa trên Claude. Trước đó, Anthropic và Amazon đã thông báo hợp tác mở rộng compute lên 5 gigawatt, và khoản đầu tư của Google tiếp tục khẳng định Anthropic là một AI lab độc lập, có nguồn vốn dồi dào đang khéo léo điều hướng các quan hệ đối tác với các cloud giant cạnh tranh nhau.
+        </div>
+        <div class="impact-note">
+          Với SE/Cloud Engineer đang xây dựng trên Claude API: đây là tín hiệu tốt về tính bền vững dài hạn của Anthropic. Không cần thay đổi gì ngay, nhưng nên theo dõi xem Google có tích hợp Claude sâu hơn vào GCP (Vertex AI) không.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ khó</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr>
+              <td class="term-en">Foundational model provider</td>
+              <td class="term-pron">/faʊnˈdeɪʃənl ˈmɒdəl prəˈvaɪdər/</td>
+              <td class="term-explain">Công ty phát triển và cung cấp các large language model nền tảng (GPT, Claude, Gemini) mà nhiều ứng dụng khác xây dựng lên trên.</td>
+            </tr>
+            <tr>
+              <td class="term-en">Dual-track strategy</td>
+              <td class="term-pron">/ˌdjuːəl træk ˈstrætɪdʒi/</td>
+              <td class="term-explain">Chiến lược song song: vừa tự phát triển (Gemini) vừa đầu tư vào đối thủ/đối tác (Anthropic) để không bỏ lỡ cả hai hướng phát triển của thị trường.</td>
+            </tr>
+            <tr>
+              <td class="term-en">Well-capitalized</td>
+              <td class="term-pron">/wɛl ˈkæpɪtəlaɪzd/</td>
+              <td class="term-explain">Có vốn dồi dào, được tài trợ tốt — chỉ trạng thái tài chính lành mạnh với đủ nguồn lực để hoạt động lâu dài.</td>
+            </tr>
+            <tr>
+              <td class="term-en">Stake</td>
+              <td class="term-pron">/steɪk/</td>
+              <td class="term-explain">Cổ phần, quyền lợi tài chính trong một công ty — "Google's stake in Anthropic" = phần sở hữu cổ phần của Google trong Anthropic.</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- C-3: GPT-5.5 Prompting Guide / Simon Willison -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C3</span>OpenAI Releases GPT-5.5 Prompting Guide: A New Model Family Requiring Fresh Optimization</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Article (English)</div>
+        <p class="content-text lang-en">
+          OpenAI has published an official prompting guide for GPT-5.5, their latest model, emphasizing that it should be treated as a distinct model family rather than a drop-in replacement for earlier GPT versions. The guidance highlights that prompting techniques optimized for GPT-4 or GPT-5 may not carry over effectively and that fresh optimization work is required.
+
+          One notable recommendation is to send brief, user-visible status updates before tool calls in multi-step agentic tasks, preventing users from perceiving the system as unresponsive during long-running operations — a practical UX consideration that reflects GPT-5.5's design for complex, multi-turn agent workflows. Simon Willison, who covered the guide, also notes that GPT-5.5 support has been added to his <code>llm</code> CLI tool (version 0.31), along with verbosity level options and image detail configuration for vision use cases. The release reinforces the emerging norm that each major model generation requires intentional re-evaluation of prompting strategies, system prompt design, and tool call orchestration patterns — a development discipline that applies equally to Claude, Gemini, and GPT families.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge medium">🟠 MEDIUM IMPACT</span>
+          <span class="impact-text">If you use GPT-5.5 in production, existing prompts need re-evaluation; status-update pattern for agents is a broadly applicable UX improvement.</span>
+        </div>
+        <div class="source">
+          Source: Simon Willison's Weblog · 2026-04-25 · Author: @simonw ·
+          <a href="https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          OpenAI vừa phát hành hướng dẫn prompting chính thức cho GPT-5.5, nhấn mạnh rằng đây là một dòng model riêng biệt và không nên xem như bản thay thế trực tiếp cho các phiên bản GPT trước. Các kỹ thuật prompt được tối ưu cho GPT-4 hay GPT-5 có thể không hoạt động tốt và cần phải tối ưu lại từ đầu. Một trong những khuyến nghị đáng chú ý là gửi các cập nhật trạng thái ngắn gọn, hiển thị cho người dùng trước mỗi tool call trong tác vụ agentic nhiều bước — giúp người dùng không cảm thấy hệ thống bị treo trong các thao tác chạy lâu. Đây là cân nhắc UX thực tế phản ánh thiết kế của GPT-5.5 cho các workflow agent phức tạp, nhiều lượt. Simon Willison, người viết bài phân tích về hướng dẫn này, cũng cho biết hỗ trợ GPT-5.5 đã được thêm vào công cụ CLI <code>llm</code> phiên bản 0.31, cùng với các tùy chọn cấp độ verbose và cấu hình chi tiết hình ảnh cho tác vụ vision. Bài viết nhấn mạnh xu hướng ngày càng rõ ràng: mỗi thế hệ model lớn đòi hỏi phải đánh giá lại có chủ đích các chiến lược prompting, thiết kế system prompt và orchestration pattern — nguyên tắc áp dụng đều cho Claude, Gemini và GPT.
+        </div>
+        <div class="impact-note">
+          Nếu bạn đang build agent workflow với OpenAI: (1) kiểm tra lại prompt hiện có với GPT-5.5, đừng assume tương thích. (2) Thêm status update trước tool call để cải thiện UX — pattern này cũng áp dụng tốt với Claude Code.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ khó</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr>
+              <td class="term-en">Drop-in replacement</td>
+              <td class="term-pron">/drɒp ɪn rɪˈpleɪsmənt/</td>
+              <td class="term-explain">Phiên bản thay thế "cắm vào là chạy" — có thể thay thế phiên bản cũ mà không cần thay đổi code hay cấu hình xung quanh. GPT-5.5 KHÔNG phải drop-in replacement.</td>
+            </tr>
+            <tr>
+              <td class="term-en">Tool call orchestration</td>
+              <td class="term-pron">/tuːl kɔːl ˌɔːkɪˈstreɪʃən/</td>
+              <td class="term-explain">Việc điều phối cách AI model gọi các công cụ bên ngoài (function calls, API) theo đúng thứ tự và logic để hoàn thành task phức tạp.</td>
+            </tr>
+            <tr>
+              <td class="term-en">Multi-turn agent workflow</td>
+              <td class="term-pron">/ˌmʌltiˈtɜːn ˈeɪdʒənt ˈwɜːkfloʊ/</td>
+              <td class="term-explain">Quy trình làm việc của AI agent trải qua nhiều lượt hội thoại và hành động (tool calls) liên tiếp để hoàn thành một mục tiêu phức tạp.</td>
+            </tr>
+            <tr>
+              <td class="term-en">Verbosity level</td>
+              <td class="term-pron">/vɜːˈbɒsɪti ˈlɛvəl/</td>
+              <td class="term-explain">Mức độ chi tiết của output — mức cao hơn cho nhiều thông tin trung gian hơn (như chain-of-thought); hữu ích khi debug hoặc audit AI reasoning.</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<footer>
+  <p>📚 デイリーダイジェスト | 2026-04-25 20:00 JST | 11 articles · JLPT N2+ · For SE/Cloud Engineer</p>
+  <p>Auto-generated by Claude Code Routine</p>
+</footer>
+
+<script>
+  (function() {
+    var buttons = document.querySelectorAll('.theme-toggle button');
+    var html = document.documentElement;
+
+    function applyTheme(theme) {
+      if (theme === 'system') {
+        html.removeAttribute('data-theme');
+      } else {
+        html.setAttribute('data-theme', theme);
+      }
+      localStorage.setItem('digest-theme', theme);
+      updateActiveButton(theme);
+    }
+
+    function updateActiveButton(theme) {
+      buttons.forEach(function(btn) {
+        if (btn.getAttribute('data-theme-value') === theme) {
+          btn.classList.add('active');
+        } else {
+          btn.classList.remove('active');
+        }
+      });
+    }
+
+    buttons.forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        applyTheme(btn.getAttribute('data-theme-value'));
+      });
+    });
+
+    var current = localStorage.getItem('digest-theme') || 'system';
+    updateActiveButton(current);
+  })();
+</script>
+
+</body>
+</html>

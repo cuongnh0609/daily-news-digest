@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>デイリーダイジェスト - 2026-04-24 00:00 JST</title>
+<style>
+  :root,
+  [data-theme="light"] {
+    --bg: #f8f5f0;
+    --card: #ffffff;
+    --card-alt: #fdfcf8;
+    --ink: #1a1a1a;
+    --ink-soft: #4a4a4a;
+    --accent-jp: #b91c1c;
+    --accent-tech-jp: #059669;
+    --accent-global: #0369a1;
+    --accent-soft-jp: #fef2f2;
+    --accent-soft-tech-jp: #ecfdf5;
+    --accent-soft-global: #f0f9ff;
+    --sub: #6b6b6b;
+    --border: #e5e1da;
+    --divider: #d4cfc5;
+    --jp-mark: #c2410c;
+    --vi: #0369a1;
+    --vi-bg: #f0f9ff;
+    --vi-ink: #0c4a6e;
+    --grammar: #7c3aed;
+    --grammar-bg: #fafaf5;
+    --code-bg: #f1efe9;
+    --note-bg: #fef9e7;
+    --note-border: #d69e2e;
+    --note-ink: #744210;
+    --impact-high: #dc2626;
+    --impact-med: #ea580c;
+    --impact-low: #ca8a04;
+    --header-gradient-start: #fafaf5;
+    --shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+  [data-theme="dark"] {
+    --bg: #0f0e0c;
+    --card: #1a1814;
+    --card-alt: #15130f;
+    --ink: #e8e4dc;
+    --ink-soft: #b8b4ac;
+    --accent-jp: #f87171;
+    --accent-tech-jp: #34d399;
+    --accent-global: #60a5fa;
+    --accent-soft-jp: #2a1515;
+    --accent-soft-tech-jp: #0d2820;
+    --accent-soft-global: #0c2440;
+    --sub: #8b8680;
+    --border: #332f28;
+    --divider: #2a2620;
+    --jp-mark: #fb923c;
+    --vi: #60a5fa;
+    --vi-bg: #0c2440;
+    --vi-ink: #bfdbfe;
+    --grammar: #c4b5fd;
+    --grammar-bg: #1c1a16;
+    --code-bg: #2a2620;
+    --note-bg: #2a2410;
+    --note-border: #ca8a04;
+    --note-ink: #fde68a;
+    --impact-high: #ef4444;
+    --impact-med: #f97316;
+    --impact-low: #eab308;
+    --header-gradient-start: #1c1a16;
+    --shadow: 0 1px 3px rgba(0,0,0,0.3);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme]) {
+      --bg: #0f0e0c; --card: #1a1814; --card-alt: #15130f; --ink: #e8e4dc;
+      --ink-soft: #b8b4ac; --accent-jp: #f87171; --accent-tech-jp: #34d399;
+      --accent-global: #60a5fa; --accent-soft-jp: #2a1515; --accent-soft-tech-jp: #0d2820;
+      --accent-soft-global: #0c2440; --sub: #8b8680; --border: #332f28; --divider: #2a2620;
+      --jp-mark: #fb923c; --vi: #60a5fa; --vi-bg: #0c2440; --vi-ink: #bfdbfe;
+      --grammar: #c4b5fd; --grammar-bg: #1c1a16; --code-bg: #2a2620; --note-bg: #2a2410;
+      --note-border: #ca8a04; --note-ink: #fde68a; --impact-high: #ef4444;
+      --impact-med: #f97316; --impact-low: #eab308; --header-gradient-start: #1c1a16;
+      --shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+  }
+  * { box-sizing: border-box; }
+  body { font-family: "Hiragino Mincho ProN","Yu Mincho","Noto Serif JP","Times New Roman",serif; background: var(--bg); color: var(--ink); max-width: 1600px; margin: 0 auto; padding: 2rem 2rem 4rem; line-height: 1.75; }
+  header.page-head { border-bottom: 3px double var(--accent-jp); padding-bottom: 1.2rem; margin-bottom: 2.5rem; text-align: center; }
+  header.page-head h1 { font-size: 2rem; margin: 0 0 0.4rem; letter-spacing: 0.08em; }
+  header.page-head .meta { color: var(--sub); font-size: 0.95rem; font-family: system-ui,sans-serif; }
+  nav.toc { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-bottom: 2rem; font-family: system-ui,sans-serif; font-size: 0.9rem; }
+  nav.toc a { text-decoration: none; padding: 6px 14px; border-radius: 20px; background: var(--card); border: 1px solid var(--border); color: var(--ink); transition: all 0.2s; }
+  nav.toc a:hover { background: var(--accent-soft-jp); color: var(--accent-jp); }
+  section.digest-section { margin-bottom: 3rem; }
+  .section-title { font-size: 1.5rem; padding: 0.6rem 1.2rem; margin: 0 0 1.5rem; border-radius: 4px; font-family: system-ui,"Noto Sans",sans-serif; font-weight: 600; }
+  #japan-news .section-title { background: var(--accent-soft-jp); color: var(--accent-jp); border-left: 5px solid var(--accent-jp); }
+  #japan-tech .section-title { background: var(--accent-soft-tech-jp); color: var(--accent-tech-jp); border-left: 5px solid var(--accent-tech-jp); }
+  #global-tech .section-title { background: var(--accent-soft-global); color: var(--accent-global); border-left: 5px solid var(--accent-global); }
+  article.news-card { background: var(--card); border: 1px solid var(--border); border-radius: 4px; margin-bottom: 1.5rem; box-shadow: var(--shadow); overflow: hidden; }
+  .card-header { padding: 1rem 1.5rem; background: linear-gradient(to bottom,var(--header-gradient-start),var(--card)); border-bottom: 1px solid var(--border); }
+  .card-header h3 { margin: 0; font-size: 1.15rem; line-height: 1.5; display: flex; align-items: baseline; gap: 10px; }
+  .news-no { display: inline-block; font-size: 0.7rem; padding: 3px 9px; border-radius: 3px; font-family: system-ui,sans-serif; font-weight: 600; flex-shrink: 0; }
+  #japan-news .news-no { background: var(--accent-jp); color: white; }
+  #japan-tech .news-no { background: var(--accent-tech-jp); color: white; }
+  #global-tech .news-no { background: var(--accent-global); color: white; }
+  .card-body { display: grid; grid-template-columns: 1fr 1fr; }
+  .col { padding: 1.25rem 1.5rem; }
+  .col-left { border-right: 1px solid var(--divider); }
+  .col-right { background: var(--card-alt); }
+  .col-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--sub); font-family: system-ui,sans-serif; margin-bottom: 0.6rem; font-weight: 600; }
+  .content-text { font-size: 1rem; line-height: 1.85; margin: 0 0 1rem; text-align: justify; }
+  .content-text.lang-en { font-family: "Georgia","Times New Roman",serif; }
+  .content-text.lang-ja { font-family: "Hiragino Mincho ProN","Yu Mincho",serif; }
+  .translation-vi { font-family: "Noto Sans",system-ui,sans-serif; font-size: 0.95rem; line-height: 1.75; margin: 1rem 0; padding: 0.8rem 1rem; background: var(--vi-bg); border-left: 3px solid var(--vi); border-radius: 2px; color: var(--vi-ink); }
+  .translation-vi::before { content: "🇻🇳 "; font-weight: bold; }
+  .impact-row { display: flex; align-items: center; gap: 8px; font-family: system-ui,sans-serif; font-size: 0.8rem; margin: 0.8rem 0; padding: 0.4rem 0; }
+  .impact-badge { display: inline-block; padding: 2px 10px; border-radius: 3px; font-weight: 600; font-size: 0.75rem; color: white; }
+  .impact-badge.high { background: var(--impact-high); }
+  .impact-badge.medium { background: var(--impact-med); }
+  .impact-badge.low { background: var(--impact-low); }
+  .impact-text { color: var(--sub); }
+  .impact-note { font-family: system-ui,sans-serif; font-size: 0.88rem; color: var(--note-ink); padding: 0.55rem 0.85rem; background: var(--note-bg); border-left: 3px solid var(--note-border); border-radius: 2px; margin: 0.6rem 0 1rem; }
+  .impact-note::before { content: "💡 "; }
+  .edu-block { margin-top: 1rem; font-family: system-ui,"Noto Sans",sans-serif; }
+  .edu-block h4 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--sub); margin: 0.8rem 0 0.4rem; border-bottom: 1px dotted var(--border); padding-bottom: 3px; }
+  table.vocab, table.term-table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+  table.vocab th, table.vocab td, table.term-table th, table.term-table td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  table.vocab th { background: var(--accent-soft-jp); color: var(--accent-jp); font-weight: 600; font-size: 0.72rem; text-transform: uppercase; }
+  table.term-table th { background: var(--accent-soft-global); color: var(--accent-global); font-weight: 600; font-size: 0.72rem; text-transform: uppercase; }
+  td.jp-word { font-family: "Hiragino Mincho ProN",serif; font-size: 1rem; white-space: nowrap; }
+  td.reading { color: var(--sub); font-size: 0.8rem; white-space: nowrap; }
+  td.hanviet { color: var(--accent-jp); font-style: italic; font-size: 0.8rem; white-space: nowrap; }
+  td.meaning { font-size: 0.85rem; }
+  td.term-en { font-family: "SF Mono",Monaco,monospace; font-size: 0.9rem; font-weight: 600; color: var(--accent-global); white-space: nowrap; }
+  td.term-pron { font-size: 0.8rem; color: var(--sub); font-style: italic; white-space: nowrap; }
+  td.term-explain { font-size: 0.85rem; line-height: 1.6; }
+  .grammar-item { margin-bottom: 0.7rem; font-size: 0.9rem; }
+  .grammar-item strong { color: var(--grammar); font-size: 0.95rem; display: inline-block; margin-bottom: 2px; }
+  .example { background: var(--grammar-bg); padding: 0.55rem 0.8rem; margin-top: 0.35rem; border-left: 2px solid var(--grammar); font-size: 0.88rem; }
+  .example .jp { font-family: "Hiragino Mincho ProN",serif; display: block; }
+  .example .vi { color: var(--vi); font-size: 0.82rem; display: block; margin-top: 3px; }
+  .source { font-size: 0.78rem; color: var(--sub); margin-top: 0.8rem; padding-top: 0.6rem; border-top: 1px dotted var(--border); font-family: system-ui,sans-serif; }
+  .source a { color: var(--vi); text-decoration: none; }
+  .source a:hover { text-decoration: underline; }
+  code { background: var(--code-bg); padding: 1px 6px; border-radius: 3px; font-size: 0.88em; font-family: "SF Mono",Monaco,"Courier New",monospace; }
+  .theme-toggle { position: fixed; top: 1rem; right: 1rem; z-index: 100; display: flex; gap: 4px; background: var(--card); border: 1px solid var(--border); border-radius: 20px; padding: 3px; font-family: system-ui,sans-serif; font-size: 0.85rem; box-shadow: var(--shadow); }
+  .theme-toggle button { background: transparent; border: none; padding: 5px 10px; border-radius: 15px; cursor: pointer; color: var(--sub); transition: all 0.15s; font-family: inherit; }
+  .theme-toggle button:hover { color: var(--ink); }
+  .theme-toggle button.active { background: var(--accent-jp); color: white; }
+  footer { text-align: center; color: var(--sub); font-size: 0.85rem; margin-top: 4rem; font-family: system-ui,sans-serif; padding-top: 1.5rem; border-top: 1px solid var(--border); }
+  @media (max-width: 1000px) {
+    body { padding: 1rem 0.9rem 3rem; max-width: 100%; }
+    header.page-head h1 { font-size: 1.4rem; }
+    .card-body { grid-template-columns: 1fr; }
+    .col-left { border-right: none; border-bottom: 2px dashed var(--divider); }
+    .col { padding: 1rem 1.1rem; }
+    .section-title { font-size: 1.2rem; }
+    td.reading, td.hanviet, td.term-en, td.term-pron { white-space: normal; }
+  }
+</style>
+</head>
+<body>
+
+<div class="theme-toggle" role="group" aria-label="Theme selector">
+  <button type="button" data-theme-value="light" title="Light mode">☀️</button>
+  <button type="button" data-theme-value="system" title="Auto">💻</button>
+  <button type="button" data-theme-value="dark" title="Dark mode">🌙</button>
+</div>
+
+<script>
+(function(){var s=localStorage.getItem('digest-theme')||'system';if(s!=='system')document.documentElement.setAttribute('data-theme',s);})();
+</script>
+
+<header class="page-head">
+  <h1>🗞️ デイリーダイジェスト</h1>
+  <div class="meta">2026-04-24（金曜日）00:00 JST — JLPT N2+ 学習者 · SE/Cloud Engineer 向け</div>
+</header>
+
+<nav class="toc">
+  <a href="#japan-news">🗾 日本ニュース (5)</a>
+  <a href="#japan-tech">🇯🇵 Tech JP (3)</a>
+  <a href="#global-tech">🌐 Global Tech (3)</a>
+</nav>
+
+<!-- =========================================================
+     SECTION A: JAPAN NEWS — 5 articles
+     ========================================================= -->
+<section id="japan-news" class="digest-section">
+  <h2 class="section-title">🗾 日本ニュース</h2>
+
+  <!-- A1: 経済 — 日経平均6万円 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A1</span>日経平均株価が史上初めて6万円台を突破　AI・半導体銘柄が牽引</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          4月23日、東京証券取引所で日経平均株価が史上初めて6万円の大台を突破した。前日のニューヨーク市場でハイテク銘柄が大幅上昇した流れを受け、半導体やAI関連銘柄を中心に買い注文が広がった。昨年10月に5万円台を達成してから約6ヶ月で、さらに1万円の上昇を果たした形だ。証券会社では拍手や胴上げが行われ、社員たちが大台突破を祝った。市場関係者の多くは「AIブームが継続する限り上昇基調は維持される」と見ている。一方で、中東情勢による原油高や地政学的リスクへの懸念も根強く、今後発表される企業決算の内容が相場の分岐点になるという分析も多い。三井住友DSアセットマネジメントのチーフストラテジストは「企業業績が好調であれば上昇基調は変わらない」と述べた。
+        </p>
+        <div class="translation-vi">
+          Ngày 23/4, chỉ số Nikkei trung bình tại Sở giao dịch chứng khoán Tokyo lần đầu tiên trong lịch sử vượt mốc 60.000 điểm. Đà tăng từ thị trường New York, dẫn dắt bởi các cổ phiếu công nghệ cao, đã lan sang Tokyo với các cổ phiếu bán dẫn và AI là đầu tàu. Kể từ khi chạm mốc 50.000 điểm vào tháng 10 năm ngoái, chỉ số đã tăng thêm 10.000 điểm trong vòng 6 tháng. Nhiều công ty chứng khoán đã ăn mừng sự kiện lịch sử này. Các chuyên gia nhận định xu hướng tăng sẽ tiếp tục chừng nào làn sóng AI còn mạnh, tuy nhiên rủi ro từ giá dầu tăng do tình hình Trung Đông và rủi ro địa chính trị vẫn là mối lo, với kết quả kinh doanh sắp công bố được xem là yếu tố quyết định tiếp theo.
+        </div>
+        <div class="source">
+          出典: NTV / Livedoor News · 2026-04-23 JST ·
+          <a href="https://news.livedoor.com/topics/detail/31076767/" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr><td class="jp-word">株価</td><td class="reading">かぶか</td><td class="hanviet">Cổ phiếu giá</td><td class="meaning">giá cổ phiếu</td></tr>
+            <tr><td class="jp-word">大台</td><td class="reading">おおだい</td><td class="hanviet">Đại đài</td><td class="meaning">mốc tròn lớn (vd. 60,000 điểm)</td></tr>
+            <tr><td class="jp-word">上昇基調</td><td class="reading">じょうしょうきちょう</td><td class="hanviet">Thượng thăng cơ điệu</td><td class="meaning">xu hướng tăng liên tục</td></tr>
+            <tr><td class="jp-word">半導体</td><td class="reading">はんどうたい</td><td class="hanviet">Bán dẫn thể</td><td class="meaning">chất bán dẫn (semiconductor)</td></tr>
+            <tr><td class="jp-word">銘柄</td><td class="reading">めいがら</td><td class="hanviet">Danh hiệu</td><td class="meaning">mã cổ phiếu / cổ phiếu</td></tr>
+            <tr><td class="jp-word">地政学的リスク</td><td class="reading">ちせいがくてきリスク</td><td class="hanviet">Địa chính học tích</td><td class="meaning">rủi ro địa chính trị (geopolitical risk)</td></tr>
+            <tr><td class="jp-word">分岐点</td><td class="reading">ぶんきてん</td><td class="hanviet">Phân kỳ điểm</td><td class="meaning">điểm rẽ / bước ngoặt quyết định</td></tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～を受け</strong> — nhận / chịu ảnh hưởng từ ~
+            <div class="example">
+              <span class="jp">ニューヨーク市場の上昇を受け、東京市場も買いが広がった。</span>
+              <span class="vi">Chịu ảnh hưởng từ đà tăng của thị trường New York, thị trường Tokyo cũng lan rộng đà mua.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～限り</strong> — chừng nào ~ còn / miễn là ~
+            <div class="example">
+              <span class="jp">AIブームが続く限り、上昇基調は維持されるだろう。</span>
+              <span class="vi">Chừng nào làn sóng AI còn tiếp tục, xu hướng tăng sẽ được duy trì.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A2: 社会 — 梅田ビル飛び降り -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A2</span>梅田の23階建てビルから20代女性2人が飛び降り死亡　部屋に遺書</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          4月23日午後1時40分頃、大阪市北区茶屋町の23階建てビルから、ホテルに宿泊していた20代の女性2人が飛び降り、搬送先の病院でいずれも死亡が確認された。2人は19階のベランダから身を投げ、中層階の屋根部分に落下したとみられる。現場は結婚式場とホテルが入居する阪急梅田駅近くのビルで、チェックアウト時刻を過ぎても連絡がとれなかったため、従業員が部屋を確認したところ遺書とみられる文書が発見された。大阪府警は、2人が自らの意思で飛び降りたとみて、詳しい経緯を調べている。現場周辺は一時騒然となり、多くの目撃者が駆け付けた。
+        </p>
+        <div class="translation-vi">
+          Vào khoảng 13 giờ 40 phút ngày 23/4, hai phụ nữ tuổi đôi mươi đang lưu trú tại khách sạn trong tòa nhà 23 tầng ở khu Chayamachi, quận Kita, Osaka, đã gieo mình từ tầng 19 xuống và được xác nhận tử vong tại bệnh viện. Địa điểm xảy ra là tòa nhà gần ga Hankyu Umeda, có khách sạn và trung tâm tiệc cưới. Khi nhân viên vào phòng kiểm tra vì quá giờ check-out mà không liên lạc được, họ phát hiện văn bản nghi là thư tuyệt mệnh. Cảnh sát tỉnh Osaka đang điều tra chi tiết vụ việc, nhận định đây là tự tử. Khu vực hiện trường nhất thời hỗn loạn với nhiều nhân chứng có mặt.
+        </div>
+        <div class="source">
+          出典: Yahoo!ニュース · 2026-04-23 20:25 JST ·
+          <a href="https://news.yahoo.co.jp/articles/d440cc74184a5afcb6ff2401b02c6e996c61d40b" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr><td class="jp-word">飛び降り</td><td class="reading">とびおり</td><td class="hanviet">Phi giáng</td><td class="meaning">nhảy xuống từ trên cao</td></tr>
+            <tr><td class="jp-word">搬送</td><td class="reading">はんそう</td><td class="hanviet">Vận tống</td><td class="meaning">vận chuyển (cấp cứu)</td></tr>
+            <tr><td class="jp-word">遺書</td><td class="reading">いしょ</td><td class="hanviet">Di thư</td><td class="meaning">thư tuyệt mệnh</td></tr>
+            <tr><td class="jp-word">宿泊</td><td class="reading">しゅくはく</td><td class="hanviet">Túc bạc</td><td class="meaning">lưu trú / nghỉ ngơi</td></tr>
+            <tr><td class="jp-word">経緯</td><td class="reading">けいい</td><td class="hanviet">Kinh vĩ</td><td class="meaning">chi tiết / bối cảnh / tình tiết</td></tr>
+            <tr><td class="jp-word">騒然</td><td class="reading">そうぜん</td><td class="hanviet">Táo nhiên</td><td class="meaning">hỗn loạn / náo động</td></tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～とみられる</strong> — được cho là ~ / nghi là ~
+            <div class="example">
+              <span class="jp">2人が自らの意思で飛び降りたとみられる。</span>
+              <span class="vi">Được cho là 2 người đã tự nguyện gieo mình.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～たところ</strong> — khi ~ thì / vào lúc ~ thì phát hiện
+            <div class="example">
+              <span class="jp">部屋を確認したところ、遺書とみられる文書が見つかった。</span>
+              <span class="vi">Khi vào phòng kiểm tra, phát hiện văn bản nghi là thư tuyệt mệnh.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A3: 政治 — れいわ奥田議員 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A3</span>れいわ・奥田議員、参院憲法審で謝罪要求に5分間反論　「何が不適切か」</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          4月23日に開かれた参院憲法審査会で、日本維新の会の松沢成文議員がれいわ新選組の奥田ふみよ共同代表に対し、「政府自民党は恥を知れ」などの発言が国会法の禁じる無礼な言葉にあたるとして謝罪を求めた。これに対し奥田議員は約5分間にわたって自らの発言の正当性を主張。憲法25条（生存権）が生活保護受給者の実態に照らして守られていないと訴え、「何が不適切なんでしょう？」と強く反論した。与野党双方から批判の声が上がる一方、奥田議員は「高市自民党そのものが憲法違反」とも発言しており、審査会は紛糾した。最終的に議長が議事を整理する形で幕引きとなったが、国会での言論の限界をめぐる議論が再び注目を集めている。
+        </p>
+        <div class="translation-vi">
+          Tại phiên họp Ủy ban Thẩm tra Hiến pháp Thượng viện ngày 23/4, nghị sĩ Matsuzawa Shigefumi của đảng Nippon Ishin đã yêu cầu đồng đại diện đảng Reiwa Shinsengumi, bà Okuda Fumiyo, xin lỗi vì các phát ngôn bị coi là vô lễ theo Luật Nghị viện, chẳng hạn như câu "Chính phủ tự dân hãy biết xấu hổ". Đáp lại, bà Okuda đã phản bác trong khoảng 5 phút, khẳng định phát ngôn của mình là chính đáng và nhấn mạnh Điều 25 Hiến pháp về quyền sống còn chưa được bảo đảm trong thực tế. Thái độ "Điều gì là không phù hợp?" của bà vấp phải chỉ trích từ cả hai phía, và ủy ban rơi vào tình trạng hỗn loạn cho đến khi chủ tịch can thiệp để ổn định trật tự.
+        </div>
+        <div class="source">
+          出典: Yahoo!ニュース · 2026-04-23 21:27 JST ·
+          <a href="https://news.yahoo.co.jp/articles/75c8e0ea1417b7b7a20535a6f13352e734feddcf" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr><td class="jp-word">憲法審査会</td><td class="reading">けんぽうしんさかい</td><td class="hanviet">Hiến pháp thẩm tra hội</td><td class="meaning">Ủy ban thẩm tra hiến pháp</td></tr>
+            <tr><td class="jp-word">無礼</td><td class="reading">ぶれい</td><td class="hanviet">Vô lễ</td><td class="meaning">vô lễ / thiếu tôn trọng</td></tr>
+            <tr><td class="jp-word">謝罪</td><td class="reading">しゃざい</td><td class="hanviet">Tạ tội</td><td class="meaning">xin lỗi / tạ lỗi</td></tr>
+            <tr><td class="jp-word">正当性</td><td class="reading">せいとうせい</td><td class="hanviet">Chính đáng tính</td><td class="meaning">tính chính đáng / tính hợp lý</td></tr>
+            <tr><td class="jp-word">生存権</td><td class="reading">せいぞんけん</td><td class="hanviet">Sinh tồn quyền</td><td class="meaning">quyền sống còn (Điều 25 Hiến pháp)</td></tr>
+            <tr><td class="jp-word">紛糾</td><td class="reading">ふんきゅう</td><td class="hanviet">Phân cưu</td><td class="meaning">lộn xộn / tranh cãi không dứt</td></tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～にあたる</strong> — thuộc về ~ / tương đương với ~
+            <div class="example">
+              <span class="jp">「恥を知れ」は無礼な言葉にあたると指摘された。</span>
+              <span class="vi">Câu "hãy biết xấu hổ" bị chỉ ra là thuộc về từ ngữ vô lễ.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～に照らして</strong> — chiếu theo ~ / đối chiếu với ~
+            <div class="example">
+              <span class="jp">実態に照らして、憲法25条が守られていないと訴えた。</span>
+              <span class="vi">Đối chiếu với thực tế, bà lên tiếng rằng Điều 25 Hiến pháp chưa được bảo đảm.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A4: 国際 — ドゥテルテICC起訴 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A4</span>ドゥテルテ前フィリピン大統領を正式起訴　「麻薬戦争」で人道に対する罪―ICC</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          国際刑事裁判所（ICC）は4月23日、フィリピンのロドリゴ・ドゥテルテ前大統領（81歳）を人道に対する罪で正式に起訴した。2016年から2022年の在任期間中に実施した「麻薬戦争」において、薬物密売人とみられる人物への超法規的殺害を命令・組織したとされており、検察側は少なくとも76人の殺害への関与を指摘している。ICCは「責任を負うと信じるに足る十分な根拠がある」と判断し、裁判の開廷を決定した。ドゥテルテ氏は2025年3月にフィリピン国内で逮捕され、その後ICCに引き渡されて現在も拘束中だ。国際社会は、アジアの元国家元首に対するICCの本格的な刑事手続きとして注目している。
+        </p>
+        <div class="translation-vi">
+          Ngày 23/4, Tòa án Hình sự Quốc tế (ICC) đã chính thức truy tố cựu Tổng thống Philippines Rodrigo Duterte (81 tuổi) vì tội ác chống lại loài người. Trong "cuộc chiến chống ma túy" từ 2016 đến 2022, ông bị cáo buộc ra lệnh và tổ chức các vụ giết người ngoài vòng pháp luật, với ít nhất 76 nạn nhân theo phía công tố. ICC xác định có đủ căn cứ để tin ông phải chịu trách nhiệm và quyết định mở phiên xét xử. Ông Duterte đã bị bắt tại Philippines vào tháng 3/2025 và hiện vẫn đang bị giam giữ. Cộng đồng quốc tế chú ý đây là thủ tục tố tụng hình sự thực sự của ICC đối với một cựu nguyên thủ quốc gia châu Á.
+        </div>
+        <div class="source">
+          出典: 時事ドットコム · 2026-04-23 JST ·
+          <a href="https://www.jiji.com/jc/article?k=2026042301172&amp;g=int" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr><td class="jp-word">人道に対する罪</td><td class="reading">じんどうにたいするつみ</td><td class="hanviet">Nhân đạo đối tội</td><td class="meaning">tội ác chống lại loài người</td></tr>
+            <tr><td class="jp-word">超法規的殺害</td><td class="reading">ちょうほうきてきさつがい</td><td class="hanviet">Siêu pháp quy sát hại</td><td class="meaning">giết người ngoài vòng pháp luật</td></tr>
+            <tr><td class="jp-word">起訴</td><td class="reading">きそ</td><td class="hanviet">Khởi tố</td><td class="meaning">truy tố / khởi tố</td></tr>
+            <tr><td class="jp-word">在任期間</td><td class="reading">ざいにんきかん</td><td class="hanviet">Tại nhiệm kỳ gian</td><td class="meaning">thời gian tại nhiệm</td></tr>
+            <tr><td class="jp-word">引き渡し</td><td class="reading">ひきわたし</td><td class="hanviet">Dẫn độ</td><td class="meaning">dẫn độ / bàn giao</td></tr>
+            <tr><td class="jp-word">国家元首</td><td class="reading">こっかげんしゅ</td><td class="hanviet">Quốc gia nguyên thủ</td><td class="meaning">nguyên thủ quốc gia</td></tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～に足る</strong> — đủ để ~ / xứng đáng để ~
+            <div class="example">
+              <span class="jp">責任を負うと信じるに足る十分な根拠がある。</span>
+              <span class="vi">Có đủ căn cứ xứng đáng để tin rằng ông ta phải chịu trách nhiệm.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～とされており</strong> — được cho là ~ / bị cáo buộc là ~
+            <div class="example">
+              <span class="jp">超法規的殺害を命令したとされており、裁判が開廷された。</span>
+              <span class="vi">Bị cáo buộc đã ra lệnh giết người ngoài vòng pháp luật, phiên xét xử được mở ra.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A5: 国際/安全保障 — トランプ機雷攻撃命令 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A5</span>トランプ大統領、ホルムズ海峡の機雷敷設船への攻撃を米海軍に命令</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          トランプ米大統領は4月23日、米海軍に対しホルムズ海峡において機雷を敷設するいかなる船舶に対しても攻撃するよう命令した。イランとの軍事的緊張が高まる中での強硬措置で、米国防総省はホルムズ海峡の機雷除去に約6ヶ月を要すると見積もっている。大統領はまた、停戦延長について「中間選挙を考慮した制約はない」と述べ、11月の中間選挙より軍事的判断を優先する姿勢を示した。一方、政権内では海軍長官が国防長官との対立から事実上解任される事態も生じており、中東政策をめぐる内部の亀裂が表面化している。エネルギー市場では原油の供給不安から価格上昇が続いており、日本経済への影響も懸念されている。
+        </p>
+        <div class="translation-vi">
+          Ngày 23/4, Tổng thống Mỹ Trump ra lệnh cho Hải quân Mỹ tấn công bất kỳ tàu nào đang rải mìn tại eo biển Hormuz. Đây là biện pháp cứng rắn trong bối cảnh căng thẳng quân sự với Iran leo thang, với Bộ Quốc phòng ước tính việc dọn mìn sẽ mất khoảng 6 tháng. Tổng thống tuyên bố về lệnh ngừng bắn rằng không bị ràng buộc bởi kỳ bầu cử giữa nhiệm kỳ tháng 11, cho thấy ông ưu tiên phán đoán quân sự. Trong nội bộ, Bộ trưởng Hải quân bị thực chất cách chức do mâu thuẫn với Bộ trưởng Quốc phòng, làm lộ ra rạn nứt trong chính quyền. Thị trường năng lượng tiếp tục biến động với giá dầu tăng do lo ngại nguồn cung, tác động đến kinh tế Nhật Bản.
+        </div>
+        <div class="source">
+          出典: 時事ドットコム · 2026-04-23 22:27 JST ·
+          <a href="https://www.jiji.com/jc/article?k=2026042301207&amp;g=int" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr><td class="jp-word">機雷</td><td class="reading">きらい</td><td class="hanviet">Cơ lôi</td><td class="meaning">mìn biển / thủy lôi</td></tr>
+            <tr><td class="jp-word">敷設</td><td class="reading">ふせつ</td><td class="hanviet">Phu thiết</td><td class="meaning">rải / đặt (mìn, đường ống)</td></tr>
+            <tr><td class="jp-word">停戦</td><td class="reading">ていせん</td><td class="hanviet">Đình chiến</td><td class="meaning">ngừng bắn</td></tr>
+            <tr><td class="jp-word">強硬</td><td class="reading">きょうこう</td><td class="hanviet">Cương ngạnh</td><td class="meaning">cứng rắn / kiên quyết</td></tr>
+            <tr><td class="jp-word">解任</td><td class="reading">かいにん</td><td class="hanviet">Giải nhiệm</td><td class="meaning">cách chức / miễn nhiệm</td></tr>
+            <tr><td class="jp-word">亀裂</td><td class="reading">きれつ</td><td class="hanviet">Quy liệt</td><td class="meaning">rạn nứt / chia rẽ nội bộ</td></tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～よう命令した</strong> — ra lệnh (để) ~
+            <div class="example">
+              <span class="jp">機雷を敷設する船舶に対し攻撃するよう命令した。</span>
+              <span class="vi">Ra lệnh tấn công các tàu đang rải mìn.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～から表面化する</strong> — bộc lộ ra / nổi lên từ ~
+            <div class="example">
+              <span class="jp">内部の対立から亀裂が表面化している。</span>
+              <span class="vi">Rạn nứt nội bộ đang bộc lộ ra từ những mâu thuẫn.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<!-- =========================================================
+     SECTION B: JAPAN TECH — 3 articles
+     ========================================================= -->
+<section id="japan-tech" class="digest-section">
+  <h2 class="section-title">🇯🇵 Tech / AI in Japanese</h2>
+
+  <!-- B1: Claude Opus 4.7リリース -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B1</span>【2026年4月】Claude Opus 4.7がリリース！新機能・ベンチマーク・API変更点まとめ</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          Anthropicは2026年4月16日にClaude Opus 4.7を正式リリースした。価格は入力トークン1Mあたり5ドル、出力25ドルとOpus 4.6から据え置きながら、性能は大幅に向上している。コーディング評価のSWE-bench Proでは64.3%（前比+10.9ポイント）を達成し、エージェント系タスクでの精度も改善された。新機能として「xhigh effortレベル」が追加され、推論の深さを細かく制御できるようになった。ビジョン機能も強化され、最大解像度が従来比約3倍に向上している。注意点として、新トークナイザーの導入により実質的なトークン消費量が1.0〜1.35倍になる可能性があるため、本番環境への移行前には詳細なコスト検証と動作確認が必須とされている。また、task budgetsがパブリックベータとして提供開始された。
+        </p>
+        <div class="translation-vi">
+          Anthropic chính thức phát hành Claude Opus 4.7 vào ngày 16/4/2026. Giá không đổi so với Opus 4.6 (5 USD/1M token đầu vào, 25 USD đầu ra) nhưng hiệu suất cải thiện đáng kể. Điểm SWE-bench Pro đạt 64.3% (tăng +10.9 điểm), độ chính xác trong tác vụ agent cũng được cải thiện. Tính năng mới đáng chú ý là "xhigh effort level" cho phép kiểm soát chi tiết độ sâu suy luận. Khả năng xử lý ảnh được nâng cấp với độ phân giải tối đa tăng gấp ~3 lần. Quan trọng: tokenizer mới có thể làm tăng lượng token tiêu thụ lên 1.0-1.35 lần, vì vậy cần kiểm tra kỹ chi phí và hành vi trước khi migration sang production. Task budgets cũng bắt đầu public beta.
+        </div>
+        <div class="source">
+          出典: Qiita @htani0817 · 2026年4月 ·
+          <a href="https://qiita.com/htani0817/items/d6b26a18a897034fba46" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙 (技術日本語)</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr><td class="jp-word">推論</td><td class="reading">すいろん</td><td class="hanviet">Suy luận</td><td class="meaning">suy luận (reasoning)</td></tr>
+            <tr><td class="jp-word">解像度</td><td class="reading">かいぞうど</td><td class="hanviet">Giải tượng độ</td><td class="meaning">độ phân giải</td></tr>
+            <tr><td class="jp-word">トークナイザー</td><td class="reading">—</td><td class="hanviet">—</td><td class="meaning">tokenizer (bộ phân tích token)</td></tr>
+            <tr><td class="jp-word">ベンチマーク</td><td class="reading">—</td><td class="hanviet">—</td><td class="meaning">benchmark (thang đo hiệu suất)</td></tr>
+            <tr><td class="jp-word">据え置き</td><td class="reading">すえおき</td><td class="hanviet">Cứ trí</td><td class="meaning">giữ nguyên / không thay đổi</td></tr>
+            <tr><td class="jp-word">大幅</td><td class="reading">おおはば</td><td class="hanviet">Đại phúc</td><td class="meaning">đáng kể / mạnh mẽ</td></tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～になる可能性がある</strong> — có khả năng sẽ trở thành ~
+            <div class="example">
+              <span class="jp">トークン消費量が1.35倍になる可能性がある。</span>
+              <span class="vi">Có khả năng lượng token tiêu thụ sẽ tăng gấp 1.35 lần.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～前に～が必須だ</strong> — trước khi ~ thì ~ là bắt buộc
+            <div class="example">
+              <span class="jp">本番移行前にコスト検証が必須とされている。</span>
+              <span class="vi">Trước khi chuyển lên production, kiểm tra chi phí được xem là bắt buộc.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- B2: ローカルLLM ReAct MCP -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B2</span>ローカルLLMを自律エージェントにした — Claude Codeから呼べるReAct MCPサーバー</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          QiitaユーザーのtsunamayoはOllamaで動くローカルLLMを自律エージェントとして動作させるhelix-agent v0.4.0を開発・公開した。このシステムはネイティブのfunction calling APIを使わず、プロンプトベースのReActループでJSON出力を生成する設計で、Ollamaに対応するほぼすべてのモデルで動作する。エージェントにはファイル操作・コマンド実行・計算・Qdrantによるベクター検索など7種類のツールが用意されており、Claude CodeからMCPサーバーとして直接呼び出せる。セキュリティ面では、PathGuardという機構によりディレクトリのホワイトリスト管理・機密ファイルのブロック・コマンド制限（git・python・uvなど）が実装され、ローカル環境での安全な運用が可能だ。リポジトリはMITライセンスで公開されており、144のテストがすべてパスしている。
+        </p>
+        <div class="translation-vi">
+          Người dùng Qiita tsunamayo đã phát triển và công bố helix-agent v0.4.0, biến các LLM cục bộ chạy trên Ollama thành agent tự chủ. Hệ thống dùng vòng lặp ReAct dựa trên prompt để tạo JSON thay vì native function calling API, giúp tương thích với hầu hết model Ollama. Agent có 7 công cụ gồm thao tác file, thực thi lệnh, tính toán và tìm kiếm vector qua Qdrant, và được gọi trực tiếp từ Claude Code như MCP server. Về bảo mật, PathGuard quản lý whitelist thư mục, chặn file nhạy cảm và giới hạn lệnh (git, python, uv...) cho phép vận hành cục bộ an toàn. Repo MIT-licensed với 144 test đều pass.
+        </div>
+        <div class="source">
+          出典: Qiita @tsunamayo7 · 2026年4月 ·
+          <a href="https://qiita.com/tsunamayo7/items/c08204ef46758e3ea456" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙 (技術日本語)</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr><td class="jp-word">自律エージェント</td><td class="reading">じりつエージェント</td><td class="hanviet">Tự luật Agent</td><td class="meaning">agent tự chủ (autonomous agent)</td></tr>
+            <tr><td class="jp-word">ホワイトリスト</td><td class="reading">—</td><td class="hanviet">—</td><td class="meaning">whitelist (danh sách được phép)</td></tr>
+            <tr><td class="jp-word">ベクター検索</td><td class="reading">ベクターけんさく</td><td class="hanviet">—</td><td class="meaning">vector search (tìm kiếm ngữ nghĩa)</td></tr>
+            <tr><td class="jp-word">機構</td><td class="reading">きこう</td><td class="hanviet">Cơ cấu</td><td class="meaning">cơ chế / mechanism</td></tr>
+            <tr><td class="jp-word">呼び出す</td><td class="reading">よびだす</td><td class="hanviet">Triệu xuất</td><td class="meaning">gọi ra / invoke</td></tr>
+            <tr><td class="jp-word">ファイル操作</td><td class="reading">ファイルそうさ</td><td class="hanviet">File thao tác</td><td class="meaning">thao tác file (file operations)</td></tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～として呼び出せる</strong> — có thể gọi với tư cách là ~
+            <div class="example">
+              <span class="jp">Claude CodeからMCPサーバーとして直接呼び出せる。</span>
+              <span class="vi">Có thể gọi trực tiếp từ Claude Code với tư cách là MCP server.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～により～が可能だ</strong> — nhờ ~ mà ~ trở nên khả thi
+            <div class="example">
+              <span class="jp">PathGuardの実装により、安全なローカル運用が可能だ。</span>
+              <span class="vi">Nhờ triển khai PathGuard, vận hành cục bộ an toàn trở nên khả thi.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- B3: ハーネスエンジニアリング -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B3</span>ハーネスエンジニアリングとは何で、何ではないのか〜作る側のハーネス・使う側のハーネス〜</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          ZennのソフトウェアエンジニアR.KagayaはAIエージェントを制御・活用するための「ハーネスエンジニアリング」の概念を体系的に整理した。LangChain・Anthropic・OpenAIなど各社でこの用語の定義が異なるため、著者は「エージェントハーネス」（ベンダー側が構築するインフラや制御ループ）と「ユーザーハーネス」（開発者がCLAUDE.mdやSkillsで整備する環境）の2層に分けて論じている。重要なポイントは、CLAUDE.mdを書くだけでなく、lintやテストといった計算的センサーや検証ループも含めて設計することが真のハーネスエンジニアリングだという主張だ。また、著者は「薄いハーネス・太いスキル」という設計原則も提唱し、オーケストレーション層は最小限にとどめ、知性をスキルに集約すべきとしている。検証ループの導入で品質が2〜3倍向上するという実感も共有された。
+        </p>
+        <div class="translation-vi">
+          Kỹ sư phần mềm R.Kagaya trên Zenn đã hệ thống hóa khái niệm "harness engineering" — kỹ thuật kiểm soát và tận dụng AI agent. Do các công ty như LangChain, Anthropic, OpenAI định nghĩa thuật ngữ này khác nhau, tác giả phân chia thành: "agent harness" (cơ sở hạ tầng do vendor xây dựng) và "user harness" (môi trường developer thiết lập qua CLAUDE.md và Skills). Điểm mấu chốt: harness engineering thực sự không chỉ là viết CLAUDE.md, mà còn cần thiết kế "computational sensor" như lint và test, cùng verification loop. Tác giả đề xuất nguyên tắc "thin harness, fat skills" — orchestration tối giản, tập trung trí tuệ vào skills. Thực tế cho thấy verification loop giúp chất lượng tăng 2-3 lần.
+        </div>
+        <div class="source">
+          出典: Zenn @r_kaga · 2026-04-22 ·
+          <a href="https://zenn.dev/r_kaga/articles/329afdc151899f" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙 (技術日本語)</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr><td class="jp-word">検証ループ</td><td class="reading">けんしょうループ</td><td class="hanviet">Kiểm chứng Loop</td><td class="meaning">verification loop (vòng kiểm chứng)</td></tr>
+            <tr><td class="jp-word">オーケストレーション</td><td class="reading">—</td><td class="hanviet">—</td><td class="meaning">orchestration (điều phối hệ thống)</td></tr>
+            <tr><td class="jp-word">制御ループ</td><td class="reading">せいぎょループ</td><td class="hanviet">Chế ngự Loop</td><td class="meaning">control loop (vòng điều khiển)</td></tr>
+            <tr><td class="jp-word">体系的</td><td class="reading">たいけいてき</td><td class="hanviet">Thể hệ đích</td><td class="meaning">có hệ thống / systematic</td></tr>
+            <tr><td class="jp-word">集約</td><td class="reading">しゅうやく</td><td class="hanviet">Tập ước</td><td class="meaning">tập trung / tổng hợp</td></tr>
+            <tr><td class="jp-word">実感</td><td class="reading">じっかん</td><td class="hanviet">Thực cảm</td><td class="meaning">trải nghiệm thực tế / cảm nhận thực</td></tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～だけでなく～も含めて</strong> — không chỉ ~ mà còn bao gồm cả ~
+            <div class="example">
+              <span class="jp">CLAUDE.mdを書くだけでなく、検証ループも含めて設計することが必要だ。</span>
+              <span class="vi">Không chỉ viết CLAUDE.md mà còn cần thiết kế bao gồm cả verification loop.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～にとどめ、～に集約すべきだ</strong> — nên giữ ~ ở mức tối giản, tập trung vào ~
+            <div class="example">
+              <span class="jp">オーケストレーション層は最小限にとどめ、知性をスキルに集約すべきだ。</span>
+              <span class="vi">Nên giữ tầng orchestration tối giản và tập trung trí tuệ vào skills.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<!-- =========================================================
+     SECTION C: GLOBAL TECH — 3 articles
+     ========================================================= -->
+<section id="global-tech" class="digest-section">
+  <h2 class="section-title">🌐 Global Tech / AI (English)</h2>
+
+  <!-- C1: Claude Opus 4.7 — Anthropic -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C1</span>Introducing Claude Opus 4.7</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Article (English)</div>
+        <p class="content-text lang-en">
+          Anthropic released Claude Opus 4.7 on April 16, 2026, delivering significant gains in software engineering, agentic task handling, and vision processing while maintaining the same pricing as Opus 4.6: $5 per million input tokens and $25 per million output tokens. The model is available across Claude products and via partners including Amazon Bedrock, Google Cloud's Vertex AI, and Microsoft Foundry. Benchmarks show 87.6% on SWE-bench Verified and 94.2% on GPQA, both substantial improvements. Vision capabilities now support images up to 2,576 pixels on the long edge—over three times the previous limit—with notable improvements in reading chemical structures and technical diagrams. A new "xhigh" effort level enables finer reasoning depth control, and task budgets entered public beta, allowing developers to cap token spending across extended operations. Anthropic also strengthened safety guardrails: cyber safeguards now detect and block prohibited cybersecurity uses, a Cyber Verification Program accredits legitimate security researchers, and resistance to prompt injection attacks improved. Developers migrating from Opus 4.6 should validate prompt behavior before switching, as the updated tokenizer may alter token counts by 1.0–1.35× in complex use cases.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge high">🔴 HIGH IMPACT</span>
+          <span class="impact-text">Major model upgrade: improved coding benchmarks, 3× vision resolution, new effort controls — evaluate migration cost and retune prompts before switching.</span>
+        </div>
+        <div class="source">
+          Source: Anthropic · 2026-04-16 · Author: Anthropic ·
+          <a href="https://www.anthropic.com/news/claude-opus-4-7" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          Anthropic phát hành Claude Opus 4.7 vào ngày 16/4/2026 với cải thiện đáng kể trong lập trình phần mềm, tác vụ agentic và xử lý hình ảnh, trong khi giữ nguyên giá so với Opus 4.6: 5 USD/triệu token đầu vào và 25 USD đầu ra. Model có mặt trên các sản phẩm Claude và qua Amazon Bedrock, Google Cloud Vertex AI, Microsoft Foundry. Benchmark đạt 87.6% trên SWE-bench Verified và 94.2% trên GPQA — cải thiện đáng kể. Vision hỗ trợ ảnh tối đa 2.576 pixels cạnh dài — gấp hơn 3 lần trước, với khả năng đọc cấu trúc hóa học và sơ đồ kỹ thuật tốt hơn. "xhigh effort level" mới cho phép kiểm soát chi tiết độ sâu suy luận. Task budgets bắt đầu public beta giúp developer giới hạn chi tiêu token. Về bảo mật: cơ chế mới phát hiện/chặn dùng cho mục đích an ninh mạng bị cấm, Cyber Verification Program xác nhận researcher hợp pháp, khả năng chống prompt injection được tăng cường. Developer từ Opus 4.6 cần kiểm tra hành vi prompt trước khi migration vì tokenizer mới có thể thay đổi token count 1.0-1.35×.
+        </div>
+        <div class="impact-note">
+          Nếu bạn dùng Opus 4.6 trong production, cần test lại chi phí token và behavior trước khi nâng cấp. Cải thiện coding và vision rõ rệt — đặc biệt đáng upgrade cho pipeline có nhiều tác vụ agent hoặc phân tích ảnh kỹ thuật.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ khó</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr><td class="term-en">SWE-bench Verified</td><td class="term-pron">/swɛ bɛntʃ/</td><td class="term-explain">Bộ benchmark đánh giá khả năng giải quyết issue GitHub thực tế của AI — điểm cao = lập trình thực chiến tốt.</td></tr>
+            <tr><td class="term-en">xhigh effort level</td><td class="term-pron">/ɛks haɪ/</td><td class="term-explain">Mức nỗ lực suy luận tối đa mới trong Opus 4.7, kiểm soát độ sâu reasoning để cân bằng giữa chi phí và độ chính xác.</td></tr>
+            <tr><td class="term-en">Prompt injection</td><td class="term-pron">/prɒmpt ɪnˈdʒɛkʃən/</td><td class="term-explain">Tấn công chèn lệnh độc hại vào input của AI để thao túng hành vi — Opus 4.7 tăng cường phòng thủ.</td></tr>
+            <tr><td class="term-en">Task budget</td><td class="term-pron">/tæsk ˈbʌdʒɪt/</td><td class="term-explain">Giới hạn token cho từng tác vụ, giúp kiểm soát chi phí trong workflow dài (extended operations).</td></tr>
+            <tr><td class="term-en">Tokenizer</td><td class="term-pron">/ˈtoʊkənaɪzər/</td><td class="term-explain">Bộ phân tích văn bản thành token — tokenizer mới có thể thay đổi token count so với phiên bản trước.</td></tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- C2: Anthropic Managed Agents — InfoQ -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C2</span>Anthropic Introduces Managed Agents to Simplify AI Agent Deployment</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Article (English)</div>
+        <p class="content-text lang-en">
+          Anthropic has launched Managed Agents on its Claude platform, a hosted execution layer that removes the need for teams to build custom agent infrastructure from scratch. Rather than implementing orchestration, sandboxing, credential management, and session state persistence independently, developers define agent logic, tool access, and workflow constraints through a structured API while the platform handles secure execution, context continuity, and observability tooling for debugging. The offering is priced at $0.08 per session hour. Industry reception has been broadly positive: NTT DATA noted that "all the infrastructure complexity that used to take months is now native to the platform." Concerns about vendor lock-in have emerged, with one startup founder suggesting that trajectory definitions should be open source rather than tied to proprietary SDKs. Context persistence across long-running workflows remains a technical challenge—systems must determine what information to retain or externalize when approaching model context limits. The release signals Anthropic's intent to evolve beyond a model provider role into a full agent execution platform, competing directly with AWS Bedrock Agents, Azure AI Agents, and Google Vertex AI Agent Builder in the hosted orchestration market.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge high">🔴 HIGH IMPACT</span>
+          <span class="impact-text">Agent infrastructure now managed by Anthropic: weeks of infra work reduced to API calls — evaluate vendor lock-in before committing production workloads.</span>
+        </div>
+        <div class="source">
+          Source: InfoQ · 2026-04-21 · Author: Leela Kumili ·
+          <a href="https://www.infoq.com/news/2026/04/anthropic-managed-agents/" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          Anthropic ra mắt Managed Agents trên nền tảng Claude — lớp thực thi được host sẵn, giúp loại bỏ nhu cầu tự xây dựng cơ sở hạ tầng agent. Thay vì phải tự triển khai orchestration, sandboxing, quản lý credential và session state, developer chỉ cần định nghĩa logic agent, quyền truy cập công cụ và ràng buộc workflow qua API có cấu trúc; nền tảng xử lý phần còn lại bao gồm môi trường thực thi bảo mật, duy trì context và công cụ observability. Giá: 0.08 USD/giờ session. Phản hồi ngành tích cực: NTT DATA nhận xét "độ phức tạp cơ sở hạ tầng vốn mất hàng tháng giờ được tích hợp sẵn". Lo ngại về vendor lock-in xuất hiện — một startup founder cho rằng định nghĩa trajectory cần là open source thay vì gắn với proprietary SDK. Duy trì context cho workflow dài vẫn là thách thức kỹ thuật. Đây là tín hiệu Anthropic muốn trở thành platform thực thi agent đầy đủ, cạnh tranh với AWS Bedrock Agents, Azure AI Agents và Google Vertex AI Agent Builder.
+        </div>
+        <div class="impact-note">
+          Nếu bạn đang xây AI agent pipeline, Managed Agents có thể giảm đáng kể setup infrastructure — nhưng hãy đánh giá kỹ trade-off giữa tốc độ triển khai và vendor lock-in trước khi đưa vào production stack.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ khó</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr><td class="term-en">Managed Agents</td><td class="term-pron">/ˈmænɪdʒd ˈeɪdʒənts/</td><td class="term-explain">Dịch vụ thực thi agent được Anthropic quản lý — developer chỉ định nghĩa logic, platform lo phần vận hành.</td></tr>
+            <tr><td class="term-en">Sandboxing</td><td class="term-pron">/ˈsændbɒksɪŋ/</td><td class="term-explain">Kỹ thuật cô lập môi trường thực thi để ngăn agent truy cập tài nguyên ngoài phạm vi cho phép.</td></tr>
+            <tr><td class="term-en">Vendor lock-in</td><td class="term-pron">/ˈvɛndər lɒk ɪn/</td><td class="term-explain">Tình trạng phụ thuộc vào một nhà cung cấp, khó chuyển sang provider khác mà không tốn nhiều công.</td></tr>
+            <tr><td class="term-en">Session state</td><td class="term-pron">/ˈsɛʃən steɪt/</td><td class="term-explain">Trạng thái phiên làm việc — thông tin được duy trì giữa các lần gọi trong cùng một workflow.</td></tr>
+            <tr><td class="term-en">Trajectory</td><td class="term-pron">/trəˈdʒɛktəri/</td><td class="term-explain">Trong agent context: chuỗi hành động và quyết định của agent, có thể định nghĩa và tái sử dụng.</td></tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- C3: GitHub Copilot Changes — Simon Willison -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C3</span>Changes to GitHub Copilot Individual Plans</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Article (English)</div>
+        <p class="content-text lang-en">
+          GitHub has significantly restructured its Copilot individual plans, tightening usage limits, temporarily pausing new signups, and restricting Claude Opus 4.7 access to the premium Pro+ tier at $39/month. Previous Opus model versions have been discontinued entirely. The root cause: agentic workflows consume dramatically more compute than GitHub anticipated. Long-running, parallelized agent sessions regularly consume far more resources than single-shot completions, and because Copilot historically charged per-request rather than per-token, individual agentic sessions consuming massive token volumes directly erode margins. The new pricing scheme introduces token-based usage caps on both per-session and weekly bases. Simon Willison highlights a transparency problem: the announcement fails to clearly specify which of Microsoft's 75+ Copilot-branded products are affected. The changes appear to cover Copilot CLI, cloud agents, code review tools, and IDE features across VS Code, Zed, and JetBrains. For developers relying on Copilot for autonomous coding tasks, the new weekly token caps affect CLI agent usage patterns most severely, potentially requiring upgrades or workflow restructuring to maintain current productivity levels.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge medium">🟠 MEDIUM IMPACT</span>
+          <span class="impact-text">Copilot agentic workflow users face new token caps and model tier restrictions — audit your usage patterns now before hitting limits.</span>
+        </div>
+        <div class="source">
+          Source: Simon Willison's Weblog · 2026-04-22 · Author: Simon Willison ·
+          <a href="https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          GitHub đã tái cơ cấu đáng kể gói Copilot cá nhân: siết giới hạn sử dụng, tạm dừng đăng ký mới và hạn chế quyền truy cập Claude Opus 4.7 chỉ với gói Pro+ cao cấp 39 USD/tháng. Các phiên bản Opus cũ đã bị ngừng hoàn toàn. Nguyên nhân gốc rễ: agentic workflow tiêu thụ compute nhiều hơn dự đoán của GitHub. Các session agent chạy song song và dài hơi thường xuyên ngốn tài nguyên gấp nhiều lần so với completion đơn lẻ; vì Copilot tính phí theo request thay vì token, mỗi session agent tiêu thụ lượng token khổng lồ sẽ ảnh hưởng trực tiếp đến lợi nhuận. Sơ đồ định giá mới áp giới hạn theo token cho cả mỗi session và mỗi tuần. Simon Willison chỉ ra vấn đề thiếu minh bạch: thông báo không làm rõ sản phẩm nào trong hơn 75 sản phẩm mang thương hiệu Copilot của Microsoft bị ảnh hưởng. Các thay đổi dường như bao gồm Copilot CLI, cloud agents, công cụ code review và IDE trên VS Code, Zed, JetBrains. Developer dựa nhiều vào Copilot cho tác vụ tự động cần kiểm tra lại pattern sử dụng trước khi chạm giới hạn.
+        </div>
+        <div class="impact-note">
+          Nếu bạn dùng GitHub Copilot cho CLI agent hoặc code review tự động, hãy kiểm tra xem giới hạn token mới có ảnh hưởng đến workflow không. So sánh chi phí Pro+ với việc dùng Claude Code API trực tiếp — có thể tiết kiệm hơn tùy volume.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ khó</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr><td class="term-en">Agentic workflow</td><td class="term-pron">/eɪˈdʒɛntɪk ˈwɜːkfloʊ/</td><td class="term-explain">Luồng công việc AI tự chủ: agent tự lên kế hoạch, thực thi nhiều bước — tiêu thụ token gấp nhiều lần completion đơn lẻ.</td></tr>
+            <tr><td class="term-en">Per-request pricing</td><td class="term-pron">/pər rɪˈkwɛst/</td><td class="term-explain">Mô hình tính phí theo số lượng request (không phải token) — bất lợi khi mỗi request tiêu thụ hàng nghìn token.</td></tr>
+            <tr><td class="term-en">Pro+ tier</td><td class="term-pron">/proʊ plʌs tɪər/</td><td class="term-explain">Gói đăng ký cao cấp nhất GitHub Copilot ($39/tháng), hiện là gói duy nhất có Claude Opus 4.7.</td></tr>
+            <tr><td class="term-en">Token-based cap</td><td class="term-pron">/ˈtoʊkən beɪst kæp/</td><td class="term-explain">Giới hạn sử dụng tính theo token (thay vì request) — mô hình mới áp dụng theo session và theo tuần.</td></tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<footer>
+  <p>📚 デイリーダイジェスト | 2026-04-24 00:00 JST | 11 articles · JLPT N2+ · For SE/Cloud Engineer</p>
+  <p>Auto-generated by Claude Code Routine</p>
+</footer>
+
+<script>
+(function(){
+  var buttons=document.querySelectorAll('.theme-toggle button');
+  var html=document.documentElement;
+  function applyTheme(t){if(t==='system'){html.removeAttribute('data-theme');}else{html.setAttribute('data-theme',t);}localStorage.setItem('digest-theme',t);updateActive(t);}
+  function updateActive(t){buttons.forEach(function(b){if(b.getAttribute('data-theme-value')===t){b.classList.add('active');}else{b.classList.remove('active');}});}
+  buttons.forEach(function(b){b.addEventListener('click',function(){applyTheme(b.getAttribute('data-theme-value'));});});
+  updateActive(localStorage.getItem('digest-theme')||'system');
+})();
+</script>
+</body>
+</html>

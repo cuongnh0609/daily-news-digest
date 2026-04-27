@@ -35,33 +35,47 @@ Nếu không đủ tin AI chất lượng trong 24h → mở rộng window lên 
 
 ## ⏰ Bước 0a — XÁC ĐỊNH TIMESTAMP (BẮT BUỘC LÀM ĐẦU TIÊN)
 
-**TRƯỚC KHI LÀM BẤT KỲ THỨ GÌ KHÁC**, chạy lệnh này MỘT LẦN và lưu kết quả để dùng xuyên suốt run:
+**TRƯỚC KHI LÀM BẤT KỲ THỨ GÌ KHÁC**, chạy lệnh này MỘT LẦN tại thời điểm bắt đầu collect và lưu kết quả để dùng xuyên suốt run (KHÔNG gọi `date` lại lần thứ hai — fetch có thể kéo dài 30 phút làm lệch giờ):
 
 ```bash
-date '+%Y-%m-%d %H %u %A'
-# ví dụ output: 2026-04-27 20 1 Monday
+date '+%Y-%m-%d %H %M %u %A'
+# ví dụ output: 2026-04-27 19 47 1 Monday
 ```
 
-Từ output đó, derive các biến **rồi giữ nguyên không đổi suốt toàn run** (kể cả nếu việc fetch + viết kéo dài 30 phút):
+Từ output đó, derive các biến **giữ nguyên không đổi suốt toàn run**:
 
-| Biến         | Cách tính                                                                                                | Ví dụ           |
-| ------------ | -------------------------------------------------------------------------------------------------------- | --------------- |
-| `RUN_DATE`   | `%Y-%m-%d` từ output                                                                                     | `2026-04-27`    |
-| `RUN_HOUR`   | Lấy `%H` rồi **làm tròn XUỐNG bội số 5** (00, 05, 10, 15, 20). VD: 20→20, 19→15, 14→10, 03→00            | `20`            |
-| `RUN_DOW`    | Map `%u` (1=Mon..7=Sun) → kanji 1 ký tự: 1月 2火 3水 4木 5金 6土 7日                                       | `月`            |
+| Biến                | Cách tính                                                              | Ví dụ           |
+| ------------------- | ---------------------------------------------------------------------- | --------------- |
+| `RUN_DATE`          | `%Y-%m-%d`                                                             | `2026-04-27`    |
+| `RUN_HOUR`          | `%H` — **giờ thật, KHÔNG làm tròn**                                    | `19`            |
+| `RUN_MINUTE`        | `%M` — **phút thật, KHÔNG làm tròn**                                   | `47`            |
+| `RUN_TIME_DISPLAY`  | `{RUN_HOUR}:{RUN_MINUTE}` (luôn 2 chữ số, zero-pad)                    | `19:47`         |
+| `RUN_DOW`           | Map `%u` (1=Mon..7=Sun) → kanji 1 ký tự: 1月 2火 3水 4木 5金 6土 7日       | `月`            |
 
-**Quy tắc tuyệt đối**:
+**Quy tắc tuyệt đối**: thời gian hiển thị = thời điểm thực tế khi job collect bắt đầu, KHÔNG làm tròn về cron slot, KHÔNG dịch về `:00`. Nếu cron fire 19:58 thì hiển thị `19:58 JST`. Nếu test thủ công lúc 14:23 thì hiển thị `14:23 JST`.
 
-- `RUN_HOUR` luôn là số 2 chữ số trong tập `{00, 05, 10, 15, 20}` — KHÔNG được dùng giờ thật như 19, 21, 04. Cron chỉ fire ở 5 slot đó.
-- Nếu `date` trả về giờ không phải bội số 5 (vì run bị trễ vài phút hoặc test thủ công), **vẫn round xuống** slot gần nhất. VD: 20:03 → `20`, 19:58 → `15`.
-- Ba biến này **xuất hiện ở 5 nơi** — tất cả phải dùng CÙNG giá trị:
-  1. Tên file: `news/{RUN_DATE}_{RUN_HOUR}.html`
-  2. Placeholder `{{DATE}}` `{{HOUR}}` `{{DOW}}` trong HTML (header + footer)
-  3. Commit message: `news: デイリーダイジェスト {RUN_DATE} {RUN_HOUR}:00 JST (11 articles)`
-  4. Email subject: `🗞️ デイリーダイジェスト — {RUN_DATE/}/{HH}:00 JST` và path attachment
-  5. State file `state/last_run_urls.json` field `run_at`
+Các biến này dùng nhất quán ở 5 nơi:
 
-Self-check trước khi commit: `grep -E '(19|21|22|23|01|02|03|04|06|07|08|09|11|12|13|14|16|17|18):00 JST' news/{RUN_DATE}_{RUN_HOUR}.html` phải KHÔNG match — nếu match là sai slot, fix lại.
+| Nơi                                           | Format                                                                              |
+| --------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Tên file                                      | `news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html` (vd `news/2026-04-27_1947.html`)      |
+| Placeholder HTML `{{DATE}}` `{{HOUR}}` `{{DOW}}` | `{{DATE}}` ← `RUN_DATE`; `{{HOUR}}` ← `RUN_TIME_DISPLAY`; `{{DOW}}` ← `RUN_DOW`     |
+| Commit message                                | `news: デイリーダイジェスト {RUN_DATE} {RUN_TIME_DISPLAY} JST (11 articles)`         |
+| Email subject + attachment path               | `🗞️ デイリーダイジェスト — {RUN_DATE}/{RUN_TIME_DISPLAY} JST` + `news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html` |
+| State file `state/last_run_urls.json` `run_at`  | ISO `{RUN_DATE}T{RUN_HOUR}:{RUN_MINUTE}:00+09:00`                                   |
+
+⚠️ Lưu ý template hiện in `{{HOUR}}:00 JST` — sửa cứng phần `:00` thành ` JST` (bỏ `:00` vì `{{HOUR}}` giờ đã là `HH:MM`). Replace placeholder bằng `RUN_TIME_DISPLAY` để chuỗi cuối là `19:47 JST`, KHÔNG được để `19:47:00 JST`.
+
+Self-check trước khi commit:
+
+```bash
+# 1. tên file phải khớp giờ + phút thực tế
+ls news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html
+# 2. header HTML phải chứa cùng RUN_TIME_DISPLAY
+grep -F "{RUN_TIME_DISPLAY} JST" news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html
+# 3. KHÔNG còn ":00 JST" stray
+! grep -F ":00 JST" news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html
+```
 
 ---
 
@@ -399,7 +413,7 @@ Chọn tin theo tiêu chí: **tin này có khiến dev phải thay đổi cách 
 
 ## 🎨 Bước 3 — Tạo file HTML
 
-File: `news/YYYY-MM-DD_HH.html` (JST). Dùng template `templates/news_template.html`.
+File: `news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html` (JST, vd `news/2026-04-27_1947.html`). Dùng template `templates/news_template.html`.
 
 Cấu trúc 3 section:
 
@@ -428,19 +442,23 @@ Template có placeholder `{{PREV_DIGESTS_NAV}}` trong block `<ul class="prev-dig
 
 Các bước:
 
-1. List file:
+1. List file (chấp nhận cả 2 format: `_HH.html` cũ và `_HHMM.html` mới):
    ```bash
-   ls news/ | grep -E '^[0-9]{4}-[0-9]{2}-[0-9]{2}_[0-9]{2}\.html$' | sort -r | head -10
+   ls news/ | grep -E '^[0-9]{4}-[0-9]{2}-[0-9]{2}_[0-9]{2,4}\.html$' | sort -r | head -10
    ```
    (file đang sinh chưa được ghi nên không xuất hiện ở đây — không cần lọc thêm)
 
-2. Với mỗi tên file `YYYY-MM-DD_HH.html`, sinh 1 dòng:
+2. Với mỗi tên file, parse phần thời gian sau `_`:
+   - Nếu 4 chữ số `HHMM` → label = `YYYY-MM-DD HH:MM` (vd `2026-04-27_1947.html` → `2026-04-27 19:47`)
+   - Nếu 2 chữ số `HH` (file cũ) → label = `YYYY-MM-DD HH:00` (vd `2026-04-26_01.html` → `2026-04-26 01:00`)
+
+   Sinh 1 dòng:
    ```html
-   <li><a href="file:///Users/cuongnh0609/git/daily-news-digest/news/YYYY-MM-DD_HH.html">YYYY-MM-DD HH:00</a></li>
+   <li><a href="file:///Users/cuongnh0609/git/daily-news-digest/news/{FILENAME}">{LABEL}</a></li>
    ```
    Dùng absolute `file:///` URL vì user mở qua bookmark local; cùng URL hoạt động cho cả `latest-news.html` ở root lẫn file trong `news/`.
 
-3. Replace `{{PREV_DIGESTS_NAV}}` trong file `news/YYYY-MM-DD_HH.html` bằng chuỗi gồm các `<li>` đó (nối bằng newline).
+3. Replace `{{PREV_DIGESTS_NAV}}` trong file digest mới sinh bằng chuỗi gồm các `<li>` đó (nối bằng newline).
 
 4. Nếu thư mục `news/` rỗng (run đầu tiên), thay placeholder bằng:
    ```html
@@ -453,12 +471,12 @@ Nav xuất hiện sau section C, ngay trước footer.
 
 ## 📤 Bước 4 — Commit & Push (thẳng vào `main`)
 
-Sau khi sinh xong `news/YYYY-MM-DD_HH.html`, copy nó thành `latest-news.html` ở repo root (để user bookmark file local trên browser, luôn trỏ tới bản tin mới nhất). Rồi commit + push thẳng lên `main`.
+Sau khi sinh xong `news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html`, copy nó thành `latest-news.html` ở repo root (để user bookmark file local trên browser, luôn trỏ tới bản tin mới nhất). Rồi commit + push thẳng lên `main`.
 
 ```bash
-cp news/YYYY-MM-DD_HH.html latest-news.html
-git add news/YYYY-MM-DD_HH.html latest-news.html state/last_run_urls.json
-git commit -m "news: デイリーダイジェスト YYYY-MM-DD HH:00 JST (11 articles)"
+cp news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html latest-news.html
+git add news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html latest-news.html state/last_run_urls.json
+git commit -m "news: デイリーダイジェスト {RUN_DATE} {RUN_TIME_DISPLAY} JST (11 articles)"
 git push origin main
 ```
 
@@ -472,10 +490,10 @@ Nếu `git push` bị reject vì có commit mới trên remote (hiếm) → `git
 
 Sau khi push lên `main` thành công, gửi email summary qua script `./scripts/notify_email.sh`. Script nhận body qua stdin, subject là `$1`, **đường dẫn file đính kèm là `$2`** (Mail.app sẽ attach trực tiếp). Recipient đọc từ env `DIGEST_EMAIL_TO` (default `gian@core-corp.co.jp`).
 
-Chạy lệnh shell sau từ repo root (thay `YYYY-MM-DD` và `HH` bằng giá trị thực — đính kèm bản `news/YYYY-MM-DD_HH.html` để có timestamp trong tên file):
+Chạy lệnh shell sau từ repo root (thay `{RUN_DATE}`, `{RUN_HOUR}`, `{RUN_MINUTE}`, `{RUN_TIME_DISPLAY}` bằng giá trị thực từ Bước 0a — đính kèm bản `news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html` để có timestamp trong tên file):
 
 ```bash
-cat <<'EMAIL_BODY' | ./scripts/notify_email.sh "🗞️ デイリーダイジェスト — YYYY/MM/DD HH:00 JST" "$(pwd)/news/YYYY-MM-DD_HH.html"
+cat <<'EMAIL_BODY' | ./scripts/notify_email.sh "🗞️ デイリーダイジェスト — {RUN_DATE} {RUN_TIME_DISPLAY} JST" "$(pwd)/news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html"
 🗾 日本ニュース (5)
 • [tiêu đề 1]
 • [tiêu đề 2]
@@ -493,7 +511,7 @@ cat <<'EMAIL_BODY' | ./scripts/notify_email.sh "🗞️ デイリーダイジェ
 • [title 2] 🟠 MEDIUM
 • [title 3] 🟡 LOW
 
-GitHub (main):   https://github.com/cuongnh0609/daily-news-digest/blob/main/news/YYYY-MM-DD_HH.html
+GitHub (main):   https://github.com/cuongnh0609/daily-news-digest/blob/main/news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html
 Latest bookmark: https://github.com/cuongnh0609/daily-news-digest/blob/main/latest-news.html
 
 Bản HTML đầy đủ đính kèm email này — mở trực tiếp để đọc layout 2 cột.
@@ -506,7 +524,7 @@ EMAIL_BODY
 - Hiển thị đủ 11 tiêu đề (5 + 3 + 3), không rút gọn
 - Mục C: mỗi tin gắn impact marker ở cuối; dòng đầu section summary số lượng mỗi mức
 - Đường dẫn attachment phải là **absolute path** (dùng `$(pwd)/...` hoặc đường dẫn tuyệt đối) — Mail.app không hiểu relative path
-- Đính kèm file `news/YYYY-MM-DD_HH.html` (bản có timestamp), không phải `latest-news.html`, để file lưu trong email không bị overwrite ở run sau
+- Đính kèm file `news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html` (bản có timestamp), không phải `latest-news.html`, để file lưu trong email không bị overwrite ở run sau
 
 ---
 
@@ -519,8 +537,9 @@ EMAIL_BODY
 - ✅ Nội dung cột trái ≥ 150 chữ/từ (không tóm tắt qua loa)
 - ✅ Dịch VN (mục A, B, C) ≥ 4 câu đầy đủ
 - ✅ Bảng từ vựng (A, B) / thuật ngữ (C) có đủ cột quy định
-- ✅ `latest-news.html` ở repo root được copy/overwrite từ file `news/YYYY-MM-DD_HH.html` mới sinh
+- ✅ `latest-news.html` ở repo root được copy/overwrite từ file `news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html` mới sinh
 - ✅ Nav "Bản tin trước đó" (Bước 3.x) chứa tối đa 10 link `file:///` đến các digest cũ, không có placeholder `{{PREV_DIGESTS_NAV}}` nào còn sót
+- ✅ Header HTML hiển thị đúng `RUN_TIME_DISPLAY` (giờ:phút thực tế khi job bắt đầu, KHÔNG làm tròn về `:00`)
 - ✅ Commit + push thành công lên `main` (không tạo branch)
 - ✅ Email gửi thành công, có file HTML đính kèm
 

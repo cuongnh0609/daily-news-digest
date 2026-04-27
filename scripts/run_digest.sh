@@ -40,6 +40,11 @@ export PATH="/Users/cuongnh0609/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr
   echo "--- claude exit: $CLAUDE_EXIT ---"
   echo "--- stream log size: $(wc -c <"$STREAM_LOG") bytes, $(wc -l <"$STREAM_LOG") lines ---"
 
+  if [ -f "$REPO/latest-news.html" ]; then
+    echo "--- opening latest-news.html in default browser ---"
+    open "$REPO/latest-news.html" || true
+  fi
+
   echo "=== Run finished: $(date -Iseconds) ==="
   exit $CLAUDE_EXIT
 } >"$RUN_LOG" 2>&1

@@ -33,6 +33,38 @@ Nếu không đủ tin AI chất lượng trong 24h → mở rộng window lên 
 
 ---
 
+## ⏰ Bước 0a — XÁC ĐỊNH TIMESTAMP (BẮT BUỘC LÀM ĐẦU TIÊN)
+
+**TRƯỚC KHI LÀM BẤT KỲ THỨ GÌ KHÁC**, chạy lệnh này MỘT LẦN và lưu kết quả để dùng xuyên suốt run:
+
+```bash
+date '+%Y-%m-%d %H %u %A'
+# ví dụ output: 2026-04-27 20 1 Monday
+```
+
+Từ output đó, derive các biến **rồi giữ nguyên không đổi suốt toàn run** (kể cả nếu việc fetch + viết kéo dài 30 phút):
+
+| Biến         | Cách tính                                                                                                | Ví dụ           |
+| ------------ | -------------------------------------------------------------------------------------------------------- | --------------- |
+| `RUN_DATE`   | `%Y-%m-%d` từ output                                                                                     | `2026-04-27`    |
+| `RUN_HOUR`   | Lấy `%H` rồi **làm tròn XUỐNG bội số 5** (00, 05, 10, 15, 20). VD: 20→20, 19→15, 14→10, 03→00            | `20`            |
+| `RUN_DOW`    | Map `%u` (1=Mon..7=Sun) → kanji 1 ký tự: 1月 2火 3水 4木 5金 6土 7日                                       | `月`            |
+
+**Quy tắc tuyệt đối**:
+
+- `RUN_HOUR` luôn là số 2 chữ số trong tập `{00, 05, 10, 15, 20}` — KHÔNG được dùng giờ thật như 19, 21, 04. Cron chỉ fire ở 5 slot đó.
+- Nếu `date` trả về giờ không phải bội số 5 (vì run bị trễ vài phút hoặc test thủ công), **vẫn round xuống** slot gần nhất. VD: 20:03 → `20`, 19:58 → `15`.
+- Ba biến này **xuất hiện ở 5 nơi** — tất cả phải dùng CÙNG giá trị:
+  1. Tên file: `news/{RUN_DATE}_{RUN_HOUR}.html`
+  2. Placeholder `{{DATE}}` `{{HOUR}}` `{{DOW}}` trong HTML (header + footer)
+  3. Commit message: `news: デイリーダイジェスト {RUN_DATE} {RUN_HOUR}:00 JST (11 articles)`
+  4. Email subject: `🗞️ デイリーダイジェスト — {RUN_DATE/}/{HH}:00 JST` và path attachment
+  5. State file `state/last_run_urls.json` field `run_at`
+
+Self-check trước khi commit: `grep -E '(19|21|22|23|01|02|03|04|06|07|08|09|11|12|13|14|16|17|18):00 JST' news/{RUN_DATE}_{RUN_HOUR}.html` phải KHÔNG match — nếu match là sai slot, fix lại.
+
+---
+
 ## 🚨 Bước 0 — KIỂM TRA CHỐNG TRÙNG LẶP (BẮT BUỘC TRƯỚC KHI LÀM GÌ KHÁC)
 
 **Đây là bước đầu tiên, không được bỏ qua.** Routine chạy mỗi 5 tiếng — tin tức từ lần chạy trước còn mới nguyên, nếu không lọc sẽ lặp lại y hệt.

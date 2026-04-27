@@ -383,7 +383,25 @@ Chọn tin theo tiêu chí: **tin này có khiến dev phải thay đổi cách 
 - **📘 語彙** — bảng 5–8 từ N2+, 4 cột: 単語 | 読み方 | 漢越 | 意味
   - Mục A: từ phổ thông/báo chí cấp N2+
   - Mục B: từ kỹ thuật IT tiếng Nhật (ví dụ: 実装 じっそう "implement", 冗長化 じょうちょうか "redundancy", 負荷分散 ふかぶんさん "load balancing")
-  - Katakana thuần: cột 漢越 ghi "—", cột 意味 ghi "nghĩa VN + (từ gốc EN)"
+  - **Cột 漢越 BẮT BUỘC điền âm Hán-Việt của TỪNG kanji trong từ** (viết thường, các âm cách nhau bằng dấu cách, không thêm chú thích nghĩa). Ví dụ:
+
+    | 単語       | 読み方        | 漢越               | 意味                          |
+    | ---------- | ------------- | ------------------ | ----------------------------- |
+    | 実装       | じっそう       | thực trang         | triển khai, hiện thực hóa     |
+    | 冗長化     | じょうちょうか | nhũng trường hóa   | redundancy, dự phòng          |
+    | 負荷分散   | ふかぶんさん   | phụ hà phân tán    | load balancing                |
+    | 環境       | かんきょう     | hoàn cảnh          | môi trường                    |
+    | 開発       | かいはつ       | khai phát          | phát triển (development)      |
+    | 政府       | せいふ         | chính phủ          | chính phủ                     |
+    | 経済       | けいざい       | kinh tế            | kinh tế                       |
+    | 食べ物     | たべもの       | thực (vật)         | đồ ăn (đuôi hiragana bỏ qua, chỉ Hán-Việt phần kanji) |
+
+  - **Quy tắc**:
+    - 1 kanji → 1 âm Hán-Việt; nhiều kanji → ghép tất cả, cách bằng dấu cách
+    - Phần hiragana / okurigana trong từ: bỏ qua, chỉ Hán-Việt phần kanji
+    - Katakana thuần (vd `デプロイ`, `コンテナ`): cột 漢越 ghi `—`, cột 意味 ghi "nghĩa VN + (từ gốc EN)"
+    - Hỗn hợp kanji + katakana (vd `IT化`): chỉ Hán-Việt phần kanji (`hóa`)
+  - **CẤM** để cột 漢越 trống, ghi `—` cho từ có kanji, hoặc viết nghĩa tiếng Việt vào cột này (đó là cột 意味)
 - **📗 文法** — 1–2 mẫu N2+ thực sự xuất hiện trong bài, mỗi mẫu kèm 1 ví dụ song ngữ
 
 ### 2.2. Layout cho mục C (bài tiếng Anh)
@@ -537,6 +555,7 @@ EMAIL_BODY
 - ✅ Nội dung cột trái ≥ 150 chữ/từ (không tóm tắt qua loa)
 - ✅ Dịch VN (mục A, B, C) ≥ 4 câu đầy đủ
 - ✅ Bảng từ vựng (A, B) / thuật ngữ (C) có đủ cột quy định
+- ✅ Cột **漢越** ở bảng từ vựng A/B điền âm Hán-Việt thực sự cho mọi từ có kanji (KHÔNG để trống, KHÔNG ghi `—`, KHÔNG ghi nghĩa tiếng Việt). Chỉ `—` khi từ là katakana thuần.
 - ✅ `latest-news.html` ở repo root được copy/overwrite từ file `news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html` mới sinh
 - ✅ Nav "Bản tin trước đó" (Bước 3.x) chứa tối đa 10 link `file:///` đến các digest cũ, không có placeholder `{{PREV_DIGESTS_NAV}}` nào còn sót
 - ✅ Header HTML hiển thị đúng `RUN_TIME_DISPLAY` (giờ:phút thực tế khi job bắt đầu, KHÔNG làm tròn về `:00`)

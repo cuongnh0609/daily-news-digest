@@ -436,11 +436,49 @@
     color: var(--note-ink);
     text-align: center;
   }
+  .prev-digests {
+    margin-top: 3.5rem;
+    padding: 1.2rem 1.4rem;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-family: system-ui, sans-serif;
+  }
+  .prev-digests h3 {
+    margin: 0 0 0.8rem;
+    font-size: 0.95rem;
+    color: var(--ink);
+    letter-spacing: 0.02em;
+  }
+  .prev-digests-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+  }
+  .prev-digests-list a {
+    display: inline-block;
+    padding: 0.35rem 0.7rem;
+    border-radius: 999px;
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    font-size: 0.78rem;
+    text-decoration: none;
+    font-variant-numeric: tabular-nums;
+    border: 1px solid transparent;
+    transition: background 0.15s ease, border-color 0.15s ease;
+  }
+  .prev-digests-list a:hover {
+    background: transparent;
+    border-color: var(--accent-jp);
+  }
   footer {
     text-align: center;
     color: var(--sub);
     font-size: 0.85rem;
-    margin-top: 4rem;
+    margin-top: 2.5rem;
     font-family: system-ui, sans-serif;
     padding-top: 1.5rem;
     border-top: 1px solid var(--border);
@@ -666,6 +704,13 @@
 
   <!-- 2 articles nữa (tổng 3) -->
 
+</section>
+
+<section class="prev-digests" aria-label="Bản tin gần đây">
+  <h3>📅 Bản tin trước đó</h3>
+  <ul class="prev-digests-list">
+    {{PREV_DIGESTS_NAV}}
+  </ul>
 </section>
 
 <footer>

@@ -390,6 +390,33 @@ Cấu trúc 3 section:
 
 Layout tự động chuyển đổi theo class `news-card--jp` hoặc `news-card--en`. CSS đã responsive: desktop ≥ 1000px dùng 2 cột, mobile stack.
 
+### 3.x — Điền nav "Bản tin trước đó" (10 file gần nhất)
+
+Template có placeholder `{{PREV_DIGESTS_NAV}}` trong block `<ul class="prev-digests-list">`. Thay placeholder này bằng `<li><a>...</a></li>` cho 10 file digest gần nhất **đã tồn tại trong `news/`** (KHÔNG bao gồm file đang sinh ở run này).
+
+Các bước:
+
+1. List file:
+   ```bash
+   ls news/ | grep -E '^[0-9]{4}-[0-9]{2}-[0-9]{2}_[0-9]{2}\.html$' | sort -r | head -10
+   ```
+   (file đang sinh chưa được ghi nên không xuất hiện ở đây — không cần lọc thêm)
+
+2. Với mỗi tên file `YYYY-MM-DD_HH.html`, sinh 1 dòng:
+   ```html
+   <li><a href="file:///Users/cuongnh0609/git/daily-news-digest/news/YYYY-MM-DD_HH.html">YYYY-MM-DD HH:00</a></li>
+   ```
+   Dùng absolute `file:///` URL vì user mở qua bookmark local; cùng URL hoạt động cho cả `latest-news.html` ở root lẫn file trong `news/`.
+
+3. Replace `{{PREV_DIGESTS_NAV}}` trong file `news/YYYY-MM-DD_HH.html` bằng chuỗi gồm các `<li>` đó (nối bằng newline).
+
+4. Nếu thư mục `news/` rỗng (run đầu tiên), thay placeholder bằng:
+   ```html
+   <li style="color: var(--sub); font-size: 0.78rem;">(chưa có bản tin trước)</li>
+   ```
+
+Nav xuất hiện sau section C, ngay trước footer.
+
 ---
 
 ## 📤 Bước 4 — Commit & Push (thẳng vào `main`)
@@ -461,6 +488,7 @@ EMAIL_BODY
 - ✅ Dịch VN (mục A, B, C) ≥ 4 câu đầy đủ
 - ✅ Bảng từ vựng (A, B) / thuật ngữ (C) có đủ cột quy định
 - ✅ `latest-news.html` ở repo root được copy/overwrite từ file `news/YYYY-MM-DD_HH.html` mới sinh
+- ✅ Nav "Bản tin trước đó" (Bước 3.x) chứa tối đa 10 link `file:///` đến các digest cũ, không có placeholder `{{PREV_DIGESTS_NAV}}` nào còn sót
 - ✅ Commit + push thành công lên `main` (không tạo branch)
 - ✅ Email gửi thành công, có file HTML đính kèm
 

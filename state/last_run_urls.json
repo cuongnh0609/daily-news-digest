@@ -1,33 +1,33 @@
 {
-  "last_run_at": "2026-04-27T15:00:00+09:00",
+  "last_run_at": "2026-04-27T20:00:00+09:00",
   "runs": [
     {
-      "run_at": "2026-04-27T15:00:00+09:00",
+      "run_at": "2026-04-27T20:00:00+09:00",
       "urls": [
-        "https://www.jiji.com/jc/article?k=2026042700092&g=soc",
-        "https://www.itmedia.co.jp/news/articles/2604/27/news102.html",
-        "https://www.jiji.com/jc/article?k=2026042700086&g=pol",
-        "https://news.yahoo.co.jp/pickup/6577843",
-        "https://www.jiji.com/jc/article?k=2026042600171&g=int",
-        "https://zenn.dev/albaluce/articles/c6b1280ef58aee",
-        "https://zenn.dev/albaluce/articles/55586a0ee449b2",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2604/27/news012.html",
-        "https://github.blog/changelog/2026-04-23-copilot-chat-improvements-for-pull-requests",
-        "https://www.publickey1.jp/blog/26/googleaiagent_studioaigemini_enterprise_agent_platform.html",
-        "https://www.publickey1.jp/blog/26/salesforceapiclimcpsalesforce_headless_360.html"
+        "https://news.web.nhk/newsweb/na/na-k10015108891000",
+        "https://news.web.nhk/newsweb/na/na-k10015109281000",
+        "https://news.web.nhk/newsweb/na/na-k10015109321000",
+        "https://news.web.nhk/newsweb/na/na-k10015109511000",
+        "https://news.web.nhk/newsweb/na/na-k10015109441000",
+        "https://zenn.dev/yagisan_reports/articles/8a89b77f7106b9",
+        "https://zenn.dev/yamk/articles/dark-part-time-job-orchestrator",
+        "https://www.itmedia.co.jp/aiplus/articles/2604/24/news113.html",
+        "https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/",
+        "https://developer.chrome.com/docs/ai/prompt-api",
+        "https://github.blog/changelog/2026-04-24-notice-about-upcoming-new-format-for-github-app-installation-tokens"
       ],
       "titles": [
-        "北海道・浦幌町で震度5強 — 十勝地方南部M6.2、津波なし列車運休",
-        "はてな株が終日値付かず — 11億円不正流出でストップ安、市場に衝撃",
-        "高市首相、補正予算「必要とせず」— 参院委でイラン情勢踏まえ予備費活用を示唆",
-        "ブックデザイナー祖父江慎氏死去 — 享年66歳、個性的な装丁で出版界に功績",
-        "米トランプ前大統領の夕食会で発砲 — 警護隊が退避、散弾銃所持の男を拘束",
-        "CLAUDE.md を「3層構造」で書くと Claude Code が一気に賢くなる — グローバル・組織・プロジェクトの責務分離",
-        "Claude Code に MCP を21個つないで「AI会社」を作った — 6部門エージェント体制をCLAUDE.mdで自動振り分け",
-        "「トークンマクシング」とは何か — AIをどこまで使うかシリコンバレーで議論、過剰利用は生産性を下げる",
-        "GitHub Copilot Chat Gains Deep PR Understanding, Review, and Summary Features",
-        "Google Unveils Gemini Enterprise Agent Platform with Low-Code Agent Studio at Cloud Next 2026",
-        "Salesforce Headless 360: Full Platform Access via API, CLI, and MCP for AI Agents"
+        "岩手・大槌町の山林火災、発生6日目に初の雨降る — 28日も消火活動継続",
+        "北海道・三陸沖の後発地震注意情報が終了 — 専門家「引き続き備えを」",
+        "日産、昨年度の営業損益を赤字から黒字に上方修正 — 為替変動が追い風",
+        "東京エレクトロン台湾子会社にTSMC機密漏洩で7億6000万円罰金判決",
+        "新潟・県立高校生の自殺は「指導死」— 第三者委、部活顧問の過度な叱責を主因と認定",
+        "帳票エンジン会社が4年分のGUI開発を凍結、生成AIに全振り — Agentic Codingが既存製品設計を覆す",
+        "「Claude Codeで作ったAIオーケストレータを、なぜ使わなくなったのか」— 自作からClaude Code subagentへの移行記",
+        "NECがグループ3万人に「Claude Code」展開 — Anthropic協業でAI開発カルチャー変革へ",
+        "Anthropic Publishes April 23 Postmortem: Three Bugs in Claude Code Harness Caused Quality Regression",
+        "Chrome's Built-In Prompt API: Run Gemini Nano Locally in the Browser — No API Key, No Server",
+        "GitHub App Installation Tokens Changing to ~520-Character JWT Format — Migration Required by Late June 2026"
       ]
     },
     {
@@ -57,6 +57,35 @@
         "Anthropic and Amazon Expand Partnership to 5 Gigawatts of Compute — $100B+ in AWS Commitments",
         "OpenAI Retires SWE-bench Verified as a Frontier AI Benchmark — New Evaluations Needed",
         "Alibaba Releases Qwen3.6-27B Open-Source Model — Rivals Claude Opus 4.5 on Some Benchmarks"
+      ]
+    },
+    {
+      "run_at": "2026-04-27T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026042700092&g=soc",
+        "https://www.itmedia.co.jp/news/articles/2604/27/news102.html",
+        "https://www.jiji.com/jc/article?k=2026042700086&g=pol",
+        "https://news.yahoo.co.jp/pickup/6577843",
+        "https://www.jiji.com/jc/article?k=2026042600171&g=int",
+        "https://zenn.dev/albaluce/articles/c6b1280ef58aee",
+        "https://zenn.dev/albaluce/articles/55586a0ee449b2",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2604/27/news012.html",
+        "https://github.blog/changelog/2026-04-23-copilot-chat-improvements-for-pull-requests",
+        "https://www.publickey1.jp/blog/26/googleaiagent_studioaigemini_enterprise_agent_platform.html",
+        "https://www.publickey1.jp/blog/26/salesforceapiclimcpsalesforce_headless_360.html"
+      ],
+      "titles": [
+        "北海道・浦幌町で震度5強 — 十勝地方南部M6.2、津波なし列車運休",
+        "はてな株が終日値付かず — 11億円不正流出でストップ安、市場に衝撃",
+        "高市首相、補正予算「必要とせず」— 参院委でイラン情勢踏まえ予備費活用を示唆",
+        "ブックデザイナー祖父江慎氏死去 — 享年66歳、個性的な装丁で出版界に功績",
+        "米トランプ前大統領の夕食会で発砲 — 警護隊が退避、散弾銃所持の男を拘束",
+        "CLAUDE.md を「3層構造」で書くと Claude Code が一気に賢くなる — グローバル・組織・プロジェクトの責務分離",
+        "Claude Code に MCP を21個つないで「AI会社」を作った — 6部門エージェント体制をCLAUDE.mdで自動振り分け",
+        "「トークンマクシング」とは何か — AIをどこまで使うかシリコンバレーで議論、過剰利用は生産性を下げる",
+        "GitHub Copilot Chat Gains Deep PR Understanding, Review, and Summary Features",
+        "Google Unveils Gemini Enterprise Agent Platform with Low-Code Agent Studio at Cloud Next 2026",
+        "Salesforce Headless 360: Full Platform Access via API, CLI, and MCP for AI Agents"
       ]
     },
     {

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-04-28T15:00:00+09:00",
+  "last_run_at": "2026-04-28T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-04-28T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6578006",
+        "https://news.yahoo.co.jp/pickup/6578011",
+        "https://news.yahoo.co.jp/pickup/6577996",
+        "https://news.yahoo.co.jp/pickup/6578007",
+        "https://news.yahoo.co.jp/pickup/6578005",
+        "https://zenn.dev/miyan/articles/arch-llm-friendly-codebase-design-2026",
+        "https://zenn.dev/pppp303/articles/weekly_ai_20260426",
+        "https://zenn.dev/toshipon/articles/llm-observability-for-indie-dev",
+        "https://www.anthropic.com/news/claude-design-anthropic-labs",
+        "https://www.anthropic.com/glasswing",
+        "https://techcrunch.com/2026/04/27/deepmind-david-silver-raises-1-1b-unsupervised-learning/"
+      ],
+      "titles": [
+        "財務省、高所得高齢者の医療費自己負担「3割原則」を提言 — 世代間格差の是正へ",
+        "日銀、追加利上げを見送り — 委員3人が利上げ主張、植田総裁は「上振れリスク」に言及",
+        "福井えん罪事件・前川さん、再審無罪から約1年 — 約4000万円の刑事補償を請求",
+        "沖縄・那覇のビーチで肩車の親子が溺れる — 「崩れ砂」の危険と迅速救助の奇跡",
+        "京都・南丹の少女遺棄事件 — クマ出没で献花台撤去、警察が父親の供述裏付け捜査を継続",
+        "LLMフレンドリーなコードベース設計 — AIエージェントが「迷子」にならない構造の作り方",
+        "週刊AI駆動開発 — Claude Code 2.1.119のOpenTelemetry対応、GitLab/Bitbucket連携、新モデル競争激化",
+        "LLMを使った開発で「可観測性」を最初から設計すべき理由 — AI開発にSREの原則を適用する",
+        "Anthropic Launches Claude Design — AI-Powered Visual Prototyping Tool for Product Teams",
+        "Project Glasswing: Anthropic Deploys Claude Mythos Preview for Defensive Security Across Critical Infrastructure",
+        "Ineffable Intelligence Raises $1.1B to Build AI That Learns Without Human Data — David Silver's RL-First Lab"
+      ]
+    },
     {
       "run_at": "2026-04-28T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "GitHub Copilot Chat Gains Deep PR Understanding, Review, and Summary Features",
         "Google Unveils Gemini Enterprise Agent Platform with Low-Code Agent Studio at Cloud Next 2026",
         "Salesforce Headless 360: Full Platform Access via API, CLI, and MCP for AI Agents"
-      ]
-    },
-    {
-      "run_at": "2026-04-27T14:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6577842",
-        "https://news.yahoo.co.jp/pickup/6577833",
-        "https://www.jiji.com/jc/article?k=2026042700110&g=int",
-        "https://www.jiji.com/jc/article?k=2026042600293&g=soc",
-        "https://news.yahoo.co.jp/pickup/6577839",
-        "https://zenn.dev/hsaki/articles/llm-cap-theorem",
-        "https://zenn.dev/peintangos/articles/b024c86e672191",
-        "https://www.publickey1.jp/blog/26/typescript_70typescriptgo10.html",
-        "https://www.anthropic.com/news/claude-opus-4-7",
-        "https://github.blog/changelog/2026-04-24-inline-agent-mode-in-preview-and-more-in-github-copilot-for-jetbrains-ides",
-        "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"
-      ],
-      "titles": [
-        "トヨタ、2025年度の世界販売が過去最高の1047万台に",
-        "ホンダ、AI自動運転の導入を1年延期へ — HV優先に方針転換",
-        "イラン、停戦条件として海峡封鎖解除を核協議に先行させる新提案",
-        "市販薬の乱用、若年女性に急増 — 高校生の70人に1人が経験",
-        "服を借りて気道を確保 — 看護師が機転で男性の命を救う",
-        "LLMアプリの設計原則「LLMのCAP定理」— Consistency・Availability・Priceは同時に最適化できない",
-        "LINEをAIエージェントの入口にする現実解 — Messaging API・LIFF・MCP Serverの使い分け",
-        "TypeScript 7.0ベータ版が公開 — コンパイラをGo言語に移植しビルドを10倍高速化",
-        "Introducing Claude Opus 4.7 — 10× Vision, xhigh Effort, Updated Tokenizer",
-        "GitHub Copilot Gets Inline Agent Mode in JetBrains IDEs — Auto-Approve Controls Added",
-        "AI Should Elevate Your Thinking, Not Replace It — A Senior Engineer's Warning"
       ]
     }
   ]

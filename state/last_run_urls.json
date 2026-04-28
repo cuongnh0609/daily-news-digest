@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-04-28T05:00:00+09:00",
+  "last_run_at": "2026-04-28T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-04-28T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6577914",
+        "https://news.yahoo.co.jp/pickup/6577904",
+        "https://news.yahoo.co.jp/pickup/6577903",
+        "https://news.yahoo.co.jp/pickup/6577900",
+        "https://news.yahoo.co.jp/pickup/6577899",
+        "https://zenn.dev/bizreach_aps/articles/0d758497357167",
+        "https://zenn.dev/tokium_dev/articles/c0e6e9aca98a85",
+        "https://zenn.dev/microsoft/articles/agent-package-manager-handson",
+        "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026",
+        "https://simonwillison.net/2026/Apr/27/vibevoice/",
+        "https://github.blog/changelog/2026-04-27-copilot-cloud-agent-starts-20-faster-with-actions-custom-images"
+      ],
+      "titles": [
+        "米国発の原油タンカーが対日輸送を急増 — 喜望峰経由でホルムズ依存を低減",
+        "来春の新卒採用「増やす」19% — 3年連続で増加企業の割合が低下",
+        "教員113日間休憩なし — 横浜市人事委が市教委に改善勧告",
+        "「逆パワハラ」増加 — 部下から上司への優越的立場を利用した嫌がらせ",
+        "安保3文書改定へ — 高市首相「国家の命運を左右する」と強調",
+        "AIエージェントにユーザーを演じさせてUATを自動化 — ビズリーチの「Agentic UAT」手法",
+        "コードを1行も書く前にバグを潰す — 生成AIがシフトレフトを現実にする",
+        "MicrosoftのAgent Package Manager (APM) — 複数AIエージェントのハーネス管理を統一",
+        "GitHub Copilot Code Review to Start Consuming Actions Minutes — June 1, 2026",
+        "Microsoft VibeVoice: Open-Source Speech-to-Text with Speaker Diarization, Runs Locally on Apple Silicon",
+        "GitHub Copilot Cloud Agent Now Starts 20% Faster via Actions Custom Images"
+      ]
+    },
     {
       "run_at": "2026-04-28T05:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Introducing Claude Opus 4.7 — 10× Vision, xhigh Effort, Updated Tokenizer",
         "GitHub Copilot Gets Inline Agent Mode in JetBrains IDEs — Auto-Approve Controls Added",
         "AI Should Elevate Your Thinking, Not Replace It — A Senior Engineer's Warning"
-      ]
-    },
-    {
-      "run_at": "2026-04-26T01:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6577640",
-        "https://news.yahoo.co.jp/pickup/6577619",
-        "https://news.yahoo.co.jp/pickup/6577645",
-        "https://www.itmedia.co.jp/news/articles/2604/24/news112.html",
-        "https://www.itmedia.co.jp/news/articles/2604/25/news024.html",
-        "https://zenn.dev/tomokusaba/articles/8d9f4b3cdd996e",
-        "https://zenn.dev/yuden/articles/playwright-auto-heal-claude-code",
-        "https://zenn.dev/winky/articles/envguard-ai-env-secret",
-        "https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot",
-        "https://simonwillison.net/2026/Apr/24/llm/",
-        "https://www.publickey1.jp/blog/26/cloudflareaicloudflare_artifactsgitrestful_api.html"
-      ],
-      "titles": [
-        "米軍施設の防護強化提案 政府検討",
-        "800kgの鉄板と地面に挟まれ 死亡",
-        "イラン外相 パキスタン首相と会談",
-        "高度AIによるサイバー攻撃、片山金融相「今そこにある危機」",
-        "MetaとAWSが提携 エージェント型AI強化に最新のArmベースチップ「Graviton5」を大量採用",
-        "Custom Agents と Subagents で始める自律オーケストレーション入門",
-        "人間が寝ている間にClaude CodeがPlaywrightのE2Eテストを直してPRを出す",
-        "AIツールに気づかず秘密鍵を渡していた——envguardで事前チェック",
-        "GPT-5.5 is generally available for GitHub Copilot",
-        "llm 0.31",
-        "Cloudflare Artifacts: AI Agent File System with Git-Compatible Version Control"
-      ]
-    },
-    {
-      "run_at": "2026-04-25T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6577614",
-        "https://news.yahoo.co.jp/pickup/6577611",
-        "https://news.yahoo.co.jp/pickup/6577597",
-        "https://news.yahoo.co.jp/pickup/6577598",
-        "https://www.anthropic.com/news/anthropic-nec",
-        "https://zenn.dev/nka21/articles/claude-code-multi-agent-reviewer",
-        "https://zenn.dev/makocchan/articles/whats_agents_cli",
-        "https://zenn.dev/softbank/articles/e9b87af5589994",
-        "https://api-docs.deepseek.com/news/news260424",
-        "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-        "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/"
-      ],
-      "titles": [
-        "岩手・大槌町の山火事が拡大続く — 避難1,541世帯・1,176ヘクタール焼失",
-        "尼崎脱線事故から21年 — 最後に救出された生存者が語る苦悩",
-        "「トー横」周辺の少年少女補導、5年間で10倍に急増",
-        "弁護士の苦悩 — 16年間担当した依頼人への死刑判決",
-        "AnthropicとNECが提携 — 日本最大規模のAIエンジニア組織を構築へ",
-        "AIレビューの精度を上げる — Claude Code マルチエージェント検証システムの設計",
-        "Google Cloud Next '26発表「agents-cli」の中身 — AIエージェント開発の全工程をCLIで完結",
-        "Google Cloud Next '26 現地レポ — AIエージェントがパイロット段階から本番運用へ",
-        "DeepSeek V4 Released: Near-Frontier Performance at a Fraction of the Price",
-        "Google Plans to Invest Up to $40 Billion in Anthropic",
-        "OpenAI Releases GPT-5.5 Prompting Guide: A New Model Family Requiring Fresh Optimization"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-04-29T00:00:00+09:00",
+  "last_run_at": "2026-04-29T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-04-29T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6578046",
+        "https://news.yahoo.co.jp/pickup/6578043",
+        "https://news.yahoo.co.jp/pickup/6578035",
+        "https://news.yahoo.co.jp/pickup/6578044",
+        "https://news.yahoo.co.jp/articles/cf3cd7be63a0dd7bc4a70d8716e9741f51ae74a8",
+        "https://zenn.dev/peintangos/articles/b024c86e672191",
+        "https://zenn.dev/mkj/articles/9431e342db202f",
+        "https://www.publickey1.jp/blog/26/cloudflareaicloudflare_artifactsgitrestful_api.html",
+        "https://www.anthropic.com/news/claude-for-creative-work",
+        "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+        "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html"
+      ],
+      "titles": [
+        "出光丸がホルムズ海峡を通過 — イラン緊張下で日系タンカー初の航行成功",
+        "UAEがOPECを正式脱退 — 産油国連合に歴史的亀裂、5月1日付で発効",
+        "岩手・大槌の山林火災、7日目に降雨で「深刻な局面脱した」と町が発表",
+        "東京・葛飾区で金塊2kg強盗 — 催涙ガスで4人を襲い逃走",
+        "農水省、備蓄米15万トンを買い戻しへ — 令和の米不足後、国家在庫の回復急ぐ",
+        "LINEをAIエージェントの入口にする現実解 — Messaging API・LIFF・MCP Serverの使い分け",
+        "OpenClawとHermesの違いを思想から理解する — 「常在型AI」と「進化型タスク執行者」の設計哲学",
+        "CloudflareがAIエージェント専用のGit互換ファイルシステム「Cloudflare Artifacts」を発表",
+        "Claude Connects to 9 Creative Platforms via MCP: Ableton, Adobe CC, Blender, Autodesk Fusion and More",
+        "Who Owns the Code Claude Code Wrote? A Three-Part Legal Analysis of AI-Generated IP",
+        "GitHub Actions is the Weakest Link: Four Structural Flaws Enable Recurring Supply Chain Attacks"
+      ]
+    },
     {
       "run_at": "2026-04-29T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Updates Election Safeguards: Claude Achieves 99.8–100% Compliance on Harmful Prompts",
         "Dirac: OSS AI Coding Agent Tops TerminalBench-2 at 65.2% Using Gemini 3 Flash — 2.8× Cheaper Than Rivals",
         "GitHub Copilot Adds Structured Root-Cause Debugging on the Web"
-      ]
-    },
-    {
-      "run_at": "2026-04-27T20:00:00+09:00",
-      "urls": [
-        "https://news.web.nhk/newsweb/na/na-k10015108891000",
-        "https://news.web.nhk/newsweb/na/na-k10015109281000",
-        "https://news.web.nhk/newsweb/na/na-k10015109321000",
-        "https://news.web.nhk/newsweb/na/na-k10015109511000",
-        "https://news.web.nhk/newsweb/na/na-k10015109441000",
-        "https://zenn.dev/yagisan_reports/articles/8a89b77f7106b9",
-        "https://zenn.dev/yamk/articles/dark-part-time-job-orchestrator",
-        "https://www.itmedia.co.jp/aiplus/articles/2604/24/news113.html",
-        "https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/",
-        "https://developer.chrome.com/docs/ai/prompt-api",
-        "https://github.blog/changelog/2026-04-24-notice-about-upcoming-new-format-for-github-app-installation-tokens"
-      ],
-      "titles": [
-        "岩手・大槌町の山林火災、発生6日目に初の雨降る — 28日も消火活動継続",
-        "北海道・三陸沖の後発地震注意情報が終了 — 専門家「引き続き備えを」",
-        "日産、昨年度の営業損益を赤字から黒字に上方修正 — 為替変動が追い風",
-        "東京エレクトロン台湾子会社にTSMC機密漏洩で7億6000万円罰金判決",
-        "新潟・県立高校生の自殺は「指導死」— 第三者委、部活顧問の過度な叱責を主因と認定",
-        "帳票エンジン会社が4年分のGUI開発を凍結、生成AIに全振り — Agentic Codingが既存製品設計を覆す",
-        "「Claude Codeで作ったAIオーケストレータを、なぜ使わなくなったのか」— 自作からClaude Code subagentへの移行記",
-        "NECがグループ3万人に「Claude Code」展開 — Anthropic協業でAI開発カルチャー変革へ",
-        "Anthropic Publishes April 23 Postmortem: Three Bugs in Claude Code Harness Caused Quality Regression",
-        "Chrome's Built-In Prompt API: Run Gemini Nano Locally in the Browser — No API Key, No Server",
-        "GitHub App Installation Tokens Changing to ~520-Character JWT Format — Migration Required by Late June 2026"
       ]
     }
   ]

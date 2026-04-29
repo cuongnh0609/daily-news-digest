@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-04-29T20:00:00+09:00",
+  "last_run_at": "2026-04-30T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-04-30T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/topics/economy",
+        "https://www.itmedia.co.jp/news/articles/gw2026_rush.html",
+        "https://news.yahoo.co.jp/topics/crime",
+        "https://news.yahoo.co.jp/topics/world",
+        "https://www.itmedia.co.jp/news/articles/2604/29/news_ntt_dc.html",
+        "https://zenn.dev/topics/claudecode",
+        "https://www.itmedia.co.jp/aiplus/articles/2604/29/news_vibe_coding_security.html",
+        "https://www.publickey1.jp/atom.xml",
+        "https://www.anthropic.com/news",
+        "https://github.blog/changelog/2026-04-24-copilot-code-reviews-actions-minutes",
+        "https://simonwillison.net/2026/Apr/29/gpt-5-5/"
+      ],
+      "titles": [
+        "円相場が一時160円台に — 日米金利差拡大懸念で円売り圧力が再燃",
+        "ゴールデンウィーク航空・新幹線が本格ラッシュ — 出国ピークは5月2〜3日",
+        "フィリピン当局が日本人を含む外国人を「詐欺拠点」で一斉摘発",
+        "ロンドンで刃物による無差別襲撃 — 複数人が負傷、容疑者を現場で確保",
+        "NTTが2033年までにデータセンター容量を3倍に拡張 — AI需要急増に対応",
+        "Claudeのコンテキストエンジニアリング実践 — 1Mトークン窓を「使いこなす」ための設計パターン",
+        "「バイブコーディング」のセキュリティリスクが深刻化 — AI生成コードの45%に脆弱性、開発者の対策は？",
+        "Bun v1.3.12 がヘッドレスブラウザを内蔵 — Node.js不要でPlaywright相当のE2Eテストが可能に",
+        "Anthropic Releases Claude Opus 4.7 — Significant Gains in Coding, Agentic Tasks, and Vision",
+        "GitHub Copilot Code Reviews Will Consume Actions Minutes Starting June 1 — Pricing Model Shift",
+        "GPT-5.5 Released: $5/$30 Per Million Tokens, Twice the Price of GPT-5.4 — Is It Worth It?"
+      ]
+    },
     {
       "run_at": "2026-04-29T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Launches Claude Design — AI-Powered Visual Prototyping Tool for Product Teams",
         "Project Glasswing: Anthropic Deploys Claude Mythos Preview for Defensive Security Across Critical Infrastructure",
         "Ineffable Intelligence Raises $1.1B to Build AI That Learns Without Human Data — David Silver's RL-First Lab"
-      ]
-    },
-    {
-      "run_at": "2026-04-28T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6577940",
-        "https://news.yahoo.co.jp/pickup/6577919",
-        "https://news.yahoo.co.jp/pickup/6577892",
-        "https://news.yahoo.co.jp/pickup/6577870",
-        "https://news.yahoo.co.jp/pickup/6577867",
-        "https://zenn.dev/aircloset/articles/65efe9614f8e73",
-        "https://www.itmedia.co.jp/aiplus/articles/2604/28/news006.html",
-        "https://zenn.dev/microsoft/articles/github-update-movie-agent",
-        "https://www.anthropic.com/news/anthropic-nec",
-        "https://simonwillison.net/2026/Apr/28/pip-261/",
-        "https://www.itmedia.co.jp/aiplus/articles/2604/28/news088.html"
-      ],
-      "titles": [
-        "ゴールデンウィーク前に空き巣の下見か — 全国で不審者の目撃相次ぐ",
-        "岩手・大槌山林火災、国が「局地激甚災害」に指定 — 復旧費用の半額を補助",
-        "りくりゅうペアや俳優・吉田鋼太郎さんらに春の紫綬褒章",
-        "歯の治療中に2歳児死亡 — 歯科医師に有罪判決確定へ、最高裁が上告を棄却",
-        "「主婦年金」縮小の方向へ — 第3号被保険者制度の見直し議論が加速",
-        "非エンジニアの「作りたい」と「安全に公開したい」を両立する Sandbox MCP を作った",
-        "「バイブコーディング」のセキュリティリスク — AI生成コードの45%に脆弱性",
-        "GitHubのアップデートをYouTubeショート感覚で見られる動画にするエージェントをMicrosoftが公開",
-        "Anthropic and NEC Build Japan's Largest AI Engineering Workforce — 30,000 Employees to Use Claude",
-        "pip 26.1 Ships Native Lockfiles and Dependency Cooldowns — Python Package Management Transformed",
-        "OpenAI Ends Microsoft Exclusivity — Models Now Available on Amazon Bedrock and Any Cloud"
       ]
     }
   ]

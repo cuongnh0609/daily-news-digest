@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-04-29T10:00:00+09:00",
+  "last_run_at": "2026-04-29T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-04-29T15:00:00+09:00",
+      "urls": [
+        "http://www3.nhk.or.jp/news/html/20260429/k10015110791000.html",
+        "https://news.yahoo.co.jp/pickup/6578101",
+        "http://www3.nhk.or.jp/news/html/20260429/k10015110921000.html",
+        "http://www3.nhk.or.jp/news/html/20260429/k10015110681000.html",
+        "https://www.jiji.com/jc/article?k=2026042900217&g=int",
+        "https://www.itmedia.co.jp/aiplus/articles/2604/29/news027.html",
+        "https://zenn.dev/layerx/articles/a99cd11af487fc",
+        "https://zenn.dev/nttdata_tech/articles/4a76fdf4495b85",
+        "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+        "https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot",
+        "https://github.blog/changelog/2026-04-24-inline-agent-mode-in-preview-and-more-in-github-copilot-for-jetbrains-ides"
+      ],
+      "titles": [
+        "東京・福生で立てこもり事件 — 警察突入も犯人逃走、少年ら8人が負傷",
+        "ゴールデンウィーク最大12連休 — 空の便、出国ラッシュがピークに",
+        "FBI元長官がトランプ大統領を「脅迫」した罪で起訴 — 「無実」と本人は主張",
+        "食料品の消費税ゼロ案 — 財源や事務負担など課題を整理、実務者会議が始動",
+        "UAE正式脱退でOPECに「結成以来最大の打撃」 — 原油市場への影響は不透明",
+        "AnthropicがClaude向けに8つのクリエイティブアプリ連携コネクタを公開 — BlenderやPhotoshopをMCP経由で直接制御",
+        "AIエージェントを安全に動かすサンドボックス技術の全貌 — AWS・Google・Microsoftの実装戦略を比較",
+        "GitHub Copilot + Playwright MCPでUI/UXレビューを自動化 — コード0行でECサイトを評価・修正するサイクルを実現",
+        "OpenAI Models Now on Amazon Bedrock — Microsoft Partnership Goes Non-Exclusive Through 2032",
+        "GPT-5.5 Now Generally Available in GitHub Copilot — 7.5× Premium Multiplier, Best for Complex Agentic Tasks",
+        "GitHub Copilot Brings Inline Agent Mode to JetBrains IDEs — Plus Global Auto-Approve and Next Edit Suggestions"
+      ]
+    },
     {
       "run_at": "2026-04-29T10:00:00+09:00",
       "urls": [

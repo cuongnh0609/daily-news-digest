@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-04-29T05:00:00+09:00",
+  "last_run_at": "2026-04-29T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-04-29T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6578067",
+        "https://news.yahoo.co.jp/pickup/6578065",
+        "https://news.yahoo.co.jp/pickup/6578071",
+        "https://news.yahoo.co.jp/pickup/6578055",
+        "https://news.yahoo.co.jp/pickup/6578061",
+        "https://zenn.dev/layerx/articles/20260428-ccgate",
+        "https://zenn.dev/yamadashy/articles/claude-code-routines-perf-tuning",
+        "https://zenn.dev/nttdata_tech/articles/bf6b694144e55a",
+        "https://mitchellh.com/writing/ghostty-leaving-github",
+        "https://www.warp.dev/blog/warp-is-now-open-source",
+        "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854"
+      ],
+      "titles": [
+        "都心マンション「売れない在庫」急増 — 不動産価格上昇に急ブレーキ、バブル崩壊前夜の懸念",
+        "参政党、高市政権に対決姿勢を強化 — 靖国集団参拝で保守層への訴求を強化",
+        "米国、建国250周年記念パスポートを発行 — 表紙にトランプ大統領の肖像を掲載",
+        "大谷翔平「二刀流ルール」批判が米国で急浮上 — ドジャース移籍後に批判が噴出した理由",
+        "日本酒ブームの陰で蔵元廃業が続出 — 国内市場の縮小とコスト高が経営を直撃",
+        "Claude CodeのPermission確認を97%自動化するOSS「ccgate」— LayerXが公開",
+        "Claude Codeのルーチン機能で定期パフォーマンスチューニングを自動実行 — 実行速度2.4倍を達成",
+        "大規模案件のSlackにAI社員3人を常駐配置 — 参画1週間で設計根本に踏み込んだ新メンバー",
+        "Ghostty Terminal Leaves GitHub After Years of Outages — Mitchell Hashimoto Moves to Self-Hosted Alternative",
+        "Warp Terminal Goes Open Source Under AGPL — OpenAI Sponsors Agent-Powered Community Development",
+        "Critical GitHub RCE Vulnerability CVE-2026-3854 — Single git push Could Compromise All Private Repos"
+      ]
+    },
     {
       "run_at": "2026-04-29T05:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-04-30T00:00:00+09:00",
+  "last_run_at": "2026-04-30T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-04-30T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6578176",
+        "https://news.yahoo.co.jp/pickup/6578169",
+        "https://news.yahoo.co.jp/pickup/6578173",
+        "https://news.yahoo.co.jp/pickup/6578177",
+        "https://news.yahoo.co.jp/pickup/6578178",
+        "https://zenn.dev/miyan/articles/claude-code-1m-context-design-update-2026",
+        "https://zenn.dev/linkedge/articles/27c38cdd9bedc6",
+        "https://zenn.dev/edegp/articles/claude-code-slack-mcp-multi-workspace",
+        "https://zed.dev/blog/zed-1-0",
+        "https://www.anthropic.com/news/claude-for-creative-work",
+        "https://blog.langchain.com/tuning-deep-agents-different-models"
+      ],
+      "titles": [
+        "円相場が一時160円台に突入 — 中東緊張で「有事のドル買い」再燃",
+        "出光タンカーがホルムズ海峡を通過 — イランの外交的思惑とは",
+        "ロンドンでユダヤ系男性2人が刃物で襲われ重傷 — 反ユダヤ事件が相次ぐ",
+        "フィリピン当局が国際手配の日本人2人を拘束 — 警察官詐称の特殊詐欺に関与か",
+        "コミティア創設者・中村公彦さんが死去 — 同人創作の聖地を築いた功績",
+        "Claude Code 1Mコンテキスト時代の設計判断 — 200K前提の常識をどこまで捨てるか",
+        "CLAUDE.md・skills・agentsを整備して開発体験が激変した — Claude Code「育成」実践レポート",
+        "Claude CodeのSlack MCPを複数ワークスペースに接続するハック — 公式pluginの制約を回避",
+        "Zed 1.0: GPU-Native, AI-First Editor Launches with Agent Client Protocol and DeltaDB Roadmap",
+        "Anthropic Launches MCP Connectors for 9 Creative Tools — Blender, Adobe CC, Ableton, and More",
+        "LangChain Adds Model-Specific Harness Profiles — Claude Opus 4.7 and GPT-5.3 Codex Get +10–20pt Benchmark Gains"
+      ]
+    },
     {
       "run_at": "2026-04-30T00:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-04-29T15:00:00+09:00",
+  "last_run_at": "2026-04-29T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-04-29T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6578140",
+        "https://news.web.nhk/newsweb/na/na-k10015111061000",
+        "https://news.web.nhk/newsweb/na/na-k10015110691000",
+        "https://news.web.nhk/newsweb/na/na-k10015111011000",
+        "https://news.web.nhk/newsweb/na/na-k10015110921000",
+        "https://zenn.dev/tyabu12/articles/0009-claude-code-subagent-32k-64k-cap",
+        "https://zenn.dev/tmo_taka/articles/3525421f19ece1",
+        "https://zenn.dev/gmomedia/articles/401097e4c680ea",
+        "https://corrode.dev/blog/bugs-rust-wont-catch/",
+        "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+        "https://simonwillison.net/2026/Apr/28/llm-031/"
+      ],
+      "titles": [
+        "大型連休の旅行、物価高で「近場志向」が鮮明に — 予約データが示す2026年GWの傾向",
+        "広島・東広島の会社役員殺人事件で新展開 — 関係先の捜索で別の男性遺体が発見",
+        "米・イラン協議が停滞、トランプ大統領がホルムズ海峡の「長期封鎖」準備を指示",
+        "昭和100年記念式典を開催 — 高市首相「果敢に挑戦し希望を生み出す時代へ」",
+        "食料品への消費税ゼロ検討が本格化 — 財源や事務負担の課題整理へ実務者会議が始動",
+        "Claude Code サブエージェントに潜む32K/64Kトークン出力上限 — 原因と4つのワークアラウンド",
+        "Claude Code × 自作MCPサーバー開発 — 「ビルドしても反映されない」謎を stdio の仕組みから解明",
+        "OpenAPI specさえあればどんなREST APIもMCP化できる — FutureVulsで試した4つの落とし穴と解決策",
+        "Bugs Rust Won't Catch: 8 Security Pitfalls Found in Rust's coreutils Reimplementation — 44 CVEs, Zero Memory Safety Flaws",
+        "Inside ChatGPT's Ad Infrastructure: SSE Injection, Fernet-Encrypted Tokens, and the OAIQ Merchant SDK",
+        "LLM 0.31 Releases with GPT-5.5 Support, Multi-Model Verbosity Controls, and Image Detail Options"
+      ]
+    },
     {
       "run_at": "2026-04-29T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Anthropic and NEC Build Japan's Largest AI Engineering Workforce — 30,000 Employees to Use Claude",
         "pip 26.1 Ships Native Lockfiles and Dependency Cooldowns — Python Package Management Transformed",
         "OpenAI Ends Microsoft Exclusivity — Models Now Available on Amazon Bedrock and Any Cloud"
-      ]
-    },
-    {
-      "run_at": "2026-04-28T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6577914",
-        "https://news.yahoo.co.jp/pickup/6577904",
-        "https://news.yahoo.co.jp/pickup/6577903",
-        "https://news.yahoo.co.jp/pickup/6577900",
-        "https://news.yahoo.co.jp/pickup/6577899",
-        "https://zenn.dev/bizreach_aps/articles/0d758497357167",
-        "https://zenn.dev/tokium_dev/articles/c0e6e9aca98a85",
-        "https://zenn.dev/microsoft/articles/agent-package-manager-handson",
-        "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026",
-        "https://simonwillison.net/2026/Apr/27/vibevoice/",
-        "https://github.blog/changelog/2026-04-27-copilot-cloud-agent-starts-20-faster-with-actions-custom-images"
-      ],
-      "titles": [
-        "米国発の原油タンカーが対日輸送を急増 — 喜望峰経由でホルムズ依存を低減",
-        "来春の新卒採用「増やす」19% — 3年連続で増加企業の割合が低下",
-        "教員113日間休憩なし — 横浜市人事委が市教委に改善勧告",
-        "「逆パワハラ」増加 — 部下から上司への優越的立場を利用した嫌がらせ",
-        "安保3文書改定へ — 高市首相「国家の命運を左右する」と強調",
-        "AIエージェントにユーザーを演じさせてUATを自動化 — ビズリーチの「Agentic UAT」手法",
-        "コードを1行も書く前にバグを潰す — 生成AIがシフトレフトを現実にする",
-        "MicrosoftのAgent Package Manager (APM) — 複数AIエージェントのハーネス管理を統一",
-        "GitHub Copilot Code Review to Start Consuming Actions Minutes — June 1, 2026",
-        "Microsoft VibeVoice: Open-Source Speech-to-Text with Speaker Diarization, Runs Locally on Apple Silicon",
-        "GitHub Copilot Cloud Agent Now Starts 20% Faster via Actions Custom Images"
-      ]
-    },
-    {
-      "run_at": "2026-04-28T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6577874",
-        "https://news.yahoo.co.jp/pickup/6577890",
-        "https://news.yahoo.co.jp/pickup/6577879",
-        "https://news.yahoo.co.jp/pickup/6577887",
-        "https://www.itmedia.co.jp/news/articles/2604/24/news112.html",
-        "https://zenn.dev/yottayoshida/articles/claude-opus-4-7-prompt-as-execution-harness",
-        "https://zenn.dev/ruralwritter/articles/999f49f3e2cf67",
-        "https://zenn.dev/tenchan0517/articles/novel-memory-architecture",
-        "https://openai.com/index/next-phase-of-microsoft-partnership/",
-        "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-        "https://openai.com/index/an-open-source-spec-for-orchestration-symphony"
-      ],
-      "titles": [
-        "ChatGPT、東大・京大の入試で合格者最高得点を上回る成績を記録",
-        "イラン、周辺国への積極外交を展開 — 米との核交渉で理解取り付けを狙う",
-        "高知県・知事公邸、年間500万円の維持費に対して利用はわずか9回",
-        "フルフラット夜行バス、10年越しの開発でゴールデンウィークにデビュー",
-        "CAMPFIREで最大22.5万人分の個人情報漏えいか — GitHubへの不正アクセスが原因",
-        "Claude Opus 4.7を「賢い4.6」として使うと失敗する — プロンプトは「契約書」として設計すべき",
-        "Claude Codeのトークンコストを50〜75%削減する3層スタック戦略",
-        "LLMの「忘れる」問題を設計で解く — 階層型記憶3層アーキテクチャの提案",
-        "Microsoft and OpenAI End Exclusive Partnership — New Deal Extends to 2032 on Non-Exclusive Terms",
-        "GitHub Copilot Moves to Usage-Based Billing via AI Credits — Effective June 1, 2026",
-        "OpenAI Open-Sources Symphony: An Elixir/BEAM Orchestration Spec That Turns Issue Trackers into Agent Control Planes"
-      ]
-    },
-    {
-      "run_at": "2026-04-28T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6577869",
-        "https://news.yahoo.co.jp/pickup/6577873",
-        "https://www.jiji.com/jc/article?k=2026042700927&g=pol",
-        "https://www.jiji.com/jc/article?k=2026042700944&g=int",
-        "https://www.jiji.com/jc/article?k=2026042700901&g=pol",
-        "https://zenn.dev/nagi98/articles/260427-claude-code-leak-agent-harness-design",
-        "https://zenn.dev/biscuit/articles/claude-routines-config-as-code",
-        "https://zenn.dev/spectee/articles/0a1bd9cb320d31",
-        "https://www.anthropic.com/news/election-safeguards-update",
-        "https://github.com/dirac-run/dirac",
-        "https://github.blog/changelog/2026-04-23-better-debugging-with-github-copilot-on-the-web"
-      ],
-      "titles": [
-        "村田製作所、不正アクセスで約8.8万件の個人情報が流出の恐れ",
-        "性被害訴えた女性検事、4月30日付で退職へ — 職場の対応に限界",
-        "SNS上の偽・誤情報対策、今国会で法整備第一弾へ — 与野党が合意",
-        "中国、メタのManus AI買収を阻止 — 技術流出懸念で当局が審査",
-        "安保3文書の改定議論開始 — 高市首相「国家の命運左右する」",
-        "流出したClaude Codeのソースから学ぶ、AIエージェント設計5つの原則",
-        "Claude Code Routineの設定をfrontmatterでConfig as Code管理する",
-        "むしろ--dangerously-skip-permissionsの方が安全かも？ — Hooksで確認疲れを解消",
-        "Anthropic Updates Election Safeguards: Claude Achieves 99.8–100% Compliance on Harmful Prompts",
-        "Dirac: OSS AI Coding Agent Tops TerminalBench-2 at 65.2% Using Gemini 3 Flash — 2.8× Cheaper Than Rivals",
-        "GitHub Copilot Adds Structured Root-Cause Debugging on the Web"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-04-30T05:00:00+09:00",
+  "last_run_at": "2026-04-30T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-04-30T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#longterm-rate-27yr",
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#usdod-iran-4trillion",
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#private-uni-250-cut",
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#bigtech-ai-earnings-q1",
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#murakami-effect",
+        "https://www.itmedia.co.jp/aiplus/2026/04/30/nec-anthropic-claudecode-engineer",
+        "https://www.itmedia.co.jp/aiplus/2026/04/29/openai-images-thinking-mode",
+        "https://www.itmedia.co.jp/news/2026/04/29/github-copilot-token-pricing",
+        "https://mistral.ai/news/mistral-medium-3-5-vibe-agents",
+        "https://simonwillison.net/2026/Apr/29/llm-032/",
+        "https://github.blog/changelog/2026-04-29-copilot-cloud-agent-20pct-faster"
+      ],
+      "titles": [
+        "長期金利が27年ぶりの高水準 — 国債市場に警戒感が広がる",
+        "米国防総省のイラン関連作戦費用が推計4兆円超 — 中東緊張の経済的コストが鮮明に",
+        "財務省が私立大学250校削減を提言 — 少子化対応で高等教育の大規模再編へ",
+        "米大手IT4社がAI投資効果で増収増益 — 設備投資拡大も株主は冷静に評価",
+        "「村上効果」でDeNAベイスターズが連勝 — スター選手加入で観客動員も急増",
+        "NECとAnthropicが提携 — Claude Codeで日本のエンジニア育成プログラムを開始",
+        "OpenAI Imagesに「Thinkingモード」が登場 — 複雑な画像生成指示を段階的推論で処理",
+        "GitHub Copilotが従量制トークン課金へ移行 — プレミアムモデル利用でコスト管理が複雑化",
+        "Mistral Medium 3.5 Launches with Remote Coding Agents and Work Mode in Le Chat",
+        "LLM 0.32 Alpha: Simon Willison's CLI Tool Gets Major Redesign with Message Sequence Architecture",
+        "GitHub Copilot Cloud Agents Get 20% Faster Startup and Expanded Pull Request Context"
+      ]
+    },
     {
       "run_at": "2026-04-30T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "npm install is Arbitrary Code Execution — Supply Chain Attacks via Trivy, axios, and reviewdog Demand a New Security Model",
         "DeepSeek V4 — Frontier-Level Performance at a Fraction of the Price with 1M Token Context and MIT License",
         "Talkie: A 13B Language Model Trained on Pre-1931 Text — Apache 2.0, Copyright-Free, and a New Lens on AI Knowledge Limits"
-      ]
-    },
-    {
-      "run_at": "2026-04-28T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578006",
-        "https://news.yahoo.co.jp/pickup/6578011",
-        "https://news.yahoo.co.jp/pickup/6577996",
-        "https://news.yahoo.co.jp/pickup/6578007",
-        "https://news.yahoo.co.jp/pickup/6578005",
-        "https://zenn.dev/miyan/articles/arch-llm-friendly-codebase-design-2026",
-        "https://zenn.dev/pppp303/articles/weekly_ai_20260426",
-        "https://zenn.dev/toshipon/articles/llm-observability-for-indie-dev",
-        "https://www.anthropic.com/news/claude-design-anthropic-labs",
-        "https://www.anthropic.com/glasswing",
-        "https://techcrunch.com/2026/04/27/deepmind-david-silver-raises-1-1b-unsupervised-learning/"
-      ],
-      "titles": [
-        "財務省、高所得高齢者の医療費自己負担「3割原則」を提言 — 世代間格差の是正へ",
-        "日銀、追加利上げを見送り — 委員3人が利上げ主張、植田総裁は「上振れリスク」に言及",
-        "福井えん罪事件・前川さん、再審無罪から約1年 — 約4000万円の刑事補償を請求",
-        "沖縄・那覇のビーチで肩車の親子が溺れる — 「崩れ砂」の危険と迅速救助の奇跡",
-        "京都・南丹の少女遺棄事件 — クマ出没で献花台撤去、警察が父親の供述裏付け捜査を継続",
-        "LLMフレンドリーなコードベース設計 — AIエージェントが「迷子」にならない構造の作り方",
-        "週刊AI駆動開発 — Claude Code 2.1.119のOpenTelemetry対応、GitLab/Bitbucket連携、新モデル競争激化",
-        "LLMを使った開発で「可観測性」を最初から設計すべき理由 — AI開発にSREの原則を適用する",
-        "Anthropic Launches Claude Design — AI-Powered Visual Prototyping Tool for Product Teams",
-        "Project Glasswing: Anthropic Deploys Claude Mythos Preview for Defensive Security Across Critical Infrastructure",
-        "Ineffable Intelligence Raises $1.1B to Build AI That Learns Without Human Data — David Silver's RL-First Lab"
       ]
     }
   ]

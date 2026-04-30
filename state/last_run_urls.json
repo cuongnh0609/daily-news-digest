@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-01T00:00:00+09:00",
+  "last_run_at": "2026-05-01T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-01T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6578293",
+        "https://news.yahoo.co.jp/pickup/6578275",
+        "https://news.yahoo.co.jp/pickup/6578270",
+        "https://news.yahoo.co.jp/pickup/6578243",
+        "https://news.yahoo.co.jp/pickup/6578235",
+        "https://zenn.dev/kai_kou/articles/202-claude-managed-agents-deploy-guide",
+        "https://zenn.dev/finatext/articles/mcp-gateway-google-sa",
+        "https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b",
+        "https://openai.com/index/where-the-goblins-came-from/",
+        "https://www.publickey1.jp/blog/26/google_cloudrdbspanner_omni.html",
+        "https://deepmind.google/discover/blog/"
+      ],
+      "titles": [
+        "5月1日、西日本・東日本で警報級の大雨と暴風 — 気象庁が厳重警戒を呼びかけ",
+        "高市首相、イラン大統領と電話会談 — 日本船舶の安全航行を強く要請",
+        "野党を中傷するSNS動画が拡散 — 高市首相の陣営が関与を否定、波紋広がる",
+        "退職した国家公務員を簡易手続きで再採用 — 政府が人材確保の新制度を導入へ",
+        "日本将棋連盟、女流棋士の妊娠・出産に関する規定を見直しへ — 検討委が報告書を提出",
+        "Claude Managed Agents入門 — インフラ不要でAIエージェントを本番デプロイする新サービス",
+        "AIに会社のGoogleアカウントを渡していませんか — MCPゲートウェイでAIの「視界」を制御する設計",
+        "Linuxカーネルの脆弱性「CopyFail (CVE-2026-31431)」をEC2で実証 — 一般ユーザーが1コマンドでroot取得",
+        "OpenAI Explains \"The Goblins\" — Hidden Behavior Clusters in GPT-5 That Cause Unpredictable Outputs",
+        "Google Cloud Announces Spanner Omni — Production-Grade Distributed RDB Now Installable On-Premises",
+        "Google DeepMind Releases Gemma 4 — \"Byte for Byte, the Most Capable\" Open-Weight Model Family"
+      ]
+    },
     {
       "run_at": "2026-05-01T00:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Anthropic Releases Claude Opus 4.7 — Significant Gains in Coding, Agentic Tasks, and Vision",
         "GitHub Copilot Code Reviews Will Consume Actions Minutes Starting June 1 — Pricing Model Shift",
         "GPT-5.5 Released: $5/$30 Per Million Tokens, Twice the Price of GPT-5.4 — Is It Worth It?"
-      ]
-    },
-    {
-      "run_at": "2026-04-29T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578140",
-        "https://news.web.nhk/newsweb/na/na-k10015111061000",
-        "https://news.web.nhk/newsweb/na/na-k10015110691000",
-        "https://news.web.nhk/newsweb/na/na-k10015111011000",
-        "https://news.web.nhk/newsweb/na/na-k10015110921000",
-        "https://zenn.dev/tyabu12/articles/0009-claude-code-subagent-32k-64k-cap",
-        "https://zenn.dev/tmo_taka/articles/3525421f19ece1",
-        "https://zenn.dev/gmomedia/articles/401097e4c680ea",
-        "https://corrode.dev/blog/bugs-rust-wont-catch/",
-        "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-        "https://simonwillison.net/2026/Apr/28/llm-031/"
-      ],
-      "titles": [
-        "大型連休の旅行、物価高で「近場志向」が鮮明に — 予約データが示す2026年GWの傾向",
-        "広島・東広島の会社役員殺人事件で新展開 — 関係先の捜索で別の男性遺体が発見",
-        "米・イラン協議が停滞、トランプ大統領がホルムズ海峡の「長期封鎖」準備を指示",
-        "昭和100年記念式典を開催 — 高市首相「果敢に挑戦し希望を生み出す時代へ」",
-        "食料品への消費税ゼロ検討が本格化 — 財源や事務負担の課題整理へ実務者会議が始動",
-        "Claude Code サブエージェントに潜む32K/64Kトークン出力上限 — 原因と4つのワークアラウンド",
-        "Claude Code × 自作MCPサーバー開発 — 「ビルドしても反映されない」謎を stdio の仕組みから解明",
-        "OpenAPI specさえあればどんなREST APIもMCP化できる — FutureVulsで試した4つの落とし穴と解決策",
-        "Bugs Rust Won't Catch: 8 Security Pitfalls Found in Rust's coreutils Reimplementation — 44 CVEs, Zero Memory Safety Flaws",
-        "Inside ChatGPT's Ad Infrastructure: SSE Injection, Fernet-Encrypted Tokens, and the OAIQ Merchant SDK",
-        "LLM 0.31 Releases with GPT-5.5 Support, Multi-Model Verbosity Controls, and Image Detail Options"
-      ]
-    },
-    {
-      "run_at": "2026-04-29T15:00:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260429/k10015110791000.html",
-        "https://news.yahoo.co.jp/pickup/6578101",
-        "http://www3.nhk.or.jp/news/html/20260429/k10015110921000.html",
-        "http://www3.nhk.or.jp/news/html/20260429/k10015110681000.html",
-        "https://www.jiji.com/jc/article?k=2026042900217&g=int",
-        "https://www.itmedia.co.jp/aiplus/articles/2604/29/news027.html",
-        "https://zenn.dev/layerx/articles/a99cd11af487fc",
-        "https://zenn.dev/nttdata_tech/articles/4a76fdf4495b85",
-        "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-        "https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot",
-        "https://github.blog/changelog/2026-04-24-inline-agent-mode-in-preview-and-more-in-github-copilot-for-jetbrains-ides"
-      ],
-      "titles": [
-        "東京・福生で立てこもり事件 — 警察突入も犯人逃走、少年ら8人が負傷",
-        "ゴールデンウィーク最大12連休 — 空の便、出国ラッシュがピークに",
-        "FBI元長官がトランプ大統領を「脅迫」した罪で起訴 — 「無実」と本人は主張",
-        "食料品の消費税ゼロ案 — 財源や事務負担など課題を整理、実務者会議が始動",
-        "UAE正式脱退でOPECに「結成以来最大の打撃」 — 原油市場への影響は不透明",
-        "AnthropicがClaude向けに8つのクリエイティブアプリ連携コネクタを公開 — BlenderやPhotoshopをMCP経由で直接制御",
-        "AIエージェントを安全に動かすサンドボックス技術の全貌 — AWS・Google・Microsoftの実装戦略を比較",
-        "GitHub Copilot + Playwright MCPでUI/UXレビューを自動化 — コード0行でECサイトを評価・修正するサイクルを実現",
-        "OpenAI Models Now on Amazon Bedrock — Microsoft Partnership Goes Non-Exclusive Through 2032",
-        "GPT-5.5 Now Generally Available in GitHub Copilot — 7.5× Premium Multiplier, Best for Complex Agentic Tasks",
-        "GitHub Copilot Brings Inline Agent Mode to JetBrains IDEs — Plus Global Auto-Approve and Next Edit Suggestions"
-      ]
-    },
-    {
-      "run_at": "2026-04-29T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578067",
-        "https://news.yahoo.co.jp/pickup/6578065",
-        "https://news.yahoo.co.jp/pickup/6578071",
-        "https://news.yahoo.co.jp/pickup/6578055",
-        "https://news.yahoo.co.jp/pickup/6578061",
-        "https://zenn.dev/layerx/articles/20260428-ccgate",
-        "https://zenn.dev/yamadashy/articles/claude-code-routines-perf-tuning",
-        "https://zenn.dev/nttdata_tech/articles/bf6b694144e55a",
-        "https://mitchellh.com/writing/ghostty-leaving-github",
-        "https://www.warp.dev/blog/warp-is-now-open-source",
-        "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854"
-      ],
-      "titles": [
-        "都心マンション「売れない在庫」急増 — 不動産価格上昇に急ブレーキ、バブル崩壊前夜の懸念",
-        "参政党、高市政権に対決姿勢を強化 — 靖国集団参拝で保守層への訴求を強化",
-        "米国、建国250周年記念パスポートを発行 — 表紙にトランプ大統領の肖像を掲載",
-        "大谷翔平「二刀流ルール」批判が米国で急浮上 — ドジャース移籍後に批判が噴出した理由",
-        "日本酒ブームの陰で蔵元廃業が続出 — 国内市場の縮小とコスト高が経営を直撃",
-        "Claude CodeのPermission確認を97%自動化するOSS「ccgate」— LayerXが公開",
-        "Claude Codeのルーチン機能で定期パフォーマンスチューニングを自動実行 — 実行速度2.4倍を達成",
-        "大規模案件のSlackにAI社員3人を常駐配置 — 参画1週間で設計根本に踏み込んだ新メンバー",
-        "Ghostty Terminal Leaves GitHub After Years of Outages — Mitchell Hashimoto Moves to Self-Hosted Alternative",
-        "Warp Terminal Goes Open Source Under AGPL — OpenAI Sponsors Agent-Powered Community Development",
-        "Critical GitHub RCE Vulnerability CVE-2026-3854 — Single git push Could Compromise All Private Repos"
       ]
     }
   ]

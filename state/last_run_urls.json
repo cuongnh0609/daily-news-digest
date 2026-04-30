@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-04-30T15:00:00+09:00",
+  "last_run_at": "2026-04-30T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-04-30T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6578265",
+        "https://news.yahoo.co.jp/pickup/6578263",
+        "https://news.yahoo.co.jp/pickup/6578253",
+        "https://news.yahoo.co.jp/pickup/6578266",
+        "https://www.itmedia.co.jp/news/articles/2604/30/news070.html",
+        "https://zenn.dev/headwaters/articles/509a1f83c693ce",
+        "https://www.itmedia.co.jp/aiplus/articles/2604/30/news105.html",
+        "https://zenn.dev/aircloset/articles/65efe9614f8e73",
+        "https://www.anthropic.com/news/anthropic-amazon-compute",
+        "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+        "https://kn.itmedia.co.jp/kn/articles/2604/30/news051.html"
+      ],
+      "titles": [
+        "動物園の焼却炉から人体の一部か — 職員が妻の遺体を遺棄の疑い",
+        "性被害訴えた大阪地検の女性検事が辞表提出 — 「辞めたくないのに悔しい」",
+        "東広島・広島連続事件 — 会社敷地で発見の遺体、29歳男性と身元判明",
+        "首相「ナフサ供給は年明けまで継続」 — 中東情勢でも化学製品の安定確保へ",
+        "Amazon決算、AWS売上高28%増 — Anthropic投資益168億ドル計上で純利益が大幅増",
+        "エージェントコスト急騰に対抗 — OllamaローカルLLMで「実行はローカル、設計はClaudeに」",
+        "CloudflareとStripeが連携 — AIエージェントがドメイン購入からデプロイまで自律実行",
+        "非エンジニアの「作りたい」を安全に公開する Sandbox MCP — 4層セキュリティで社内デプロイが2〜5分に",
+        "Anthropic and Amazon Expand Compute Partnership — Up to 5GW, $100B+ in AWS Commitment",
+        "Alignment Whack-a-Mole: Fine-Tuning LLMs Activates Verbatim Recall of Copyrighted Books",
+        "OpenAI Launches ChatGPT Images 2.0 with \"Thinking Mode\" — Reasoning Before Rendering"
+      ]
+    },
     {
       "run_at": "2026-04-30T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Ghostty Terminal Leaves GitHub After Years of Outages — Mitchell Hashimoto Moves to Self-Hosted Alternative",
         "Warp Terminal Goes Open Source Under AGPL — OpenAI Sponsors Agent-Powered Community Development",
         "Critical GitHub RCE Vulnerability CVE-2026-3854 — Single git push Could Compromise All Private Repos"
-      ]
-    },
-    {
-      "run_at": "2026-04-29T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578046",
-        "https://news.yahoo.co.jp/pickup/6578043",
-        "https://news.yahoo.co.jp/pickup/6578035",
-        "https://news.yahoo.co.jp/pickup/6578044",
-        "https://news.yahoo.co.jp/articles/cf3cd7be63a0dd7bc4a70d8716e9741f51ae74a8",
-        "https://zenn.dev/peintangos/articles/b024c86e672191",
-        "https://zenn.dev/mkj/articles/9431e342db202f",
-        "https://www.publickey1.jp/blog/26/cloudflareaicloudflare_artifactsgitrestful_api.html",
-        "https://www.anthropic.com/news/claude-for-creative-work",
-        "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-        "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html"
-      ],
-      "titles": [
-        "出光丸がホルムズ海峡を通過 — イラン緊張下で日系タンカー初の航行成功",
-        "UAEがOPECを正式脱退 — 産油国連合に歴史的亀裂、5月1日付で発効",
-        "岩手・大槌の山林火災、7日目に降雨で「深刻な局面脱した」と町が発表",
-        "東京・葛飾区で金塊2kg強盗 — 催涙ガスで4人を襲い逃走",
-        "農水省、備蓄米15万トンを買い戻しへ — 令和の米不足後、国家在庫の回復急ぐ",
-        "LINEをAIエージェントの入口にする現実解 — Messaging API・LIFF・MCP Serverの使い分け",
-        "OpenClawとHermesの違いを思想から理解する — 「常在型AI」と「進化型タスク執行者」の設計哲学",
-        "CloudflareがAIエージェント専用のGit互換ファイルシステム「Cloudflare Artifacts」を発表",
-        "Claude Connects to 9 Creative Platforms via MCP: Ableton, Adobe CC, Blender, Autodesk Fusion and More",
-        "Who Owns the Code Claude Code Wrote? A Three-Part Legal Analysis of AI-Generated IP",
-        "GitHub Actions is the Weakest Link: Four Structural Flaws Enable Recurring Supply Chain Attacks"
-      ]
-    },
-    {
-      "run_at": "2026-04-29T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/list?g=int",
-        "https://www.jiji.com/jc/list?g=eco",
-        "https://www.jiji.com/jc/list?g=eco",
-        "https://www.jiji.com/jc/list?g=eco",
-        "https://www.jiji.com/jc/list?g=pol",
-        "https://zenn.dev/finatext/articles/mcp-gateway-google-sa",
-        "https://zenn.dev/knowledgesense/articles/7dddae04a7d828",
-        "https://www.publickey1.jp/blog/26/typescript_70typescriptgo10.html",
-        "https://www.publickey1.jp/blog/26/npm_install_trivyaxios.html",
-        "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
-        "https://simonwillison.net/2026/Apr/28/talkie/"
-      ],
-      "titles": [
-        "UAEがOPECからの脱退を正式発表 — 半世紀ぶりの離脱で産油国連合に亀裂",
-        "日銀が金利を据え置き — 3委員が利上げ主張も総裁は中東リスクを重視し慎重姿勢",
-        "5月から電気・ガス料金が相次ぎ値上げ — 中東リスクで9電力とも東京ガスが引き上げ",
-        "山崎製パンが7月に306品目値上げ — 中東情勢と原材料高で食料品コスト上昇続く",
-        "高市首相、5月1日にベトナム訪問 — 日本・エジプト首脳がイランの外交解決へ連携を確認",
-        "AIに会社のGoogleアカウントを渡してはいけない — MCPゲートウェイでサービスアカウント分離を実現する設計",
-        "ベクトルDBを使わないRAG「Corpus2Skill」— 階層構造でLLMエージェントが知識ベースを自律ナビゲート",
-        "「TypeScript 7.0」ベータ版公開 — GoへのコンパイラPort移植でビルド速度10倍、ネイティブバイナリ対応へ",
-        "npm install is Arbitrary Code Execution — Supply Chain Attacks via Trivy, axios, and reviewdog Demand a New Security Model",
-        "DeepSeek V4 — Frontier-Level Performance at a Fraction of the Price with 1M Token Context and MIT License",
-        "Talkie: A 13B Language Model Trained on Pre-1931 Text — Apache 2.0, Copyright-Free, and a New Lens on AI Knowledge Limits"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-01T20:00:00+09:00",
+  "last_run_at": "2026-05-02T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-02T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#utsunomiya-storm",
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#minamata-env",
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#sbi-chikuho",
+        "https://www.nikkei.com/article/sumitomo-madagascar-nickel",
+        "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml#moneyforward-leak",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/01/claude-blender-photoshop.html",
+        "https://zenn.dev/feed#rubykaigi2026",
+        "https://zenn.dev/topics/mcp/feed#oauth21-mcp",
+        "https://www.anthropic.com/engineering/claude-code-quality-postmortem",
+        "https://cursor.com/blog/continually-improving-agent-harness",
+        "https://simonwillison.net/2026/Apr/30/pip-261/"
+      ],
+      "titles": [
+        "宇都宮市で突風が発生、複数の住宅に被害 — 屋根や壁が破損、住民が避難",
+        "水俣病問題で環境省職員が不適切発言か — 被害者団体が強く抗議",
+        "SBI北尾社長が筑邦銀行を公開批判 — TOB巡る対立が激化",
+        "住友商事がマダガスカルのニッケル事業から撤退 — 累積損失4000億円超で幕",
+        "マネーフォワードのGitHubリポジトリから情報漏洩 — 銀行機能を一時停止",
+        "Anthropic、ClaudeをBlenderとPhotoshopに統合 — クリエイター向けAI機能が本格始動",
+        "RubyKaigi 2026 函館で開幕 — コア開発者が語る「Ruby 4.0」への展望",
+        "MCP向けOAuth 2.1認証の実装ガイドが注目 — AIエージェントへの安全なアクセス制御",
+        "Anthropic Engineering: Root Cause Analysis of Recent Claude Code Quality Issues",
+        "Cursor Engineering: Continually Improving the Agent Harness — April 2026 Update",
+        "pip 26.1 Ships with Lockfile Support — Python Dependency Management Gets a Major Upgrade"
+      ]
+    },
     {
       "run_at": "2026-05-01T20:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic and Amazon Expand Compute Partnership — Up to 5GW, $100B+ in AWS Commitment",
         "Alignment Whack-a-Mole: Fine-Tuning LLMs Activates Verbatim Recall of Copyrighted Books",
         "OpenAI Launches ChatGPT Images 2.0 with \"Thinking Mode\" — Reasoning Before Rendering"
-      ]
-    },
-    {
-      "run_at": "2026-04-30T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578233",
-        "https://news.yahoo.co.jp/pickup/6578230",
-        "https://news.yahoo.co.jp/pickup/6578220",
-        "https://www.itmedia.co.jp/news/articles/2604/30/news096.html",
-        "https://news.yahoo.co.jp/pickup/6578231",
-        "https://zenn.dev/tokium_dev/articles/ca6f30192f6379",
-        "https://zenn.dev/toki_mwc/articles/copilot-pro-token-billing-gpt54",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2604/30/news024.html",
-        "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-        "https://github.com/anthropics/claude-code/issues/53262",
-        "https://github.blog/changelog/2026-04-24-notice-about-upcoming-new-format-for-github-app-installation-tokens"
-      ],
-      "titles": [
-        "5月1日に西日本で警報級の大雨・暴風 — ゴールデンウィーク直撃の恐れ",
-        "トランプ大統領、在独米軍の削減を検討 — NATO同盟国に衝撃",
-        "食料品の値上げラッシュ再燃の兆し — 5月以降も続く物価上昇圧力",
-        "西日本シティ銀行の行員がBeRealで支店内を撮影・投稿 — 顧客情報が映り込み謝罪",
-        "井上尚弥 vs 中谷正義戦のファイトマネーが日本ボクシング史上最高額に",
-        "Claude Codeに仕事を譲った日 — 残ったのは「判断」と「責任」だった",
-        "Copilot Pro のトークン課金移行 — GPT-5.4 × Copilot CLI の実コストを試算",
-        "Google DeepMindがAGI実現への「10の認知能力」フレームワークを発表",
-        "Zig Project Bans All LLM Contributions — Rationale Explained by Core Team",
-        "HERMES.md in Commit Messages Routes Claude Code to Extra Billing — 1065-Point HN Issue",
-        "GitHub App Installation Tokens Change Format — Migration Required by Mid-May 2026"
-      ]
-    },
-    {
-      "run_at": "2026-04-30T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#longterm-rate-27yr",
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#usdod-iran-4trillion",
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#private-uni-250-cut",
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#bigtech-ai-earnings-q1",
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#murakami-effect",
-        "https://www.itmedia.co.jp/aiplus/2026/04/30/nec-anthropic-claudecode-engineer",
-        "https://www.itmedia.co.jp/aiplus/2026/04/29/openai-images-thinking-mode",
-        "https://www.itmedia.co.jp/news/2026/04/29/github-copilot-token-pricing",
-        "https://mistral.ai/news/mistral-medium-3-5-vibe-agents",
-        "https://simonwillison.net/2026/Apr/29/llm-032/",
-        "https://github.blog/changelog/2026-04-29-copilot-cloud-agent-20pct-faster"
-      ],
-      "titles": [
-        "長期金利が27年ぶりの高水準 — 国債市場に警戒感が広がる",
-        "米国防総省のイラン関連作戦費用が推計4兆円超 — 中東緊張の経済的コストが鮮明に",
-        "財務省が私立大学250校削減を提言 — 少子化対応で高等教育の大規模再編へ",
-        "米大手IT4社がAI投資効果で増収増益 — 設備投資拡大も株主は冷静に評価",
-        "「村上効果」でDeNAベイスターズが連勝 — スター選手加入で観客動員も急増",
-        "NECとAnthropicが提携 — Claude Codeで日本のエンジニア育成プログラムを開始",
-        "OpenAI Imagesに「Thinkingモード」が登場 — 複雑な画像生成指示を段階的推論で処理",
-        "GitHub Copilotが従量制トークン課金へ移行 — プレミアムモデル利用でコスト管理が複雑化",
-        "Mistral Medium 3.5 Launches with Remote Coding Agents and Work Mode in Le Chat",
-        "LLM 0.32 Alpha: Simon Willison's CLI Tool Gets Major Redesign with Message Sequence Architecture",
-        "GitHub Copilot Cloud Agents Get 20% Faster Startup and Expanded Pull Request Context"
       ]
     }
   ]

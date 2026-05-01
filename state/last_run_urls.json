@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-01T15:00:00+09:00",
+  "last_run_at": "2026-05-01T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-01T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026050100873&g=flash&m=rss",
+        "https://www.jiji.com/jc/article?k=2026050100683&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6578403",
+        "https://news.yahoo.co.jp/pickup/6578386",
+        "https://www.jiji.com/jc/article?k=2026050100823&g=int&m=rss",
+        "https://zenn.dev/knowledgesense/articles/7dddae04a7d828",
+        "https://zenn.dev/okazu_dm/articles/7d30c496c8fbb6",
+        "https://zenn.dev/edash_tech_blog/articles/4ece2a554ecb27",
+        "https://www.anthropic.com/engineering",
+        "https://github.blog/changelog/",
+        "https://simonwillison.net/atom/everything/"
+      ],
+      "titles": [
+        "政府・日銀が為替介入を実施か — 大型連休中に5兆円規模の円買いで市場を安定化",
+        "世界の「報道自由度」が過去最低 — 日本62位・米国64位、韓国は47位に",
+        "母娘殺害事件で娘の元交際相手を逮捕 — 埼玉県内の住宅で遺体発見",
+        "5月2日は夏日が続出か — 都心28℃予想、ゴールデンウィーク後半は一転して晴天",
+        "米巨大IT5社がAI投資効果で増収増益 — 1〜3月期、設備投資拡大も市場は冷静",
+        "ベクトルDBを使わないRAG — 全知識を階層化する「Corpus2Skill」の新手法",
+        "terraform applyをGitHub Actionsで実行してはいけない理由 — GHA起点の攻撃が急増",
+        "AWSの新サービス「S3 Files」を実機検証 — EBSとEFSとの性能比較でわかった使いどころ",
+        "Anthropic Publishes Claude Code Quality Postmortem — Identifies Root Causes and Remediation Plan",
+        "GPT-5.5 Rolls Out on GitHub Copilot with 7.5× Premium Multiplier — Strongest Performance on Agentic Coding Tasks",
+        "DeepSeek Releases V4-Pro and V4-Flash — Frontier-Tier Reasoning at a Fraction of Western Prices"
+      ]
+    },
     {
       "run_at": "2026-05-01T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Mistral Medium 3.5 Launches with Remote Coding Agents and Work Mode in Le Chat",
         "LLM 0.32 Alpha: Simon Willison's CLI Tool Gets Major Redesign with Message Sequence Architecture",
         "GitHub Copilot Cloud Agents Get 20% Faster Startup and Expanded Pull Request Context"
-      ]
-    },
-    {
-      "run_at": "2026-04-30T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578176",
-        "https://news.yahoo.co.jp/pickup/6578169",
-        "https://news.yahoo.co.jp/pickup/6578173",
-        "https://news.yahoo.co.jp/pickup/6578177",
-        "https://news.yahoo.co.jp/pickup/6578178",
-        "https://zenn.dev/miyan/articles/claude-code-1m-context-design-update-2026",
-        "https://zenn.dev/linkedge/articles/27c38cdd9bedc6",
-        "https://zenn.dev/edegp/articles/claude-code-slack-mcp-multi-workspace",
-        "https://zed.dev/blog/zed-1-0",
-        "https://www.anthropic.com/news/claude-for-creative-work",
-        "https://blog.langchain.com/tuning-deep-agents-different-models"
-      ],
-      "titles": [
-        "円相場が一時160円台に突入 — 中東緊張で「有事のドル買い」再燃",
-        "出光タンカーがホルムズ海峡を通過 — イランの外交的思惑とは",
-        "ロンドンでユダヤ系男性2人が刃物で襲われ重傷 — 反ユダヤ事件が相次ぐ",
-        "フィリピン当局が国際手配の日本人2人を拘束 — 警察官詐称の特殊詐欺に関与か",
-        "コミティア創設者・中村公彦さんが死去 — 同人創作の聖地を築いた功績",
-        "Claude Code 1Mコンテキスト時代の設計判断 — 200K前提の常識をどこまで捨てるか",
-        "CLAUDE.md・skills・agentsを整備して開発体験が激変した — Claude Code「育成」実践レポート",
-        "Claude CodeのSlack MCPを複数ワークスペースに接続するハック — 公式pluginの制約を回避",
-        "Zed 1.0: GPU-Native, AI-First Editor Launches with Agent Client Protocol and DeltaDB Roadmap",
-        "Anthropic Launches MCP Connectors for 9 Creative Tools — Blender, Adobe CC, Ableton, and More",
-        "LangChain Adds Model-Specific Harness Profiles — Claude Opus 4.7 and GPT-5.3 Codex Get +10–20pt Benchmark Gains"
-      ]
-    },
-    {
-      "run_at": "2026-04-30T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/topics/economy",
-        "https://www.itmedia.co.jp/news/articles/gw2026_rush.html",
-        "https://news.yahoo.co.jp/topics/crime",
-        "https://news.yahoo.co.jp/topics/world",
-        "https://www.itmedia.co.jp/news/articles/2604/29/news_ntt_dc.html",
-        "https://zenn.dev/topics/claudecode",
-        "https://www.itmedia.co.jp/aiplus/articles/2604/29/news_vibe_coding_security.html",
-        "https://www.publickey1.jp/atom.xml",
-        "https://www.anthropic.com/news",
-        "https://github.blog/changelog/2026-04-24-copilot-code-reviews-actions-minutes",
-        "https://simonwillison.net/2026/Apr/29/gpt-5-5/"
-      ],
-      "titles": [
-        "円相場が一時160円台に — 日米金利差拡大懸念で円売り圧力が再燃",
-        "ゴールデンウィーク航空・新幹線が本格ラッシュ — 出国ピークは5月2〜3日",
-        "フィリピン当局が日本人を含む外国人を「詐欺拠点」で一斉摘発",
-        "ロンドンで刃物による無差別襲撃 — 複数人が負傷、容疑者を現場で確保",
-        "NTTが2033年までにデータセンター容量を3倍に拡張 — AI需要急増に対応",
-        "Claudeのコンテキストエンジニアリング実践 — 1Mトークン窓を「使いこなす」ための設計パターン",
-        "「バイブコーディング」のセキュリティリスクが深刻化 — AI生成コードの45%に脆弱性、開発者の対策は？",
-        "Bun v1.3.12 がヘッドレスブラウザを内蔵 — Node.js不要でPlaywright相当のE2Eテストが可能に",
-        "Anthropic Releases Claude Opus 4.7 — Significant Gains in Coding, Agentic Tasks, and Vision",
-        "GitHub Copilot Code Reviews Will Consume Actions Minutes Starting June 1 — Pricing Model Shift",
-        "GPT-5.5 Released: $5/$30 Per Million Tokens, Twice the Price of GPT-5.4 — Is It Worth It?"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-02T00:00:00+09:00",
+  "last_run_at": "2026-05-02T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-02T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6578410",
+        "https://news.yahoo.co.jp/pickup/6578415",
+        "https://news.yahoo.co.jp/pickup/6578418",
+        "https://news.yahoo.co.jp/pickup/6578420",
+        "https://www.jiji.com/jc/article?k=2026050200080&g=pol&m=rss",
+        "https://zenn.dev/hiropon/articles/claude-code-style-extraction",
+        "https://zenn.dev/satoh_y_0323/articles/claude-code-conductor-parallel",
+        "https://zenn.dev/soma/articles/karpathy-vibe-coding-agentic-engineering",
+        "https://www.anthropic.com/engineering/scaling-managed-agents",
+        "https://github.blog/changelog/",
+        "https://simonwillison.net/2026/Apr/29/llm-032/"
+      ],
+      "titles": [
+        "為替介入後も円安基調は続く見方 — 市場関係者が警戒感を維持",
+        "福生市殴打事件 — 容疑者「殺すつもりはなかった」と供述",
+        "改造車の集会で「海ほたる」一時閉鎖 — 警察が現場で取り締まり",
+        "元モーニング娘。新垣里沙が第1子妊娠を発表 — ファンから祝福の声",
+        "日越首脳会談で経済安全保障協力を確認 — 半導体・重要鉱物で連携強化",
+        "Claude Codeにチームの流儀を自動抽出させる手法 — コードスタイル継承の新アプローチ",
+        "C-3PO計画 — Claude Code ConductorとParallel Orchestraが組む48時間",
+        "KarpathyがVibe CodingからAgentic Engineeringへの転換点を語る",
+        "Anthropic Engineering: Scaling Managed Agents — Decoupling the Brain from the Hands",
+        "GitHub Copilot Billing Overhaul June 1: Code Review Agent Will Now Consume Actions Minutes",
+        "Simon Willison: LLM 0.32 Major Refactor — Fragments, Async Support, and a Cleaner Plugin API"
+      ]
+    },
     {
       "run_at": "2026-05-02T00:00:00+09:00",
       "urls": [

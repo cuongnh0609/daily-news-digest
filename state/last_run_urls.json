@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-01T05:00:00+09:00",
+  "last_run_at": "2026-05-01T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-01T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026050100291&g=spo&m=rss",
+        "https://news.yahoo.co.jp/pickup/6578309",
+        "https://news.yahoo.co.jp/pickup/6578322",
+        "https://www.jiji.com/jc/article?k=2026043000690&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2605/01/news062.html",
+        "https://zenn.dev/layerx/articles/20260428-ccgate",
+        "https://zenn.dev/nttdata_tech/articles/bf6b694144e55a",
+        "https://www.itmedia.co.jp/news/articles/2605/01/news065.html",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/01/news051.html",
+        "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+        "https://simonwillison.net/2026/Apr/30/codex-goals/"
+      ],
+      "titles": [
+        "錦織圭、今季限りで現役引退を発表 — 全米準優勝・五輪銅メダルの36年間の軌跡に幕",
+        "イラン、ホルムズ海峡めぐり強硬姿勢を堅持 — 米国の圧力にも「敵の悪用は排除する」",
+        "関東で昼過ぎにかけ激しい雨 — ゴールデンウィーク後半の悪天候に注意",
+        "政府、トランプ大統領の訪日を5月訪中前後に打診 — 日米首脳会談の実現を模索",
+        "Apple、1〜3月期に過去最高売上高1112億ドルを更新 — iPhone 17好調、次期CEO初登場",
+        "ccgate — Claude CodeのPermission確認を97%自動化するOSSツール — LayerXエンジニアが公開",
+        "大規模案件のSlackにAI社員3人を常駐させたら2年目が1週間で設計根本を問い直した — NTTデータ実践報告",
+        "SpotifyがAI生成コンテンツと人間アーティストを識別する「Verified by Spotify」バッジを導入",
+        "Anthropic Launches Claude Security Public Beta — AI-Powered Vulnerability Scanning for Entire Codebases",
+        "Shai-Hulud Malware Compromises PyTorch Lightning — First Known Abuse of Claude Code Hook System",
+        "OpenAI Codex CLI 0.128.0 Adds /goal Command — Transparent Autonomous Looping for Coding Agents"
+      ]
+    },
     {
       "run_at": "2026-05-01T05:00:00+09:00",
       "urls": [

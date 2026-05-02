@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-02T05:00:00+09:00",
+  "last_run_at": "2026-05-02T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-02T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026050200169&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026050100708&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2605/01/news111.html",
+        "https://www.itmedia.co.jp/news/articles/2605/01/news109.html",
+        "https://www.itmedia.co.jp/news/articles/2605/01/news091.html",
+        "https://zenn.dev/sonicgarden/articles/claude-code-custom-rules-part1",
+        "https://zenn.dev/mkj/articles/87c3ce556cde90",
+        "https://zenn.dev/masa1990/articles/claude-code-amazon-bedrock",
+        "https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex",
+        "https://simonwillison.net/2026/May/1/inat-sightings/",
+        "https://news.ycombinator.com/item?id=47975571"
+      ],
+      "titles": [
+        "在独米軍から約5,000人撤収へ — トランプ政権、イラン攻撃批判への報復措置か",
+        "緊急避妊薬、中高生になお高い壁 — 処方箋なし販売の普及に課題",
+        "イエローハット子会社で最大345万人分の個人情報が漏洩 — 不正アクセスで名前・住所など流出",
+        "GoogleのGemini・NotebookLMがISMAP登録 — 政府調達可能な認定クラウドに",
+        "NTT東日本、光通信技術「IOWN」の基盤サービスを商用展開へ — 2027年度に本格稼働",
+        "Claude Codeにチームのコーディングスタイルを覚えさせる — CLAUDE.mdカスタムルール実践（前編）",
+        "社内AIアシスタントを3ヶ月試験運用した結果 — 75%が週30分以上の業務効率化を実感",
+        "Claude Code × Amazon Bedrock 連携完全ガイド — APIキー不要でAWSネイティブに動かす",
+        "GitHub Deprecates GPT-5.2 and GPT-5.2-Codex from All Copilot Experiences on June 1",
+        "Simon Willison Builds iNaturalist Wildlife Tracker While Camping — A Full Claude Code Vibe-Coding Story",
+        "Ubuntu Infrastructure Hit by \"Sustained, Cross-Border\" Cyberattack — Servers Down Over 24 Hours"
+      ]
+    },
     {
       "run_at": "2026-05-02T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Launches Claude Design — AI-Powered Visual Collaboration Tool Built on Opus 4.7",
         "IBM Releases Granite 4.1 — 8B Model Matches 32B MoE Performance",
         "Mozilla Formally Opposes Chrome's Built-in Prompt API — Raises Privacy and Standardization Concerns"
-      ]
-    },
-    {
-      "run_at": "2026-04-30T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578265",
-        "https://news.yahoo.co.jp/pickup/6578263",
-        "https://news.yahoo.co.jp/pickup/6578253",
-        "https://news.yahoo.co.jp/pickup/6578266",
-        "https://www.itmedia.co.jp/news/articles/2604/30/news070.html",
-        "https://zenn.dev/headwaters/articles/509a1f83c693ce",
-        "https://www.itmedia.co.jp/aiplus/articles/2604/30/news105.html",
-        "https://zenn.dev/aircloset/articles/65efe9614f8e73",
-        "https://www.anthropic.com/news/anthropic-amazon-compute",
-        "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-        "https://kn.itmedia.co.jp/kn/articles/2604/30/news051.html"
-      ],
-      "titles": [
-        "動物園の焼却炉から人体の一部か — 職員が妻の遺体を遺棄の疑い",
-        "性被害訴えた大阪地検の女性検事が辞表提出 — 「辞めたくないのに悔しい」",
-        "東広島・広島連続事件 — 会社敷地で発見の遺体、29歳男性と身元判明",
-        "首相「ナフサ供給は年明けまで継続」 — 中東情勢でも化学製品の安定確保へ",
-        "Amazon決算、AWS売上高28%増 — Anthropic投資益168億ドル計上で純利益が大幅増",
-        "エージェントコスト急騰に対抗 — OllamaローカルLLMで「実行はローカル、設計はClaudeに」",
-        "CloudflareとStripeが連携 — AIエージェントがドメイン購入からデプロイまで自律実行",
-        "非エンジニアの「作りたい」を安全に公開する Sandbox MCP — 4層セキュリティで社内デプロイが2〜5分に",
-        "Anthropic and Amazon Expand Compute Partnership — Up to 5GW, $100B+ in AWS Commitment",
-        "Alignment Whack-a-Mole: Fine-Tuning LLMs Activates Verbatim Recall of Copyrighted Books",
-        "OpenAI Launches ChatGPT Images 2.0 with \"Thinking Mode\" — Reasoning Before Rendering"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-02T10:00:00+09:00",
+  "last_run_at": "2026-05-02T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-02T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6578478",
+        "https://news.yahoo.co.jp/pickup/6578489",
+        "https://www.jiji.com/jc/article?k=2026050200251&g=soc",
+        "https://news.yahoo.co.jp/pickup/6578475",
+        "https://news.yahoo.co.jp/pickup/6578491",
+        "https://zenn.dev/sabakan1/articles/57ca07f4b277b4",
+        "https://zenn.dev/exwzd/articles/20260501_copilot_agent_skill_recommender",
+        "https://zenn.dev/dateshim/articles/eb9b7bb8e53cc2",
+        "https://www.anthropic.com/news/claude-for-creative-work",
+        "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/",
+        "https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/"
+      ],
+      "titles": [
+        "岩手・大槌町の山林火災、発生から11日目に鎮圧宣言",
+        "黒田前日銀総裁「円安は行き過ぎ」— 政策金利1.5%への引き上げを示唆",
+        "俳優・五十嵐淳子さん死去、73歳 — 中村雅俊さんの妻",
+        "西日本シティ銀行の謝罪がなぜ逆効果だったか — SNS炎上対応の失敗に学ぶ",
+        "岩本乃蒼アナ、大学院での学びと出産経て日本テレビに復職",
+        "【検出率100%】Claude Codeによるセキュリティ診断の自動化 — 月$0.84で実現するAIセキュリティ体制",
+        "gh skill × GitHub Copilot Coding AgentでAgent Skillsを自動推薦する仕組みを構築",
+        "7年前の Chromebook でローカルLLMを動かす実験 — Trillim + Ternary Bonsai の性能と限界",
+        "Anthropic Launches Claude for Creative Work — MCP Connectors for 8 Major Creative Platforms",
+        "UK AISI Evaluates GPT-5.5 Cyber Capabilities — Comparable to Claude Mythos",
+        "We Need RSS for Vibe-Coded Apps — Simon Willison Builds Atom Feed for Personal Tools"
+      ]
+    },
     {
       "run_at": "2026-05-02T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "OpenAI Explains \"The Goblins\" — Hidden Behavior Clusters in GPT-5 That Cause Unpredictable Outputs",
         "Google Cloud Announces Spanner Omni — Production-Grade Distributed RDB Now Installable On-Premises",
         "Google DeepMind Releases Gemma 4 — \"Byte for Byte, the Most Capable\" Open-Weight Model Family"
-      ]
-    },
-    {
-      "run_at": "2026-05-01T00:00:00+09:00",
-      "urls": [
-        "https://news.web.nhk/newsweb/na/na-k10015112041000",
-        "https://news.web.nhk/newsweb/na/na-k10015112031000",
-        "https://news.web.nhk/newsweb/na/na-k10015112161000",
-        "https://www.itmedia.co.jp/news/articles/2604/30/news134.html",
-        "https://www.itmedia.co.jp/news/articles/2604/30/news114.html",
-        "https://www.anthropic.com/news/anthropic-nec",
-        "https://www.publickey1.jp/blog/26/typescript_70typescriptgo10.html",
-        "https://github.blog/changelog/2026-04-30-github-copilot-in-visual-studio-april-update",
-        "https://www.anthropic.com/news/claude-design-anthropic-labs",
-        "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-        "https://github.com/mozilla/standards-positions/issues/1213"
-      ],
-      "titles": [
-        "円相場が一時155円台まで急騰 — 政府・日銀が為替介入を実施か",
-        "東京電力が4542億円の最終赤字 — 廃炉準備費用の膨張が主因",
-        "ニデックに違約金9120万円 — 東証が不正会計で正式発表、KDDIにも措置",
-        "JAL×GMOが羽田空港で人型ロボット実証実験 — 国内空港初、地上業務を3年間代行",
-        "テスラ自動運転「2026年中に日本解禁」の現実味 — 日産・NVIDIAも参戦",
-        "AnthropicとNECが戦略提携 — Claude CodeをNECグループ3万人のエンジニアに展開",
-        "TypeScript 7.0ベータ公開 — コンパイラをGoに移植、ビルド速度10倍を実現",
-        "GitHub Copilot for Visual Studio — 4月アップデートでクラウドエージェントとデバッガーエージェントが新登場",
-        "Anthropic Launches Claude Design — AI-Powered Visual Collaboration Tool Built on Opus 4.7",
-        "IBM Releases Granite 4.1 — 8B Model Matches 32B MoE Performance",
-        "Mozilla Formally Opposes Chrome's Built-in Prompt API — Raises Privacy and Standardization Concerns"
       ]
     }
   ]

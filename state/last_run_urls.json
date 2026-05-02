@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-02T20:00:00+09:00",
+  "last_run_at": "2026-05-03T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-03T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6578547",
+        "https://news.yahoo.co.jp/pickup/6578542",
+        "https://www.jiji.com/jc/article?k=2026050200302&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026050200111&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026050200300&g=int&m=rss",
+        "https://www.publickey1.jp/blog/26/typescript_70typescriptgo10.html",
+        "https://www.publickey1.jp/blog/26/salesforceapiclimcpsalesforce_headless_360.html",
+        "https://www.publickey1.jp/blog/26/cloudflareaicloudflare_artifactsgitrestful_api.html",
+        "https://www.anthropic.com/news/anthropic-nec",
+        "https://github.blog/changelog/2026-04-27-copilot-cloud-agent-starts-20-faster-with-actions-custom-images",
+        "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
+      ],
+      "titles": [
+        "憲法改正巡り自民党内で衆参の温度差が表面化――緊急事態条項か合区解消かで意見対立",
+        "東京・豊島区で8歳長女が死亡、45歳の母親を殺人容疑で逮捕",
+        "井上尚弥が判定で中谷潤人を下し4団体防衛――東京ドームに史上最多5万5千人が熱狂",
+        "北陸新幹線・大阪延伸で「小浜・京都」ルート決着へ――維新は反対、京都の同意も不透明",
+        "イランが「機雷イルカ」の投入を検討か――米艦艇攻撃用に訓練された海洋哺乳類、米紙が報道",
+        "TypeScript 7.0ベータ公開――コンパイラをGo言語へ移植し処理速度が10倍に高速化",
+        "Salesforce Headless 360発表――API・CLI・MCPでAIエージェントがCRMを直接操作できる基盤へ",
+        "Cloudflare、AIエージェント向けファイルシステム「Cloudflare Artifacts」を発表",
+        "Anthropic and NEC Partner to Build Japan's Largest AI Engineering Workforce — 30,000 Employees to Use Claude",
+        "GitHub Copilot Cloud Agent Now Starts 20% Faster — Prebaked Actions Custom Images Cut Initialization Time",
+        "Zig's Firm Anti-AI Contribution Policy: Why the Project Bets on Contributors, Not Code"
+      ]
+    },
     {
       "run_at": "2026-05-02T20:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Publishes Claude Code Quality Postmortem — Identifies Root Causes and Remediation Plan",
         "GPT-5.5 Rolls Out on GitHub Copilot with 7.5× Premium Multiplier — Strongest Performance on Agentic Coding Tasks",
         "DeepSeek Releases V4-Pro and V4-Flash — Frontier-Tier Reasoning at a Fraction of Western Prices"
-      ]
-    },
-    {
-      "run_at": "2026-05-01T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578359",
-        "https://news.yahoo.co.jp/pickup/6578356",
-        "https://news.yahoo.co.jp/pickup/6578347",
-        "https://news.yahoo.co.jp/pickup/6578360",
-        "https://www.itmedia.co.jp/news/articles/2605/01/news075.html",
-        "https://zenn.dev/aircloset/articles/4c5f49f89db19f",
-        "https://zenn.dev/sabakan1/articles/bd286802d6a91d",
-        "https://www.itmedia.co.jp/enterprise/articles/2605/01/news050.html",
-        "https://www.itmedia.co.jp/news/articles/2605/01/news071.html",
-        "https://www.publickey1.jp/blog/26/googleaiagent_studioaigemini_enterprise_agent_platform.html",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2605/01/news057.html"
-      ],
-      "titles": [
-        "ゴールデンウィーク後半に荒天の恐れ — 3日・4日は広範囲で激しい雨と強風",
-        "トランプ大統領暗殺未遂事件 — 夕食会で警備を一瞬で突破、新映像が公開される",
-        "プーチン大統領「日出づる国はロシアだ」 — 地政学的主張を再び強調",
-        "日本人女性と韓国人男性の国際結婚が急増 — 文化的親和性と経済的対等性が背景に",
-        "「ガンダム」の父・富野由悠季氏が旭日中綬章を受章 — スタッフへの感謝を語る",
-        "自作MCPサーバーのトークン消費を9割削減する「退避パターン」— 大量データをコンテキスト外に逃がす設計手法",
-        "AIにOWASPセキュリティ診断を任せたら月$0.5で回るようになった — claude-security-scanスキルの設計と実践",
-        "「時短ツール」としてのAI活用に落とし穴 — ガートナーが企業の視野の狭さに警鐘を鳴らす",
-        "OpenAI Launches Advanced Account Security (AAS) for ChatGPT — Hardware Keys, Mandatory for Cyber Program Members from June",
-        "Google Launches Gemini Enterprise Agent Platform with Low-Code Agent Studio — Multi-Model Marketplace at Cloud Next 2026",
-        "NVIDIA NemoClaw Emerges as AI Agent Security Foundation — OpenClaw Framework Addresses Privilege Risk in Enterprise Deployments"
-      ]
-    },
-    {
-      "run_at": "2026-05-01T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026050100291&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6578309",
-        "https://news.yahoo.co.jp/pickup/6578322",
-        "https://www.jiji.com/jc/article?k=2026043000690&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2605/01/news062.html",
-        "https://zenn.dev/layerx/articles/20260428-ccgate",
-        "https://zenn.dev/nttdata_tech/articles/bf6b694144e55a",
-        "https://www.itmedia.co.jp/news/articles/2605/01/news065.html",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/01/news051.html",
-        "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-        "https://simonwillison.net/2026/Apr/30/codex-goals/"
-      ],
-      "titles": [
-        "錦織圭、今季限りで現役引退を発表 — 全米準優勝・五輪銅メダルの36年間の軌跡に幕",
-        "イラン、ホルムズ海峡めぐり強硬姿勢を堅持 — 米国の圧力にも「敵の悪用は排除する」",
-        "関東で昼過ぎにかけ激しい雨 — ゴールデンウィーク後半の悪天候に注意",
-        "政府、トランプ大統領の訪日を5月訪中前後に打診 — 日米首脳会談の実現を模索",
-        "Apple、1〜3月期に過去最高売上高1112億ドルを更新 — iPhone 17好調、次期CEO初登場",
-        "ccgate — Claude CodeのPermission確認を97%自動化するOSSツール — LayerXエンジニアが公開",
-        "大規模案件のSlackにAI社員3人を常駐させたら2年目が1週間で設計根本を問い直した — NTTデータ実践報告",
-        "SpotifyがAI生成コンテンツと人間アーティストを識別する「Verified by Spotify」バッジを導入",
-        "Anthropic Launches Claude Security Public Beta — AI-Powered Vulnerability Scanning for Entire Codebases",
-        "Shai-Hulud Malware Compromises PyTorch Lightning — First Known Abuse of Claude Code Hook System",
-        "OpenAI Codex CLI 0.128.0 Adds /goal Command — Transparent Autonomous Looping for Coding Agents"
       ]
     }
   ]

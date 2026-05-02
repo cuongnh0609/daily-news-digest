@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-02T15:00:00+09:00",
+  "last_run_at": "2026-05-02T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-02T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6578521",
+        "https://news.yahoo.co.jp/pickup/6578520",
+        "https://news.yahoo.co.jp/pickup/6578385",
+        "https://news.yahoo.co.jp/pickup/6578460",
+        "https://news.yahoo.co.jp/pickup/6578500",
+        "https://zenn.dev/ryoitabashi/articles/744397718965f6",
+        "https://zenn.dev/linkedge/articles/27c38cdd9bedc6",
+        "https://zenn.dev/komlock_lab/articles/stripe-sessions-2026",
+        "https://www.liquid.ai/blog/lfm2-24b-a2b",
+        "https://github.blog/changelog/2026-04-30-github-copilot-in-visual-studio-april-update",
+        "https://simonwillison.net/2026/Apr/30/andrew-kelley/"
+      ],
+      "titles": [
+        "三重・奈良などで震度4の地震発生、津波の心配なし",
+        "3日から関東〜九州で大雨のおそれ、気象庁が注意呼びかけ",
+        "オーストラリアで小型機墜落、邦人1名を含む2名が死亡",
+        "米がEU産自動車に関税25%引き上げ、貿易摩擦が再び激化",
+        "膵臓がんの進行に関わるタンパク質を発見、新たな治療標的に期待",
+        "AndroidでClaude Code・Codex CLI・Gemini CLIを動かすネイティブAIターミナルIDEを自作",
+        "CLAUDE.md・skills・agentsを整備してClaude Codeの開発体験が劇的に変わった話",
+        "Stripe Sessions 2026で発表——AIエージェント決済インフラの全貌",
+        "Liquid AI Releases LFM2-24B: A 24B-Parameter MoE Model with 2B Active Parameters",
+        "GitHub Copilot in Visual Studio — April 2026 Update: Cloud Agent from IDE, Debugger Agent, and Far-Away Edits",
+        "Zig Creator Andrew Kelley: LLM-Generated Code Has Detectable Statistical Fingerprints Distinct From Human Mistakes"
+      ]
+    },
     {
       "run_at": "2026-05-02T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Launches Claude Security Public Beta — AI-Powered Vulnerability Scanning for Entire Codebases",
         "Shai-Hulud Malware Compromises PyTorch Lightning — First Known Abuse of Claude Code Hook System",
         "OpenAI Codex CLI 0.128.0 Adds /goal Command — Transparent Autonomous Looping for Coding Agents"
-      ]
-    },
-    {
-      "run_at": "2026-05-01T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578293",
-        "https://news.yahoo.co.jp/pickup/6578275",
-        "https://news.yahoo.co.jp/pickup/6578270",
-        "https://news.yahoo.co.jp/pickup/6578243",
-        "https://news.yahoo.co.jp/pickup/6578235",
-        "https://zenn.dev/kai_kou/articles/202-claude-managed-agents-deploy-guide",
-        "https://zenn.dev/finatext/articles/mcp-gateway-google-sa",
-        "https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b",
-        "https://openai.com/index/where-the-goblins-came-from/",
-        "https://www.publickey1.jp/blog/26/google_cloudrdbspanner_omni.html",
-        "https://deepmind.google/discover/blog/"
-      ],
-      "titles": [
-        "5月1日、西日本・東日本で警報級の大雨と暴風 — 気象庁が厳重警戒を呼びかけ",
-        "高市首相、イラン大統領と電話会談 — 日本船舶の安全航行を強く要請",
-        "野党を中傷するSNS動画が拡散 — 高市首相の陣営が関与を否定、波紋広がる",
-        "退職した国家公務員を簡易手続きで再採用 — 政府が人材確保の新制度を導入へ",
-        "日本将棋連盟、女流棋士の妊娠・出産に関する規定を見直しへ — 検討委が報告書を提出",
-        "Claude Managed Agents入門 — インフラ不要でAIエージェントを本番デプロイする新サービス",
-        "AIに会社のGoogleアカウントを渡していませんか — MCPゲートウェイでAIの「視界」を制御する設計",
-        "Linuxカーネルの脆弱性「CopyFail (CVE-2026-31431)」をEC2で実証 — 一般ユーザーが1コマンドでroot取得",
-        "OpenAI Explains \"The Goblins\" — Hidden Behavior Clusters in GPT-5 That Cause Unpredictable Outputs",
-        "Google Cloud Announces Spanner Omni — Production-Grade Distributed RDB Now Installable On-Premises",
-        "Google DeepMind Releases Gemma 4 — \"Byte for Byte, the Most Capable\" Open-Weight Model Family"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-03T05:00:00+09:00",
+  "last_run_at": "2026-05-03T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-03T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/topics/top-picks",
+        "https://news.yahoo.co.jp/pickup/6578568",
+        "https://news.yahoo.co.jp/topics/top-picks",
+        "https://www.jiji.com/jc/article?k=2026050300084&g=soc",
+        "https://www.jiji.com/jc/article?k=2026050300128&g=int",
+        "https://zenn.dev/aishift/articles/a4bdf225a348e5",
+        "https://www.publickey1.jp/blog/26/postgresqlmysqlsql_serversql_mcp_server.html",
+        "https://www.publickey1.jp/blog/26/bunheadless_brwoser_automation.html",
+        "https://github.com/microsoft/vscode/pull/310226",
+        "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+        "https://www.anthropic.com/news/claude-opus-4-7"
+      ],
+      "titles": [
+        "西日本から雨雲が拡大――急な強雨に厳重注意、河川増水のおそれも",
+        "120年に一度の奇跡――長野県で「チシマザサ」が今年一斉開花か",
+        "コロナ感染者が激減――多数が免疫を獲得、流行の波が収束へ",
+        "最高裁長官「生成AIは猛獣」――民事訴訟への導入には慎重な姿勢",
+        "イランの核交渉提案に米大統領が「即検討」も懐疑的――中東情勢が緊張続く",
+        "TypeScriptワークフローの「正しさ」をLean定理証明で検証――AI Shiftが示すハイブリッド手法",
+        "Microsoft、PostgreSQL・MySQL・SQL Server対応の「SQL MCP Server」をOSSで公開",
+        "Bun v1.3.12でヘッドレスブラウザ自動化が標準搭載――macOSはWKWebViewでChrome不要",
+        "VS Code Now Inserts \"Co-Authored-by: GitHub Copilot\" Into All Commits by Default",
+        "The Agent Harness Belongs Outside the Sandbox — A Production Architecture for Multi-User AI Agents",
+        "Claude Opus 4.7: Anthropic's Latest Flagship Brings Stronger Coding, Vision, and Multi-Step Agentic Reasoning"
+      ]
+    },
     {
       "run_at": "2026-05-03T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Engineering: Root Cause Analysis of Recent Claude Code Quality Issues",
         "Cursor Engineering: Continually Improving the Agent Harness — April 2026 Update",
         "pip 26.1 Ships with Lockfile Support — Python Dependency Management Gets a Major Upgrade"
-      ]
-    },
-    {
-      "run_at": "2026-05-01T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026050100873&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026050100683&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6578403",
-        "https://news.yahoo.co.jp/pickup/6578386",
-        "https://www.jiji.com/jc/article?k=2026050100823&g=int&m=rss",
-        "https://zenn.dev/knowledgesense/articles/7dddae04a7d828",
-        "https://zenn.dev/okazu_dm/articles/7d30c496c8fbb6",
-        "https://zenn.dev/edash_tech_blog/articles/4ece2a554ecb27",
-        "https://www.anthropic.com/engineering",
-        "https://github.blog/changelog/",
-        "https://simonwillison.net/atom/everything/"
-      ],
-      "titles": [
-        "政府・日銀が為替介入を実施か — 大型連休中に5兆円規模の円買いで市場を安定化",
-        "世界の「報道自由度」が過去最低 — 日本62位・米国64位、韓国は47位に",
-        "母娘殺害事件で娘の元交際相手を逮捕 — 埼玉県内の住宅で遺体発見",
-        "5月2日は夏日が続出か — 都心28℃予想、ゴールデンウィーク後半は一転して晴天",
-        "米巨大IT5社がAI投資効果で増収増益 — 1〜3月期、設備投資拡大も市場は冷静",
-        "ベクトルDBを使わないRAG — 全知識を階層化する「Corpus2Skill」の新手法",
-        "terraform applyをGitHub Actionsで実行してはいけない理由 — GHA起点の攻撃が急増",
-        "AWSの新サービス「S3 Files」を実機検証 — EBSとEFSとの性能比較でわかった使いどころ",
-        "Anthropic Publishes Claude Code Quality Postmortem — Identifies Root Causes and Remediation Plan",
-        "GPT-5.5 Rolls Out on GitHub Copilot with 7.5× Premium Multiplier — Strongest Performance on Agentic Coding Tasks",
-        "DeepSeek Releases V4-Pro and V4-Flash — Frontier-Tier Reasoning at a Fraction of Western Prices"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-03T15:00:00+09:00",
+  "last_run_at": "2026-05-03T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-03T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
+        "https://www.itmedia.co.jp/news/",
+        "https://news.yahoo.co.jp/",
+        "https://news.yahoo.co.jp/",
+        "https://news.yahoo.co.jp/",
+        "https://zenn.dev/",
+        "https://zenn.dev/",
+        "https://www.itmedia.co.jp/news/",
+        "https://www.anthropic.com/news/claude-design",
+        "https://ladybird.org/newsletter/2026-04-30/",
+        "https://www.cnbc.com/2026/04/29/aws-earnings-q1-2026.html"
+      ],
+      "titles": [
+        "GW後半に荒天の恐れ――4〜6日は雨・強風、Uターンラッシュに直撃か",
+        "MoneyForward子会社で370件の顧客情報が流出――認証システムに脆弱性、クレジット情報の一部も含まれる",
+        "ガソリン価格がGW中も高止まり――「近場レジャー」シフトで消費行動が変化",
+        "ボクサー・中谷潤人が眼窩底骨折――試合後の検査で判明、世界タイトル防衛戦への影響必至",
+        "MEGUMIの監督作品がイタリア映画祭で2冠――日本映画の国際的評価が続く",
+        "AGENTS.md・SKILL.md・DESIGN.md の役割分担――Google LabsのDESIGN.md仕様でAIエージェント指示ファイルを整理する",
+        "AWSセキュリティエージェントを意図的な脆弱アプリで検証――設計・コードレビュー・ペネトレーションの3段階評価",
+        "大手テック5社のQ1 2026決算まとめ――AWS・Meta・Appleが市場予測を上回り、AI設備投資は計6300億ドル規模に",
+        "Anthropic Launches Claude Design — AI-Powered Visual Creation Tool for Designs, Prototypes, and Slides",
+        "Ladybird Browser April 2026 Newsletter — Independent Browser Engine Reaches Functional CSS, Basic JS, and Form Submission Milestones",
+        "AWS Q1 2026: $37.6B Revenue (+28% YoY), Operating Income $14.2B — Hyperscaler AI Capex Nears $650B Combined"
+      ]
+    },
     {
       "run_at": "2026-05-03T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "GitHub Deprecates GPT-5.2 and GPT-5.2-Codex from All Copilot Experiences on June 1",
         "Simon Willison Builds iNaturalist Wildlife Tracker While Camping — A Full Claude Code Vibe-Coding Story",
         "Ubuntu Infrastructure Hit by \"Sustained, Cross-Border\" Cyberattack — Servers Down Over 24 Hours"
-      ]
-    },
-    {
-      "run_at": "2026-05-02T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578410",
-        "https://news.yahoo.co.jp/pickup/6578415",
-        "https://news.yahoo.co.jp/pickup/6578418",
-        "https://news.yahoo.co.jp/pickup/6578420",
-        "https://www.jiji.com/jc/article?k=2026050200080&g=pol&m=rss",
-        "https://zenn.dev/hiropon/articles/claude-code-style-extraction",
-        "https://zenn.dev/satoh_y_0323/articles/claude-code-conductor-parallel",
-        "https://zenn.dev/soma/articles/karpathy-vibe-coding-agentic-engineering",
-        "https://www.anthropic.com/engineering/scaling-managed-agents",
-        "https://github.blog/changelog/",
-        "https://simonwillison.net/2026/Apr/29/llm-032/"
-      ],
-      "titles": [
-        "為替介入後も円安基調は続く見方 — 市場関係者が警戒感を維持",
-        "福生市殴打事件 — 容疑者「殺すつもりはなかった」と供述",
-        "改造車の集会で「海ほたる」一時閉鎖 — 警察が現場で取り締まり",
-        "元モーニング娘。新垣里沙が第1子妊娠を発表 — ファンから祝福の声",
-        "日越首脳会談で経済安全保障協力を確認 — 半導体・重要鉱物で連携強化",
-        "Claude Codeにチームの流儀を自動抽出させる手法 — コードスタイル継承の新アプローチ",
-        "C-3PO計画 — Claude Code ConductorとParallel Orchestraが組む48時間",
-        "KarpathyがVibe CodingからAgentic Engineeringへの転換点を語る",
-        "Anthropic Engineering: Scaling Managed Agents — Decoupling the Brain from the Hands",
-        "GitHub Copilot Billing Overhaul June 1: Code Review Agent Will Now Consume Actions Minutes",
-        "Simon Willison: LLM 0.32 Major Refactor — Fragments, Async Support, and a Cleaner Plugin API"
       ]
     }
   ]

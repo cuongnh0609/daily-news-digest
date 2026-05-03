@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-03T20:00:00+09:00",
+  "last_run_at": "2026-05-04T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-04T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026050300291&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026050300073&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6578641",
+        "https://news.yahoo.co.jp/pickup/6578661",
+        "https://www.jiji.com/jc/article?k=2026050300366&g=int&m=rss",
+        "https://zenn.dev/rhythmcan/articles/3889d945d8702c",
+        "https://zenn.dev/tokku5552/articles/claude-code-harness-architecture",
+        "https://zenn.dev/headwaters/articles/f629e2f92828e7",
+        "https://acai.sh/blog/specsmaxxing",
+        "https://www.anthropic.com/news/anthropic-amazon-compute",
+        "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026"
+      ],
+      "titles": [
+        "憲法記念日に護憲・改憲両派が都内で大規模集会――80年の節目、攻防が激化",
+        "日豪首脳会談、エネルギー双方向協力を確認――友好条約50周年の節目に経済安保連携強化",
+        "陸自部隊が生成AIで作成したロゴに「好戦的」批判殺到――3日で使用中止に",
+        "富士山の「弾丸登山」が減少へ――規制効果で親子連れは逆に減少、静岡は子ども料金検討",
+        "OPECプラス有志7カ国が3カ月連続増産へ――サウジなど自主削減の巻き戻し加速",
+        "Claude Codeのセッションログから過去のやり取りをたどる方法――JSONL解析で根本原因究明",
+        "コードを書かずにGoパイプラインを運用するClaude Code設定例――CLAUDE.md・hooks・skill・MCPを組み合わせる",
+        "VSCode 1.118のアップデートがアツい――Copilot Agent Mode強化、Next Edit Suggestions大幅改善",
+        "Specsmaxxing: Why the Spec Is the Primary Artifact in AI-Assisted Development",
+        "Anthropic and Amazon Expand Collaboration for Up to 5 Gigawatts of New Compute — $100B+ Commitment Over a Decade",
+        "GitHub Copilot Code Review Will Consume GitHub Actions Minutes Starting June 1, 2026"
+      ]
+    },
     {
       "run_at": "2026-05-03T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Launches Claude for Creative Work — MCP Connectors for 8 Major Creative Platforms",
         "UK AISI Evaluates GPT-5.5 Cyber Capabilities — Comparable to Claude Mythos",
         "We Need RSS for Vibe-Coded Apps — Simon Willison Builds Atom Feed for Personal Tools"
-      ]
-    },
-    {
-      "run_at": "2026-05-02T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026050200169&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026050100708&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2605/01/news111.html",
-        "https://www.itmedia.co.jp/news/articles/2605/01/news109.html",
-        "https://www.itmedia.co.jp/news/articles/2605/01/news091.html",
-        "https://zenn.dev/sonicgarden/articles/claude-code-custom-rules-part1",
-        "https://zenn.dev/mkj/articles/87c3ce556cde90",
-        "https://zenn.dev/masa1990/articles/claude-code-amazon-bedrock",
-        "https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex",
-        "https://simonwillison.net/2026/May/1/inat-sightings/",
-        "https://news.ycombinator.com/item?id=47975571"
-      ],
-      "titles": [
-        "在独米軍から約5,000人撤収へ — トランプ政権、イラン攻撃批判への報復措置か",
-        "緊急避妊薬、中高生になお高い壁 — 処方箋なし販売の普及に課題",
-        "イエローハット子会社で最大345万人分の個人情報が漏洩 — 不正アクセスで名前・住所など流出",
-        "GoogleのGemini・NotebookLMがISMAP登録 — 政府調達可能な認定クラウドに",
-        "NTT東日本、光通信技術「IOWN」の基盤サービスを商用展開へ — 2027年度に本格稼働",
-        "Claude Codeにチームのコーディングスタイルを覚えさせる — CLAUDE.mdカスタムルール実践（前編）",
-        "社内AIアシスタントを3ヶ月試験運用した結果 — 75%が週30分以上の業務効率化を実感",
-        "Claude Code × Amazon Bedrock 連携完全ガイド — APIキー不要でAWSネイティブに動かす",
-        "GitHub Deprecates GPT-5.2 and GPT-5.2-Codex from All Copilot Experiences on June 1",
-        "Simon Willison Builds iNaturalist Wildlife Tracker While Camping — A Full Claude Code Vibe-Coding Story",
-        "Ubuntu Infrastructure Hit by \"Sustained, Cross-Border\" Cyberattack — Servers Down Over 24 Hours"
       ]
     }
   ]

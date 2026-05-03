@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-03T10:00:00+09:00",
+  "last_run_at": "2026-05-03T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-03T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/5054ebb0f827712825e610d37dfa4028f8c0e226",
+        "https://news.yahoo.co.jp/articles/3636353104b872b6484450499c09bde919ac6bc2",
+        "https://news.yahoo.co.jp/pickup/6578587",
+        "https://www.jiji.com/jc/article?k=2026050300176&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026050300169&g=int&m=rss",
+        "https://zenn.dev/shinyay/articles/gpt-5-5-prompt-optimization-copilot-skill",
+        "https://www.itmedia.co.jp/news/articles/2605/01/news071.html",
+        "https://www.itmedia.co.jp/news/articles/2605/01/news065.html",
+        "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+        "https://simonwillison.net/2026/Apr/30/codex-goals/",
+        "https://simonwillison.net/2026/May/2/sightings/"
+      ],
+      "titles": [
+        "数学の未解決問題、AIが相次いで解明――「2026年は歴史的転換点」と専門家",
+        "犯罪組織幹部が日本の高級物件を現金購入・転売――マネーロンダリング疑惑が浮上",
+        "朝日新聞阪神支局襲撃からきょう39年――未解決のまま時効も成立、遺族と同僚が追悼",
+        "奄美地方で梅雨入り――平年より9日早く、気象庁が発表",
+        "トランプ大統領、在独米軍を「さらに大幅削減」――共和党重鎮も懸念、NATO抑止力低下を警告",
+        "GPT-5.5 向け「指示の型」設計――3モード Agent Skill とコスト最適ルーティング戦略",
+        "OpenAI、ChatGPTに物理キー対応の高度認証機能「AAS」を導入――パスワードレスで企業セキュリティを強化",
+        "Spotifyが「人間アーティスト認証バッジ」を導入――AI生成コンテンツとの識別を強化、クリエイターを守る",
+        "Kimi K2.6 Beats Claude Opus 4.7, GPT-5.5, and Gemini in Live Coding Contest — Open-Weights Model Closes the Gap",
+        "Codex CLI 0.128.0 Adds /goal — Agentic Loop That Iterates Until Objective Is Met",
+        "Simon Willison Builds Wildlife Sightings Feed Into His Blog Using Claude Code — A Live iNaturalist Integration"
+      ]
+    },
     {
       "run_at": "2026-05-03T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Engineering: Scaling Managed Agents — Decoupling the Brain from the Hands",
         "GitHub Copilot Billing Overhaul June 1: Code Review Agent Will Now Consume Actions Minutes",
         "Simon Willison: LLM 0.32 Major Refactor — Fragments, Async Support, and a Cleaner Plugin API"
-      ]
-    },
-    {
-      "run_at": "2026-05-02T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#utsunomiya-storm",
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#minamata-env",
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#sbi-chikuho",
-        "https://www.nikkei.com/article/sumitomo-madagascar-nickel",
-        "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml#moneyforward-leak",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/01/claude-blender-photoshop.html",
-        "https://zenn.dev/feed#rubykaigi2026",
-        "https://zenn.dev/topics/mcp/feed#oauth21-mcp",
-        "https://www.anthropic.com/engineering/claude-code-quality-postmortem",
-        "https://cursor.com/blog/continually-improving-agent-harness",
-        "https://simonwillison.net/2026/Apr/30/pip-261/"
-      ],
-      "titles": [
-        "宇都宮市で突風が発生、複数の住宅に被害 — 屋根や壁が破損、住民が避難",
-        "水俣病問題で環境省職員が不適切発言か — 被害者団体が強く抗議",
-        "SBI北尾社長が筑邦銀行を公開批判 — TOB巡る対立が激化",
-        "住友商事がマダガスカルのニッケル事業から撤退 — 累積損失4000億円超で幕",
-        "マネーフォワードのGitHubリポジトリから情報漏洩 — 銀行機能を一時停止",
-        "Anthropic、ClaudeをBlenderとPhotoshopに統合 — クリエイター向けAI機能が本格始動",
-        "RubyKaigi 2026 函館で開幕 — コア開発者が語る「Ruby 4.0」への展望",
-        "MCP向けOAuth 2.1認証の実装ガイドが注目 — AIエージェントへの安全なアクセス制御",
-        "Anthropic Engineering: Root Cause Analysis of Recent Claude Code Quality Issues",
-        "Cursor Engineering: Continually Improving the Agent Harness — April 2026 Update",
-        "pip 26.1 Ships with Lockfile Support — Python Dependency Management Gets a Major Upgrade"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-04T20:00:00+09:00",
+  "last_run_at": "2026-05-05T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-05T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026050401123&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026050401098&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026050400238&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6578780",
+        "https://news.yahoo.co.jp/pickup/6578775",
+        "https://zenn.dev/topics/ai/feed#coherence-driven-development",
+        "https://zenn.dev/topics/ai/feed#mcp-4s-intangible-assets",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/04/news_claude_security.html",
+        "https://www.anthropic.com/news/claude-security-beta",
+        "https://cursor.com/blog/continually-improving-agent-harness",
+        "https://deepmind.google/discover/blog/10-cognitive-abilities-agi"
+      ],
+      "titles": [
+        "プーチン大統領の警護体制が大幅強化——ウクライナ侵攻長期化を受けてクレムリンが対策を加速",
+        "米商船２隻がホルムズ海峡を通過——米軍護衛のもとで民間船が安全に航行",
+        "大西洋クルーズ船でハンタウイルス集団感染か——３人死亡、当局が調査を開始",
+        "職務質問中の警察官がひき逃げ被害——容疑者が車で引きずり重傷を負わせる",
+        "世界卓球選手権の選手がセクハラ被害を告白——大会運営側の対応の遅れに批判集まる",
+        "整合性駆動開発（CDD）——AIエージェントが自律修復ループで93%の不整合を解消する新パラダイム",
+        "MCPが無形資産の「4S」を満たす理由——プロトコルが新たな経済的優位性を生む構造的分析",
+        "Anthropic、「Claude Security」をパブリックベータで公開——AIによるコード脆弱性スキャンと自動修正を提供",
+        "Anthropic Launches Claude Security in Public Beta — AI-Powered Vulnerability Scanning and Auto-Remediation for Code Repos",
+        "Cursor's \"Continually Improving Our Agent Harness\" — How the Editor Team Evolves the Infrastructure Running AI Agents at Scale",
+        "Google DeepMind Proposes \"10 Cognitive Abilities\" Framework for Measuring AGI Progress — A Shift from Benchmark Scores to Capability Taxonomy"
+      ]
+    },
     {
       "run_at": "2026-05-04T20:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "Anthropic Launches Claude Design — AI-Powered Visual Creation Tool for Designs, Prototypes, and Slides",
         "Ladybird Browser April 2026 Newsletter — Independent Browser Engine Reaches Functional CSS, Basic JS, and Form Submission Milestones",
         "AWS Q1 2026: $37.6B Revenue (+28% YoY), Operating Income $14.2B — Hyperscaler AI Capex Nears $650B Combined"
-      ]
-    },
-    {
-      "run_at": "2026-05-03T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/articles/5054ebb0f827712825e610d37dfa4028f8c0e226",
-        "https://news.yahoo.co.jp/articles/3636353104b872b6484450499c09bde919ac6bc2",
-        "https://news.yahoo.co.jp/pickup/6578587",
-        "https://www.jiji.com/jc/article?k=2026050300176&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026050300169&g=int&m=rss",
-        "https://zenn.dev/shinyay/articles/gpt-5-5-prompt-optimization-copilot-skill",
-        "https://www.itmedia.co.jp/news/articles/2605/01/news071.html",
-        "https://www.itmedia.co.jp/news/articles/2605/01/news065.html",
-        "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-        "https://simonwillison.net/2026/Apr/30/codex-goals/",
-        "https://simonwillison.net/2026/May/2/sightings/"
-      ],
-      "titles": [
-        "数学の未解決問題、AIが相次いで解明――「2026年は歴史的転換点」と専門家",
-        "犯罪組織幹部が日本の高級物件を現金購入・転売――マネーロンダリング疑惑が浮上",
-        "朝日新聞阪神支局襲撃からきょう39年――未解決のまま時効も成立、遺族と同僚が追悼",
-        "奄美地方で梅雨入り――平年より9日早く、気象庁が発表",
-        "トランプ大統領、在独米軍を「さらに大幅削減」――共和党重鎮も懸念、NATO抑止力低下を警告",
-        "GPT-5.5 向け「指示の型」設計――3モード Agent Skill とコスト最適ルーティング戦略",
-        "OpenAI、ChatGPTに物理キー対応の高度認証機能「AAS」を導入――パスワードレスで企業セキュリティを強化",
-        "Spotifyが「人間アーティスト認証バッジ」を導入――AI生成コンテンツとの識別を強化、クリエイターを守る",
-        "Kimi K2.6 Beats Claude Opus 4.7, GPT-5.5, and Gemini in Live Coding Contest — Open-Weights Model Closes the Gap",
-        "Codex CLI 0.128.0 Adds /goal — Agentic Loop That Iterates Until Objective Is Met",
-        "Simon Willison Builds Wildlife Sightings Feed Into His Blog Using Claude Code — A Live iNaturalist Integration"
-      ]
-    },
-    {
-      "run_at": "2026-05-03T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/topics/top-picks",
-        "https://news.yahoo.co.jp/pickup/6578568",
-        "https://news.yahoo.co.jp/topics/top-picks",
-        "https://www.jiji.com/jc/article?k=2026050300084&g=soc",
-        "https://www.jiji.com/jc/article?k=2026050300128&g=int",
-        "https://zenn.dev/aishift/articles/a4bdf225a348e5",
-        "https://www.publickey1.jp/blog/26/postgresqlmysqlsql_serversql_mcp_server.html",
-        "https://www.publickey1.jp/blog/26/bunheadless_brwoser_automation.html",
-        "https://github.com/microsoft/vscode/pull/310226",
-        "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
-        "https://www.anthropic.com/news/claude-opus-4-7"
-      ],
-      "titles": [
-        "西日本から雨雲が拡大――急な強雨に厳重注意、河川増水のおそれも",
-        "120年に一度の奇跡――長野県で「チシマザサ」が今年一斉開花か",
-        "コロナ感染者が激減――多数が免疫を獲得、流行の波が収束へ",
-        "最高裁長官「生成AIは猛獣」――民事訴訟への導入には慎重な姿勢",
-        "イランの核交渉提案に米大統領が「即検討」も懐疑的――中東情勢が緊張続く",
-        "TypeScriptワークフローの「正しさ」をLean定理証明で検証――AI Shiftが示すハイブリッド手法",
-        "Microsoft、PostgreSQL・MySQL・SQL Server対応の「SQL MCP Server」をOSSで公開",
-        "Bun v1.3.12でヘッドレスブラウザ自動化が標準搭載――macOSはWKWebViewでChrome不要",
-        "VS Code Now Inserts \"Co-Authored-by: GitHub Copilot\" Into All Commits by Default",
-        "The Agent Harness Belongs Outside the Sandbox — A Production Architecture for Multi-User AI Agents",
-        "Claude Opus 4.7: Anthropic's Latest Flagship Brings Stronger Coding, Vision, and Multi-Step Agentic Reasoning"
-      ]
-    },
-    {
-      "run_at": "2026-05-03T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/articles/5e5c8931415b2216db5c18715e1ffcfed7c51094",
-        "https://news.yahoo.co.jp/articles/d0553f6f522d47bce99f828e61e19aa4ed44588f",
-        "https://news.yahoo.co.jp/articles/8639fc4bab656097d0581dc876d4dc2d047a3d35",
-        "https://news.yahoo.co.jp/articles/b198ea0b3d4e344721accef5b6b404510cd7a6b0",
-        "https://news.yahoo.co.jp/articles/c62b1b5d1100a610a448b2f9ca8cab22bc71e415",
-        "https://zenn.dev/aircloset/articles/4c5f49f89db19f",
-        "https://zenn.dev/sabakan1/articles/bd286802d6a91d",
-        "https://qiita.com/yakumo_09/items/c1118838c20107db54a9",
-        "https://arxiv.org/abs/2509.00462",
-        "https://github.com/nexu-io/open-design",
-        "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/"
-      ],
-      "titles": [
-        "高市首相、FOIP戦略の進化を表明――経済安保・供給網強化で中国に対抗",
-        "ホルムズ封鎖後初めてロシア産原油を調達――太陽石油がサハリン2から受け入れへ",
-        "未婚女性への卵子凍結補助、35歳以下に限定――36〜39歳は対象外で議論呼ぶ",
-        "福井再審無罪を受け名古屋高検が内部調査――証拠隠しの経緯、検察官から直接聴取へ",
-        "イラン、ホルムズ開放と攻撃停止を核交渉の前提条件に――トランプ氏は不満表明",
-        "自作MCPサーバーのトークン消費を9割削減する「退避パターン」――参照キーのみ渡してコンテキストを守る",
-        "月$0.5でOWASP Top 10診断を自動化――Claude Codeスキルで実現するAIセキュリティ体制",
-        "RAGのベクトルストア選択ガイド――S3 VectorsとOpenSearch Serverlessを徹底比較",
-        "AI Self-Preferencing in Hiring: LLMs Systematically Favor Their Own Generated Resumes by 67–82%",
-        "Open Design: Turn Any Coding Agent CLI into a Full Design Engine — 15K Stars in Days",
-        "Uber's AV Labs: Turning Millions of Drivers into a Real-World Sensor Grid for Autonomous Vehicle Training"
-      ]
-    },
-    {
-      "run_at": "2026-05-03T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578547",
-        "https://news.yahoo.co.jp/pickup/6578542",
-        "https://www.jiji.com/jc/article?k=2026050200302&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026050200111&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026050200300&g=int&m=rss",
-        "https://www.publickey1.jp/blog/26/typescript_70typescriptgo10.html",
-        "https://www.publickey1.jp/blog/26/salesforceapiclimcpsalesforce_headless_360.html",
-        "https://www.publickey1.jp/blog/26/cloudflareaicloudflare_artifactsgitrestful_api.html",
-        "https://www.anthropic.com/news/anthropic-nec",
-        "https://github.blog/changelog/2026-04-27-copilot-cloud-agent-starts-20-faster-with-actions-custom-images",
-        "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
-      ],
-      "titles": [
-        "憲法改正巡り自民党内で衆参の温度差が表面化――緊急事態条項か合区解消かで意見対立",
-        "東京・豊島区で8歳長女が死亡、45歳の母親を殺人容疑で逮捕",
-        "井上尚弥が判定で中谷潤人を下し4団体防衛――東京ドームに史上最多5万5千人が熱狂",
-        "北陸新幹線・大阪延伸で「小浜・京都」ルート決着へ――維新は反対、京都の同意も不透明",
-        "イランが「機雷イルカ」の投入を検討か――米艦艇攻撃用に訓練された海洋哺乳類、米紙が報道",
-        "TypeScript 7.0ベータ公開――コンパイラをGo言語へ移植し処理速度が10倍に高速化",
-        "Salesforce Headless 360発表――API・CLI・MCPでAIエージェントがCRMを直接操作できる基盤へ",
-        "Cloudflare、AIエージェント向けファイルシステム「Cloudflare Artifacts」を発表",
-        "Anthropic and NEC Partner to Build Japan's Largest AI Engineering Workforce — 30,000 Employees to Use Claude",
-        "GitHub Copilot Cloud Agent Now Starts 20% Faster — Prebaked Actions Custom Images Cut Initialization Time",
-        "Zig's Firm Anti-AI Contribution Policy: Why the Project Bets on Contributors, Not Code"
       ]
     }
   ]

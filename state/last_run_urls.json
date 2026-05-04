@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-04T05:00:00+09:00",
+  "last_run_at": "2026-05-04T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-04T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6578681",
+        "https://news.yahoo.co.jp/pickup/6578677",
+        "https://news.yahoo.co.jp/pickup/6578676",
+        "https://news.yahoo.co.jp/pickup/6578667",
+        "https://news.yahoo.co.jp/pickup/6578671",
+        "https://zenn.dev/hidechannu/books/oauth21-mcp-guide",
+        "https://zenn.dev/hosoyayusaku/articles/25ec9a4a6fa1c9",
+        "https://zenn.dev/mkj/articles/87c3ce556cde90",
+        "https://github.com/aattaran/deepclaude",
+        "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+        "https://larsfaye.com/articles/agentic-coding-is-a-trap"
+      ],
+      "titles": [
+        "日豪首脳、安保・経済分野で共同文書の発表へ最終調整",
+        "トランプ氏、ホルムズ海峡での船舶誘導を発表――米軍が非戦闘艦の安全航行を支援",
+        "GW後半の高速道路、Uターンラッシュで最大40kmの渋滞予測",
+        "自転車の青切符、施行2週間で全国842件――スマホ使用・一時不停止が最多",
+        "OPECプラス有志7カ国、6月の産油量を3カ月連続で拡大へ",
+        "MCPサーバー実装のためにOAuth 2.1を本気で学ぶ――TypeScript + Honoで実践した10章のガイド",
+        "デジタル庁の生成AI基盤「源内」をAWS上で動かす――11分デプロイで見えた設計とClaudeの挙動",
+        "社内向けAIアシスタントを3か月試験運用――週次レポート自動化でエンジニアが週30分以上を節約",
+        "DeepClaude: Run Claude Code's Interface on DeepSeek V4 Pro for 17x Lower Cost",
+        "OpenAI's o1 Correctly Diagnosed 67% of ER Patients, Outperforming Triage Doctors at 50–55%",
+        "Agentic Coding Is a Trap: Cognitive Debt, Skill Atrophy, and the Paradox of Supervision"
+      ]
+    },
     {
       "run_at": "2026-05-04T05:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Anthropic and NEC Partner to Build Japan's Largest AI Engineering Workforce — 30,000 Employees to Use Claude",
         "GitHub Copilot Cloud Agent Now Starts 20% Faster — Prebaked Actions Custom Images Cut Initialization Time",
         "Zig's Firm Anti-AI Contribution Policy: Why the Project Bets on Contributors, Not Code"
-      ]
-    },
-    {
-      "run_at": "2026-05-02T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578521",
-        "https://news.yahoo.co.jp/pickup/6578520",
-        "https://news.yahoo.co.jp/pickup/6578385",
-        "https://news.yahoo.co.jp/pickup/6578460",
-        "https://news.yahoo.co.jp/pickup/6578500",
-        "https://zenn.dev/ryoitabashi/articles/744397718965f6",
-        "https://zenn.dev/linkedge/articles/27c38cdd9bedc6",
-        "https://zenn.dev/komlock_lab/articles/stripe-sessions-2026",
-        "https://www.liquid.ai/blog/lfm2-24b-a2b",
-        "https://github.blog/changelog/2026-04-30-github-copilot-in-visual-studio-april-update",
-        "https://simonwillison.net/2026/Apr/30/andrew-kelley/"
-      ],
-      "titles": [
-        "三重・奈良などで震度4の地震発生、津波の心配なし",
-        "3日から関東〜九州で大雨のおそれ、気象庁が注意呼びかけ",
-        "オーストラリアで小型機墜落、邦人1名を含む2名が死亡",
-        "米がEU産自動車に関税25%引き上げ、貿易摩擦が再び激化",
-        "膵臓がんの進行に関わるタンパク質を発見、新たな治療標的に期待",
-        "AndroidでClaude Code・Codex CLI・Gemini CLIを動かすネイティブAIターミナルIDEを自作",
-        "CLAUDE.md・skills・agentsを整備してClaude Codeの開発体験が劇的に変わった話",
-        "Stripe Sessions 2026で発表——AIエージェント決済インフラの全貌",
-        "Liquid AI Releases LFM2-24B: A 24B-Parameter MoE Model with 2B Active Parameters",
-        "GitHub Copilot in Visual Studio — April 2026 Update: Cloud Agent from IDE, Debugger Agent, and Far-Away Edits",
-        "Zig Creator Andrew Kelley: LLM-Generated Code Has Detectable Statistical Fingerprints Distinct From Human Mistakes"
-      ]
-    },
-    {
-      "run_at": "2026-05-02T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578478",
-        "https://news.yahoo.co.jp/pickup/6578489",
-        "https://www.jiji.com/jc/article?k=2026050200251&g=soc",
-        "https://news.yahoo.co.jp/pickup/6578475",
-        "https://news.yahoo.co.jp/pickup/6578491",
-        "https://zenn.dev/sabakan1/articles/57ca07f4b277b4",
-        "https://zenn.dev/exwzd/articles/20260501_copilot_agent_skill_recommender",
-        "https://zenn.dev/dateshim/articles/eb9b7bb8e53cc2",
-        "https://www.anthropic.com/news/claude-for-creative-work",
-        "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/",
-        "https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/"
-      ],
-      "titles": [
-        "岩手・大槌町の山林火災、発生から11日目に鎮圧宣言",
-        "黒田前日銀総裁「円安は行き過ぎ」— 政策金利1.5%への引き上げを示唆",
-        "俳優・五十嵐淳子さん死去、73歳 — 中村雅俊さんの妻",
-        "西日本シティ銀行の謝罪がなぜ逆効果だったか — SNS炎上対応の失敗に学ぶ",
-        "岩本乃蒼アナ、大学院での学びと出産経て日本テレビに復職",
-        "【検出率100%】Claude Codeによるセキュリティ診断の自動化 — 月$0.84で実現するAIセキュリティ体制",
-        "gh skill × GitHub Copilot Coding AgentでAgent Skillsを自動推薦する仕組みを構築",
-        "7年前の Chromebook でローカルLLMを動かす実験 — Trillim + Ternary Bonsai の性能と限界",
-        "Anthropic Launches Claude for Creative Work — MCP Connectors for 8 Major Creative Platforms",
-        "UK AISI Evaluates GPT-5.5 Cyber Capabilities — Comparable to Claude Mythos",
-        "We Need RSS for Vibe-Coded Apps — Simon Willison Builds Atom Feed for Personal Tools"
       ]
     }
   ]

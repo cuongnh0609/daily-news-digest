@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-04T10:00:00+09:00",
+  "last_run_at": "2026-05-04T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-04T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6578715",
+        "https://news.yahoo.co.jp/pickup/6578700",
+        "https://news.yahoo.co.jp/pickup/6578718",
+        "https://news.yahoo.co.jp/pickup/6578719",
+        "https://news.yahoo.co.jp/pickup/6578714",
+        "https://zenn.dev/sonicgarden/articles/claude-code-parallel-sessions-journey",
+        "https://zenn.dev/haboshi/articles/agentsmd-source-of-truth",
+        "https://zenn.dev/bentenweb_fumi/articles/blzkcga0lv76",
+        "https://www.anthropic.com/news/claude-for-creative-work",
+        "https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot",
+        "https://simonwillison.net/2026/Apr/29/llm/"
+      ],
+      "titles": [
+        "強風が関東を直撃——交通機関に相次ぐ乱れ、アクアラインも全面通行止め",
+        "燃料高騰でLCC「冬の時代」へ——ホルムズ情勢が航空業界を直撃",
+        "大阪・泉市で母娘殺害——事件10日前に娘が「殺されるかも」と打ち明けていた",
+        "旭山動物園の飼育員を逮捕——妻の遺体を焼却炉で処理か、「生活への不満」を供述",
+        "気象予報士・吉田ジョージさんが56歳で逝去——番組出演後に倒れ意識不明のまま死亡",
+        "Claude Codeを並列で回すようになるまでの話——worktree活用とセッション監視ツールの自作",
+        "AGENTS.mdを「正本」とする設計——Claude CodeとCodexが同一リポジトリで衝突しないために",
+        "AIエージェントを量産すれば自動化できる——その幻想が崩れる構造的な理由",
+        "Anthropic Releases 8 Creative Software Connectors — Claude Now Integrates with Blender, Adobe, Ableton via MCP",
+        "GPT-5.5 Now Generally Available for GitHub Copilot — Strongest Agentic Coding Model Yet, With 7.5× Premium Multiplier",
+        "LLM 0.32a0: Simon Willison Refactors His Python LLM Library — Conversational Messages, Streaming Typed Parts, and JSON Serialization"
+      ]
+    },
     {
       "run_at": "2026-05-04T10:00:00+09:00",
       "urls": [

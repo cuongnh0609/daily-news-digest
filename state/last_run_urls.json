@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-05T20:00:00+09:00",
+  "last_run_at": "2026-05-06T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-06T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6578860",
+        "https://news.yahoo.co.jp/pickup/6578830",
+        "https://news.yahoo.co.jp/pickup/6578850",
+        "https://news.yahoo.co.jp/pickup/6578835",
+        "https://news.yahoo.co.jp/pickup/6578860",
+        "https://zenn.dev/genda_jp/articles/8038f227ba9bdf",
+        "https://zenn.dev/kenimo49/articles/ai-cognitive-bias-3-types-metr-rct",
+        "https://zenn.dev/kanaria007/articles/d02ea13d9163fd",
+        "https://addyosmani.com/blog/agent-skills/",
+        "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+        "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
+      ],
+      "titles": [
+        "熱海土石流28人死亡——県・市・前後所有者が全員法的責任を否定、防災対策が宙に浮く",
+        "選挙時の誹謗中傷対策——与野党がSNS規制法改正の検討に着手、「即時性」が焦点に",
+        "村上宗隆、メジャー最多タイ14号——年64本ペース、ジャッジと首位に並ぶ",
+        "大坂なおみ、2026年メットガラに日本人唯一の招待——「グローバル存在感」が選ばれた理由",
+        "引きこもり支援NPO「ニュースタート」が32年の歴史に幕——146万人問題の二極化が続く",
+        "Claude Managed Agentsで消える層、残る層——業務自動化エージェントの2層構造を整理する",
+        "AIに「最適です」と言われた瞬間に検証が止まる——METRの無作為対照試験が映した3つの認知バイアス",
+        "AIエージェントのルールをハードコードしない——Policy / Effect Catalogによるバージョン管理設計",
+        "Agent Skills: Encoding Senior Engineering Discipline as Executable Workflows for AI Agents",
+        "Async Rust Never Left the MVP State — Binary Bloat from State Machine Design Still Needs Compiler Fixes",
+        "When Everyone Has AI and the Company Still Learns Nothing — The Organizational Knowledge Problem"
+      ]
+    },
     {
       "run_at": "2026-05-05T20:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "UK AI Security Institute Finds GPT-5.5 Cybersecurity Capabilities Comparable to Claude Mythos",
         "Cursor Launches TypeScript SDK for Building Programmatic Agents — Same Infrastructure as the Desktop App",
         "Simon Willison: We Need RSS Feeds for the Explosion of Vibe-Coded Apps and Tools"
-      ]
-    },
-    {
-      "run_at": "2026-05-04T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578715",
-        "https://news.yahoo.co.jp/pickup/6578700",
-        "https://news.yahoo.co.jp/pickup/6578718",
-        "https://news.yahoo.co.jp/pickup/6578719",
-        "https://news.yahoo.co.jp/pickup/6578714",
-        "https://zenn.dev/sonicgarden/articles/claude-code-parallel-sessions-journey",
-        "https://zenn.dev/haboshi/articles/agentsmd-source-of-truth",
-        "https://zenn.dev/bentenweb_fumi/articles/blzkcga0lv76",
-        "https://www.anthropic.com/news/claude-for-creative-work",
-        "https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot",
-        "https://simonwillison.net/2026/Apr/29/llm/"
-      ],
-      "titles": [
-        "強風が関東を直撃——交通機関に相次ぐ乱れ、アクアラインも全面通行止め",
-        "燃料高騰でLCC「冬の時代」へ——ホルムズ情勢が航空業界を直撃",
-        "大阪・泉市で母娘殺害——事件10日前に娘が「殺されるかも」と打ち明けていた",
-        "旭山動物園の飼育員を逮捕——妻の遺体を焼却炉で処理か、「生活への不満」を供述",
-        "気象予報士・吉田ジョージさんが56歳で逝去——番組出演後に倒れ意識不明のまま死亡",
-        "Claude Codeを並列で回すようになるまでの話——worktree活用とセッション監視ツールの自作",
-        "AGENTS.mdを「正本」とする設計——Claude CodeとCodexが同一リポジトリで衝突しないために",
-        "AIエージェントを量産すれば自動化できる——その幻想が崩れる構造的な理由",
-        "Anthropic Releases 8 Creative Software Connectors — Claude Now Integrates with Blender, Adobe, Ableton via MCP",
-        "GPT-5.5 Now Generally Available for GitHub Copilot — Strongest Agentic Coding Model Yet, With 7.5× Premium Multiplier",
-        "LLM 0.32a0: Simon Willison Refactors His Python LLM Library — Conversational Messages, Streaming Typed Parts, and JSON Serialization"
-      ]
-    },
-    {
-      "run_at": "2026-05-04T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578681",
-        "https://news.yahoo.co.jp/pickup/6578677",
-        "https://news.yahoo.co.jp/pickup/6578676",
-        "https://news.yahoo.co.jp/pickup/6578667",
-        "https://news.yahoo.co.jp/pickup/6578671",
-        "https://zenn.dev/hidechannu/books/oauth21-mcp-guide",
-        "https://zenn.dev/hosoyayusaku/articles/25ec9a4a6fa1c9",
-        "https://zenn.dev/mkj/articles/87c3ce556cde90",
-        "https://github.com/aattaran/deepclaude",
-        "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-        "https://larsfaye.com/articles/agentic-coding-is-a-trap"
-      ],
-      "titles": [
-        "日豪首脳、安保・経済分野で共同文書の発表へ最終調整",
-        "トランプ氏、ホルムズ海峡での船舶誘導を発表――米軍が非戦闘艦の安全航行を支援",
-        "GW後半の高速道路、Uターンラッシュで最大40kmの渋滞予測",
-        "自転車の青切符、施行2週間で全国842件――スマホ使用・一時不停止が最多",
-        "OPECプラス有志7カ国、6月の産油量を3カ月連続で拡大へ",
-        "MCPサーバー実装のためにOAuth 2.1を本気で学ぶ――TypeScript + Honoで実践した10章のガイド",
-        "デジタル庁の生成AI基盤「源内」をAWS上で動かす――11分デプロイで見えた設計とClaudeの挙動",
-        "社内向けAIアシスタントを3か月試験運用――週次レポート自動化でエンジニアが週30分以上を節約",
-        "DeepClaude: Run Claude Code's Interface on DeepSeek V4 Pro for 17x Lower Cost",
-        "OpenAI's o1 Correctly Diagnosed 67% of ER Patients, Outperforming Triage Doctors at 50–55%",
-        "Agentic Coding Is a Trap: Cognitive Debt, Skill Atrophy, and the Paradox of Supervision"
-      ]
-    },
-    {
-      "run_at": "2026-05-04T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578654",
-        "https://news.yahoo.co.jp/pickup/6578663",
-        "https://news.yahoo.co.jp/pickup/6578657",
-        "https://news.yahoo.co.jp/pickup/6578651",
-        "https://www.jiji.com/jc/article?k=2026050200290&g=int&m=rss",
-        "https://zenn.dev/sonicgarden/articles/39b9845d13963c",
-        "https://zenn.dev/sonicgarden/articles/claude-code-custom-rules-part1",
-        "https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex",
-        "https://simonwillison.net/2026/May/3/anthropic/",
-        "https://vercel.com/blog/2026-vercel-ai-accelerator-recap",
-        "https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex"
-      ],
-      "titles": [
-        "イラン大使館、「機雷イルカ」配備報道を強く否定――米メディアの「荒唐無稽な作り話」と批判",
-        "IOCがeスポーツ専門委員会の活動を休止――新会長のもとで五輪参入の議論が後退か",
-        "GW最終盤に暴風・警報級大雨の恐れ――北海道では低地でも積雪の可能性",
-        "英が1985年に非核三原則へ否定的評価――秘密文書の公開で日米同盟の実態が浮き彫りに",
-        "EU新入国審査システム「EES」が本格稼働――空港で最大3時間待ち、夏の旅行シーズンへの影響を懸念",
-        "若手エンジニア育成メモをClaude Codeで集約――1on1の下書き自動生成システムの構築例",
-        "Claude Codeにチーム流のルールを自動抽出させる――コードベース・会話・PRレビューの3源泉から生成",
-        "GitHub Copilot、GPT-5.2とGPT-5.2-Codexを6月1日に廃止――移行先モデルをAdminが事前に有効化する必要あり",
-        "Anthropic Publishes Sycophancy Data: Claude Agrees Too Readily in 38% of Spiritual Conversations",
-        "Vercel 2026 AI Accelerator Wraps Up: 39 Teams, $200K+ in Credits, Anthropic & OpenAI as Partners",
-        "GitHub Copilot Deprecates GPT-5.2 and GPT-5.2-Codex on June 1 — Enterprise Admins Must Act Now"
-      ]
-    },
-    {
-      "run_at": "2026-05-04T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026050300291&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026050300073&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6578641",
-        "https://news.yahoo.co.jp/pickup/6578661",
-        "https://www.jiji.com/jc/article?k=2026050300366&g=int&m=rss",
-        "https://zenn.dev/rhythmcan/articles/3889d945d8702c",
-        "https://zenn.dev/tokku5552/articles/claude-code-harness-architecture",
-        "https://zenn.dev/headwaters/articles/f629e2f92828e7",
-        "https://acai.sh/blog/specsmaxxing",
-        "https://www.anthropic.com/news/anthropic-amazon-compute",
-        "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026"
-      ],
-      "titles": [
-        "憲法記念日に護憲・改憲両派が都内で大規模集会――80年の節目、攻防が激化",
-        "日豪首脳会談、エネルギー双方向協力を確認――友好条約50周年の節目に経済安保連携強化",
-        "陸自部隊が生成AIで作成したロゴに「好戦的」批判殺到――3日で使用中止に",
-        "富士山の「弾丸登山」が減少へ――規制効果で親子連れは逆に減少、静岡は子ども料金検討",
-        "OPECプラス有志7カ国が3カ月連続増産へ――サウジなど自主削減の巻き戻し加速",
-        "Claude Codeのセッションログから過去のやり取りをたどる方法――JSONL解析で根本原因究明",
-        "コードを書かずにGoパイプラインを運用するClaude Code設定例――CLAUDE.md・hooks・skill・MCPを組み合わせる",
-        "VSCode 1.118のアップデートがアツい――Copilot Agent Mode強化、Next Edit Suggestions大幅改善",
-        "Specsmaxxing: Why the Spec Is the Primary Artifact in AI-Assisted Development",
-        "Anthropic and Amazon Expand Collaboration for Up to 5 Gigawatts of New Compute — $100B+ Commitment Over a Decade",
-        "GitHub Copilot Code Review Will Consume GitHub Actions Minutes Starting June 1, 2026"
       ]
     }
   ]

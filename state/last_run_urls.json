@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-05T05:00:00+09:00",
+  "last_run_at": "2026-05-05T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-05T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6578820",
+        "https://news.yahoo.co.jp/pickup/6578821",
+        "https://news.yahoo.co.jp/pickup/6578807",
+        "https://news.yahoo.co.jp/pickup/6578824",
+        "https://www.jiji.com/jc/article?k=2026050500241&g=int&m=rss",
+        "https://zenn.dev/zhizhiarv/articles/claude-code-webfetch-haiku-summary",
+        "https://zenn.dev/k9i/articles/20260504_cc_to_codex",
+        "https://www.itmedia.co.jp/news/articles/2605/05/news023.html",
+        "https://www.anthropic.com/news/enterprise-ai-services-company",
+        "https://www.jiji.com/jc/article?k=2026050500248&g=int&m=rss",
+        "https://github.blog/changelog/2026-04-30-github-copilot-in-visual-studio-april-update"
+      ],
+      "titles": [
+        "石破氏、憲法9条2項の削除を主張――自衛隊を「軍」と明記すべきと訴え",
+        "米軍、ホルムズ海峡付近でイランの小型船7隻を撃沈――トランプ氏がSNSで発表",
+        "韓国企業の船がホルムズ海峡で爆発・炎上――イランによる攻撃とトランプ氏が指摘",
+        "ホワイトハウス近くで銃撃戦――シークレットサービスが武装男と交戦",
+        "クルーズ船で集団感染疑い、乗客に日本人も――大西洋上での集団発症が明らかに",
+        "Claude CodeのWebFetchは実はHaikuが要約している——3段階パイプラインの実態と透明性の問題",
+        "Claude CodeユーザーのためのCodex入門——GPT-5.5の性能優位とツール設定の違いを比較",
+        "AnthropicとBlackstoneが中堅企業向けAIサービス会社を設立――Claude導入を専任チームで支援",
+        "Anthropic Launches $1.5B Enterprise AI Services Company with Blackstone, Goldman Sachs",
+        "Trump Administration Eyes AI Model Review Process Amid Concerns Over Anthropic's \"Mythos\"",
+        "GitHub Copilot for Visual Studio April Update: Cloud Agent Sessions Now Launch Directly from IDE"
+      ]
+    },
     {
       "run_at": "2026-05-05T05:00:00+09:00",
       "urls": [

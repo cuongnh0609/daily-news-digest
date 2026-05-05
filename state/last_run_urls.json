@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-05T10:00:00+09:00",
+  "last_run_at": "2026-05-05T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-05T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/topics/top-picks",
+        "https://www.jiji.com/jc/list?g=pol&m=rss",
+        "https://www.jiji.com/jc/list?g=soc&m=rss",
+        "https://www.jiji.com/jc/list?g=eco&m=rss",
+        "https://news.yahoo.co.jp/topics/top-picks#jiken",
+        "https://zenn.dev/tomfook/articles/e4613c2f2fbb28",
+        "https://zenn.dev/yokomachi/articles/202605_agentcore-optimization-recommendations",
+        "https://zenn.dev/okamyuji/articles/github-secret-removal-multi-layer-defense",
+        "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+        "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+        "https://addyosmani.com/blog/agent-skills/"
+      ],
+      "titles": [
+        "熱海土石流から5年——訴訟で問われる民間業者・静岡県の責任の行方",
+        "NPT会議で中国が「日本の核配備模索」と主張——核軍縮をめぐる国際対立が鮮明に",
+        "太陽系外縁の天体に大気を確認——冥王星以外では世界初、国立天文台が発表",
+        "円相場が急騰、157円台から一時155円台へ——介入懸念で市場が神経質な動き",
+        "住宅内で女性と子ども2人の遺体発見——犯人逃走中、警察が行方を追う",
+        "韓非子「主道篇」から学ぶClaude Codeの高度な使いこなし——君主と臣下の関係でAIエージェントを制御する",
+        "Bedrock AgentCore Optimizationでマルチエージェントのプロンプトを自動改善——A/Bテストで+10.5%向上を確認",
+        "GitHubに機密情報をpushしてしまった日のために——6層防御と段階的インシデント対応ガイド",
+        "Bun Is Porting Its Core from Zig to Rust — Official Phase-A Guide Published",
+        "How OpenAI Delivers Low-Latency Voice AI at Scale — Inside Their WebRTC Relay + Transceiver Architecture",
+        "Agent Skills: Encoding Senior Engineering Discipline for AI Agents — Addy Osmani's Workflow Framework"
+      ]
+    },
     {
       "run_at": "2026-05-05T10:00:00+09:00",
       "urls": [

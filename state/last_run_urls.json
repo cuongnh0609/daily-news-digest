@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-06T00:00:00+09:00",
+  "last_run_at": "2026-05-06T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-06T05:00:00+09:00",
+      "urls": [
+        "http://www3.nhk.or.jp/news/html/20260505/k10015115121000.html",
+        "https://www.jiji.com/jc/article?k=2026050500425&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026050500743&g=int&m=rss",
+        "http://www3.nhk.or.jp/news/html/20260505/k10015115001000.html",
+        "http://www3.nhk.or.jp/news/html/20260505/k10015114801000.html",
+        "https://zenn.dev/hosoyayusaku/articles/25ec9a4a6fa1c9",
+        "https://zenn.dev/watab2000/articles/ff5e07b13bc93b",
+        "https://zenn.dev/headwaters/articles/f629e2f92828e7",
+        "https://www.anthropic.com/news/finance-agents",
+        "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+        "https://susam.net/inverse-laws-of-robotics.html"
+      ],
+      "titles": [
+        "子どものSNS利用 日本とEUが共同声明——情報共有強化と規制連携へ",
+        "日比防衛相会談——中古護衛艦の移転に向けWG設置、海洋安保協力を強化",
+        "３月の米貿易赤字が４．４％拡大——関税政策の影響で輸入が増加、２か月連続",
+        "医療費の負担増「受け入れられない」68%——NHK世論調査で市民の懸念が鮮明に",
+        "衆議院の定数削減——与野党協議会で5月末までに結論、選挙制度改革が加速",
+        "デジタル庁の生成AI基盤「源内」をAWS上で動かす——CDKで11分、コスト200円の実証実験",
+        "サイゼリヤのQR注文APIの脆弱性をIPAに通報した話——認証欠如と無制限アクセスの実態",
+        "VSCode 1.118 アップデートが熱い——Copilot連携強化、トークン効率93%改善、Chronicle機能追加",
+        "Anthropic Launches Finance Agents — Ten Ready-to-Deploy Templates for Financial Workflows",
+        "Computer Use Is 45× More Expensive Than Structured APIs — Benchmarks Force a Rethink",
+        "Three Inverse Laws of AI — A Framework for Human Accountability in the Age of Intelligent Systems"
+      ]
+    },
     {
       "run_at": "2026-05-06T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Launches Claude Security in Public Beta — AI-Powered Vulnerability Scanning and Auto-Remediation for Code Repos",
         "Cursor's \"Continually Improving Our Agent Harness\" — How the Editor Team Evolves the Infrastructure Running AI Agents at Scale",
         "Google DeepMind Proposes \"10 Cognitive Abilities\" Framework for Measuring AGI Progress — A Shift from Benchmark Scores to Capability Taxonomy"
-      ]
-    },
-    {
-      "run_at": "2026-05-04T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578763",
-        "https://news.yahoo.co.jp/pickup/6578757",
-        "https://news.yahoo.co.jp/pickup/6578753",
-        "https://news.yahoo.co.jp/pickup/6578756",
-        "https://news.yahoo.co.jp/pickup/6578765",
-        "https://zenn.dev/miraclest/articles/claude-code-comfyui-skill-intro",
-        "https://zenn.dev/genda_jp/articles/f71d3ed7d4d7e8",
-        "https://www.publickey1.jp/blog/26/googleaiagent_studioaigemini_enterprise_agent_platform.html",
-        "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/",
-        "https://cursor.com/blog/typescript-sdk",
-        "https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/"
-      ],
-      "titles": [
-        "日豪首脳「準同盟」強化で一致——経済安保共同宣言に7つの優先分野",
-        "高市首相、GW外遊の成果を強調——エネルギー協力・サプライチェーン強靭化を確認",
-        "「アワイチ」中に強風で転倒——東京の58歳男性が意識不明の重体、淡路島",
-        "高速道路PAで24台の窓ガラスが割れる被害——新潟・上信越道で記録的強風",
-        "ボクサー・井岡一翔に眼窩底骨折——試合後の検査で判明、妻がSNSで公表",
-        "Claude CodeのSkillで自宅GPUサーバーからAIキャラ画像を自動生成——ComfyUI連携の実装例",
-        "AIへの指示書を3層に整理する——AGENTS.md・SKILL.md・DESIGN.mdと仕様駆動開発の現在地",
-        "Google、ローコードでAIエージェントを開発できる「Gemini Enterprise Agent Platform」を発表",
-        "UK AI Security Institute Finds GPT-5.5 Cybersecurity Capabilities Comparable to Claude Mythos",
-        "Cursor Launches TypeScript SDK for Building Programmatic Agents — Same Infrastructure as the Desktop App",
-        "Simon Willison: We Need RSS Feeds for the Explosion of Vibe-Coded Apps and Tools"
       ]
     }
   ]

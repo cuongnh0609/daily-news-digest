@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-07T00:00:00+09:00",
+  "last_run_at": "2026-05-07T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-07T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579091",
+        "https://news.yahoo.co.jp/pickup/6579064",
+        "https://news.yahoo.co.jp/pickup/6579043",
+        "https://news.yahoo.co.jp/pickup/6579018",
+        "https://news.yahoo.co.jp/pickup/6579038",
+        "https://zenn.dev/zhizhiarv/articles/claude-code-webfetch-haiku-summary",
+        "https://zenn.dev/k9i/articles/20260504_cc_to_codex",
+        "https://www.itmedia.co.jp/news/articles/2605/05/news023.html",
+        "https://www.anthropic.com/news/higher-limits-spacex",
+        "https://simonwillison.net/2026/May/6/code-w-claude-2026/",
+        "https://www.thetypicalset.com/blog/thoughts-on-coding-agents"
+      ],
+      "titles": [
+        "連休明けの「五月病」に注意——精神科医が指摘する8つのサイン",
+        "選挙運動妨害への法整備——日本維新の会が公職選挙法改正を検討",
+        "日中関係、対話なき膠着——閣僚級協議の見通し立たず",
+        "高市首相、就任半年で「面会ゼロ」の省庁が複数——法務省・復興庁が取り残される",
+        "7日は全国で夏日続出——30℃に迫る地点も、熱中症に警戒",
+        "あなたのClaude Code WebFetchは実はWebを正確に読んでいない——Haiku要約の内部構造を解剖",
+        "Claude CodeユーザーのためのCodex入門——モデル・料金・設定ファイルの違いを徹底比較",
+        "AnthropicとBlackstoneら、エンタープライズAI新会社を設立——中小企業へのClaude導入を1,500億円規模で加速",
+        "Anthropic Doubles Claude Code Rate Limits and Secures SpaceX Colossus Compute",
+        "Code w/ Claude 2026: Managed Agents, \"Dreaming\" Feature, and 17× API Growth",
+        "The Bottleneck Was Never the Code — What Changes When Coding Agents Remove Implementation Friction"
+      ]
+    },
     {
       "run_at": "2026-05-07T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Releases Claude Opus 4.7 — Enhanced Vision, Stronger Agents, Cyber Safeguards",
         "10 Lessons for Agentic Coding — What Changes When Code Generation Is Nearly Free",
         "Google Chrome Silently Installs 4GB Gemini Nano Model Without User Consent"
-      ]
-    },
-    {
-      "run_at": "2026-05-05T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/topics/top-picks",
-        "https://www.jiji.com/jc/list?g=pol&m=rss",
-        "https://www.jiji.com/jc/list?g=soc&m=rss",
-        "https://www.jiji.com/jc/list?g=eco&m=rss",
-        "https://news.yahoo.co.jp/topics/top-picks#jiken",
-        "https://zenn.dev/tomfook/articles/e4613c2f2fbb28",
-        "https://zenn.dev/yokomachi/articles/202605_agentcore-optimization-recommendations",
-        "https://zenn.dev/okamyuji/articles/github-secret-removal-multi-layer-defense",
-        "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-        "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-        "https://addyosmani.com/blog/agent-skills/"
-      ],
-      "titles": [
-        "熱海土石流から5年——訴訟で問われる民間業者・静岡県の責任の行方",
-        "NPT会議で中国が「日本の核配備模索」と主張——核軍縮をめぐる国際対立が鮮明に",
-        "太陽系外縁の天体に大気を確認——冥王星以外では世界初、国立天文台が発表",
-        "円相場が急騰、157円台から一時155円台へ——介入懸念で市場が神経質な動き",
-        "住宅内で女性と子ども2人の遺体発見——犯人逃走中、警察が行方を追う",
-        "韓非子「主道篇」から学ぶClaude Codeの高度な使いこなし——君主と臣下の関係でAIエージェントを制御する",
-        "Bedrock AgentCore Optimizationでマルチエージェントのプロンプトを自動改善——A/Bテストで+10.5%向上を確認",
-        "GitHubに機密情報をpushしてしまった日のために——6層防御と段階的インシデント対応ガイド",
-        "Bun Is Porting Its Core from Zig to Rust — Official Phase-A Guide Published",
-        "How OpenAI Delivers Low-Latency Voice AI at Scale — Inside Their WebRTC Relay + Transceiver Architecture",
-        "Agent Skills: Encoding Senior Engineering Discipline for AI Agents — Addy Osmani's Workflow Framework"
       ]
     }
   ]

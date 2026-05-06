@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-06T15:00:00+09:00",
+  "last_run_at": "2026-05-06T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-06T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579032?source=rss",
+        "https://news.yahoo.co.jp/pickup/6579058?source=rss",
+        "https://www.jiji.com/jc/article?k=2026050600418&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026050600266&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6579035?source=rss",
+        "https://zenn.dev/masayan1126/books/claude-code-subagents-master",
+        "https://zenn.dev/chips0711/articles/b081f3ddb93040",
+        "https://www.itmedia.co.jp/news/articles/2605/06/news033.html",
+        "https://github.blog/changelog/2026-05-05-dependency-scanning-with-github-mcp-server-is-in-public-preview",
+        "https://www.anthropic.com/news/anthropic-nec",
+        "https://simonwillison.net/2026/May/4/april-newsletter/"
+      ],
+      "titles": [
+        "米中首脳会談、台湾問題が主要議題に——ルビオ長官が協議入りを確認",
+        "原発稼働率が25年度に33%へ——震災後最高を更新も、伸びは限定的",
+        "北朝鮮、憲法から「統一」条項を削除——韓国を「別国家」と明記する条文を追加",
+        "日本・UAEが原油共同備蓄を大幅拡大——ホルムズ情勢を受け供給安定化を急ぐ",
+        "磐越道でバスが事故——北越高校テニス部員が死亡、26人が重軽傷",
+        "Claude Codeサブエージェント完全マスター——設計4原則から公式プラグイン解読まで",
+        "AIエージェントのSkillはWazaで評価してAPMで配ろう——ハーネスエンジニアリング入門",
+        "Meta、AIで13歳未満を自動検出——InstagramとFacebookで年齢確認を本格強化",
+        "GitHub MCP Server: Dependency Scanning Now in Public Preview — Catch Vulnerabilities Before Commit",
+        "Anthropic & NEC Launch Japan's Largest AI Engineering Initiative — 30,000 Employees on Claude",
+        "Simon Willison's April 2026 Newsletter — DeepSeek Near-Frontier, LLM Security, and the Maturing Developer Ecosystem"
+      ]
+    },
     {
       "run_at": "2026-05-06T15:00:00+09:00",
       "urls": [
@@ -231,35 +260,6 @@
         "Anthropic Acquires Bun Runtime — Concerns Grow Over Claude Code's Declining Quality",
         "antirez Builds Redis Array Type with AI Assistance — A 4-Month Story of Human-AI Co-Development",
         "OpenAI, Google, Microsoft Back LIFT AI Act — $NSF Grants for K-12 AI Literacy Programs"
-      ]
-    },
-    {
-      "run_at": "2026-05-05T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026050401123&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026050401098&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026050400238&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6578780",
-        "https://news.yahoo.co.jp/pickup/6578775",
-        "https://zenn.dev/topics/ai/feed#coherence-driven-development",
-        "https://zenn.dev/topics/ai/feed#mcp-4s-intangible-assets",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/04/news_claude_security.html",
-        "https://www.anthropic.com/news/claude-security-beta",
-        "https://cursor.com/blog/continually-improving-agent-harness",
-        "https://deepmind.google/discover/blog/10-cognitive-abilities-agi"
-      ],
-      "titles": [
-        "プーチン大統領の警護体制が大幅強化——ウクライナ侵攻長期化を受けてクレムリンが対策を加速",
-        "米商船２隻がホルムズ海峡を通過——米軍護衛のもとで民間船が安全に航行",
-        "大西洋クルーズ船でハンタウイルス集団感染か——３人死亡、当局が調査を開始",
-        "職務質問中の警察官がひき逃げ被害——容疑者が車で引きずり重傷を負わせる",
-        "世界卓球選手権の選手がセクハラ被害を告白——大会運営側の対応の遅れに批判集まる",
-        "整合性駆動開発（CDD）——AIエージェントが自律修復ループで93%の不整合を解消する新パラダイム",
-        "MCPが無形資産の「4S」を満たす理由——プロトコルが新たな経済的優位性を生む構造的分析",
-        "Anthropic、「Claude Security」をパブリックベータで公開——AIによるコード脆弱性スキャンと自動修正を提供",
-        "Anthropic Launches Claude Security in Public Beta — AI-Powered Vulnerability Scanning and Auto-Remediation for Code Repos",
-        "Cursor's \"Continually Improving Our Agent Harness\" — How the Editor Team Evolves the Infrastructure Running AI Agents at Scale",
-        "Google DeepMind Proposes \"10 Cognitive Abilities\" Framework for Measuring AGI Progress — A Shift from Benchmark Scores to Capability Taxonomy"
       ]
     }
   ]

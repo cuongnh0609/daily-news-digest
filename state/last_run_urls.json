@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-06T20:00:00+09:00",
+  "last_run_at": "2026-05-07T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-07T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579073",
+        "https://news.yahoo.co.jp/pickup/6579085",
+        "https://news.yahoo.co.jp/pickup/6579077",
+        "https://news.yahoo.co.jp/pickup/6579080",
+        "https://news.yahoo.co.jp/pickup/6579086",
+        "https://zenn.dev/kimuson/articles/pi-coding-agent-with-opencode-go",
+        "https://zenn.dev/kusuke/articles/25330f7759eba4",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/06/news022.html",
+        "https://www.anthropic.com/news/claude-design-anthropic-labs",
+        "https://www.publickey1.jp/blog/26/typescript_70typescriptgo10.html",
+        "https://blog.cloudflare.com/artifacts-git-for-agents-beta/"
+      ],
+      "titles": [
+        "米・イラン、停戦覚書の合意が間近——トランプ大統領「実行すれば作戦終了」",
+        "クルーズ船でハンタウイルス感染疑い——カナリア諸島が入港拒否、日本は「感染拡大の可能性低い」",
+        "磐越道でテニス部バスが事故——高校生1人死亡、複数が手術必要な重傷",
+        "韓国株が史上初の7000突破——KOSPI最高値更新、サムスン電子が1兆ドルクラブ入り",
+        "世界卓球で日本男子が57年ぶりの金メダルへ王手——張本智和2勝でカザフに逆転勝利",
+        "OpenCode Go + pi-coding-agentで月コストを1/20に——Claude Code代替の現実的な設計",
+        "ドメイン設定直後から攻撃開始——SSL証明書の「CT Log」がボットに新規サイトを教える仕組み",
+        "OpenAI「GPT-5.5 Instant」が新デフォルトモデルに——数値推論と視覚タスクで大幅改善、記憶ソース参照機能も追加",
+        "Anthropic Launches Claude Design — Conversational Visual Creation Powered by Claude Opus 4.7",
+        "TypeScript 7.0 Beta Released — Compiler Rewritten in Go for 10× Faster Build Times",
+        "Cloudflare Launches \"Artifacts\" — Git-Native Versioned Storage Built for AI Agents"
+      ]
+    },
     {
       "run_at": "2026-05-06T20:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Bun Is Porting Its Core from Zig to Rust — Official Phase-A Guide Published",
         "How OpenAI Delivers Low-Latency Voice AI at Scale — Inside Their WebRTC Relay + Transceiver Architecture",
         "Agent Skills: Encoding Senior Engineering Discipline for AI Agents — Addy Osmani's Workflow Framework"
-      ]
-    },
-    {
-      "run_at": "2026-05-05T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578820",
-        "https://news.yahoo.co.jp/pickup/6578821",
-        "https://news.yahoo.co.jp/pickup/6578807",
-        "https://news.yahoo.co.jp/pickup/6578824",
-        "https://www.jiji.com/jc/article?k=2026050500241&g=int&m=rss",
-        "https://zenn.dev/zhizhiarv/articles/claude-code-webfetch-haiku-summary",
-        "https://zenn.dev/k9i/articles/20260504_cc_to_codex",
-        "https://www.itmedia.co.jp/news/articles/2605/05/news023.html",
-        "https://www.anthropic.com/news/enterprise-ai-services-company",
-        "https://www.jiji.com/jc/article?k=2026050500248&g=int&m=rss",
-        "https://github.blog/changelog/2026-04-30-github-copilot-in-visual-studio-april-update"
-      ],
-      "titles": [
-        "石破氏、憲法9条2項の削除を主張――自衛隊を「軍」と明記すべきと訴え",
-        "米軍、ホルムズ海峡付近でイランの小型船7隻を撃沈――トランプ氏がSNSで発表",
-        "韓国企業の船がホルムズ海峡で爆発・炎上――イランによる攻撃とトランプ氏が指摘",
-        "ホワイトハウス近くで銃撃戦――シークレットサービスが武装男と交戦",
-        "クルーズ船で集団感染疑い、乗客に日本人も――大西洋上での集団発症が明らかに",
-        "Claude CodeのWebFetchは実はHaikuが要約している——3段階パイプラインの実態と透明性の問題",
-        "Claude CodeユーザーのためのCodex入門——GPT-5.5の性能優位とツール設定の違いを比較",
-        "AnthropicとBlackstoneが中堅企業向けAIサービス会社を設立――Claude導入を専任チームで支援",
-        "Anthropic Launches $1.5B Enterprise AI Services Company with Blackstone, Goldman Sachs",
-        "Trump Administration Eyes AI Model Review Process Amid Concerns Over Anthropic's \"Mythos\"",
-        "GitHub Copilot for Visual Studio April Update: Cloud Agent Sessions Now Launch Directly from IDE"
-      ]
-    },
-    {
-      "run_at": "2026-05-05T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578790",
-        "https://news.yahoo.co.jp/pickup/6578792",
-        "https://news.yahoo.co.jp/pickup/6578800",
-        "https://news.yahoo.co.jp/pickup/6578786",
-        "https://www.itmedia.co.jp/news/",
-        "https://zenn.dev/topics/mcp/feed",
-        "https://zenn.dev/topics/claudecode/feed",
-        "https://www.publickey1.jp/atom.xml",
-        "https://wwj.dev/posts/i-am-worried-about-bun/",
-        "https://antirez.com/news/164",
-        "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/"
-      ],
-      "titles": [
-        "日本代表MF鈴木唯人が右鎖骨骨折——北中米W杯選考に暗雲",
-        "再審制度改正案にSNS上で批判殺到——「稲田の乱」期間中に批判投稿が8倍増",
-        "群馬で警察官がひき逃げ被害——取り締まり中に車に引きずられ重傷",
-        "岡山がSNS不適切投稿で広島に直接謝罪——社長自ら訪問し「遺恨なし」で決着",
-        "Microsoft AIビジネスが年換算3700億ドル規模に——ビッグテック決算でAI投資の成果が鮮明",
-        "MCPの攻撃面を理解する——ツール汚染・rug pull・シャドーイング攻撃の実態",
-        "Claude CodeでChatGPT Images 2.0を無料活用——Chrome MCPでAPI不要のブログ画像生成パイプライン",
-        "TypeScript 7.0 Beta公開——Go言語への移植でコンパイル速度が10倍以上に向上",
-        "Anthropic Acquires Bun Runtime — Concerns Grow Over Claude Code's Declining Quality",
-        "antirez Builds Redis Array Type with AI Assistance — A 4-Month Story of Human-AI Co-Development",
-        "OpenAI, Google, Microsoft Back LIFT AI Act — $NSF Grants for K-12 AI Literacy Programs"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-06T05:00:00+09:00",
+  "last_run_at": "2026-05-06T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-06T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026050500430&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026050600237&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026050600229&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6578975?source=rss",
+        "https://news.yahoo.co.jp/pickup/6578978?source=rss",
+        "https://zenn.dev/0h_n0/articles/9f934729f3f62a",
+        "https://zenn.dev/web_benriya/articles/bigquery-claude-code-monthly-business-report",
+        "https://zenn.dev/kai_kou/articles/206-gemini-api-docs-mcp-agent-skills-guide",
+        "https://github.blog/changelog/2026-05-05-secret-scanning-with-github-mcp-server-is-now-generally-available",
+        "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/",
+        "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/"
+      ],
+      "titles": [
+        "性犯罪被害者の９割が「二次加害防止」を要望——捜査当局の聴取態度に根強い不満",
+        "米、対イラン軍事作戦の攻撃段階が「終結」——ホルムズ通航支援に焦点移行",
+        "アイヌ民族の遺骨７体、英自然史博物館から返還——式典で両国が和解を確認",
+        "日産、欧州で10％人員削減へ——EVシフト対応と収益改善が急務",
+        "京都の公衆トイレで男児の遺体——遺棄事件として捜査、身元の確認を急ぐ",
+        "AIエージェントのツール設計を本番品質に高める——スキーマ進化・障害モード・契約テストの実装戦略",
+        "BigQuery × Claude Codeで月次事業報告書を自動作成——データ取得から整形まで一気通貫",
+        "Gemini API Docs MCPでCoding Agentの精度を96.3%に向上——Agent Skillsとの組み合わせが鍵",
+        "GitHub MCP Server: Secret Scanning Now Generally Available — Detect Leaked Credentials Before Push",
+        "AI-Managed Cafe in Stockholm Raises Human-in-the-Loop Concerns — When Autonomous Agents Burden Third Parties",
+        "Google Accelerates Gemma 4 Inference with Multi-Token Prediction Drafters — Up to 3× Speedup on Commodity Hardware"
+      ]
+    },
     {
       "run_at": "2026-05-06T05:00:00+09:00",
       "urls": [

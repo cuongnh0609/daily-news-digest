@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-07T05:00:00+09:00",
+  "last_run_at": "2026-05-07T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-07T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579116",
+        "https://news.yahoo.co.jp/pickup/6579104",
+        "https://news.yahoo.co.jp/pickup/6579096",
+        "https://news.yahoo.co.jp/pickup/6579114",
+        "https://news.yahoo.co.jp/pickup/6579108",
+        "https://www.itmedia.co.jp/news/articles/2605/07/news049.html",
+        "https://www.itmedia.co.jp/enterprise/articles/2605/07/news024.html",
+        "https://www.publickey1.jp/blog/26/awsuae2.html",
+        "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+        "https://github.blog/changelog/2026-05-06-github-copilot-in-visual-studio-code-april-releases",
+        "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/"
+      ],
+      "titles": [
+        "日経平均、初の6万2000円台を突破——円安と米景気回復期待が押し上げ",
+        "ロシア、各国大使館にキーウ退避を警告——攻撃示唆で欧米が強く非難",
+        "磐越道バス事故、無免許の知人が運転——旅行会社社長が依頼、責任の所在が焦点に",
+        "米国内の夕食会で銃撃事件——容疑者、対イラン戦争への抗議が動機と供述",
+        "タイのコウモリからコロナウイルス近縁種を発見——ヒト感染の可能性を専門家が調査",
+        "xAIがSpaceXのAI部門「SpaceXAI」に統合——マスク氏が発表、Anthropicとのデータセンター契約も連動",
+        "「AIがビジネスモデルを破壊する」——ガートナー調査で約3割のCEOが収益への脅威を認識",
+        "AWS中東（UAE）リージョン、紛争被害から「復旧に数カ月」——2カ月ぶりに現状報告",
+        "Vibe Coding and Agentic Engineering Are Converging — And That's a Problem Worth Thinking About",
+        "GitHub Copilot in VS Code: April 2026 — Semantic Search, /chronicle History, BYOK for Enterprise, and Remote Agent Steering",
+        "Google Cloud Fraud Defense: The Next Evolution of reCAPTCHA — Real-Time Risk Scoring Replaces Bot Challenges"
+      ]
+    },
     {
       "run_at": "2026-05-07T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Agent Skills: Encoding Senior Engineering Discipline as Executable Workflows for AI Agents",
         "Async Rust Never Left the MVP State — Binary Bloat from State Machine Design Still Needs Compiler Fixes",
         "When Everyone Has AI and the Company Still Learns Nothing — The Organizational Knowledge Problem"
-      ]
-    },
-    {
-      "run_at": "2026-05-05T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026050500531&g=soc",
-        "https://www.jiji.com/jc/article?k=2026050500180&g=soc",
-        "https://www.nikkei.com/",
-        "https://www.nikkei.com/",
-        "https://www.jiji.com/jc/article?k=2026050500175&g=eco",
-        "https://zenn.dev/yamk/articles/ai-agent-permission-inventory",
-        "https://zenn.dev/katalab/articles/386df3380c2888",
-        "https://www.itmedia.co.jp/enterprise/articles/2605/05/news016.html",
-        "https://www.anthropic.com/news/claude-opus-4-7",
-        "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-        "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
-      ],
-      "titles": [
-        "民家に３遺体、母子か——長男が交番に届け出、長野県阿智村",
-        "１年で教員免許取得の新課程を検討——社会人の学び直し促進、文部科学省",
-        "みずほFG、AIで審査効率化——法人口座を即日開設へ",
-        "産総研がAI・半導体分野でVCファンドを設立——スタートアップ支援を強化",
-        "日傘男子にネクタイ女子——個性重視ファッションに新たな商機",
-        "AI coding agentを安全に使い続けるために——自分の開発環境の権限を棚卸しする",
-        "ローカルLLM高速化の最前線——MTP・DDTreeで推論速度を劇的に改善する",
-        "中堅・中小企業に最も人気のAIエージェントは？——RPAからの移行加速、調査で実態が明らかに",
-        "Anthropic Releases Claude Opus 4.7 — Enhanced Vision, Stronger Agents, Cyber Safeguards",
-        "10 Lessons for Agentic Coding — What Changes When Code Generation Is Nearly Free",
-        "Google Chrome Silently Installs 4GB Gemini Nano Model Without User Consent"
       ]
     }
   ]

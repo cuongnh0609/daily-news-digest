@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-07T10:00:00+09:00",
+  "last_run_at": "2026-05-07T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-07T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579116",
+        "https://news.yahoo.co.jp/pickup/6579116",
+        "https://news.yahoo.co.jp/pickup/6579096",
+        "https://www.itmedia.co.jp/news/articles/2605/08/news012.html",
+        "https://www.itmedia.co.jp/news/articles/2605/07/news054.html",
+        "https://www.itmedia.co.jp/news/articles/2605/07/news048.html",
+        "https://zenn.dev/frontline/articles/qa-techniques-in-ai-driven-dev",
+        "https://zenn.dev/dukushi/articles/codex-app-vs-cli-comparison",
+        "https://www.cursor.com/blog/bootstrapping-composer-with-autoinstall",
+        "https://github.blog/changelog/2026-05-06-enterprise-managed-plugins-in-github-copilot-cli-are-now-in-public-preview",
+        "https://tilde.run/"
+      ],
+      "titles": [
+        "日経平均、史上初めて6万3000円台を突破——円安と米経済の回復期待が株高を後押し",
+        "米財務長官、5月11日から訪日で調整——関税交渉の本格化が焦点に",
+        "東京・日本橋でひき逃げか——歩行者1名が死亡、警視庁が車両の行方を追う",
+        "変形ロボット「SR-01」が公開——人型から車両へ50秒で変形、SusHi Tech Tokyoで話題に",
+        "Google検索AI、RedditやDPReviewから「話題の声」を収集——多様な視点を回答に反映へ",
+        "AnthropicがSpaceXのColossus 1データセンターを活用——22万GPU確保、Claude Codeレート上限も2倍に",
+        "AI駆動開発時代のQA戦略——実装速度が上がるほど重要度が増すテスト設計の考え方",
+        "CodexアプリとCLIを使い比べてわかった差異——可視性と操作感でCLIに軍配",
+        "Cursor Bootstraps Composer 2 Training Using Previous Model — Autoinstall Achieves 61.7% on Terminal-Bench",
+        "GitHub Copilot CLI Gets Enterprise-Managed Plugins — Admins Can Now Push MCP Configs Organization-Wide",
+        "Tilde.run: Transactional Versioned Filesystem for AI Agent Sandboxes — Built by Team Behind lakeFS"
+      ]
+    },
     {
       "run_at": "2026-05-07T10:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "GitHub MCP Server: Secret Scanning Now Generally Available — Detect Leaked Credentials Before Push",
         "AI-Managed Cafe in Stockholm Raises Human-in-the-Loop Concerns — When Autonomous Agents Burden Third Parties",
         "Google Accelerates Gemma 4 Inference with Multi-Token Prediction Drafters — Up to 3× Speedup on Commodity Hardware"
-      ]
-    },
-    {
-      "run_at": "2026-05-06T05:00:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260505/k10015115121000.html",
-        "https://www.jiji.com/jc/article?k=2026050500425&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026050500743&g=int&m=rss",
-        "http://www3.nhk.or.jp/news/html/20260505/k10015115001000.html",
-        "http://www3.nhk.or.jp/news/html/20260505/k10015114801000.html",
-        "https://zenn.dev/hosoyayusaku/articles/25ec9a4a6fa1c9",
-        "https://zenn.dev/watab2000/articles/ff5e07b13bc93b",
-        "https://zenn.dev/headwaters/articles/f629e2f92828e7",
-        "https://www.anthropic.com/news/finance-agents",
-        "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-        "https://susam.net/inverse-laws-of-robotics.html"
-      ],
-      "titles": [
-        "子どものSNS利用 日本とEUが共同声明——情報共有強化と規制連携へ",
-        "日比防衛相会談——中古護衛艦の移転に向けWG設置、海洋安保協力を強化",
-        "３月の米貿易赤字が４．４％拡大——関税政策の影響で輸入が増加、２か月連続",
-        "医療費の負担増「受け入れられない」68%——NHK世論調査で市民の懸念が鮮明に",
-        "衆議院の定数削減——与野党協議会で5月末までに結論、選挙制度改革が加速",
-        "デジタル庁の生成AI基盤「源内」をAWS上で動かす——CDKで11分、コスト200円の実証実験",
-        "サイゼリヤのQR注文APIの脆弱性をIPAに通報した話——認証欠如と無制限アクセスの実態",
-        "VSCode 1.118 アップデートが熱い——Copilot連携強化、トークン効率93%改善、Chronicle機能追加",
-        "Anthropic Launches Finance Agents — Ten Ready-to-Deploy Templates for Financial Workflows",
-        "Computer Use Is 45× More Expensive Than Structured APIs — Benchmarks Force a Rethink",
-        "Three Inverse Laws of AI — A Framework for Human Accountability in the Age of Intelligent Systems"
-      ]
-    },
-    {
-      "run_at": "2026-05-06T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578860",
-        "https://news.yahoo.co.jp/pickup/6578830",
-        "https://news.yahoo.co.jp/pickup/6578850",
-        "https://news.yahoo.co.jp/pickup/6578835",
-        "https://news.yahoo.co.jp/pickup/6578860",
-        "https://zenn.dev/genda_jp/articles/8038f227ba9bdf",
-        "https://zenn.dev/kenimo49/articles/ai-cognitive-bias-3-types-metr-rct",
-        "https://zenn.dev/kanaria007/articles/d02ea13d9163fd",
-        "https://addyosmani.com/blog/agent-skills/",
-        "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-        "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
-      ],
-      "titles": [
-        "熱海土石流28人死亡——県・市・前後所有者が全員法的責任を否定、防災対策が宙に浮く",
-        "選挙時の誹謗中傷対策——与野党がSNS規制法改正の検討に着手、「即時性」が焦点に",
-        "村上宗隆、メジャー最多タイ14号——年64本ペース、ジャッジと首位に並ぶ",
-        "大坂なおみ、2026年メットガラに日本人唯一の招待——「グローバル存在感」が選ばれた理由",
-        "引きこもり支援NPO「ニュースタート」が32年の歴史に幕——146万人問題の二極化が続く",
-        "Claude Managed Agentsで消える層、残る層——業務自動化エージェントの2層構造を整理する",
-        "AIに「最適です」と言われた瞬間に検証が止まる——METRの無作為対照試験が映した3つの認知バイアス",
-        "AIエージェントのルールをハードコードしない——Policy / Effect Catalogによるバージョン管理設計",
-        "Agent Skills: Encoding Senior Engineering Discipline as Executable Workflows for AI Agents",
-        "Async Rust Never Left the MVP State — Binary Bloat from State Machine Design Still Needs Compiler Fixes",
-        "When Everyone Has AI and the Company Still Learns Nothing — The Organizational Knowledge Problem"
       ]
     }
   ]

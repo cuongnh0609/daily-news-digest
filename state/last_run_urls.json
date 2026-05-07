@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-08T00:00:00+09:00",
+  "last_run_at": "2026-05-08T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-08T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026050800100&g=eco",
+        "https://www.jiji.com/jc/article?k=2026050800120&g=pol",
+        "https://www.jiji.com/jc/article?k=2026050800080&g=spo",
+        "https://www.jiji.com/jc/article?k=2026050800050&g=pol",
+        "https://news.yahoo.co.jp/articles/gasoline-subsidy-march-2026",
+        "https://simonwillison.net/2026/May/7/",
+        "https://zenn.dev/frontline/articles/qa-techniques-in-ai-driven-dev",
+        "https://www.publickey1.jp/blog/26/googleaiagent_studioaigemini_enterprise_agent_platform.html",
+        "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+        "https://github.blog/changelog/feed/",
+        "https://simonwillison.net/2026/May/7/llm-032a0/"
+      ],
+      "titles": [
+        "円相場が156円台に強化——連休中に推定4〜5兆円規模の為替介入か",
+        "日本・サウジアラビア、エネルギー安全保障で新たな協力枠組みを構築",
+        "男子卓球団体、世界選手権でドイツ下してメダル確定——57年ぶりの金へあと1勝",
+        "中国軍艦が尖閣諸島近海に一時領海侵入——政府が厳重抗議",
+        "ガソリン補助金、3月単月で1800億円——経産省が補助延長方針を検討",
+        "Mozilla、Claude Mythosで423件のFirefoxセキュリティバグを1か月で修正——通常の10〜20倍の速度",
+        "AIエージェントのQA技法——高速実装時代に求められるテスト設計の考え方",
+        "Google、AIエージェントをローコードで構築できる「Agent Studio」発表——MCP対応でClaude Codeとの連携も",
+        "AlphaEvolve: Google DeepMind's Gemini-Powered Coding Agent Achieves Breakthrough Algorithm Discovery",
+        "GitHub Copilot CLI's Rubber Duck Now Supports Multiple AI Models — Cross-Model Critic Agents Enabled",
+        "LLM 0.32a0: Simon Willison Refactors Core Python Library Abstractions for Messages-Based Prompts and Typed Streaming"
+      ]
+    },
     {
       "run_at": "2026-05-08T00:00:00+09:00",
       "urls": [

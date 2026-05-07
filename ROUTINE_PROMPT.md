@@ -61,7 +61,7 @@ Các biến này dùng nhất quán ở 5 nơi:
 | Tên file                                      | `news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html` (vd `news/2026-04-27_1947.html`)      |
 | Placeholder HTML `{{DATE}}` `{{HOUR}}` `{{DOW}}` | `{{DATE}}` ← `RUN_DATE`; `{{HOUR}}` ← `RUN_TIME_DISPLAY`; `{{DOW}}` ← `RUN_DOW`     |
 | Commit message                                | `news: デイリーダイジェスト {RUN_DATE} {RUN_TIME_DISPLAY} JST (11 articles)`         |
-| Email subject + attachment path               | `🗞️ デイリーダイジェスト — {RUN_DATE}/{RUN_TIME_DISPLAY} JST` + `news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html` |
+| Email subject + Pages URL                     | `🗞️ デイリーダイジェスト — {RUN_DATE}/{RUN_TIME_DISPLAY} JST` + `https://cuongnh0609.github.io/daily-news-digest/news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html` |
 | State file `state/last_run_urls.json` `run_at`  | ISO `{RUN_DATE}T{RUN_HOUR}:{RUN_MINUTE}:00+09:00`                                   |
 
 ⚠️ Lưu ý template hiện in `{{HOUR}}:00 JST` — sửa cứng phần `:00` thành ` JST` (bỏ `:00` vì `{{HOUR}}` giờ đã là `HH:MM`). Replace placeholder bằng `RUN_TIME_DISPLAY` để chuỗi cuối là `19:47 JST`, KHÔNG được để `19:47:00 JST`.
@@ -504,14 +504,16 @@ Nếu `git push` bị reject vì có commit mới trên remote (hiếm) → `git
 
 ---
 
-## 💬 Bước 5 — Thông báo Email (kèm file HTML)
+## 💬 Bước 5 — Thông báo Email (link GitHub Pages)
 
-Sau khi push lên `main` thành công, gửi email summary qua script `./scripts/notify_email.sh`. Script nhận body qua stdin, subject là `$1`, **đường dẫn file đính kèm là `$2`** (Mail.app sẽ attach trực tiếp). Recipient đọc từ env `DIGEST_EMAIL_TO` (default `gian@core-corp.co.jp`).
+Sau khi push lên `main` thành công, gửi email summary qua script `./scripts/notify_email.sh`. Script nhận body qua stdin, subject là `$1`. **Không đính kèm file** — body chỉ chứa link GitHub Pages để user click mở trực tiếp trên browser. Recipient đọc từ env `DIGEST_EMAIL_TO` (default `gian@core-corp.co.jp`).
 
-Chạy lệnh shell sau từ repo root (thay `{RUN_DATE}`, `{RUN_HOUR}`, `{RUN_MINUTE}`, `{RUN_TIME_DISPLAY}` bằng giá trị thực từ Bước 0a — đính kèm bản `news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html` để có timestamp trong tên file):
+Repo đã public và GitHub Pages đã enable tại `https://cuongnh0609.github.io/daily-news-digest/`. Pages build sau mỗi push mất ~30–60s, nên link sẽ available trong vòng 1 phút sau khi gửi email.
+
+Chạy lệnh shell sau từ repo root (thay `{RUN_DATE}`, `{RUN_HOUR}`, `{RUN_MINUTE}`, `{RUN_TIME_DISPLAY}` bằng giá trị thực từ Bước 0a):
 
 ```bash
-cat <<'EMAIL_BODY' | ./scripts/notify_email.sh "🗞️ デイリーダイジェスト — {RUN_DATE} {RUN_TIME_DISPLAY} JST" "$(pwd)/news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html"
+cat <<'EMAIL_BODY' | ./scripts/notify_email.sh "🗞️ デイリーダイジェスト — {RUN_DATE} {RUN_TIME_DISPLAY} JST"
 🗾 日本ニュース (5)
 • [tiêu đề 1]
 • [tiêu đề 2]
@@ -529,20 +531,16 @@ cat <<'EMAIL_BODY' | ./scripts/notify_email.sh "🗞️ デイリーダイジェ
 • [title 2] 🟠 MEDIUM
 • [title 3] 🟡 LOW
 
-GitHub (main):   https://github.com/cuongnh0609/daily-news-digest/blob/main/news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html
-Latest bookmark: https://github.com/cuongnh0609/daily-news-digest/blob/main/latest-news.html
-
-Bản HTML đầy đủ đính kèm email này — mở trực tiếp để đọc layout 2 cột.
-Repo đang private; nếu muốn bookmark trên browser, dùng file local sau khi `git pull`:
-file:///Users/cuongnh0609/git/daily-news-digest/latest-news.html
+📖 Đọc bản tin: https://cuongnh0609.github.io/daily-news-digest/news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html
+🔖 Bookmark (luôn trỏ tới bản mới nhất): https://cuongnh0609.github.io/daily-news-digest/
 EMAIL_BODY
 ```
 
 **Quy tắc body:**
 - Hiển thị đủ 11 tiêu đề (5 + 3 + 3), không rút gọn
 - Mục C: mỗi tin gắn impact marker ở cuối; dòng đầu section summary số lượng mỗi mức
-- Đường dẫn attachment phải là **absolute path** (dùng `$(pwd)/...` hoặc đường dẫn tuyệt đối) — Mail.app không hiểu relative path
-- Đính kèm file `news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html` (bản có timestamp), không phải `latest-news.html`, để file lưu trong email không bị overwrite ở run sau
+- **Không truyền `$2`** vào `notify_email.sh` — bỏ hoàn toàn file đính kèm
+- Link đầu tiên trỏ tới file timestamped (immutable, không bị overwrite); link thứ hai là root Pages URL (auto-redirect tới `latest-news.html` qua `index.html`)
 
 ---
 
@@ -560,7 +558,7 @@ EMAIL_BODY
 - ✅ Nav "Bản tin trước đó" (Bước 3.x) chứa tối đa 10 link `file:///` đến các digest cũ, không có placeholder `{{PREV_DIGESTS_NAV}}` nào còn sót
 - ✅ Header HTML hiển thị đúng `RUN_TIME_DISPLAY` (giờ:phút thực tế khi job bắt đầu, KHÔNG làm tròn về `:00`)
 - ✅ Commit + push thành công lên `main` (không tạo branch)
-- ✅ Email gửi thành công, có file HTML đính kèm
+- ✅ Email gửi thành công, body chứa link GitHub Pages (không đính kèm file)
 
 ---
 

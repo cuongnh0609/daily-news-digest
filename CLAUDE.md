@@ -21,7 +21,7 @@ No build, test runner, or package manifest. Editing these files *is* the develop
 
 ## Single-repo flow
 
-This repo (`cuongnh0609/daily-news-digest`, private on GitHub) holds config + assets **and** receives output. **The cron run commits directly to `main`** — no per-run branch. Each run produces:
+This repo (`cuongnh0609/daily-news-digest`, public on GitHub with Pages enabled) holds config + assets **and** receives output. GitHub Pages serves the rendered HTML at `https://cuongnh0609.github.io/daily-news-digest/` (root redirects to `latest-news.html` via `index.html`). **The cron run commits directly to `main`** — no per-run branch. Each run produces:
 
 - `news/YYYY-MM-DD_HH.html` — timestamped archive (kept forever)
 - `latest-news.html` (repo root) — overwritten copy of the newest file, designed for the user to bookmark locally as `file:///Users/cuongnh0609/git/daily-news-digest/latest-news.html`
@@ -41,7 +41,7 @@ When editing `ROUTINE_PROMPT.md`, preserve these invariants:
 - **Section C impact badges** `🔴 HIGH / 🟠 MEDIUM / 🟡 LOW` — email summary reports count per badge.
 - **Dedup is mandatory, runs first (Bước 0)**: reads `state/last_run_urls.json`, builds blocklist from the last **48h** of runs, applies fuzzy title matching (>70% similar = duplicate) + canonical URL matching. Falls back to widening time window (5h→12h→24h for A, 24h→48h→72h for B/C) or reducing count if blocked out.
 - **State schema**: `{ last_run_at, runs: [{ run_at, urls, titles }] }` with rolling **7-day** window.
-- **Notification (Bước 5)**: after `git push` to `main`, pipe a summary (all 11 titles + impact counts + GitHub link to the timestamped file + local `file://` path to `latest-news.html`) into `./scripts/notify_email.sh "<subject>" "$(pwd)/news/YYYY-MM-DD_HH.html"`. The second arg attaches the timestamped HTML to the email so the user can read the layout directly without the repo. Use the timestamped filename, not `latest-news.html`, so attachments stored in the email don't churn.
+- **Notification (Bước 5)**: after `git push` to `main`, pipe a summary (all 11 titles + impact counts + GitHub Pages link to the timestamped file + Pages root URL as the bookmark) into `./scripts/notify_email.sh "<subject>"`. **No attachment** — repo is public and Pages serves rendered HTML at `https://cuongnh0609.github.io/daily-news-digest/news/YYYY-MM-DD_HHMM.html`. Pages auto-builds ~30–60s after push.
 - **Copyright**: rewrite content, never quote more than 15 consecutive words; keep English technical terms in Vietnamese translations (deploy, container, runtime, pull request).
 
 ## Template ↔ prompt alignment

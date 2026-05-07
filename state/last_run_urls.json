@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-07T15:00:00+09:00",
+  "last_run_at": "2026-05-07T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-07T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579178",
+        "https://news.yahoo.co.jp/pickup/6579166",
+        "https://news.yahoo.co.jp/pickup/6579181",
+        "https://news.yahoo.co.jp/pickup/6579186",
+        "https://news.yahoo.co.jp/pickup/6579188",
+        "https://zenn.dev/ino_h/articles/2026-05-07-claude-code-gate-mechanisms",
+        "https://zenn.dev/omeroid/articles/fb40dd4136bc78",
+        "https://zenn.dev/shotaonishi/articles/2026-05-07-claude-code-slash-skill-hook",
+        "https://arxiv.org/abs/2605.03546",
+        "https://sqlite.org/locrsf.html",
+        "https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex"
+      ],
+      "titles": [
+        "再審制度の見直しを巡る自民党協議、検察の不服申立て権限で議論が紛糾し結論を先送り",
+        "ハンタウイルス集団感染疑いのクルーズ船、スペインが受け入れへ——カナリア諸島住民は強く反発",
+        "磐越道バス事故で高校生1人死亡——遺族がコメント発表、運転手に逮捕状請求",
+        "山梨・西沢渓谷で女性が滝に転落し死亡——飼い犬を助けようとしての事故",
+        "上皇后陛下がお疲れの様子——上皇ご夫妻の夏場所観戦が取り止めに",
+        "Claude Codeの三層ゲート設計——PocketOS事件から学ぶ、AIエージェントに本番DBを消させない構造的防衛",
+        "codebase-memory-mcp — Grep/Glob/ReadをGraph DBに置き換えてClaude Codeのトークン消費を99.2%削減",
+        "Claude Codeの指示追従性を高める3つの仕組み——スラッシュコマンド・スキル・フックの使い分け",
+        "ProgramBench: Can Language Models Rebuild Complex Programs From Scratch? Best Models Pass Only 3% of Tasks",
+        "SQLite Officially Recognized as Library of Congress Recommended Storage Format",
+        "GitHub Deprecates GPT-5.2 and GPT-5.2-Codex from All Copilot Experiences — Migrate to GPT-5.5 by June 1"
+      ]
+    },
     {
       "run_at": "2026-05-07T15:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-07T20:00:00+09:00",
+  "last_run_at": "2026-05-08T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-08T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/5a7d4aefdc65ab071045a7251d5e50ff40cfcc54",
+        "https://news.yahoo.co.jp/articles/682cbe1d1618f82432350c23e2d77b21b1478840",
+        "https://news.yahoo.co.jp/articles/d5dcd008605465909df1ca5e37fd3091f55d9aaa",
+        "https://news.yahoo.co.jp/articles/052538dd4222350e6097a6c0f64b4d27ddd4badb",
+        "https://news.yahoo.co.jp/articles/1fbf2bda15c7e85640ad713bab732ea3d41911e9",
+        "https://www.itmedia.co.jp/news/articles/2605/06/news023.html",
+        "https://zenn.dev/okazu_dm/articles/83957f1623ec4d",
+        "https://www.itmedia.co.jp/news/articles/2605/07/news110.html",
+        "https://unsloth.ai/blog/nvidia-collab",
+        "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+        "https://blog.val.town/better-auth"
+      ],
+      "titles": [
+        "東北新幹線で異臭発生——約350人が後続列車に乗り換え、2人が体調不良を訴える",
+        "ハンタウイルス感染者5人をWHOが確認——接触者の女性にも症状、クルーズ船クラスターが拡大",
+        "日韓、初の次官級「2プラス2」安保対話を開催——北朝鮮の核脅威と中東情勢を協議",
+        "関東以西で夏日が続く——30℃に迫る地点も、熱中症対策の徹底を",
+        "磐越道バス事故——学校側がバス会社の説明を全面否定、責任の所在を巡る攻防が激化",
+        "Anthropic、金融サービス向けAIエージェントテンプレート10種を公開——JPモルガン・ゴールドマンらが採用",
+        "「Claude Codeに全部やらせる時代」を検証——OWASP Juice Shopで測ったセキュリティスキャン能力の実態",
+        "MUFGとGoogle Cloud、AIエージェントで金融サービスを変革——「Aggentic Commerce」で購買から決済まで一気通貫",
+        "Unsloth + NVIDIA Collaboration Achieves 25% Additional LLM Fine-Tuning Speedup via Three Kernel-Level Optimizations",
+        "CVE-2026-31431: Cloudflare Mitigates Critical Linux Kernel \"Copy Fail\" Vulnerability Using eBPF — No Signature Updates Needed",
+        "Val Town Migrates from Supabase + Clerk to Better Auth — A Post-Mortem on Three Auth Platforms in 18 Months"
+      ]
+    },
     {
       "run_at": "2026-05-07T20:00:00+09:00",
       "urls": [

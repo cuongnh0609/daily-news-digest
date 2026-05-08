@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-08T05:00:00+09:00",
+  "last_run_at": "2026-05-08T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-08T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579226",
+        "https://news.yahoo.co.jp/pickup/6579219",
+        "https://news.yahoo.co.jp/pickup/6579227",
+        "https://news.yahoo.co.jp/pickup/6579222",
+        "https://news.yahoo.co.jp/pickup/6579223",
+        "https://zenn.dev/lv/articles/9438e1678c873a",
+        "https://zenn.dev/aircloset/articles/341dffee42f454",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/08/news057.html",
+        "https://www.anthropic.com/research/natural-language-autoencoders",
+        "https://github.blog/changelog/2026-05-07-upcoming-deprecation-of-gpt-4-1",
+        "https://bsuh.bearblog.dev/agents-need-control-flow/"
+      ],
+      "titles": [
+        "美浜原発3号機でタービン建屋から蒸気漏れ——原子炉を手動停止、放射性物質の漏洩なし",
+        "コロナ5類移行から3年——政府が教訓をまとめ、情報発信と誤情報対策を強化へ",
+        "国民民主党、原油高騰対策で「5万円給付」を提言へ——党内協議で大筋合意",
+        "東京・日本橋のひき逃げ死亡事件——ドライブレコーダーが決め手、容疑者を逮捕",
+        "宮城の特別支援学校、保護者の同意なく生徒の顔写真入り名簿を第三者に提供——個人情報保護法違反の疑い",
+        "AIのPlan Modeをなんとなく承認しないために——受け入れ条件とPlanを分けて設計する",
+        "Agentic Graph RAG MCPのススメ——「検索は決定的、判断はAI」で991テーブルのDBをエージェントに渡す",
+        "OpenAI、Realtime API向け次世代音声3モデルを発表——GPT-Realtime-2がBig Bench Audioで96.6%達成",
+        "Anthropic Introduces Natural Language Autoencoders — Turning Claude's Hidden Thoughts Into Readable Text",
+        "GitHub Deprecates GPT-4.1 and Claude Sonnet 4 from Copilot — Migrate to GPT-5.5 and Claude Sonnet 4.6 by June 1",
+        "Agents Need Control Flow, Not More Prompts — Why Deterministic Scaffolds Are the Next Reliability Frontier"
+      ]
+    },
     {
       "run_at": "2026-05-08T05:00:00+09:00",
       "urls": [

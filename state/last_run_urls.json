@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-08T20:00:00+09:00",
+  "last_run_at": "2026-05-09T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-09T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579333",
+        "https://news.yahoo.co.jp/pickup/6579323",
+        "https://news.yahoo.co.jp/pickup/6579308",
+        "https://news.yahoo.co.jp/pickup/6579335",
+        "https://news.yahoo.co.jp/pickup/6579284",
+        "https://zenn.dev/thkt/articles/eae521ee3f4016",
+        "https://zenn.dev/kanaria007/articles/1221bb968aee08",
+        "https://zenn.dev/76hata/articles/llm-humaneval-coding-score-tier-2026",
+        "https://www.langchain.com/blog/building-a-company-due-diligence-agent-with-deep-agents-langsmith-and-parallel",
+        "https://github.blog/changelog/2026-05-07-rubber-duck-in-github-copilot-cli-now-supports-more-models",
+        "https://github.blog/changelog/2026-05-07-enterprise-live-migrations-is-now-in-public-preview"
+      ],
+      "titles": [
+        "米とイランが一時交戦状態——互いに「相手が先に仕掛けた」と主張、トランプ大統領は停戦継続を強調",
+        "政府、海外情報活動に「仮装身分」導入を検討——外部情報機関の新設も視野に",
+        "歯科関連倒産が過去20年で最多——コロナ補助金終了で経営難が顕在化",
+        "山形・酒田市の山中で遺体発見——クマによる死亡と断定、現場で駆除",
+        "党首討論、今月中に実施の見通し——高市首相と野党6党首が参加予定",
+        "AIに要約させずにWebの原典を読む「Scout」CLIツール——Claude CodeのWebFetch限界を超える多層防御設計",
+        "AIエージェントを段階的に本番投入する——shadow→support-only→effect-bearingの6段階ロールアウト設計",
+        "13モデル実測比較——HumanEval/HumanEval+で見るLLMコーディング実力ランキング2026年版",
+        "LangChain Deep Agents: Two-Phase Parallel Subagent Orchestration for Production Due Diligence",
+        "GitHub Copilot CLI's Rubber Duck Now Supports Cross-Model Review — Claude Reviews GPT Sessions, GPT-5.5 Reviews Claude",
+        "GitHub Enterprise Live Migrations Now in Public Preview — Move GHES to GHEC with Minimal Downtime"
+      ]
+    },
     {
       "run_at": "2026-05-08T20:00:00+09:00",
       "urls": [

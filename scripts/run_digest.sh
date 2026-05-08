@@ -41,8 +41,11 @@ export PATH="/Users/cuongnh0609/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr
   echo "--- stream log size: $(wc -c <"$STREAM_LOG") bytes, $(wc -l <"$STREAM_LOG") lines ---"
 
   if [ -f "$REPO/latest-news.html" ]; then
-    echo "--- opening latest-news.html in default browser ---"
-    open "$REPO/latest-news.html" || true
+    PAGES_URL="https://cuongnh0609.github.io/daily-news-digest/"
+    echo "--- opening $PAGES_URL in Microsoft Edge ---"
+    # Pages rebuild lags ~30-60s after push; sleep so the redirect lands on the new digest.
+    sleep 60
+    open -a "Microsoft Edge" "$PAGES_URL" || open "$PAGES_URL" || true
   fi
 
   echo "=== Run finished: $(date -Iseconds) ==="

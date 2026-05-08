@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-08T15:00:00+09:00",
+  "last_run_at": "2026-05-08T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-08T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579304",
+        "https://news.yahoo.co.jp/pickup/6579286",
+        "https://news.yahoo.co.jp/pickup/6579289",
+        "https://news.yahoo.co.jp/pickup/6579281",
+        "https://news.yahoo.co.jp/pickup/6579301",
+        "https://zenn.dev/correlate_dev/articles/claude-code-skills-15",
+        "https://zenn.dev/loglass/articles/17e1df6be6aeba",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/08/news053.html",
+        "https://blog.langchain.com/",
+        "https://www.latent.space/p/ainews-gpt-realtime-2-translate-and",
+        "https://hacks.mozilla.org/2026/05/trustworthy-javascript-for-the-open-web/"
+      ],
+      "titles": [
+        "国の借金、過去最大の1343兆円に——財務省が最新データを公表",
+        "政府、5月下旬に訪露団を派遣へ——ウクライナ情勢の打開策を模索",
+        "商船三井、ホルムズ海峡の通航料支払いを拒否——イランの要求に強硬姿勢",
+        "スカイマーク訓練生、オーストラリアの墜落事故で死亡が確認",
+        "東京都内の工事現場でクレーン車倒れ鉄板落下——作業員1人が死亡",
+        "Claude Code Skills実装で踏んだ地雷15選——プラグイン開発者が明かす落とし穴と回避策",
+        "AIに「リポジトリの地図」を渡す——マルチリポ環境をセントラルリポジトリで束ねるアーキテクチャ設計",
+        "EU AI法改正、性的画像の無許可AI生成を全面禁止——暫定合意に至る",
+        "LangChain Deep Agents: Building Production-Grade Multi-Step Company Due Diligence Agents",
+        "OpenAI Releases GPT-Realtime-2, Translate, and Whisper — New SOTA Realtime Voice APIs with 128K Context",
+        "Mozilla Proposes WAICT: Cryptographic Code Integrity for the Open Web Against Malicious Server Injection"
+      ]
+    },
     {
       "run_at": "2026-05-08T15:00:00+09:00",
       "urls": [

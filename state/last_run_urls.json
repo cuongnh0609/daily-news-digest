@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-08T10:00:00+09:00",
+  "last_run_at": "2026-05-08T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-08T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026050800254&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6579270",
+        "https://www.jiji.com/jc/article?k=2026050800568&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026050800261&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6579265",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/08/news068.html",
+        "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/08/news073.html",
+        "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
+        "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+        "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
+      ],
+      "titles": [
+        "米イラン、ホルムズ海峡で軍事衝突——トランプ「停戦は維持」と発言",
+        "政府・日銀、連休中に複数回の為替介入を実施——円安抑制へ協調行動",
+        "高市首相、中傷動画の作成・拡散を全面否定——参院委員会で答弁",
+        "米貿易裁判所、代替10%関税を「権限逸脱」と判断——差し止め命令を発令",
+        "学童保育の低賃金問題が深刻——手取り13万円、保護者対応も負担に",
+        "Claude Mythosが271件のFirefoxセキュリティバグを発見——Mozillaが成果を公開、月の修正数が423件に急増",
+        "AIエージェントが生成したPRのレビュー術——CIゲーミングや重複コードを見抜く10分チェックリスト",
+        "Coinbase、AI活用で全従業員の14%を削減——業務自動化が本格的なリストラの波を引き起こす",
+        "GitHub Cuts Token Usage 19–62% Across Agentic Workflows — By Removing Unused Tools and Pre-Staging Data",
+        "Dirtyfrag: Deterministic Linux Local Privilege Escalation Affects All Major Distributions — No Race Condition Required",
+        "AI Slop Is Killing Online Communities — Why Indiscriminate AI-Generated Content Degrades Collective Knowledge"
+      ]
+    },
     {
       "run_at": "2026-05-08T10:00:00+09:00",
       "urls": [
@@ -202,122 +231,6 @@
         "Anthropic Doubles Claude Code Rate Limits and Secures SpaceX Colossus Compute",
         "Code w/ Claude 2026: Managed Agents, \"Dreaming\" Feature, and 17× API Growth",
         "The Bottleneck Was Never the Code — What Changes When Coding Agents Remove Implementation Friction"
-      ]
-    },
-    {
-      "run_at": "2026-05-07T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579073",
-        "https://news.yahoo.co.jp/pickup/6579085",
-        "https://news.yahoo.co.jp/pickup/6579077",
-        "https://news.yahoo.co.jp/pickup/6579080",
-        "https://news.yahoo.co.jp/pickup/6579086",
-        "https://zenn.dev/kimuson/articles/pi-coding-agent-with-opencode-go",
-        "https://zenn.dev/kusuke/articles/25330f7759eba4",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/06/news022.html",
-        "https://www.anthropic.com/news/claude-design-anthropic-labs",
-        "https://www.publickey1.jp/blog/26/typescript_70typescriptgo10.html",
-        "https://blog.cloudflare.com/artifacts-git-for-agents-beta/"
-      ],
-      "titles": [
-        "米・イラン、停戦覚書の合意が間近——トランプ大統領「実行すれば作戦終了」",
-        "クルーズ船でハンタウイルス感染疑い——カナリア諸島が入港拒否、日本は「感染拡大の可能性低い」",
-        "磐越道でテニス部バスが事故——高校生1人死亡、複数が手術必要な重傷",
-        "韓国株が史上初の7000突破——KOSPI最高値更新、サムスン電子が1兆ドルクラブ入り",
-        "世界卓球で日本男子が57年ぶりの金メダルへ王手——張本智和2勝でカザフに逆転勝利",
-        "OpenCode Go + pi-coding-agentで月コストを1/20に——Claude Code代替の現実的な設計",
-        "ドメイン設定直後から攻撃開始——SSL証明書の「CT Log」がボットに新規サイトを教える仕組み",
-        "OpenAI「GPT-5.5 Instant」が新デフォルトモデルに——数値推論と視覚タスクで大幅改善、記憶ソース参照機能も追加",
-        "Anthropic Launches Claude Design — Conversational Visual Creation Powered by Claude Opus 4.7",
-        "TypeScript 7.0 Beta Released — Compiler Rewritten in Go for 10× Faster Build Times",
-        "Cloudflare Launches \"Artifacts\" — Git-Native Versioned Storage Built for AI Agents"
-      ]
-    },
-    {
-      "run_at": "2026-05-06T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579032?source=rss",
-        "https://news.yahoo.co.jp/pickup/6579058?source=rss",
-        "https://www.jiji.com/jc/article?k=2026050600418&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026050600266&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6579035?source=rss",
-        "https://zenn.dev/masayan1126/books/claude-code-subagents-master",
-        "https://zenn.dev/chips0711/articles/b081f3ddb93040",
-        "https://www.itmedia.co.jp/news/articles/2605/06/news033.html",
-        "https://github.blog/changelog/2026-05-05-dependency-scanning-with-github-mcp-server-is-in-public-preview",
-        "https://www.anthropic.com/news/anthropic-nec",
-        "https://simonwillison.net/2026/May/4/april-newsletter/"
-      ],
-      "titles": [
-        "米中首脳会談、台湾問題が主要議題に——ルビオ長官が協議入りを確認",
-        "原発稼働率が25年度に33%へ——震災後最高を更新も、伸びは限定的",
-        "北朝鮮、憲法から「統一」条項を削除——韓国を「別国家」と明記する条文を追加",
-        "日本・UAEが原油共同備蓄を大幅拡大——ホルムズ情勢を受け供給安定化を急ぐ",
-        "磐越道でバスが事故——北越高校テニス部員が死亡、26人が重軽傷",
-        "Claude Codeサブエージェント完全マスター——設計4原則から公式プラグイン解読まで",
-        "AIエージェントのSkillはWazaで評価してAPMで配ろう——ハーネスエンジニアリング入門",
-        "Meta、AIで13歳未満を自動検出——InstagramとFacebookで年齢確認を本格強化",
-        "GitHub MCP Server: Dependency Scanning Now in Public Preview — Catch Vulnerabilities Before Commit",
-        "Anthropic & NEC Launch Japan's Largest AI Engineering Initiative — 30,000 Employees on Claude",
-        "Simon Willison's April 2026 Newsletter — DeepSeek Near-Frontier, LLM Security, and the Maturing Developer Ecosystem"
-      ]
-    },
-    {
-      "run_at": "2026-05-06T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6578996?source=rss",
-        "https://news.yahoo.co.jp/pickup/6579010?source=rss",
-        "https://news.yahoo.co.jp/pickup/6579007?source=rss",
-        "https://news.yahoo.co.jp/pickup/6579008?source=rss",
-        "https://news.yahoo.co.jp/pickup/6579001?source=rss",
-        "https://zenn.dev/miyan/articles/claude-code-auto-memory-ops-guide-2026",
-        "https://zenn.dev/tm_dev/articles/2026-05-06-zenn-auto-publish-schedule",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/06/news022.html",
-        "https://blog.cloudflare.com/agents-stripe-projects/",
-        "https://zenn.dev/miyan/articles/claude-code-april-2026-new-features",
-        "https://zenn.dev/aerign/articles/3c94d2343c164d"
-      ],
-      "titles": [
-        "ホルムズ海峡で情報錯綜——米艦護衛停止、UAE攻撃報道の真偽が焦点に",
-        "岩手・大槌町で山林火災が再発——4月の大規模火災跡地で煙が上がる",
-        "秋田でクマが農家を襲撃——男性は薬局に逃げ込み手当て、今年初の負傷者",
-        "群馬「GUNMAパスポート」初日に2,000人——受付停止、申請数が想定を大幅超過",
-        "大田区が学校プールを「シェア」——猛暑対策と教員負担軽減の一石二鳥策",
-        "Claude Code Auto Memory 運用の5つの落とし穴——CLAUDE.mdとの責任分界を正しく設計する",
-        "Claude Code Routinesで週次AIトレンド記事を全自動生成——Zennへの公開まで5ステップで完結",
-        "OpenAI「GPT-5.5 Instant」がChatGPTのデフォルトモデルに——記憶ソース参照機能も追加",
-        "Cloudflare + Stripe: AI Agents Can Now Create Accounts, Buy Domains, and Deploy End-to-End",
-        "Claude Code April 2026 Feature Recap: Monitor Tool, Write Optimization, /ultraplan Preview",
-        "4 LLM Agent Reliability Patterns from AI Engineer 2026: Verifier's Rule, Guardrails, Skill, Elicitation"
-      ]
-    },
-    {
-      "run_at": "2026-05-06T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026050500430&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026050600237&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026050600229&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6578975?source=rss",
-        "https://news.yahoo.co.jp/pickup/6578978?source=rss",
-        "https://zenn.dev/0h_n0/articles/9f934729f3f62a",
-        "https://zenn.dev/web_benriya/articles/bigquery-claude-code-monthly-business-report",
-        "https://zenn.dev/kai_kou/articles/206-gemini-api-docs-mcp-agent-skills-guide",
-        "https://github.blog/changelog/2026-05-05-secret-scanning-with-github-mcp-server-is-now-generally-available",
-        "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/",
-        "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/"
-      ],
-      "titles": [
-        "性犯罪被害者の９割が「二次加害防止」を要望——捜査当局の聴取態度に根強い不満",
-        "米、対イラン軍事作戦の攻撃段階が「終結」——ホルムズ通航支援に焦点移行",
-        "アイヌ民族の遺骨７体、英自然史博物館から返還——式典で両国が和解を確認",
-        "日産、欧州で10％人員削減へ——EVシフト対応と収益改善が急務",
-        "京都の公衆トイレで男児の遺体——遺棄事件として捜査、身元の確認を急ぐ",
-        "AIエージェントのツール設計を本番品質に高める——スキーマ進化・障害モード・契約テストの実装戦略",
-        "BigQuery × Claude Codeで月次事業報告書を自動作成——データ取得から整形まで一気通貫",
-        "Gemini API Docs MCPでCoding Agentの精度を96.3%に向上——Agent Skillsとの組み合わせが鍵",
-        "GitHub MCP Server: Secret Scanning Now Generally Available — Detect Leaked Credentials Before Push",
-        "AI-Managed Cafe in Stockholm Raises Human-in-the-Loop Concerns — When Autonomous Agents Burden Third Parties",
-        "Google Accelerates Gemma 4 Inference with Multi-Token Prediction Drafters — Up to 3× Speedup on Commodity Hardware"
       ]
     }
   ]

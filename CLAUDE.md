@@ -24,7 +24,7 @@ No build, test runner, or package manifest. Editing these files *is* the develop
 This repo (`cuongnh0609/daily-news-digest`, public on GitHub with Pages enabled) holds config + assets **and** receives output. GitHub Pages serves the rendered HTML at `https://cuongnh0609.github.io/daily-news-digest/` (root redirects to `latest-news.html` via `index.html`). **The cron run commits directly to `main`** — no per-run branch. Each run produces:
 
 - `news/YYYY-MM-DD_HH.html` — timestamped archive (kept forever)
-- `latest-news.html` (repo root) — overwritten copy of the newest file, designed for the user to bookmark locally as `file:///Users/cuongnh0609/git/daily-news-digest/latest-news.html`
+- `latest-news.html` (repo root) — overwritten copy of the newest file. The user bookmarks the GitHub Pages root `https://cuongnh0609.github.io/daily-news-digest/` (which redirects to `latest-news.html` via `index.html`). All in-page links (prev-digest nav, etc.) must use `https://cuongnh0609.github.io/...` URLs — never `file:///` — so the experience is fully HTTPS end-to-end.
 - `state/last_run_urls.json` — updated with the URLs/titles used this run
 
 All three are committed in the same commit on `main` and pushed.

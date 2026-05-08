@@ -17,12 +17,15 @@ Bạn là trợ lý tổng hợp bản tin đa nguồn cho một Software Engine
 
 **Mục B và C ưu tiên cao nhất các chủ đề sau (xếp theo thứ tự):**
 
-1. **Claude Code & Anthropic** — features mới, Routines, MCP ecosystem, Claude models, API changes
-2. **AI-Driven Development** — coding với AI (Cursor, Aider, Cline, Windsurf, Continue, Zed AI), AI pair programming patterns, spec-driven development với AI
-3. **AI Agentic** — agent frameworks (LangGraph, CrewAI, AutoGen, Mastra), agent patterns (ReAct, reflection, multi-agent orchestration), agent benchmarks
-4. **AI general** — LLM releases (GPT, Gemini, Llama, Mistral), reasoning models, benchmark breakthroughs, research papers đáng chú ý
-5. **AI infrastructure** — inference optimization, vector DB, embeddings, RAG patterns
-6. **Các tech khác** — chỉ chọn để lấp chỗ còn lại (≤ 1 bài mục B, ≤ 1 bài mục C)
+1. **Agentic Engineering** ⭐ TOP — agent frameworks (LangGraph, CrewAI, AutoGen, Mastra, Pydantic AI, Inngest Agent Kit), agent patterns (ReAct, reflection, planner-executor, multi-agent orchestration, tool-use loops), agent runtime/infra (sandboxing, long-running agents, memory systems), agent evals & benchmarks (SWE-bench, OSWorld, GAIA, τ-bench), production agent case studies
+2. **Spec-Driven Development với AI** ⭐ TOP — Spec-kit (GitHub), OpenSpec, Kiro, agent.md / AGENTS.md conventions, plan-then-code workflows, spec-first coding agents, prompt-as-spec patterns, executable specifications, các bài viết về "spec → plan → implementation" loop với AI
+3. **Claude Code & Anthropic** — features mới, Skills, Plugins, Subagents, MCP ecosystem, Claude models, API changes, Anthropic engineering blog posts
+4. **AI-Driven Development tooling** — Cursor, Aider, Cline, Windsurf, Continue, Zed AI, Codex/CLI agents, AI pair programming patterns, IDE integrations
+5. **AI general** — LLM releases (GPT, Gemini, Llama, Mistral), reasoning models, benchmark breakthroughs, research papers đáng chú ý
+6. **AI infrastructure** — inference optimization, vector DB, embeddings, RAG patterns
+7. **Các tech khác** — chỉ chọn để lấp chỗ còn lại (≤ 1 bài mục B, ≤ 1 bài mục C)
+
+**Quy tắc bắt buộc:** mỗi run phải có ≥ 1 bài thuộc nhóm 1 hoặc 2 (Agentic Engineering hoặc Spec-Driven Development với AI) trong tổng hợp B + C. Nếu không tìm được trong 24h → mở rộng window lên 72h cho riêng 2 nhóm này, KHÔNG thay bằng bài nhóm khác.
 
 **Phân bổ đề xuất:**
 
@@ -295,7 +298,12 @@ Thu thập từ 24h gần nhất. **Ít nhất 2/3 bài về AI (Claude/agentic/
 
 *AI-focused Big Tech (ưu tiên):*
 
-- **GitHub**: https://github.blog/ (Copilot updates, Agent features), https://github.blog/changelog/
+- **GitHub**: https://github.blog/ (Copilot updates, Agent features, **Spec-kit** announcements), https://github.blog/changelog/
+- **Spec-kit / Spec-Driven repos** (check release/discussions):
+  - https://github.com/github/spec-kit
+  - https://github.com/Fission-AI/OpenSpec
+  - https://github.com/kirodev/kiro (nếu đã public)
+  - GitHub trending tag `agentic`, `spec-driven`, `agents-md`
 - **Cursor**: https://www.cursor.com/blog
 - **Vercel AI**: https://vercel.com/blog (AI SDK, v0)
 - **LangChain**: https://blog.langchain.com/
@@ -333,13 +341,13 @@ Chọn tin theo tiêu chí: **tin này có khiến dev phải thay đổi cách 
 
 **High impact — chắc chắn chọn:**
 
-- **AI-specific**:
+- **AI-specific** (ưu tiên TOP cho 2 nhóm đầu):
+  - **Agentic Engineering**: agent framework major release (LangGraph, CrewAI, Mastra, Pydantic AI…), agent patterns mới có code implementation, agent benchmark breakthrough (SWE-bench, OSWorld, GAIA, τ-bench), production agent post-mortem / case study
+  - **Spec-Driven Development với AI**: bài viết / release của Spec-kit, OpenSpec, Kiro, AGENTS.md spec, plan-then-code workflows, spec-first agent patterns
   - Claude/GPT/Gemini model release mới với capability đáng kể
   - Claude Code / Cursor / Cline / Aider feature mới đáng áp dụng
   - MCP server/spec changes, new MCP servers phổ biến
-  - Agent framework major release (LangGraph, CrewAI, Mastra...)
   - Breaking API change (pricing, rate limit, deprecation)
-  - Agent benchmark breakthrough (SWE-bench, OSWorld...)
 - **General tech**:
   - Breaking API change (deprecation, removal, migration required)
   - Major version release với new paradigm
@@ -472,9 +480,9 @@ Các bước:
 
    Sinh 1 dòng:
    ```html
-   <li><a href="file:///Users/cuongnh0609/git/daily-news-digest/news/{FILENAME}">{LABEL}</a></li>
+   <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/{FILENAME}">{LABEL}</a></li>
    ```
-   Dùng absolute `file:///` URL vì user mở qua bookmark local; cùng URL hoạt động cho cả `latest-news.html` ở root lẫn file trong `news/`.
+   Dùng GitHub Pages URL để link mở thẳng trên trình duyệt qua HTTPS, đồng nhất với link trong email; hoạt động cho cả `latest-news.html` ở root lẫn các file digest trong thư mục `news/`.
 
 3. Replace `{{PREV_DIGESTS_NAV}}` trong file digest mới sinh bằng chuỗi gồm các `<li>` đó (nối bằng newline).
 
@@ -555,7 +563,7 @@ EMAIL_BODY
 - ✅ Bảng từ vựng (A, B) / thuật ngữ (C) có đủ cột quy định
 - ✅ Cột **漢越** ở bảng từ vựng A/B điền âm Hán-Việt thực sự cho mọi từ có kanji (KHÔNG để trống, KHÔNG ghi `—`, KHÔNG ghi nghĩa tiếng Việt). Chỉ `—` khi từ là katakana thuần.
 - ✅ `latest-news.html` ở repo root được copy/overwrite từ file `news/{RUN_DATE}_{RUN_HOUR}{RUN_MINUTE}.html` mới sinh
-- ✅ Nav "Bản tin trước đó" (Bước 3.x) chứa tối đa 10 link `file:///` đến các digest cũ, không có placeholder `{{PREV_DIGESTS_NAV}}` nào còn sót
+- ✅ Nav "Bản tin trước đó" (Bước 3.x) chứa tối đa 10 link `https://cuongnh0609.github.io/daily-news-digest/news/...` đến các digest cũ, không có placeholder `{{PREV_DIGESTS_NAV}}` nào còn sót và không còn URL `file:///`
 - ✅ Header HTML hiển thị đúng `RUN_TIME_DISPLAY` (giờ:phút thực tế khi job bắt đầu, KHÔNG làm tròn về `:00`)
 - ✅ Commit + push thành công lên `main` (không tạo branch)
 - ✅ Email gửi thành công, body chứa link GitHub Pages (không đính kèm file)

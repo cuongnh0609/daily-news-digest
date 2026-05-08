@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-09T00:00:00+09:00",
+  "last_run_at": "2026-05-09T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-09T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579337",
+        "https://news.yahoo.co.jp/pickup/6579320",
+        "https://news.yahoo.co.jp/pickup/6579336",
+        "https://news.yahoo.co.jp/pickup/6579332",
+        "https://www.jiji.com/jc/article?k=2026050800919&g=int&m=rss",
+        "https://zenn.dev/microsoft/articles/b081f3ddb93040",
+        "https://zenn.dev/masayan1126/books/claude-code-subagents-master",
+        "https://www.itmedia.co.jp/news/articles/2605/08/news113.html",
+        "https://www.anthropic.com/news/finance-agents",
+        "https://github.blog/changelog/2026-05-08-more-flexible-secrets-and-variables-for-copilot-cloud-agent",
+        "https://mojolang.org/"
+      ],
+      "titles": [
+        "米軍、オマーン湾でイラン石油タンカー2隻を攻撃——海上封鎖作戦が拡大",
+        "任天堂、Switch 2を含む複数モデルを値上げ——5月25日より最大1万円の引き上げ",
+        "NTTドコモ社長、携帯料金の値上げ検討を表明——「複雑な問題だが考えなければ」",
+        "サイゼリヤ、アフリカ豚熱の影響で生ハムメニューを無期限休止",
+        "ASEAN首脳会議、エネルギー安全保障を最優先に——ホルムズ再開求める共同声明を採択",
+        "AIエージェントのSkillはWazaで評価してAPMで配る——書くだけでは足りない",
+        "Claude Codeサブエージェント完全ガイド——設計4原則から公式プラグイン解読まで",
+        "FitbitアプリがGoogle Healthに刷新——Gemini搭載Health CoachとFitbit Air登場",
+        "Anthropic Releases 10 Production-Ready Financial Services Agent Templates — Claude Opus 4.7 Leads Finance Benchmark at 64.37%",
+        "GitHub Copilot Cloud Agent Gets Org-Level Secrets and Variables — Enterprise MCP Config Distribution Now Possible at Scale",
+        "Mojo 1.0 Beta: Systems Programming Language for AI Infrastructure Hits First Stable Milestone"
+      ]
+    },
     {
       "run_at": "2026-05-09T00:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "Unsloth + NVIDIA Collaboration Achieves 25% Additional LLM Fine-Tuning Speedup via Three Kernel-Level Optimizations",
         "CVE-2026-31431: Cloudflare Mitigates Critical Linux Kernel \"Copy Fail\" Vulnerability Using eBPF — No Signature Updates Needed",
         "Val Town Migrates from Supabase + Clerk to Better Auth — A Post-Mortem on Three Auth Platforms in 18 Months"
-      ]
-    },
-    {
-      "run_at": "2026-05-07T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579178",
-        "https://news.yahoo.co.jp/pickup/6579166",
-        "https://news.yahoo.co.jp/pickup/6579181",
-        "https://news.yahoo.co.jp/pickup/6579186",
-        "https://news.yahoo.co.jp/pickup/6579188",
-        "https://zenn.dev/ino_h/articles/2026-05-07-claude-code-gate-mechanisms",
-        "https://zenn.dev/omeroid/articles/fb40dd4136bc78",
-        "https://zenn.dev/shotaonishi/articles/2026-05-07-claude-code-slash-skill-hook",
-        "https://arxiv.org/abs/2605.03546",
-        "https://sqlite.org/locrsf.html",
-        "https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex"
-      ],
-      "titles": [
-        "再審制度の見直しを巡る自民党協議、検察の不服申立て権限で議論が紛糾し結論を先送り",
-        "ハンタウイルス集団感染疑いのクルーズ船、スペインが受け入れへ——カナリア諸島住民は強く反発",
-        "磐越道バス事故で高校生1人死亡——遺族がコメント発表、運転手に逮捕状請求",
-        "山梨・西沢渓谷で女性が滝に転落し死亡——飼い犬を助けようとしての事故",
-        "上皇后陛下がお疲れの様子——上皇ご夫妻の夏場所観戦が取り止めに",
-        "Claude Codeの三層ゲート設計——PocketOS事件から学ぶ、AIエージェントに本番DBを消させない構造的防衛",
-        "codebase-memory-mcp — Grep/Glob/ReadをGraph DBに置き換えてClaude Codeのトークン消費を99.2%削減",
-        "Claude Codeの指示追従性を高める3つの仕組み——スラッシュコマンド・スキル・フックの使い分け",
-        "ProgramBench: Can Language Models Rebuild Complex Programs From Scratch? Best Models Pass Only 3% of Tasks",
-        "SQLite Officially Recognized as Library of Congress Recommended Storage Format",
-        "GitHub Deprecates GPT-5.2 and GPT-5.2-Codex from All Copilot Experiences — Migrate to GPT-5.5 by June 1"
-      ]
-    },
-    {
-      "run_at": "2026-05-07T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579116",
-        "https://news.yahoo.co.jp/pickup/6579116",
-        "https://news.yahoo.co.jp/pickup/6579096",
-        "https://www.itmedia.co.jp/news/articles/2605/08/news012.html",
-        "https://www.itmedia.co.jp/news/articles/2605/07/news054.html",
-        "https://www.itmedia.co.jp/news/articles/2605/07/news048.html",
-        "https://zenn.dev/frontline/articles/qa-techniques-in-ai-driven-dev",
-        "https://zenn.dev/dukushi/articles/codex-app-vs-cli-comparison",
-        "https://www.cursor.com/blog/bootstrapping-composer-with-autoinstall",
-        "https://github.blog/changelog/2026-05-06-enterprise-managed-plugins-in-github-copilot-cli-are-now-in-public-preview",
-        "https://tilde.run/"
-      ],
-      "titles": [
-        "日経平均、史上初めて6万3000円台を突破——円安と米経済の回復期待が株高を後押し",
-        "米財務長官、5月11日から訪日で調整——関税交渉の本格化が焦点に",
-        "東京・日本橋でひき逃げか——歩行者1名が死亡、警視庁が車両の行方を追う",
-        "変形ロボット「SR-01」が公開——人型から車両へ50秒で変形、SusHi Tech Tokyoで話題に",
-        "Google検索AI、RedditやDPReviewから「話題の声」を収集——多様な視点を回答に反映へ",
-        "AnthropicがSpaceXのColossus 1データセンターを活用——22万GPU確保、Claude Codeレート上限も2倍に",
-        "AI駆動開発時代のQA戦略——実装速度が上がるほど重要度が増すテスト設計の考え方",
-        "CodexアプリとCLIを使い比べてわかった差異——可視性と操作感でCLIに軍配",
-        "Cursor Bootstraps Composer 2 Training Using Previous Model — Autoinstall Achieves 61.7% on Terminal-Bench",
-        "GitHub Copilot CLI Gets Enterprise-Managed Plugins — Admins Can Now Push MCP Configs Organization-Wide",
-        "Tilde.run: Transactional Versioned Filesystem for AI Agent Sandboxes — Built by Team Behind lakeFS"
-      ]
-    },
-    {
-      "run_at": "2026-05-07T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579116",
-        "https://news.yahoo.co.jp/pickup/6579104",
-        "https://news.yahoo.co.jp/pickup/6579096",
-        "https://news.yahoo.co.jp/pickup/6579114",
-        "https://news.yahoo.co.jp/pickup/6579108",
-        "https://www.itmedia.co.jp/news/articles/2605/07/news049.html",
-        "https://www.itmedia.co.jp/enterprise/articles/2605/07/news024.html",
-        "https://www.publickey1.jp/blog/26/awsuae2.html",
-        "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-        "https://github.blog/changelog/2026-05-06-github-copilot-in-visual-studio-code-april-releases",
-        "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/"
-      ],
-      "titles": [
-        "日経平均、初の6万2000円台を突破——円安と米景気回復期待が押し上げ",
-        "ロシア、各国大使館にキーウ退避を警告——攻撃示唆で欧米が強く非難",
-        "磐越道バス事故、無免許の知人が運転——旅行会社社長が依頼、責任の所在が焦点に",
-        "米国内の夕食会で銃撃事件——容疑者、対イラン戦争への抗議が動機と供述",
-        "タイのコウモリからコロナウイルス近縁種を発見——ヒト感染の可能性を専門家が調査",
-        "xAIがSpaceXのAI部門「SpaceXAI」に統合——マスク氏が発表、Anthropicとのデータセンター契約も連動",
-        "「AIがビジネスモデルを破壊する」——ガートナー調査で約3割のCEOが収益への脅威を認識",
-        "AWS中東（UAE）リージョン、紛争被害から「復旧に数カ月」——2カ月ぶりに現状報告",
-        "Vibe Coding and Agentic Engineering Are Converging — And That's a Problem Worth Thinking About",
-        "GitHub Copilot in VS Code: April 2026 — Semantic Search, /chronicle History, BYOK for Enterprise, and Remote Agent Steering",
-        "Google Cloud Fraud Defense: The Next Evolution of reCAPTCHA — Real-Time Risk Scoring Replaces Bot Challenges"
-      ]
-    },
-    {
-      "run_at": "2026-05-07T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579091",
-        "https://news.yahoo.co.jp/pickup/6579064",
-        "https://news.yahoo.co.jp/pickup/6579043",
-        "https://news.yahoo.co.jp/pickup/6579018",
-        "https://news.yahoo.co.jp/pickup/6579038",
-        "https://zenn.dev/zhizhiarv/articles/claude-code-webfetch-haiku-summary",
-        "https://zenn.dev/k9i/articles/20260504_cc_to_codex",
-        "https://www.itmedia.co.jp/news/articles/2605/05/news023.html",
-        "https://www.anthropic.com/news/higher-limits-spacex",
-        "https://simonwillison.net/2026/May/6/code-w-claude-2026/",
-        "https://www.thetypicalset.com/blog/thoughts-on-coding-agents"
-      ],
-      "titles": [
-        "連休明けの「五月病」に注意——精神科医が指摘する8つのサイン",
-        "選挙運動妨害への法整備——日本維新の会が公職選挙法改正を検討",
-        "日中関係、対話なき膠着——閣僚級協議の見通し立たず",
-        "高市首相、就任半年で「面会ゼロ」の省庁が複数——法務省・復興庁が取り残される",
-        "7日は全国で夏日続出——30℃に迫る地点も、熱中症に警戒",
-        "あなたのClaude Code WebFetchは実はWebを正確に読んでいない——Haiku要約の内部構造を解剖",
-        "Claude CodeユーザーのためのCodex入門——モデル・料金・設定ファイルの違いを徹底比較",
-        "AnthropicとBlackstoneら、エンタープライズAI新会社を設立——中小企業へのClaude導入を1,500億円規模で加速",
-        "Anthropic Doubles Claude Code Rate Limits and Secures SpaceX Colossus Compute",
-        "Code w/ Claude 2026: Managed Agents, \"Dreaming\" Feature, and 17× API Growth",
-        "The Bottleneck Was Never the Code — What Changes When Coding Agents Remove Implementation Friction"
       ]
     }
   ]

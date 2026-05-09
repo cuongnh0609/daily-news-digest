@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-10T00:00:00+09:00",
+  "last_run_at": "2026-05-10T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-10T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579433",
+        "https://news.yahoo.co.jp/pickup/6579446",
+        "https://news.yahoo.co.jp/pickup/6579437",
+        "https://news.yahoo.co.jp/pickup/6579439",
+        "https://news.yahoo.co.jp/pickup/6579447",
+        "https://zenn.dev/dotdtech_blog/articles/92348ee48cc692",
+        "https://zenn.dev/kanseilink/articles/linksee-memory-claude-code-recall-20260508",
+        "https://zenn.dev/aircloset/articles/341dffee42f454",
+        "https://www.anthropic.com/news/higher-limits-spacex",
+        "https://www.publickey1.jp/blog/26/awsuae2.html",
+        "https://github.blog/changelog/2026-05-07-claude-sonnet-4-deprecated"
+      ],
+      "titles": [
+        "中国、高市首相の「自由で開かれたインド太平洋」演説に反発——「対立をあおる」と批判",
+        "訪日客の72地点が7都道府県に集中——オーバーツーリズム対策に新たな課題",
+        "中東情勢が波及——医薬品容器の不足で薬局が悲鳴、塗り薬の供給に支障",
+        "琵琶湖で同日3件の遺体発見——滋賀県警が詳しい状況を捜査",
+        "中京大水泳部、未成年部員7人が飲酒——暴力事案も発覚、全部員の活動停止",
+        "Claude Codeを"使いこなす"個人ルール設定——CLAUDE.mdとsettings.jsonの実践的カスタマイズ",
+        "Claude Codeのセッション記憶喪失を解決——Linksee MemoryがSQLiteに6層構造の永続記憶を実現",
+        "Agentic Graph RAG MCPのススメ——「単発クエリ」から「多段対話探索」へのパラダイムシフト",
+        "Anthropic Doubles Claude Code Rate Limits and Secures 220,000-GPU SpaceX Colossus Data Center",
+        "AWS UAE Region Recovery Will Take \"Several Months\" — Drone Strike Left Two of Three AZs Offline",
+        "GitHub Copilot Deprecates Claude Sonnet 4 and GPT-4.1 — Model Cleanup Signals Faster Refresh Cadence"
+      ]
+    },
     {
       "run_at": "2026-05-10T00:00:00+09:00",
       "urls": [

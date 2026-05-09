@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-09T05:00:00+09:00",
+  "last_run_at": "2026-05-09T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-09T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/c?g=int",
+        "https://news.yahoo.co.jp/pickup/6579345",
+        "https://www.jiji.com/jc/c?g=eco",
+        "https://www.jiji.com/jc/c?g=pol",
+        "https://news.yahoo.co.jp/pickup/6579355",
+        "https://zenn.dev/dely_jp/articles/5bc3e9cf62d776",
+        "https://zenn.dev/tacos/articles/57420c50c2794e",
+        "https://zenn.dev/tellernovel_inc/articles/fe4f4964b4f9e3",
+        "https://www.anthropic.com/research/teaching-claude-why",
+        "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+        "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
+      ],
+      "titles": [
+        "ロシアとウクライナ、米国仲介で3日間の停戦合意——捕虜約1,000人を相互交換",
+        "ソニーセミコンとTSMCが戦略的提携——フィジカルAI向け次世代イメージセンサーのJV設立を検討",
+        "トヨタ自動車、今期営業利益22%減を予測——米国関税と円高が二重の逆風に",
+        "高市首相、今月中旬にも訪韓へ——日韓関係の新たな枠組み構築に向けて李大統領と会談調整",
+        "村上宗隆、MLB今季15号本塁打——ジャッジと並びホームラン王争いに浮上",
+        "Claude Codeの失敗をチームルールに昇格させる仕組み——FAILURES.mdとレトロスペクティブで閉ループを作る",
+        "AI時代だからこそTDDを学んだ話——Kent Beckの原点から「テストが設計を語る」を再発見",
+        "Expo SDK 56ベータが示す「ネイティブ志向」——SwiftUI/Jetpack Compose直接連携とiOS速度40%改善",
+        "Teaching Claude Why: Anthropic's Breakthrough in Agentic Alignment via Reasoning-First Training",
+        "Vibe Coding and Agentic Engineering Are Getting Closer Than I'd Like — Simon Willison on the Ethical Blur",
+        "AI Is Breaking Two Vulnerability Cultures — How ML-Assisted Code Analysis Is Forcing Disclosure Reform"
+      ]
+    },
     {
       "run_at": "2026-05-09T05:00:00+09:00",
       "urls": [

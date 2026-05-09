@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-09T15:00:00+09:00",
+  "last_run_at": "2026-05-09T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-09T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579421",
+        "https://news.yahoo.co.jp/pickup/6579425",
+        "https://www.jiji.com/jc/c?g=int",
+        "https://www.jiji.com/jc/c?g=int",
+        "https://www.jiji.com/jc/c?g=int",
+        "https://zenn.dev/0h_n0/articles/d732816f6a3d7a",
+        "https://zenn.dev/kiwiiosaru2024/articles/agentic-quality-gate-karpathy",
+        "https://zenn.dev/motowo/articles/anthropic-multi-agent-coordination-patterns-guide",
+        "https://cursor.com/blog/typescript-sdk",
+        "https://www.langchain.com/blog/agent-observability-needs-feedback-to-power-learning",
+        "https://www.latent.space/p/ainews-anthropic-growing-10xyear"
+      ],
+      "titles": [
+        "災害時のペット同行避難、環境省が指針改定へ――自治体の連携体制を明文化",
+        "米デンバー空港で離陸中の旅客機が歩行者と衝突――フロンティア航空機が緊急中断",
+        "モスクワ赤の広場で対独戦勝81周年軍事パレード――プーチン氏が結束訴え、北朝鮮兵も行進",
+        "英地方選で与党労働党が大敗――新興右派「リフォームUK」が急伸、多党化が加速",
+        "クアッド外相会合、今月下旬にニューデリーで開催へ――重要鉱物・新興技術で対中協調",
+        "AIエージェントのツール設計9原則――「Agent-Computer Interface」を人間中心設計の視点で構築する",
+        "Agentic Quality Gate――Claude Codeフック・MCP・Skills でSI品質管理を自己進化させる",
+        "Anthropicの5パターンでClaude Codeエージェント設計を分類する――トークン消費10倍の罠と回避策",
+        "Cursor Launches TypeScript SDK: Build Programmatic Agents on the Same Runtime That Powers Cursor",
+        "LangChain: Agent Observability Needs Feedback Loops — Traces Alone Don't Enable Learning",
+        "Anthropic's Valuation Hits $1–1.2 Trillion as ARR Grows 80x — While Competitors Cut 14–40% of Workforce"
+      ]
+    },
     {
       "run_at": "2026-05-09T15:00:00+09:00",
       "urls": [

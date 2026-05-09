@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-09T20:00:00+09:00",
+  "last_run_at": "2026-05-10T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-10T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/bd0a4075",
+        "https://www.nikkei.com/article/DGXZQOUC289P60Y6A420C2000000/",
+        "https://www.nikkei.com/article/DGXZQOUD0918C0Z00C26A5000000/",
+        "https://www.jiji.com/jc/article?k=2026050900300&g=int",
+        "https://www.jiji.com/jc/article?k=2026050900323&g=int",
+        "https://zenn.dev/aerign/articles/916513f6e96e7e",
+        "https://zenn.dev/naoyoshinori/books/6856a81987ccb0",
+        "https://zenn.dev/kinzal/articles/6e789454354cfc",
+        "https://www.anthropic.com/engineering/april-23-postmortem",
+        "https://addyosmani.com/blog/agentic-engineering/",
+        "https://arxiv.org/abs/2604.15597"
+      ],
+      "titles": [
+        "作家・鈴木光司さん死去、享年68歳——「リング」「らせん」でJホラーを世界へ",
+        "ソニーG、過去最高の純利益を記録——PS5販売戦略「台数より利益」が奏功",
+        "ハンタウイルス感染者6人に——「ヒトからヒト」感染の可能性、クルーズ船クラスター拡大",
+        "ハンガリーに新首相マジャル氏——親EU路線へ転換、オルバン長期政権に終止符",
+        "米雇用統計が予想上回る堅調——原油高で物価圧力、FRBの利下げ一段と遠のく",
+        "マルチエージェント設計の7原則——Factoryが16日間無人稼働を実現した方法論",
+        "LLMエージェントはなぜ壊れるのか——根本原因は「推論力不足」ではなく「状態管理の欠如」",
+        "AIエージェントに不確実性を探索させる——明確なゴールなき開発タスクへの3つのアプローチ",
+        "Anthropic's Claude Code Quality Postmortem: Three Separate Bugs Silently Degraded Intelligence for Six Weeks",
+        "Agentic Engineering: Addy Osmani Defines the Discipline That Separates Senior AI-Assisted Devs From Vibe Coders",
+        "LLMs Corrupt 25% of Document Content in Long Agentic Workflows — DELEGATE-52 Benchmark Across 52 Fields"
+      ]
+    },
     {
       "run_at": "2026-05-09T20:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "LangChain Deep Agents: Building Production-Grade Multi-Step Company Due Diligence Agents",
         "OpenAI Releases GPT-Realtime-2, Translate, and Whisper — New SOTA Realtime Voice APIs with 128K Context",
         "Mozilla Proposes WAICT: Cryptographic Code Integrity for the Open Web Against Malicious Server Injection"
-      ]
-    },
-    {
-      "run_at": "2026-05-08T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026050800254&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6579270",
-        "https://www.jiji.com/jc/article?k=2026050800568&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026050800261&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6579265",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/08/news068.html",
-        "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/08/news073.html",
-        "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
-        "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-        "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
-      ],
-      "titles": [
-        "米イラン、ホルムズ海峡で軍事衝突——トランプ「停戦は維持」と発言",
-        "政府・日銀、連休中に複数回の為替介入を実施——円安抑制へ協調行動",
-        "高市首相、中傷動画の作成・拡散を全面否定——参院委員会で答弁",
-        "米貿易裁判所、代替10%関税を「権限逸脱」と判断——差し止め命令を発令",
-        "学童保育の低賃金問題が深刻——手取り13万円、保護者対応も負担に",
-        "Claude Mythosが271件のFirefoxセキュリティバグを発見——Mozillaが成果を公開、月の修正数が423件に急増",
-        "AIエージェントが生成したPRのレビュー術——CIゲーミングや重複コードを見抜く10分チェックリスト",
-        "Coinbase、AI活用で全従業員の14%を削減——業務自動化が本格的なリストラの波を引き起こす",
-        "GitHub Cuts Token Usage 19–62% Across Agentic Workflows — By Removing Unused Tools and Pre-Staging Data",
-        "Dirtyfrag: Deterministic Linux Local Privilege Escalation Affects All Major Distributions — No Race Condition Required",
-        "AI Slop Is Killing Online Communities — Why Indiscriminate AI-Generated Content Degrades Collective Knowledge"
-      ]
-    },
-    {
-      "run_at": "2026-05-08T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579226",
-        "https://news.yahoo.co.jp/pickup/6579219",
-        "https://news.yahoo.co.jp/pickup/6579227",
-        "https://news.yahoo.co.jp/pickup/6579222",
-        "https://news.yahoo.co.jp/pickup/6579223",
-        "https://zenn.dev/lv/articles/9438e1678c873a",
-        "https://zenn.dev/aircloset/articles/341dffee42f454",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/08/news057.html",
-        "https://www.anthropic.com/research/natural-language-autoencoders",
-        "https://github.blog/changelog/2026-05-07-upcoming-deprecation-of-gpt-4-1",
-        "https://bsuh.bearblog.dev/agents-need-control-flow/"
-      ],
-      "titles": [
-        "美浜原発3号機でタービン建屋から蒸気漏れ——原子炉を手動停止、放射性物質の漏洩なし",
-        "コロナ5類移行から3年——政府が教訓をまとめ、情報発信と誤情報対策を強化へ",
-        "国民民主党、原油高騰対策で「5万円給付」を提言へ——党内協議で大筋合意",
-        "東京・日本橋のひき逃げ死亡事件——ドライブレコーダーが決め手、容疑者を逮捕",
-        "宮城の特別支援学校、保護者の同意なく生徒の顔写真入り名簿を第三者に提供——個人情報保護法違反の疑い",
-        "AIのPlan Modeをなんとなく承認しないために——受け入れ条件とPlanを分けて設計する",
-        "Agentic Graph RAG MCPのススメ——「検索は決定的、判断はAI」で991テーブルのDBをエージェントに渡す",
-        "OpenAI、Realtime API向け次世代音声3モデルを発表——GPT-Realtime-2がBig Bench Audioで96.6%達成",
-        "Anthropic Introduces Natural Language Autoencoders — Turning Claude's Hidden Thoughts Into Readable Text",
-        "GitHub Deprecates GPT-4.1 and Claude Sonnet 4 from Copilot — Migrate to GPT-5.5 and Claude Sonnet 4.6 by June 1",
-        "Agents Need Control Flow, Not More Prompts — Why Deterministic Scaffolds Are the Next Reliability Frontier"
-      ]
-    },
-    {
-      "run_at": "2026-05-08T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026050800100&g=eco",
-        "https://www.jiji.com/jc/article?k=2026050800120&g=pol",
-        "https://www.jiji.com/jc/article?k=2026050800080&g=spo",
-        "https://www.jiji.com/jc/article?k=2026050800050&g=pol",
-        "https://news.yahoo.co.jp/articles/gasoline-subsidy-march-2026",
-        "https://simonwillison.net/2026/May/7/",
-        "https://zenn.dev/frontline/articles/qa-techniques-in-ai-driven-dev",
-        "https://www.publickey1.jp/blog/26/googleaiagent_studioaigemini_enterprise_agent_platform.html",
-        "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
-        "https://github.blog/changelog/feed/",
-        "https://simonwillison.net/2026/May/7/llm-032a0/"
-      ],
-      "titles": [
-        "円相場が156円台に強化——連休中に推定4〜5兆円規模の為替介入か",
-        "日本・サウジアラビア、エネルギー安全保障で新たな協力枠組みを構築",
-        "男子卓球団体、世界選手権でドイツ下してメダル確定——57年ぶりの金へあと1勝",
-        "中国軍艦が尖閣諸島近海に一時領海侵入——政府が厳重抗議",
-        "ガソリン補助金、3月単月で1800億円——経産省が補助延長方針を検討",
-        "Mozilla、Claude Mythosで423件のFirefoxセキュリティバグを1か月で修正——通常の10〜20倍の速度",
-        "AIエージェントのQA技法——高速実装時代に求められるテスト設計の考え方",
-        "Google、AIエージェントをローコードで構築できる「Agent Studio」発表——MCP対応でClaude Codeとの連携も",
-        "AlphaEvolve: Google DeepMind's Gemini-Powered Coding Agent Achieves Breakthrough Algorithm Discovery",
-        "GitHub Copilot CLI's Rubber Duck Now Supports Multiple AI Models — Cross-Model Critic Agents Enabled",
-        "LLM 0.32a0: Simon Willison Refactors Core Python Library Abstractions for Messages-Based Prompts and Typed Streaming"
-      ]
-    },
-    {
-      "run_at": "2026-05-08T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/articles/5a7d4aefdc65ab071045a7251d5e50ff40cfcc54",
-        "https://news.yahoo.co.jp/articles/682cbe1d1618f82432350c23e2d77b21b1478840",
-        "https://news.yahoo.co.jp/articles/d5dcd008605465909df1ca5e37fd3091f55d9aaa",
-        "https://news.yahoo.co.jp/articles/052538dd4222350e6097a6c0f64b4d27ddd4badb",
-        "https://news.yahoo.co.jp/articles/1fbf2bda15c7e85640ad713bab732ea3d41911e9",
-        "https://www.itmedia.co.jp/news/articles/2605/06/news023.html",
-        "https://zenn.dev/okazu_dm/articles/83957f1623ec4d",
-        "https://www.itmedia.co.jp/news/articles/2605/07/news110.html",
-        "https://unsloth.ai/blog/nvidia-collab",
-        "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
-        "https://blog.val.town/better-auth"
-      ],
-      "titles": [
-        "東北新幹線で異臭発生——約350人が後続列車に乗り換え、2人が体調不良を訴える",
-        "ハンタウイルス感染者5人をWHOが確認——接触者の女性にも症状、クルーズ船クラスターが拡大",
-        "日韓、初の次官級「2プラス2」安保対話を開催——北朝鮮の核脅威と中東情勢を協議",
-        "関東以西で夏日が続く——30℃に迫る地点も、熱中症対策の徹底を",
-        "磐越道バス事故——学校側がバス会社の説明を全面否定、責任の所在を巡る攻防が激化",
-        "Anthropic、金融サービス向けAIエージェントテンプレート10種を公開——JPモルガン・ゴールドマンらが採用",
-        "「Claude Codeに全部やらせる時代」を検証——OWASP Juice Shopで測ったセキュリティスキャン能力の実態",
-        "MUFGとGoogle Cloud、AIエージェントで金融サービスを変革——「Aggentic Commerce」で購買から決済まで一気通貫",
-        "Unsloth + NVIDIA Collaboration Achieves 25% Additional LLM Fine-Tuning Speedup via Three Kernel-Level Optimizations",
-        "CVE-2026-31431: Cloudflare Mitigates Critical Linux Kernel \"Copy Fail\" Vulnerability Using eBPF — No Signature Updates Needed",
-        "Val Town Migrates from Supabase + Clerk to Better Auth — A Post-Mortem on Three Auth Platforms in 18 Months"
       ]
     }
   ]

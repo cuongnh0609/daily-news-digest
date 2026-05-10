@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-10T20:00:00+09:00",
+  "last_run_at": "2026-05-11T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-11T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579563",
+        "https://news.yahoo.co.jp/pickup/6579546",
+        "https://news.yahoo.co.jp/pickup/6579558",
+        "https://news.yahoo.co.jp/pickup/6579566",
+        "https://news.yahoo.co.jp/pickup/6579536",
+        "https://zenn.dev/kanaria007/articles/c74aae44ba99fb",
+        "https://zenn.dev/ykenkou001/articles/mcp-first-regulatory-saas",
+        "https://dev.classmethod.jp/articles/20260506-agent-toolkit-for-aws/",
+        "https://www.anthropic.com/news/finance-agents",
+        "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+        "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html"
+      ],
+      "titles": [
+        "イランが米国への回答をパキスタン経由で送付——核交渉に進展の可能性",
+        "ホルムズ海峡で韓国船籍に不明飛行体が衝突・爆発——中東の緊張が海上輸送を直撃",
+        "磐越道バス事故、現場に33,000円入り封筒——運転手謝礼か、学校側が会見",
+        "東北道でクマが高速車道に出没、複数台が相次いで衝突——野生動物と交通安全に課題",
+        "高齢者シェアハウスが静かなブームに——2040年には単身高齢者が1,040万人超へ",
+        "LLMアプリを本番業務に入れるための9設計パターン——AIワークフロー設計シリーズ",
+        "MCPファーストで規制対応SaaSを設計する3原則——LLMから呼ばれるアプリの新設計論",
+        "AWS公式がAIエージェント向け「Agent Toolkit for AWS」を公開——MCP Server・Skills・Pluginの3層構造",
+        "Anthropic Launches 10 Ready-to-Run Financial Agent Templates — Claude Opus 4.7 Scores 64% on Finance Benchmark",
+        "Google Gemini API File Search Goes Multimodal — Custom Metadata Filtering and Page-Level Citations Now Available",
+        "Debian Now Blocks Packages Failing Reproducibility Checks — Reproducible Builds Becomes a Migration Requirement"
+      ]
+    },
     {
       "run_at": "2026-05-10T20:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Cursor Launches TypeScript SDK: Build Programmatic Agents on the Same Runtime That Powers Cursor",
         "LangChain: Agent Observability Needs Feedback Loops — Traces Alone Don't Enable Learning",
         "Anthropic's Valuation Hits $1–1.2 Trillion as ARR Grows 80x — While Competitors Cut 14–40% of Workforce"
-      ]
-    },
-    {
-      "run_at": "2026-05-09T15:00:00+09:00",
-      "urls": [
-        "https://news.web.nhk/newsweb/na/na-k10015117091000",
-        "https://news.web.nhk/newsweb/na/na-k10015117231000",
-        "https://www.jiji.com/jc/article?k=2026050900225&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026050800706&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6579392",
-        "https://www.publickey1.jp/blog/26/aigoogle_agent_studioamazon_s3aifoundry_local20264.html",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/08/news066.html",
-        "https://www.itmedia.co.jp/news/articles/2605/08/news100.html",
-        "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-        "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything",
-        "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/"
-      ],
-      "titles": [
-        "磐越道バス事故、運転手は事故前の数か月で複数回の事故歴——捜査で明らかに",
-        "トランプ政権、10%関税の「違法」判断を不服として控訴——貿易政策をめぐる法廷闘争へ",
-        "米政府がUFO関連文書・映像約160点を初公開——国防総省が保有する未確認航空現象の記録",
-        "アラスカのフィヨルドで高さ481メートルの大津波が発生——斜面崩壊で史上2位の遡上高を記録",
-        "検察官による取調べ映像、国が地裁に提出——証拠開示をめぐる法廷で異例の展開",
-        "TypeScript 7.0ベータ版公開——コンパイラをGo言語に移植し、処理速度が最大10倍に",
-        "ChatGPTが広告表示テストを日本でも開始へ——無料・Goプラン成人ユーザーが対象",
-        "AppleがSiri AI集団訴訟で2億5000万ドルの和解——Apple Intelligenceの開発遅延が招いた法的責任",
-        "AWS us-east-1 Major Outage: Power Loss Downs North Virginia Data Center for Hours",
-        "Simon Willison: The Unreasonable Effectiveness of HTML — Claude Code as a Creative Partner for Web Apps",
-        "Fields Medalist Tim Gowers Tests ChatGPT 5.5 Pro: Impressive Mathematical Reasoning But Prone to Confident Errors"
-      ]
-    },
-    {
-      "run_at": "2026-05-09T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/c?g=int",
-        "https://news.yahoo.co.jp/pickup/6579345",
-        "https://www.jiji.com/jc/c?g=eco",
-        "https://www.jiji.com/jc/c?g=pol",
-        "https://news.yahoo.co.jp/pickup/6579355",
-        "https://zenn.dev/dely_jp/articles/5bc3e9cf62d776",
-        "https://zenn.dev/tacos/articles/57420c50c2794e",
-        "https://zenn.dev/tellernovel_inc/articles/fe4f4964b4f9e3",
-        "https://www.anthropic.com/research/teaching-claude-why",
-        "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-        "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
-      ],
-      "titles": [
-        "ロシアとウクライナ、米国仲介で3日間の停戦合意——捕虜約1,000人を相互交換",
-        "ソニーセミコンとTSMCが戦略的提携——フィジカルAI向け次世代イメージセンサーのJV設立を検討",
-        "トヨタ自動車、今期営業利益22%減を予測——米国関税と円高が二重の逆風に",
-        "高市首相、今月中旬にも訪韓へ——日韓関係の新たな枠組み構築に向けて李大統領と会談調整",
-        "村上宗隆、MLB今季15号本塁打——ジャッジと並びホームラン王争いに浮上",
-        "Claude Codeの失敗をチームルールに昇格させる仕組み——FAILURES.mdとレトロスペクティブで閉ループを作る",
-        "AI時代だからこそTDDを学んだ話——Kent Beckの原点から「テストが設計を語る」を再発見",
-        "Expo SDK 56ベータが示す「ネイティブ志向」——SwiftUI/Jetpack Compose直接連携とiOS速度40%改善",
-        "Teaching Claude Why: Anthropic's Breakthrough in Agentic Alignment via Reasoning-First Training",
-        "Vibe Coding and Agentic Engineering Are Getting Closer Than I'd Like — Simon Willison on the Ethical Blur",
-        "AI Is Breaking Two Vulnerability Cultures — How ML-Assisted Code Analysis Is Forcing Disclosure Reform"
       ]
     }
   ]

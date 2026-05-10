@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-10T15:00:00+09:00",
+  "last_run_at": "2026-05-10T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-10T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579467",
+        "https://news.yahoo.co.jp/pickup/6579455",
+        "https://news.yahoo.co.jp/pickup/6579458",
+        "https://news.yahoo.co.jp/pickup/6579383",
+        "https://news.yahoo.co.jp/pickup/6579275",
+        "https://zenn.dev/articles/claude-code-parallel-worktree",
+        "https://zenn.dev/j_asa/articles/6ed4f9e640ed26",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/07/news099.html",
+        "https://zenn.dev/aerign/articles/35e44677478bf4",
+        "https://github.blog/changelog/2026-05-08-upcoming-deprecation-of-grok-code-fast-1",
+        "https://www.latent.space/p/lupsasca"
+      ],
+      "titles": [
+        "家庭用ゲーム機の値上げ時代——Switch 2・PS5・Xbox、三大プラットフォームが相次いで価格改定",
+        "政府、AI・半導体など17分野でリスキリング支援へ——省庁横断会議を新設し人材移動を促進",
+        "プーチン氏「侵攻は終結に向かっている」——3日間停戦も両軍が継続、和平交渉の行方は不透明",
+        "デジタル教科書、IT先進国での相次ぐ撤退——北欧・英国が示す「導入後の失敗」の教訓",
+        "ChatGPT内広告、日本でもテスト開始へ——無料ユーザー向けに表示、OpenAIが新収益モデルを模索",
+        "Claude Code を並列で動かす：git worktree でセッションを分離する最小運用設計",
+        "AGENTS.mdで自律型CAE AIエージェントを制御する——Codex + CalculiXで構造解析の自動化を実現",
+        "MUFGとGoogleがAIエージェント連携で提携——A2A・AP2・UCPプロトコルで金融サービスのマルチエージェント化へ",
+        "Context is the New Code: Patrick Debois' CDLC Framework Brings DevOps Discipline to AI Agent Context Management",
+        "GitHub Copilot Deprecates Grok Code Fast 1 and GPT-4.1 — Accelerating Model Refresh Cadence Signals New AI Tooling Era",
+        "Vibe Physics: GPT-5.x Solves Unsolved Graviton Problems in Theoretical Physics — A Qualitative Shift in AI Research Capability"
+      ]
+    },
     {
       "run_at": "2026-05-10T15:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "Teaching Claude Why: Anthropic's Breakthrough in Agentic Alignment via Reasoning-First Training",
         "Vibe Coding and Agentic Engineering Are Getting Closer Than I'd Like — Simon Willison on the Ethical Blur",
         "AI Is Breaking Two Vulnerability Cultures — How ML-Assisted Code Analysis Is Forcing Disclosure Reform"
-      ]
-    },
-    {
-      "run_at": "2026-05-09T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579337",
-        "https://news.yahoo.co.jp/pickup/6579320",
-        "https://news.yahoo.co.jp/pickup/6579336",
-        "https://news.yahoo.co.jp/pickup/6579332",
-        "https://www.jiji.com/jc/article?k=2026050800919&g=int&m=rss",
-        "https://zenn.dev/microsoft/articles/b081f3ddb93040",
-        "https://zenn.dev/masayan1126/books/claude-code-subagents-master",
-        "https://www.itmedia.co.jp/news/articles/2605/08/news113.html",
-        "https://www.anthropic.com/news/finance-agents",
-        "https://github.blog/changelog/2026-05-08-more-flexible-secrets-and-variables-for-copilot-cloud-agent",
-        "https://mojolang.org/"
-      ],
-      "titles": [
-        "米軍、オマーン湾でイラン石油タンカー2隻を攻撃——海上封鎖作戦が拡大",
-        "任天堂、Switch 2を含む複数モデルを値上げ——5月25日より最大1万円の引き上げ",
-        "NTTドコモ社長、携帯料金の値上げ検討を表明——「複雑な問題だが考えなければ」",
-        "サイゼリヤ、アフリカ豚熱の影響で生ハムメニューを無期限休止",
-        "ASEAN首脳会議、エネルギー安全保障を最優先に——ホルムズ再開求める共同声明を採択",
-        "AIエージェントのSkillはWazaで評価してAPMで配る——書くだけでは足りない",
-        "Claude Codeサブエージェント完全ガイド——設計4原則から公式プラグイン解読まで",
-        "FitbitアプリがGoogle Healthに刷新——Gemini搭載Health CoachとFitbit Air登場",
-        "Anthropic Releases 10 Production-Ready Financial Services Agent Templates — Claude Opus 4.7 Leads Finance Benchmark at 64.37%",
-        "GitHub Copilot Cloud Agent Gets Org-Level Secrets and Variables — Enterprise MCP Config Distribution Now Possible at Scale",
-        "Mojo 1.0 Beta: Systems Programming Language for AI Infrastructure Hits First Stable Milestone"
-      ]
-    },
-    {
-      "run_at": "2026-05-09T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579333",
-        "https://news.yahoo.co.jp/pickup/6579323",
-        "https://news.yahoo.co.jp/pickup/6579308",
-        "https://news.yahoo.co.jp/pickup/6579335",
-        "https://news.yahoo.co.jp/pickup/6579284",
-        "https://zenn.dev/thkt/articles/eae521ee3f4016",
-        "https://zenn.dev/kanaria007/articles/1221bb968aee08",
-        "https://zenn.dev/76hata/articles/llm-humaneval-coding-score-tier-2026",
-        "https://www.langchain.com/blog/building-a-company-due-diligence-agent-with-deep-agents-langsmith-and-parallel",
-        "https://github.blog/changelog/2026-05-07-rubber-duck-in-github-copilot-cli-now-supports-more-models",
-        "https://github.blog/changelog/2026-05-07-enterprise-live-migrations-is-now-in-public-preview"
-      ],
-      "titles": [
-        "米とイランが一時交戦状態——互いに「相手が先に仕掛けた」と主張、トランプ大統領は停戦継続を強調",
-        "政府、海外情報活動に「仮装身分」導入を検討——外部情報機関の新設も視野に",
-        "歯科関連倒産が過去20年で最多——コロナ補助金終了で経営難が顕在化",
-        "山形・酒田市の山中で遺体発見——クマによる死亡と断定、現場で駆除",
-        "党首討論、今月中に実施の見通し——高市首相と野党6党首が参加予定",
-        "AIに要約させずにWebの原典を読む「Scout」CLIツール——Claude CodeのWebFetch限界を超える多層防御設計",
-        "AIエージェントを段階的に本番投入する——shadow→support-only→effect-bearingの6段階ロールアウト設計",
-        "13モデル実測比較——HumanEval/HumanEval+で見るLLMコーディング実力ランキング2026年版",
-        "LangChain Deep Agents: Two-Phase Parallel Subagent Orchestration for Production Due Diligence",
-        "GitHub Copilot CLI's Rubber Duck Now Supports Cross-Model Review — Claude Reviews GPT Sessions, GPT-5.5 Reviews Claude",
-        "GitHub Enterprise Live Migrations Now in Public Preview — Move GHES to GHEC with Minimal Downtime"
-      ]
-    },
-    {
-      "run_at": "2026-05-08T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579304",
-        "https://news.yahoo.co.jp/pickup/6579286",
-        "https://news.yahoo.co.jp/pickup/6579289",
-        "https://news.yahoo.co.jp/pickup/6579281",
-        "https://news.yahoo.co.jp/pickup/6579301",
-        "https://zenn.dev/correlate_dev/articles/claude-code-skills-15",
-        "https://zenn.dev/loglass/articles/17e1df6be6aeba",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/08/news053.html",
-        "https://blog.langchain.com/",
-        "https://www.latent.space/p/ainews-gpt-realtime-2-translate-and",
-        "https://hacks.mozilla.org/2026/05/trustworthy-javascript-for-the-open-web/"
-      ],
-      "titles": [
-        "国の借金、過去最大の1343兆円に——財務省が最新データを公表",
-        "政府、5月下旬に訪露団を派遣へ——ウクライナ情勢の打開策を模索",
-        "商船三井、ホルムズ海峡の通航料支払いを拒否——イランの要求に強硬姿勢",
-        "スカイマーク訓練生、オーストラリアの墜落事故で死亡が確認",
-        "東京都内の工事現場でクレーン車倒れ鉄板落下——作業員1人が死亡",
-        "Claude Code Skills実装で踏んだ地雷15選——プラグイン開発者が明かす落とし穴と回避策",
-        "AIに「リポジトリの地図」を渡す——マルチリポ環境をセントラルリポジトリで束ねるアーキテクチャ設計",
-        "EU AI法改正、性的画像の無許可AI生成を全面禁止——暫定合意に至る",
-        "LangChain Deep Agents: Building Production-Grade Multi-Step Company Due Diligence Agents",
-        "OpenAI Releases GPT-Realtime-2, Translate, and Whisper — New SOTA Realtime Voice APIs with 128K Context",
-        "Mozilla Proposes WAICT: Cryptographic Code Integrity for the Open Web Against Malicious Server Injection"
       ]
     }
   ]

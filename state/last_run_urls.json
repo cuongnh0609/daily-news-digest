@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-11T00:00:00+09:00",
+  "last_run_at": "2026-05-11T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-11T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026051000453&g=pol",
+        "https://www.jiji.com/jc/article?k=2026051000112&g=pol",
+        "https://www.jiji.com/jc/list?g=eco",
+        "https://www.jiji.com/jc/article?k=2026050900308&g=soc",
+        "https://www.jiji.com/jc/article?k=2026050900306&g=soc",
+        "https://zenn.dev/robustonian/articles/codex_with_local_llm",
+        "https://zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher",
+        "https://zenn.dev/akfm/articles/better-loading-ux",
+        "https://www.anthropic.com/news/anthropic-nec",
+        "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+        "https://github.blog/changelog/2026-05-08-more-flexible-secrets-and-variables-for-copilot-cloud-agent"
+      ],
+      "titles": [
+        "米財務長官が11日から訪日——高市首相・片山財務相と会談、為替・通商協議へ",
+        "安保３文書改定で中国「脅威」表記の是非——政府・与党内で意見が真っ二つ",
+        "トヨタ、今期純利益22%減を予想——関税・円高リスクで「稼ぐ力」に課題",
+        "六ケ所村・核燃料再処理工場、完成目標まで１年切る——27度目の延期懸念も",
+        "民事訴訟、5月21日から全面デジタル化——提訴から判決まで「ミンツ」で完結",
+        "CodexをローカルLLMで駆動する——LM StudioのResponses API対応でベンチマーク比較が可能に",
+        "育休1年に備えて「勝手に賢くなる」AI情報収集基盤を構築——Claude×自律型キーワード進化で日次PDF化",
+        "ユーザーストレスを低減するローディング体験の4原則——スケルトンUIから多段階表示まで",
+        "Anthropic and NEC Build Japan's Largest AI Engineering Workforce — 30,000 Employees to Use Claude Code",
+        "Vibe Coding and Agentic Engineering Are Getting Closer Than I'd Like — Simon Willison",
+        "GitHub Copilot Cloud Agent Gets Organization-Level Secrets and Variables — Enterprise-Scale Agent Config Now Possible"
+      ]
+    },
     {
       "run_at": "2026-05-11T00:00:00+09:00",
       "urls": [

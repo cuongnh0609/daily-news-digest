@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-10T10:00:00+09:00",
+  "last_run_at": "2026-05-10T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-10T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579503",
+        "https://news.yahoo.co.jp/pickup/6579502",
+        "https://news.yahoo.co.jp/pickup/6579500",
+        "https://news.yahoo.co.jp/pickup/6579498",
+        "https://news.yahoo.co.jp/pickup/6579492",
+        "https://zenn.dev/uehaj/articles/claude-code-fancy-html-hook",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2605/09/news014.html",
+        "https://www.langchain.com/blog/the-agent-development-lifecycle",
+        "https://www.anthropic.com/news/enterprise-ai-services-company",
+        "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+        "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/"
+      ],
+      "titles": [
+        "東京大学、法政大学に2連勝——六大学野球で9年ぶりの勝ち点獲得",
+        "ハンタウイルス感染クルーズ船、スペイン領カナリア諸島に到着——乗客の下船交渉続く",
+        "大谷翔平、3試合連続安打もドジャース完敗——打線全体の課題が浮き彫りに",
+        "米中央軍、ホルムズ海峡でイランの港湾封鎖作戦を継続——原油輸送ルートに緊張高まる",
+        "兵庫県で部活遠征バスが車列に追突——負傷者複数、原因調査中",
+        "Claude Code hookでMarkdownを自動ファンシーHTML化——人間がドキュメントを手書きしない時代へ",
+        "「もうPython一択ではない」——AIで変わるエンジニアの技術選定の常識",
+        "エージェント開発ライフサイクル——LangChainが示す本番運用までの体系的フレームワーク",
+        "Anthropic Launches Enterprise AI Services Company with Blackstone, Goldman Sachs — Targeting 500M+ SMBs Globally",
+        "FreeBSD Local Privilege Escalation via execve() — CVE Affects All Supported Versions, Patch Required",
+        "cPanel Black Week: 3 Critical CVEs Patched After Ransomware Attack Hits 44,000 Servers"
+      ]
+    },
     {
       "run_at": "2026-05-10T10:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-11T20:00:00+09:00",
+  "last_run_at": "2026-05-12T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-12T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579720",
+        "http://www3.nhk.or.jp/news/html/20260511/k10015118601000.html",
+        "http://www3.nhk.or.jp/news/html/20260511/k10015118791000.html",
+        "http://www3.nhk.or.jp/news/html/20260511/k10015118591000.html",
+        "http://www3.nhk.or.jp/news/html/20260510/k10015118051000.html",
+        "https://zenn.dev/tokium_dev/articles/engineer-role-triangle-map",
+        "https://zenn.dev/btiw/articles/4420d8b95d3e09",
+        "https://zenn.dev/linuxmaster/articles/dirty-frag-cve-2026-43284-43500",
+        "https://www.anthropic.com/news/higher-limits-spacex",
+        "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+        "https://grapheneos.social/@GrapheneOS/116550899908879585"
+      ],
+      "titles": [
+        "カルビー、ポテトチップスの袋を白黒2色に変更——中東情勢でインク原料が調達困難に",
+        "磐越道バス事故、「事故前から危ない運転だった」と乗車生徒が証言——捜査が本格化",
+        "JAMSTEC、日本近海の深海調査で新種38種を発見——「しんかい6500」が生物多様性を解明",
+        "赤ちゃん取り違え訴訟——東京都が68年前の被害者への「戸別訪問調査」を拒否",
+        "米・イラン核交渉——イランが停戦条件を提示、トランプ氏は「受け入れられない」と拒否",
+        "コードを書かなくなった我々は何者か——AI時代のエンジニアの役割を「Product / Platform / Evaluate」の3職責で再定義する",
+        "Claude Codeでの個人開発とセキュリティ管理——7リポジトリ構成システムで直面した秘密情報の扱い",
+        "Dirty Frag（CVE-2026-43284/43500）——Copy Failの暫定策が効かない理由と未パッチ期のLinux管理者対応",
+        "Anthropic Raises Usage Limits Across All Plans and Signs Compute Deal with SpaceX for Orbital AI Infrastructure",
+        "Anthropic's Mythos AI Model Finds a Real Vulnerability in curl — Daniel Stenberg's Firsthand Account",
+        "Hardware Attestation as a Monopoly Enabler — GrapheneOS Warns of Structural Lock-in Risk in Secure Enclave Ecosystems"
+      ]
+    },
     {
       "run_at": "2026-05-11T20:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Context is the New Code: Patrick Debois' CDLC Framework Brings DevOps Discipline to AI Agent Context Management",
         "GitHub Copilot Deprecates Grok Code Fast 1 and GPT-4.1 — Accelerating Model Refresh Cadence Signals New AI Tooling Era",
         "Vibe Physics: GPT-5.x Solves Unsolved Graviton Problems in Theoretical Physics — A Qualitative Shift in AI Research Capability"
-      ]
-    },
-    {
-      "run_at": "2026-05-10T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579503",
-        "https://news.yahoo.co.jp/pickup/6579502",
-        "https://news.yahoo.co.jp/pickup/6579500",
-        "https://news.yahoo.co.jp/pickup/6579498",
-        "https://news.yahoo.co.jp/pickup/6579492",
-        "https://zenn.dev/uehaj/articles/claude-code-fancy-html-hook",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2605/09/news014.html",
-        "https://www.langchain.com/blog/the-agent-development-lifecycle",
-        "https://www.anthropic.com/news/enterprise-ai-services-company",
-        "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-        "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/"
-      ],
-      "titles": [
-        "東京大学、法政大学に2連勝——六大学野球で9年ぶりの勝ち点獲得",
-        "ハンタウイルス感染クルーズ船、スペイン領カナリア諸島に到着——乗客の下船交渉続く",
-        "大谷翔平、3試合連続安打もドジャース完敗——打線全体の課題が浮き彫りに",
-        "米中央軍、ホルムズ海峡でイランの港湾封鎖作戦を継続——原油輸送ルートに緊張高まる",
-        "兵庫県で部活遠征バスが車列に追突——負傷者複数、原因調査中",
-        "Claude Code hookでMarkdownを自動ファンシーHTML化——人間がドキュメントを手書きしない時代へ",
-        "「もうPython一択ではない」——AIで変わるエンジニアの技術選定の常識",
-        "エージェント開発ライフサイクル——LangChainが示す本番運用までの体系的フレームワーク",
-        "Anthropic Launches Enterprise AI Services Company with Blackstone, Goldman Sachs — Targeting 500M+ SMBs Globally",
-        "FreeBSD Local Privilege Escalation via execve() — CVE Affects All Supported Versions, Patch Required",
-        "cPanel Black Week: 3 Critical CVEs Patched After Ransomware Attack Hits 44,000 Servers"
-      ]
-    },
-    {
-      "run_at": "2026-05-10T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579471",
-        "https://news.yahoo.co.jp/pickup/6579465",
-        "https://www.jiji.com/jc/article?k=2026050900306&g=soc",
-        "https://news.yahoo.co.jp/pickup/6579450",
-        "https://www.jiji.com/jc/article?k=2026051000170&g=int",
-        "https://zenn.dev/nnakapa/articles/lab-16-rpi4-qcd",
-        "https://zenn.dev/emuni/articles/6eef9f97f564b4",
-        "https://zenn.dev/acntechjp/articles/2e8d38ad383dd3",
-        "https://simonwillison.net/2026/May/7/firefox-claude-mythos/",
-        "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-        "https://www.theregister.com/2026/05/05/bun_rust_port/"
-      ],
-      "titles": [
-        "磐越道バス事故、衝突後も20〜30m走行——北越高校生1人死亡・17人負傷",
-        "WHO、クルーズ船の全乗船者に42日間の健康監視を勧告——ハンタウイルス感染拡大",
-        "民事訴訟、5月21日から全面デジタル化——提訴から判決まで「ミンツ」で完結",
-        "三笘薫が左ハムストリング負傷交代——W杯メンバー発表5日前、代表入りに暗雲",
-        "イスラエル、米承認のもとイラクに極秘軍事拠点を建設——対イラン作戦を支援",
-        "Claude Code vs Codex CLI vs Copilot CLI — 90試行QCD比較でわかる「本当の差」",
-        "AIエージェント時代のDB設計——Tursoの「無制限データベース」がパラダイムを変える",
-        "AI時代こそエンジニアに「師匠」が必要——ペアプロが伝える暗黙知の構造",
-        "Mozilla Hardens Firefox with Claude Mythos — 423 Security Fixes in April 2026 Alone",
-        "Meta's Forced AI Adoption Is Making Employees Miserable — Keystroke Tracking, 8,000 Job Cuts Loom",
-        "Bun's AI-Generated Rust Rewrite Hits 99.8% Test Compatibility — and Challenges Zig's No-AI Policy"
       ]
     }
   ]

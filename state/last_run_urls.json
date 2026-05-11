@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-11T15:00:00+09:00",
+  "last_run_at": "2026-05-11T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-11T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026051100907&g=soc",
+        "https://www.jiji.com/jc/article?k=2026051100906&g=soc",
+        "https://www.jiji.com/jc/article?k=2026051100726&g=soc",
+        "https://www.jiji.com/jc/article?k=2026051100863&g=eco",
+        "https://www.jiji.com/jc/article?k=2026051100880&g=soc",
+        "https://zenn.dev/rimon/articles/38a9a5bf2e114b",
+        "https://zenn.dev/himkt/articles/00c6049542170b",
+        "https://www.itmedia.co.jp/news/articles/2605/11/news114.html",
+        "https://blog.langchain.com/the-agent-development-lifecycle/",
+        "https://huggingface.co/blog/mishig/local-moores-law",
+        "https://www.publickey1.jp/blog/26/typescript_70typescriptgo10.html"
+      ],
+      "titles": [
+        "ATMから1億3500万円を盗んだ警備会社元社員が逮捕——管理者の立場を悪用した内部犯行",
+        "ツキノワグマの出没件数が過去最多の5万7776件——2024年度比の約2.5倍に急増",
+        "南極条約協議国会議が広島で開幕——32年ぶり国内開催、観光客急増への規制が焦点",
+        "トヨタがインドに第4工場を建設へ——年産50万台体制でリスク分散を加速",
+        "能登半島沖に「大規模変形帯」を発見——2024年地震の津波原因を海底調査で解明",
+        "「うちのAIは喋るぞ」——Claude CodeとCodexに音声通知を与えるMCPサーバー「speak-mcp」を作って公開",
+        "Claude CodeのAgent Teamsを自作する——Tmuxベースのマルチエージェント調整CLI「cafleet」の設計と実装",
+        "LayerX、AIエージェントで請求書処理を完全自動化——2027年の「原本インボイス」制度にも対応",
+        "The Agent Development Lifecycle: Harrison Chase's Four-Phase Framework for Production AI Agents",
+        "Local AI on a Laptop Outpaced Moore's Law by 2.35×: Open Models Doubled Every 10.7 Months Since 2024",
+        "TypeScript 7.0 Beta: Microsoft Rewrites the Compiler in Go, Delivering 10× Faster Build Times"
+      ]
+    },
     {
       "run_at": "2026-05-11T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Mozilla Hardens Firefox with Claude Mythos — 423 Security Fixes in April 2026 Alone",
         "Meta's Forced AI Adoption Is Making Employees Miserable — Keystroke Tracking, 8,000 Job Cuts Loom",
         "Bun's AI-Generated Rust Rewrite Hits 99.8% Test Compatibility — and Challenges Zig's No-AI Policy"
-      ]
-    },
-    {
-      "run_at": "2026-05-10T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579433",
-        "https://news.yahoo.co.jp/pickup/6579446",
-        "https://news.yahoo.co.jp/pickup/6579437",
-        "https://news.yahoo.co.jp/pickup/6579439",
-        "https://news.yahoo.co.jp/pickup/6579447",
-        "https://zenn.dev/dotdtech_blog/articles/92348ee48cc692",
-        "https://zenn.dev/kanseilink/articles/linksee-memory-claude-code-recall-20260508",
-        "https://zenn.dev/aircloset/articles/341dffee42f454",
-        "https://www.anthropic.com/news/higher-limits-spacex",
-        "https://www.publickey1.jp/blog/26/awsuae2.html",
-        "https://github.blog/changelog/2026-05-07-claude-sonnet-4-deprecated"
-      ],
-      "titles": [
-        "中国、高市首相の「自由で開かれたインド太平洋」演説に反発——「対立をあおる」と批判",
-        "訪日客の72地点が7都道府県に集中——オーバーツーリズム対策に新たな課題",
-        "中東情勢が波及——医薬品容器の不足で薬局が悲鳴、塗り薬の供給に支障",
-        "琵琶湖で同日3件の遺体発見——滋賀県警が詳しい状況を捜査",
-        "中京大水泳部、未成年部員7人が飲酒——暴力事案も発覚、全部員の活動停止",
-        "Claude Codeを"使いこなす"個人ルール設定——CLAUDE.mdとsettings.jsonの実践的カスタマイズ",
-        "Claude Codeのセッション記憶喪失を解決——Linksee MemoryがSQLiteに6層構造の永続記憶を実現",
-        "Agentic Graph RAG MCPのススメ——「単発クエリ」から「多段対話探索」へのパラダイムシフト",
-        "Anthropic Doubles Claude Code Rate Limits and Secures 220,000-GPU SpaceX Colossus Data Center",
-        "AWS UAE Region Recovery Will Take \"Several Months\" — Drone Strike Left Two of Three AZs Offline",
-        "GitHub Copilot Deprecates Claude Sonnet 4 and GPT-4.1 — Model Cleanup Signals Faster Refresh Cadence"
-      ]
-    },
-    {
-      "run_at": "2026-05-10T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/articles/bd0a4075",
-        "https://www.nikkei.com/article/DGXZQOUC289P60Y6A420C2000000/",
-        "https://www.nikkei.com/article/DGXZQOUD0918C0Z00C26A5000000/",
-        "https://www.jiji.com/jc/article?k=2026050900300&g=int",
-        "https://www.jiji.com/jc/article?k=2026050900323&g=int",
-        "https://zenn.dev/aerign/articles/916513f6e96e7e",
-        "https://zenn.dev/naoyoshinori/books/6856a81987ccb0",
-        "https://zenn.dev/kinzal/articles/6e789454354cfc",
-        "https://www.anthropic.com/engineering/april-23-postmortem",
-        "https://addyosmani.com/blog/agentic-engineering/",
-        "https://arxiv.org/abs/2604.15597"
-      ],
-      "titles": [
-        "作家・鈴木光司さん死去、享年68歳——「リング」「らせん」でJホラーを世界へ",
-        "ソニーG、過去最高の純利益を記録——PS5販売戦略「台数より利益」が奏功",
-        "ハンタウイルス感染者6人に——「ヒトからヒト」感染の可能性、クルーズ船クラスター拡大",
-        "ハンガリーに新首相マジャル氏——親EU路線へ転換、オルバン長期政権に終止符",
-        "米雇用統計が予想上回る堅調——原油高で物価圧力、FRBの利下げ一段と遠のく",
-        "マルチエージェント設計の7原則——Factoryが16日間無人稼働を実現した方法論",
-        "LLMエージェントはなぜ壊れるのか——根本原因は「推論力不足」ではなく「状態管理の欠如」",
-        "AIエージェントに不確実性を探索させる——明確なゴールなき開発タスクへの3つのアプローチ",
-        "Anthropic's Claude Code Quality Postmortem: Three Separate Bugs Silently Degraded Intelligence for Six Weeks",
-        "Agentic Engineering: Addy Osmani Defines the Discipline That Separates Senior AI-Assisted Devs From Vibe Coders",
-        "LLMs Corrupt 25% of Document Content in Long Agentic Workflows — DELEGATE-52 Benchmark Across 52 Fields"
       ]
     }
   ]

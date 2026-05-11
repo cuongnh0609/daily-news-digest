@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-11T10:00:00+09:00",
+  "last_run_at": "2026-05-11T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-11T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/list?g=eco",
+        "https://www.itmedia.co.jp/news/articles/2605/11/news089.html",
+        "https://www.jiji.com/jc/list?g=int",
+        "https://www.jiji.com/jc/list?g=eco",
+        "https://www.jiji.com/jc/list?g=soc",
+        "https://zenn.dev/geniee/articles/claude-code-aws-cost-optimization",
+        "https://zenn.dev/sonder01/articles/redel-recursive-delegation-multi-agent-4c401942e7",
+        "https://zenn.dev/shuji_bonji/articles/ad1ec6c65ac45a",
+        "https://www.itmedia.co.jp/news/articles/2605/11/news021.html",
+        "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/",
+        "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
+      ],
+      "titles": [
+        "国の借金、過去最大の1343兆円に——3月末時点、国民1人当たり約1072万円",
+        "ソニーG、今期最高益1兆1600億円を予想——エンタメIPとAI戦略が牽引",
+        "ベッセント米財務長官が12日に高市首相と会談——為替・通商問題が主要議題に",
+        "NY原油が一時100ドル台に急騰——ホルムズ海峡の緊張でエネルギー市場が動揺",
+        "未規制タバコ「ニコパフ」が若者に拡散——専門家「違法薬物への入り口」と警鐘",
+        "Claude CodeにAWSコスト調査をさせたら数千万円分の改善ポイントが見つかった——GENIEEのSREが実践報告",
+        "ReDel再現実装：LLMが自ら委譲する再帰マルチエージェントの仕組みを解説",
+        "LLMに日本の法令を正確に引かせるために「法規MCPファミリー」を作った話——e-Gov連携・NTA・略称辞典を3層設計",
+        "AI-Generated \"Garbage Reports\" Flood Open Source Bug Bounties — HackerOne Halts Program",
+        "The Unreasonable Effectiveness of HTML: Claude Code's Output Format That Changes Everything",
+        "You Need an AI Coding Agent That Reduces Your Maintenance Costs, Not Increases Them"
+      ]
+    },
     {
       "run_at": "2026-05-11T10:00:00+09:00",
       "urls": [

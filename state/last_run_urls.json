@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-13T00:00:00+09:00",
+  "last_run_at": "2026-05-13T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-13T05:00:00+09:00",
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQOGN120CL0S6A510C2000000/",
+        "https://www.nhk.or.jp/rss/news/cat0.xml",
+        "https://www3.nhk.or.jp/news/html/20260513/k10015120001000.html",
+        "https://www3.nhk.or.jp/news/html/20260513/k10015120101000.html",
+        "https://www.nikkei.com/article/DGXZQOGM120000S6A510C2000000/",
+        "https://zenn.dev/karaagedesu/articles/context-engineering-2026",
+        "https://zenn.dev/thujikun/articles/ai-harness-automation-2026",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/12/news_mythos.html",
+        "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+        "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+        "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim"
+      ],
+      "titles": [
+        "ムーディーズ、米国の信用格付けをAaaからAa1に引き下げ——約10年ぶりの格下げ",
+        "GDP年率2.9%減——1〜3月期、個人消費の不振で3四半期連続マイナス成長",
+        "自民党大会で「改憲宣言」を採択——夏の参院選に向け憲法改正の機運を醸成",
+        "北朝鮮が「宇宙発射体」を打ち上げ——日本政府が強く抗議、安保理への招集要請も",
+        "TSMC、第1四半期売上が過去最高を更新——AI半導体需要がフル生産体制を牽引",
+        "Context Engineeringとは何か？——プロンプトの次に来る「LLMへの情報設計」という新技術",
+        "AIのハーネスを徹底的に整えたら、レビューもシステム運用も自動化——非エンジニアも開発参加できた話",
+        "AnthropicがAIサイバーセキュリティツール「Claude Mythos」を正式リリース——実際に脆弱性発見に成功",
+        "DeepMind's AlphaEvolve: A Gemini-Powered Coding Agent That Evolves Algorithms Through Self-Play",
+        "If AI Writes Your Code, Why Use Python? — Rethinking Language Choice in the Agentic Era",
+        "Dead.Letter (CVE-2026-45185): XBOW Discovers Unauthenticated Remote Code Execution in Exim Mail Server"
+      ]
+    },
     {
       "run_at": "2026-05-13T00:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "The Agent Development Lifecycle: Harrison Chase's Four-Phase Framework for Production AI Agents",
         "Local AI on a Laptop Outpaced Moore's Law by 2.35×: Open Models Doubled Every 10.7 Months Since 2024",
         "TypeScript 7.0 Beta: Microsoft Rewrites the Compiler in Go, Delivering 10× Faster Build Times"
-      ]
-    },
-    {
-      "run_at": "2026-05-11T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/list?g=eco",
-        "https://www.itmedia.co.jp/news/articles/2605/11/news089.html",
-        "https://www.jiji.com/jc/list?g=int",
-        "https://www.jiji.com/jc/list?g=eco",
-        "https://www.jiji.com/jc/list?g=soc",
-        "https://zenn.dev/geniee/articles/claude-code-aws-cost-optimization",
-        "https://zenn.dev/sonder01/articles/redel-recursive-delegation-multi-agent-4c401942e7",
-        "https://zenn.dev/shuji_bonji/articles/ad1ec6c65ac45a",
-        "https://www.itmedia.co.jp/news/articles/2605/11/news021.html",
-        "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/",
-        "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
-      ],
-      "titles": [
-        "国の借金、過去最大の1343兆円に——3月末時点、国民1人当たり約1072万円",
-        "ソニーG、今期最高益1兆1600億円を予想——エンタメIPとAI戦略が牽引",
-        "ベッセント米財務長官が12日に高市首相と会談——為替・通商問題が主要議題に",
-        "NY原油が一時100ドル台に急騰——ホルムズ海峡の緊張でエネルギー市場が動揺",
-        "未規制タバコ「ニコパフ」が若者に拡散——専門家「違法薬物への入り口」と警鐘",
-        "Claude CodeにAWSコスト調査をさせたら数千万円分の改善ポイントが見つかった——GENIEEのSREが実践報告",
-        "ReDel再現実装：LLMが自ら委譲する再帰マルチエージェントの仕組みを解説",
-        "LLMに日本の法令を正確に引かせるために「法規MCPファミリー」を作った話——e-Gov連携・NTA・略称辞典を3層設計",
-        "AI-Generated \"Garbage Reports\" Flood Open Source Bug Bounties — HackerOne Halts Program",
-        "The Unreasonable Effectiveness of HTML: Claude Code's Output Format That Changes Everything",
-        "You Need an AI Coding Agent That Reduces Your Maintenance Costs, Not Increases Them"
-      ]
-    },
-    {
-      "run_at": "2026-05-11T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579590",
-        "https://news.yahoo.co.jp/pickup/6579595",
-        "https://news.yahoo.co.jp/pickup/6579580",
-        "https://news.yahoo.co.jp/pickup/6579596",
-        "https://news.yahoo.co.jp/pickup/6579589",
-        "https://zenn.dev/ricckyyy/articles/speckit-getting-started",
-        "https://zenn.dev/headwaters/articles/8bc4e8c3119fa3",
-        "https://zenn.dev/kusuke/articles/1c3ffeecbb7761",
-        "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
-        "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
-        "https://unix.foo/posts/local-ai-needs-to-be-norm/"
-      ],
-      "titles": [
-        "米財務長官ベッセント氏が日韓と中国を歴訪——通商・為替交渉の焦点に",
-        "日経平均が取引時間中の最高値を更新——AI・半導体株が上昇けん引",
-        "本州で夏日続出の予想——熱中症リスクへの備えを呼びかけ",
-        "フリーランスから正社員への回帰が加速——雇用の安定を優先する動き広がる",
-        "大谷翔平、10試合連続無安打の不振——監督も苦言、首位打者争いから後退",
-        "Spec KitでAI駆動開発を始める——Claude CodeとGitHub Copilot両対応の仕様ファースト開発ガイド",
-        "gbrainに学ぶAgentの記憶基盤——Knowledge GraphとMCPで実現する多層メモリアーキテクチャ",
-        "AIプロダクト開発で「意思決定」だけが残る時代——Claude Codeで加速しても人間が担う13の判断領域",
-        "GitHub Engineering: How We Cut Token Costs by Up to 62% in Agentic Workflows",
-        "Agent Pull Requests Are Everywhere — GitHub's Framework for Reviewing AI-Generated Code",
-        "Local AI Needs to Be the Norm — The Case for On-Device Inference as a Default"
-      ]
-    },
-    {
-      "run_at": "2026-05-11T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026051000453&g=pol",
-        "https://www.jiji.com/jc/article?k=2026051000112&g=pol",
-        "https://www.jiji.com/jc/list?g=eco",
-        "https://www.jiji.com/jc/article?k=2026050900308&g=soc",
-        "https://www.jiji.com/jc/article?k=2026050900306&g=soc",
-        "https://zenn.dev/robustonian/articles/codex_with_local_llm",
-        "https://zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher",
-        "https://zenn.dev/akfm/articles/better-loading-ux",
-        "https://www.anthropic.com/news/anthropic-nec",
-        "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-        "https://github.blog/changelog/2026-05-08-more-flexible-secrets-and-variables-for-copilot-cloud-agent"
-      ],
-      "titles": [
-        "米財務長官が11日から訪日——高市首相・片山財務相と会談、為替・通商協議へ",
-        "安保３文書改定で中国「脅威」表記の是非——政府・与党内で意見が真っ二つ",
-        "トヨタ、今期純利益22%減を予想——関税・円高リスクで「稼ぐ力」に課題",
-        "六ケ所村・核燃料再処理工場、完成目標まで１年切る——27度目の延期懸念も",
-        "民事訴訟、5月21日から全面デジタル化——提訴から判決まで「ミンツ」で完結",
-        "CodexをローカルLLMで駆動する——LM StudioのResponses API対応でベンチマーク比較が可能に",
-        "育休1年に備えて「勝手に賢くなる」AI情報収集基盤を構築——Claude×自律型キーワード進化で日次PDF化",
-        "ユーザーストレスを低減するローディング体験の4原則——スケルトンUIから多段階表示まで",
-        "Anthropic and NEC Build Japan's Largest AI Engineering Workforce — 30,000 Employees to Use Claude Code",
-        "Vibe Coding and Agentic Engineering Are Getting Closer Than I'd Like — Simon Willison",
-        "GitHub Copilot Cloud Agent Gets Organization-Level Secrets and Variables — Enterprise-Scale Agent Config Now Possible"
       ]
     }
   ]

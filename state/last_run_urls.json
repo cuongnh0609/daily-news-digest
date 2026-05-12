@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-12T20:00:00+09:00",
+  "last_run_at": "2026-05-13T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-13T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579860",
+        "https://www.jiji.com/jc/article?k=2026051201248&g=int",
+        "https://news.yahoo.co.jp/pickup/6579856",
+        "https://www.jiji.com/jc/article?k=2026051201174&g=pol",
+        "https://news.yahoo.co.jp/pickup/6579864",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/12/news147.html",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/12/news144.html",
+        "https://www.itmedia.co.jp/enterprise/articles/2605/12/news050.html",
+        "https://www.langchain.com/blog/the-agent-development-lifecycle",
+        "https://www.langchain.com/blog/runtime-behind-production-deep-agents",
+        "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections"
+      ],
+      "titles": [
+        "イラン国会議長、米に最後通告——14項目提案を拒否すれば「失敗」と強硬姿勢",
+        "米消費者物価、4月に3.8%上昇——原油急騰でインフレ加速、予想を上回る",
+        "ニデック、品質不正疑い——モーター部品で設計変更か、弁護士調査委を設置へ",
+        "中道改革連合、亀井前議員の離党を了承——衆院選落選を受け政界引退へ",
+        "三笘薫、ワールドカップ期間中の復帰困難——日本代表入りも厳しい状況に",
+        "AIがゼロデイ攻撃を生成する時代へ——GoogleのGTIGが脅威グループによる生成AI悪用の新局面を報告",
+        "警視庁、「シャドーAI」に注意喚起——企業管理外AIサービス利用の3大リスクを指摘",
+        "AIエージェント導入企業の8割が「人員削減」計画——Gartner調査、2027年に市場4倍超へ",
+        "The Agent Development Lifecycle: Harrison Chase's Four-Phase Framework for Production AI Agents",
+        "The Runtime Behind Production Deep Agents: LangChain's Blueprint for Durable, Multi-Tenant Agent Infrastructure",
+        "vLLM V0 to V1: How ServiceNow Fixed Silent Correctness Bugs That Were Quietly Breaking RL Training"
+      ]
+    },
     {
       "run_at": "2026-05-12T20:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-12T05:00:00+09:00",
+  "last_run_at": "2026-05-12T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-12T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
+        "https://news.yahoo.co.jp",
+        "https://news.yahoo.co.jp",
+        "https://news.yahoo.co.jp",
+        "https://news.yahoo.co.jp",
+        "https://zenn.dev/einperience/articles/cc8d468209c937",
+        "https://zenn.dev/minewo/articles/ai-legible-repository-design",
+        "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
+        "https://www.anthropic.com/news/claude-opus-4-7",
+        "https://news.ycombinator.com",
+        "https://simonwillison.net/2026/May/11/gitlab-act-2/"
+      ],
+      "titles": [
+        "高校国語の授業、文科省が文学重視へ方針転換——「論理国語」偏重を見直し",
+        "英国与党・労働党の議員70人超がスターマー首相の退陣を要求——地方選惨敗が直撃",
+        "戸籍の性別欄「憲法に抵触」——高裁が画期的判断、制度見直し論議へ",
+        "ゼレンスキー氏の元最側近を当局が捜査——機密漏洩の疑い、ウクライナ内部に波紋",
+        "磐越道バス事故、乗車生徒が衝突直前の車内動画を撮影——捜査の決め手になるか",
+        "【Claude Code】「instinct」フォーマットでハーネスを自動改善——セッションログをプライバシー保護しながら再利用する新設計",
+        "AIエージェントが迷わないリポジトリ設計——AGENTS.mdを「地図」として使う4層アーキテクチャ",
+        "JavaScriptランタイム「Bun」、Claudeを活用してZigからRustへ大規模移行——1週間でテスト99.8%パス",
+        "Anthropic Releases Claude Opus 4.7 — Vision Upgrade, xhigh Effort Level, and State-of-the-Art Coding",
+        "TanStack npm Supply Chain Attack Postmortem — How Malicious Code Slipped Into a Popular Package for 22 Minutes",
+        "GitLab Cuts 30% of Country Presence and Retires CREDIT Values — Simon Willison on What \"Act 2\" Means for the Industry"
+      ]
+    },
     {
       "run_at": "2026-05-12T05:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic and NEC Build Japan's Largest AI Engineering Workforce — 30,000 Employees to Use Claude Code",
         "Vibe Coding and Agentic Engineering Are Getting Closer Than I'd Like — Simon Willison",
         "GitHub Copilot Cloud Agent Gets Organization-Level Secrets and Variables — Enterprise-Scale Agent Config Now Possible"
-      ]
-    },
-    {
-      "run_at": "2026-05-11T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579563",
-        "https://news.yahoo.co.jp/pickup/6579546",
-        "https://news.yahoo.co.jp/pickup/6579558",
-        "https://news.yahoo.co.jp/pickup/6579566",
-        "https://news.yahoo.co.jp/pickup/6579536",
-        "https://zenn.dev/kanaria007/articles/c74aae44ba99fb",
-        "https://zenn.dev/ykenkou001/articles/mcp-first-regulatory-saas",
-        "https://dev.classmethod.jp/articles/20260506-agent-toolkit-for-aws/",
-        "https://www.anthropic.com/news/finance-agents",
-        "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-        "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html"
-      ],
-      "titles": [
-        "イランが米国への回答をパキスタン経由で送付——核交渉に進展の可能性",
-        "ホルムズ海峡で韓国船籍に不明飛行体が衝突・爆発——中東の緊張が海上輸送を直撃",
-        "磐越道バス事故、現場に33,000円入り封筒——運転手謝礼か、学校側が会見",
-        "東北道でクマが高速車道に出没、複数台が相次いで衝突——野生動物と交通安全に課題",
-        "高齢者シェアハウスが静かなブームに——2040年には単身高齢者が1,040万人超へ",
-        "LLMアプリを本番業務に入れるための9設計パターン——AIワークフロー設計シリーズ",
-        "MCPファーストで規制対応SaaSを設計する3原則——LLMから呼ばれるアプリの新設計論",
-        "AWS公式がAIエージェント向け「Agent Toolkit for AWS」を公開——MCP Server・Skills・Pluginの3層構造",
-        "Anthropic Launches 10 Ready-to-Run Financial Agent Templates — Claude Opus 4.7 Scores 64% on Finance Benchmark",
-        "Google Gemini API File Search Goes Multimodal — Custom Metadata Filtering and Page-Level Citations Now Available",
-        "Debian Now Blocks Packages Failing Reproducibility Checks — Reproducible Builds Becomes a Migration Requirement"
-      ]
-    },
-    {
-      "run_at": "2026-05-10T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579467",
-        "https://news.yahoo.co.jp/pickup/6579455",
-        "https://news.yahoo.co.jp/pickup/6579458",
-        "https://news.yahoo.co.jp/pickup/6579383",
-        "https://news.yahoo.co.jp/pickup/6579275",
-        "https://zenn.dev/articles/claude-code-parallel-worktree",
-        "https://zenn.dev/j_asa/articles/6ed4f9e640ed26",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/07/news099.html",
-        "https://zenn.dev/aerign/articles/35e44677478bf4",
-        "https://github.blog/changelog/2026-05-08-upcoming-deprecation-of-grok-code-fast-1",
-        "https://www.latent.space/p/lupsasca"
-      ],
-      "titles": [
-        "家庭用ゲーム機の値上げ時代——Switch 2・PS5・Xbox、三大プラットフォームが相次いで価格改定",
-        "政府、AI・半導体など17分野でリスキリング支援へ——省庁横断会議を新設し人材移動を促進",
-        "プーチン氏「侵攻は終結に向かっている」——3日間停戦も両軍が継続、和平交渉の行方は不透明",
-        "デジタル教科書、IT先進国での相次ぐ撤退——北欧・英国が示す「導入後の失敗」の教訓",
-        "ChatGPT内広告、日本でもテスト開始へ——無料ユーザー向けに表示、OpenAIが新収益モデルを模索",
-        "Claude Code を並列で動かす：git worktree でセッションを分離する最小運用設計",
-        "AGENTS.mdで自律型CAE AIエージェントを制御する——Codex + CalculiXで構造解析の自動化を実現",
-        "MUFGとGoogleがAIエージェント連携で提携——A2A・AP2・UCPプロトコルで金融サービスのマルチエージェント化へ",
-        "Context is the New Code: Patrick Debois' CDLC Framework Brings DevOps Discipline to AI Agent Context Management",
-        "GitHub Copilot Deprecates Grok Code Fast 1 and GPT-4.1 — Accelerating Model Refresh Cadence Signals New AI Tooling Era",
-        "Vibe Physics: GPT-5.x Solves Unsolved Graviton Problems in Theoretical Physics — A Qualitative Shift in AI Research Capability"
       ]
     }
   ]

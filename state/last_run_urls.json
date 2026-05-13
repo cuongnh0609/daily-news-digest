@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-13T20:00:00+09:00",
+  "last_run_at": "2026-05-14T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-14T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6580018",
+        "https://news.yahoo.co.jp/pickup/6580011",
+        "https://www.jiji.com/jc/article?k=2026051300195&g=soc",
+        "https://www.jiji.com/jc/article?k=2026051300909&g=pol",
+        "https://www.jiji.com/jc/article?k=2026051300171&g=soc",
+        "https://zenn.dev/kitamotors/articles/2026-05-13-kita-memory-architecture-overview",
+        "https://zenn.dev/memol/articles/5262897823558c",
+        "https://zenn.dev/lienjack/articles/04-1-context-management",
+        "https://www.anthropic.com/news/higher-limits-spacex",
+        "https://simonwillison.net/2026/May/12/llm/",
+        "https://github.com/cactus-compute/needle"
+      ],
+      "titles": [
+        "再審法改正案が自民党で了承——検察側は「抗告原則禁止」に強い反発",
+        "イラン革命防衛隊、ホルムズ海峡の管轄範囲を大幅拡大——緊張高まる中東情勢",
+        "第79回カンヌ映画祭が開幕——是枝・濱口・深田の3監督がパルムドール争い",
+        "高市首相「研究開発費の倍増目指す」——経団連の科学技術提言を受け成長戦略に明記へ",
+        "改正物流効率化法が成立——「中継輸送」で長距離ドライバー不足に対応",
+        "Claude Codeに長期記憶を——自作ツール「kita-memory」の3層アーキテクチャ",
+        "個人から「チームのプロンプト集」へ——MCPでClaudeに社内テンプレートを喋らせる",
+        "Claude Code内部解剖 第4章——6段階「コンテキスト圧縮パイプライン」の設計思想",
+        "Anthropic Doubles Claude Code Limits and Signs 300MW Compute Deal with SpaceX Colossus",
+        "LLM CLI 0.32a2: Simon Willison Adds GPT-5 and OpenAI Responses API with Live Reasoning Display",
+        "Needle: A 26M-Parameter Tool-Calling Model Distilled from Gemini — 6,000 Tokens/sec on Edge Devices"
+      ]
+    },
     {
       "run_at": "2026-05-13T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Claude Platform Now Generally Available on AWS — Full API Parity with IAM Auth, CloudTrail, and Consolidated Billing",
         "Thinking Machines Launches TML-Interaction-Small — A 276B MoE Model Built for Real-Time Native Multimodal Interaction",
         "Shopify's River Agent Goes Public-Slack-Only — How Radical Transparency Becomes an AI Adoption Flywheel"
-      ]
-    },
-    {
-      "run_at": "2026-05-12T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
-        "https://news.yahoo.co.jp",
-        "https://news.yahoo.co.jp",
-        "https://news.yahoo.co.jp",
-        "https://news.yahoo.co.jp",
-        "https://zenn.dev/einperience/articles/cc8d468209c937",
-        "https://zenn.dev/minewo/articles/ai-legible-repository-design",
-        "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
-        "https://www.anthropic.com/news/claude-opus-4-7",
-        "https://news.ycombinator.com",
-        "https://simonwillison.net/2026/May/11/gitlab-act-2/"
-      ],
-      "titles": [
-        "高校国語の授業、文科省が文学重視へ方針転換——「論理国語」偏重を見直し",
-        "英国与党・労働党の議員70人超がスターマー首相の退陣を要求——地方選惨敗が直撃",
-        "戸籍の性別欄「憲法に抵触」——高裁が画期的判断、制度見直し論議へ",
-        "ゼレンスキー氏の元最側近を当局が捜査——機密漏洩の疑い、ウクライナ内部に波紋",
-        "磐越道バス事故、乗車生徒が衝突直前の車内動画を撮影——捜査の決め手になるか",
-        "【Claude Code】「instinct」フォーマットでハーネスを自動改善——セッションログをプライバシー保護しながら再利用する新設計",
-        "AIエージェントが迷わないリポジトリ設計——AGENTS.mdを「地図」として使う4層アーキテクチャ",
-        "JavaScriptランタイム「Bun」、Claudeを活用してZigからRustへ大規模移行——1週間でテスト99.8%パス",
-        "Anthropic Releases Claude Opus 4.7 — Vision Upgrade, xhigh Effort Level, and State-of-the-Art Coding",
-        "TanStack npm Supply Chain Attack Postmortem — How Malicious Code Slipped Into a Popular Package for 22 Minutes",
-        "GitLab Cuts 30% of Country Presence and Retires CREDIT Values — Simon Willison on What \"Act 2\" Means for the Industry"
       ]
     }
   ]

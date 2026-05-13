@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-13T10:00:00+09:00",
+  "last_run_at": "2026-05-13T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-13T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579918",
+        "https://www.jiji.com/jc/article?k=2026051300389&g=soc",
+        "https://news.yahoo.co.jp/pickup/6579927",
+        "https://news.yahoo.co.jp/pickup/6579920",
+        "https://www.jiji.com/jc/article?k=2026051300577&g=soc",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/13/news101.html",
+        "https://zenn.dev/memorylakeai/articles/02aa812660caa9",
+        "https://zenn.dev/kei_concierge/articles/claude-code-token-optimization",
+        "https://deepmind.google/blog/alphaevolve-impact/",
+        "https://googlebook.google/",
+        "https://github.com/cactus-compute/needle"
+      ],
+      "titles": [
+        "旧姓使用法案の国会提出、政府が今国会での見送りを決定",
+        "iPS細胞由来パーキンソン病治療薬「アムシェプリ」、世界初の公的保険適用へ",
+        "ロシア、停戦へ軟化の兆し——イランとの紛争がウクライナ交渉を加速",
+        "ナフサ急騰で包装コスト3割増——スーパーや中小製造業に「ナフサショック」の波",
+        "大野雄二さん死去・享年84歳——「ルパン三世」テーマで世界に愛されたジャズ作曲家",
+        "三菱UFJ・三井住友・みずほの3メガバンク、AnthropicのClaude Mythos Previewを導入",
+        "自律Agentと「記憶」の壁——Claude Code /goalから考えるMemory Layerアーキテクチャ",
+        "Claude Codeのトークン消費を半分にした5つのテクニック——月額コストを$80→$38に削減",
+        "AlphaEvolve Scales Beyond Math: DeepMind's Gemini-Powered Coding Agent Now Optimizes Real-World Systems",
+        "Googlebook: Google Launches AI-Native Laptop Where \"Intelligence Is the New Spec\"",
+        "Needle: Distilling Gemini's Tool-Calling Into a 26M-Parameter Model for On-Device AI"
+      ]
+    },
     {
       "run_at": "2026-05-13T10:00:00+09:00",
       "urls": [

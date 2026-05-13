@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-14T00:00:00+09:00",
+  "last_run_at": "2026-05-14T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-14T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6580022",
+        "https://news.yahoo.co.jp/pickup/6580006",
+        "https://news.yahoo.co.jp/pickup/6580010",
+        "https://news.yahoo.co.jp/pickup/6580007",
+        "https://news.yahoo.co.jp/pickup/6580016",
+        "https://www.itmedia.co.jp/news/articles/2605/13/news136.html",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news054.html",
+        "https://www.publickey1.jp/blog/26/aipythonmojo.html",
+        "https://www.anthropic.com/news/finance-agents",
+        "https://github.blog/changelog/2026-05-13-start-copilot-cloud-agent-tasks-via-the-rest-api",
+        "https://www.publickey1.jp/blog/26/nodejsdatetemporaltemporalchromeedgefirefoxnodejs.html"
+      ],
+      "titles": [
+        "東京・八王子の住宅地近くにクマ出没——専門家「都市部への接近が続く」と警鐘",
+        "磐越道バス事故から1週間——保護者が怒りをにじませ「学校とバス会社が責任を押しつけ合っている」",
+        "不動産大手5社、売上高と最終利益が過去最高を更新——マンション高騰と中東リスクが二極化",
+        "日本製鉄、山陽特殊製鋼を2027年4月に吸収合併——「戦後最大の倒産」から再建した老舗に幕",
+        "高市首相、G7サミット前にイギリス・イタリア訪問を調整——来月の首脳外交が本格化",
+        "GoogleがAndroid向けAIエージェント「Gemini Intelligence」を発表——スマホが「自動操縦」で複雑タスクをこなす時代へ",
+        "AIエージェントの意思決定、まだ信用されていない——Dynatrace調査で浮かぶ「人の目」依存の現実",
+        "AI高速化特化の新言語「Mojo」がベータ版に——「Pythonのように書き、C++のように実行する」を現実に",
+        "Anthropic Launches 7 Specialized Finance Agents: Claude Cowork Brings AI to Wall Street's Full Stack",
+        "GitHub Copilot Cloud Agents Now Accessible via REST API — Programmatic Task Triggering Arrives",
+        "Node.js 26 Enables Temporal API by Default — JavaScript's Long-Awaited Replacement for the Date Object"
+      ]
+    },
     {
       "run_at": "2026-05-14T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Using LLM in the Shebang Line — Simon Willison's New Pattern for Executable AI Scripts",
         "Google Confirms Criminal Hackers Used AI to Discover a Major Software Vulnerability",
         "I Let AI Build a Tool to Help Me Figure Out What Was Waking Me Up at Night"
-      ]
-    },
-    {
-      "run_at": "2026-05-12T15:00:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260512/k10015119341000.html",
-        "http://www3.nhk.or.jp/news/html/20260512/k10015119401000.html",
-        "http://www3.nhk.or.jp/news/html/20260512/k10015119121000.html",
-        "https://news.yahoo.co.jp/articles/minamata-2026",
-        "https://news.yahoo.co.jp/pickup/sports-ohtani-slump-2026",
-        "https://zenn.dev/zoetaka38/articles/cb6982bf5e8b59",
-        "https://zenn.dev/notahotel/articles/claude-routine-auto-fix-issue",
-        "https://zenn.dev/aws_japan/articles/introduction-to-claude-code-workshop",
-        "https://claude.com/blog/claude-platform-on-aws",
-        "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
-        "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/"
-      ],
-      "titles": [
-        "中東以外から初の原油輸入——アゼルバイジャン産が横浜に到着、調達多角化の第一歩",
-        "衆院憲法審査会、緊急事態条項のイメージ案を14日に討議へ——改憲論議が具体化",
-        "片山財務相とベッセント米財務長官が会談——為替と関税、2大テーマで「連携を確認」",
-        "水俣病患者が環境省へ抗議——大臣が陳謝、公式確認から70年の重みを改めて問う",
-        "大谷翔平、50打席連続本塁打なしの不振——監督も「心配だ」と苦言、首位打者争いから後退",
-        "MCPのトークンブロートを12分の1に——31ツールを1パッケージに統合した実測レポート",
-        "Claude Code Routinesでチームの自動Issue対応——4人チームが15分サイクルでPRを回す設計",
-        "AWSが日本語版Claude Code入門ワークショップを公開——ハンズオンで学ぶagent設計の基礎",
-        "Claude Platform Now Generally Available on AWS — Full API Parity with IAM Auth, CloudTrail, and Consolidated Billing",
-        "Thinking Machines Launches TML-Interaction-Small — A 276B MoE Model Built for Real-Time Native Multimodal Interaction",
-        "Shopify's River Agent Goes Public-Slack-Only — How Radical Transparency Becomes an AI Adoption Flywheel"
       ]
     }
   ]

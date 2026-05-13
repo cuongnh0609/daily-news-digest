@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-13T05:00:00+09:00",
+  "last_run_at": "2026-05-13T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-13T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579889",
+        "https://www.jiji.com/jc/article?k=2026051200712&g=soc",
+        "https://news.yahoo.co.jp/articles/257356e687fd46df84b0683f9b2127920a839454",
+        "https://www.jiji.com/jc/article?k=2026051300243&g=int",
+        "https://news.yahoo.co.jp/articles/377d754b0f97c05a083ad12c88b24a822dec7b4d",
+        "https://www.itmedia.co.jp/enterprise/articles/2605/13/news046.html",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/12/news_gpt55.html",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/12/news048.html",
+        "https://www.langchain.com/blog/delta-channels-evolving-agent-runtime",
+        "https://deepmind.google/blog/ai-pointer/",
+        "https://github.blog/changelog/2026-05-12-copilot-code-review-comment-experience-improvements/"
+      ],
+      "titles": [
+        "米中が一致——ホルムズ海峡の通航料、いかなる国にも認めず",
+        "磐越道バス事故から1週間——高校と運行会社の主張が食い違い、「白バス」疑いで捜査続く",
+        "日産・追浜工場の従業員約2000人、いすゞ・IHIなどが受け入れ意向——転籍望まない社員の受け皿に",
+        "対イラン軍事費が約4兆6000億円に増額——米政府高官が議会公聴会で明かす",
+        "米FDA長官が辞任——電子たばこ承認遅延でトランプ大統領が不満か",
+        "アクセンチュア、Anthropicと国内協業を本格化——Claude活用の4領域で日本企業のAI変革を支援",
+        "GPT-5.5は最高性能ではないのに、なぜエンジニアが熱狂するのか——カギは「最後まで自走する力」",
+        "OpenAI、企業のAI導入支援に本腰——「Deployment Company」設立と6000億円投資で展開加速",
+        "LangChain Delta Channels: Solving the O(N²) Storage Problem for Long-Running Agents",
+        "DeepMind: Reimagining the Mouse Pointer for the AI Era — Context-Aware Cursor That Understands Intent",
+        "GitHub Copilot Code Review Gets Severity Levels and Comment Grouping — Shipped to All Users"
+      ]
+    },
     {
       "run_at": "2026-05-13T05:00:00+09:00",
       "urls": [
@@ -166,7 +195,7 @@
         "スペイン寄港のクルーズ船から下船した米仏2人がハンタウイルス陽性",
         "閉山中の富士山で遭難相次ぐ——富士宮市長「自己責任になっていない」と怒り",
         "グーグル、AIを用いたサイバー攻撃の脅威を警告——北朝鮮・中国の関与を強調",
-        "大阪市の合同庁舎、2日連続でガラス9枚が割られる——警察への被害届提出へ",
+        "大阪市の合同庁舎、2日連続でガラス9枚が割われる——警察への被害届提出へ",
         "Spec-Driven Presentation Maker v0.2 リリース——並列エージェントで生成時間90%削減、ローカル実行も対応",
         "AIが「How」を担う時代——エンジニアが向き合うべき「What」と「Why」、DevOpsの重要性が再浮上",
         "MCP・A2A・Function Calling——3つを混同していませんか？ Google Cloud ADKの視点で整理する",
@@ -202,35 +231,6 @@
         "Anthropic Raises Usage Limits Across All Plans and Signs Compute Deal with SpaceX for Orbital AI Infrastructure",
         "Anthropic's Mythos AI Model Finds a Real Vulnerability in curl — Daniel Stenberg's Firsthand Account",
         "Hardware Attestation as a Monopoly Enabler — GrapheneOS Warns of Structural Lock-in Risk in Secure Enclave Ecosystems"
-      ]
-    },
-    {
-      "run_at": "2026-05-11T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026051100907&g=soc",
-        "https://www.jiji.com/jc/article?k=2026051100906&g=soc",
-        "https://www.jiji.com/jc/article?k=2026051100726&g=soc",
-        "https://www.jiji.com/jc/article?k=2026051100863&g=eco",
-        "https://www.jiji.com/jc/article?k=2026051100880&g=soc",
-        "https://zenn.dev/rimon/articles/38a9a5bf2e114b",
-        "https://zenn.dev/himkt/articles/00c6049542170b",
-        "https://www.itmedia.co.jp/news/articles/2605/11/news114.html",
-        "https://blog.langchain.com/the-agent-development-lifecycle/",
-        "https://huggingface.co/blog/mishig/local-moores-law",
-        "https://www.publickey1.jp/blog/26/typescript_70typescriptgo10.html"
-      ],
-      "titles": [
-        "ATMから1億3500万円を盗んだ警備会社元社員が逮捕——管理者の立場を悪用した内部犯行",
-        "ツキノワグマの出没件数が過去最多の5万7776件——2024年度比の約2.5倍に急増",
-        "南極条約協議国会議が広島で開幕——32年ぶり国内開催、観光客急増への規制が焦点",
-        "トヨタがインドに第4工場を建設へ——年産50万台体制でリスク分散を加速",
-        "能登半島沖に「大規模変形帯」を発見——2024年地震の津波原因を海底調査で解明",
-        "「うちのAIは喋るぞ」——Claude CodeとCodexに音声通知を与えるMCPサーバー「speak-mcp」を作って公開",
-        "Claude CodeのAgent Teamsを自作する——Tmuxベースのマルチエージェント調整CLI「cafleet」の設計と実装",
-        "LayerX、AIエージェントで請求書処理を完全自動化——2027年の「原本インボイス」制度にも対応",
-        "The Agent Development Lifecycle: Harrison Chase's Four-Phase Framework for Production AI Agents",
-        "Local AI on a Laptop Outpaced Moore's Law by 2.35×: Open Models Doubled Every 10.7 Months Since 2024",
-        "TypeScript 7.0 Beta: Microsoft Rewrites the Compiler in Go, Delivering 10× Faster Build Times"
       ]
     }
   ]

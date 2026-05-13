@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-13T15:00:00+09:00",
+  "last_run_at": "2026-05-13T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-13T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6579969",
+        "https://www.jiji.com/jc/article?k=2026051300687&g=pol",
+        "https://news.yahoo.co.jp/pickup/6579984",
+        "https://www.jiji.com/jc/article?k=2026051300804&g=flash",
+        "https://www.jiji.com/jc/article?k=2026051300938&g=pol",
+        "https://zenn.dev/ubie_dev/articles/b712ec880ac038",
+        "https://zenn.dev/geniee/articles/claude-code-aws-cost-optimization",
+        "https://zenn.dev/knowledgesense/articles/67370650799bc6",
+        "https://www.hypercubic.ai/hopper",
+        "https://duckdb.org/2026/05/12/quack-remote-protocol",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/13/news118.html"
+      ],
+      "titles": [
+        "国産レアアース採掘船の建造構想、自民党が政府へ提言へ",
+        "再審法案、今国会への提出が決定——抗告を「原則禁止」とする本則改正",
+        "磐越道バス事故から1週間——目撃通報者が「あまりに異常な運転」と証言",
+        "ソフトバンクG、純利益5兆円超で日本企業史上最高——OpenAI投資益が牽引",
+        "防衛費のGDP比「3〜5%」目標を念頭に——自民調査会が論点整理案を提示",
+        "SlackでインフラトラブルシューティングできるAgentを作った——ネットワーク隔離とmitmproxyで「AIの暴走」を防ぐ設計",
+        "Claude CodeにAWSコスト調査を任せたら数千万円分の改善ポイントが見つかった",
+        "キーワード検索1回だけで精度を出すRAG技術「SIRA」——BEIRベンチマークでベクトル検索を上回る",
+        "Hopper: The First Agentic Development Environment for Mainframes — AI Agents Now Tackle COBOL and z/OS",
+        "Quack: DuckDB Launches Its Own Client-Server Protocol — 60M Rows in Under 5 Seconds",
+        "U.S. DoD Adopts Claude Mythos for Cybersecurity Despite Broader Anthropic Restrictions"
+      ]
+    },
     {
       "run_at": "2026-05-13T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Anthropic Releases Claude Opus 4.7 — Vision Upgrade, xhigh Effort Level, and State-of-the-Art Coding",
         "TanStack npm Supply Chain Attack Postmortem — How Malicious Code Slipped Into a Popular Package for 22 Minutes",
         "GitLab Cuts 30% of Country Presence and Retires CREDIT Values — Simon Willison on What \"Act 2\" Means for the Industry"
-      ]
-    },
-    {
-      "run_at": "2026-05-12T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579724",
-        "https://news.yahoo.co.jp/pickup/6579722",
-        "https://news.yahoo.co.jp/pickup/6579695",
-        "https://news.yahoo.co.jp/pickup/6579717",
-        "https://news.yahoo.co.jp/pickup/6579686",
-        "https://zenn.dev/aws_japan/articles/sdpm-v0-2-release",
-        "https://zenn.dev/emuni/articles/f307e7f36d788c",
-        "https://zenn.dev/seachickenkatsu/articles/fa13fb7b2b5f68",
-        "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-        "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-        "https://nathancooper.io/blog/2026-05-08-gpt-realtime-audio"
-      ],
-      "titles": [
-        "来週は各地で30℃超えの予報——5月中旬の異例の高温、熱中症に警戒を",
-        "スペイン寄港のクルーズ船から下船した米仏2人がハンタウイルス陽性",
-        "閉山中の富士山で遭難相次ぐ——富士宮市長「自己責任になっていない」と怒り",
-        "グーグル、AIを用いたサイバー攻撃の脅威を警告——北朝鮮・中国の関与を強調",
-        "大阪市の合同庁舎、2日連続でガラス9枚が割われる——警察への被害届提出へ",
-        "Spec-Driven Presentation Maker v0.2 リリース——並列エージェントで生成時間90%削減、ローカル実行も対応",
-        "AIが「How」を担う時代——エンジニアが向き合うべき「What」と「Why」、DevOpsの重要性が再浮上",
-        "MCP・A2A・Function Calling——3つを混同していませんか？ Google Cloud ADKの視点で整理する",
-        "Claude Mythos Finds 271 Critical Firefox Bugs — Mozilla Ships 423 Security Fixes in a Single Month",
-        "I'm Going Back to Writing Code by Hand — Five Hard Lessons from 7 Months of Vibe-Coding a Kubernetes TUI",
-        "OpenAI Launches GPT-Realtime-2 — First Voice Model with GPT-5-Class Reasoning and Simultaneous Tool Use"
-      ]
-    },
-    {
-      "run_at": "2026-05-12T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579720",
-        "http://www3.nhk.or.jp/news/html/20260511/k10015118601000.html",
-        "http://www3.nhk.or.jp/news/html/20260511/k10015118791000.html",
-        "http://www3.nhk.or.jp/news/html/20260511/k10015118591000.html",
-        "http://www3.nhk.or.jp/news/html/20260510/k10015118051000.html",
-        "https://zenn.dev/tokium_dev/articles/engineer-role-triangle-map",
-        "https://zenn.dev/btiw/articles/4420d8b95d3e09",
-        "https://zenn.dev/linuxmaster/articles/dirty-frag-cve-2026-43284-43500",
-        "https://www.anthropic.com/news/higher-limits-spacex",
-        "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
-        "https://grapheneos.social/@GrapheneOS/116550899908879585"
-      ],
-      "titles": [
-        "カルビー、ポテトチップスの袋を白黒2色に変更——中東情勢でインク原料が調達困難に",
-        "磐越道バス事故、「事故前から危ない運転だった」と乗車生徒が証言——捜査が本格化",
-        "JAMSTEC、日本近海の深海調査で新種38種を発見——「しんかい6500」が生物多様性を解明",
-        "赤ちゃん取り違え訴訟——東京都が68年前の被害者への「戸別訪問調査」を拒否",
-        "米・イラン核交渉——イランが停戦条件を提示、トランプ氏は「受け入れられない」と拒否",
-        "コードを書かなくなった我々は何者か——AI時代のエンジニアの役割を「Product / Platform / Evaluate」の3職責で再定義する",
-        "Claude Codeでの個人開発とセキュリティ管理——7リポジトリ構成システムで直面した秘密情報の扱い",
-        "Dirty Frag（CVE-2026-43284/43500）——Copy Failの暫定策が効かない理由と未パッチ期のLinux管理者対応",
-        "Anthropic Raises Usage Limits Across All Plans and Signs Compute Deal with SpaceX for Orbital AI Infrastructure",
-        "Anthropic's Mythos AI Model Finds a Real Vulnerability in curl — Daniel Stenberg's Firsthand Account",
-        "Hardware Attestation as a Monopoly Enabler — GrapheneOS Warns of Structural Lock-in Risk in Secure Enclave Ecosystems"
       ]
     }
   ]

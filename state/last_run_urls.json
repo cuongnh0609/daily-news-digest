@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-14T20:00:00+09:00",
+  "last_run_at": "2026-05-15T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-15T00:00:00+09:00",
+      "urls": [
+        "https://jiji.com/jc/article?k=2026051400622&g=eco",
+        "https://jiji.com/jc/article?k=2026051400612&g=eco",
+        "https://www.jiji.com/jc/article?k=2026051400729&g=pol",
+        "https://www.jiji.com/jc/article?k=2026051401123&g=pol",
+        "https://jiji.com/jc/article?k=2026051400113&g=soc",
+        "https://zenn.dev/truestar/articles/97be4dca3620d7",
+        "https://qiita.com/har1101/items/94bea21a5d489f17fcf0",
+        "https://qiita.com/hamham/items/b64e4e51d75b6b0525f3",
+        "https://github.blog/changelog/2026-05-14-copilot-cloud-agent-supports-auto-model-selection",
+        "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
+        "https://aws.amazon.com/agentcore"
+      ],
+      "titles": [
+        "ホンダ、上場以来初の最終赤字4239億円——EV戦略を大幅転換し2040年完全EV目標を撤回",
+        "日本の長期金利が2.635%——29年ぶりの高水準、インフレと日銀利上げ観測が背景に",
+        "高市首相、5月19日に訪韓——李大統領の地元で日韓首脳会談、安保・経済で連携強化へ",
+        "与野党9党がSNS偽情報対策で合意——プラットフォームへの義務化法整備、今国会成立目指す",
+        "再審法改正案、5月15日に閣議決定へ——検察抗告を「原則禁止」とする本則改正が自民了承",
+        "Notion Developer Platform発表を読み解く——Workers・Agents API・CLIで「人間とAIエージェントの協業空間」へ",
+        "MCPサーバーをAWS AgentCore Registryに集約——クロスアカウント管理とIAM認証で企業規模の運用を実現",
+        "Claude Codeで1ヶ月の作業が10分に——データ分析の劇的加速と「検証力」が問われるAI時代の落とし穴",
+        "GitHub Copilot Cloud Agent Gets Auto Model Selection — 10% Cost Discount and No Weekly Rate Limits",
+        "Global Cloud Infrastructure Market Surges 35% YoY to $129B — AWS at 28%, Azure 21%, Market Share Frozen Despite Boom",
+        "AWS AgentCore: Amazon Launches Fully Managed Runtime for Production AI Agents — Memory, Identity, and Sandboxing Included"
+      ]
+    },
     {
       "run_at": "2026-05-14T20:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "AlphaEvolve Scales Beyond Math: DeepMind's Gemini-Powered Coding Agent Now Optimizes Real-World Systems",
         "Googlebook: Google Launches AI-Native Laptop Where \"Intelligence Is the New Spec\"",
         "Needle: Distilling Gemini's Tool-Calling Into a 26M-Parameter Model for On-Device AI"
-      ]
-    },
-    {
-      "run_at": "2026-05-13T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579889",
-        "https://www.jiji.com/jc/article?k=2026051200712&g=soc",
-        "https://news.yahoo.co.jp/articles/257356e687fd46df84b0683f9b2127920a839454",
-        "https://www.jiji.com/jc/article?k=2026051300243&g=int",
-        "https://news.yahoo.co.jp/articles/377d754b0f97c05a083ad12c88b24a822dec7b4d",
-        "https://www.itmedia.co.jp/enterprise/articles/2605/13/news046.html",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/12/news_gpt55.html",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/12/news048.html",
-        "https://www.langchain.com/blog/delta-channels-evolving-agent-runtime",
-        "https://deepmind.google/blog/ai-pointer/",
-        "https://github.blog/changelog/2026-05-12-copilot-code-review-comment-experience-improvements/"
-      ],
-      "titles": [
-        "米中が一致——ホルムズ海峡の通航料、いかなる国にも認めず",
-        "磐越道バス事故から1週間——高校と運行会社の主張が食い違い、「白バス」疑いで捜査続く",
-        "日産・追浜工場の従業員約2000人、いすゞ・IHIなどが受け入れ意向——転籍望まない社員の受け皿に",
-        "対イラン軍事費が約4兆6000億円に増額——米政府高官が議会公聴会で明かす",
-        "米FDA長官が辞任——電子たばこ承認遅延でトランプ大統領が不満か",
-        "アクセンチュア、Anthropicと国内協業を本格化——Claude活用の4領域で日本企業のAI変革を支援",
-        "GPT-5.5は最高性能ではないのに、なぜエンジニアが熱狂するのか——カギは「最後まで自走する力」",
-        "OpenAI、企業のAI導入支援に本腰——「Deployment Company」設立と6000億円投資で展開加速",
-        "LangChain Delta Channels: Solving the O(N²) Storage Problem for Long-Running Agents",
-        "DeepMind: Reimagining the Mouse Pointer for the AI Era — Context-Aware Cursor That Understands Intent",
-        "GitHub Copilot Code Review Gets Severity Levels and Comment Grouping — Shipped to All Users"
-      ]
-    },
-    {
-      "run_at": "2026-05-13T05:00:00+09:00",
-      "urls": [
-        "https://www.nikkei.com/article/DGXZQOGN120CL0S6A510C2000000/",
-        "https://www.nhk.or.jp/rss/news/cat0.xml",
-        "https://www3.nhk.or.jp/news/html/20260513/k10015120001000.html",
-        "https://www3.nhk.or.jp/news/html/20260513/k10015120101000.html",
-        "https://www.nikkei.com/article/DGXZQOGM120000S6A510C2000000/",
-        "https://zenn.dev/karaagedesu/articles/context-engineering-2026",
-        "https://zenn.dev/thujikun/articles/ai-harness-automation-2026",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/12/news_mythos.html",
-        "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
-        "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-        "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim"
-      ],
-      "titles": [
-        "ムーディーズ、米国の信用格付けをAaaからAa1に引き下げ——約10年ぶりの格下げ",
-        "GDP年率2.9%減——1〜3月期、個人消費の不振で3四半期連続マイナス成長",
-        "自民党大会で「改憲宣言」を採択——夏の参院選に向け憲法改正の機運を醸成",
-        "北朝鮮が「宇宙発射体」を打ち上げ——日本政府が強く抗議、安保理への招集要請も",
-        "TSMC、第1四半期売上が過去最高を更新——AI半導体需要がフル生産体制を牽引",
-        "Context Engineeringとは何か？——プロンプトの次に来る「LLMへの情報設計」という新技術",
-        "AIのハーネスを徹底的に整えたら、レビューもシステム運用も自動化——非エンジニアも開発参加できた話",
-        "AnthropicがAIサイバーセキュリティツール「Claude Mythos」を正式リリース——実際に脆弱性発見に成功",
-        "DeepMind's AlphaEvolve: A Gemini-Powered Coding Agent That Evolves Algorithms Through Self-Play",
-        "If AI Writes Your Code, Why Use Python? — Rethinking Language Choice in the Agentic Era",
-        "Dead.Letter (CVE-2026-45185): XBOW Discovers Unauthenticated Remote Code Execution in Exim Mail Server"
       ]
     }
   ]

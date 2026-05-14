@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-15T00:00:00+09:00",
+  "last_run_at": "2026-05-15T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-15T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6580182",
+        "https://news.yahoo.co.jp/articles/195093012837406b5d9505d836a47c24de9cb3d1",
+        "https://news.yahoo.co.jp/pickup/6580180",
+        "https://www.nikkei.com/article/DGXZQOUC115S50R10C26A5000000/",
+        "https://news.yahoo.co.jp/pickup/6580179",
+        "https://www.publickey1.jp/blog/26/vs_codeaiagent_window.html",
+        "https://zenn.dev/claude-code-community/articles/2026-05-14-claude-code-may-update-roundup",
+        "https://zenn.dev/rake_ho/items/cc6f7a30c92a6b7d2e51",
+        "https://www.anthropic.com/engineering/managed-agents",
+        "https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/",
+        "https://deepmind.google/blog/ai-pointer/"
+      ],
+      "titles": [
+        "米中首脳会談、「親密さ」を演出——習近平氏が台湾問題で強くけん制",
+        "大谷翔平、今季3勝目——7回4安打8奪三振の完璧投球でドジャース勝利",
+        "大阪メトロ、万博用EVバス190台で67億円の損失計上——中国製バスが相次ぐ故障",
+        "スズキが世界販売でホンダを超え、日本車メーカーとして初の2位へ",
+        "栃木・強盗殺人事件、背後に「匿流」か——16歳が逮捕、組織的犯罪の疑い",
+        "VS Code 1.120、複数AIエージェントの並列管理を可能にする「Agent window」をプレビュー公開",
+        "Claude Code 5月アップデート総括——Skills検索とAsync Hooksで個人開発パイプラインが変わる",
+        "「コードを書かずに開発したら費用がかさんだ」——新人エンジニアがAI時代に磨くべき能力とは",
+        "Anthropic Engineering: Scaling Managed Agents — Decoupling the Brain from the Hands",
+        "GitHub Copilot App Launches in Technical Preview — Agentic Desktop Client with Isolated Sessions and Agent Merge",
+        "Google DeepMind: Reimagining the Mouse Pointer for the AI Era — Pixels Become Actionable Entities"
+      ]
+    },
     {
       "run_at": "2026-05-15T00:00:00+09:00",
       "urls": [

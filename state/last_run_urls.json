@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-14T05:00:00+09:00",
+  "last_run_at": "2026-05-14T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-14T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/",
+        "https://news.yahoo.co.jp/",
+        "https://www.itmedia.co.jp/news/articles/2605/14/news068.html",
+        "https://news.yahoo.co.jp/",
+        "https://news.yahoo.co.jp/",
+        "https://zenn.dev/notahotel/articles/claude-routine-auto-fix-issue",
+        "https://zenn.dev/edash_tech_blog/articles/383410d9a1afba",
+        "https://zenn.dev/shiromizuj/articles/4c812b32c421c0",
+        "https://www.anthropic.com/news/claude-for-small-business",
+        "https://www.langchain.com/blog/introducing-managed-deep-agents",
+        "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/"
+      ],
+      "titles": [
+        "日産自動車、2年連続で巨額最終赤字——EV競争と北米販売不振が直撃",
+        "イスラエル首相がUAEを極秘訪問——ガザ停戦交渉と中東外交が新局面へ",
+        "米中首脳会談にマスク・フアン・クック氏ら17人のテック幹部が同行——ビジネス外交の新形態",
+        "巨人・坂本勇人、通算300本塁打を達成——12回裏にサヨナラ3ランで歴史的節目",
+        "脳の自己修復メカニズムを解明——脳卒中後の機能回復に新たな治療への道",
+        "Claude Code Routinesでチームの GitHub Issue を15分おきに自動対応——NOT A HOTEL の実践報告",
+        "QAエンジニアの思考をAIエージェントに移植する——4サブエージェント構成のテスト自動化設計",
+        "Mastraが Temporal Workflows対応を発表——長時間エージェントの「壊れにくい実行」が実現へ",
+        "Anthropic Launches Claude for Small Business: 15 Pre-Built Agentic Workflows with PayPal, QuickBooks & HubSpot",
+        "LangChain Launches Managed Deep Agents: A Hosted Runtime for Long-Running Production Agents",
+        "How I Moved My Entire Digital Stack to Europe: A Developer's Guide to Digital Sovereignty"
+      ]
+    },
     {
       "run_at": "2026-05-14T05:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-14T10:00:00+09:00",
+  "last_run_at": "2026-05-14T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-14T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6580102",
+        "https://news.yahoo.co.jp/pickup/6580099",
+        "https://news.yahoo.co.jp/pickup/6580095",
+        "https://www.jiji.com/jc/article?k=2026051400578&g=soc",
+        "https://www.jiji.com/jc/article?k=2026051400638&g=soc",
+        "https://www.publickey1.jp/blog/26/anthropicawsclaude_platform_on_awsclaudeaws.html",
+        "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
+        "https://zenn.dev/optimisuke/articles/40529cd970cbf0",
+        "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
+        "https://avkcode.github.io/blog/us-winning-ai-race.html",
+        "https://simonwillison.net/2026/May/11/gitlab-act-2/"
+      ],
+      "titles": [
+        "米中首脳会談——習主席が台湾問題で強くけん制、トランプ氏と貿易・イランめぐり協議",
+        "ホンダ、上場以来初の最終赤字——EV3車種の開発中止で1兆5770億円の損失計上",
+        "栃木・上三川町で住宅強盗——60代女性が死亡、息子2人が重軽傷",
+        "世田谷一家殺害事件の現場に侵入——ベトナム国籍の2人を窃盗目的で逮捕",
+        "無登録で870億円集金か——金商法違反の疑いで6人逮捕、海外法人への投資と称し勧誘",
+        "AnthropicがAWS上で「Claude Platform on AWS」を正式リリース——Bedrockとは異なるAnthropic直接運営モデル",
+        "JavaScriptランタイムBun、ClaudeでZigからRustへ移行中——1週間で全プラットフォームのテストをパス",
+        "ログイン済みのChromeをそのままClaude Codeから操作——playwright-cli attachで認証セッションを再利用",
+        "MacBook Neo Deep Dive: Apple's $599 Chip Is Fast Until It Gets Hot",
+        "The US Is Winning the AI Race Where It Matters Most: Commercialization",
+        "GitLab Act 2: Workforce Cuts, Management Delayering, and an All-In Bet on Agentic Development"
+      ]
+    },
     {
       "run_at": "2026-05-14T10:00:00+09:00",
       "urls": [
@@ -110,7 +139,7 @@
         "ソフトバンクG、純利益5兆円超で日本企業史上最高——OpenAI投資益が牽引",
         "防衛費のGDP比「3〜5%」目標を念頭に——自民調査会が論点整理案を提示",
         "SlackでインフラトラブルシューティングできるAgentを作った——ネットワーク隔離とmitmproxyで「AIの暴走」を防ぐ設計",
-        "Claude CodeにAWSコスト調査を任せたら数千万円分の改善ポイントが見つかった",
+        "Claude CodeにAWSコスト調査をさせたら数千万円分の改善ポイントが見つかった",
         "キーワード検索1回だけで精度を出すRAG技術「SIRA」——BEIRベンチマークでベクトル検索を上回る",
         "Hopper: The First Agentic Development Environment for Mainframes — AI Agents Now Tackle COBOL and z/OS",
         "Quack: DuckDB Launches Its Own Client-Server Protocol — 60M Rows in Under 5 Seconds",
@@ -202,64 +231,6 @@
         "DeepMind's AlphaEvolve: A Gemini-Powered Coding Agent That Evolves Algorithms Through Self-Play",
         "If AI Writes Your Code, Why Use Python? — Rethinking Language Choice in the Agentic Era",
         "Dead.Letter (CVE-2026-45185): XBOW Discovers Unauthenticated Remote Code Execution in Exim Mail Server"
-      ]
-    },
-    {
-      "run_at": "2026-05-13T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579860",
-        "https://www.jiji.com/jc/article?k=2026051201248&g=int",
-        "https://news.yahoo.co.jp/pickup/6579856",
-        "https://www.jiji.com/jc/article?k=2026051201174&g=pol",
-        "https://news.yahoo.co.jp/pickup/6579864",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/12/news147.html",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/12/news144.html",
-        "https://www.itmedia.co.jp/enterprise/articles/2605/12/news050.html",
-        "https://www.langchain.com/blog/the-agent-development-lifecycle",
-        "https://www.langchain.com/blog/runtime-behind-production-deep-agents",
-        "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections"
-      ],
-      "titles": [
-        "イラン国会議長、米に最後通告——14項目提案を拒否すれば「失敗」と強硬姿勢",
-        "米消費者物価、4月に3.8%上昇——原油急騰でインフレ加速、予想を上回る",
-        "ニデック、品質不正疑い——モーター部品で設計変更か、弁護士調査委を設置へ",
-        "中道改革連合、亀井前議員の離党を了承——衆院選落選を受け政界引退へ",
-        "三笘薫、ワールドカップ期間中の復帰困難——日本代表入りも厳しい状況に",
-        "AIがゼロデイ攻撃を生成する時代へ——GoogleのGTIGが脅威グループによる生成AI悪用の新局面を報告",
-        "警視庁、「シャドーAI」に注意喚起——企業管理外AIサービス利用の3大リスクを指摘",
-        "AIエージェント導入企業の8割が「人員削減」計画——Gartner調査、2027年に市場4倍超へ",
-        "The Agent Development Lifecycle: Harrison Chase's Four-Phase Framework for Production AI Agents",
-        "The Runtime Behind Production Deep Agents: LangChain's Blueprint for Durable, Multi-Tenant Agent Infrastructure",
-        "vLLM V0 to V1: How ServiceNow Fixed Silent Correctness Bugs That Were Quietly Breaking RL Training"
-      ]
-    },
-    {
-      "run_at": "2026-05-12T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026051200911&g=int",
-        "https://news.yahoo.co.jp/pickup/6579839",
-        "https://www.jiji.com/jc/article?k=2026051200975&g=pol",
-        "https://www.itmedia.co.jp/news/articles/2605/12/news142.html",
-        "https://www.itmedia.co.jp/news/articles/2605/12/news073.html",
-        "https://zenn.dev/flinters_blog/articles/d824ce0576dcf2",
-        "https://zenn.dev/assign/articles/4ba3d41bf59a61",
-        "https://zenn.dev/nocodesolutions/articles/6df07230149e08",
-        "https://simonwillison.net/2026/May/11/llm-shebang/",
-        "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-        "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
-      ],
-      "titles": [
-        "カリフォルニア州市長、中国政府の工作員として起訴——親中プロパガンダ運営を認め辞職",
-        "ローム、過去最大1584億円の最終赤字——EV低迷で減損1936億円、半導体再編へ",
-        "国民民主党、補正予算3兆円・5万円給付を要求——イラン情勢緊迫を受けた緊急経済対策",
-        "DeNA、南場智子氏が社長兼CEOに復帰——創業者が経営刷新へ再登板",
-        "iPhoneとAndroid間のRCSメッセージ、iOS 26.5でエンドツーエンド暗号化に対応",
-        "「確か前に〇〇って言ってたよね」——Claude Codeにエピソード記憶を持たせる3層メモリ設計",
-        "AI駆動PMの5原則と12の具体例——Claude Code × Obsidianで実現する次世代プロジェクト管理",
-        "業務で本当に使えるClaude MCPサーバー厳選10選——セキュリティと中央ハブ設計で「AIの野放し」を防ぐ",
-        "Using LLM in the Shebang Line — Simon Willison's New Pattern for Executable AI Scripts",
-        "Google Confirms Criminal Hackers Used AI to Discover a Major Software Vulnerability",
-        "I Let AI Build a Tool to Help Me Figure Out What Was Waking Me Up at Night"
       ]
     }
   ]

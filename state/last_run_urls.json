@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-15T15:00:00+09:00",
+  "last_run_at": "2026-05-15T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-15T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/topics/domestic",
+        "https://news.yahoo.co.jp/topics/domestic",
+        "https://news.yahoo.co.jp/topics/domestic",
+        "https://news.yahoo.co.jp/topics/world",
+        "https://news.yahoo.co.jp/topics/world",
+        "https://zenn.dev/komlock_lab/articles/zero-knowledge-proof-2026",
+        "https://monoist.itmedia.co.jp/mn/articles/2605/15/news087.html",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news038.html",
+        "https://www.latent.space/p/ainews-everything-is-conductor",
+        "https://writing.antonleicht.me/p/cut-off",
+        "https://www.anthropic.com/news/pwc-expanded-partnership"
+      ],
+      "titles": [
+        "高市首相がトランプ大統領と電話会談——米中首脳会談後の日米連携を確認",
+        "東京都が麻疹の緊急ワクチン接種を18日から開始——10年ぶりの感染急増で対策強化",
+        "広島・呉市の山林火災、650人以上が避難——鎮火のめど立たず消火活動続く",
+        "米中首脳会談が閉幕——農産物購入・イラン調整で合意、台湾問題では応酬",
+        "インド北部で砂嵐と豪雨が相次ぐ——死者96人、住宅や建物に大規模被害",
+        "AIエージェント時代のプライバシー問題——ゼロ知識証明がデフォルトインフラになる理由",
+        "ファナックがGoogleと協業——AIエージェントがロボットを直接操作する製造DXへ",
+        "リコーが独自LMMを発表——図表・画像も処理できる「商用モデル並み」の国産AIモデル",
+        "Everything is Conductor: The Agent-First IDE Pattern Converges Across the Industry",
+        "Cut Off: Access to Frontier AI Will Soon Be Scarce — Economic and Security Forces Are the Gate",
+        "Anthropic and PwC Expand Partnership: Claude Code Rolls Out to Hundreds of Thousands of Professionals"
+      ]
+    },
     {
       "run_at": "2026-05-15T15:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "Anthropic Launches 7 Specialized Finance Agents: Claude Cowork Brings AI to Wall Street's Full Stack",
         "GitHub Copilot Cloud Agents Now Accessible via REST API — Programmatic Task Triggering Arrives",
         "Node.js 26 Enables Temporal API by Default — JavaScript's Long-Awaited Replacement for the Date Object"
-      ]
-    },
-    {
-      "run_at": "2026-05-14T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580018",
-        "https://news.yahoo.co.jp/pickup/6580011",
-        "https://www.jiji.com/jc/article?k=2026051300195&g=soc",
-        "https://www.jiji.com/jc/article?k=2026051300909&g=pol",
-        "https://www.jiji.com/jc/article?k=2026051300171&g=soc",
-        "https://zenn.dev/kitamotors/articles/2026-05-13-kita-memory-architecture-overview",
-        "https://zenn.dev/memol/articles/5262897823558c",
-        "https://zenn.dev/lienjack/articles/04-1-context-management",
-        "https://www.anthropic.com/news/higher-limits-spacex",
-        "https://simonwillison.net/2026/May/12/llm/",
-        "https://github.com/cactus-compute/needle"
-      ],
-      "titles": [
-        "再審法改正案が自民党で了承——検察側は「抗告原則禁止」に強い反発",
-        "イラン革命防衛隊、ホルムズ海峡の管轄範囲を大幅拡大——緊張高まる中東情勢",
-        "第79回カンヌ映画祭が開幕——是枝・濱口・深田の3監督がパルムドール争い",
-        "高市首相「研究開発費の倍増目指す」——経団連の科学技術提言を受け成長戦略に明記へ",
-        "改正物流効率化法が成立——「中継輸送」で長距離ドライバー不足に対応",
-        "Claude Codeに長期記憶を——自作ツール「kita-memory」の3層アーキテクチャ",
-        "個人から「チームのプロンプト集」へ——MCPでClaudeに社内テンプレートを喋らせる",
-        "Claude Code内部解剖 第4章——6段階「コンテキスト圧縮パイプライン」の設計思想",
-        "Anthropic Doubles Claude Code Limits and Signs 300MW Compute Deal with SpaceX Colossus",
-        "LLM CLI 0.32a2: Simon Willison Adds GPT-5 and OpenAI Responses API with Live Reasoning Display",
-        "Needle: A 26M-Parameter Tool-Calling Model Distilled from Gemini — 6,000 Tokens/sec on Edge Devices"
-      ]
-    },
-    {
-      "run_at": "2026-05-13T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579969",
-        "https://www.jiji.com/jc/article?k=2026051300687&g=pol",
-        "https://news.yahoo.co.jp/pickup/6579984",
-        "https://www.jiji.com/jc/article?k=2026051300804&g=flash",
-        "https://www.jiji.com/jc/article?k=2026051300938&g=pol",
-        "https://zenn.dev/ubie_dev/articles/b712ec880ac038",
-        "https://zenn.dev/geniee/articles/claude-code-aws-cost-optimization",
-        "https://zenn.dev/knowledgesense/articles/67370650799bc6",
-        "https://www.hypercubic.ai/hopper",
-        "https://duckdb.org/2026/05/12/quack-remote-protocol",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/13/news118.html"
-      ],
-      "titles": [
-        "国産レアアース採掘船の建造構想、自民党が政府へ提言へ",
-        "再審法案、今国会への提出が決定——抗告を「原則禁止」とする本則改正",
-        "磐越道バス事故から1週間——目撃通報者が「あまりに異常な運転」と証言",
-        "ソフトバンクG、純利益5兆円超で日本企業史上最高——OpenAI投資益が牽引",
-        "防衛費のGDP比「3〜5%」目標を念頭に——自民調査会が論点整理案を提示",
-        "SlackでインフラトラブルシューティングできるAgentを作った——ネットワーク隔離とmitmproxyで「AIの暴走」を防ぐ設計",
-        "Claude CodeにAWSコスト調査をさせたら数千万円分の改善ポイントが見つかった",
-        "キーワード検索1回だけで精度を出すRAG技術「SIRA」——BEIRベンチマークでベクトル検索を上回る",
-        "Hopper: The First Agentic Development Environment for Mainframes — AI Agents Now Tackle COBOL and z/OS",
-        "Quack: DuckDB Launches Its Own Client-Server Protocol — 60M Rows in Under 5 Seconds",
-        "U.S. DoD Adopts Claude Mythos for Cybersecurity Despite Broader Anthropic Restrictions"
-      ]
-    },
-    {
-      "run_at": "2026-05-13T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6579918",
-        "https://www.jiji.com/jc/article?k=2026051300389&g=soc",
-        "https://news.yahoo.co.jp/pickup/6579927",
-        "https://news.yahoo.co.jp/pickup/6579920",
-        "https://www.jiji.com/jc/article?k=2026051300577&g=soc",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/13/news101.html",
-        "https://zenn.dev/memorylakeai/articles/02aa812660caa9",
-        "https://zenn.dev/kei_concierge/articles/claude-code-token-optimization",
-        "https://deepmind.google/blog/alphaevolve-impact/",
-        "https://googlebook.google/",
-        "https://github.com/cactus-compute/needle"
-      ],
-      "titles": [
-        "旧姓使用法案の国会提出、政府が今国会での見送りを決定",
-        "iPS細胞由来パーキンソン病治療薬「アムシェプリ」、世界初の公的保険適用へ",
-        "ロシア、停戦へ軟化の兆し——イランとの紛争がウクライナ交渉を加速",
-        "ナフサ急騰で包装コスト3割増——スーパーや中小製造業に「ナフサショック」の波",
-        "大野雄二さん死去・享年84歳——「ルパン三世」テーマで世界に愛されたジャズ作曲家",
-        "三菱UFJ・三井住友・みずほの3メガバンク、AnthropicのClaude Mythos Previewを導入",
-        "自律Agentと「記憶」の壁——Claude Code /goalから考えるMemory Layerアーキテクチャ",
-        "Claude Codeのトークン消費を半分にした5つのテクニック——月額コストを$80→$38に削減",
-        "AlphaEvolve Scales Beyond Math: DeepMind's Gemini-Powered Coding Agent Now Optimizes Real-World Systems",
-        "Googlebook: Google Launches AI-Native Laptop Where \"Intelligence Is the New Spec\"",
-        "Needle: Distilling Gemini's Tool-Calling Into a 26M-Parameter Model for On-Device AI"
       ]
     }
   ]

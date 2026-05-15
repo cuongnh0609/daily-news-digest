@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-15T05:00:00+09:00",
+  "last_run_at": "2026-05-15T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-15T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6580231",
+        "https://news.yahoo.co.jp/pickup/6580243",
+        "https://news.yahoo.co.jp/pickup/6580230",
+        "https://news.yahoo.co.jp/pickup/6580226",
+        "https://news.yahoo.co.jp/pickup/6580211",
+        "https://zenn.dev/aws_japan/articles/005-bedrock-agent-registry-dynamic-loading",
+        "https://zenn.dev/peka2/articles/6dc7d5a87a99dd",
+        "https://www.itmedia.co.jp/news/articles/2605/15/news075.html",
+        "https://anthropic.com/news/claude-opus-4-7",
+        "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+        "https://github.blog/changelog/2026-05-13-introducing-copilot-cli-agent-and-unified-sessions-view-in-github-copilot-for-jetbrains-ides"
+      ],
+      "titles": [
+        "米中首脳会談2日目——台湾問題で激しい応酬、イランをめぐる利害対立も浮上",
+        "長期金利が一時2.73%に上昇——約29年ぶりの高水準、財政悪化懸念が加速",
+        "サッカーW杯日本代表26名を発表——三笘薫は左ハムスト負傷で落選、長友佑都が史上初5大会連続選出",
+        "声優・山崎和佳奈さんが死去——「名探偵コナン」毛利蘭役を30年近く担当、61歳",
+        "著作権法改正を閣議決定——歌手・レコード会社も商業BGM使用料の配分対象に",
+        "AWS Bedrock Agent RegistryでMCP/Skill/A2Aエージェントを動的ロード——コードデプロイ不要で新ツールを即時反映",
+        "CLAUDE.md / AGENTS.mdに追記すべき数行のルール——コード品質をAIと上げるための実践的スニペット集",
+        "OpenAIをサプライチェーン攻撃が直撃——170以上のnpmパッケージが汚染、macOSユーザーに6月12日までのアプリ更新を要請",
+        "Anthropic Releases Claude Opus 4.7 — 13% Better Coding, Triple the Vision Resolution, and xhigh Effort Control",
+        "How Claude Code Works in Large Codebases — The Harness Matters as Much as the Model",
+        "GitHub Copilot CLI Agent and Unified Sessions View Launch for JetBrains IDEs — Worktree Isolation and .agent.md Support"
+      ]
+    },
     {
       "run_at": "2026-05-15T05:00:00+09:00",
       "urls": [

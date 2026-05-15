@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-15T20:00:00+09:00",
+  "last_run_at": "2026-05-16T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-16T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6580312",
+        "https://www.jiji.com/jc/article?k=2026051500872&g=pol",
+        "https://news.yahoo.co.jp/pickup/6580291",
+        "https://news.yahoo.co.jp/pickup/6580293",
+        "https://news.yahoo.co.jp/pickup/6580270",
+        "https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge",
+        "https://www.itmedia.co.jp/news/articles/2605/15/news068.html",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news016.html",
+        "https://www.anthropic.com/news/gates-foundation-partnership",
+        "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+        "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/"
+      ],
+      "titles": [
+        "補正予算案の編成、首相が来週表明へ——電気・ガス代補助の再開を軸に検討",
+        "日米首脳が電話会談——米中首脳会談の結果を共有し、揺るぎない同盟を確認",
+        "地方民放の系列超え経営統合を総務省が容認——テレビ離れと人口減で「1局2波」再編へ",
+        "宮城県沖でM6.3の地震——最大震度5弱、津波の心配なし",
+        "「ナシ婚」が増加——挙式・披露宴なしを選ぶカップルが6割超、経済負担と価値観の変化が背景に",
+        "LLMの真の強みは「知識を繋げる力」——Karpathy式LLM Wikiを1ヶ月運用して見えた知的統合の実態",
+        "朝日・日経がPerplexityを提訴——AI検索による無断記事利用で計4400万円の損害賠償を請求",
+        "Python 3.15 ベータ1リリース——frozendict・遅延import・UTF-8デフォルト化など多数の新機能",
+        "Anthropic Forms $200M Partnership with the Gates Foundation — AI for Global Health, Education, and Economic Mobility",
+        "First Public macOS Kernel Memory Corruption Exploit on Apple M5 — MIE Bypass Achieved in 5 Days with AI Assistance",
+        "Anthropic Is Hiding Its Most Powerful AI 'Mythos' — Safety Theater or Real Compute Constraint?"
+      ]
+    },
     {
       "run_at": "2026-05-15T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Launches Claude for Small Business: 15 Pre-Built Agentic Workflows with PayPal, QuickBooks & HubSpot",
         "LangChain Launches Managed Deep Agents: A Hosted Runtime for Long-Running Production Agents",
         "How I Moved My Entire Digital Stack to Europe: A Developer's Guide to Digital Sovereignty"
-      ]
-    },
-    {
-      "run_at": "2026-05-14T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580022",
-        "https://news.yahoo.co.jp/pickup/6580006",
-        "https://news.yahoo.co.jp/pickup/6580010",
-        "https://news.yahoo.co.jp/pickup/6580007",
-        "https://news.yahoo.co.jp/pickup/6580016",
-        "https://www.itmedia.co.jp/news/articles/2605/13/news136.html",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news054.html",
-        "https://www.publickey1.jp/blog/26/aipythonmojo.html",
-        "https://www.anthropic.com/news/finance-agents",
-        "https://github.blog/changelog/2026-05-13-start-copilot-cloud-agent-tasks-via-the-rest-api",
-        "https://www.publickey1.jp/blog/26/nodejsdatetemporaltemporalchromeedgefirefoxnodejs.html"
-      ],
-      "titles": [
-        "東京・八王子の住宅地近くにクマ出没——専門家「都市部への接近が続く」と警鐘",
-        "磐越道バス事故から1週間——保護者が怒りをにじませ「学校とバス会社が責任を押しつけ合っている」",
-        "不動産大手5社、売上高と最終利益が過去最高を更新——マンション高騰と中東リスクが二極化",
-        "日本製鉄、山陽特殊製鋼を2027年4月に吸収合併——「戦後最大の倒産」から再建した老舗に幕",
-        "高市首相、G7サミット前にイギリス・イタリア訪問を調整——来月の首脳外交が本格化",
-        "GoogleがAndroid向けAIエージェント「Gemini Intelligence」を発表——スマホが「自動操縦」で複雑タスクをこなす時代へ",
-        "AIエージェントの意思決定、まだ信用されていない——Dynatrace調査で浮かぶ「人の目」依存の現実",
-        "AI高速化特化の新言語「Mojo」がベータ版に——「Pythonのように書き、C++のように実行する」を現実に",
-        "Anthropic Launches 7 Specialized Finance Agents: Claude Cowork Brings AI to Wall Street's Full Stack",
-        "GitHub Copilot Cloud Agents Now Accessible via REST API — Programmatic Task Triggering Arrives",
-        "Node.js 26 Enables Temporal API by Default — JavaScript's Long-Awaited Replacement for the Date Object"
       ]
     }
   ]

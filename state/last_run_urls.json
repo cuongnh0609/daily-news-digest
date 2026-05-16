@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-16T15:00:00+09:00",
+  "last_run_at": "2026-05-16T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-16T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6580385",
+        "https://www.jiji.com/jc/article?k=2026051600381&g=soc",
+        "https://www.jiji.com/jc/article?k=2026051600346&g=int",
+        "https://news.yahoo.co.jp/pickup/6580391",
+        "https://news.yahoo.co.jp/pickup/6580381",
+        "https://zenn.dev/globis/articles/94762dc8ec7914",
+        "https://www.itmedia.co.jp/news/articles/2605/16/news027.html",
+        "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
+        "https://simonwillison.net/2026/May/14/not-so-locked-in/",
+        "https://about.gitlab.com/blog/gitlab-act-2/",
+        "https://kabir.au/blog/the-ctf-scene-is-dead"
+      ],
+      "titles": [
+        "プーチン大統領、19〜20日に中国訪問——習近平氏と会談へ",
+        "東大「五月祭」、爆破予告受け16日のイベントを全面中止",
+        "NYメトロで30年ぶりのストライキ——当局「30万人の通勤に影響」",
+        "17日は各地で真夏日予想——熱中症に警戒を、異例の5月の高温",
+        "トランプ大統領、ISナンバー2の殺害を発表——中東作戦が継続",
+        "Claude Code 1000セッション分析——フックとセルフレビューでリードタイムを10%短縮した話",
+        "OpenAI、ChatGPTに個人向け資産管理機能を追加——1万2000以上の金融機関と連携",
+        "JavaScriptランタイムBunがClaudeを使ってZigからRustへ移植——1週間で99.8%のテスト通過",
+        "Not So Locked In Any More: AI Coding Agents Have Made Technology Choice Reversible",
+        "GitLab Act 2: Restructuring the Company Around Agentic Software Development",
+        "Frontier AI Has Broken the Open CTF Format — Security Research Is Entering a New Era"
+      ]
+    },
     {
       "run_at": "2026-05-16T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Engineering: Scaling Managed Agents — Decoupling the Brain from the Hands",
         "GitHub Copilot App Launches in Technical Preview — Agentic Desktop Client with Isolated Sessions and Agent Merge",
         "Google DeepMind: Reimagining the Mouse Pointer for the AI Era — Pixels Become Actionable Entities"
-      ]
-    },
-    {
-      "run_at": "2026-05-15T00:00:00+09:00",
-      "urls": [
-        "https://jiji.com/jc/article?k=2026051400622&g=eco",
-        "https://jiji.com/jc/article?k=2026051400612&g=eco",
-        "https://www.jiji.com/jc/article?k=2026051400729&g=pol",
-        "https://www.jiji.com/jc/article?k=2026051401123&g=pol",
-        "https://jiji.com/jc/article?k=2026051400113&g=soc",
-        "https://zenn.dev/truestar/articles/97be4dca3620d7",
-        "https://qiita.com/har1101/items/94bea21a5d489f17fcf0",
-        "https://qiita.com/hamham/items/b64e4e51d75b6b0525f3",
-        "https://github.blog/changelog/2026-05-14-copilot-cloud-agent-supports-auto-model-selection",
-        "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
-        "https://aws.amazon.com/agentcore"
-      ],
-      "titles": [
-        "ホンダ、上場以来初の最終赤字4239億円——EV戦略を大幅転換し2040年完全EV目標を撤回",
-        "日本の長期金利が2.635%——29年ぶりの高水準、インフレと日銀利上げ観測が背景に",
-        "高市首相、5月19日に訪韓——李大統領の地元で日韓首脳会談、安保・経済で連携強化へ",
-        "与野党9党がSNS偽情報対策で合意——プラットフォームへの義務化法整備、今国会成立目指す",
-        "再審法改正案、5月15日に閣議決定へ——検察抗告を「原則禁止」とする本則改正が自民了承",
-        "Notion Developer Platform発表を読み解く——Workers・Agents API・CLIで「人間とAIエージェントの協業空間」へ",
-        "MCPサーバーをAWS AgentCore Registryに集約——クロスアカウント管理とIAM認証で企業規模の運用を実現",
-        "Claude Codeで1ヶ月の作業が10分に——データ分析の劇的加速と「検証力」が問われるAI時代の落とし穴",
-        "GitHub Copilot Cloud Agent Gets Auto Model Selection — 10% Cost Discount and No Weekly Rate Limits",
-        "Global Cloud Infrastructure Market Surges 35% YoY to $129B — AWS at 28%, Azure 21%, Market Share Frozen Despite Boom",
-        "AWS AgentCore: Amazon Launches Fully Managed Runtime for Production AI Agents — Memory, Identity, and Sandboxing Included"
       ]
     }
   ]

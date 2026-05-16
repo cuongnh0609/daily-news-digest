@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-16T10:00:00+09:00",
+  "last_run_at": "2026-05-16T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-16T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/topics/world",
+        "https://news.yahoo.co.jp/topics/world",
+        "https://news.yahoo.co.jp/topics/world",
+        "https://news.yahoo.co.jp/topics/world",
+        "https://www.jiji.com/",
+        "https://zenn.dev/aws_japan/articles/agent-registry-dynamic-harness",
+        "https://zenn.dev/memorylakeai/articles/multi-agent-shared-memory-layer",
+        "https://zenn.dev/kenimo49/articles/claude-code-4-extensions-guide",
+        "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
+        "https://www.langchain.com/blog/langsmith-engine",
+        "https://github.blog/changelog/2026-05-15-copilot-memory-supports-user-preferences-for-pro-pro-users"
+      ],
+      "titles": [
+        "台湾当局者「すでに独立国家」と明言——トランプ氏の警告直後に異例の発信",
+        "米中会談、表舞台の笑顔とは裏腹に——諜報戦・サイバー攻撃の応酬が水面下で続く",
+        "イスラエル・レバノン停戦を再延長——中東情勢の長期安定化に向け交渉継続",
+        "米、イラン核交渉で「ウラン濃縮停止」案を初めて譲歩——合意への道筋が見え始める",
+        "栃木・強盗殺人、新たに16歳少年2人を逮捕——組織的な犯行グループ全容解明へ",
+        "Agent RegistryでMCP・Skill・A2AエージェントをAPIなしで動的ロード——コードデプロイ不要の新アーキテクチャ",
+        "マルチAIエージェント時代の記憶アーキテクチャ——Shared Memory Layer設計で「忘れるエージェント」を卒業する",
+        "Claude Codeの4拡張（Skills / MCP / Hooks / Plugins）を使い分ける実践ガイド——どれをいつ使うべきか",
+        "Cerebras Goes Public at $60B — Trillion-Parameter Serving for OpenAI and the Inference Infrastructure Bet",
+        "LangSmith Engine Public Beta: AI Watches Your Production Traces and Automatically Opens PRs to Fix Agent Bugs",
+        "GitHub Copilot Memory Now Stores Your Commit Style and PR Preferences — Persistent Personalization Across Sessions"
+      ]
+    },
     {
       "run_at": "2026-05-16T10:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "GitHub Copilot Cloud Agent Gets Auto Model Selection — 10% Cost Discount and No Weekly Rate Limits",
         "Global Cloud Infrastructure Market Surges 35% YoY to $129B — AWS at 28%, Azure 21%, Market Share Frozen Despite Boom",
         "AWS AgentCore: Amazon Launches Fully Managed Runtime for Production AI Agents — Memory, Identity, and Sandboxing Included"
-      ]
-    },
-    {
-      "run_at": "2026-05-14T20:00:00+09:00",
-      "urls": [
-        "https://news.web.nhk/newsweb/na/na-k10015121691000",
-        "https://news.web.nhk/newsweb/na/na-k10015121791000",
-        "https://news.yahoo.co.jp/pickup/6580143",
-        "https://news.yahoo.co.jp/pickup/6580132",
-        "https://news.yahoo.co.jp/pickup/6580145",
-        "https://qiita.com/salaryman/items/5c259e7b4ea37b3855bf",
-        "https://www.publickey1.jp/blog/26/aized_10atomrust.html",
-        "https://zenn.dev/atamaplus/articles/resolve-review-bottleneck",
-        "https://www.latent.space/p/ainews-codex-rises-claude-meters",
-        "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
-        "https://www.tryardent.com/"
-      ],
-      "titles": [
-        "カゴメ、中東情勢によるインク不足でケチャップのパッケージデザインを変更",
-        "ENEOSタンカー、日本人4名乗船でホルムズ海峡を無事通過",
-        "スタジオジブリ、宮崎吾朗氏が社長に就任——新体制で創作活動を継続",
-        "国交省局長、北陸新幹線延伸めぐる不適切発言で日本維新の会に謝罪",
-        "大阪府警、飲み会への参加を強制した警部を懲戒処分",
-        "AIエージェントのSkills機能を徹底比較——Manus・Claude Code・ZenAIで業務自動化の適材適所を探る",
-        "Zed 1.0正式リリース——人間とAIエージェントの共同作業に特化したRust製コードエディタ",
-        "AIエージェント時代のコードレビューボトルネック解消——3層AI審査システムでPRマージ数を+165%に",
-        "Codex Rises as Claude Meters Programmatic Usage — The Subscription War Reshapes AI Developer Tooling",
-        "YellowKey Zero-Day: BitLocker-Protected Drives Can Be Unlocked with Just Files on a USB Stick",
-        "Ardent (YC P26): Postgres Database Sandboxes That Clone in Under 6 Seconds for Coding Agents"
-      ]
-    },
-    {
-      "run_at": "2026-05-14T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580102",
-        "https://news.yahoo.co.jp/pickup/6580099",
-        "https://news.yahoo.co.jp/pickup/6580095",
-        "https://www.jiji.com/jc/article?k=2026051400578&g=soc",
-        "https://www.jiji.com/jc/article?k=2026051400638&g=soc",
-        "https://www.publickey1.jp/blog/26/anthropicawsclaude_platform_on_awsclaudeaws.html",
-        "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
-        "https://zenn.dev/optimisuke/articles/40529cd970cbf0",
-        "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
-        "https://avkcode.github.io/blog/us-winning-ai-race.html",
-        "https://simonwillison.net/2026/May/11/gitlab-act-2/"
-      ],
-      "titles": [
-        "米中首脳会談——習主席が台湾問題で強くけん制、トランプ氏と貿易・イランめぐり協議",
-        "ホンダ、上場以来初の最終赤字——EV3車種の開発中止で1兆5770億円の損失計上",
-        "栃木・上三川町で住宅強盗——60代女性が死亡、息子2人が重軽傷",
-        "世田谷一家殺害事件の現場に侵入——ベトナム国籍の2人を窃盗目的で逮捕",
-        "無登録で870億円集金か——金商法違反の疑いで6人逮捕、海外法人への投資と称し勧誘",
-        "AnthropicがAWS上で「Claude Platform on AWS」を正式リリース——Bedrockとは異なるAnthropic直接運営モデル",
-        "JavaScriptランタイムBun、ClaudeでZigからRustへ移行中——1週間で全プラットフォームのテストをパス",
-        "ログイン済みのChromeをそのままClaude Codeから操作——playwright-cli attachで認証セッションを再利用",
-        "MacBook Neo Deep Dive: Apple's $599 Chip Is Fast Until It Gets Hot",
-        "The US Is Winning the AI Race Where It Matters Most: Commercialization",
-        "GitLab Act 2: Workforce Cuts, Management Delayering, and an All-In Bet on Agentic Development"
-      ]
-    },
-    {
-      "run_at": "2026-05-14T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/",
-        "https://news.yahoo.co.jp/",
-        "https://www.itmedia.co.jp/news/articles/2605/14/news068.html",
-        "https://news.yahoo.co.jp/",
-        "https://news.yahoo.co.jp/",
-        "https://zenn.dev/notahotel/articles/claude-routine-auto-fix-issue",
-        "https://zenn.dev/edash_tech_blog/articles/383410d9a1afba",
-        "https://zenn.dev/shiromizuj/articles/4c812b32c421c0",
-        "https://www.anthropic.com/news/claude-for-small-business",
-        "https://www.langchain.com/blog/introducing-managed-deep-agents",
-        "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/"
-      ],
-      "titles": [
-        "日産自動車、2年連続で巨額最終赤字——EV競争と北米販売不振が直撃",
-        "イスラエル首相がUAEを極秘訪問——ガザ停戦交渉と中東外交が新局面へ",
-        "米中首脳会談にマスク・フアン・クック氏ら17人のテック幹部が同行——ビジネス外交の新形態",
-        "巨人・坂本勇人、通算300本塁打を達成——12回裏にサヨナラ3ランで歴史的節目",
-        "脳の自己修復メカニズムを解明——脳卒中後の機能回復に新たな治療への道",
-        "Claude Code Routinesでチームの GitHub Issue を15分おきに自動対応——NOT A HOTEL の実践報告",
-        "QAエンジニアの思考をAIエージェントに移植する——4サブエージェント構成のテスト自動化設計",
-        "Mastraが Temporal Workflows対応を発表——長時間エージェントの「壊れにくい実行」が実現へ",
-        "Anthropic Launches Claude for Small Business: 15 Pre-Built Agentic Workflows with PayPal, QuickBooks & HubSpot",
-        "LangChain Launches Managed Deep Agents: A Hosted Runtime for Long-Running Production Agents",
-        "How I Moved My Entire Digital Stack to Europe: A Developer's Guide to Digital Sovereignty"
       ]
     }
   ]

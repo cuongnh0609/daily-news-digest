@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-16T05:00:00+09:00",
+  "last_run_at": "2026-05-16T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-16T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6580325",
+        "https://news.yahoo.co.jp/pickup/6580333",
+        "https://www.jiji.com/jc/article?k=2026051600207&g=int",
+        "https://www.jiji.com/jc/article?k=2026051501178&g=soc",
+        "https://www.jiji.com/jc/article?k=2026051600146&g=soc",
+        "https://zenn.dev/miyan/articles/claude-code-ai-secretary-design-2026",
+        "https://zenn.dev/minewo/articles/multi-ai-discussion-roadmap-rewrite",
+        "https://zenn.dev/inspector/articles/dora-roi-of-ai-2026-yomitoki",
+        "https://www.anthropic.com/engineering/april-23-postmortem",
+        "https://langchain.com/blog/interrupt-2026-overview",
+        "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/"
+      ],
+      "titles": [
+        "異例の5月補正予算——中東情勢と物価高を受け、政府が過去にない早期編成に着手",
+        "米、台湾に独立宣言を自制するよう警告——トランプ訪中後に米中間の「台湾合意」が浮上",
+        "プーチン氏に贈られた秋田犬「ゆめ」が死去——日露関係悪化後は公の場に姿を見せず",
+        "皇族確保めぐり与党内協議が難航——旧皇族男系男子の養子縁組案で隔たり残る",
+        "濱口竜介監督の新作、カンヌで10分間のスタンディングオベーション——老い・死・人のつながりを描く3時間超の大作",
+        "自律AI秘書をClaude Codeで構築する——5層アーキテクチャと7つの「やらないこと」境界",
+        "AIエージェント3種を使ったOSSロードマップ議論——5ラウンドの討議で計画が根本から覆った実録",
+        "DORAレポート「AI開発のROI」を読み解く——Jカーブ・検証コスト・39%ROIの実態",
+        "Anthropic Engineering Postmortem: Three Claude Code Regressions Fixed",
+        "LangChain Interrupt 2026: LangSmith Engine, SmithDB, Managed Deep Agents, and LLM Gateway Launched",
+        "Mozilla Hardens Firefox with Claude Mythos Preview: 423 Security Bugs Fixed in April"
+      ]
+    },
     {
       "run_at": "2026-05-16T05:00:00+09:00",
       "urls": [

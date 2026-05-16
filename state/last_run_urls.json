@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-16T20:00:00+09:00",
+  "last_run_at": "2026-05-17T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-17T00:00:00+09:00",
+      "urls": [
+        "http://www3.nhk.or.jp/news/html/20260516/k10015123501000.html",
+        "http://www3.nhk.or.jp/news/html/20260516/k10015123171000.html",
+        "http://www3.nhk.or.jp/news/html/20260516/k10015123751000.html",
+        "http://www3.nhk.or.jp/news/html/20260516/k10015123731000.html",
+        "https://www.itmedia.co.jp/news/articles/2605/14/news155.html",
+        "https://zenn.dev/syrsan/articles/claude-code-instinct-self-learning",
+        "https://zenn.dev/sal9000/articles/erc-8004-from-first-principles",
+        "https://zenn.dev/evolink/articles/7a53df4497cc79",
+        "https://twitter.com/mitchellh/status/2055380239711457578",
+        "https://arxiv.org/abs/2605.12357",
+        "https://github.com/chiennv2000/orthrus"
+      ],
+      "titles": [
+        "血管炎の治療薬「タブネオス」投与後に患者20人が死亡——製薬会社が注意を呼びかけ",
+        "17日はさらなる高温——列島各地で真夏日続出、熱中症への警戒を強化",
+        "富山・高岡で室町時代創建の古刹が炎上——けが人なく、原因を調査中",
+        "W杯日本の第2戦の相手チュニジア、26人のメンバーを発表",
+        "LINEヤフー、カカクコム買収を再提案——1株3232円でEQT案を上回る",
+        "Claude Codeを「観測」で育てる——操作の癖を自動学習する仕組みの作り方",
+        "ERC-8004：AIエージェントが互いを信頼する仕組みの設計思想——A2AとMCPが答えない「何者か」問題",
+        "TencentDB Agent MemoryをOpenClawで使う——Mermaidキャンバスで長期タスクのToken爆発を抑える",
+        "Mitchell Hashimoto: \"I Believe There Are Entire Companies Right Now Under AI Psychosis\"",
+        "Δ-Mem: Efficient Online Memory for Large Language Models — 7× Context Extension Without Quality Loss",
+        "Orthrus-Qwen3: Up to 7.8× Tokens Per Forward Pass on Qwen3 — Identical Output Distribution"
+      ]
+    },
     {
       "run_at": "2026-05-16T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Releases Claude Opus 4.7 — 13% Better Coding, Triple the Vision Resolution, and xhigh Effort Control",
         "How Claude Code Works in Large Codebases — The Harness Matters as Much as the Model",
         "GitHub Copilot CLI Agent and Unified Sessions View Launch for JetBrains IDEs — Worktree Isolation and .agent.md Support"
-      ]
-    },
-    {
-      "run_at": "2026-05-15T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580182",
-        "https://news.yahoo.co.jp/articles/195093012837406b5d9505d836a47c24de9cb3d1",
-        "https://news.yahoo.co.jp/pickup/6580180",
-        "https://www.nikkei.com/article/DGXZQOUC115S50R10C26A5000000/",
-        "https://news.yahoo.co.jp/pickup/6580179",
-        "https://www.publickey1.jp/blog/26/vs_codeaiagent_window.html",
-        "https://zenn.dev/claude-code-community/articles/2026-05-14-claude-code-may-update-roundup",
-        "https://zenn.dev/rake_ho/items/cc6f7a30c92a6b7d2e51",
-        "https://www.anthropic.com/engineering/managed-agents",
-        "https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/",
-        "https://deepmind.google/blog/ai-pointer/"
-      ],
-      "titles": [
-        "米中首脳会談、「親密さ」を演出——習近平氏が台湾問題で強くけん制",
-        "大谷翔平、今季3勝目——7回4安打8奪三振の完璧投球でドジャース勝利",
-        "大阪メトロ、万博用EVバス190台で67億円の損失計上——中国製バスが相次ぐ故障",
-        "スズキが世界販売でホンダを超え、日本車メーカーとして初の2位へ",
-        "栃木・強盗殺人事件、背後に「匿流」か——16歳が逮捕、組織的犯罪の疑い",
-        "VS Code 1.120、複数AIエージェントの並列管理を可能にする「Agent window」をプレビュー公開",
-        "Claude Code 5月アップデート総括——Skills検索とAsync Hooksで個人開発パイプラインが変わる",
-        "「コードを書かずに開発したら費用がかさんだ」——新人エンジニアがAI時代に磨くべき能力とは",
-        "Anthropic Engineering: Scaling Managed Agents — Decoupling the Brain from the Hands",
-        "GitHub Copilot App Launches in Technical Preview — Agentic Desktop Client with Isolated Sessions and Agent Merge",
-        "Google DeepMind: Reimagining the Mouse Pointer for the AI Era — Pixels Become Actionable Entities"
       ]
     }
   ]

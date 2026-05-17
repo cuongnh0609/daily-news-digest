@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-18T00:00:00+09:00",
+  "last_run_at": "2026-05-18T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-18T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/",
+        "https://www.jiji.com/",
+        "https://www.jiji.com/",
+        "https://news.yahoo.co.jp/topics/domestic",
+        "https://news.yahoo.co.jp/topics/domestic",
+        "https://zenn.dev/edinetdb/articles/ai-cost-input-tokens-structured-db",
+        "https://zenn.dev/tkithrta/articles/74b35b39c2bb5e",
+        "https://zenn.dev/fusic/articles/779af66b5810a9",
+        "https://www.anthropic.com/engineering",
+        "https://simonwillison.net/2026/May/17/gds-weighs-in/",
+        "https://news.ycombinator.com/item?id=45012345"
+      ],
+      "titles": [
+        "北朝鮮女子サッカー代表チームが韓国入り——5月20日に南北対決、異例の来韓実現",
+        "吉村洋文氏が大阪府知事選への出馬を表明——任期満了に伴い秋の選挙戦へ",
+        "鹿島アントラーズがJ1東地区単独首位を確定——神戸は西地区でトップをキープ",
+        "共産党の田村智子委員長が辺野古抗議船転覆事故で謝罪——支持者死亡に責任認める",
+        "皇位継承の安定策、与党が今月中に案とりまとめへ——旧皇族養子縁組で調整難航",
+        "AIコスト削減の本質は「モデル選択」より「入力データ設計」——Structured DBで1200倍のトークン削減",
+        "VercelがAIエージェント向け新プログラミング言語「Zero」を公開——効果システムとWASM対応が特徴",
+        "24GBのGPU1枚でQwen3-30BをvLLMで動かす——AWQ量子化とvLLMでOpenAI互換APIをローカル構築",
+        "Anthropic Engineering: Scaling Managed Agents — Decoupling the Brain from the Hands",
+        "UK's GDS Publicly Rebukes NHS for Closing Open Source Repos — \"Openness Must Remain the Default\"",
+        "EU Weighs Restricting Use of US Cloud Platforms for Sensitive Government Data"
+      ]
+    },
     {
       "run_at": "2026-05-18T00:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "Mitchell Hashimoto: \"I Believe There Are Entire Companies Right Now Under AI Psychosis\"",
         "Δ-Mem: Efficient Online Memory for Large Language Models — 7× Context Extension Without Quality Loss",
         "Orthrus-Qwen3: Up to 7.8× Tokens Per Forward Pass on Qwen3 — Identical Output Distribution"
-      ]
-    },
-    {
-      "run_at": "2026-05-16T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580385",
-        "https://www.jiji.com/jc/article?k=2026051600381&g=soc",
-        "https://www.jiji.com/jc/article?k=2026051600346&g=int",
-        "https://news.yahoo.co.jp/pickup/6580391",
-        "https://news.yahoo.co.jp/pickup/6580381",
-        "https://zenn.dev/globis/articles/94762dc8ec7914",
-        "https://www.itmedia.co.jp/news/articles/2605/16/news027.html",
-        "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
-        "https://simonwillison.net/2026/May/14/not-so-locked-in/",
-        "https://about.gitlab.com/blog/gitlab-act-2/",
-        "https://kabir.au/blog/the-ctf-scene-is-dead"
-      ],
-      "titles": [
-        "プーチン大統領、19〜20日に中国訪問——習近平氏と会談へ",
-        "東大「五月祭」、爆破予告受け16日のイベントを全面中止",
-        "NYメトロで30年ぶりのストライキ——当局「30万人の通勤に影響」",
-        "17日は各地で真夏日予想——熱中症に警戒を、異例の5月の高温",
-        "トランプ大統領、ISナンバー2の殺害を発表——中東作戦が継続",
-        "Claude Code 1000セッション分析——フックとセルフレビューでリードタイムを10%短縮した話",
-        "OpenAI、ChatGPTに個人向け資産管理機能を追加——1万2000以上の金融機関と連携",
-        "JavaScriptランタイムBunがClaudeを使ってZigからRustへ移植——1週間で99.8%のテスト通過",
-        "Not So Locked In Any More: AI Coding Agents Have Made Technology Choice Reversible",
-        "GitLab Act 2: Restructuring the Company Around Agentic Software Development",
-        "Frontier AI Has Broken the Open CTF Format — Security Research Is Entering a New Era"
-      ]
-    },
-    {
-      "run_at": "2026-05-16T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/topics/world",
-        "https://news.yahoo.co.jp/topics/world",
-        "https://news.yahoo.co.jp/topics/world",
-        "https://news.yahoo.co.jp/topics/world",
-        "https://www.jiji.com/",
-        "https://zenn.dev/aws_japan/articles/agent-registry-dynamic-harness",
-        "https://zenn.dev/memorylakeai/articles/multi-agent-shared-memory-layer",
-        "https://zenn.dev/kenimo49/articles/claude-code-4-extensions-guide",
-        "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
-        "https://www.langchain.com/blog/langsmith-engine",
-        "https://github.blog/changelog/2026-05-15-copilot-memory-supports-user-preferences-for-pro-pro-users"
-      ],
-      "titles": [
-        "台湾当局者「すでに独立国家」と明言——トランプ氏の警告直後に異例の発信",
-        "米中会談、表舞台の笑顔とは裏腹に——諜報戦・サイバー攻撃の応酬が水面下で続く",
-        "イスラエル・レバノン停戦を再延長——中東情勢の長期安定化に向け交渉継続",
-        "米、イラン核交渉で「ウラン濃縮停止」案を初めて譲歩——合意への道筋が見え始める",
-        "栃木・強盗殺人、新たに16歳少年2人を逮捕——組織的な犯行グループ全容解明へ",
-        "Agent RegistryでMCP・Skill・A2AエージェントをAPIなしで動的ロード——コードデプロイ不要の新アーキテクチャ",
-        "マルチAIエージェント時代の記憶アーキテクチャ——Shared Memory Layer設計で「忘れるエージェント」を卒業する",
-        "Claude Codeの4拡張（Skills / MCP / Hooks / Plugins）を使い分ける実践ガイド——どれをいつ使うべきか",
-        "Cerebras Goes Public at $60B — Trillion-Parameter Serving for OpenAI and the Inference Infrastructure Bet",
-        "LangSmith Engine Public Beta: AI Watches Your Production Traces and Automatically Opens PRs to Fix Agent Bugs",
-        "GitHub Copilot Memory Now Stores Your Commit Style and PR Preferences — Persistent Personalization Across Sessions"
-      ]
-    },
-    {
-      "run_at": "2026-05-16T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580325",
-        "https://news.yahoo.co.jp/pickup/6580333",
-        "https://www.jiji.com/jc/article?k=2026051600207&g=int",
-        "https://www.jiji.com/jc/article?k=2026051501178&g=soc",
-        "https://www.jiji.com/jc/article?k=2026051600146&g=soc",
-        "https://zenn.dev/miyan/articles/claude-code-ai-secretary-design-2026",
-        "https://zenn.dev/minewo/articles/multi-ai-discussion-roadmap-rewrite",
-        "https://zenn.dev/inspector/articles/dora-roi-of-ai-2026-yomitoki",
-        "https://www.anthropic.com/engineering/april-23-postmortem",
-        "https://langchain.com/blog/interrupt-2026-overview",
-        "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/"
-      ],
-      "titles": [
-        "異例の5月補正予算——中東情勢と物価高を受け、政府が過去にない早期編成に着手",
-        "米、台湾に独立宣言を自制するよう警告——トランプ訪中後に米中間の「台湾合意」が浮上",
-        "プーチン氏に贈られた秋田犬「ゆめ」が死去——日露関係悪化後は公の場に姿を見せず",
-        "皇族確保めぐり与党内協議が難航——旧皇族男系男子の養子縁組案で隔たり残る",
-        "濱口竜介監督の新作、カンヌで10分間のスタンディングオベーション——老い・死・人のつながりを描く3時間超の大作",
-        "自律AI秘書をClaude Codeで構築する——5層アーキテクチャと7つの「やらないこと」境界",
-        "AIエージェント3種を使ったOSSロードマップ議論——5ラウンドの討議で計画が根本から覆った実録",
-        "DORAレポート「AI開発のROI」を読み解く——Jカーブ・検証コスト・39%ROIの実態",
-        "Anthropic Engineering Postmortem: Three Claude Code Regressions Fixed",
-        "LangChain Interrupt 2026: LangSmith Engine, SmithDB, Managed Deep Agents, and LLM Gateway Launched",
-        "Mozilla Hardens Firefox with Claude Mythos Preview: 423 Security Bugs Fixed in April"
-      ]
-    },
-    {
-      "run_at": "2026-05-16T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026051500470&g=soc",
-        "https://news.yahoo.co.jp/pickup/6580265",
-        "https://news.yahoo.co.jp/pickup/6580302",
-        "https://www.jiji.com/jc/article?k=2026051500128&g=int",
-        "https://www.jiji.com/jc/article?k=2026051501210&g=pol",
-        "https://zenn.dev/iroha1203/articles/93ee3d4c5d5174",
-        "https://zenn.dev/noah33/articles/amanda-askell-claude-soul",
-        "https://www.itmedia.co.jp/news/articles/2605/15/news066.html",
-        "https://www.cursor.com/blog/cloud-agent-development-environments",
-        "https://github.blog/changelog/2026-05-15-grok-code-fast-1-deprecated",
-        "https://projectzero.google/2026/05/pixel-10-exploit.html"
-      ],
-      "titles": [
-        "栃木・強盗殺人事件、新たに少年を逮捕——同学年グループによる組織的犯行の疑い",
-        "「本人希望」でマイナカード93万枚が返納——ひもづけミス公表後に自主返納が急増",
-        "キオクシア、上場1年半で株価32倍——AI需要で時価総額が国内4位に急浮上",
-        "トランプ大統領、台湾への武器売却「近く決断」——米中首脳会談で習氏には明言せず",
-        "蓮舫氏、立憲民主党東京都連会長選で敗北——「開かれた都連」を掲げる河野氏が初の投票制で制す",
-        "「五反田式」スティグマジーを応用した自律型マルチエージェント——環境を介して暗黙的に協調するAIシステム設計",
-        "Claudeに魂を吹き込む人——哲学者Amanda Askellの「AIキャラクター設計」という挑戦",
-        "AIデータセンター建設に米国民の7割が反対——Gallup調査が示す「AI恩恵への懐疑」",
-        "Cursor Launches Configurable Dev Environments for Cloud Agents — Multi-Repo Autonomy with Dockerfile-as-Code",
-        "GitHub Copilot Deprecates Grok Code Fast 1 — Recommends Claude Haiku 4.5 and GPT-5 Mini as Replacements",
-        "Google Project Zero: 0-Click Exploit Chain Achieves Full Root on Pixel 10 — VPU Driver Flaw Enables Arbitrary Physical Memory Mapping"
       ]
     }
   ]

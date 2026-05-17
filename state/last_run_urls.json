@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-17T10:00:00+09:00",
+  "last_run_at": "2026-05-17T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-17T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6580504",
+        "https://www.jiji.com/jc/article?k=2026051700167&g=soc",
+        "https://news.yahoo.co.jp/pickup/6580496",
+        "https://news.yahoo.co.jp/pickup/6580487",
+        "https://news.yahoo.co.jp/pickup/6580492",
+        "https://zenn.dev/nttdata_tech/articles/75bebd16367ea4",
+        "https://zenn.dev/optimisuke/articles/c9a2e4f7b831d5",
+        "https://zenn.dev/acntechjp/articles/b82cebfa0e4d50",
+        "https://www.anthropic.com/news/claude-for-small-business",
+        "https://www.anthropic.com/news/higher-limits-spacex",
+        "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/"
+      ],
+      "titles": [
+        "都心で今年初の真夏日——熱中症リスクが急上昇、体の慣れが追いつかない5月の暑さ",
+        "栃木強盗殺人——指示役とみられる20代男を新たに逮捕、計5人体制の全容解明へ",
+        "自宅の擁壁が突然崩落——老朽化した構造物が各地で相次ぎ、全国200万か所超に危機",
+        "クルーズ船のカナダ人がハンタウイルス「推定陽性」——人から人への感染が確認された唯一のウイルス株",
+        "大谷翔平、1イニングで2アウト記録の珍事——古巣エンジェルス戦でトリプル打点も",
+        "Copilot Studio × Work IQ MCPでTeamsの知識をエージェントに直結——15分で構築した問い合わせ対応ボットの設計",
+        "積みデバイスをClaude Codeで成仏——Arduino・CAD・3Dプリンターの「やりたかったこと」を一気に片付けた実録",
+        "Claude Codeでリポジトリを1枚のワークフロー図に——外部依存ゼロのインタラクティブSVG可視化プロンプト設計",
+        "Anthropic Launches Claude for Small Business with 15 Pre-Built Agentic Workflows",
+        "Anthropic Doubles Claude Code Rate Limits and Signs Full-Capacity Deal with SpaceX Colossus 1 (>300 MW, ~220K GPUs)",
+        "Moving Away from Tailwind: How One Developer Mastered Vanilla CSS by Replicating Its Best Ideas"
+      ]
+    },
     {
       "run_at": "2026-05-17T10:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Cursor Launches Configurable Dev Environments for Cloud Agents — Multi-Repo Autonomy with Dockerfile-as-Code",
         "GitHub Copilot Deprecates Grok Code Fast 1 — Recommends Claude Haiku 4.5 and GPT-5 Mini as Replacements",
         "Google Project Zero: 0-Click Exploit Chain Achieves Full Root on Pixel 10 — VPU Driver Flaw Enables Arbitrary Physical Memory Mapping"
-      ]
-    },
-    {
-      "run_at": "2026-05-16T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580312",
-        "https://www.jiji.com/jc/article?k=2026051500872&g=pol",
-        "https://news.yahoo.co.jp/pickup/6580291",
-        "https://news.yahoo.co.jp/pickup/6580293",
-        "https://news.yahoo.co.jp/pickup/6580270",
-        "https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge",
-        "https://www.itmedia.co.jp/news/articles/2605/15/news068.html",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news016.html",
-        "https://www.anthropic.com/news/gates-foundation-partnership",
-        "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-        "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/"
-      ],
-      "titles": [
-        "補正予算案の編成、首相が来週表明へ——電気・ガス代補助の再開を軸に検討",
-        "日米首脳が電話会談——米中首脳会談の結果を共有し、揺るぎない同盟を確認",
-        "地方民放の系列超え経営統合を総務省が容認——テレビ離れと人口減で「1局2波」再編へ",
-        "宮城県沖でM6.3の地震——最大震度5弱、津波の心配なし",
-        "「ナシ婚」が増加——挙式・披露宴なしを選ぶカップルが6割超、経済負担と価値観の変化が背景に",
-        "LLMの真の強みは「知識を繋げる力」——Karpathy式LLM Wikiを1ヶ月運用して見えた知的統合の実態",
-        "朝日・日経がPerplexityを提訴——AI検索による無断記事利用で計4400万円の損害賠償を請求",
-        "Python 3.15 ベータ1リリース——frozendict・遅延import・UTF-8デフォルト化など多数の新機能",
-        "Anthropic Forms $200M Partnership with the Gates Foundation — AI for Global Health, Education, and Economic Mobility",
-        "First Public macOS Kernel Memory Corruption Exploit on Apple M5 — MIE Bypass Achieved in 5 Days with AI Assistance",
-        "Anthropic Is Hiding Its Most Powerful AI 'Mythos' — Safety Theater or Real Compute Constraint?"
-      ]
-    },
-    {
-      "run_at": "2026-05-15T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/topics/domestic",
-        "https://news.yahoo.co.jp/topics/domestic",
-        "https://news.yahoo.co.jp/topics/domestic",
-        "https://news.yahoo.co.jp/topics/world",
-        "https://news.yahoo.co.jp/topics/world",
-        "https://zenn.dev/komlock_lab/articles/zero-knowledge-proof-2026",
-        "https://monoist.itmedia.co.jp/mn/articles/2605/15/news087.html",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news038.html",
-        "https://www.latent.space/p/ainews-everything-is-conductor",
-        "https://writing.antonleicht.me/p/cut-off",
-        "https://www.anthropic.com/news/pwc-expanded-partnership"
-      ],
-      "titles": [
-        "高市首相がトランプ大統領と電話会談——米中首脳会談後の日米連携を確認",
-        "東京都が麻疹の緊急ワクチン接種を18日から開始——10年ぶりの感染急増で対策強化",
-        "広島・呉市の山林火災、650人以上が避難——鎮火のめど立たず消火活動続く",
-        "米中首脳会談が閉幕——農産物購入・イラン調整で合意、台湾問題では応酬",
-        "インド北部で砂嵐と豪雨が相次ぐ——死者96人、住宅や建物に大規模被害",
-        "AIエージェント時代のプライバシー問題——ゼロ知識証明がデフォルトインフラになる理由",
-        "ファナックがGoogleと協業——AIエージェントがロボットを直接操作する製造DXへ",
-        "リコーが独自LMMを発表——図表・画像も処理できる「商用モデル並み」の国産AIモデル",
-        "Everything is Conductor: The Agent-First IDE Pattern Converges Across the Industry",
-        "Cut Off: Access to Frontier AI Will Soon Be Scarce — Economic and Security Forces Are the Gate",
-        "Anthropic and PwC Expand Partnership: Claude Code Rolls Out to Hundreds of Thousands of Professionals"
       ]
     }
   ]

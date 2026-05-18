@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-18T10:00:00+09:00",
+  "last_run_at": "2026-05-18T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-18T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6580649",
+        "https://news.yahoo.co.jp/pickup/6580639",
+        "https://news.yahoo.co.jp/pickup/6580643",
+        "https://news.yahoo.co.jp/pickup/6580652",
+        "https://news.yahoo.co.jp/pickup/6580645",
+        "https://zenn.dev/hiromoo/articles/5f127b5459d490",
+        "https://zenn.dev/karasuda_lab/articles/71dca437c7a153",
+        "https://zenn.dev/lingmu/articles/2026-05-16-model-distillation-agentic-era",
+        "https://github.blog/changelog/2026-05-17-gpt-5-3-codex-is-now-the-base-model-for-copilot-business-and-enterprise",
+        "https://github.blog/changelog/2026-05-15-copilot-memory-supports-user-preferences-for-pro-pro-users",
+        "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/"
+      ],
+      "titles": [
+        "株・円・債券の「トリプル安」が同時進行——長期金利が約29年半ぶりの高水準に",
+        "首相が補正予算案の検討を指示——夏の電気・ガス代補助金を再開へ",
+        "大分・日田市で今年全国初の猛暑日——5月に35℃超、熱中症対策を急ぐ",
+        "田川市長のセクハラ4件を認定——「不倫」と主張の市長と被害者の主張が対立",
+        "桜蔭学園隣のタワマン建設、差し止め請求を東京地裁が棄却",
+        "コーディングエージェント時代にエンジニアは必要なのか——実験で見えた「読む力」の重要性",
+        "1ヶ月でADRを40本書いたら失敗ばかりだった——Claude Code規範運用の教訓",
+        "26Mパラメータが巨人を超える日——モデル蒸留がAI開発を民主化する",
+        "GPT-5.3-Codex Becomes GitHub Copilot's First LTS Model for Business and Enterprise",
+        "GitHub Copilot Memory Now Remembers Your Personal Preferences Across All Repos",
+        "AI Won't Speed Up Your Processes — It Will Expose Why They Were Always Broken"
+      ]
+    },
     {
       "run_at": "2026-05-18T10:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "SANA-WM: NVIDIA Releases 2.6B Open-Source World Model for 1-Minute 720p Video Generation",
         "Zerostack: A Unix-Inspired Coding Agent Written in Pure Rust — Agentic CLI Released on Crates.io",
         "MCP Hello Page: A Community-Maintained Directory for Discovering MCP Servers"
-      ]
-    },
-    {
-      "run_at": "2026-05-17T05:00:00+09:00",
-      "urls": [
-        "https://www.nikkei.com/article/DGXZQOUB14A5A0U6A510C2000000/",
-        "https://www.nikkei.com/article/DGXZQOGM162RA0W6A510C2000000/",
-        "https://www.nikkei.com/article/DGXZQOGN160CV0W6A510C2000000/",
-        "https://news.yahoo.co.jp/pickup/6580442",
-        "https://news.yahoo.co.jp/pickup/6580429",
-        "https://www.publickey1.jp/blog/26/vs_codeaiagent_window.html",
-        "https://zenn.dev/bathtimefish/articles/80a22a045795f0",
-        "https://zenn.dev/gemcook/articles/e56eabc7ba2961",
-        "https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview",
-        "https://www.seangoedecke.com/steering-vectors/",
-        "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/"
-      ],
-      "titles": [
-        "上場企業の利益、6年連続で過去最高へ——AI需要が原油高を吸収",
-        "米中、相互関税の引き下げで合意——対象品目の交渉へ貿易委員会を設置",
-        "SpaceX、6月にNasdaq上場へ——宇宙産業史上最大規模のIPOか",
-        "コンゴ民主共和国でエボラ感染拡大——死者80人超、国際機関が緊急対応",
-        "文科省、私立大学の一律削減案に慎重姿勢——地域格差拡大を懸念",
-        "VS Code 1.120、複数AIエージェントを同時管理する「Agent window」プレビュー公開",
-        "ローカルRAGツール「mrag」を自作——クラウド不要・機密文書対応の軽量RAGパイプライン",
-        "Claude CodeからOpenAI Codexへ移行する前に知っておくべき設定の違いと落とし穴",
-        "GitHub Copilot App Launches in Technical Preview: Agentic Dev Workflows Native to GitHub",
-        "DeepSeek-V4-Flash Makes LLM Activation Steering Interesting Again",
-        "arXiv Will Ban Authors for One Year if AI Writes Their Entire Submission"
-      ]
-    },
-    {
-      "run_at": "2026-05-17T00:00:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260516/k10015123501000.html",
-        "http://www3.nhk.or.jp/news/html/20260516/k10015123171000.html",
-        "http://www3.nhk.or.jp/news/html/20260516/k10015123751000.html",
-        "http://www3.nhk.or.jp/news/html/20260516/k10015123731000.html",
-        "https://www.itmedia.co.jp/news/articles/2605/14/news155.html",
-        "https://zenn.dev/syrsan/articles/claude-code-instinct-self-learning",
-        "https://zenn.dev/sal9000/articles/erc-8004-from-first-principles",
-        "https://zenn.dev/evolink/articles/7a53df4497cc79",
-        "https://twitter.com/mitchellh/status/2055380239711457578",
-        "https://arxiv.org/abs/2605.12357",
-        "https://github.com/chiennv2000/orthrus"
-      ],
-      "titles": [
-        "血管炎の治療薬「タブネオス」投与後に患者20人が死亡——製薬会社が注意を呼びかけ",
-        "17日はさらなる高温——列島各地で真夏日続出、熱中症への警戒を強化",
-        "富山・高岡で室町時代創建の古刹が炎上——けが人なく、原因を調査中",
-        "W杯日本の第2戦の相手チュニジア、26人のメンバーを発表",
-        "LINEヤフー、カカクコム買収を再提案——1株3232円でEQT案を上回る",
-        "Claude Codeを「観測」で育てる——操作の癖を自動学習する仕組みの作り方",
-        "ERC-8004：AIエージェントが互いを信頼する仕組みの設計思想——A2AとMCPが答えない「何者か」問題",
-        "TencentDB Agent MemoryをOpenClawで使う——Mermaidキャンバスで長期タスクのToken爆発を抑える",
-        "Mitchell Hashimoto: \"I Believe There Are Entire Companies Right Now Under AI Psychosis\"",
-        "Δ-Mem: Efficient Online Memory for Large Language Models — 7× Context Extension Without Quality Loss",
-        "Orthrus-Qwen3: Up to 7.8× Tokens Per Forward Pass on Qwen3 — Identical Output Distribution"
       ]
     }
   ]

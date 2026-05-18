@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-18T20:00:00+09:00",
+  "last_run_at": "2026-05-19T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-19T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6580717",
+        "https://news.yahoo.co.jp/pickup/6580729",
+        "https://news.yahoo.co.jp/pickup/6580727",
+        "https://news.yahoo.co.jp/pickup/6580720",
+        "https://www.itmedia.co.jp/news/articles/2605/18/news121.html",
+        "https://zenn.dev/go_to_k/articles/markgate-oss",
+        "https://zenn.dev/geneg/articles/2026-05-18-aws-transform-agents-now-availabl",
+        "https://zenn.dev/kubo_gene/articles/2d56d3ccc56ad6",
+        "https://www.anthropic.com/news/claude-design-anthropic-labs",
+        "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+        "https://www.llamaindex.ai/blog/parsebench"
+      ],
+      "titles": [
+        "自民党が安保3文書改定に向けた提言案——迎撃無人機の早期配備と高出力レーザー兵器の研究開発を盛り込む",
+        "高市首相陣営による「他候補中傷動画」問題——週刊文春報道で関与が指摘された男性がYouTubeで証言",
+        "ハンタウイルス集団感染のクルーズ船が最終目的地に到着——ロッテルダムで患者の治療と経緯調査が続く",
+        "兵庫・丹波篠山市で男性が野焼きに巻き込まれ死亡——畑での作業中に炎が広がったか",
+        "NHK技研が「空飛ぶロボカメ」と「IP回線中継ドローン」を開発——災害時でも途切れない映像伝送技術を公開",
+        "Coding Agentの「ド忘れ」を強制捕捉するOSS『markgate』——Claude CodeやCodexが命令を漏らすことなく実行させるCLIツール",
+        "AWS Transform Agents × Claude Code でサーバーレス移行を加速——CDKコード自動生成から既存Lambda改修まで一括エージェント化",
+        "20ドルで使えるSpec駆動型AIエージェント「Kiro」を試した——スペックファイルから自律実装まで、OIDC認証実装で検証",
+        "Anthropic Launches Claude Design: AI-Powered Visual Creation Tool from Anthropic Labs",
+        "Linus Torvalds: AI-Powered Bug Hunters Are Making Linux Security List \"Almost Entirely Unmanageable\"",
+        "LlamaIndex Releases ParseBench: First Open-Source Document Parsing Benchmark Built for AI Agents"
+      ]
+    },
     {
       "run_at": "2026-05-18T20:00:00+09:00",
       "urls": [

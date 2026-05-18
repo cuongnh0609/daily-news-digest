@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-19T00:00:00+09:00",
+  "last_run_at": "2026-05-19T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-19T05:00:00+09:00",
+      "urls": [
+        "https://www.nikkei.com/",
+        "https://www.nikkei.com/",
+        "https://news.yahoo.co.jp/",
+        "https://news.yahoo.co.jp/",
+        "https://www.nikkei.com/",
+        "https://zenn.dev/dedetools/articles/19a6e81dbad453",
+        "https://zenn.dev/memorylakeai/articles/ffa9cecc356a24",
+        "https://zenn.dev/genda_jp/articles/2026-05-18-tmux-a2a-postman",
+        "https://www.anthropic.com/news/anthropic-acquires-stainless",
+        "https://blog.cloudflare.com/cyber-frontier-models",
+        "https://archestra.ai/blog/only-responsible-ai"
+      ],
+      "titles": [
+        "ニューヨーク近郊鉄道でスト決行——約30年ぶり、25万人の通勤に影響",
+        "エボラ出血熱で死者100人超——「ブンディブギョ型」にワクチンなし、国際社会が警戒",
+        "サッカー試合中にクマが目撃——グラウンド脇に出没、選手と観客が一時避難",
+        "トヨタ、逆輸入ピックアップ「タンドラ」を国内公開——北米向け大型車が日本市場へ",
+        "「歯生え薬」、今夏にも臨床試験——京大発スタートアップが85億円調達、世界初の実用化へ",
+        "AIコーディングで毎回同じ注意をしているなら、ルールファイルを置いた方がいい——CLAUDE.md・AGENTS.md・Cursor Rules実践ガイド",
+        "プロンプト修正はもう限界？——AIエージェントが「同じミス」を繰り返す本当の原因とMemory Layerという解決策",
+        "Markdownを設定ファイルにしてtmux上の複数AIエージェントを管理——tmux-a2a-postmanで軽量なA2A通信を実現",
+        "Anthropic Acquires Stainless — SDK and MCP Server Generation Comes In-House",
+        "Project Glasswing: Cloudflare Tests Anthropic's Security LLM \"Mythos\" Across 50+ Repos",
+        "We Stopped AI Bot Spam in Our GitHub Repo Using Git's --author Flag"
+      ]
+    },
     {
       "run_at": "2026-05-19T00:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "PwC to Train 30,000 Engineers on Claude Code Globally in Landmark Anthropic Expansion",
         "GitHub Copilot CLI Agent Lands in JetBrains IDEs with Global Agent Config via ~/.copilot/agents/.agent.md",
         "GitHub Copilot Cloud Agent Gets \"Auto\" Model Selection — Optimal Model Chosen Per Task with 10% Cost Discount"
-      ]
-    },
-    {
-      "run_at": "2026-05-17T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580504",
-        "https://www.jiji.com/jc/article?k=2026051700167&g=soc",
-        "https://news.yahoo.co.jp/pickup/6580496",
-        "https://news.yahoo.co.jp/pickup/6580487",
-        "https://news.yahoo.co.jp/pickup/6580492",
-        "https://zenn.dev/nttdata_tech/articles/75bebd16367ea4",
-        "https://zenn.dev/optimisuke/articles/c9a2e4f7b831d5",
-        "https://zenn.dev/acntechjp/articles/b82cebfa0e4d50",
-        "https://www.anthropic.com/news/claude-for-small-business",
-        "https://www.anthropic.com/news/higher-limits-spacex",
-        "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/"
-      ],
-      "titles": [
-        "都心で今年初の真夏日——熱中症リスクが急上昇、体の慣れが追いつかない5月の暑さ",
-        "栃木強盗殺人——指示役とみられる20代男を新たに逮捕、計5人体制の全容解明へ",
-        "自宅の擁壁が突然崩落——老朽化した構造物が各地で相次ぎ、全国200万か所超に危機",
-        "クルーズ船のカナダ人がハンタウイルス「推定陽性」——人から人への感染が確認された唯一のウイルス株",
-        "大谷翔平、1イニングで2アウト記録の珍事——古巣エンジェルス戦でトリプル打点も",
-        "Copilot Studio × Work IQ MCPでTeamsの知識をエージェントに直結——15分で構築した問い合わせ対応ボットの設計",
-        "積みデバイスをClaude Codeで成仏——Arduino・CAD・3Dプリンターの「やりたかったこと」を一気に片付けた実録",
-        "Claude Codeでリポジトリを1枚のワークフロー図に——外部依存ゼロのインタラクティブSVG可視化プロンプト設計",
-        "Anthropic Launches Claude for Small Business with 15 Pre-Built Agentic Workflows",
-        "Anthropic Doubles Claude Code Rate Limits and Signs Full-Capacity Deal with SpaceX Colossus 1 (>300 MW, ~220K GPUs)",
-        "Moving Away from Tailwind: How One Developer Mastered Vanilla CSS by Replicating Its Best Ideas"
-      ]
-    },
-    {
-      "run_at": "2026-05-17T10:00:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260517/k10015123761000.html",
-        "http://www3.nhk.or.jp/news/html/20260517/k10015123841000.html",
-        "http://www3.nhk.or.jp/news/html/20260517/k10015123781000.html",
-        "http://www3.nhk.or.jp/news/html/20260517/k10015123821000.html",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/15/news108.html",
-        "https://zenn.dev/aiforall/articles/726668a035a148",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/15/news094.html",
-        "https://zenn.dev/tomokusaba/articles/fd382738fee5e3",
-        "https://nvlabs.github.io/Sana/WM/",
-        "https://crates.io/crates/zerostack/1.0.0",
-        "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page"
-      ],
-      "titles": [
-        "栃木3人死傷強盗事件——逮捕の高校生ら4人が実行役、指示役の解明へ",
-        "村上宗隆、大リーグ初の1試合2本塁打——アメリカンリーグ単独トップへ",
-        "イスラエル軍、ハマス軍事部門トップを殺害と発表——ガザへの圧力継続",
-        "菅野智之、日米通算150勝達成——ロッキーズで今季4勝目",
-        "動画生成AIのRunwayが日本進出——60億円超を投資、「世界最高のクリエイティブ産業」と評価",
-        "OpenMythosをローカル環境で動かす検証——Anthropicの非公開モデルがどこまで再現できるか",
-        "「中小企業向けClaude」登場——各種SaaSと連携し業務を代行するAIエージェント",
-        "GitHub Copilot App——日々の開発摩擦を減らす4つの実践ポイント",
-        "SANA-WM: NVIDIA Releases 2.6B Open-Source World Model for 1-Minute 720p Video Generation",
-        "Zerostack: A Unix-Inspired Coding Agent Written in Pure Rust — Agentic CLI Released on Crates.io",
-        "MCP Hello Page: A Community-Maintained Directory for Discovering MCP Servers"
       ]
     }
   ]

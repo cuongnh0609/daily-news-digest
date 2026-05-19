@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-19T20:00:00+09:00",
+  "last_run_at": "2026-05-20T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-20T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026051901017&g=soc",
+        "https://www.jiji.com/jc/article?k=2026051901086&g=soc",
+        "https://www.jiji.com/jc/article?k=2026051901163&g=int",
+        "https://www.jiji.com/jc/article?k=2026051901189&g=int",
+        "https://www.itmedia.co.jp/news/articles/2605/19/news081.html",
+        "https://www.itmedia.co.jp/news/articles/2605/19/news120.html",
+        "https://zenn.dev/mbk_digital/articles/2674c0ee84d9b5",
+        "https://zenn.dev/takna/articles/secret-leak-prevention-4-layer",
+        "https://www.anthropic.com/news/anthropic-kpmg",
+        "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+        "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/"
+      ],
+      "titles": [
+        "荻野屋「峠の親子めし」で食中毒——黄色ブドウ球菌が検出、横川工場に3日間の営業停止命令",
+        "奥多摩の山中で遺体の一部を発見——クマによる被害の可能性、警視庁が身元確認を急ぐ",
+        "トランプ大統領、米くら寿司株を最大８億円取得——政府倫理局の開示で判明、利益相反の懸念も",
+        "米財務長官が植田日銀総裁と会談——「過度な為替変動は望ましくない」、円相場は159円台で推移",
+        "「WWDC26」6月8〜9日開催——iOS 27・macOS 27が発表予定、開発者1,000人以上がApple Parkに集結",
+        "日立、Anthropicと戦略提携——グループ29万人にClaudeを展開、「Frontier AI Deployment Center」をアジア太平洋の拠点に",
+        "LLMエージェント×Spec駆動開発で分析基盤を構築——「仕様書先行」で後工程の手戻りを根絶するアプローチ",
+        "AIコーディングでsecretを漏らさないための「４層防御」——設計・pre-commit・GitHub・Claude Code Hooksの組み合わせ",
+        "KPMG Deploys Claude to All 276,000 Employees Globally — Embeds Claude Code into Blaze Legacy Modernization Platform",
+        "Mini Shai-Hulud Returns: 317 npm Packages Compromised in 22-Minute Attack — 4M+ Monthly Downloads Affected",
+        "CISA Contractor Exposed AWS GovCloud Admin Keys on Public GitHub — Repo Lived for 6 Months Before Discovery"
+      ]
+    },
     {
       "run_at": "2026-05-19T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "GPT-5.3-Codex Becomes GitHub Copilot's First LTS Model for Business and Enterprise",
         "GitHub Copilot Memory Now Remembers Your Personal Preferences Across All Repos",
         "AI Won't Speed Up Your Processes — It Will Expose Why They Were Always Broken"
-      ]
-    },
-    {
-      "run_at": "2026-05-18T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580602",
-        "https://news.yahoo.co.jp/pickup/6580586",
-        "https://news.yahoo.co.jp/pickup/6580592",
-        "https://news.yahoo.co.jp/pickup/6580601",
-        "https://www.itmedia.co.jp/news/articles/2605/15/news068.html",
-        "https://zenn.dev/akifumifukaya/articles/20260518_ai_driven_development_kauche_farm_mini",
-        "https://qiita.com/sharu389no/items/ab5bf50d9f68e7c8de56",
-        "https://zenn.dev/kenjiigarashi/articles/bafe04c240e441",
-        "https://github.com/MinishLab/semble",
-        "https://simonwillison.net/2026/May/14/not-so-locked-in/",
-        "https://www.publickey1.jp/blog/26/typescript_70typescriptgo10.html"
-      ],
-      "titles": [
-        "中道・公明が立憲含めた合流を本格協議——野党再編の焦点が浮上",
-        "藤井名人が4連覇を達成——永世名人の資格へあと一歩",
-        "5月に今年初の猛暑日か——列島各地で35℃超の予報、熱中症対策を急ぐ",
-        "医師紹介手数料が年900億円規模——患者獲得競争が医療費を押し上げる懸念",
-        "朝日・日経がPerplexityを著作権侵害で提訴——AI検索と報道機関の対立が法廷へ",
-        "AI駆動開発で1日平均15.8件のPR——1人の開発者が2ヶ月でLINEミニアプリをリリース",
-        "Claude Code社内導入「AIエージェントセキュリティ」実践——AIGIS で30秒ガバナンスを実現",
-        "セキュリティリスクを最小化する安全なローカルMCPサーバーの設計原則",
-        "Semble: Code Search for AI Agents Using 98% Fewer Tokens Than Grep",
-        "Not So Locked In Any More: Coding Agents Are Dissolving Technology Lock-In",
-        "TypeScript 7.0 Beta: Compiler Rewritten in Go for 10× Faster Builds"
       ]
     }
   ]

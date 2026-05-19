@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-19T05:00:00+09:00",
+  "last_run_at": "2026-05-19T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-19T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6580755",
+        "https://www.jiji.com/jc/article?k=2026051900205&g=int",
+        "https://news.yahoo.co.jp/pickup/6580758",
+        "https://www.jiji.com/jc/article?k=2026051900223&g=int",
+        "https://news.yahoo.co.jp/pickup/6580751",
+        "https://zenn.dev/helloworld/articles/7a59c2799d9bda",
+        "https://zenn.dev/takibilab/articles/ai-agent-least-privilege",
+        "https://www.publickey1.jp/blog/26/aipcdell_deskside_agentic_ainvidia_gb10gb300.html",
+        "https://www.langchain.com/blog/introducing-langsmith-engine",
+        "https://vercel.com/blog/ai-gateway-production-index",
+        "https://github.blog/changelog/2026-05-18-one-click-fixes-for-failing-actions-with-copilot-cloud-agent"
+      ],
+      "titles": [
+        "1〜3月期GDP、年率2.1%増——2四半期連続のプラス成長、輸出が牽引",
+        "英、次期戦闘機「GCAP」に1.3兆円——財政難でも日本が資金確保を要求",
+        "磐越道マイクロバス事故——代役運転手が起用されるまでの経緯が判明",
+        "米国でエボラ出血熱感染——コンゴで医師が陽性、ドイツへ移送へ",
+        "東大「五月祭」に爆破予告——神谷氏講演が中止、言論の自由巡り波紋",
+        "Claude Rulesが無視される本当の理由——/btw・/rewind・/clearでコンテキストを立て直す",
+        "AIエージェントは最小権限で使う——Claude Code・MCP・VS Code拡張の安全設定ガイド",
+        "デル「Dell Deskside Agentic AI」発表——ローカルでAIエージェントを動かすデスクトップ3機種",
+        "LangSmith Engine: AI Automatically Detects, Diagnoses, and Fixes Your Agent's Failures",
+        "Vercel AI Gateway Production Index: Anthropic Leads Spend at 61%, Agentic Requests Hit 22%",
+        "GitHub Copilot \"Fix with Copilot\": One-Click AI Repair for Failing Actions Workflows"
+      ]
+    },
     {
       "run_at": "2026-05-19T05:00:00+09:00",
       "urls": [

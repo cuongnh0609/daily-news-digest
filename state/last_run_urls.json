@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-20T00:00:00+09:00",
+  "last_run_at": "2026-05-20T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-20T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6580871",
+        "https://news.yahoo.co.jp/pickup/6580875",
+        "https://news.yahoo.co.jp/pickup/6580873",
+        "https://news.yahoo.co.jp/pickup/6580876",
+        "https://www.jiji.com/",
+        "https://www.publickey1.jp/atom.xml",
+        "https://www.itmedia.co.jp/aiplus/",
+        "https://zenn.dev/feed",
+        "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+        "https://deepmind.google/discover/blog/",
+        "https://deepmind.google/discover/blog/gemini-spark"
+      ],
+      "titles": [
+        "AIミュトスへの危機感高まる——政府・金融機関が緊急対応策を協議",
+        "ストーカー加害者にGPS端末装着——自民党が義務化法案を提示",
+        "住宅で女性2人の遺体発見——複数の刺し傷、警察が捜査開始",
+        "サメ目撃でマリンスポーツ禁止——神奈川・海水浴場が安全確保へ",
+        "G7財務相会議、AIリスクと関税摩擦を協議——共同声明の調整難航",
+        "AIエージェントの国際カンファレンス「AGNTCon + MCPCon」が東京で9月開催——Linux Foundation主催",
+        "AIの先駆者カーパシー氏がAnthropicに入社——事前学習チームでClaudeの次世代モデル研究を主導",
+        "AI駆動開発で1日平均15.8件のPR作成を実現——チーム全体の開発速度を測定した事例報告",
+        "Andrej Karpathy Joins Anthropic to Lead Pre-training Research Group for Next-Gen Claude",
+        "Google Releases Gemini 3.5 Flash at I/O 2026 — Pro-Level Reasoning at Flash Speed with 78% SWE-bench",
+        "Google Announces Gemini Spark — A Personal AI Agent That Learns Your Preferences and Handles Multi-Step Tasks"
+      ]
+    },
     {
       "run_at": "2026-05-20T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Introducing Claude Opus 4.7: Advanced Software Engineering with Cyber Safeguards",
         "Anthropic Launches 10 Finance Agent Templates — Claude Leads Vals AI Finance Benchmark at 64.37%",
         "GitHub Copilot Drops Grok Code Fast 1 — Token Format Overhaul for GitHub App Installations"
-      ]
-    },
-    {
-      "run_at": "2026-05-18T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580649",
-        "https://news.yahoo.co.jp/pickup/6580639",
-        "https://news.yahoo.co.jp/pickup/6580643",
-        "https://news.yahoo.co.jp/pickup/6580652",
-        "https://news.yahoo.co.jp/pickup/6580645",
-        "https://zenn.dev/hiromoo/articles/5f127b5459d490",
-        "https://zenn.dev/karasuda_lab/articles/71dca437c7a153",
-        "https://zenn.dev/lingmu/articles/2026-05-16-model-distillation-agentic-era",
-        "https://github.blog/changelog/2026-05-17-gpt-5-3-codex-is-now-the-base-model-for-copilot-business-and-enterprise",
-        "https://github.blog/changelog/2026-05-15-copilot-memory-supports-user-preferences-for-pro-pro-users",
-        "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/"
-      ],
-      "titles": [
-        "株・円・債券の「トリプル安」が同時進行——長期金利が約29年半ぶりの高水準に",
-        "首相が補正予算案の検討を指示——夏の電気・ガス代補助金を再開へ",
-        "大分・日田市で今年全国初の猛暑日——5月に35℃超、熱中症対策を急ぐ",
-        "田川市長のセクハラ4件を認定——「不倫」と主張の市長と被害者の主張が対立",
-        "桜蔭学園隣のタワマン建設、差し止め請求を東京地裁が棄却",
-        "コーディングエージェント時代にエンジニアは必要なのか——実験で見えた「読む力」の重要性",
-        "1ヶ月でADRを40本書いたら失敗ばかりだった——Claude Code規範運用の教訓",
-        "26Mパラメータが巨人を超える日——モデル蒸留がAI開発を民主化する",
-        "GPT-5.3-Codex Becomes GitHub Copilot's First LTS Model for Business and Enterprise",
-        "GitHub Copilot Memory Now Remembers Your Personal Preferences Across All Repos",
-        "AI Won't Speed Up Your Processes — It Will Expose Why They Were Always Broken"
       ]
     }
   ]

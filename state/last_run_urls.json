@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-19T15:00:00+09:00",
+  "last_run_at": "2026-05-19T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-19T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026051900961&g=int",
+        "https://www.jiji.com/jc/article?k=2026051900625&g=pol",
+        "https://www.jiji.com/jc/article?k=2026051900899&g=soc",
+        "https://news.yahoo.co.jp/pickup/6580840",
+        "https://www.jiji.com/jc/article?k=2026051900861&g=pol",
+        "https://zenn.dev/yamitake/articles/claude-code-large-codebase-best-practices",
+        "https://zenn.dev/aircloset/articles/f6c990989e60d4",
+        "https://zenn.dev/sonicgarden/articles/4af20794b8a0f7",
+        "https://cursor.com/blog/composer-2-5",
+        "https://github.blog/changelog/2026-05-18-remote-control-for-copilot-cli-sessions-now-generally-available-on-mobile-web-and-vs-code",
+        "https://github.blog/changelog/2026-05-18-copilot-spaces-api-now-generally-available"
+      ],
+      "titles": [
+        "上海の日本料理店で刃物による切り付け事件——日本人含む3人が負傷",
+        "日韓、エネルギー安全保障で連携強化——原油備蓄の相互融通を具体化",
+        "関西電力社員が法廷内で無断録音——2014年ごろから複数関与が判明",
+        "政府、夏の節電要請を見送りへ——電力需給の見通しが改善",
+        "党首討論、玉木氏がトップバッター——20日に9党が論戦",
+        "Claude Codeで大規模コードベースを扱うベストプラクティス——コンテキスト管理が最大の制約",
+        "AIハーネスの心臓部——JSDocナレッジグラフでAIエージェントにリポジトリを「意図」で検索させる",
+        "git worktreeで並列Claude Code開発環境——DB・ドメインは分離、設定は共通化",
+        "Cursor Releases Composer 2.5: RL with Textual Feedback and 25× More Synthetic Training Data",
+        "GitHub Copilot CLI Remote Control Now Generally Available — Steer Agentic Sessions from Anywhere",
+        "GitHub Copilot Spaces API Reaches General Availability — Programmatic Context Management at Enterprise Scale"
+      ]
+    },
     {
       "run_at": "2026-05-19T15:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "Semble: Code Search for AI Agents Using 98% Fewer Tokens Than Grep",
         "Not So Locked In Any More: Coding Agents Are Dissolving Technology Lock-In",
         "TypeScript 7.0 Beta: Compiler Rewritten in Go for 10× Faster Builds"
-      ]
-    },
-    {
-      "run_at": "2026-05-18T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/",
-        "https://www.jiji.com/",
-        "https://www.jiji.com/",
-        "https://news.yahoo.co.jp/topics/domestic",
-        "https://news.yahoo.co.jp/topics/domestic",
-        "https://zenn.dev/edinetdb/articles/ai-cost-input-tokens-structured-db",
-        "https://zenn.dev/tkithrta/articles/74b35b39c2bb5e",
-        "https://zenn.dev/fusic/articles/779af66b5810a9",
-        "https://www.anthropic.com/engineering",
-        "https://simonwillison.net/2026/May/17/gds-weighs-in/",
-        "https://news.ycombinator.com/item?id=45012345"
-      ],
-      "titles": [
-        "北朝鮮女子サッカー代表チームが韓国入り——5月20日に南北対決、異例の来韓実現",
-        "吉村洋文氏が大阪府知事選への出馬を表明——任期満了に伴い秋の選挙戦へ",
-        "鹿島アントラーズがJ1東地区単独首位を確定——神戸は西地区でトップをキープ",
-        "共産党の田村智子委員長が辺野古抗議船転覆事故で謝罪——支持者死亡に責任認める",
-        "皇位継承の安定策、与党が今月中に案とりまとめへ——旧皇族養子縁組で調整難航",
-        "AIコスト削減の本質は「モデル選択」より「入力データ設計」——Structured DBで1200倍のトークン削減",
-        "VercelがAIエージェント向け新プログラミング言語「Zero」を公開——効果システムとWASM対応が特徴",
-        "24GBのGPU1枚でQwen3-30BをvLLMで動かす——AWQ量子化とvLLMでOpenAI互換APIをローカル構築",
-        "Anthropic Engineering: Scaling Managed Agents — Decoupling the Brain from the Hands",
-        "UK's GDS Publicly Rebukes NHS for Closing Open Source Repos — \"Openness Must Remain the Default\"",
-        "EU Weighs Restricting Use of US Cloud Platforms for Sensitive Government Data"
-      ]
-    },
-    {
-      "run_at": "2026-05-18T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580537",
-        "https://www.jiji.com/",
-        "https://news.yahoo.co.jp/pickup/6580513",
-        "https://news.yahoo.co.jp/pickup/6580536",
-        "https://news.yahoo.co.jp/pickup/6580533",
-        "https://zenn.dev/itdo/articles/e8695a0a51706c",
-        "https://zenn.dev/thinkyou0714/articles/claude-code-hooks-47",
-        "https://zenn.dev/creolab_dev/articles/2026-05-16-mcp-linux-foundation-indie-saas",
-        "https://www.anthropic.com/news/anthropic-nec",
-        "https://zenn.dev/hokanco28/articles/235bf528719f48",
-        "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html"
-      ],
-      "titles": [
-        "日韓首脳会談——高市首相が19日に訪韓、国賓級の厚遇で外交再出発へ",
-        "ウクライナ、開戦以来最大規模のドローン・ミサイル攻撃でロシア各地を一斉攻撃",
-        "再審見直し法案が審議入り——検察の不服申し立てを「原則禁止」、冤罪救済へ一歩",
-        "18日も7月上旬並みの高温——列島各地で熱中症アラート、5月の異例の暑さが続く",
-        "節約呼びかけ「必要」が70%——共同通信世論調査、再審法案支持も6割近くに",
-        "OpenAI vs Anthropic——AI競争の主戦場はモデル性能から「ハーネス」へ移行した",
-        "Claude Code hooksを47本実装した話——3層設計で「毎回手動指示ゼロ」を実現",
-        "MCPがLinux Foundation入り——Anthropicが寄贈、月9700万DLのプロトコルが業界標準へ",
-        "Anthropic and NEC Build Japan's Largest AI Engineering Workforce Using Claude Code",
-        "Google Cloud Workstations v1.16.2: Agent Mode Fully Production-Ready for Secure Agentic Dev",
-        "Apple Silicon Costs More Than OpenRouter: The Hidden Economics of Local LLM Inference"
-      ]
-    },
-    {
-      "run_at": "2026-05-17T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026051700536&g=soc",
-        "https://news.yahoo.co.jp/topics/domestic",
-        "https://www.jiji.com/",
-        "https://news.yahoo.co.jp/topics/domestic",
-        "https://news.yahoo.co.jp/topics/domestic",
-        "https://www.publickey1.jp/blog/26/nodejsdatetemporaltemporalchromeedgefirefoxnodejs.html",
-        "https://www.publickey1.jp/blog/26/aipythonmojo.html",
-        "https://www.itmedia.co.jp/news/articles/2605/15/news064.html",
-        "https://www.anthropic.com/news/pwc-expanded-partnership",
-        "https://github.blog/changelog/2026-05-13-introducing-copilot-cli-agent-and-unified-sessions-view-in-github-copilot-for-jetbrains-ides",
-        "https://github.blog/changelog/2026-05-14-copilot-cloud-agent-supports-auto-model-selection"
-      ],
-      "titles": [
-        "栃木強盗殺人事件——指示役とみられる25歳女がハネダで逮捕、組織全容の解明へ",
-        "日韓首脳会談——高市首相が19日に訪韓、国賓待遇で迎え入れへ",
-        "WHO、エボラ出血熱で「国際的緊急事態」宣言——感染拡大に国際機関が緊急対応",
-        "ロシアのミサイルに京セラ子会社製部品——制裁回避の疑いで国際社会が注目",
-        "5月18日は全国の4分の1で真夏日——異例の高温に熱中症警戒レベル引き上げ",
-        "Node.js 26、日時APIの「Temporal」をデフォルト有効化——Date 25年の歴史に幕",
-        "AIを高速化するPythonライク言語「Mojo」がベータ版へ——「Pythonで書いてC++で動く」設計思想",
-        "AnthropicとGates財団が4年間・2億ドルのAI連携——世界の医療・教育課題にClaudeを活用",
-        "PwC to Train 30,000 Engineers on Claude Code Globally in Landmark Anthropic Expansion",
-        "GitHub Copilot CLI Agent Lands in JetBrains IDEs with Global Agent Config via ~/.copilot/agents/.agent.md",
-        "GitHub Copilot Cloud Agent Gets \"Auto\" Model Selection — Optimal Model Chosen Per Task with 10% Cost Discount"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-20T20:00:00+09:00",
+  "last_run_at": "2026-05-21T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-21T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6581022",
+        "https://news.yahoo.co.jp/pickup/6581000",
+        "https://news.yahoo.co.jp/pickup/6581029",
+        "https://www.itmedia.co.jp/news/articles/2605/20/news130.html",
+        "https://news.yahoo.co.jp/pickup/6581028",
+        "https://zenn.dev/aishift/articles/5b048ff347fd7b",
+        "https://zenn.dev/techquant/articles/claude-code-pi5-budget-tuning",
+        "https://www.publickey1.jp/blog/26/apigooglelinuxaimarkdownmanaged_agent_api.html",
+        "https://www.anthropic.com/news/anthropic-acquires-stainless",
+        "https://github.com/antoinezambelli/forge",
+        "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html"
+      ],
+      "titles": [
+        "習近平主席、中露は「軍国主義の復活」に反対——北京首脳会談で対米批判を共同表明",
+        "キリン、10月から「一番搾り」値下げへ——酒税改正でビール減税・低アルは値上げ",
+        "栃木・強盗殺人事件——被害者の飼い犬も殺害か、少年グループが口封じに",
+        "JR東日本とKDDIが山手線車両を5Gミリ波エリア化——通信速度1Gbps、全線の97%をカバー",
+        "ホルムズ海峡、タンカー含む26隻が通過——イラン革命防衛隊が「調整済み」と発表",
+        "ローカルCoding Agentの実力を検証——Qwen3.6-27BとClaude Code Sonnet 4.6の比較実験",
+        "Raspberry Pi 5でClaude Codeを40日運用——1日5ドルから2ドルへ60%のコスト削減に成功",
+        "Google「Managed Agent API」発表——APIコール1回でLinux環境付きAIエージェントを起動",
+        "Anthropic Acquires Stainless — SDK and MCP Server Tooling Brought In-House to Power Agent Connectivity",
+        "Forge: Guardrails Layer Takes a Local 8B Model from 53% to 99% Accuracy on Agentic Tool-Calling Tasks",
+        "Learnings from 100K Lines of Rust with AI — Spec-Driven Development and Code Contracts at Scale"
+      ]
+    },
     {
       "run_at": "2026-05-20T20:00:00+09:00",
       "urls": [

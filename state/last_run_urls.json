@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-20T15:00:00+09:00",
+  "last_run_at": "2026-05-20T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-20T20:00:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/na-k10015126331000",
+        "https://news.web.nhk/newsweb/na/na-k10015126001000",
+        "https://news.web.nhk/newsweb/na/na-k10015126931000",
+        "https://news.web.nhk/newsweb/na/na-k10015126981000",
+        "https://news.web.nhk/newsweb/na/na-k10015126701000",
+        "https://zenn.dev/emilia_lab/articles/claude-code-skill-safety",
+        "https://zenn.dev/go_to_k/articles/aws-cdk-unit-testing",
+        "https://www.itmedia.co.jp/news/articles/2605/20/news124.html",
+        "https://simonwillison.net/2026/May/19/gemini-35-flash/",
+        "https://www.itmedia.co.jp/news/articles/2605/20/news085.html",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
+      ],
+      "titles": [
+        "高市首相、中東情勢対応で補正予算案を検討——野党9党と党首討論",
+        "中ロ首脳会談——習主席とプーチン大統領が結束誇示、米国の覇権主義を批判",
+        "愛知県でSNS型投資詐欺——被害総額が約8億7000万円に達する",
+        "兵庫・親子死亡事件——近隣からの相談なく、警察の早期介入に課題",
+        "イトーヨーカ堂、プラスチック容器の価格高騰で惣菜パッケージ変更へ",
+        "野良スキルは使うな、盗め——Claude Codeスキルの安全な活用法と3つの攻撃パターン",
+        "AWS CDKの単体テストの「使い所」をCoding Agentに判断させるSkillを公開",
+        "GrokがオープンソースAIエージェントプラットフォーム「OpenClaw」と連携——メッセージアプリ経由で利用可能に",
+        "Gemini 3.5 Flash: More Expensive, But Google Plans to Use It for Everything — Simon Willison's Analysis",
+        "GitHub Investigates Unauthorized Access to Internal Repositories — Hacker Group Claims 4,000 Files Stolen",
+        "Google Releases Gemini 3.5 Flash at I/O 2026 — Pro-Level Speed at Flash Pricing, With a Catch"
+      ]
+    },
     {
       "run_at": "2026-05-20T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "LangSmith Engine: AI Automatically Detects, Diagnoses, and Fixes Your Agent's Failures",
         "Vercel AI Gateway Production Index: Anthropic Leads Spend at 61%, Agentic Requests Hit 22%",
         "GitHub Copilot \"Fix with Copilot\": One-Click AI Repair for Failing Actions Workflows"
-      ]
-    },
-    {
-      "run_at": "2026-05-19T05:00:00+09:00",
-      "urls": [
-        "https://www.nikkei.com/",
-        "https://www.nikkei.com/",
-        "https://news.yahoo.co.jp/",
-        "https://news.yahoo.co.jp/",
-        "https://www.nikkei.com/",
-        "https://zenn.dev/dedetools/articles/19a6e81dbad453",
-        "https://zenn.dev/memorylakeai/articles/ffa9cecc356a24",
-        "https://zenn.dev/genda_jp/articles/2026-05-18-tmux-a2a-postman",
-        "https://www.anthropic.com/news/anthropic-acquires-stainless",
-        "https://blog.cloudflare.com/cyber-frontier-models",
-        "https://archestra.ai/blog/only-responsible-ai"
-      ],
-      "titles": [
-        "ニューヨーク近郊鉄道でスト決行——約30年ぶり、25万人の通勤に影響",
-        "エボラ出血熱で死者100人超——「ブンディブギョ型」にワクチンなし、国際社会が警戒",
-        "サッカー試合中にクマが目撃——グラウンド脇に出没、選手と観客が一時避難",
-        "トヨタ、逆輸入ピックアップ「タンドラ」を国内公開——北米向け大型車が日本市場へ",
-        "「歯生え薬」、今夏にも臨床試験——京大発スタートアップが85億円調達、世界初の実用化へ",
-        "AIコーディングで毎回同じ注意をしているなら、ルールファイルを置いた方がいい——CLAUDE.md・AGENTS.md・Cursor Rules実践ガイド",
-        "プロンプト修正はもう限界？——AIエージェントが「同じミス」を繰り返す本当の原因とMemory Layerという解決策",
-        "Markdownを設定ファイルにしてtmux上の複数AIエージェントを管理——tmux-a2a-postmanで軽量なA2A通信を実現",
-        "Anthropic Acquires Stainless — SDK and MCP Server Generation Comes In-House",
-        "Project Glasswing: Cloudflare Tests Anthropic's Security LLM \"Mythos\" Across 50+ Repos",
-        "We Stopped AI Bot Spam in Our GitHub Repo Using Git's --author Flag"
-      ]
-    },
-    {
-      "run_at": "2026-05-19T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580717",
-        "https://news.yahoo.co.jp/pickup/6580729",
-        "https://news.yahoo.co.jp/pickup/6580727",
-        "https://news.yahoo.co.jp/pickup/6580720",
-        "https://www.itmedia.co.jp/news/articles/2605/18/news121.html",
-        "https://zenn.dev/go_to_k/articles/markgate-oss",
-        "https://zenn.dev/geneg/articles/2026-05-18-aws-transform-agents-now-availabl",
-        "https://zenn.dev/kubo_gene/articles/2d56d3ccc56ad6",
-        "https://www.anthropic.com/news/claude-design-anthropic-labs",
-        "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
-        "https://www.llamaindex.ai/blog/parsebench"
-      ],
-      "titles": [
-        "自民党が安保3文書改定に向けた提言案——迎撃無人機の早期配備と高出力レーザー兵器の研究開発を盛り込む",
-        "高市首相陣営による「他候補中傷動画」問題——週刊文春報道で関与が指摘された男性がYouTubeで証言",
-        "ハンタウイルス集団感染のクルーズ船が最終目的地に到着——ロッテルダムで患者の治療と経緯調査が続く",
-        "兵庫・丹波篠山市で男性が野焼きに巻き込まれ死亡——畑での作業中に炎が広がったか",
-        "NHK技研が「空飛ぶロボカメ」と「IP回線中継ドローン」を開発——災害時でも途切れない映像伝送技術を公開",
-        "Coding Agentの「ド忘れ」を強制捕捉するOSS『markgate』——Claude CodeやCodexが命令を漏らすことなく実行させるCLIツール",
-        "AWS Transform Agents × Claude Code でサーバーレス移行を加速——CDKコード自動生成から既存Lambda改修まで一括エージェント化",
-        "20ドルで使えるSpec駆動型AIエージェント「Kiro」を試した——スペックファイルから自律実装まで、OIDC認証実装で検証",
-        "Anthropic Launches Claude Design: AI-Powered Visual Creation Tool from Anthropic Labs",
-        "Linus Torvalds: AI-Powered Bug Hunters Are Making Linux Security List \"Almost Entirely Unmanageable\"",
-        "LlamaIndex Releases ParseBench: First Open-Source Document Parsing Benchmark Built for AI Agents"
       ]
     }
   ]

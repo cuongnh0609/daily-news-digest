@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-20T05:00:00+09:00",
+  "last_run_at": "2026-05-20T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-20T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6580910",
+        "https://www.jiji.com/",
+        "https://news.yahoo.co.jp/pickup/6580905",
+        "https://news.yahoo.co.jp/pickup/6580895",
+        "https://news.yahoo.co.jp/pickup/6580900",
+        "https://www.publickey1.jp/blog/26/aized_10atomrust.html",
+        "https://www.publickey1.jp/blog/26/nodejsdatetemporaltemporalchromeedgefirefoxnodejs.html",
+        "https://zenn.dev/feed",
+        "https://blog.cloudflare.com/",
+        "https://github.blog/changelog/feed/",
+        "https://simonwillison.net/2026/May/14/not-so-locked-in/"
+      ],
+      "titles": [
+        "東京株が一時6万円割れ——長期金利上昇と円高が重なり3週間ぶりの下落",
+        "上海の日本料理店で刃物による刺傷事件——日本人を含む複数名が負傷",
+        "部活動の親による送迎「善意頼み」——磐越道バス事故を受け、安全管理の見直し急務",
+        "村上宗隆とイチロー氏が4分超の談笑——T-モバイル・パークで世代を超えた邂逅",
+        "LIVゴルフ、サウジ資金撤退で米国破産申請を準備——世界ゴルフ再編に影",
+        "AIとの協働に最適化したコードエディタ「Zed 1.0」正式リリース——Rustで一から作り直したAtomの後継",
+        "Node.jsがDateに代わる「Temporal」をデフォルト有効化——Chrome/Edge/Firefox/Node.js で全面サポートへ",
+        "AIエージェントの並列作業における「認知限界」——複数エージェントを同時に動かすときの人間側の管理コスト",
+        "Cloudflare Launches Claude Managed Agents — Isolated Execution Environments for Autonomous Code Delivery at Global Scale",
+        "Gemini 3.5 Flash Now Available in GitHub Copilot — Google's Latest Fast Model Joins Anthropic and OpenAI in the IDE",
+        "\"Not So Locked In Any More\" — Simon Willison on How AI Coding Agents Are Eliminating Framework and Language Lock-In"
+      ]
+    },
     {
       "run_at": "2026-05-20T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Launches Claude Design: AI-Powered Visual Creation Tool from Anthropic Labs",
         "Linus Torvalds: AI-Powered Bug Hunters Are Making Linux Security List \"Almost Entirely Unmanageable\"",
         "LlamaIndex Releases ParseBench: First Open-Source Document Parsing Benchmark Built for AI Agents"
-      ]
-    },
-    {
-      "run_at": "2026-05-18T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580684",
-        "https://news.yahoo.co.jp/pickup/6580683",
-        "https://news.yahoo.co.jp/pickup/6580692",
-        "https://www.itmedia.co.jp/news/articles/2605/18/news118.html",
-        "https://www.itmedia.co.jp/news/articles/2605/18/news101.html",
-        "https://zenn.dev/ashunar0/articles/55a669c10e6a8d",
-        "https://zenn.dev/gemcook/articles/e56eabc7ba2961",
-        "https://www.publickey1.jp/blog/26/vs_codeaiagent_window.html",
-        "https://www.anthropic.com/news/claude-opus-4-7",
-        "https://www.anthropic.com/news/finance-agents",
-        "https://github.blog/changelog/2026-05-15-grok-code-fast-1-deprecated"
-      ],
-      "titles": [
-        "栃木強盗殺人事件——指示役とみられる夫婦が容疑を否認、捜査は核心へ",
-        "ストレス検査の義務化、2028年から中小企業にも拡大へ——働き方改革の次の一手",
-        "ナフサ不足がトラック業界を直撃——燃料価格高騰と物流コスト上昇が懸念",
-        "日本将棋連盟の公式サイトが一時停止——不正アクセスの可能性を調査中",
-        "ユニバーサルミュージック、ECサイト利用者310万人の個人情報漏洩を確認",
-        "BunがClaudeを使って6日でZig→Rust移植を完了——96万行のAI生成コードが本番マージ",
-        "Claude CodeユーザーがCodexに移行する前に知っておきたい設定と運用の対応関係",
-        "VS Code 1.120、複数AIエージェントを統合管理する新機能「Agent window」をプレビュー公開",
-        "Introducing Claude Opus 4.7: Advanced Software Engineering with Cyber Safeguards",
-        "Anthropic Launches 10 Finance Agent Templates — Claude Leads Vals AI Finance Benchmark at 64.37%",
-        "GitHub Copilot Drops Grok Code Fast 1 — Token Format Overhaul for GitHub App Installations"
       ]
     }
   ]

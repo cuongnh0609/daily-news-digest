@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-21T20:00:00+09:00",
+  "last_run_at": "2026-05-22T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-22T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026052100943&g=pol&m=rss",
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
+        "https://news.yahoo.co.jp/pickup/6581150",
+        "https://www.jiji.com/jc/article?k=2026052100940&g=pol&m=rss",
+        "https://zenn.dev/ubie_dev/articles/modern-web-guidance",
+        "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000014/",
+        "https://zenn.dev/aws_japan/articles/6640624910acc3",
+        "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+        "https://github.blog/changelog/2026-05-19-gemini-3-5-flash-generally-available-for-github-copilot/",
+        "https://simonwillison.net/2026/May/19/5-minute-llms/"
+      ],
+      "titles": [
+        "政府、補正予算3兆円規模で調整——電気・ガス補助に5000億円、赤字国債で財源確保へ",
+        "ウクライナ軍、ロシア司令部を攻撃——死傷者100人超と主張、戦況に新たな局面",
+        "兵庫の民家で母娘の遺体発見——他殺と断定、捜査本部を設置",
+        "トヨタ、「ノア」「ヴォクシー」を台湾から逆輸入——納車待ち解消に向け年10万台規模",
+        "イラン最高指導者、高濃縮ウランの国内保持を指示——対米交渉は難航の見通し",
+        "Google「Modern Web Guidance」公開——AIエージェントが古いCSS・JSを書く問題をスキルで根本解決",
+        "OpenAI、サイバーセキュリティ特化モデル「GPT-5.5-Cyber」を日本政府・企業へ提供開始",
+        "AWS Bedrock AgentCore、マルチテナントSaaS向け実装パターン詳解——セッション管理とIAM設計の落とし穴",
+        "Google Officially Announces Ads Inside AI Mode Search Results — Two New Gemini-Powered Ad Formats",
+        "Gemini 3.5 Flash Now GA for GitHub Copilot — Near-Pro Quality at Flash Speed, 14× Premium Multiplier",
+        "Simon Willison: The Last Six Months in LLMs — Coding Agents Crossed a Quality Threshold, Chinese Open-Weights Surprised"
+      ]
+    },
     {
       "run_at": "2026-05-21T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Engineering: Scaling Managed Agents — Decoupling Brain from Hands",
         "DeepMind Co-Scientist: Multi-Agent AI Research Partner Published in Nature",
         "GitHub's General-Purpose Accessibility Agent: 3,535 PRs Reviewed, 68% Resolution Rate"
-      ]
-    },
-    {
-      "run_at": "2026-05-20T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580910",
-        "https://www.jiji.com/",
-        "https://news.yahoo.co.jp/pickup/6580905",
-        "https://news.yahoo.co.jp/pickup/6580895",
-        "https://news.yahoo.co.jp/pickup/6580900",
-        "https://www.publickey1.jp/blog/26/aized_10atomrust.html",
-        "https://www.publickey1.jp/blog/26/nodejsdatetemporaltemporalchromeedgefirefoxnodejs.html",
-        "https://zenn.dev/feed",
-        "https://blog.cloudflare.com/",
-        "https://github.blog/changelog/feed/",
-        "https://simonwillison.net/2026/May/14/not-so-locked-in/"
-      ],
-      "titles": [
-        "東京株が一時6万円割れ——長期金利上昇と円高が重なり3週間ぶりの下落",
-        "上海の日本料理店で刃物による刺傷事件——日本人を含む複数名が負傷",
-        "部活動の親による送迎「善意頼み」——磐越道バス事故を受け、安全管理の見直し急務",
-        "村上宗隆とイチロー氏が4分超の談笑——T-モバイル・パークで世代を超えた邂逅",
-        "LIVゴルフ、サウジ資金撤退で米国破産申請を準備——世界ゴルフ再編に影",
-        "AIとの協働に最適化したコードエディタ「Zed 1.0」正式リリース——Rustで一から作り直したAtomの後継",
-        "Node.jsがDateに代わる「Temporal」をデフォルト有効化——Chrome/Edge/Firefox/Node.js で全面サポートへ",
-        "AIエージェントの並列作業における「認知限界」——複数エージェントを同時に動かすときの人間側の管理コスト",
-        "Cloudflare Launches Claude Managed Agents — Isolated Execution Environments for Autonomous Code Delivery at Global Scale",
-        "Gemini 3.5 Flash Now Available in GitHub Copilot — Google's Latest Fast Model Joins Anthropic and OpenAI in the IDE",
-        "\"Not So Locked In Any More\" — Simon Willison on How AI Coding Agents Are Eliminating Framework and Language Lock-In"
       ]
     }
   ]

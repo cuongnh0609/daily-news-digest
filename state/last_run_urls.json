@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-22T00:00:00+09:00",
+  "last_run_at": "2026-05-22T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-22T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6581145",
+        "https://news.yahoo.co.jp/pickup/6581158",
+        "https://news.yahoo.co.jp/pickup/6581156",
+        "https://www.jiji.com/jc/article?k=2026052101120&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2605/21/news107.html",
+        "https://zenn.dev/taka000/articles/ffe2f97499a151",
+        "https://zenn.dev/mofuteq/articles/8a2193df98ac05",
+        "https://zenn.dev/fukukei23/articles/llm-routing-one-month-report",
+        "https://simonwillison.net/2026/May/21/datasette-agent/",
+        "https://www.anthropic.com/news/anthropic-kpmg",
+        "https://github.blog/changelog/2026-05-21-issue-fields-are-now-in-public-preview-for-all-organizations"
+      ],
+      "titles": [
+        "補正予算3兆円規模で調整——電気・ガス補助に5000億円、中東情勢対応を急ぐ",
+        "ウクライナ軍がロシア司令部を攻撃——死傷者100人超と発表、長距離攻撃を継続へ",
+        "兵庫の民家で母娘の遺体発見——他殺と断定、捜査本部を設置",
+        "イラン最高指導者、高濃縮ウランの国内保持を指示——対米核交渉は膠着状態か",
+        "ポケモンカードにマイナカード認証を導入——8月から抽選販売で転売対策強化",
+        "Claude Code・Codex時代に重要になる「ハーネス」という考え方——AIの脳と実行環境を繋ぐ設計哲学",
+        "Vector DBを外したら、RAGではなくAgent Runtimeが残った——推論構造の「外出し」という設計転換",
+        "月間27億トークンを処理したLLMルーティングの実運用レポート——$180で個人開発者がClaud Max越えを達成",
+        "Simon Willison Releases Datasette Agent — A Conversational AI Layer Over Any SQLite Database",
+        "Anthropic Partners with KPMG to Deploy Claude Across 276,000 Employees in 138 Countries",
+        "GitHub Issue Fields Now in Public Preview — Typed Metadata Across All Org Repositories via REST and GraphQL"
+      ]
+    },
     {
       "run_at": "2026-05-22T00:00:00+09:00",
       "urls": [

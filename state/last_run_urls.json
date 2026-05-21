@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-21T05:00:00+09:00",
+  "last_run_at": "2026-05-21T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-21T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6581044",
+        "https://news.yahoo.co.jp/pickup/6581038",
+        "https://news.yahoo.co.jp/pickup/6581050",
+        "https://news.yahoo.co.jp/pickup/6581035",
+        "https://news.yahoo.co.jp/pickup/6581052",
+        "https://zenn.dev/sonicgarden/articles/46e9dde3d6a8d2",
+        "https://zenn.dev/jackojacko05/articles/58e0d632be419a",
+        "https://www.itmedia.co.jp/aiplus/",
+        "https://simonwillison.net/2026/May/20/spacex-s1/",
+        "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+        "https://github.blog/changelog/2026-05-20-auto-model-selection-now-routes-based-on-your-task-in-vs-code/"
+      ],
+      "titles": [
+        "米メタ8千人の解雇開始 AI投資で",
+        "民事裁判の手続き 全面デジタル化",
+        "エボラ ワクチン開発に数カ月か",
+        "薬の処方ミス 難病発症し患者死亡",
+        "税額控除 当面給付に一本化の方向",
+        "Claude Codeに永続記憶させるライブラリを自作した話",
+        "AppleヘルスケアをBigQueryに貯めて、MCP経由でスマホから分析してみた",
+        "OpenAI、GoogleのSynthIDを採用 C2PAと組み合わせAI生成画像の来歴証明を強化",
+        "SpaceX S-1 Filing Reveals Anthropic Is Paying $1.25 Billion Per Month for COLOSSUS Compute Through 2029",
+        "OpenAI Reasoning Model Disproves 80-Year-Old Erdős Unit Distance Conjecture",
+        "GitHub Copilot Auto-Selects Models Based on Task Type and Load in VS Code"
+      ]
+    },
     {
       "run_at": "2026-05-21T05:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "KPMG Deploys Claude to All 276,000 Employees Globally — Embeds Claude Code into Blaze Legacy Modernization Platform",
         "Mini Shai-Hulud Returns: 317 npm Packages Compromised in 22-Minute Attack — 4M+ Monthly Downloads Affected",
         "CISA Contractor Exposed AWS GovCloud Admin Keys on Public GitHub — Repo Lived for 6 Months Before Discovery"
-      ]
-    },
-    {
-      "run_at": "2026-05-19T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026051900961&g=int",
-        "https://www.jiji.com/jc/article?k=2026051900625&g=pol",
-        "https://www.jiji.com/jc/article?k=2026051900899&g=soc",
-        "https://news.yahoo.co.jp/pickup/6580840",
-        "https://www.jiji.com/jc/article?k=2026051900861&g=pol",
-        "https://zenn.dev/yamitake/articles/claude-code-large-codebase-best-practices",
-        "https://zenn.dev/aircloset/articles/f6c990989e60d4",
-        "https://zenn.dev/sonicgarden/articles/4af20794b8a0f7",
-        "https://cursor.com/blog/composer-2-5",
-        "https://github.blog/changelog/2026-05-18-remote-control-for-copilot-cli-sessions-now-generally-available-on-mobile-web-and-vs-code",
-        "https://github.blog/changelog/2026-05-18-copilot-spaces-api-now-generally-available"
-      ],
-      "titles": [
-        "上海の日本料理店で刃物による切り付け事件——日本人含む3人が負傷",
-        "日韓、エネルギー安全保障で連携強化——原油備蓄の相互融通を具体化",
-        "関西電力社員が法廷内で無断録音——2014年ごろから複数関与が判明",
-        "政府、夏の節電要請を見送りへ——電力需給の見通しが改善",
-        "党首討論、玉木氏がトップバッター——20日に9党が論戦",
-        "Claude Codeで大規模コードベースを扱うベストプラクティス——コンテキスト管理が最大の制約",
-        "AIハーネスの心臓部——JSDocナレッジグラフでAIエージェントにリポジトリを「意図」で検索させる",
-        "git worktreeで並列Claude Code開発環境——DB・ドメインは分離、設定は共通化",
-        "Cursor Releases Composer 2.5: RL with Textual Feedback and 25× More Synthetic Training Data",
-        "GitHub Copilot CLI Remote Control Now Generally Available — Steer Agentic Sessions from Anywhere",
-        "GitHub Copilot Spaces API Reaches General Availability — Programmatic Context Management at Enterprise Scale"
-      ]
-    },
-    {
-      "run_at": "2026-05-19T15:00:00+09:00",
-      "urls": [
-        "https://news.web.nhk/newsweb/na/na-k10015125501000",
-        "https://news.web.nhk/newsweb/na/na-k10015125201000",
-        "https://www.jiji.com/jc/article?k=2026051900127&g=int",
-        "https://news.web.nhk/newsweb/na/na-k10015125301000",
-        "https://news.web.nhk/newsweb/na/na-k10015125361000",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2605/19/news044.html",
-        "https://zenn.dev/cnative_tkb/articles/2982caf77c4e1c",
-        "https://zenn.dev/marvelousu/articles/claude-code-remote-incident",
-        "https://simonwillison.net/2026/May/19/5-minute-llms/",
-        "https://odyssey.ml/introducing-agora-1",
-        "https://github.blog/changelog/2026-05-18-copilot-cloud-agent-fast-cost-efficient-models-for-simple-tasks"
-      ],
-      "titles": [
-        "北海道新幹線延伸工事で談合疑い——公取委が建設9社と鉄道・運輸機構に立ち入り検査",
-        "日韓首脳会談が始まる——高市首相とイ・ジェミョン大統領が安東で会談、エネルギー協力が焦点",
-        "トランプ大統領がイラン攻撃を「延期」——湾岸3か国の要請で核交渉を数日待つ方針",
-        "はしか感染者が過去10年で最多に迫るペース——全国で479人、5月末にも記録更新の懸念",
-        "部活バス事故——生徒「出発直後から不安定な運転」、文科省が移動安全管理の見直しへ",
-        "みずほFGが「エージェントファクトリー」を構築——AIエージェント開発期間を最短数日に短縮",
-        "Claude Code を1ヶ月で実用化した学習法——公式ドキュメントとプロジェクト反復でゼロから習得",
-        "Claude Code でスマホからリモートインフラ復旧——Proxmox + Tailscale 環境のDHCP障害を1時間で解決",
-        "The Last Six Months in LLMs in Five Minutes — Simon Willison's PyCon US 2026 Lightning Talk",
-        "Agora-1: Odyssey Introduces a Multi-Agent World Model for Autonomous Spatial Reasoning",
-        "GitHub Copilot Cloud Agent Gets Lightweight Model Tier: Claude Haiku 4.5 and GPT-5.4-mini at 0.33x Cost"
-      ]
-    },
-    {
-      "run_at": "2026-05-19T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580755",
-        "https://www.jiji.com/jc/article?k=2026051900205&g=int",
-        "https://news.yahoo.co.jp/pickup/6580758",
-        "https://www.jiji.com/jc/article?k=2026051900223&g=int",
-        "https://news.yahoo.co.jp/pickup/6580751",
-        "https://zenn.dev/helloworld/articles/7a59c2799d9bda",
-        "https://zenn.dev/takibilab/articles/ai-agent-least-privilege",
-        "https://www.publickey1.jp/blog/26/aipcdell_deskside_agentic_ainvidia_gb10gb300.html",
-        "https://www.langchain.com/blog/introducing-langsmith-engine",
-        "https://vercel.com/blog/ai-gateway-production-index",
-        "https://github.blog/changelog/2026-05-18-one-click-fixes-for-failing-actions-with-copilot-cloud-agent"
-      ],
-      "titles": [
-        "1〜3月期GDP、年率2.1%増——2四半期連続のプラス成長、輸出が牽引",
-        "英、次期戦闘機「GCAP」に1.3兆円——財政難でも日本が資金確保を要求",
-        "磐越道マイクロバス事故——代役運転手が起用されるまでの経緯が判明",
-        "米国でエボラ出血熱感染——コンゴで医師が陽性、ドイツへ移送へ",
-        "東大「五月祭」に爆破予告——神谷氏講演が中止、言論の自由巡り波紋",
-        "Claude Rulesが無視される本当の理由——/btw・/rewind・/clearでコンテキストを立て直す",
-        "AIエージェントは最小権限で使う——Claude Code・MCP・VS Code拡張の安全設定ガイド",
-        "デル「Dell Deskside Agentic AI」発表——ローカルでAIエージェントを動かすデスクトップ3機種",
-        "LangSmith Engine: AI Automatically Detects, Diagnoses, and Fixes Your Agent's Failures",
-        "Vercel AI Gateway Production Index: Anthropic Leads Spend at 61%, Agentic Requests Hit 22%",
-        "GitHub Copilot \"Fix with Copilot\": One-Click AI Repair for Failing Actions Workflows"
       ]
     }
   ]

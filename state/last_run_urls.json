@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-21T15:00:00+09:00",
+  "last_run_at": "2026-05-21T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-21T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026052100943&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6581119",
+        "https://news.yahoo.co.jp/pickup/6581126",
+        "https://news.yahoo.co.jp/pickup/6581128",
+        "https://www.jiji.com/jc/article?k=2026052100940&g=soc&m=rss",
+        "https://zenn.dev/redwing/articles/21a0d106b993a8",
+        "https://zenn.dev/kukyotolab/articles/llm_production_ops",
+        "https://www.publickey1.jp/blog/26/linux_foundationaiagntcon_mcpcon910112.html",
+        "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
+        "https://huggingface.co/blog/huggingface/agent-traces-as-memory",
+        "https://simonwillison.net/2026/May/20/google-io/"
+      ],
+      "titles": [
+        "補正予算3兆円・電気ガス補助5000億円——政府・与党が夏の物価対策を検討",
+        "動物園職員を殺人容疑で再逮捕へ——同僚への暴行から発展か",
+        "官邸官僚が女性記者に不適切行為——政府は「厳正に対処」と表明",
+        "高市首相を支持する議員連盟が340人超——与党内最大規模の結集",
+        "日本将棋連盟の公式サイトに不正アクセス——「復旧に時間がかかる」",
+        "AIエージェントに「確実性」を与えるMCPサーバーを個人開発——祝日・タイムゾーン・営業日をAPIで解決",
+        "製造業RAGの本番運用設計——Evals・Observability・Fallbackの4フェーズ実装",
+        "Linux Foundation、AIエージェント×MCPカンファレンス「AGNTCon + MCPCon」を東京・渋谷で9月開催",
+        "GitHub Copilot Remote Sessions Now GA — Start Locally, Monitor and Control from Any Device",
+        "Hugging Face: Software Forgets — Agent Traces Are the Memory",
+        "Simon Willison on Google I/O: Gemini Spark Agent, Closed-Source Antigravity CLI, and Prompt Injection Risks"
+      ]
+    },
     {
       "run_at": "2026-05-21T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Cloudflare Launches Claude Managed Agents — Isolated Execution Environments for Autonomous Code Delivery at Global Scale",
         "Gemini 3.5 Flash Now Available in GitHub Copilot — Google's Latest Fast Model Joins Anthropic and OpenAI in the IDE",
         "\"Not So Locked In Any More\" — Simon Willison on How AI Coding Agents Are Eliminating Framework and Language Lock-In"
-      ]
-    },
-    {
-      "run_at": "2026-05-20T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580871",
-        "https://news.yahoo.co.jp/pickup/6580875",
-        "https://news.yahoo.co.jp/pickup/6580873",
-        "https://news.yahoo.co.jp/pickup/6580876",
-        "https://www.jiji.com/",
-        "https://www.publickey1.jp/atom.xml",
-        "https://www.itmedia.co.jp/aiplus/",
-        "https://zenn.dev/feed",
-        "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
-        "https://deepmind.google/discover/blog/",
-        "https://deepmind.google/discover/blog/gemini-spark"
-      ],
-      "titles": [
-        "AIミュトスへの危機感高まる——政府・金融機関が緊急対応策を協議",
-        "ストーカー加害者にGPS端末装着——自民党が義務化法案を提示",
-        "住宅で女性2人の遺体発見——複数の刺し傷、警察が捜査開始",
-        "サメ目撃でマリンスポーツ禁止——神奈川・海水浴場が安全確保へ",
-        "G7財務相会議、AIリスクと関税摩擦を協議——共同声明の調整難航",
-        "AIエージェントの国際カンファレンス「AGNTCon + MCPCon」が東京で9月開催——Linux Foundation主催",
-        "AIの先駆者カーパシー氏がAnthropicに入社——事前学習チームでClaudeの次世代モデル研究を主導",
-        "AI駆動開発で1日平均15.8件のPR作成を実現——チーム全体の開発速度を測定した事例報告",
-        "Andrej Karpathy Joins Anthropic to Lead Pre-training Research Group for Next-Gen Claude",
-        "Google Releases Gemini 3.5 Flash at I/O 2026 — Pro-Level Reasoning at Flash Speed with 78% SWE-bench",
-        "Google Announces Gemini Spark — A Personal AI Agent That Learns Your Preferences and Handles Multi-Step Tasks"
-      ]
-    },
-    {
-      "run_at": "2026-05-20T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026051901017&g=soc",
-        "https://www.jiji.com/jc/article?k=2026051901086&g=soc",
-        "https://www.jiji.com/jc/article?k=2026051901163&g=int",
-        "https://www.jiji.com/jc/article?k=2026051901189&g=int",
-        "https://www.itmedia.co.jp/news/articles/2605/19/news081.html",
-        "https://www.itmedia.co.jp/news/articles/2605/19/news120.html",
-        "https://zenn.dev/mbk_digital/articles/2674c0ee84d9b5",
-        "https://zenn.dev/takna/articles/secret-leak-prevention-4-layer",
-        "https://www.anthropic.com/news/anthropic-kpmg",
-        "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
-        "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/"
-      ],
-      "titles": [
-        "荻野屋「峠の親子めし」で食中毒——黄色ブドウ球菌が検出、横川工場に3日間の営業停止命令",
-        "奥多摩の山中で遺体の一部を発見——クマによる被害の可能性、警視庁が身元確認を急ぐ",
-        "トランプ大統領、米くら寿司株を最大８億円取得——政府倫理局の開示で判明、利益相反の懸念も",
-        "米財務長官が植田日銀総裁と会談——「過度な為替変動は望ましくない」、円相場は159円台で推移",
-        "「WWDC26」6月8〜9日開催——iOS 27・macOS 27が発表予定、開発者1,000人以上がApple Parkに集結",
-        "日立、Anthropicと戦略提携——グループ29万人にClaudeを展開、「Frontier AI Deployment Center」をアジア太平洋の拠点に",
-        "LLMエージェント×Spec駆動開発で分析基盤を構築——「仕様書先行」で後工程の手戻りを根絶するアプローチ",
-        "AIコーディングでsecretを漏らさないための「４層防御」——設計・pre-commit・GitHub・Claude Code Hooksの組み合わせ",
-        "KPMG Deploys Claude to All 276,000 Employees Globally — Embeds Claude Code into Blaze Legacy Modernization Platform",
-        "Mini Shai-Hulud Returns: 317 npm Packages Compromised in 22-Minute Attack — 4M+ Monthly Downloads Affected",
-        "CISA Contractor Exposed AWS GovCloud Admin Keys on Public GitHub — Repo Lived for 6 Months Before Discovery"
       ]
     }
   ]

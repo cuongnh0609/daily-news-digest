@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-22T05:00:00+09:00",
+  "last_run_at": "2026-05-22T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-22T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6581170",
+        "https://news.yahoo.co.jp/pickup/6581165",
+        "https://news.yahoo.co.jp/pickup/6581162",
+        "https://www.itmedia.co.jp/news/",
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
+        "https://zenn.dev/kitadesign/articles/iphone-local-llm-back-to-afm",
+        "https://zenn.dev/architectai/articles/69abd5915233cb",
+        "https://zenn.dev/memorylakeai/articles/3c01d12dfb8787",
+        "https://www.langchain.com/blog/from-token-streams-to-agent-streams",
+        "https://openai.com/blog",
+        "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html"
+      ],
+      "titles": [
+        "石破首相、ナフサ由来製品の流通目詰まり解消を閣僚会議で指示——中東情勢が国内消費者物価に波及",
+        "ブタの腎臓を用いた異種移植、国内初の臨床試験へ——明大発ベンチャーが2026年度末に治験届を提出予定",
+        "神戸山口組・井上組長の自宅が強制競売——所有権が群馬の会社に移転、警察が明け渡し注視",
+        "WWDC26開幕は6月9日午前2時JST——AppleがiOS 26など次世代OSを発表へ、AI機能の大幅拡充に注目",
+        "エボラ感染疑いで仏発旅客機が目的地変更——乗客を隔離・検査へ、WHOが状況を注視",
+        "iPhoneでローカルLLMに挑戦して全滅——Apple Foundation Modelsに戻った開発者が語る「メモリの壁」",
+        "「3社AIが並列で設計書を審査する」仕組み——Claude + GPT-4 + Geminiが5軸評価でアーキテクチャ品質を担保",
+        "Agent Memoryが本番で失敗する「絶望の谷」——書き込みパス・読み込みパス・ガバナンスの3層アーキテクチャで突破",
+        "LangChain: From Token Streams to Agent Streams — A New Primitive for Observing Long-Running Agents",
+        "How Ramp Engineers Accelerate Code Review with OpenAI Codex — Async Agent Handles 60% of PR Comments",
+        "Python 3.15 Features That Didn't Make the Headlines — Thread-Safe Iterators, TaskGroup.cancel(), and Immutable JSON"
+      ]
+    },
     {
       "run_at": "2026-05-22T05:00:00+09:00",
       "urls": [

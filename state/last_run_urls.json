@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-23T00:00:00+09:00",
+  "last_run_at": "2026-05-23T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-23T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026052300043&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052200853&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052200216&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052201194&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052200158&g=pol&m=rss",
+        "https://www.publickey1.jp/blog/26/vs_codeaiagent_window.html",
+        "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000013/",
+        "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000018/",
+        "https://www.anthropic.com/research/glasswing-initial-update",
+        "https://deno.com/blog/v2.8",
+        "https://api-docs.deepseek.com/quick_start/pricing"
+      ],
+      "titles": [
+        "ウォーシュ新FRB議長が就任——米金融政策の新時代へ",
+        "大阪都構想、3度目の住民投票へ——市議会委員会が法定協設置案を可決",
+        "米、対イラン核交渉で「高濃縮ウラン保有は認めず」——交渉に「良い兆候」も緊張続く",
+        "ニューヨーク株が続伸・一時3カ月ぶり高値——米イラン緊張緩和に期待、原油先物も下落",
+        "自民党、国旗損壊罪の法案骨子を了承——アニメ・漫画・AIは対象外と明示",
+        "VS Code、複数AIエージェントの並列開発を可能にする「Agent window」をプレビュー公開",
+        "OpenAIの内部AIモデルが80年来の未解決数学問題を証明——代数的数論の手法で幾何学の壁を突破",
+        "Google Antigravity 2.0、利用上限を緩和——ただしアップデート手順に「落とし穴」あり",
+        "Project Glasswing: Anthropic's AI Finds 10,000+ Critical Vulnerabilities in Production Software",
+        "Deno 2.8: Node.js Pass Rate Jumps to 76%, npm Installs 3.66× Faster, TypeScript 6 Ships by Default",
+        "DeepSeek Makes V4 Pro 75% Price Discount Permanent — Sub-$1/M Output Tokens for SOTA-Level Model"
+      ]
+    },
     {
       "run_at": "2026-05-23T00:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Google Officially Announces Ads Inside AI Mode Search Results — Two New Gemini-Powered Ad Formats",
         "Gemini 3.5 Flash Now GA for GitHub Copilot — Near-Pro Quality at Flash Speed, 14× Premium Multiplier",
         "Simon Willison: The Last Six Months in LLMs — Coding Agents Crossed a Quality Threshold, Chinese Open-Weights Surprised"
-      ]
-    },
-    {
-      "run_at": "2026-05-21T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026052100943&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6581119",
-        "https://news.yahoo.co.jp/pickup/6581126",
-        "https://news.yahoo.co.jp/pickup/6581128",
-        "https://www.jiji.com/jc/article?k=2026052100940&g=soc&m=rss",
-        "https://zenn.dev/redwing/articles/21a0d106b993a8",
-        "https://zenn.dev/kukyotolab/articles/llm_production_ops",
-        "https://www.publickey1.jp/blog/26/linux_foundationaiagntcon_mcpcon910112.html",
-        "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
-        "https://huggingface.co/blog/huggingface/agent-traces-as-memory",
-        "https://simonwillison.net/2026/May/20/google-io/"
-      ],
-      "titles": [
-        "補正予算3兆円・電気ガス補助5000億円——政府・与党が夏の物価対策を検討",
-        "動物園職員を殺人容疑で再逮捕へ——同僚への暴行から発展か",
-        "官邸官僚が女性記者に不適切行為——政府は「厳正に対処」と表明",
-        "高市首相を支持する議員連盟が340人超——与党内最大規模の結集",
-        "日本将棋連盟の公式サイトに不正アクセス——「復旧に時間がかかる」",
-        "AIエージェントに「確実性」を与えるMCPサーバーを個人開発——祝日・タイムゾーン・営業日をAPIで解決",
-        "製造業RAGの本番運用設計——Evals・Observability・Fallbackの4フェーズ実装",
-        "Linux Foundation、AIエージェント×MCPカンファレンス「AGNTCon + MCPCon」を東京・渋谷で9月開催",
-        "GitHub Copilot Remote Sessions Now GA — Start Locally, Monitor and Control from Any Device",
-        "Hugging Face: Software Forgets — Agent Traces Are the Memory",
-        "Simon Willison on Google I/O: Gemini Spark Agent, Closed-Source Antigravity CLI, and Prompt Injection Risks"
-      ]
-    },
-    {
-      "run_at": "2026-05-21T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6581071",
-        "https://news.yahoo.co.jp/pickup/6581085",
-        "https://news.yahoo.co.jp/pickup/6581094",
-        "https://news.yahoo.co.jp/pickup/6581081",
-        "https://www.itmedia.co.jp/news/articles/2605/21/news061.html",
-        "https://zenn.dev/redamoon/articles/article45-claude-code-skill-creator-benchmark",
-        "https://zenn.dev/r_kaga/articles/00f4bef5a8ac70",
-        "https://www.itmedia.co.jp/news/articles/2605/21/news063.html",
-        "https://www.anthropic.com/news/widening-conversation-ai",
-        "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-        "https://mikeveerman.github.io/tokenspeed/"
-      ],
-      "titles": [
-        "習近平主席、近く北朝鮮を訪問か——韓国側が動向を注視",
-        "東京電力でも法廷内の無断録音が発覚——11年間にわたり組織的に実施",
-        "立憲・江田憲司氏（70歳）が政界引退を表明——衆院選落選受け「民意を受け止める」",
-        "大谷翔平、パドレス戦で8号先頭打者弾＆5回無失点——二刀流で4勝目",
-        "SpaceXがIPO申請——マスク氏が議決権の85.1%を掌握、NASDAQに「SPCX」で上場へ",
-        "Claude Code の skill-creator で既存 Skill を自動ベンチマーク検証——評価スコアで効果を数値化",
-        "AIコードが増え続ける時代に——メンテナンスコスト削減にもAIを活用するアプローチ",
-        "NVIDIA、FY27Q1売上高が過去最高の816億ドル——AIインフラ需要でデータセンター部門が前年比92%増",
-        "Anthropic Invites Philosophers, Clergy, and Ethicists to Shape Claude's Moral Formation",
-        "Intuit Lays Off 3,000 Employees — 17% of Workforce — to Accelerate AI Product Transformation",
-        "How Fast Is 10 Tokens Per Second, Really? — An Interactive Tool That Makes LLM Speed Tangible"
       ]
     }
   ]

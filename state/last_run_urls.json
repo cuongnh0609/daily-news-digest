@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-22T15:00:00+09:00",
+  "last_run_at": "2026-05-22T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-22T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6581261",
+        "https://news.yahoo.co.jp/pickup/6581266",
+        "https://news.yahoo.co.jp/pickup/6581259",
+        "https://www.itmedia.co.jp/news/articles/2605/22/news111.html",
+        "https://news.yahoo.co.jp/pickup/6581267",
+        "https://zenn.dev/sprix_it/articles/53c746eb9cf31c",
+        "https://zenn.dev/sonicgarden/articles/e5fd7f54433d3d",
+        "https://www.publickey1.jp/blog/26/apigooglelinuxaimarkdownmanaged_agent_api.html",
+        "https://simonwillison.net/2026/May/22/ftc-active-listening/",
+        "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+        "https://blog.simbastack.com/indexed-a-year-of-video-locally/"
+      ],
+      "titles": [
+        "吉村氏、首相の国会出席を大幅に削減するよう提言——国会改革論議が再燃",
+        "YKKAPで会長ら3人が不正経費請求——社外弁護士で調査委員会を設置",
+        "兵庫・豊岡市で男児が車にはねられ重体——82歳男性を危険運転致傷容疑で逮捕",
+        "Googleが買収した送金アプリ「pring」、12月1日に完全終了へ——残高は9月に没収",
+        "韓国スターバックスで不買運動——光州事件記念に絡むキャンペーンに批判、代表が辞任",
+        "Claude Codeサブエージェント構成は業務形態で変わる——「分離・共有・排除」3原則で設計",
+        "Claude Code Skillで社内プロジェクトを1時間で完了——週次Zoom後の並列サブエージェント自動化",
+        "GoogleがAPIコール1発でLinux環境付きAIエージェントを起動できる「Managed Agent API」を発表",
+        "FTC Fines Cox Media Group $1M for Fraudulent \"Active Listening\" AI Ad Targeting",
+        "Google's Antigravity \"Bait and Switch\" — Silent Update Replaced Dev IDE with Chatbot, Breaking Workflows",
+        "Indexing a Year of Video Locally on a 2021 MacBook with Gemma 4 31B — From $140/mo SaaS to $22/mo"
+      ]
+    },
     {
       "run_at": "2026-05-22T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Invites Philosophers, Clergy, and Ethicists to Shape Claude's Moral Formation",
         "Intuit Lays Off 3,000 Employees — 17% of Workforce — to Accelerate AI Product Transformation",
         "How Fast Is 10 Tokens Per Second, Really? — An Interactive Tool That Makes LLM Speed Tangible"
-      ]
-    },
-    {
-      "run_at": "2026-05-21T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6581044",
-        "https://news.yahoo.co.jp/pickup/6581038",
-        "https://news.yahoo.co.jp/pickup/6581050",
-        "https://news.yahoo.co.jp/pickup/6581035",
-        "https://news.yahoo.co.jp/pickup/6581052",
-        "https://zenn.dev/sonicgarden/articles/46e9dde3d6a8d2",
-        "https://zenn.dev/jackojacko05/articles/58e0d632be419a",
-        "https://www.itmedia.co.jp/aiplus/",
-        "https://simonwillison.net/2026/May/20/spacex-s1/",
-        "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-        "https://github.blog/changelog/2026-05-20-auto-model-selection-now-routes-based-on-your-task-in-vs-code/"
-      ],
-      "titles": [
-        "米メタ8千人の解雇開始 AI投資で",
-        "民事裁判の手続き 全面デジタル化",
-        "エボラ ワクチン開発に数カ月か",
-        "薬の処方ミス 難病発症し患者死亡",
-        "税額控除 当面給付に一本化の方向",
-        "Claude Codeに永続記憶させるライブラリを自作した話",
-        "AppleヘルスケアをBigQueryに貯めて、MCP経由でスマホから分析してみた",
-        "OpenAI、GoogleのSynthIDを採用 C2PAと組み合わせAI生成画像の来歴証明を強化",
-        "SpaceX S-1 Filing Reveals Anthropic Is Paying $1.25 Billion Per Month for COLOSSUS Compute Through 2029",
-        "OpenAI Reasoning Model Disproves 80-Year-Old Erdős Unit Distance Conjecture",
-        "GitHub Copilot Auto-Selects Models Based on Task Type and Load in VS Code"
-      ]
-    },
-    {
-      "run_at": "2026-05-21T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6581030",
-        "https://news.yahoo.co.jp/pickup/6581017",
-        "https://news.yahoo.co.jp/pickup/6581027",
-        "https://news.yahoo.co.jp/pickup/6581019",
-        "https://www.itmedia.co.jp/news/articles/2605/18/news101.html",
-        "https://zenn.dev/pepabo/articles/9baa6271b2055d",
-        "https://www.publickey1.jp/blog/26/google_antigravityandroidaiandroid_knowledge_baseandroid_skills.html",
-        "https://www.itmedia.co.jp/news/articles/2605/19/news100.html",
-        "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
-        "https://www.langchain.com/blog/give-your-agents-an-interpreter",
-        "https://qwen.ai/blog?id=qwen3.7"
-      ],
-      "titles": [
-        "宮城・大崎市でクマが出没——女性が追い払おうとして転倒、骨折の重傷",
-        "MNL48、5月末をもって活動終了——フィリピン版AKBが8年の歴史に幕",
-        "7点差からの大逆転負け——中日・井上監督が試合後の会見を拒否",
-        "26歳でプロポーズ直後に希少がん転移が判明——闘病と向き合う男性の記録",
-        "ユニバーサルミュージック、約310万人の個人情報流出——7か月遅れで公表",
-        "AIを5本同時に走らせても、俺の脳みそは1個しかない——並列Claude Code開発における認知限界の正体",
-        "Google Antigravity、Androidアプリ開発に正式対応——AIエージェントがKotlinプロジェクト生成からデバイス実行まで自動化",
-        "Anthropicの「Mythos」モデル、Appleが5年かけて構築したセキュリティを5日で突破——AIサイバー攻撃の新次元",
-        "Railway's 8-Hour Total Outage: How a Single GCP Account Suspension Took Down an Entire Cloud Platform",
-        "LangChain Deep Agents Get an Interpreter: Programmatic Tool Calling Cuts Token Usage 35% on Agentic Tasks",
-        "Qwen3.7-Max: Alibaba's New Agent-First Frontier Model Runs Tasks for 35 Hours and Connects to 1,000+ Tools"
       ]
     }
   ]

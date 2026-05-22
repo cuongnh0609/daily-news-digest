@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-22T10:00:00+09:00",
+  "last_run_at": "2026-05-22T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-22T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/topics/domestic",
+        "https://news.yahoo.co.jp/",
+        "https://news.yahoo.co.jp/",
+        "https://news.yahoo.co.jp/",
+        "https://news.yahoo.co.jp/",
+        "https://zenn.dev/topics/claudecode",
+        "https://zenn.dev/feed",
+        "https://zenn.dev/feed",
+        "https://www.runtm.com/",
+        "https://arxiv.org/abs/2605.12460",
+        "https://github.blog/changelog/"
+      ],
+      "titles": [
+        "マイナンバーカード義務化、デジタル相が「国民的議論を」——保険証廃止後の新局面",
+        "橋から33メートル下の岩場で母子の遺体——自殺か、警察が経緯を捜査",
+        "トヨタ、ゴールデンウィークの稼働日見直しを検討——生産計画の柔軟化で需給バランス改善へ",
+        "栃木強盗殺人事件——遺族が初のコメント「二度と同じ悲劇を繰り返さないで」",
+        "ハッカー集団「Qilin」が朝日新聞を標的に——ランサムウェアの手口が高度化、メディア業界に衝撃",
+        "OpenTelemetryでClaude Codeのトークン使用量とコストを可視化——Jaegerダッシュボード構築の実践ガイド",
+        "AIが問い合わせの97.9%をカバー——カスタマーサポートBot本番運用6ヶ月レポート",
+        "RustでPDF圧縮を実装——40年来の業界標準Ghostscriptを超えた「PDFスリム化」の全貌",
+        "Runtime (YC W26): Sandboxed Agent Platform Skips 9 Months of Infrastructure Work for Teams",
+        "Multi-Stream LLMs: New Architecture Lets Agents Read, Think, and Act in Parallel Instead of Sequentially",
+        "GitHub Copilot for Eclipse Goes Open Source Under MIT — Community Can Now Extend the Plugin"
+      ]
+    },
     {
       "run_at": "2026-05-22T10:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "Railway's 8-Hour Total Outage: How a Single GCP Account Suspension Took Down an Entire Cloud Platform",
         "LangChain Deep Agents Get an Interpreter: Programmatic Tool Calling Cuts Token Usage 35% on Agentic Tasks",
         "Qwen3.7-Max: Alibaba's New Agent-First Frontier Model Runs Tasks for 35 Hours and Connects to 1,000+ Tools"
-      ]
-    },
-    {
-      "run_at": "2026-05-21T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6581022",
-        "https://news.yahoo.co.jp/pickup/6581000",
-        "https://news.yahoo.co.jp/pickup/6581029",
-        "https://www.itmedia.co.jp/news/articles/2605/20/news130.html",
-        "https://news.yahoo.co.jp/pickup/6581028",
-        "https://zenn.dev/aishift/articles/5b048ff347fd7b",
-        "https://zenn.dev/techquant/articles/claude-code-pi5-budget-tuning",
-        "https://www.publickey1.jp/blog/26/apigooglelinuxaimarkdownmanaged_agent_api.html",
-        "https://www.anthropic.com/news/anthropic-acquires-stainless",
-        "https://github.com/antoinezambelli/forge",
-        "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html"
-      ],
-      "titles": [
-        "習近平主席、中露は「軍国主義の復活」に反対——北京首脳会談で対米批判を共同表明",
-        "キリン、10月から「一番搾り」値下げへ——酒税改正でビール減税・低アルは値上げ",
-        "栃木・強盗殺人事件——被害者の飼い犬も殺害か、少年グループが口封じに",
-        "JR東日本とKDDIが山手線車両を5Gミリ波エリア化——通信速度1Gbps、全線の97%をカバー",
-        "ホルムズ海峡、タンカー含む26隻が通過——イラン革命防衛隊が「調整済み」と発表",
-        "ローカルCoding Agentの実力を検証——Qwen3.6-27BとClaude Code Sonnet 4.6の比較実験",
-        "Raspberry Pi 5でClaude Codeを40日運用——1日5ドルから2ドルへ60%のコスト削減に成功",
-        "Google「Managed Agent API」発表——APIコール1回でLinux環境付きAIエージェントを起動",
-        "Anthropic Acquires Stainless — SDK and MCP Server Tooling Brought In-House to Power Agent Connectivity",
-        "Forge: Guardrails Layer Takes a Local 8B Model from 53% to 99% Accuracy on Agentic Tool-Calling Tasks",
-        "Learnings from 100K Lines of Rust with AI — Spec-Driven Development and Code Contracts at Scale"
-      ]
-    },
-    {
-      "run_at": "2026-05-20T20:00:00+09:00",
-      "urls": [
-        "https://news.web.nhk/newsweb/na/na-k10015126331000",
-        "https://news.web.nhk/newsweb/na/na-k10015126001000",
-        "https://news.web.nhk/newsweb/na/na-k10015126931000",
-        "https://news.web.nhk/newsweb/na/na-k10015126981000",
-        "https://news.web.nhk/newsweb/na/na-k10015126701000",
-        "https://zenn.dev/emilia_lab/articles/claude-code-skill-safety",
-        "https://zenn.dev/go_to_k/articles/aws-cdk-unit-testing",
-        "https://www.itmedia.co.jp/news/articles/2605/20/news124.html",
-        "https://simonwillison.net/2026/May/19/gemini-35-flash/",
-        "https://www.itmedia.co.jp/news/articles/2605/20/news085.html",
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
-      ],
-      "titles": [
-        "高市首相、中東情勢対応で補正予算案を検討——野党9党と党首討論",
-        "中ロ首脳会談——習主席とプーチン大統領が結束誇示、米国の覇権主義を批判",
-        "愛知県でSNS型投資詐欺——被害総額が約8億7000万円に達する",
-        "兵庫・親子死亡事件——近隣からの相談なく、警察の早期介入に課題",
-        "イトーヨーカ堂、プラスチック容器の価格高騰で惣菜パッケージ変更へ",
-        "野良スキルは使うな、盗め——Claude Codeスキルの安全な活用法と3つの攻撃パターン",
-        "AWS CDKの単体テストの「使い所」をCoding Agentに判断させるSkillを公開",
-        "GrokがオープンソースAIエージェントプラットフォーム「OpenClaw」と連携——メッセージアプリ経由で利用可能に",
-        "Gemini 3.5 Flash: More Expensive, But Google Plans to Use It for Everything — Simon Willison's Analysis",
-        "GitHub Investigates Unauthorized Access to Internal Repositories — Hacker Group Claims 4,000 Files Stolen",
-        "Google Releases Gemini 3.5 Flash at I/O 2026 — Pro-Level Speed at Flash Pricing, With a Catch"
-      ]
-    },
-    {
-      "run_at": "2026-05-20T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6580941",
-        "https://news.yahoo.co.jp/pickup/6580942",
-        "https://news.yahoo.co.jp/pickup/6580950",
-        "https://news.yahoo.co.jp/pickup/6580953",
-        "https://www.nikkei.com/article/DGXZQOKC205CW0Q6A520C2000000/",
-        "https://www.publickey1.jp/blog/26/google_antigravity_20os.html",
-        "https://www.publickey1.jp/blog/26/bun_zigrustclaude_ai.html",
-        "https://www.publickey1.jp/blog/26/vs_codeagent_windowai.html",
-        "https://www.anthropic.com/engineering/managed-agents",
-        "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
-        "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/"
-      ],
-      "titles": [
-        "中露首脳会談——イランとウクライナ情勢をめぐる協議が焦点に",
-        "四国電力も法廷内で無断録音——関西電力に続き組織的関与が発覚",
-        "栃木強盗殺人事件——容疑者グループがリアルタイムで犯行指示か",
-        "福島市内でマンホール転落事故——1人死亡、安全管理に問題か",
-        "NFLが日本でのスーパーボウル開催を検討——アジア市場への本格展開か",
-        "Google「Antigravity 2.0」正式発表——OSを丸ごとデモできるAIコーディング環境の全貌",
-        "BunランタイムがZigからRustへ全面移行——Claude AIを活用した大規模リファクタリングの舞台裏",
-        "VS Code「Agent Window」プレビュー公開——AIエージェントの実行状態を可視化する新UI",
-        "Anthropic Engineering: Scaling Managed Agents — Decoupling Brain from Hands",
-        "DeepMind Co-Scientist: Multi-Agent AI Research Partner Published in Nature",
-        "GitHub's General-Purpose Accessibility Agent: 3,535 PRs Reviewed, 68% Resolution Rate"
       ]
     }
   ]

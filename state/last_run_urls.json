@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-23T05:00:00+09:00",
+  "last_run_at": "2026-05-23T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-23T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/",
+        "https://news.yahoo.co.jp/pickup/6581311",
+        "https://news.yahoo.co.jp/pickup/6581302",
+        "https://news.yahoo.co.jp/pickup/6581317",
+        "https://www.jiji.com/",
+        "https://www.langchain.com/blog/introducing-langsmith-engine",
+        "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000012/",
+        "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000015/",
+        "https://www.kanbots.dev/",
+        "https://www.langchain.com/blog/introducing-langsmith-engine",
+        "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/"
+      ],
+      "titles": [
+        "兵庫の民家２棟が国宝に——文化審議会が初の民家指定を答申",
+        "米国家情報長官が辞任——トランプ政権で閣僚4人目の交代",
+        "生成AIで声優・津田健次郎さんの声を模倣——業者を相手取り提訴へ",
+        "袴田巌さんに特別給付金500万円——冤罪被害者補償の新たな一歩",
+        "ホルムズ海峡封鎖なら「命の危機」——WFP事務局長が日本に警告と感謝",
+        "LangSmith Engineがエージェント開発を自動化——本番トレースからバグ・修正PRを自動生成",
+        "富士通AIが人事異動工数を98%削減——数理最適化で100人規模の配置を自動算出",
+        "AI開発効果を「開発資本」で測定——ファインディがKDDI・DMMらと共同検証開始",
+        "KanBots: Open-Source Kanban Board That Dispatches Parallel Claude/Codex Agents per Card",
+        "LangSmith Engine: AI Agent That Monitors Production Traces and Auto-Creates Fix PRs",
+        "CISA Data Leak: Contractor Exposed AWS GovCloud Keys and RSA Private Keys on Public GitHub"
+      ]
+    },
     {
       "run_at": "2026-05-23T05:00:00+09:00",
       "urls": [
@@ -94,7 +123,7 @@
         "https://news.yahoo.co.jp/topics/domestic",
         "https://news.yahoo.co.jp/",
         "https://news.yahoo.co.jp/",
-        "https://news.yahoo.co.jp/",
+        "https://www.itmedia.co.jp/news/articles/2605/22/news111.html",
         "https://news.yahoo.co.jp/",
         "https://zenn.dev/topics/claudecode",
         "https://zenn.dev/feed",

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-23T15:00:00+09:00",
+  "last_run_at": "2026-05-25T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-25T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026052500634&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052500450&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052500917&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6581662",
+        "https://www.itmedia.co.jp/news/articles/2605/25/news129.html",
+        "https://zenn.dev/knowledge_graph/articles/kg-agent-memory-first-design",
+        "https://zenn.dev/ju571n/articles/ai-agent-config-attack-surface",
+        "https://zenn.dev/sonicgarden/articles/claude-code-self-improving-loop",
+        "https://www.anthropic.com/news/claude-opus-4-7",
+        "https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm",
+        "https://arxiv.org/abs/2605.06445"
+      ],
+      "titles": [
+        "補正予算3兆円強・電気ガス代5000円支援——高市首相が中東情勢対応策を発表",
+        "米中首脳会談で習氏が高市首相を強く非難——トランプ氏は日本の防衛力強化を擁護",
+        "生成AIで声優の声を無断複製——津田健次郎さんがTikTok運営会社を提訴",
+        "江別大学生暴行死事件の初公判——法廷で2時間の暴行音声が再生される",
+        "日本大学、教職員1万人が「Google AI Pro」を活用へ——大学のAI導入が加速",
+        "AIエージェントが毎回データを取りに行く設計の限界——Memory-First アーキテクチャへの転換",
+        "AIコーディングエージェントの本当の攻撃面は設定ファイルだった——Sigil OSS で可視化する防御策",
+        "Claude Codeのスキルが毎日自動改善されていく仕組みを実装——Sonic GardenがRoutinesで13日間に40件のコミット",
+        "Claude Opus 4.7 Generally Available: 3.75 MP Vision, xhigh Effort, Task Budgets, and Ultrareview",
+        "npm Staged Publishing & Install-Time Source Controls: Human-Gated Releases for Supply Chain Safety",
+        "Constraint Decay: LLM Agents Lose ~30 Points as Backend Structural Requirements Accumulate"
+      ]
+    },
     {
       "run_at": "2026-05-23T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Runtime (YC W26): Sandboxed Agent Platform Skips 9 Months of Infrastructure Work for Teams",
         "Multi-Stream LLMs: New Architecture Lets Agents Read, Think, and Act in Parallel Instead of Sequentially",
         "GitHub Copilot for Eclipse Goes Open Source Under MIT — Community Can Now Extend the Plugin"
-      ]
-    },
-    {
-      "run_at": "2026-05-22T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6581170",
-        "https://news.yahoo.co.jp/pickup/6581165",
-        "https://news.yahoo.co.jp/pickup/6581162",
-        "https://www.itmedia.co.jp/news/",
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
-        "https://zenn.dev/kitadesign/articles/iphone-local-llm-back-to-afm",
-        "https://zenn.dev/architectai/articles/69abd5915233cb",
-        "https://zenn.dev/memorylakeai/articles/3c01d12dfb8787",
-        "https://www.langchain.com/blog/from-token-streams-to-agent-streams",
-        "https://openai.com/blog",
-        "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html"
-      ],
-      "titles": [
-        "石破首相、ナフサ由来製品の流通目詰まり解消を閣僚会議で指示——中東情勢が国内消費者物価に波及",
-        "ブタの腎臓を用いた異種移植、国内初の臨床試験へ——明大発ベンチャーが2026年度末に治験届を提出予定",
-        "神戸山口組・井上組長の自宅が強制競売——所有権が群馬の会社に移転、警察が明け渡し注視",
-        "WWDC26開幕は6月9日午前2時JST——AppleがiOS 26など次世代OSを発表へ、AI機能の大幅拡充に注目",
-        "エボラ感染疑いで仏発旅客機が目的地変更——乗客を隔離・検査へ、WHOが状況を注視",
-        "iPhoneでローカルLLMに挑戦して全滅——Apple Foundation Modelsに戻った開発者が語る「メモリの壁」",
-        "「3社AIが並列で設計書を審査する」仕組み——Claude + GPT-4 + Geminiが5軸評価でアーキテクチャ品質を担保",
-        "Agent Memoryが本番で失敗する「絶望の谷」——書き込みパス・読み込みパス・ガバナンスの3層アーキテクチャで突破",
-        "LangChain: From Token Streams to Agent Streams — A New Primitive for Observing Long-Running Agents",
-        "How Ramp Engineers Accelerate Code Review with OpenAI Codex — Async Agent Handles 60% of PR Comments",
-        "Python 3.15 Features That Didn't Make the Headlines — Thread-Safe Iterators, TaskGroup.cancel(), and Immutable JSON"
-      ]
-    },
-    {
-      "run_at": "2026-05-22T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6581145",
-        "https://news.yahoo.co.jp/pickup/6581158",
-        "https://news.yahoo.co.jp/pickup/6581156",
-        "https://www.jiji.com/jc/article?k=2026052101120&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2605/21/news107.html",
-        "https://zenn.dev/taka000/articles/ffe2f97499a151",
-        "https://zenn.dev/mofuteq/articles/8a2193df98ac05",
-        "https://zenn.dev/fukukei23/articles/llm-routing-one-month-report",
-        "https://simonwillison.net/2026/May/21/datasette-agent/",
-        "https://www.anthropic.com/news/anthropic-kpmg",
-        "https://github.blog/changelog/2026-05-21-issue-fields-are-now-in-public-preview-for-all-organizations"
-      ],
-      "titles": [
-        "補正予算3兆円規模で調整——電気・ガス補助に5000億円、中東情勢対応を急ぐ",
-        "ウクライナ軍がロシア司令部を攻撃——死傷者100人超と発表、長距離攻撃を継続へ",
-        "兵庫の民家で母娘の遺体発見——他殺と断定、捜査本部を設置",
-        "イラン最高指導者、高濃縮ウランの国内保持を指示——対米核交渉は膠着状態か",
-        "ポケモンカードにマイナカード認証を導入——8月から抽選販売で転売対策強化",
-        "Claude Code・Codex時代に重要になる「ハーネス」という考え方——AIの脳と実行環境を繋ぐ設計哲学",
-        "Vector DBを外したら、RAGではなくAgent Runtimeが残った——推論構造の「外出し」という設計転換",
-        "月間27億トークンを処理したLLMルーティングの実運用レポート——$180で個人開発者がClaud Max越えを達成",
-        "Simon Willison Releases Datasette Agent — A Conversational AI Layer Over Any SQLite Database",
-        "Anthropic Partners with KPMG to Deploy Claude Across 276,000 Employees in 138 Countries",
-        "GitHub Issue Fields Now in Public Preview — Typed Metadata Across All Org Repositories via REST and GraphQL"
-      ]
-    },
-    {
-      "run_at": "2026-05-22T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026052100943&g=pol&m=rss",
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
-        "https://news.yahoo.co.jp/pickup/6581150",
-        "https://www.jiji.com/jc/article?k=2026052100940&g=pol&m=rss",
-        "https://zenn.dev/ubie_dev/articles/modern-web-guidance",
-        "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000014/",
-        "https://zenn.dev/aws_japan/articles/6640624910acc3",
-        "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-        "https://github.blog/changelog/2026-05-19-gemini-3-5-flash-generally-available-for-github-copilot/",
-        "https://simonwillison.net/2026/May/19/5-minute-llms/"
-      ],
-      "titles": [
-        "政府、補正予算3兆円規模で調整——電気・ガス補助に5000億円、赤字国債で財源確保へ",
-        "ウクライナ軍、ロシア司令部を攻撃——死傷者100人超と主張、戦況に新たな局面",
-        "兵庫の民家で母娘の遺体発見——他殺と断定、捜査本部を設置",
-        "トヨタ、「ノア」「ヴォクシー」を台湾から逆輸入——納車待ち解消に向け年10万台規模",
-        "イラン最高指導者、高濃縮ウランの国内保持を指示——対米交渉は難航の見通し",
-        "Google「Modern Web Guidance」公開——AIエージェントが古いCSS・JSを書く問題をスキルで根本解決",
-        "OpenAI、サイバーセキュリティ特化モデル「GPT-5.5-Cyber」を日本政府・企業へ提供開始",
-        "AWS Bedrock AgentCore、マルチテナントSaaS向け実装パターン詳解——セッション管理とIAM設計の落とし穴",
-        "Google Officially Announces Ads Inside AI Mode Search Results — Two New Gemini-Powered Ad Formats",
-        "Gemini 3.5 Flash Now GA for GitHub Copilot — Near-Pro Quality at Flash Speed, 14× Premium Multiplier",
-        "Simon Willison: The Last Six Months in LLMs — Coding Agents Crossed a Quality Threshold, Chinese Open-Weights Surprised"
       ]
     }
   ]

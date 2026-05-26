@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-26T15:00:00+09:00",
+  "last_run_at": "2026-05-26T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-26T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026052600676&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2605/26/news126.html",
+        "https://www.itmedia.co.jp/news/articles/2605/26/news122.html",
+        "https://www.itmedia.co.jp/news/articles/2605/26/news108.html",
+        "https://www.jiji.com/jc/article?k=2026052600090&g=soc&m=rss",
+        "https://zenn.dev/jiro3141/articles/9ad0cd28b076e9",
+        "https://www.publickey1.jp/blog/26/googledartflutter_agent_skillsdartflutterai.html",
+        "https://www.publickey1.jp/blog/26/apigooglelinuxaimarkdownmanaged_agent_api.html",
+        "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+        "https://github.blog/changelog/2026-05-26-code-coverage-in-pull-requests-is-now-in-public-preview",
+        "https://simonwillison.net/2026/May/25/encyclical-on-ai/"
+      ],
+      "titles": [
+        "「国家情報会議」設置法案が参院委で可決——27日に成立、インテリジェンス改革の第一歩",
+        "任天堂、Switch 2の「プレイ時間50時間」条件を撤廃——購入ハードル大幅に引き下げ",
+        "総務省、海底ケーブルを地方分散・多ルート化で守る骨子案——経済安保の要として対策強化",
+        "ランサムウェアが「持続可能なビジネス」に——侵入コスト6万6千円、復旧費用は2億3千万円",
+        "警察庁、子どもの自転車同乗基準を見直しへ——「小学生もOK」に緩和の可能性",
+        "AIに投げても解けなかったGPSアート生成を、最適化問題として再定義して解決した話",
+        "Google、AIエージェント向け「Dart & Flutter Agent Skills」公開——最新ベストプラクティスをトークン効率よく提供",
+        "Google「Managed Agent API」発表——APIコール1本でLinux環境付きAIエージェントを起動、Markdownで指示も可能",
+        "Anthropic Co-Founder Chris Olah Speaks at the Vatican: AI Labs Need External Oversight, Not Just Self-Regulation",
+        "GitHub Code Coverage on Pull Requests Now in Public Preview — Test Completeness Visible During Code Review",
+        "Simon Willison: Pope Leo XIV's AI Encyclical Is Some of the Clearest Ethics Writing He's Seen — Covers Interpretability, Bias, Power Concentration"
+      ]
+    },
     {
       "run_at": "2026-05-26T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Project Glasswing: Anthropic's AI Finds 10,000+ Critical Vulnerabilities in Production Software",
         "Deno 2.8: Node.js Pass Rate Jumps to 76%, npm Installs 3.66× Faster, TypeScript 6 Ships by Default",
         "DeepSeek Makes V4 Pro 75% Price Discount Permanent — Sub-$1/M Output Tokens for SOTA-Level Model"
-      ]
-    },
-    {
-      "run_at": "2026-05-23T00:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/articles/2605/22/news097.html",
-        "https://www.itmedia.co.jp/news/articles/2605/22/news127.html",
-        "https://www.itmedia.co.jp/news/articles/2605/22/news086.html",
-        "https://www.itmedia.co.jp/news/articles/2605/22/news063.html",
-        "https://www.itmedia.co.jp/news/articles/2605/21/news080.html",
-        "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000017/",
-        "https://zenn.dev/finatext/articles/b404032aec58c4",
-        "https://zenn.dev/hoki621/articles/how-to-agy-cli",
-        "https://www.anthropic.com/news/anthropic-acquires-stainless",
-        "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
-        "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/"
-      ],
-      "titles": [
-        "CapCutとGoogle Geminiが連携——動画生成から編集まで、Geminiアプリ内で完結する新ワークフロー",
-        "全国のApple StoreがPayPay決済に対応——コード決済として初の提携",
-        "物言う株主がKADOKAWA夏野CEO解任を要求——在任5年で業績悪化、ELDEN RING利益流出も問題視",
-        "米政府がIBMなど量子技術企業9社に総額20億ドルを投資——量子チップ専業ファウンドリ「Anderon」も設立へ",
-        "民事訴訟が全面IT化——5月21日から開始、書面主義から転換しオンライン手続きが原則に",
-        "CursorがAIコーディングモデル「Composer 2.5」を発表——最先端モデル並みの性能をコスト1/10で実現",
-        "既存サービスにMCPサーバーを組み込む際の設計ポイント——認証・テナント分離・ツール設計の実践ガイド",
-        "GoogleのTUI「Antigravity CLI」を実際に試した——GeminiベースのCLIエージェント、Claude Codeとの操作感を比較",
-        "Anthropic Acquires Stainless — SDK and MCP Server Tooling Company Joins Anthropic to Extend Agent Connectivity",
-        "The Companies Cutting Headcount for AI Will Lose to the Ones Who Did Not",
-        "Was My $48K GPU Server Worth It? — One Engineer s 18-Month Honest Assessment"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-26T00:00:00+09:00",
+  "last_run_at": "2026-05-26T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-26T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6581719",
+        "https://www.jiji.com/jc/article?k=2026052500506&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052600111&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052500970&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2605/26/news019.html",
+        "https://zenn.dev/yun_bow/articles/a339e1d31a4c43",
+        "https://zenn.dev/nstock/articles/ui-change-notifier",
+        "https://zenn.dev/peoplex_blog/articles/f2cfcd8b625202",
+        "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+        "https://www.itmedia.co.jp/news/articles/2605/25/news130.html",
+        "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
+      ],
+      "titles": [
+        "日本の対外純資産、中国に抜かれ世界3位に転落——33年連続首位に幕",
+        "銀座で外国人がスプレー噴射——「GINZA SIX」周辺で25人搬送、男は逃走",
+        "ロシア、キーウへの「報復」通告——ウクライナへの武器供与めぐり米と外相会談",
+        "補正予算、G7サミット前の成立を目指す——政府、物価高対策を優先",
+        "中国がAI脳インプラント開発を加速——「脳内発話」でPC操作も、一般販売が現実味",
+        "なぜAnthropicはプロンプトにXMLタグを推奨するのか——Markdownとの構造的差異を技術的に解説",
+        "AIで加速するプロダクト変化を非エンジニアに届ける——GitHub ActionsとClaude CodeでUI差分通知を自動化",
+        "AI時代の競争優位は「統合」にしかない——コモディティ化するコーディング力と、残される判断能力",
+        "Microsoft Copilot Cowork Silently Exfiltrates Files via Prompt-Injected Skill",
+        "Anthropic's \"Claude Mythos\" Finds 10,000+ Vulnerabilities in Production Code — But Remediation Can't Keep Pace",
+        "Using AI to Write Better Code More Slowly — A Multi-Agent Review Workflow That Prioritizes Quality Over Velocity"
+      ]
+    },
     {
       "run_at": "2026-05-26T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "FTC Fines Cox Media Group $1M for Fraudulent \"Active Listening\" AI Ad Targeting",
         "Google's Antigravity \"Bait and Switch\" — Silent Update Replaced Dev IDE with Chatbot, Breaking Workflows",
         "Indexing a Year of Video Locally on a 2021 MacBook with Gemma 4 31B — From $140/mo SaaS to $22/mo"
-      ]
-    },
-    {
-      "run_at": "2026-05-22T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/topics/domestic",
-        "https://news.yahoo.co.jp/",
-        "https://news.yahoo.co.jp/",
-        "https://www.itmedia.co.jp/news/articles/2605/22/news111.html",
-        "https://news.yahoo.co.jp/",
-        "https://zenn.dev/topics/claudecode",
-        "https://zenn.dev/feed",
-        "https://zenn.dev/feed",
-        "https://www.runtm.com/",
-        "https://arxiv.org/abs/2605.12460",
-        "https://github.blog/changelog/"
-      ],
-      "titles": [
-        "マイナンバーカード義務化、デジタル相が「国民的議論を」——保険証廃止後の新局面",
-        "橋から33メートル下の岩場で母子の遺体——自殺か、警察が経緯を捜査",
-        "トヨタ、ゴールデンウィークの稼働日見直しを検討——生産計画の柔軟化で需給バランス改善へ",
-        "栃木強盗殺人事件——遺族が初のコメント「二度と同じ悲劇を繰り返さないで」",
-        "ハッカー集団「Qilin」が朝日新聞を標的に——ランサムウェアの手口が高度化、メディア業界に衝撃",
-        "OpenTelemetryでClaude Codeのトークン使用量とコストを可視化——Jaegerダッシュボード構築の実践ガイド",
-        "AIが問い合わせの97.9%をカバー——カスタマーサポートBot本番運用6ヶ月レポート",
-        "RustでPDF圧縮を実装——40年来の業界標準Ghostscriptを超えた「PDFスリム化」の全貌",
-        "Runtime (YC W26): Sandboxed Agent Platform Skips 9 Months of Infrastructure Work for Teams",
-        "Multi-Stream LLMs: New Architecture Lets Agents Read, Think, and Act in Parallel Instead of Sequentially",
-        "GitHub Copilot for Eclipse Goes Open Source Under MIT — Community Can Now Extend the Plugin"
       ]
     }
   ]

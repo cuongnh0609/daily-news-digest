@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-26T10:00:00+09:00",
+  "last_run_at": "2026-05-26T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-26T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6581761",
+        "https://www.jiji.com/jc/article?k=2026052600077&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052600183&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6581769",
+        "https://www.itmedia.co.jp/news/articles/2605/26/news059.html",
+        "https://zenn.dev/nori_handa/articles/llm-knowledge-base-karpathy-wiki",
+        "https://zenn.dev/nana/articles/ccf7e548f2cb4e",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2605/24/news007.html",
+        "https://www.anthropic.com/news/anthropic-kpmg",
+        "https://github.blog/changelog/2026-05-20-auto-model-selection-now-routes-based-on-your-task-in-vs-code",
+        "https://simonwillison.net/2026/May/24/datasette-agent/"
+      ],
+      "titles": [
+        "政府、南米メルコスールとのEPA交渉開始を決定——G7サミットで正式表明へ",
+        "「安愚楽牧場」破綻で出資者63億円超の訴訟——東京地裁が国の賠償責任を否定",
+        "住吉会系組員、女性を海外移送目的で誘拐——東南アジアで電話詐欺要員に",
+        "優秀な研究者が自ら中国へ——「日本に帰る選択肢はない」と語る科学者たち",
+        "教皇レオ14世がAIの軍事利用と雇用破壊に回勅で警告——Anthropic創業者も立ち会い",
+        "社内知見をAIが確実に活用できる唯一の設計思想——Karpathy流「LLM Wiki」の実践から見えたこと",
+        "AI時代で返り咲いたtmux——Claude CodeとCodexを並列実行するワークベンチとして再評価",
+        "「Gemini」「Claude Code」「Codex」を全社展開する際に押さえるべき5つのポイント",
+        "Anthropic and KPMG Form Global Alliance: Claude Deployed Across 276,000 Employees Worldwide",
+        "GitHub Copilot Auto Model Selection Now Routes Requests Based on Task Complexity in VS Code",
+        "Datasette-Agent 0.1a4: Natural Language Database Queries Now Accessible from the Jump Menu"
+      ]
+    },
     {
       "run_at": "2026-05-26T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Acquires Stainless — SDK and MCP Server Tooling Company Joins Anthropic to Extend Agent Connectivity",
         "The Companies Cutting Headcount for AI Will Lose to the Ones Who Did Not",
         "Was My $48K GPU Server Worth It? — One Engineer s 18-Month Honest Assessment"
-      ]
-    },
-    {
-      "run_at": "2026-05-22T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6581261",
-        "https://news.yahoo.co.jp/pickup/6581266",
-        "https://news.yahoo.co.jp/pickup/6581259",
-        "https://www.itmedia.co.jp/news/articles/2605/22/news111.html",
-        "https://news.yahoo.co.jp/pickup/6581267",
-        "https://zenn.dev/sprix_it/articles/53c746eb9cf31c",
-        "https://zenn.dev/sonicgarden/articles/e5fd7f54433d3d",
-        "https://www.publickey1.jp/blog/26/apigooglelinuxaimarkdownmanaged_agent_api.html",
-        "https://simonwillison.net/2026/May/22/ftc-active-listening/",
-        "https://www.0xsid.com/blog/antigravity-bait-n-switch",
-        "https://blog.simbastack.com/indexed-a-year-of-video-locally/"
-      ],
-      "titles": [
-        "吉村氏、首相の国会出席を大幅に削減するよう提言——国会改革論議が再燃",
-        "YKKAPで会長ら3人が不正経費請求——社外弁護士で調査委員会を設置",
-        "兵庫・豊岡市で男児が車にはねられ重体——82歳男性を危険運転致傷容疑で逮捕",
-        "Googleが買収した送金アプリ「pring」、12月1日に完全終了へ——残高は9月に没収",
-        "韓国スターバックスで不買運動——光州事件記念に絡むキャンペーンに批判、代表が辞任",
-        "Claude Codeサブエージェント構成は業務形態で変わる——「分離・共有・排除」3原則で設計",
-        "Claude Code Skillで社内プロジェクトを1時間で完了——週次Zoom後の並列サブエージェント自動化",
-        "GoogleがAPIコール1発でLinux環境付きAIエージェントを起動できる「Managed Agent API」を発表",
-        "FTC Fines Cox Media Group $1M for Fraudulent \"Active Listening\" AI Ad Targeting",
-        "Google's Antigravity \"Bait and Switch\" — Silent Update Replaced Dev IDE with Chatbot, Breaking Workflows",
-        "Indexing a Year of Video Locally on a 2021 MacBook with Gemma 4 31B — From $140/mo SaaS to $22/mo"
       ]
     }
   ]

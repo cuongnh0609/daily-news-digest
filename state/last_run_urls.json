@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-26T20:00:00+09:00",
+  "last_run_at": "2026-05-27T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-27T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6581825",
+        "https://news.yahoo.co.jp/pickup/6581828",
+        "https://www.jiji.com/jc/article?k=2026052600970&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6581821",
+        "https://news.yahoo.co.jp/pickup/6581827",
+        "https://zenn.dev/aircloset/articles/91824e55b7fc9c",
+        "https://zenn.dev/haru0416/articles/codex-skill-md-220-lines",
+        "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000017/",
+        "https://www.anthropic.com/news/anthropic-acquires-stainless",
+        "https://www.publickey1.jp/blog/26/dockeraigordondocker.html",
+        "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000014/"
+      ],
+      "titles": [
+        "個人情報保護法改正案が衆院を通過——悪質業者への課徴金制度を新設",
+        "ソウルで高架道路が崩落——解体工事中に3人死亡",
+        "中国、民間AI人材の海外渡航を制限——アリババ・DeepSeekの研究者も対象",
+        "6月から病院でキャンセル料が請求可能に——無断キャンセル対策で医療機関を支援",
+        "大阪・松竹座が103年の歴史に幕——「ここで終わりではない」と人間国宝が語る",
+        "AIが書いたコードはAIにレビューさせる——Air ClosetのCortexシステムが実現した「Human-on-the-Loop」",
+        "CodexがSKILL.mdを220行で打ち切る——エージェント設計のファイル長制約が明らかに",
+        "Cursor「Composer 2.5」——コスト10分の1でフロンティアモデル並みの性能を第三者機関が評価",
+        "Anthropic Acquires Stainless — Claude's SDK and MCP Server Tooling Now In-House",
+        "Docker's AI Agent \"Gordon\" Goes Generally Available — Contextual Error Fixing Built Into Docker Desktop",
+        "OpenAI Provides GPT-5.5-Cyber to Japan: Security-Specialized AI for Government and Critical Infrastructure"
+      ]
+    },
     {
       "run_at": "2026-05-26T20:00:00+09:00",
       "urls": [
@@ -144,93 +173,6 @@
         "Claude Opus 4.7 Generally Available: 3.75 MP Vision, xhigh Effort, Task Budgets, and Ultrareview",
         "npm Staged Publishing & Install-Time Source Controls: Human-Gated Releases for Supply Chain Safety",
         "Constraint Decay: LLM Agents Lose ~30 Points as Backend Structural Requirements Accumulate"
-      ]
-    },
-    {
-      "run_at": "2026-05-23T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6581357",
-        "https://news.yahoo.co.jp/pickup/6581361",
-        "https://news.yahoo.co.jp/pickup/6581351",
-        "https://news.yahoo.co.jp/pickup/6581350",
-        "https://news.yahoo.co.jp/pickup/6581345",
-        "https://zenn.dev/mofuteq/articles/bbfc37bfd0866f",
-        "https://zenn.dev/topics/mcp/feed",
-        "https://zenn.dev/sktt_panda/books/claude-code-handson",
-        "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
-        "https://github.com/superset-sh/superset",
-        "https://annas-archive.gl/blog/llms-txt.html"
-      ],
-      "titles": [
-        "米、イランへの新たな軍事攻撃を検討中——トランプ大統領が閣僚会議で協議",
-        "中国・山西省の炭鉱でガス爆発——死者82人、大規模な救出活動が続く",
-        "ウクライナ侵攻が膠着——ロシアの春季攻勢は不発、前線が安定化",
-        "「ニコパフ」フリマアプリで隠語販売が横行——未成年者への蔓延を懸念",
-        "北海道でも「謎の風邪」が拡大——医師は花粉・黄砂・PM2.5の複合要因と分析",
-        "Agent Runtimeを実装してState Machineと再会した——LLMの「状態溶解」問題を外部化で解決",
-        "自律エージェントの本質は「止まり方」にあった——MCPで実装するユーザー同意トレース設計",
-        "「Claude Code はじめてのハンズオン」Zennで500円公開——インストールから90分でWebアプリ完成",
-        "Microsoft Canceled Most Claude Code Licenses — AI Coding Tools Now Cost More Than Human Employees",
-        "Superset (YC S26): Desktop IDE That Orchestrates 10+ Parallel Claude Code and Codex Agents",
-        "Anna's Archive Publishes llms.txt — World's Largest Open Library Invites LLMs to Access Its Data Programmatically"
-      ]
-    },
-    {
-      "run_at": "2026-05-23T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/",
-        "https://news.yahoo.co.jp/pickup/6581311",
-        "https://news.yahoo.co.jp/pickup/6581302",
-        "https://news.yahoo.co.jp/pickup/6581317",
-        "https://www.jiji.com/",
-        "https://www.langchain.com/blog/introducing-langsmith-engine",
-        "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000012/",
-        "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000015/",
-        "https://www.kanbots.dev/",
-        "https://www.langchain.com/blog/introducing-langsmith-engine",
-        "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/"
-      ],
-      "titles": [
-        "兵庫の民家２棟が国宝に——文化審議会が初の民家指定を答申",
-        "米国家情報長官が辞任——トランプ政権で閣僚4人目の交代",
-        "生成AIで声優・津田健次郎さんの声を模倣——業者を相手取り提訴へ",
-        "袴田巌さんに特別給付金500万円——冤罪被害者補償の新たな一歩",
-        "ホルムズ海峡封鎖なら「命の危機」——WFP事務局長が日本に警告と感謝",
-        "LangSmith Engineがエージェント開発を自動化——本番トレースからバグ・修正PRを自動生成",
-        "富士通AIが人事異動工数を98%削減——数理最適化で100人規模の配置を自動算出",
-        "AI開発効果を「開発資本」で測定——ファインディがKDDI・DMMらと共同検証開始",
-        "KanBots: Open-Source Kanban Board That Dispatches Parallel Claude/Codex Agents per Card",
-        "LangSmith Engine: AI Agent That Monitors Production Traces and Auto-Creates Fix PRs",
-        "CISA Data Leak: Contractor Exposed AWS GovCloud Keys and RSA Private Keys on Public GitHub"
-      ]
-    },
-    {
-      "run_at": "2026-05-23T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026052300043&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052200853&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052200216&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052201194&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052200158&g=pol&m=rss",
-        "https://www.publickey1.jp/blog/26/vs_codeaiagent_window.html",
-        "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000013/",
-        "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000018/",
-        "https://www.anthropic.com/research/glasswing-initial-update",
-        "https://deno.com/blog/v2.8",
-        "https://api-docs.deepseek.com/quick_start/pricing"
-      ],
-      "titles": [
-        "ウォーシュ新FRB議長が就任——米金融政策の新時代へ",
-        "大阪都構想、3度目の住民投票へ——市議会委員会が法定協設置案を可決",
-        "米、対イラン核交渉で「高濃縮ウラン保有は認めず」——交渉に「良い兆候」も緊張続く",
-        "ニューヨーク株が続伸・一時3カ月ぶり高値——米イラン緊張緩和に期待、原油先物も下落",
-        "自民党、国旗損壊罪の法案骨子を了承——アニメ・漫画・AIは対象外と明示",
-        "VS Code、複数AIエージェントの並列開発を可能にする「Agent window」をプレビュー公開",
-        "OpenAIの内部AIモデルが80年来の未解決数学問題を証明——代数的数論の手法で幾何学の壁を突破",
-        "Google Antigravity 2.0、利用上限を緩和——ただしアップデート手順に「落とし穴」あり",
-        "Project Glasswing: Anthropic's AI Finds 10,000+ Critical Vulnerabilities in Production Software",
-        "Deno 2.8: Node.js Pass Rate Jumps to 76%, npm Installs 3.66× Faster, TypeScript 6 Ships by Default",
-        "DeepSeek Makes V4 Pro 75% Price Discount Permanent — Sub-$1/M Output Tokens for SOTA-Level Model"
       ]
     }
   ]

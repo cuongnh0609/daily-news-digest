@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-27T10:00:00+09:00",
+  "last_run_at": "2026-05-27T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-27T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026052700242&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052700100&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2605/27/news088.html",
+        "https://www.itmedia.co.jp/news/articles/2605/27/news080.html",
+        "https://www.itmedia.co.jp/news/articles/2605/27/news079.html",
+        "https://www.itmedia.co.jp/enterprise/articles/2605/27/news028.html",
+        "https://zenn.dev/miyaken0805/articles/ed70d88fa81c34",
+        "https://kn.itmedia.co.jp/kn/articles/2605/27/news081.html",
+        "https://huggingface.co/blog/agent-glossary",
+        "https://github.blog/changelog/2026-05-26-target-copilot-models-to-organizations-with-model-rules",
+        "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/"
+      ],
+      "titles": [
+        "栃木女性殺害事件——指示役の40代男に逮捕状、事件後に中国へ出国",
+        "国家情報会議設置法が成立——7月にも発足、スパイ対策・インテリジェンス改革の第一歩",
+        "ヒト型AIロボットのAtomが30億円調達——「日本のGDPを1%増やす」を目標に製造・物流へ",
+        "AIと地形データで「未知の遺跡」を発見——奈良文化財研究所が航空レーザーとAIを組み合わせた新手法",
+        "GoogleがWorkspaceアプリのアイコンを一新——Gmail・カレンダーなど全サービスで統一デザインへ",
+        "富士通、業務変化に自動適応するAIエージェント技術を発表——自社LLM「Takane」で28ポイント精度向上",
+        "Claude × ObsidianでMCP連携「感情の跡」ジャーナリングシステムを構築——YAMLフロントマターで気分スコアを蓄積",
+        "Notion Developer Platform発表——CLI・Workers・External Agent APIでAIエージェントをNotionに統合",
+        "Hugging Face Publishes Definitive AI Agent Glossary: Harness, Scaffold, Policy, and the Architecture of Agentic Systems",
+        "GitHub Copilot Now Supports Per-Organization Model Rules — Enterprises Can Target Different AI Models to Different Teams",
+        "Where Does Next-Token Prediction Leave Us? The Political Economy of LLM Labor Displacement"
+      ]
+    },
     {
       "run_at": "2026-05-27T10:00:00+09:00",
       "urls": [

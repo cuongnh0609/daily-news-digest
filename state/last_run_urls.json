@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-27T20:00:00+09:00",
+  "last_run_at": "2026-05-28T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-28T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026052700101&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052701024&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052701014&g=spo&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2605/27/news133.html",
+        "https://www.itmedia.co.jp/news/articles/2605/27/news118.html",
+        "https://zenn.dev/daishiro/articles/cc-rsg-reverse-spec",
+        "https://zenn.dev/yurukusa/books/agents-md-interop",
+        "https://zenn.dev/m1no/articles/2026-05-15-kobito-co-day10",
+        "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
+        "https://www.anthropic.com/news/widening-conversation-ai",
+        "https://developers.cloudflare.com/flagship/"
+      ],
+      "titles": [
+        "比大統領夫妻迎え宮中晩さん会　天皇陛下「平和な未来を共に」—悠仁さまが初出席",
+        "経産省局長らがモスクワ訪問　日本企業同席で意見交換、「新たな経済協力の意図なし」",
+        "W杯でオランダと対戦へ　ファンダイク擁する強豪が26人の名簿を発表",
+        "在日米海軍の公式Xが乗っ取り被害　プロフィール画像・IDが改ざん、復旧作業続く",
+        "「この答弁はAIが原案」　松本デジタル相が参院本会議で明言、職員による確認後に決裁",
+        "既存コードから仕様書を自動生成する「cc-rsg」を試した——逆向き spec-driven development の実践",
+        "AGENTS.md と Claude Code の interop 運用の手引き——800時間の自律運用実績から見えた5つの代替経路",
+        "Claude Codeでマルチエージェント企業を10日間動かして分かったこと——CLAUDE.md 200行ルールと最小権限設計",
+        "AWS Launches Kiro Web: Spec-Driven AI Coding Agent Runs Entirely in the Browser, No Installation Required",
+        "Anthropic: Widening the Conversation on Frontier AI — Moral Formation Research Discovers Ethical Reminders Mid-Task Reduce Misaligned Behavior",
+        "Cloudflare Flagship: OpenFeature-Compatible Feature Flag Service with Percentage Rollouts and Workers-Native Binding"
+      ]
+    },
     {
       "run_at": "2026-05-27T20:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "Anthropic Co-Founder Chris Olah Speaks at the Vatican: AI Labs Need External Oversight, Not Just Self-Regulation",
         "GitHub Code Coverage on Pull Requests Now in Public Preview — Test Completeness Visible During Code Review",
         "Simon Willison: Pope Leo XIV's AI Encyclical Is Some of the Clearest Ethics Writing He's Seen — Covers Interpretability, Bias, Power Concentration"
-      ]
-    },
-    {
-      "run_at": "2026-05-26T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6581761",
-        "https://www.jiji.com/jc/article?k=2026052600077&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052600183&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6581769",
-        "https://www.itmedia.co.jp/news/articles/2605/26/news059.html",
-        "https://zenn.dev/nori_handa/articles/llm-knowledge-base-karpathy-wiki",
-        "https://zenn.dev/nana/articles/ccf7e548f2cb4e",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2605/24/news007.html",
-        "https://www.anthropic.com/news/anthropic-kpmg",
-        "https://github.blog/changelog/2026-05-20-auto-model-selection-now-routes-based-on-your-task-in-vs-code",
-        "https://simonwillison.net/2026/May/24/datasette-agent/"
-      ],
-      "titles": [
-        "政府、南米メルコスールとのEPA交渉開始を決定——G7サミットで正式表明へ",
-        "「安愚楽牧場」破綻で出資者63億円超の訴訟——東京地裁が国の賠償責任を否定",
-        "住吉会系組員、女性を海外移送目的で誘拐——東南アジアで電話詐欺要員に",
-        "優秀な研究者が自ら中国へ——「日本に帰る選択肢はない」と語る科学者たち",
-        "教皇レオ14世がAIの軍事利用と雇用破壊に回勅で警告——Anthropic創業者も立ち会い",
-        "社内知見をAIが確実に活用できる唯一の設計思想——Karpathy流「LLM Wiki」の実践から見えたこと",
-        "AI時代で返り咲いたtmux——Claude CodeとCodexを並列実行するワークベンチとして再評価",
-        "「Gemini」「Claude Code」「Codex」を全社展開する際に押さえるべき5つのポイント",
-        "Anthropic and KPMG Form Global Alliance: Claude Deployed Across 276,000 Employees Worldwide",
-        "GitHub Copilot Auto Model Selection Now Routes Requests Based on Task Complexity in VS Code",
-        "Datasette-Agent 0.1a4: Natural Language Database Queries Now Accessible from the Jump Menu"
-      ]
-    },
-    {
-      "run_at": "2026-05-26T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6581719",
-        "https://www.jiji.com/jc/article?k=2026052500506&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052600111&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052500970&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2605/26/news019.html",
-        "https://zenn.dev/yun_bow/articles/a339e1d31a4c43",
-        "https://zenn.dev/nstock/articles/ui-change-notifier",
-        "https://zenn.dev/peoplex_blog/articles/f2cfcd8b625202",
-        "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
-        "https://www.itmedia.co.jp/news/articles/2605/25/news130.html",
-        "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
-      ],
-      "titles": [
-        "日本の対外純資産、中国に抜かれ世界3位に転落——33年連続首位に幕",
-        "銀座で外国人がスプレー噴射——「GINZA SIX」周辺で25人搬送、男は逃走",
-        "ロシア、キーウへの「報復」通告——ウクライナへの武器供与めぐり米と外相会談",
-        "補正予算、G7サミット前の成立を目指す——政府、物価高対策を優先",
-        "中国がAI脳インプラント開発を加速——「脳内発話」でPC操作も、一般販売が現実味",
-        "なぜAnthropicはプロンプトにXMLタグを推奨するのか——Markdownとの構造的差異を技術的に解説",
-        "AIで加速するプロダクト変化を非エンジニアに届ける——GitHub ActionsとClaude CodeでUI差分通知を自動化",
-        "AI時代の競争優位は「統合」にしかない——コモディティ化するコーディング力と、残される判断能力",
-        "Microsoft Copilot Cowork Silently Exfiltrates Files via Prompt-Injected Skill",
-        "Anthropic's \"Claude Mythos\" Finds 10,000+ Vulnerabilities in Production Code — But Remediation Can't Keep Pace",
-        "Using AI to Write Better Code More Slowly — A Multi-Agent Review Workflow That Prioritizes Quality Over Velocity"
-      ]
-    },
-    {
-      "run_at": "2026-05-26T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6581679",
-        "https://news.yahoo.co.jp/pickup/6581691",
-        "https://news.yahoo.co.jp/pickup/6581672",
-        "https://news.yahoo.co.jp/pickup/6581690",
-        "https://www.itmedia.co.jp/news/articles/2605/25/news127.html",
-        "https://www.publickey1.jp/blog/26/xaigrok_build.html",
-        "https://www.publickey1.jp/blog/26/linux_foundationaiagntcon_mcpcon910112.html",
-        "https://www.itmedia.co.jp/aiplus/article/2605/25/2000000021/",
-        "https://simonwillison.net/2026/May/19/5-minute-llms/",
-        "https://www.itmedia.co.jp/enterprise/articles/2605/25/news045.html",
-        "https://esengine.github.io/DeepSeek-Reasonix/"
-      ],
-      "titles": [
-        "飲食料品の消費税、1%案が有力に——政府、早期実施を優先",
-        "米・イラン核交渉、高濃縮ウランの扱いで溝が深まる",
-        "トランプ氏が対中姿勢を軟化——融和路線に転じた背景とは",
-        "巨人・阿部慎之助監督が暴行容疑で逮捕——プロ野球界に衝撃",
-        "NTTドコモ、熊本でAI衛星画像解析による震災被害判定システムを導入",
-        "xAIがコーディングエージェント「Grok Build」ベータ公開——サブエージェント並列実行に対応",
-        "Linux FoundationがAIエージェント・MCP特化カンファレンス「AGNTCon + MCPCon」を東京で開催へ",
-        "日立がAnthropicと戦略提携——物理AI市場「100兆円超」、29万人従業員へのClaude展開を計画",
-        "The Last Six Months in LLMs: From Coding Agent Threshold to Personal AI Assistants",
-        "IBM Think 2026: Enterprise AI Operating Model — How to Govern Thousands of AI Agents",
-        "DeepSeek Reasonix: Open-Source Native Coding Agent Built on DeepSeek's Reasoning Models"
-      ]
-    },
-    {
-      "run_at": "2026-05-25T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026052500634&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052500450&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052500917&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6581662",
-        "https://www.itmedia.co.jp/news/articles/2605/25/news129.html",
-        "https://zenn.dev/knowledge_graph/articles/kg-agent-memory-first-design",
-        "https://zenn.dev/ju571n/articles/ai-agent-config-attack-surface",
-        "https://zenn.dev/sonicgarden/articles/claude-code-self-improving-loop",
-        "https://www.anthropic.com/news/claude-opus-4-7",
-        "https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm",
-        "https://arxiv.org/abs/2605.06445"
-      ],
-      "titles": [
-        "補正予算3兆円強・電気ガス代5000円支援——高市首相が中東情勢対応策を発表",
-        "米中首脳会談で習氏が高市首相を強く非難——トランプ氏は日本の防衛力強化を擁護",
-        "生成AIで声優の声を無断複製——津田健次郎さんがTikTok運営会社を提訴",
-        "江別大学生暴行死事件の初公判——法廷で2時間の暴行音声が再生される",
-        "日本大学、教職員1万人が「Google AI Pro」を活用へ——大学のAI導入が加速",
-        "AIエージェントが毎回データを取りに行く設計の限界——Memory-First アーキテクチャへの転換",
-        "AIコーディングエージェントの本当の攻撃面は設定ファイルだった——Sigil OSS で可視化する防御策",
-        "Claude Codeのスキルが毎日自動改善されていく仕組みを実装——Sonic GardenがRoutinesで13日間に40件のコミット",
-        "Claude Opus 4.7 Generally Available: 3.75 MP Vision, xhigh Effort, Task Budgets, and Ultrareview",
-        "npm Staged Publishing & Install-Time Source Controls: Human-Gated Releases for Supply Chain Safety",
-        "Constraint Decay: LLM Agents Lose ~30 Points as Backend Structural Requirements Accumulate"
       ]
     }
   ]

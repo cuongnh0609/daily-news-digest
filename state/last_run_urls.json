@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-28T00:00:00+09:00",
+  "last_run_at": "2026-05-28T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-28T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026052700718&g=eco&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052700811&g=eco&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052700905&g=eco&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2605/27/news103.html",
+        "https://www.itmedia.co.jp/news/articles/2605/27/news102.html",
+        "https://zenn.dev/dely_jp/articles/cfac9a04904113",
+        "https://zenn.dev/yun_bow/articles/a339e1d31a4c43",
+        "https://www.publickey1.jp/blog/26/xaigrok_build.html",
+        "https://simonwillison.net/2026/May/27/product-market-fit/",
+        "https://posthog.com/blog/training-ai-models",
+        "https://www.publickey1.jp/blog/26/aikubernetesnutanix_next_2026pr.html"
+      ],
+      "titles": [
+        "大手賃上げ率5.46%——2026年春闘、金額ベースでは過去最高を記録",
+        "補正予算案、6月3日に国会提出へ——政府が与野党に伝達",
+        "日銀保有国債の含み損が45兆円——金利上昇で過去最大、3月期決算",
+        "JALグループ、月面輸送事業に参入——ispaceと連携し2028年に貨物サービス開始へ",
+        "NotebookLM、Googleドライブのファイル更新を自動反映——「古いまま」問題を解消へ",
+        "Claude Code vs Codex——iOSリファクタリングで見えた「暗黙の開発者要件」の違い",
+        "なぜAnthropicはプロンプトにXMLタグを推奨するのか——MarkdownとHTML構造の本質的差異",
+        "xAI、コーディングエージェント「Grok Build」をベータ公開——Plan Mode・並列サブエージェントに対応",
+        "Anthropic and OpenAI Have Finally Found Product-Market Fit — And It's Coding Agents",
+        "PostHog Announces Custom AI Model Training on Its Own Analytics Data — Opting Users In by Default",
+        "Nutanix Unveils Agentic AI Platform at Nutanix Next 2026 — Run AI Agents On-Prem, Edge, or Any Cloud"
+      ]
+    },
     {
       "run_at": "2026-05-28T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Acquires Stainless — Claude's SDK and MCP Server Tooling Now In-House",
         "Docker's AI Agent \"Gordon\" Goes Generally Available — Contextual Error Fixing Built Into Docker Desktop",
         "OpenAI Provides GPT-5.5-Cyber to Japan: Security-Specialized AI for Government and Critical Infrastructure"
-      ]
-    },
-    {
-      "run_at": "2026-05-26T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026052600676&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2605/26/news126.html",
-        "https://www.itmedia.co.jp/news/articles/2605/26/news122.html",
-        "https://www.itmedia.co.jp/news/articles/2605/26/news108.html",
-        "https://www.jiji.com/jc/article?k=2026052600090&g=soc&m=rss",
-        "https://zenn.dev/jiro3141/articles/9ad0cd28b076e9",
-        "https://www.publickey1.jp/blog/26/googledartflutter_agent_skillsdartflutterai.html",
-        "https://www.publickey1.jp/blog/26/apigooglelinuxaimarkdownmanaged_agent_api.html",
-        "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
-        "https://github.blog/changelog/2026-05-26-code-coverage-in-pull-requests-is-now-in-public-preview",
-        "https://simonwillison.net/2026/May/25/encyclical-on-ai/"
-      ],
-      "titles": [
-        "「国家情報会議」設置法案が参院委で可決——27日に成立、インテリジェンス改革の第一歩",
-        "任天堂、Switch 2の「プレイ時間50時間」条件を撤廃——購入ハードル大幅に引き下げ",
-        "総務省、海底ケーブルを地方分散・多ルート化で守る骨子案——経済安保の要として対策強化",
-        "ランサムウェアが「持続可能なビジネス」に——侵入コスト6万6千円、復旧費用は2億3千万円",
-        "警察庁、子どもの自転車同乗基準を見直しへ——「小学生もOK」に緩和の可能性",
-        "AIに投げても解けなかったGPSアート生成を、最適化問題として再定義して解決した話",
-        "Google、AIエージェント向け「Dart & Flutter Agent Skills」公開——最新ベストプラクティスをトークン効率よく提供",
-        "Google「Managed Agent API」発表——APIコール1本でLinux環境付きAIエージェントを起動、Markdownで指示も可能",
-        "Anthropic Co-Founder Chris Olah Speaks at the Vatican: AI Labs Need External Oversight, Not Just Self-Regulation",
-        "GitHub Code Coverage on Pull Requests Now in Public Preview — Test Completeness Visible During Code Review",
-        "Simon Willison: Pope Leo XIV's AI Encyclical Is Some of the Clearest Ethics Writing He's Seen — Covers Interpretability, Bias, Power Concentration"
       ]
     }
   ]

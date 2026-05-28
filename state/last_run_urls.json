@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-28T20:00:00+09:00",
+  "last_run_at": "2026-05-29T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-29T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026052801041&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052800746&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052801194&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052801162&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2605/28/news136.html",
+        "https://zenn.dev/truestar/articles/72183e3b2e619c",
+        "https://www.itmedia.co.jp/enterprise/articles/2605/28/news055.html",
+        "https://zenn.dev/khale/articles/web-session-jwt-cookie-history",
+        "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
+        "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
+        "https://lenz.io/research/llm-disagreement"
+      ],
+      "titles": [
+        "トクリュウ指示役ら逮捕　詐欺容疑、総額６５億円か―千葉県警",
+        "EUがTemuに制裁金2億ユーロ——デジタルサービス法違反、過去最高額",
+        "米GDP、１．６％増に下方修正　個人消費下振れ―１～３月期",
+        "米物価、前年比３．８％上昇　中東情勢でインフレ加速―４月",
+        "政府職員10万人が生成AI「源内」を利用可能に——デジタル庁が大規模実証開始",
+        "お前達にも教えよう。SnowflakeのAgent Sharingがすごくすごいことを。",
+        "AIコーディングエージェント市場が「新段階」突入　IDEが必要不可欠でなくなる"3つの理由"",
+        "「JWT を localStorage に置くな」はなぜ言われるのか、Cookie 回帰までの時系列整理",
+        "Cognition raises $1B in $26B Series D — Largest Independent Agent Lab Projects $1B ARR",
+        "New AI Infra Decacorns: Fireworks $15B, Baseten $11B, OpenRouter $113M Series C",
+        "Five Frontier LLMs Disagree on 67% of Real-World Fact-Check Claims — Krippendorff's α Only 0.639"
+      ]
+    },
     {
       "run_at": "2026-05-28T20:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Claude Code as a Daily Driver: CLAUDE.md, Skills, Subagents, Plugins, and MCPs",
         "Anthropic Appoints KiYoung Choi as Representative Director of Korea Ahead of Seoul Office Opening",
         "GitHub Copilot for Eclipse Is Open Source (MIT License)"
-      ]
-    },
-    {
-      "run_at": "2026-05-27T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026052700242&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052700100&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2605/27/news088.html",
-        "https://www.itmedia.co.jp/news/articles/2605/27/news080.html",
-        "https://www.itmedia.co.jp/news/articles/2605/27/news079.html",
-        "https://www.itmedia.co.jp/enterprise/articles/2605/27/news028.html",
-        "https://zenn.dev/miyaken0805/articles/ed70d88fa81c34",
-        "https://kn.itmedia.co.jp/kn/articles/2605/27/news081.html",
-        "https://huggingface.co/blog/agent-glossary",
-        "https://github.blog/changelog/2026-05-26-target-copilot-models-to-organizations-with-model-rules",
-        "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/"
-      ],
-      "titles": [
-        "栃木女性殺害事件——指示役の40代男に逮捕状、事件後に中国へ出国",
-        "国家情報会議設置法が成立——7月にも発足、スパイ対策・インテリジェンス改革の第一歩",
-        "ヒト型AIロボットのAtomが30億円調達——「日本のGDPを1%増やす」を目標に製造・物流へ",
-        "AIと地形データで「未知の遺跡」を発見——奈良文化財研究所が航空レーザーとAIを組み合わせた新手法",
-        "GoogleがWorkspaceアプリのアイコンを一新——Gmail・カレンダーなど全サービスで統一デザインへ",
-        "富士通、業務変化に自動適応するAIエージェント技術を発表——自社LLM「Takane」で28ポイント精度向上",
-        "Claude × ObsidianでMCP連携「感情の跡」ジャーナリングシステムを構築——YAMLフロントマターで気分スコアを蓄積",
-        "Notion Developer Platform発表——CLI・Workers・External Agent APIでAIエージェントをNotionに統合",
-        "Hugging Face Publishes Definitive AI Agent Glossary: Harness, Scaffold, Policy, and the Architecture of Agentic Systems",
-        "GitHub Copilot Now Supports Per-Organization Model Rules — Enterprises Can Target Different AI Models to Different Teams",
-        "Where Does Next-Token Prediction Leave Us? The Political Economy of LLM Labor Displacement"
-      ]
-    },
-    {
-      "run_at": "2026-05-27T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6581853",
-        "https://www.jiji.com/jc/article?k=2026052700111&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052700197&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052600942&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6581849",
-        "https://zenn.dev/shintaroamaike/articles/67c21b040af42f",
-        "https://zenn.dev/0h_n0/articles/581a4e0ece7056",
-        "https://www.itmedia.co.jp/enterprise/articles/2605/27/news028.html",
-        "https://www.anthropic.com/research/glasswing-initial-update",
-        "https://github.blog/changelog/2026-05-26-copilot-memory-has-more-controls-for-deletion-scope-and-the-copilot-cli",
-        "https://simonwillison.net/2026/May/26/the-pressure/"
-      ],
-      "titles": [
-        "日経平均株価、一時6万6000円を超え史上初の高値更新",
-        "英ロンドンで5月最高気温を更新——35度超えの記録的猛暑、冷房需要が急増",
-        "米イーライリリー、ワクチン開発3社を6000億円超で買収——感染症分野に本格参入",
-        "再審見直し法案——野党が証拠使用制限の修正を要求、高市首相は「丁寧な説明」を強調",
-        "SASUKEがロサンゼルス五輪に協力——障害物競走が正式種目としてオリンピック初登場",
-        "Anthropicに学ぶAIエージェントの「設計」と「評価」——シンプルなパターンが本番品質を守る",
-        "AIエージェントのツール定義設計原則——命名・スキーマ・レスポンスの実践ガイド7原則",
-        "富士通、業務変化に自動適応するAIエージェント技術を開発——「高度プロセス自動化」として企業展開へ",
-        "Anthropic's Project Glasswing: 10,000+ Vulnerabilities Found in One Month — Patching Can't Keep Up",
-        "GitHub Copilot Memory Gets Finer Controls — Delete, Scope, and CLI Commands Now Available",
-        "The Pressure: AI-Assisted Security Research Is Flooding curl With 4–5× More Reports Than 2024"
-      ]
-    },
-    {
-      "run_at": "2026-05-27T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6581808",
-        "https://news.yahoo.co.jp/pickup/6581790",
-        "https://news.yahoo.co.jp/pickup/6581810",
-        "https://news.yahoo.co.jp/pickup/6581800",
-        "https://news.yahoo.co.jp/pickup/6581776",
-        "https://www.itmedia.co.jp/news/articles/2605/26/news125.html",
-        "https://www.itmedia.co.jp/news/articles/2605/25/news102.html",
-        "https://www.publickey1.jp/blog/26/mononet_mauixamarinmonocoreclr.html",
-        "https://arxiv.org/abs/2605.26099",
-        "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-        "https://jry.io/writing/use-boring-languages-with-llms/"
-      ],
-      "titles": [
-        "給付付き税額控除のイメージ案判明——「給付に一本化」、子育て世帯には加算も",
-        "日韓防衛協力はACSAが試金石——「歴史」と「台湾」に残る温度差",
-        "29日から真夏モード——東京で30℃超え予想、熱中症対策を呼びかけ",
-        "議員ボーナス据え置き——衆院が給与法改正案を可決、次期総選挙まで凍結",
-        "中道離党の亀井亜紀子氏が立憲民主党に復党——衆院選再挑戦を表明",
-        "PIXTA、AI生成素材の販売を全面終了——「購入者が求めるのは人の手による作品」",
-        "OpenAI、PowerPointにChatGPTを直接統合——スライド作成から編集まで指示するだけのβ版公開",
-        ".NET MAUIがMonoランタイムを脱却——.NET 11でCoreCLRに完全移行、iOS/Android開発が統一",
-        "Language Models Need Sleep: Sleep-Like Consolidation Unlocks Long-Context Reasoning",
-        "Outsourcing + Local AI Will Soon Beat Frontier Labs on Cost — Price Ceiling for OpenAI and Anthropic?",
-        "Use Boring Languages With LLMs: Low Ecosystem Variance = Better Agentic Code Quality"
       ]
     }
   ]

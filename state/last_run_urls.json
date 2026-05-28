@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-28T05:00:00+09:00",
+  "last_run_at": "2026-05-28T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-28T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6581987",
+        "https://news.yahoo.co.jp/pickup/6581985",
+        "https://news.yahoo.co.jp/pickup/6581973",
+        "https://news.yahoo.co.jp/pickup/6581972",
+        "https://news.yahoo.co.jp/pickup/6581971",
+        "https://zenn.dev/shiromizuj/articles/6f3f1705de70ab",
+        "https://zenn.dev/shintaroamaike/articles/ecaaf3b4a8a77d",
+        "https://www.itmedia.co.jp/aiplus/article/2605/28/2000000031/",
+        "https://simonwillison.net/2026/May/27/sqlite-agents/",
+        "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/",
+        "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
+      ],
+      "titles": [
+        "台風6号が北上中——週明けに沖縄接近か、「強い」勢力での上陸を警戒",
+        "ロシア軍の戦死者が50万人に迫る——英国防省が分析、ドローン攻撃が損耗を加速",
+        "酒蔵で転落死が相次ぐ——日本酒ブームの陰で安全管理に課題",
+        "JAL、客室乗務員の滞在先での飲酒を全面禁止——乗務前アルコール検知を受けて",
+        "安倍元首相銃撃事件——控訴審へ向け弁護団を再編、統一教会との関係を重点に",
+        "Mastra Workspaces 発表——AIエージェントに「実際の作業環境」を与える4つの基盤コンポーネント",
+        "RAGのコストを1/15に削る4層アーキテクチャ——「毎回LLMを呼ばない」設計の実装論",
+        "OpenAI Foundation、AI経済変化で打撃を受ける労働者支援に2.5億ドルを拠出へ",
+        "SQLite Publishes AGENTS.md: No Agentic Code, But AI-Found Bugs with Reproducible Tests Are Welcome",
+        "Microsoft Copilot Cowork Had a File Exfiltration Vulnerability — Prompt Injection Chains Email + Image + OneDrive",
+        "YouTube Rolls Out Automatic AI Content Detection — Labels Photorealistic AI Videos Even Without Creator Disclosure"
+      ]
+    },
     {
       "run_at": "2026-05-28T05:00:00+09:00",
       "urls": [

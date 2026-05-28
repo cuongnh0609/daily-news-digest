@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-28T10:00:00+09:00",
+  "last_run_at": "2026-05-28T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-28T15:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/articles/2605/28/news107.html",
+        "https://www.itmedia.co.jp/news/articles/2605/28/news102.html",
+        "https://www.itmedia.co.jp/news/articles/2605/28/news093.html",
+        "https://www.itmedia.co.jp/news/articles/2605/28/news076.html",
+        "https://www.itmedia.co.jp/news/articles/2605/27/news115.html",
+        "https://zenn.dev/playpark/articles/claude-code-vs-codex-comparison",
+        "https://zenn.dev/tesla/articles/f67c29415a02fc",
+        "https://zenn.dev/myntai/books/spec-driven-frontier",
+        "https://www.latent.space/p/daytona",
+        "https://www.latent.space/p/railway",
+        "https://github.com/golang/go/issues/77273"
+      ],
+      "titles": [
+        "Amazon、新幹線で荷物を届けるサービスを本格稼働——JR東・西・北海道と連携し全国網へ",
+        "Steam Deck OLEDが最大44%値上げ——512GBモデルは789ドルに、部品コスト高騰が原因",
+        "LINEの広告ターゲット設定が「気持ち悪い」と物議——子の有無・学歴・年収まで把握",
+        "MetaがInstagram・Facebook・WhatsAppに新サブスク「Plus」導入——最上位は月49.99ドル",
+        "富士通がAnthropicと戦略提携、Claudeを全社展開——最新モデルへの早期アクセス権も取得",
+        "Claude CodeとCodexを2ヶ月使い比べて分かった選び方——settings.jsonを育てた側が速い",
+        "AI時代の実装力は「解空間を収束させる力」へ移った——コードを書く力より評価関数が問われる",
+        "仕様駆動開発最前線——AIエージェント時代にSDLCを一周描き直す「Living Book」が無料公開",
+        "Daytona: Giving AI Agents Real Computers — 60ms Startup, 50K Concurrent Sandboxes, 850K Runs/Day",
+        "Railway: The Agent-Native Cloud — 3M Users, Own Data Centers, $200K/Month on Coding Agents",
+        "Go 1.27 Will Ship Generic Methods — Proposal Accepted After Years of Debate"
+      ]
+    },
     {
       "run_at": "2026-05-28T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Language Models Need Sleep: Sleep-Like Consolidation Unlocks Long-Context Reasoning",
         "Outsourcing + Local AI Will Soon Beat Frontier Labs on Cost — Price Ceiling for OpenAI and Anthropic?",
         "Use Boring Languages With LLMs: Low Ecosystem Variance = Better Agentic Code Quality"
-      ]
-    },
-    {
-      "run_at": "2026-05-27T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6581825",
-        "https://news.yahoo.co.jp/pickup/6581828",
-        "https://www.jiji.com/jc/article?k=2026052600970&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6581821",
-        "https://news.yahoo.co.jp/pickup/6581827",
-        "https://zenn.dev/aircloset/articles/91824e55b7fc9c",
-        "https://zenn.dev/haru0416/articles/codex-skill-md-220-lines",
-        "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000017/",
-        "https://www.anthropic.com/news/anthropic-acquires-stainless",
-        "https://www.publickey1.jp/blog/26/dockeraigordondocker.html",
-        "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000014/"
-      ],
-      "titles": [
-        "個人情報保護法改正案が衆院を通過——悪質業者への課徴金制度を新設",
-        "ソウルで高架道路が崩落——解体工事中に3人死亡",
-        "中国、民間AI人材の海外渡航を制限——アリババ・DeepSeekの研究者も対象",
-        "6月から病院でキャンセル料が請求可能に——無断キャンセル対策で医療機関を支援",
-        "大阪・松竹座が103年の歴史に幕——「ここで終わりではない」と人間国宝が語る",
-        "AIが書いたコードはAIにレビューさせる——Air ClosetのCortexシステムが実現した「Human-on-the-Loop」",
-        "CodexがSKILL.mdを220行で打ち切る——エージェント設計のファイル長制約が明らかに",
-        "Cursor「Composer 2.5」——コスト10分の1でフロンティアモデル並みの性能を第三者機関が評価",
-        "Anthropic Acquires Stainless — Claude's SDK and MCP Server Tooling Now In-House",
-        "Docker's AI Agent \"Gordon\" Goes Generally Available — Contextual Error Fixing Built Into Docker Desktop",
-        "OpenAI Provides GPT-5.5-Cyber to Japan: Security-Specialized AI for Government and Critical Infrastructure"
       ]
     }
   ]

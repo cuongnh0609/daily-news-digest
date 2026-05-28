@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-28T15:00:00+09:00",
+  "last_run_at": "2026-05-28T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-28T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026052800572&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052800905&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052800224&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052800939&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026052800703&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2605/28/news124.html",
+        "https://zenn.dev/nnakapa/articles/lab-19-opus47-gpt55-code-review",
+        "https://zenn.dev/collabostyle/articles/6423fd88ee0054",
+        "https://www.anthropic.com/news/anthropic-acquires-stainless",
+        "https://www.docker.com/blog/meet-gordon-dockers-ai-agent-for-your-entire-container-workflow/",
+        "https://github.blog/changelog/2026-05-26-code-coverage-in-pull-requests-is-now-in-public-preview"
+      ],
+      "titles": [
+        "バレーボール日本代表選手が大麻所持で逮捕——パチンコ店にかばん置き忘れ発覚",
+        "フィリピン大統領が参院で演説——海洋秩序の維持を日比共同で主導すると強調",
+        "米・イランが攻撃を応酬——停戦継続もホルムズ海峡周辺で緊張が続く",
+        "広陵高校野球部で上級生による暴行を認定——第三者委が報告書、前監督の不適切行為も指摘",
+        "高市首相が文春報道を強く否定——「ないものはない」と語気強め中傷動画流布疑惑を一蹴",
+        "みずほFGとNECが「KYA（Know Your Agent）」フレームワークを発表——AIエージェントに「身元証明」を与える金融向け認証基盤",
+        "Opus 4.7 と GPT-5.5 のレビュー特性を720テストケースで統計的に比較——「読者志向」と「制約厳守」で性格が真逆",
+        "Claude Code Hooksで「確認待ちで止まってた」「うるさすぎた」を3スクリプトで解決——macOS音声通知による実用化レポート",
+        "Anthropic Acquires Stainless: Every Claude SDK and MCP Server Tooling Brought In-House",
+        "Docker Gordon Is Generally Available: An AI Agent That Sees Your Entire Container Environment",
+        "GitHub Code Coverage on Pull Requests Enters Public Preview — No More Tab-Switching"
+      ]
+    },
     {
       "run_at": "2026-05-28T15:00:00+09:00",
       "urls": [

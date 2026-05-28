@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-29T00:00:00+09:00",
+  "last_run_at": "2026-05-29T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-29T05:00:00+09:00",
+      "urls": [
+        "https://news.google.com/rss/search?q=台風6号+沖縄",
+        "https://www.nikkei.com/article/toyota-ev-cancel-2026",
+        "https://www.asahi.com/articles/imperial-succession-2026",
+        "https://www.itmedia.co.jp/news/articles/2605/29/spacex-japan.html",
+        "https://www.anthropic.com/news/series-h-65b",
+        "https://www.anthropic.com/news/claude-opus-4-8",
+        "https://www.publickey1.jp/blog/26/agntconmcpconjapan.html",
+        "https://www.itmedia.co.jp/aiplus/articles/2605/28/notion-developer-platform.html",
+        "https://www.anthropic.com/news/claude-opus-4-8",
+        "https://www.latent.space/p/cognition",
+        "https://github.blog/changelog/2026-05-22-staged-publishing-npm/"
+      ],
+      "titles": [
+        "台風6号チャンミー、6月1〜2日に沖縄直撃か——「強い」勢力で暴風警報の見通し",
+        "トヨタ、次世代EVセダン開発を中止——需要鈍化で戦略転換、SUV型に資源集中",
+        "皇族数確保へ2案が焦点——女性皇族の身分保持か養子縁組か、政府は6月に取りまとめへ",
+        "SpaceXが日本の個人投資家向けに株式を開放——楽天証券・SBI証券が取り扱い開始",
+        "AnthropicがシリーズHで約9.6兆円調達——評価額は世界最大級のAIスタートアップへ",
+        "Claude Opus 4.8発表——Dynamic Workflowsで数百の並列サブエージェント、Effort Controlで速度と品質を制御",
+        "Linux FoundationがAIエージェントカンファレンス「AGNTCon + MCPCon Japan」を東京で開催——9月10〜11日、渋谷",
+        "NotionがDeveloper Platformを発表——AIエージェントとワークフローを外部から構築できる新API群",
+        "Claude Opus 4.8: Dynamic Workflows, Effort Control, and Mid-Conversation System Prompt Updates",
+        "The Age of Async Agents: Cognition's Devin Reaches 80% of Commits, Walden Yan Explains Spec-to-PR Architecture",
+        "npm Staged Publishing Goes GA: Human Approval Gate Before Packages Become Installable, Plus New Install Source Controls"
+      ]
+    },
     {
       "run_at": "2026-05-29T00:00:00+09:00",
       "urls": [

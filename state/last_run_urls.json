@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-29T05:00:00+09:00",
+  "last_run_at": "2026-05-29T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-29T10:00:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/na-k10015134531000",
+        "https://news.web.nhk/newsweb/na/na-k10015134541000",
+        "https://news.web.nhk/newsweb/na/na-k10015134381000",
+        "https://news.yahoo.co.jp/pickup/6582122",
+        "https://news.web.nhk/newsweb/na/na-k10015134411000",
+        "https://zenn.dev/nana/articles/3fd7e9dffeb831",
+        "https://zenn.dev/spectee/articles/execute-task-skill",
+        "https://zenn.dev/heftykoo/articles/732661646e8056",
+        "https://www.anthropic.com/research/glasswing-initial-update",
+        "https://github.blog/changelog/2026-05-26-copilot-memory-has-more-controls-for-deletion-scope-and-the-copilot-cli",
+        "https://shvbsle.in/various-llm-smells/"
+      ],
+      "titles": [
+        "日本の総人口、309万人減で過去最大の減少幅——45道府県で人口が減少",
+        "米・イラン核交渉、停戦60日延長の覚書で暫定合意——トランプ大統領はまだ承認せず",
+        "首都直下地震対策——10年で死者半減目標、感震ブレーカー設置を基本計画案に盛り込む",
+        "アルゼンチンがW杯メンバー26名を発表——メッシ6大会連続、史上3か国目の2連覇へ",
+        "台風6号、来週月〜火曜に沖縄・奄美接近——「強い」勢力で暴風・大雨のおそれ",
+        "Claude Code の Agent View 徹底活用——複数バックグラウンドセッションを一元管理する5つの必須操作",
+        "開発フローをClaude Codeスキルに実装——チーム全員が均一な品質で作業できる「execute-task」スキルの設計論",
+        "「AIエージェントに気をつけてと頼む」のは安全設計ではない——実行環境の技術的境界が唯一の有効な安全装置",
+        "Project Glasswing: Anthropic's AI Found 10,000+ Critical Vulnerabilities in One Month",
+        "GitHub Copilot Memory Gets Deletion Controls, Repository Scope, and CLI Commands",
+        "Various LLM Smells: The Recognizable Patterns AI Leaves Behind in Writing and Web Design"
+      ]
+    },
     {
       "run_at": "2026-05-29T05:00:00+09:00",
       "urls": [
@@ -144,93 +173,6 @@
         "SQLite Publishes AGENTS.md: No Agentic Code, But AI-Found Bugs with Reproducible Tests Are Welcome",
         "Microsoft Copilot Cowork Had a File Exfiltration Vulnerability — Prompt Injection Chains Email + Image + OneDrive",
         "YouTube Rolls Out Automatic AI Content Detection — Labels Photorealistic AI Videos Even Without Creator Disclosure"
-      ]
-    },
-    {
-      "run_at": "2026-05-28T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026052700718&g=eco&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052700811&g=eco&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052700905&g=eco&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2605/27/news103.html",
-        "https://www.itmedia.co.jp/news/articles/2605/27/news102.html",
-        "https://zenn.dev/dely_jp/articles/cfac9a04904113",
-        "https://zenn.dev/yun_bow/articles/a339e1d31a4c43",
-        "https://www.publickey1.jp/blog/26/xaigrok_build.html",
-        "https://simonwillison.net/2026/May/27/product-market-fit/",
-        "https://posthog.com/blog/training-ai-models",
-        "https://www.publickey1.jp/blog/26/aikubernetesnutanix_next_2026pr.html"
-      ],
-      "titles": [
-        "大手賃上げ率5.46%——2026年春闘、金額ベースでは過去最高を記録",
-        "補正予算案、6月3日に国会提出へ——政府が与野党に伝達",
-        "日銀保有国債の含み損が45兆円——金利上昇で過去最大、3月期決算",
-        "JALグループ、月面輸送事業に参入——ispaceと連携し2028年に貨物サービス開始へ",
-        "NotebookLM、Googleドライブのファイル更新を自動反映——「古いまま」問題を解消へ",
-        "Claude Code vs Codex——iOSリファクタリングで見えた「暗黙の開発者要件」の違い",
-        "なぜAnthropicはプロンプトにXMLタグを推奨するのか——MarkdownとHTML構造の本質的差異",
-        "xAI、コーディングエージェント「Grok Build」をベータ公開——Plan Mode・並列サブエージェントに対応",
-        "Anthropic and OpenAI Have Finally Found Product-Market Fit — And It's Coding Agents",
-        "PostHog Announces Custom AI Model Training on Its Own Analytics Data — Opting Users In by Default",
-        "Nutanix Unveils Agentic AI Platform at Nutanix Next 2026 — Run AI Agents On-Prem, Edge, or Any Cloud"
-      ]
-    },
-    {
-      "run_at": "2026-05-28T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026052700101&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052701024&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052701014&g=spo&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2605/27/news133.html",
-        "https://www.itmedia.co.jp/news/articles/2605/27/news118.html",
-        "https://zenn.dev/daishiro/articles/cc-rsg-reverse-spec",
-        "https://zenn.dev/yurukusa/books/agents-md-interop",
-        "https://zenn.dev/m1no/articles/2026-05-15-kobito-co-day10",
-        "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
-        "https://www.anthropic.com/news/widening-conversation-ai",
-        "https://developers.cloudflare.com/flagship/"
-      ],
-      "titles": [
-        "比大統領夫妻迎え宮中晩さん会　天皇陛下「平和な未来を共に」—悠仁さまが初出席",
-        "経産省局長らがモスクワ訪問　日本企業同席で意見交換、「新たな経済協力の意図なし」",
-        "W杯でオランダと対戦へ　ファンダイク擁する強豪が26人の名簿を発表",
-        "在日米海軍の公式Xが乗っ取り被害　プロフィール画像・IDが改ざん、復旧作業続く",
-        "「この答弁はAIが原案」　松本デジタル相が参院本会議で明言、職員による確認後に決裁",
-        "既存コードから仕様書を自動生成する「cc-rsg」を試した——逆向き spec-driven development の実践",
-        "AGENTS.md と Claude Code の interop 運用の手引き——800時間の自律運用実績から見えた5つの代替経路",
-        "Claude Codeでマルチエージェント企業を10日間動かして分かったこと——CLAUDE.md 200行ルールと最小権限設計",
-        "AWS Launches Kiro Web: Spec-Driven AI Coding Agent Runs Entirely in the Browser, No Installation Required",
-        "Anthropic: Widening the Conversation on Frontier AI — Moral Formation Research Discovers Ethical Reminders Mid-Task Reduce Misaligned Behavior",
-        "Cloudflare Flagship: OpenFeature-Compatible Feature Flag Service with Percentage Rollouts and Workers-Native Binding"
-      ]
-    },
-    {
-      "run_at": "2026-05-27T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026052700886&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052700858&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052700720&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052700841&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052700853&g=soc&m=rss",
-        "https://zenn.dev/cnative_tkb/articles/4753b332bc536c",
-        "https://zenn.dev/t_vana4/articles/2b9917539159f8",
-        "https://www.itmedia.co.jp/business/articles/2605/27/news119.html",
-        "https://arps18.github.io/posts/claude-code-mastery/",
-        "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
-        "https://github.blog/changelog/2026-05-21-github-copilot-for-eclipse-is-open-source"
-      ],
-      "titles": [
-        "核ごみ処分「国が前面」高市首相、原発立地自治体に",
-        "「AI作成」表示義務化——選挙運動動画、与野党が法案骨子",
-        "子育て世帯に上乗せ検討——中低所得者対象、手取り増へ——給付一本化案を提示——国民会議",
-        "ムサシトミヨは新種——絶滅危惧の「埼玉県の魚」——鹿児島大など",
-        "児童保護施設元職員を逮捕——高1女子にみだらな行為疑い——警視庁",
-        "Claude Code Hooksで16個の安全装置を組んだ話",
-        "Claude CodeとCodexの半自動開発ワークフロー設計詳細",
-        "NEC、日立、富士通が「Anthropic協業」でそろい踏み——3社の幹部コメントまとめ",
-        "Claude Code as a Daily Driver: CLAUDE.md, Skills, Subagents, Plugins, and MCPs",
-        "Anthropic Appoints KiYoung Choi as Representative Director of Korea Ahead of Seoul Office Opening",
-        "GitHub Copilot for Eclipse Is Open Source (MIT License)"
       ]
     }
   ]

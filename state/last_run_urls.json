@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-29T10:00:00+09:00",
+  "last_run_at": "2026-05-29T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-29T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582167",
+        "https://news.yahoo.co.jp/pickup/6582154",
+        "https://news.yahoo.co.jp/pickup/6582116",
+        "https://www.jiji.com/jc/article?g=pol&cfius",
+        "https://www.jiji.com/jc/article?g=pol&koizumi-singapore",
+        "https://zenn.dev/feed/claude-code-slack-e2e-test",
+        "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications/",
+        "https://www.itmedia.co.jp/aiplus/microsoft-foundry-local-2026",
+        "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications/",
+        "https://minimaxir.com/2026/05/openrouter-hy3/",
+        "https://vercel.com/blog/ai-gateway-production-index"
+      ],
+      "titles": [
+        "改正入管法成立——在留申請手数料が最大30倍に引き上げ、ビザ審査の適正化へ",
+        "医療保険改革法が成立——OTC類似薬に追加負担、出産費用は保険適用へ",
+        "関東から西で30℃超の真夏日——熱中症搬送が急増、気象庁が警戒呼びかけ",
+        "外為法改正でCFIUS類似の審査枠組みを創設——技術流出・安全保障上の重要企業への外資規制を強化",
+        "小泉防衛相がシンガポール入り——アジア安全保障会議でインド太平洋の多国間協力を訴える",
+        "Claude CodeでSlack BotのE2Eテストを全自動化——ブラウザ操作からAssert生成まで「1プロンプト」で完結する設計論",
+        "AWSがOpenSearch Serverless次世代版を発表——AIエージェントアプリ向けにコスト60%削減、スケーリング速度20倍を実現",
+        "Microsoft Foundry Localを発表——クラウド不要でローカルマシン上でAI推論を実行、企業向け完全オフライン展開を可能に",
+        "Amazon OpenSearch Serverless Next-Gen: 60% Cost Cut, 20x Faster Scaling, Native AI Agent Integration",
+        "The Mysterious Hy3 LLM Tops OpenRouter Rankings — A Deep Dive into LLM Pricing Illusions and Cache Economics",
+        "Vercel AI Gateway Production Index: Anthropic Leads Spend, Agents Consume 59% of Tokens, Multi-Model Is the Norm"
+      ]
+    },
     {
       "run_at": "2026-05-29T10:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-29T15:00:00+09:00",
+  "last_run_at": "2026-05-29T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-29T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582215",
+        "https://news.yahoo.co.jp/pickup/6582211",
+        "https://www.itmedia.co.jp/news/articles/2605/29/news100.html",
+        "https://news.yahoo.co.jp/pickup/6582213",
+        "https://www.itmedia.co.jp/news/articles/2605/29/news120.html",
+        "https://zenn.dev/spacemarket/articles/6c4992227d0b0d",
+        "https://zenn.dev/canly/articles/c7da70a520d1b8",
+        "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
+        "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+        "https://simonwillison.net/2026/May/29/anthropic-revenue/",
+        "https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot"
+      ],
+      "titles": [
+        "為替介入、月間11兆7349億円で過去最大——円安抑制へ財務省が積極姿勢",
+        "国会議員ボーナス据え置き——改正歳費法が可決、年間638万円を維持",
+        "ブルーオリジン「ニューグレン」打ち上げ失敗——エンジン損傷で爆発、原因調査中",
+        "東京ディズニーリゾート「プライオリティパス」8月末終了——40周年記念サービスに幕",
+        "MIXI創業者・笠原健治氏、社員1700人に株式18億円相当を無償譲渡",
+        "スペック文書を「読みたくなるHTML」に変換するClaude Codeスキルを公開——Spec-Driven開発の新実践",
+        "「1行のテストケースを渡すとClaude Codeが1時間自走する」——E2E駆動の自律開発フローを実装",
+        "AWS、ブラウザだけで使えるSpec駆動コーディングAIエージェント「Kiro Web」をプレビュー公開",
+        "Claude Code: Everything You Can Configure That the Docs Don't Tell You",
+        "Anthropic's Annualized Revenue Hits $47 Billion — Up from $30B in April and $9B at End of 2025",
+        "Claude Opus 4.8 Now Available in GitHub Copilot — Plus New Model Rules for Organization-Level Control"
+      ]
+    },
     {
       "run_at": "2026-05-29T15:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Daytona: Giving AI Agents Real Computers — 60ms Startup, 50K Concurrent Sandboxes, 850K Runs/Day",
         "Railway: The Agent-Native Cloud — 3M Users, Own Data Centers, $200K/Month on Coding Agents",
         "Go 1.27 Will Ship Generic Methods — Proposal Accepted After Years of Debate"
-      ]
-    },
-    {
-      "run_at": "2026-05-28T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6581987",
-        "https://news.yahoo.co.jp/pickup/6581985",
-        "https://news.yahoo.co.jp/pickup/6581973",
-        "https://news.yahoo.co.jp/pickup/6581972",
-        "https://news.yahoo.co.jp/pickup/6581971",
-        "https://zenn.dev/shiromizuj/articles/6f3f1705de70ab",
-        "https://zenn.dev/shintaroamaike/articles/ecaaf3b4a8a77d",
-        "https://www.itmedia.co.jp/aiplus/article/2605/28/2000000031/",
-        "https://simonwillison.net/2026/May/27/sqlite-agents/",
-        "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/",
-        "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
-      ],
-      "titles": [
-        "台風6号が北上中——週明けに沖縄接近か、「強い」勢力での上陸を警戒",
-        "ロシア軍の戦死者が50万人に迫る——英国防省が分析、ドローン攻撃が損耗を加速",
-        "酒蔵で転落死が相次ぐ——日本酒ブームの陰で安全管理に課題",
-        "JAL、客室乗務員の滞在先での飲酒を全面禁止——乗務前アルコール検知を受けて",
-        "安倍元首相銃撃事件——控訴審へ向け弁護団を再編、統一教会との関係を重点に",
-        "Mastra Workspaces 発表——AIエージェントに「実際の作業環境」を与える4つの基盤コンポーネント",
-        "RAGのコストを1/15に削る4層アーキテクチャ——「毎回LLMを呼ばない」設計の実装論",
-        "OpenAI Foundation、AI経済変化で打撃を受ける労働者支援に2.5億ドルを拠出へ",
-        "SQLite Publishes AGENTS.md: No Agentic Code, But AI-Found Bugs with Reproducible Tests Are Welcome",
-        "Microsoft Copilot Cowork Had a File Exfiltration Vulnerability — Prompt Injection Chains Email + Image + OneDrive",
-        "YouTube Rolls Out Automatic AI Content Detection — Labels Photorealistic AI Videos Even Without Creator Disclosure"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-30T15:00:00+09:00",
+  "last_run_at": "2026-05-30T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-30T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582325",
+        "https://news.yahoo.co.jp/pickup/6582310",
+        "https://news.yahoo.co.jp/pickup/6582329",
+        "https://www.jiji.com/jc/article?k=2026053000377&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026053000231&g=int&m=rss",
+        "https://zenn.dev/tkithrta/articles/0378bc53599fb3",
+        "https://zenn.dev/genda_jp/articles/b7fe56ce2fc60f",
+        "https://www.itmedia.co.jp/news/articles/2605/29/news101.html",
+        "https://www.itmedia.co.jp/news/articles/2605/30/news031.html",
+        "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+        "https://github.com/jmaczan/tiny-vllm"
+      ],
+      "titles": [
+        "台風6号、6月2〜4日は西日本から北日本も暴風圏——記録的大雨の恐れ",
+        "iPS細胞論文数、日本は世界3位も米中との差が拡大——質の面でも15か国中最下位",
+        "中学校が振り込め詐欺被害——給食費口座から1000万円超が不正送金",
+        "高市首相、北朝鮮との首脳会談に積極姿勢——拉致問題解決へ「勇気ある一歩を」",
+        "米連邦裁、ケネディ・センターの「トランプ」改名に差し止め——「改名権は議会にある」",
+        "楽しかったコーディングエージェントサブスク時代の終わり——GitHub AI Creditsで始まるFinOps時代",
+        "Codexを長時間稼働させるまで——AGENTS.md・チェックリスト・コマンドポリシーで自律開発を安全に設計する",
+        "アニメ産業が「三日月型」の歪み——市場は4000億円超でも制作会社の悲鳴が止まらない理由",
+        "OpenAI Launches Rosalind Biodefense — GPT-Rosalind API Opens to Vetted Researchers and Allied Governments",
+        "SQLite Is All You Need for Durable Agent Workflows — Obelisk Makes the Case for Local-First State",
+        "Tiny-vLLM: A C++/CUDA LLM Inference Engine From Scratch — Demystifying PagedAttention, KV Cache, and FlashAttention"
+      ]
+    },
     {
       "run_at": "2026-05-30T15:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "Project Glasswing: Anthropic's AI Found 10,000+ Critical Vulnerabilities in One Month",
         "GitHub Copilot Memory Gets Deletion Controls, Repository Scope, and CLI Commands",
         "Various LLM Smells: The Recognizable Patterns AI Leaves Behind in Writing and Web Design"
-      ]
-    },
-    {
-      "run_at": "2026-05-29T05:00:00+09:00",
-      "urls": [
-        "https://news.google.com/rss/search?q=台風6号+沖縄",
-        "https://www.nikkei.com/article/toyota-ev-cancel-2026",
-        "https://www.asahi.com/articles/imperial-succession-2026",
-        "https://www.itmedia.co.jp/news/articles/2605/29/spacex-japan.html",
-        "https://www.anthropic.com/news/series-h-65b",
-        "https://www.anthropic.com/news/claude-opus-4-8",
-        "https://www.publickey1.jp/blog/26/agntconmcpconjapan.html",
-        "https://www.itmedia.co.jp/aiplus/articles/2605/28/notion-developer-platform.html",
-        "https://www.anthropic.com/news/claude-opus-4-8",
-        "https://www.latent.space/p/cognition",
-        "https://github.blog/changelog/2026-05-22-staged-publishing-npm/"
-      ],
-      "titles": [
-        "台風6号チャンミー、6月1〜2日に沖縄直撃か——「強い」勢力で暴風警報の見通し",
-        "トヨタ、次世代EVセダン開発を中止——需要鈍化で戦略転換、SUV型に資源集中",
-        "皇族数確保へ2案が焦点——女性皇族の身分保持か養子縁組か、政府は6月に取りまとめへ",
-        "SpaceXが日本の個人投資家向けに株式を開放——楽天証券・SBI証券が取り扱い開始",
-        "AnthropicがシリーズHで約9.6兆円調達——評価額は世界最大級のAIスタートアップへ",
-        "Claude Opus 4.8発表——Dynamic Workflowsで数百の並列サブエージェント、Effort Controlで速度と品質を制御",
-        "Linux FoundationがAIエージェントカンファレンス「AGNTCon + MCPCon Japan」を東京で開催——9月10〜11日、渋谷",
-        "NotionがDeveloper Platformを発表——AIエージェントとワークフローを外部から構築できる新API群",
-        "Claude Opus 4.8: Dynamic Workflows, Effort Control, and Mid-Conversation System Prompt Updates",
-        "The Age of Async Agents: Cognition's Devin Reaches 80% of Commits, Walden Yan Explains Spec-to-PR Architecture",
-        "npm Staged Publishing Goes GA: Human Approval Gate Before Packages Become Installable, Plus New Install Source Controls"
-      ]
-    },
-    {
-      "run_at": "2026-05-29T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026052801041&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052800746&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052801194&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052801162&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2605/28/news136.html",
-        "https://zenn.dev/truestar/articles/72183e3b2e619c",
-        "https://www.itmedia.co.jp/enterprise/articles/2605/28/news055.html",
-        "https://zenn.dev/khale/articles/web-session-jwt-cookie-history",
-        "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
-        "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
-        "https://lenz.io/research/llm-disagreement"
-      ],
-      "titles": [
-        "トクリュウ指示役ら逮捕　詐欺容疑、総額６５億円か―千葉県警",
-        "EUがTemuに制裁金2億ユーロ——デジタルサービス法違反、過去最高額",
-        "米GDP、１．６％増に下方修正　個人消費下振れ―１～３月期",
-        "米物価、前年比３．８％上昇　中東情勢でインフレ加速―４月",
-        "政府職員10万人が生成AI「源内」を利用可能に——デジタル庁が大規模実証開始",
-        "お前達にも教えよう。SnowflakeのAgent Sharingがすごくすごいことを。",
-        "AIコーディングエージェント市場が「新段階」突入　IDEが必要不可欠でなくなる"3つの理由"",
-        "「JWT を localStorage に置くな」はなぜ言われるのか、Cookie 回帰までの時系列整理",
-        "Cognition raises $1B in $26B Series D — Largest Independent Agent Lab Projects $1B ARR",
-        "New AI Infra Decacorns: Fireworks $15B, Baseten $11B, OpenRouter $113M Series C",
-        "Five Frontier LLMs Disagree on 67% of Real-World Fact-Check Claims — Krippendorff's α Only 0.639"
-      ]
-    },
-    {
-      "run_at": "2026-05-28T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026052800572&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052800905&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052800224&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052800939&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052800703&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2605/28/news124.html",
-        "https://zenn.dev/nnakapa/articles/lab-19-opus47-gpt55-code-review",
-        "https://zenn.dev/collabostyle/articles/6423fd88ee0054",
-        "https://www.anthropic.com/news/anthropic-acquires-stainless",
-        "https://www.docker.com/blog/meet-gordon-dockers-ai-agent-for-your-entire-container-workflow/",
-        "https://github.blog/changelog/2026-05-26-code-coverage-in-pull-requests-is-now-in-public-preview"
-      ],
-      "titles": [
-        "バレーボール日本代表選手が大麻所持で逮捕——パチンコ店にかばん置き忘れ発覚",
-        "フィリピン大統領が参院で演説——海洋秩序の維持を日比共同で主導すると強調",
-        "米・イランが攻撃を応酬——停戦継続もホルムズ海峡周辺で緊張が続く",
-        "広陵高校野球部で上級生による暴行を認定——第三者委が報告書、前監督の不適切行為も指摘",
-        "高市首相が文春報道を強く否定——「ないものはない」と語気強め中傷動画流布疑惑を一蹴",
-        "みずほFGとNECが「KYA（Know Your Agent）」フレームワークを発表——AIエージェントに「身元証明」を与える金融向け認証基盤",
-        "Opus 4.7 と GPT-5.5 のレビュー特性を720テストケースで統計的に比較——「読者志向」と「制約厳守」で性格が真逆",
-        "Claude Code Hooksで「確認待ちで止まってた」「うるさすぎた」を3スクリプトで解決——macOS音声通知による実用化レポート",
-        "Anthropic Acquires Stainless: Every Claude SDK and MCP Server Tooling Brought In-House",
-        "Docker Gordon Is Generally Available: An AI Agent That Sees Your Entire Container Environment",
-        "GitHub Code Coverage on Pull Requests Enters Public Preview — No More Tab-Switching"
       ]
     }
   ]

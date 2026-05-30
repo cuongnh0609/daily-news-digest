@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-30T10:00:00+09:00",
+  "last_run_at": "2026-05-30T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-30T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582298",
+        "https://news.yahoo.co.jp/pickup/6582294",
+        "https://news.yahoo.co.jp/pickup/6582286",
+        "https://www.jiji.com/jc/article?k=2026053000139&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2605/30/news029.html",
+        "https://zenn.dev/canly/articles/45da96250c7028",
+        "https://zenn.dev/kaz20/articles/c77f8a41cf2bf5",
+        "https://zenn.dev/okamyuji/articles/golang-litellm-alternative-single-binary",
+        "https://www.quandri.io/engineering-blog/mcp-is-dead",
+        "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+        "https://www.liquid.ai/blog/lfm2-5-8b-a1b"
+      ],
+      "titles": [
+        "台風6号、6月1〜2日に沖縄直撃か——暴風・大雨・高潮の三重脅威、西日本にも接近",
+        "女性天皇「賛成」が72%——毎日新聞世論調査で過去最高水準、皇位継承議論が加速",
+        "日本人の中国旅行が9割減——日中関係悪化で旅行業界が「三重苦」、相互交流に打撃",
+        "日豪NZが初の防衛相会談——アジア安保会議でサプライチェーン協力・装備品共同整備を合意",
+        "NHK技研、光で硬さを変える新素材を公開——VR触感再現・医療分野への応用に期待",
+        "Claude Code Dynamic Workflowsを触ってみた——数百の並列サブエージェントが大規模タスクをこなす新アーキテクチャ",
+        "MLエンジニアが「なぜQだけキャッシュしないのか」を数式で解明——LLM推論KVキャッシュの本質",
+        "LiteLLMをGoの単一バイナリに置き換えたら一気に軽くなった——依存ゼロ・即起動・OpenAI互換のAIエージェント基盤を自作",
+        "MCP Is Dead — Quandri Engineering Argues Context Bloat and Reliability Kill MCP for Most Dev Workflows",
+        "SQLite Is All You Need for Durable Workflows — Obelisk Makes the Case for Local-First Agent State",
+        "Liquid AI Releases LFM2.5-8B-A1B — 128K Context, 38T Tokens Trained, 253 tok/s on Apple M5 Max"
+      ]
+    },
     {
       "run_at": "2026-05-30T10:00:00+09:00",
       "urls": [

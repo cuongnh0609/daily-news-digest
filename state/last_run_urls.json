@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-31T00:00:00+09:00",
+  "last_run_at": "2026-05-31T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-31T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582330",
+        "https://news.yahoo.co.jp/pickup/6582353",
+        "https://news.yahoo.co.jp/pickup/6582336",
+        "https://www.itmedia.co.jp/news/articles/2605/30/news022.html",
+        "https://www.itmedia.co.jp/news/articles/2605/29/news123.html",
+        "https://zenn.dev/rehabforjapan/articles/requirements-engineering",
+        "https://zenn.dev/noppe/articles/2113952a4bf0cc",
+        "https://zenn.dev/levtech/articles/claude-read-together",
+        "https://www.anthropic.com/news/claude-opus-4-8",
+        "https://openrouter.ai/announcements/series-b",
+        "https://www.publickey1.jp/blog/26/dockeraigordondocker.html"
+      ],
+      "titles": [
+        "93歳ドライバーの車が自転車をはね、男性が死亡——高齢者の運転問題が再び注目を集める",
+        "中村橋之助と能條愛未、約1000人が出席する盛大な披露宴を東京で挙行",
+        "Mr.Children、桜井和寿の体調不良で大阪公演を途中中止——翌日公演も取りやめ",
+        "NHK技研が湾曲型イメージセンサーを開発——広角撮影での周辺ぼけを大幅に改善",
+        "Microsoftが事前共有なしのゼロデイ公表を批判——「Chaotic Eclipse」グループとの対立が表面化",
+        "思想と仕様を分けて要件定義する——Spec-Driven開発における「幹」と「枝」の設計論",
+        "AIを使った効率的な体験改善のための開発フロー——Runtime SDKとCodexサーバーで「人間のQA」を中心に据える",
+        "Claudeと一緒に記事を読むようにしたら日々のインプットが劇的に改善——7段階の協働読書スキル",
+        "Claude Opus 4.8 Launches with Dynamic Workflows — Hundreds of Parallel Subagents for Codebase-Scale Tasks",
+        "OpenRouter Raises $113M Series B Led by CapitalG — From 5T to 25T Tokens/Week in Six Months",
+        "Docker Gordon AI Agent Goes GA — Context-Aware Docker Assistant Available Free on Docker Personal"
+      ]
+    },
     {
       "run_at": "2026-05-31T00:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Claude Code: Everything You Can Configure That the Docs Don't Tell You",
         "Anthropic's Annualized Revenue Hits $47 Billion — Up from $30B in April and $9B at End of 2025",
         "Claude Opus 4.8 Now Available in GitHub Copilot — Plus New Model Rules for Organization-Level Control"
-      ]
-    },
-    {
-      "run_at": "2026-05-29T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582167",
-        "https://news.yahoo.co.jp/pickup/6582154",
-        "https://news.yahoo.co.jp/pickup/6582116",
-        "https://www.jiji.com/jc/article?g=pol&cfius",
-        "https://www.jiji.com/jc/article?g=pol&koizumi-singapore",
-        "https://zenn.dev/feed/claude-code-slack-e2e-test",
-        "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications/",
-        "https://www.itmedia.co.jp/aiplus/microsoft-foundry-local-2026",
-        "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications/",
-        "https://minimaxir.com/2026/05/openrouter-hy3/",
-        "https://vercel.com/blog/ai-gateway-production-index"
-      ],
-      "titles": [
-        "改正入管法成立——在留申請手数料が最大30倍に引き上げ、ビザ審査の適正化へ",
-        "医療保険改革法が成立——OTC類似薬に追加負担、出産費用は保険適用へ",
-        "関東から西で30℃超の真夏日——熱中症搬送が急増、気象庁が警戒呼びかけ",
-        "外為法改正でCFIUS類似の審査枠組みを創設——技術流出・安全保障上の重要企業への外資規制を強化",
-        "小泉防衛相がシンガポール入り——アジア安全保障会議でインド太平洋の多国間協力を訴える",
-        "Claude CodeでSlack BotのE2Eテストを全自動化——ブラウザ操作からAssert生成まで「1プロンプト」で完結する設計論",
-        "AWSがOpenSearch Serverless次世代版を発表——AIエージェントアプリ向けにコスト60%削減、スケーリング速度20倍を実現",
-        "Microsoft Foundry Localを発表——クラウド不要でローカルマシン上でAI推論を実行、企業向け完全オフライン展開を可能に",
-        "Amazon OpenSearch Serverless Next-Gen: 60% Cost Cut, 20x Faster Scaling, Native AI Agent Integration",
-        "The Mysterious Hy3 LLM Tops OpenRouter Rankings — A Deep Dive into LLM Pricing Illusions and Cache Economics",
-        "Vercel AI Gateway Production Index: Anthropic Leads Spend, Agents Consume 59% of Tokens, Multi-Model Is the Norm"
-      ]
-    },
-    {
-      "run_at": "2026-05-29T10:00:00+09:00",
-      "urls": [
-        "https://news.web.nhk/newsweb/na/na-k10015134531000",
-        "https://news.web.nhk/newsweb/na/na-k10015134541000",
-        "https://news.web.nhk/newsweb/na/na-k10015134381000",
-        "https://news.yahoo.co.jp/pickup/6582122",
-        "https://news.web.nhk/newsweb/na/na-k10015134411000",
-        "https://zenn.dev/nana/articles/3fd7e9dffeb831",
-        "https://zenn.dev/spectee/articles/execute-task-skill",
-        "https://zenn.dev/heftykoo/articles/732661646e8056",
-        "https://www.anthropic.com/research/glasswing-initial-update",
-        "https://github.blog/changelog/2026-05-26-copilot-memory-has-more-controls-for-deletion-scope-and-the-copilot-cli",
-        "https://shvbsle.in/various-llm-smells/"
-      ],
-      "titles": [
-        "日本の総人口、309万人減で過去最大の減少幅——45道府県で人口が減少",
-        "米・イラン核交渉、停戦60日延長の覚書で暫定合意——トランプ大統領はまだ承認せず",
-        "首都直下地震対策——10年で死者半減目標、感震ブレーカー設置を基本計画案に盛り込む",
-        "アルゼンチンがW杯メンバー26名を発表——メッシ6大会連続、史上3か国目の2連覇へ",
-        "台風6号、来週月〜火曜に沖縄・奄美接近——「強い」勢力で暴風・大雨のおそれ",
-        "Claude Code の Agent View 徹底活用——複数バックグラウンドセッションを一元管理する5つの必須操作",
-        "開発フローをClaude Codeスキルに実装——チーム全員が均一な品質で作業できる「execute-task」スキルの設計論",
-        "「AIエージェントに気をつけてと頼む」のは安全設計ではない——実行環境の技術的境界が唯一の有効な安全装置",
-        "Project Glasswing: Anthropic's AI Found 10,000+ Critical Vulnerabilities in One Month",
-        "GitHub Copilot Memory Gets Deletion Controls, Repository Scope, and CLI Commands",
-        "Various LLM Smells: The Recognizable Patterns AI Leaves Behind in Writing and Web Design"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-30T05:00:00+09:00",
+  "last_run_at": "2026-05-30T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-30T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582252",
+        "https://www.jiji.com/jc/article?k=2026053000172&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2605/30/news025.html",
+        "https://www.jiji.com/jc/article?k=2026052900873&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6582248",
+        "https://zenn.dev/znet/articles/2026-rag-cost-no-search-architecture",
+        "https://zenn.dev/lova_man/articles/d03207d54e4bc4",
+        "https://zenn.dev/kawacodejp/articles/8b45b7963c188a",
+        "https://research.roundtable.ai/captchas-detect-ai/",
+        "https://github.blog/changelog/2026-05-29-copilot-usage-metrics-api-adds-cohorts-for-ai-adoption",
+        "https://www.publickey1.jp/blog/26/xaigrok_build.html"
+      ],
+      "titles": [
+        "G7がSNS上の未成年保護で「共通原則」に合意——年齢確認の義務化に向けて国際連携",
+        "IMF・IEAなどが緊急警告——ホルムズ海峡封鎖で「夏前に原油在庫が急減」のリスク",
+        "NHK技研が「映像来歴技術」を公開——C2PA規格で編集履歴を刻み、AIフェイク動画を見分ける",
+        "国家公務員総合職合格者が2021人——女性比率35.7%で2年連続の過去最高を更新",
+        "エステ・脱毛サロンの倒産が止まらず——2026年4月までの倒産件数が過去最多ペース",
+        "RAGのコストは「検索回数」で決まる——毎回フル検索しない4層アーキテクチャの設計論",
+        "自社システムをMCPで外部に開くときの「手綱」設計——権限境界・確認トークン・監査ログの3層構造",
+        "AIにコードを10倍書かせて分かった「Why（意図）」消失リスク——Intent-Driven Developmentという処方箋",
+        "CAPTCHAs Can Still Detect AI Agents — A New Process Turing Test Exposes How Models Solve, Not Think",
+        "GitHub Copilot Usage Metrics API Now Segments Developers by AI Adoption Phase",
+        "xAI Launches Grok Build Beta: Parallel Sub-Agents, Plan Mode, and AGENTS.md Support"
+      ]
+    },
     {
       "run_at": "2026-05-30T05:00:00+09:00",
       "urls": [

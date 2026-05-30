@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-30T20:00:00+09:00",
+  "last_run_at": "2026-05-31T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-31T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582354",
+        "https://news.yahoo.co.jp/pickup/6582342",
+        "https://news.yahoo.co.jp/pickup/6582349",
+        "https://news.yahoo.co.jp/pickup/6582338",
+        "https://news.yahoo.co.jp/pickup/6582351",
+        "https://zenn.dev/rkpg/articles/claude-code-self-improving-skill-loop",
+        "https://zenn.dev/znet/articles/2026-multiagent-long-running-safety",
+        "https://zenn.dev/miyan/articles/claude-code-custom-agents-guide",
+        "https://www.anthropic.com/news/series-h",
+        "https://www.anthropic.com/news/anthropic-acquires-stainless",
+        "https://ziglang.org/devlog/2026/#2026-05-26"
+      ],
+      "titles": [
+        "日米、ミサイル共同開発の加速で一致——防衛協力の新段階へ",
+        "自民党と国民民主党の連立構想が再浮上——参院選を前に政界再編の動き",
+        "台風接近でJAL・ANA計260便以上が欠航——沖縄・九州便を中心に混乱",
+        "小学6年生の息子を刺殺した疑いで66歳の父親を逮捕——大阪府",
+        "婚活市場で「理想の年齢差」が縮む——若い世代ほど「同世代」を好む傾向",
+        "Claude Codeの.claude/ディレクトリ「賞味期限」問題——半年運用して判明した自己改善スキルループの設計",
+        "マルチエージェントを10時間動かし続けると何が起きるか——Anthropic訓練手法とStanford観察論から読み解く安全設計",
+        "Claude Codeカスタムサブエージェントの作り方——スキルとサブエージェントの違いを理解して設計する",
+        "Anthropic Raises $65B Series H at $965B Valuation — Surpasses OpenAI as Most Valuable AI Startup",
+        "Anthropic Acquires Stainless — SDK Generation Joins the Claude Platform",
+        "Zig Build System Reworked — New Architecture Separates Compiler Cache from Build Graph"
+      ]
+    },
     {
       "run_at": "2026-05-30T20:00:00+09:00",
       "urls": [

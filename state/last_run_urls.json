@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-31T20:00:00+09:00",
+  "last_run_at": "2026-06-01T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-01T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582473",
+        "https://www.jiji.com/jc/article?k=2026053100284&g=spo",
+        "https://www.jiji.com/jc/article?k=2026053100281&g=int",
+        "https://www.jiji.com/jc/article?k=2026053100275&g=soc",
+        "https://www.jiji.com/jc/article?k=2026053100342&g=eco",
+        "https://zenn.dev/karumaru/articles/a236d7e871a13c",
+        "https://zenn.dev/agentmemories/articles/ai-agent-tiered-memory-design",
+        "https://www.publickey1.jp/blog/26/xaigrok_build.html",
+        "https://www.anthropic.com/news/anthropic-kpmg",
+        "https://simonwillison.net/2026/May/27/sqlite-agents/",
+        "https://github.blog/changelog/2026-05-29-copilot-usage-metrics-api-adds-cohorts-for-ai-adoption"
+      ],
+      "titles": [
+        "台風6号が沖縄に接近——警戒レベル4までに避難完了を、西日本にも大雨のおそれ",
+        "サッカー日本代表、アイスランドに1-0で勝利——W杯前最後の親善試合で白星",
+        "イスラエル軍がレバノン南部の要衝を制圧——26年ぶりの占領でイラン核交渉にも影",
+        "嵐、27年の歴史に幕——東京ドームで最後のライブ、大野智がスタッフらと別れ",
+        "JR東海社長、リニア静岡工区の早期着工に「誠実に取り組む」——沿線市長10人と初の直接協議",
+        "AIエージェント29人だけの開発会社で「全社飲み会」——ペルソナ定義とAGENTS.mdで生まれた組織文化",
+        "AIエージェントに永続記憶を持たせる3層設計——仮・確定・実働のMCPメモリアーキテクチャ",
+        "xAIがコーディングエージェント「Grok Build」ベータを公開——並列サブエージェントとAGENTS.md対応で本格派へ",
+        "KPMG Integrates Claude Across 276,000+ Employees Globally in Full Strategic Alliance with Anthropic",
+        "SQLite Adds AGENTS.md — Permanently Refuses AI-Generated Pull Requests While Welcoming Agentic Bug Reports",
+        "GitHub Copilot Usage Metrics API Adds AI Adoption Phase Cohorts — Track Developer Progression Across Agent Surfaces"
+      ]
+    },
     {
       "run_at": "2026-05-31T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "OpenAI Launches Rosalind Biodefense — GPT-Rosalind API Opens to Vetted Researchers and Allied Governments",
         "SQLite Is All You Need for Durable Agent Workflows — Obelisk Makes the Case for Local-First State",
         "Tiny-vLLM: A C++/CUDA LLM Inference Engine From Scratch — Demystifying PagedAttention, KV Cache, and FlashAttention"
-      ]
-    },
-    {
-      "run_at": "2026-05-30T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582298",
-        "https://news.yahoo.co.jp/pickup/6582294",
-        "https://news.yahoo.co.jp/pickup/6582286",
-        "https://www.jiji.com/jc/article?k=2026053000139&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2605/30/news029.html",
-        "https://zenn.dev/canly/articles/45da96250c7028",
-        "https://zenn.dev/kaz20/articles/c77f8a41cf2bf5",
-        "https://zenn.dev/okamyuji/articles/golang-litellm-alternative-single-binary",
-        "https://www.quandri.io/engineering-blog/mcp-is-dead",
-        "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-        "https://www.liquid.ai/blog/lfm2-5-8b-a1b"
-      ],
-      "titles": [
-        "台風6号、6月1〜2日に沖縄直撃か——暴風・大雨・高潮の三重脅威、西日本にも接近",
-        "女性天皇「賛成」が72%——毎日新聞世論調査で過去最高水準、皇位継承議論が加速",
-        "日本人の中国旅行が9割減——日中関係悪化で旅行業界が「三重苦」、相互交流に打撃",
-        "日豪NZが初の防衛相会談——アジア安保会議でサプライチェーン協力・装備品共同整備を合意",
-        "NHK技研、光で硬さを変える新素材を公開——VR触感再現・医療分野への応用に期待",
-        "Claude Code Dynamic Workflowsを触ってみた——数百の並列サブエージェントが大規模タスクをこなす新アーキテクチャ",
-        "MLエンジニアが「なぜQだけキャッシュしないのか」を数式で解明——LLM推論KVキャッシュの本質",
-        "LiteLLMをGoの単一バイナリに置き換えたら一気に軽くなった——依存ゼロ・即起動・OpenAI互換のAIエージェント基盤を自作",
-        "MCP Is Dead — Quandri Engineering Argues Context Bloat and Reliability Kill MCP for Most Dev Workflows",
-        "SQLite Is All You Need for Durable Workflows — Obelisk Makes the Case for Local-First Agent State",
-        "Liquid AI Releases LFM2.5-8B-A1B — 128K Context, 38T Tokens Trained, 253 tok/s on Apple M5 Max"
       ]
     }
   ]

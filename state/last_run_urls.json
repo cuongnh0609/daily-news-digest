@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-01T00:00:00+09:00",
+  "last_run_at": "2026-06-01T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-01T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026053100322&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6582480",
+        "https://www.jiji.com/jc/article?k=2026053100254&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026053100174&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026053100340&g=int&m=rss",
+        "https://zenn.dev/miyan/articles/claude-code-cve-supply-chain-risk-2026",
+        "https://zenn.dev/sin9_ha/books/claude-code-real-saas",
+        "https://www.publickey1.jp/blog/26/google_cloudpostgresqlalloydb.html",
+        "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/",
+        "https://github.blog/changelog/2026-05-28-hard-budget-limits-now-available-for-github-advanced-security",
+        "https://www.publickey1.jp/blog/26/aws500mbpsaws_interconnect_-_multicloud.html"
+      ],
+      "titles": [
+        "新潟知事に花角氏３選　２新人破る",
+        "1票差で町長選当選 新潟・田上町",
+        "地対艦ミサイルの輸出協議へ　日比防衛相、護衛艦の「速やかな移転」合意",
+        "トランプ氏、覚書の修正要求　イランも強硬、交渉継続へ―米メディア",
+        "ウクライナ原発にドローン　「壁に穴」とロシア主張",
+        "Claude Code に見つかった2つの脆弱性から学ぶ、AIコーディングツールのサプライチェーンリスク",
+        "Claude Code で 1人 SaaS 開発 — 要求駆動 × セッション分離運用",
+        "Google Cloud、高速にフェイルオーバー可能なPostgreSQL互換AlloyDBの新たなホットスタンバイを提供",
+        "The Solution Might Be Cancelling My AI Subscription — When AI Tools Become a Crutch",
+        "Hard Budget Limits Now Available for GitHub Advanced Security",
+        "AWS Interconnect Multicloud Gets a Free Tier — 500 Mbps Cross-Cloud Connectivity at No Cost"
+      ]
+    },
     {
       "run_at": "2026-06-01T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Raises $65B Series H at $965B Valuation — Surpasses OpenAI as Most Valuable AI Startup",
         "Anthropic Acquires Stainless — SDK Generation Joins the Claude Platform",
         "Zig Build System Reworked — New Architecture Separates Compiler Cache from Build Graph"
-      ]
-    },
-    {
-      "run_at": "2026-05-30T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582325",
-        "https://news.yahoo.co.jp/pickup/6582310",
-        "https://news.yahoo.co.jp/pickup/6582329",
-        "https://www.jiji.com/jc/article?k=2026053000377&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026053000231&g=int&m=rss",
-        "https://zenn.dev/tkithrta/articles/0378bc53599fb3",
-        "https://zenn.dev/genda_jp/articles/b7fe56ce2fc60f",
-        "https://www.itmedia.co.jp/news/articles/2605/29/news101.html",
-        "https://www.itmedia.co.jp/news/articles/2605/30/news031.html",
-        "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-        "https://github.com/jmaczan/tiny-vllm"
-      ],
-      "titles": [
-        "台風6号、6月2〜4日は西日本から北日本も暴風圏——記録的大雨の恐れ",
-        "iPS細胞論文数、日本は世界3位も米中との差が拡大——質の面でも15か国中最下位",
-        "中学校が振り込め詐欺被害——給食費口座から1000万円超が不正送金",
-        "高市首相、北朝鮮との首脳会談に積極姿勢——拉致問題解決へ「勇気ある一歩を」",
-        "米連邦裁、ケネディ・センターの「トランプ」改名に差し止め——「改名権は議会にある」",
-        "楽しかったコーディングエージェントサブスク時代の終わり——GitHub AI Creditsで始まるFinOps時代",
-        "Codexを長時間稼働させるまで——AGENTS.md・チェックリスト・コマンドポリシーで自律開発を安全に設計する",
-        "アニメ産業が「三日月型」の歪み——市場は4000億円超でも制作会社の悲鳴が止まらない理由",
-        "OpenAI Launches Rosalind Biodefense — GPT-Rosalind API Opens to Vetted Researchers and Allied Governments",
-        "SQLite Is All You Need for Durable Agent Workflows — Obelisk Makes the Case for Local-First State",
-        "Tiny-vLLM: A C++/CUDA LLM Inference Engine From Scratch — Demystifying PagedAttention, KV Cache, and FlashAttention"
       ]
     }
   ]

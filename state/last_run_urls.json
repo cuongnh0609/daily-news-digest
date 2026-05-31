@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-31T10:00:00+09:00",
+  "last_run_at": "2026-05-31T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-31T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582410",
+        "https://news.yahoo.co.jp/pickup/6582395",
+        "https://news.yahoo.co.jp/pickup/6582394",
+        "https://www.itmedia.co.jp/news/articles/2605/31/news022.html",
+        "https://news.yahoo.co.jp/pickup/6582397",
+        "https://zenn.dev/yumayx/articles/c69ac22ce07bea",
+        "https://zenn.dev/kaz20/articles/8034f0587633f3",
+        "https://zenn.dev/stafes_blog/articles/nano72mkn-claude-code-intro",
+        "https://www.anthropic.com/news/milan-office-opening",
+        "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/",
+        "https://github.blog/changelog/2026-05-26-target-copilot-models-to-organizations-with-model-rules"
+      ],
+      "titles": [
+        "防衛相が「新型軍国主義」批判に反論——シンガポール安保会議で中国の主張を正面から否定",
+        "米軍がイランに向かう船舶をミサイル攻撃——警告20回以上を無視、ホルムズ海峡封鎖で緊張高まる",
+        "トランプ大統領が建国250年コンサートの中止を要求——出演辞退相次ぎ「MAGA集会」代替案を主張",
+        "ソフトバンクGがフランスで最大14兆円のAIデータセンター投資——5GWの巨大拠点を2031年までに整備",
+        "煙も臭いもない「オーラルたばこ」が拡大——世界禁煙デーに医療関係者が若者の口腔がんリスクに警鐘",
+        "5億ドル請求されないようにOllamaのCloudを使う——無料でGemma 4 31Bを動かし、ローカルLLM開発を効率化する方法",
+        "MLエンジニアのための本質から理解するLLM推論——ベンチマーク測定の基礎、TTFT・ITL・TPS徹底解説",
+        "Claude Codeをはじめて触るエンジニアのためのざっくり入門——8つのコマンド、Skills、MCPまで最初の一週間を完全ガイド",
+        "Anthropic Opens Milan Office — Sixth European Hub Targets Italian Enterprise, Research, and Developers",
+        "Running Python ASGI Apps Fully in the Browser via Pyodide and a Service Worker — Datasette Goes Client-Side",
+        "GitHub Copilot Gets Org-Level Model Rules — Admins Can Now Pin Specific AI Models Per Organization"
+      ]
+    },
     {
       "run_at": "2026-05-31T10:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Mistral AI Now Summit: Beyond Models — Vibe for Work, Robostral, and the Harness-Is-Everything Philosophy",
         "Is AI Causing a Repeat of Frontend's Lost Decade? The Deskilling Parallels Are Hard to Ignore",
         "Anthropic and OpenAI Have Found Product-Market Fit — Coding Agents at $200+/Month/User Are the Breakthrough"
-      ]
-    },
-    {
-      "run_at": "2026-05-30T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582234",
-        "https://www.jiji.com/jc/article?k=2026052900122&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6582230",
-        "https://www.jiji.com/jc/article?k=2026052901158&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2605/29/news144.html",
-        "https://zenn.dev/mofuteq/articles/be562471f96a68",
-        "https://zenn.dev/finatext/articles/policy-for-frontier-ai",
-        "https://zenn.dev/sonicgarden/articles/ef6268318d256f",
-        "https://simonwillison.net/2026/May/27/sqlite-agents/",
-        "https://blog.cloudflare.com/ai-code-review/",
-        "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/"
-      ],
-      "titles": [
-        "飲食料品の消費税、2027年4月に1%引き下げへ——政府が検討方針を固める",
-        "外国人の永住手数料、上限30倍に引き上げ　改正入管法が成立",
-        "副首都法案に自民党内から異論——維新推進の大阪拠点構想、党内調整が難航",
-        "EUが対中貿易を「持続不可能」と認定——赤字拡大への警戒、デリスキング方針は維持",
-        "日本政府・主要金融機関がOpenAI最新モデルへのアクセス権取得——サイバーセキュリティ強化へ",
-        "MCPでAgentの能力を増やすのをやめたら「Context Boundary」が見えてきた——LLMシステム設計の新視点",
-        "フロンティアAIの脅威に対するFinatextグループの対応方針——「既知リスクの顕在化速度が加速」",
-        "インフラエンジニアのClaude Code活用術——AWS MCP連携でマルチアカウント管理を自律化",
-        "SQLite Rejects AI-Generated Code via AGENTS.md — Accepts Bug Reports, Bans Agentic PRs",
-        "Cloudflare Orchestrates 7 Specialized AI Reviewers at Scale — 131K Reviews, $0.98 Each",
-        "Kog AI Hits 3,000 Tokens/Second on Standard Datacenter GPUs — No Custom Silicon Needed"
-      ]
-    },
-    {
-      "run_at": "2026-05-29T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582215",
-        "https://news.yahoo.co.jp/pickup/6582211",
-        "https://www.itmedia.co.jp/news/articles/2605/29/news100.html",
-        "https://news.yahoo.co.jp/pickup/6582213",
-        "https://www.itmedia.co.jp/news/articles/2605/29/news120.html",
-        "https://zenn.dev/spacemarket/articles/6c4992227d0b0d",
-        "https://zenn.dev/canly/articles/c7da70a520d1b8",
-        "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
-        "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-        "https://simonwillison.net/2026/May/29/anthropic-revenue/",
-        "https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot"
-      ],
-      "titles": [
-        "為替介入、月間11兆7349億円で過去最大——円安抑制へ財務省が積極姿勢",
-        "国会議員ボーナス据え置き——改正歳費法が可決、年間638万円を維持",
-        "ブルーオリジン「ニューグレン」打ち上げ失敗——エンジン損傷で爆発、原因調査中",
-        "東京ディズニーリゾート「プライオリティパス」8月末終了——40周年記念サービスに幕",
-        "MIXI創業者・笠原健治氏、社員1700人に株式18億円相当を無償譲渡",
-        "スペック文書を「読みたくなるHTML」に変換するClaude Codeスキルを公開——Spec-Driven開発の新実践",
-        "「1行のテストケースを渡すとClaude Codeが1時間自走する」——E2E駆動の自律開発フローを実装",
-        "AWS、ブラウザだけで使えるSpec駆動コーディングAIエージェント「Kiro Web」をプレビュー公開",
-        "Claude Code: Everything You Can Configure That the Docs Don't Tell You",
-        "Anthropic's Annualized Revenue Hits $47 Billion — Up from $30B in April and $9B at End of 2025",
-        "Claude Opus 4.8 Now Available in GitHub Copilot — Plus New Model Rules for Organization-Level Control"
       ]
     }
   ]

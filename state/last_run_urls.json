@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-05-31T15:00:00+09:00",
+  "last_run_at": "2026-05-31T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-05-31T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582437",
+        "https://news.yahoo.co.jp/pickup/6582446",
+        "https://www.jiji.com/jc/article?k=2026053100224&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026053100268&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6582444",
+        "https://zenn.dev/mofuteq/articles/481f48c33a6301",
+        "https://zenn.dev/tsuzudev05/articles/claude-code-slash-commands-workflow",
+        "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
+        "https://simonwillison.net/2026/May/31/anthropic-run-rate/",
+        "https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot",
+        "https://specification.website"
+      ],
+      "titles": [
+        "フィリピン国防相、日本製地対艦誘導弾を「有力候補」と明言——防衛装備移転解禁で協力深化",
+        "東北自動車道で貨物車が大破——運転手が車外に投げ出され死亡、高速道路での安全対策に課題",
+        "台風６号が沖縄本島に強い勢力で直撃か——６月２〜３日は九州から関東にも大雨、警戒レベル４も",
+        "能登で本州初のトキが放鳥——秋篠宮ご夫妻ご出席のもと、復興のシンボルが大空へ",
+        "森保ジャパン、アイスランドとの親善試合に臨む——久保・遠藤・冨安らが久々に揃い踏み",
+        "LangGraphのState Machineを「本物」にする——Checkpointerは保存機能ではなく「復帰点」という本質的理解",
+        "Claude Codeのカスタムスラッシュコマンドで開発ルーティンを自動化——.claude/commands/にMarkdownを置くだけの即戦力ツール",
+        "AWSがブラウザで動くSpec-Driven開発エージェント「Kiro Web」を発表——インストール不要でGitHubリポジトリに直接PR作成",
+        "Anthropic's $47B Run-Rate Explained: A Hybrid Methodology Combining 28-Day Consumption Sales × 13 with Subscription Revenue × 12",
+        "Claude Opus 4.8 Now Generally Available in GitHub Copilot — 15× Premium Request Multiplier Until Usage-Based Billing Starts June 1",
+        "The Website Specification: An Open-Source Platform-Agnostic Checklist for Production-Grade Websites, Including AI Agent Readiness and MCP Server Integration"
+      ]
+    },
     {
       "run_at": "2026-05-31T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "MCP Is Dead — Quandri Engineering Argues Context Bloat and Reliability Kill MCP for Most Dev Workflows",
         "SQLite Is All You Need for Durable Workflows — Obelisk Makes the Case for Local-First Agent State",
         "Liquid AI Releases LFM2.5-8B-A1B — 128K Context, 38T Tokens Trained, 253 tok/s on Apple M5 Max"
-      ]
-    },
-    {
-      "run_at": "2026-05-30T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582252",
-        "https://www.jiji.com/jc/article?k=2026053000172&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2605/30/news025.html",
-        "https://www.jiji.com/jc/article?k=2026052900873&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6582248",
-        "https://zenn.dev/znet/articles/2026-rag-cost-no-search-architecture",
-        "https://zenn.dev/lova_man/articles/d03207d54e4bc4",
-        "https://zenn.dev/kawacodejp/articles/8b45b7963c188a",
-        "https://research.roundtable.ai/captchas-detect-ai/",
-        "https://github.blog/changelog/2026-05-29-copilot-usage-metrics-api-adds-cohorts-for-ai-adoption",
-        "https://www.publickey1.jp/blog/26/xaigrok_build.html"
-      ],
-      "titles": [
-        "G7がSNS上の未成年保護で「共通原則」に合意——年齢確認の義務化に向けて国際連携",
-        "IMF・IEAなどが緊急警告——ホルムズ海峡封鎖で「夏前に原油在庫が急減」のリスク",
-        "NHK技研が「映像来歴技術」を公開——C2PA規格で編集履歴を刻み、AIフェイク動画を見分ける",
-        "国家公務員総合職合格者が2021人——女性比率35.7%で2年連続の過去最高を更新",
-        "エステ・脱毛サロンの倒産が止まらず——2026年4月までの倒産件数が過去最多ペース",
-        "RAGのコストは「検索回数」で決まる——毎回フル検索しない4層アーキテクチャの設計論",
-        "自社システムをMCPで外部に開くときの「手綱」設計——権限境界・確認トークン・監査ログの3層構造",
-        "AIにコードを10倍書かせて分かった「Why（意図）」消失リスク——Intent-Driven Developmentという処方箋",
-        "CAPTCHAs Can Still Detect AI Agents — A New Process Turing Test Exposes How Models Solve, Not Think",
-        "GitHub Copilot Usage Metrics API Now Segments Developers by AI Adoption Phase",
-        "xAI Launches Grok Build Beta: Parallel Sub-Agents, Plan Mode, and AGENTS.md Support"
-      ]
-    },
-    {
-      "run_at": "2026-05-30T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026052900236&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026052900524&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026053000016&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6582235",
-        "https://www.itmedia.co.jp/enterprise/articles/2605/29/news067.html",
-        "https://zenn.dev/kenimo49/articles/claude-code-hooks-7-safety-patterns",
-        "https://zenn.dev/kobao/articles/64a72dc0167ca3",
-        "https://zenn.dev/tottoko_hamu/articles/2026-05-05-090000",
-        "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-        "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-        "https://simonwillison.net/2026/May/27/product-market-fit/"
-      ],
-      "titles": [
-        "４月の完全失業率が２．５％に低下——雇用情勢は改善傾向が続く",
-        "自衛官４名をNSATUへ派遣——ウクライナ支援でドイツ駐在、戦闘には不参加",
-        "米・イラン核交渉——トランプ大統領が「暫定合意」の承認を最終判断へ",
-        "診察キャンセル料をめぐり厚労相が陳謝——「説明不足だった」と認める",
-        "富士通がOpenAI・Anthropicと相次いで提携——AI変革支援を軸に企業向け戦略を強化",
-        "Claude Code Hooksで作る７つの安全装置——PreToolUse/PostToolUse 実装パターン集",
-        "Claude Codeに株・仮想通貨botを３００個作らせてわかったこと——生存率は１割以下",
-        "Claude Codeのマルチエージェント組織は「作ったら腐る」——244ファイル整理後の健康診断全記録",
-        "Mistral AI Now Summit: Beyond Models — Vibe for Work, Robostral, and the Harness-Is-Everything Philosophy",
-        "Is AI Causing a Repeat of Frontend's Lost Decade? The Deskilling Parallels Are Hard to Ignore",
-        "Anthropic and OpenAI Have Found Product-Market Fit — Coding Agents at $200+/Month/User Are the Breakthrough"
       ]
     }
   ]

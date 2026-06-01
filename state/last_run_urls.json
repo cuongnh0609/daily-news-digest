@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-01T05:00:00+09:00",
+  "last_run_at": "2026-06-01T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-01T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582513",
+        "https://www.jiji.com/jc/article?k=2026060100143&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026060100144&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026060100160&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026053100177&g=pol&m=rss",
+        "https://zenn.dev/yamadatt/articles/20260531-aws-waf-log-analysis-claude-skill",
+        "https://zenn.dev/jagaimo_poteto/articles/aa2aca6b25e3d5",
+        "https://zenn.dev/kobao/articles/64a72dc0167ca3",
+        "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+        "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+        "https://github.blog/changelog/2026-05-28-codeql-2-25-5-improves-query-accuracy-for-github-actions"
+      ],
+      "titles": [
+        "日経平均株価、一時6万7000円台を突破――史上初の大台",
+        "台風6号、沖縄・奄美で暴風大雨の厳重警戒――東・西日本にも大雨のおそれ",
+        "イラン、米国の核合意案を修正要求――「核権利の確保」を主張し交渉継続へ",
+        "スーダンで民間人へのドローン攻撃――67人が死亡、国際社会が非難",
+        "中立公に「新・新党」構想が浮上――有力労組が合流に前向き、参院選前に政界再編の動き",
+        "AWS WAFのログ分析をAgent Skillに集約——5世代の進化で実現したトークン効率の高い自動セキュリティ解析",
+        "会議で「言いにくいこと」をAIに代弁させる——9エージェント並列監視の会議ファシリテーター「Helmsman」",
+        "Claude Codeに株・仮想通貨botを300個作らせてわかったこと——AIで量産しても「選ぶ眼」は人間が担う",
+        "Cloudflare Turnstile Forces WebGL Fingerprinting — Privacy Browsers Treated as Bots",
+        "Anthropic Opens Seoul Office, Appoints KiYoung Choi as Korea Representative Director",
+        "CodeQL 2.25.5 Extends GitHub Actions Security Coverage — New Sinks for Python, Go, and Composite Actions"
+      ]
+    },
     {
       "run_at": "2026-06-01T05:00:00+09:00",
       "urls": [

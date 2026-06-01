@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-01T20:00:00+09:00",
+  "last_run_at": "2026-06-02T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-02T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026060100987&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026060100473&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6582597",
+        "https://www.jiji.com/jc/article?k=2026060100913&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026060100655&g=pol&m=rss",
+        "https://zenn.dev/meijin/articles/coding-agent-with-syntax-tree-analyze",
+        "https://www.publickey1.jp/blog/26/rustjavascriptrolldown10vite_80.html",
+        "https://www.itmedia.co.jp/news/articles/2606/01/news117.html",
+        "https://www.anthropic.com/news/series-h",
+        "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/",
+        "https://simonwillison.net/2026/Jun/1/may-newsletter/"
+      ],
+      "titles": [
+        "中国空母「遼寧」、太平洋上で3日間に発着艦170回――防衛省が警戒監視を強化",
+        "イスラエル首相、レバノン首都ベイルートへの攻撃を指示――南部制圧を「劇的な転換点」と評価",
+        "消費減税、来年4月から2年間実施へ――飲食料品を対象に税率1%案が有力、政府が調整",
+        "「ケアマネを切り付けた」と110番――埼玉・川口市の住宅で男女2人が死亡",
+        "宮沢元自民議員が「創生党」結成を宣言――統一地方選での候補擁立を目指す",
+        "Claude CodeのStop Hooksで「臭うコード」を自動検出――構文木解析でAI生成コードの品質を守る",
+        "Rust製バンドラ「Rolldown」がv1.0到達――Vite 8.0に正式採用、2つのバンドラを統一",
+        "NVIDIAがヒューマノイドロボットの参考設計を公開――Jetson Thor搭載・Isaac GR00Tで物理AIを実証",
+        "Anthropic Closes $65B Series H at $965B Valuation — Backed by Amazon, Google, and Leading VCs",
+        "NVIDIA Cosmos 3: Unified Foundation Model for Physical AI with World Simulation and Action Modeling",
+        "Simon Willison's May 2026 Report: AI Got Expensive, Models Are Plateauing, and Datasette Agent Ships"
+      ]
+    },
     {
       "run_at": "2026-06-01T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic's $47B Run-Rate Explained: A Hybrid Methodology Combining 28-Day Consumption Sales × 13 with Subscription Revenue × 12",
         "Claude Opus 4.8 Now Generally Available in GitHub Copilot — 15× Premium Request Multiplier Until Usage-Based Billing Starts June 1",
         "The Website Specification: An Open-Source Platform-Agnostic Checklist for Production-Grade Websites, Including AI Agent Readiness and MCP Server Integration"
-      ]
-    },
-    {
-      "run_at": "2026-05-31T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582410",
-        "https://news.yahoo.co.jp/pickup/6582395",
-        "https://news.yahoo.co.jp/pickup/6582394",
-        "https://www.itmedia.co.jp/news/articles/2605/31/news022.html",
-        "https://news.yahoo.co.jp/pickup/6582397",
-        "https://zenn.dev/yumayx/articles/c69ac22ce07bea",
-        "https://zenn.dev/kaz20/articles/8034f0587633f3",
-        "https://zenn.dev/stafes_blog/articles/nano72mkn-claude-code-intro",
-        "https://www.anthropic.com/news/milan-office-opening",
-        "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/",
-        "https://github.blog/changelog/2026-05-26-target-copilot-models-to-organizations-with-model-rules"
-      ],
-      "titles": [
-        "防衛相が「新型軍国主義」批判に反論——シンガポール安保会議で中国の主張を正面から否定",
-        "米軍がイランに向かう船舶をミサイル攻撃——警告20回以上を無視、ホルムズ海峡封鎖で緊張高まる",
-        "トランプ大統領が建国250年コンサートの中止を要求——出演辞退相次ぎ「MAGA集会」代替案を主張",
-        "ソフトバンクGがフランスで最大14兆円のAIデータセンター投資——5GWの巨大拠点を2031年までに整備",
-        "煙も臭いもない「オーラルたばこ」が拡大——世界禁煙デーに医療関係者が若者の口腔がんリスクに警鐘",
-        "5億ドル請求されないようにOllamaのCloudを使う——無料でGemma 4 31Bを動かし、ローカルLLM開発を効率化する方法",
-        "MLエンジニアのための本質から理解するLLM推論——ベンチマーク測定の基礎、TTFT・ITL・TPS徹底解説",
-        "Claude Codeをはじめて触るエンジニアのためのざっくり入門——8つのコマンド、Skills、MCPまで最初の一週間を完全ガイド",
-        "Anthropic Opens Milan Office — Sixth European Hub Targets Italian Enterprise, Research, and Developers",
-        "Running Python ASGI Apps Fully in the Browser via Pyodide and a Service Worker — Datasette Goes Client-Side",
-        "GitHub Copilot Gets Org-Level Model Rules — Admins Can Now Pin Specific AI Models Per Organization"
       ]
     }
   ]

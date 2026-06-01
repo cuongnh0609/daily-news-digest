@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-01T15:00:00+09:00",
+  "last_run_at": "2026-06-01T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-01T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582584",
+        "https://news.yahoo.co.jp/pickup/6582578",
+        "https://www.jiji.com/jc/article?k=2026060100669&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6582582",
+        "https://www.itmedia.co.jp/news/articles/2606/01/news072.html",
+        "https://zenn.dev/d0ne1s/articles/9422407b652a48",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news016.html",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news037.html",
+        "https://prismml.com/news/bonsai-image-4b",
+        "https://www.itmedia.co.jp/news/articles/2606/01/news098.html",
+        "https://spectrum.ieee.org/ai-video-games-llms-togelius"
+      ],
+      "titles": [
+        "台風6号、3日昼に関東甲信へ最接近――通勤・通学時間帯に暴風雨の恐れ",
+        "トランプ大統領の個人口座で大量証券売買――政府倫理局が公開、政治的波紋広がる",
+        "国旗損壊罪、今国会提出へ――自民PT了承、表現の自由をめぐり議論白熱",
+        "笹正宗酒造の酒蔵・倉庫がほぼ全焼――福島・喜多方の老舗、登録有形文化財の蔵も被害",
+        "ソフトバンクGの時価総額が国内首位に――47兆円でトヨタを超え、AI投資が評価",
+        "2026年6月時点でBestな開発環境を本気で考えた――GPT-3.5以降3年半の変遷と「polepole」誕生",
+        "「ハーネス」って結局何？――Hugging FaceがAIエージェント13用語を体系的に整理",
+        "「12.5人月→2.0人月」を実現したAI駆動VB.NET移行――DevinとC-chatSupportの組み合わせが開発期間を81%短縮",
+        "Bonsai Image 4B: 1-Bit Image Generation Model Runs on iPhone — 8.3× Compressed FLUX.2 Klein",
+        "Microsoft Surface Laptop Ultra with NVIDIA RTX Spark — 128GB Unified Memory, Local AI at 1,200-Param Models",
+        "Why Are LLMs Still Terrible at Video Games? — Spatial Reasoning Gap Persists Despite Coding Breakthroughs"
+      ]
+    },
     {
       "run_at": "2026-06-01T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Anthropic Opens Milan Office — Sixth European Hub Targets Italian Enterprise, Research, and Developers",
         "Running Python ASGI Apps Fully in the Browser via Pyodide and a Service Worker — Datasette Goes Client-Side",
         "GitHub Copilot Gets Org-Level Model Rules — Admins Can Now Pin Specific AI Models Per Organization"
-      ]
-    },
-    {
-      "run_at": "2026-05-31T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582366",
-        "https://news.yahoo.co.jp/pickup/6582372",
-        "https://news.yahoo.co.jp/pickup/6582365",
-        "https://news.yahoo.co.jp/pickup/6582373",
-        "https://news.yahoo.co.jp/pickup/6582364",
-        "https://zenn.dev/nana/articles/3fd7e9dffeb831",
-        "https://www.itmedia.co.jp/news/articles/2605/28/news124.html",
-        "https://www.itmedia.co.jp/news/articles/2605/28/news136.html",
-        "https://www.anthropic.com/research/glasswing-initial-update",
-        "https://simonwillison.net/2026/May/30/how-we-contain-claude/",
-        "https://github.blog/changelog/2026-05-26-copilot-memory-has-more-controls-for-deletion-scope-and-the-copilot-cli"
-      ],
-      "titles": [
-        "初診・再診料など6月から引き上げ——医療費改定で患者負担が増加",
-        "少子化対応で小中学校の統廃合加速——文科省が指針を初改訂、学校ゼロ地域も",
-        "米・イラン、ホルムズ海峡めぐり神経戦——イラン船に米艦艇が警告",
-        "米建国250年祝賀コンサートで出演辞退続出——トランプ大統領が怒りをSNSでぶちまける",
-        "全国の大学食堂で「0円朝食」が広まる——物価高騰受け、育英基金が支援",
-        "Claude Agents実践ガイド——Agent View機能で複数バックグラウンドセッションを管理する",
-        "みずほFG・NECが「KYA」構想を発表——AIエージェントの本人確認を暗号技術で実現",
-        "デジタル庁が国家公務員10万人に生成AI「源内」を開放——答弁原案作成まで活用、大規模実証開始",
-        "Project Glasswing: Anthropic's AI-Powered Cybersecurity Initiative Finds 10,000+ Critical Vulnerabilities",
-        "How Anthropic Contains Claude Across Products — gVisor, Seatbelt, and Full VM Isolation Explained",
-        "GitHub Copilot Memory Gets Granular Controls — Deletion by Scope, CLI Support, and Organization-Level Rules"
-      ]
-    },
-    {
-      "run_at": "2026-05-31T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582330",
-        "https://news.yahoo.co.jp/pickup/6582353",
-        "https://news.yahoo.co.jp/pickup/6582336",
-        "https://www.itmedia.co.jp/news/articles/2605/30/news022.html",
-        "https://www.itmedia.co.jp/news/articles/2605/29/news123.html",
-        "https://zenn.dev/rehabforjapan/articles/requirements-engineering",
-        "https://zenn.dev/noppe/articles/2113952a4bf0cc",
-        "https://zenn.dev/levtech/articles/claude-read-together",
-        "https://www.anthropic.com/news/claude-opus-4-8",
-        "https://openrouter.ai/announcements/series-b",
-        "https://www.publickey1.jp/blog/26/dockeraigordondocker.html"
-      ],
-      "titles": [
-        "93歳ドライバーの車が自転車をはね、男性が死亡——高齢者の運転問題が再び注目を集める",
-        "中村橋之助と能條愛未、約1000人が出席する盛大な披露宴を東京で挙行",
-        "Mr.Children、桜井和寿の体調不良で大阪公演を途中中止——翌日公演も取りやめ",
-        "NHK技研が湾曲型イメージセンサーを開発——広角撮影での周辺ぼけを大幅に改善",
-        "Microsoftが事前共有なしのゼロデイ公表を批判——「Chaotic Eclipse」グループとの対立が表面化",
-        "思想と仕様を分けて要件定義する——Spec-Driven開発における「幹」と「枝」の設計論",
-        "AIを使った効率的な体験改善のための開発フロー——Runtime SDKとCodexサーバーで「人間のQA」を中心に据える",
-        "Claudeと一緒に記事を読むようにしたら日々のインプットが劇的に改善——7段階の協働読書スキル",
-        "Claude Opus 4.8 Launches with Dynamic Workflows — Hundreds of Parallel Subagents for Codebase-Scale Tasks",
-        "OpenRouter Raises $113M Series B Led by CapitalG — From 5T to 25T Tokens/Week in Six Months",
-        "Docker Gordon AI Agent Goes GA — Context-Aware Docker Assistant Available Free on Docker Personal"
-      ]
-    },
-    {
-      "run_at": "2026-05-31T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582354",
-        "https://news.yahoo.co.jp/pickup/6582342",
-        "https://news.yahoo.co.jp/pickup/6582349",
-        "https://news.yahoo.co.jp/pickup/6582338",
-        "https://news.yahoo.co.jp/pickup/6582351",
-        "https://zenn.dev/rkpg/articles/claude-code-self-improving-skill-loop",
-        "https://zenn.dev/znet/articles/2026-multiagent-long-running-safety",
-        "https://zenn.dev/miyan/articles/claude-code-custom-agents-guide",
-        "https://www.anthropic.com/news/series-h",
-        "https://www.anthropic.com/news/anthropic-acquires-stainless",
-        "https://ziglang.org/devlog/2026/#2026-05-26"
-      ],
-      "titles": [
-        "日米、ミサイル共同開発の加速で一致——防衛協力の新段階へ",
-        "自民党と国民民主党の連立構想が再浮上——参院選を前に政界再編の動き",
-        "台風接近でJAL・ANA計260便以上が欠航——沖縄・九州便を中心に混乱",
-        "小学6年生の息子を刺殺した疑いで66歳の父親を逮捕——大阪府",
-        "婚活市場で「理想の年齢差」が縮む——若い世代ほど「同世代」を好む傾向",
-        "Claude Codeの.claude/ディレクトリ「賞味期限」問題——半年運用して判明した自己改善スキルループの設計",
-        "マルチエージェントを10時間動かし続けると何が起きるか——Anthropic訓練手法とStanford観察論から読み解く安全設計",
-        "Claude Codeカスタムサブエージェントの作り方——スキルとサブエージェントの違いを理解して設計する",
-        "Anthropic Raises $65B Series H at $965B Valuation — Surpasses OpenAI as Most Valuable AI Startup",
-        "Anthropic Acquires Stainless — SDK Generation Joins the Claude Platform",
-        "Zig Build System Reworked — New Architecture Separates Compiler Cache from Build Graph"
       ]
     }
   ]

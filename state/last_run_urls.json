@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-03T00:00:00+09:00",
+  "last_run_at": "2026-06-03T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-03T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582723",
+        "https://www.jiji.com/jc/article?k=2026060201030&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026060100238&g=flash&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/02/news123.html",
+        "https://www.itmedia.co.jp/news/articles/2606/02/news063.html",
+        "https://zenn.dev/aws_japan/articles/2026-06-01-bedrock-japanese-eval",
+        "https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html",
+        "https://www.itmedia.co.jp/aiplus/article/2606/02/2000000047/",
+        "https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available",
+        "https://github.blog/changelog/2026-06-02-expanded-technical-preview-availability-for-the-github-copilot-app",
+        "https://research.perplexity.ai/articles/rethinking-search-as-code-generation"
+      ],
+      "titles": [
+        "台風6号の影響で東京など広範囲に線状降水帯の恐れ――各地で厳重な警戒を呼びかけ",
+        "神奈川の海岸で男女4人の遺体を発見――警察が身元確認と事件性の有無を捜査中",
+        "日経平均株価が初めて6万7000円台に到達――AI・半導体関連株の上昇が牽引",
+        "JR東日本、英国・ヒースロー空港などで自販機事業を拡大――運営規模は1800台に",
+        "米フロリダ州、OpenAIとアルトマン氏を提訴――ChatGPTを「未成年者を危険にさらす製品」と非難",
+        "Amazon Bedrock経由で使えるLLMの日本語ベンチマーク性能を徹底比較――Claude・GPT・Geminiの実力は",
+        "マイクロソフト、AIエージェント向け分離実行環境「Microsoft Execution Containers（MXC）」を発表――Build 2026",
+        "三菱重工とPreferred Networks、国産AI技術を共同開発――防衛・産業分野での社会実装を目指す",
+        "GitHub Copilot SDK Is Now Generally Available — Embed Copilot's Agentic Engine in Your Own Apps",
+        "GitHub Copilot App Goes Wide with Canvases, Voice, Cloud Sessions — The Desktop Home for Agent-Native Dev",
+        "Rethinking Search as Code Generation — Perplexity Research Proposes a New Retrieval Paradigm"
+      ]
+    },
     {
       "run_at": "2026-06-03T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Bonsai Image 4B: 1-Bit Image Generation Model Runs on iPhone — 8.3× Compressed FLUX.2 Klein",
         "Microsoft Surface Laptop Ultra with NVIDIA RTX Spark — 128GB Unified Memory, Local AI at 1,200-Param Models",
         "Why Are LLMs Still Terrible at Video Games? — Spatial Reasoning Gap Persists Despite Coding Breakthroughs"
-      ]
-    },
-    {
-      "run_at": "2026-06-01T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582532",
-        "https://news.yahoo.co.jp/pickup/6582544",
-        "https://news.yahoo.co.jp/pickup/6582550",
-        "https://news.yahoo.co.jp/pickup/6582545",
-        "https://news.yahoo.co.jp/pickup/6582520",
-        "https://zenn.dev/tacogips/articles/7f4a3f3c4d2588",
-        "https://www.itmedia.co.jp/enterprise/articles/2605/30/news010.html",
-        "https://www.publickey1.jp/blog/26/linux_foundationaiagntcon_mcpcon910112.html",
-        "https://promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-        "https://lucasfcosta.com/blog/backpressure-is-all-you-need",
-        "https://www.anthropic.com/news/claude-design-anthropic-labs"
-      ],
-      "titles": [
-        "フラット35、初の3％超　6月、長期金利上昇影響",
-        "米ＡＩ事業に日本参画、両政府が５年で１６００億円――中国との覇権争いで優位に立つ狙い",
-        "衝突後数十メートル引きずったか　名古屋のバス事故、容疑者宅捜索",
-        "サンマルクの社長が激白「あの大量閉店」＜400店→290店＞の知られざる真相",
-        "コンビニから弁当が消えていく？　コンビニが「冷凍食品」売り場を拡大させている３つの理由とは",
-        "2026年の「最強開発環境」を本気で考えた――NixOS・Zed・Claude Codeで実現するAI時代の個人開発基盤",
-        "日立が29万人にClaude導入――Anthropicと戦略提携、HMAX統合とFrontier AI Deployment Centerを設立",
-        "Linux FoundationがAGNTCon+MCPCon Japanを9月に東京で開催――MCPとAGENTS.mdが設立基盤",
-        "ChatGPT for Google Sheets Exfiltrates Entire Workbooks via Indirect Prompt Injection",
-        "Backpressure Is All You Need — A 7-Layer Automated Validation Framework for Autonomous AI Coding Agents",
-        "Anthropic Launches Claude Design — AI-Native Visual Prototyping Tool That Reads Your Codebase and Design System"
       ]
     }
   ]

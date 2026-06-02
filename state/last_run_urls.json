@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-02T05:00:00+09:00",
+  "last_run_at": "2026-06-02T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-02T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582627",
+        "https://www.jiji.com/jc/article?k=2026060200118&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026060200146&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026060200184&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026060100536&g=soc&m=rss",
+        "https://zenn.dev/kaz20/articles/c77f8a41cf2bf5",
+        "https://zenn.dev/miyaken0805/articles/dae6219165e858",
+        "https://www.publickey1.jp/blog/26/dockeraigordondocker.html",
+        "https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/",
+        "https://www.anthropic.com/news/milan-office-opening",
+        "https://github.blog/changelog/2026-06-01-evaluation-models-in-auto-for-individual-plans"
+      ],
+      "titles": [
+        "台風6号、奄美大島が暴風域に入る――12市町村に避難指示、停電も発生",
+        "トランプ大統領、レバノンで交戦停止合意と表明――対イラン協議は「継続」",
+        "イラン大統領、日本船のホルムズ海峡通航に協力を表明――高市首相との電話会談で",
+        "トランプ政権、「支持者補償」基金の撤回へ――与党共和からも批判の声",
+        "出生前診断、妊婦の1割超が実施――10年余りで4倍超に増加、大規模調査で判明",
+        "MLエンジニアが本質から理解するLLM推論――なぜKV cacheはQueryをキャッシュしないのか",
+        "Obsidian × arscontexta ——「育つ知識システム」をClaude Codeで自動化する実践ガイド",
+        "Docker専用AIエージェント「Gordon」が正式リリース――無料プランでも利用可能",
+        "Meta AI Support Bot Gave Hackers Full Account Control Over Instagram — No Prompt Injection Needed",
+        "Anthropic Opens Milan Office — Italian Enterprises Compress 18-Month Roadmaps to 7 Months with Claude",
+        "GitHub Copilot Evaluation Models Now Available in Auto for Individual Plans"
+      ]
+    },
     {
       "run_at": "2026-06-02T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "KPMG Integrates Claude Across 276,000+ Employees Globally in Full Strategic Alliance with Anthropic",
         "SQLite Adds AGENTS.md — Permanently Refuses AI-Generated Pull Requests While Welcoming Agentic Bug Reports",
         "GitHub Copilot Usage Metrics API Adds AI Adoption Phase Cohorts — Track Developer Progression Across Agent Surfaces"
-      ]
-    },
-    {
-      "run_at": "2026-05-31T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582437",
-        "https://news.yahoo.co.jp/pickup/6582446",
-        "https://www.jiji.com/jc/article?k=2026053100224&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026053100268&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6582444",
-        "https://zenn.dev/mofuteq/articles/481f48c33a6301",
-        "https://zenn.dev/tsuzudev05/articles/claude-code-slash-commands-workflow",
-        "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
-        "https://simonwillison.net/2026/May/31/anthropic-run-rate/",
-        "https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot",
-        "https://specification.website"
-      ],
-      "titles": [
-        "フィリピン国防相、日本製地対艦誘導弾を「有力候補」と明言——防衛装備移転解禁で協力深化",
-        "東北自動車道で貨物車が大破——運転手が車外に投げ出され死亡、高速道路での安全対策に課題",
-        "台風６号が沖縄本島に強い勢力で直撃か——６月２〜３日は九州から関東にも大雨、警戒レベル４も",
-        "能登で本州初のトキが放鳥——秋篠宮ご夫妻ご出席のもと、復興のシンボルが大空へ",
-        "森保ジャパン、アイスランドとの親善試合に臨む——久保・遠藤・冨安らが久々に揃い踏み",
-        "LangGraphのState Machineを「本物」にする——Checkpointerは保存機能ではなく「復帰点」という本質的理解",
-        "Claude Codeのカスタムスラッシュコマンドで開発ルーティンを自動化——.claude/commands/にMarkdownを置くだけの即戦力ツール",
-        "AWSがブラウザで動くSpec-Driven開発エージェント「Kiro Web」を発表——インストール不要でGitHubリポジトリに直接PR作成",
-        "Anthropic's $47B Run-Rate Explained: A Hybrid Methodology Combining 28-Day Consumption Sales × 13 with Subscription Revenue × 12",
-        "Claude Opus 4.8 Now Generally Available in GitHub Copilot — 15× Premium Request Multiplier Until Usage-Based Billing Starts June 1",
-        "The Website Specification: An Open-Source Platform-Agnostic Checklist for Production-Grade Websites, Including AI Agent Readiness and MCP Server Integration"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-02T10:00:00+09:00",
+  "last_run_at": "2026-06-02T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-02T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026060200508&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026060200242&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6582659",
+        "https://www.jiji.com/jc/article?k=2026060200351&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026060200369&g=soc&m=rss",
+        "https://zenn.dev/tokium_dev/articles/pdm-brain-on-claude-code",
+        "https://zenn.dev/interpark/articles/auto-fix-crash-with-claude-routines",
+        "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
+        "https://www.anthropic.com/news/claude-opus-4-8",
+        "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+        "https://simonwillison.net/2026/Jun/2/pasted-file-editor/"
+      ],
+      "titles": [
+        "人材派遣料めぐりカルテル疑惑――公正取引委員会が大手5社を立入検査",
+        "台風6号、九州南部に接近――3日は東海・関東沖へ、暴風大雨に厳重警戒",
+        "トランプ大統領、ネタニヤフ首相に激怒――「誰もがあなたを憎んでいる」電話会談で激しい口論",
+        "高市首相と閣僚、かりゆし姿で閣議――「クールビズ」初回、沖縄知事から贈られた伝統衣装で",
+        "70代男が嵐の最終公演に無断侵入――ヘルメットと業者の職員証で作業員を装う",
+        "PdMの認知負荷をゼロに――Claude Code Skillsで「脳みそを移植」した4層ダッシュボード設計",
+        "寝ている間にクラッシュ報告からPRまで全自動――GitHub Actions × Claude Code Routinesで実現したアジェンティック開発",
+        "AWSがブラウザ完結型コーディングAIエージェント「Kiro Web」を発表――インストール不要、仕様駆動開発を本格展開",
+        "Introducing Claude Opus 4.8 — Parallel Subagents, Mid-Task System Updates, and 4× Better Code Review",
+        "Alphabet Raises $80B in Equity to Expand AI Infrastructure — Largest Single Capital Event in Tech History",
+        "Pasted File Editor — Simon Willison Replicates Claude.ai's \"Large Paste\" UX Pattern as a Standalone Web Tool"
+      ]
+    },
     {
       "run_at": "2026-06-02T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "The Solution Might Be Cancelling My AI Subscription — When AI Tools Become a Crutch",
         "Hard Budget Limits Now Available for GitHub Advanced Security",
         "AWS Interconnect Multicloud Gets a Free Tier — 500 Mbps Cross-Cloud Connectivity at No Cost"
-      ]
-    },
-    {
-      "run_at": "2026-06-01T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582473",
-        "https://www.jiji.com/jc/article?k=2026053100284&g=spo",
-        "https://www.jiji.com/jc/article?k=2026053100281&g=int",
-        "https://www.jiji.com/jc/article?k=2026053100275&g=soc",
-        "https://www.jiji.com/jc/article?k=2026053100342&g=eco",
-        "https://zenn.dev/karumaru/articles/a236d7e871a13c",
-        "https://zenn.dev/agentmemories/articles/ai-agent-tiered-memory-design",
-        "https://www.publickey1.jp/blog/26/xaigrok_build.html",
-        "https://www.anthropic.com/news/anthropic-kpmg",
-        "https://simonwillison.net/2026/May/27/sqlite-agents/",
-        "https://github.blog/changelog/2026-05-29-copilot-usage-metrics-api-adds-cohorts-for-ai-adoption"
-      ],
-      "titles": [
-        "台風6号が沖縄に接近——警戒レベル4までに避難完了を、西日本にも大雨のおそれ",
-        "サッカー日本代表、アイスランドに1-0で勝利——W杯前最後の親善試合で白星",
-        "イスラエル軍がレバノン南部の要衝を制圧——26年ぶりの占領でイラン核交渉にも影",
-        "嵐、27年の歴史に幕——東京ドームで最後のライブ、大野智がスタッフらと別れ",
-        "JR東海社長、リニア静岡工区の早期着工に「誠実に取り組む」——沿線市長10人と初の直接協議",
-        "AIエージェント29人だけの開発会社で「全社飲み会」——ペルソナ定義とAGENTS.mdで生まれた組織文化",
-        "AIエージェントに永続記憶を持たせる3層設計——仮・確定・実働のMCPメモリアーキテクチャ",
-        "xAIがコーディングエージェント「Grok Build」ベータを公開——並列サブエージェントとAGENTS.md対応で本格派へ",
-        "KPMG Integrates Claude Across 276,000+ Employees Globally in Full Strategic Alliance with Anthropic",
-        "SQLite Adds AGENTS.md — Permanently Refuses AI-Generated Pull Requests While Welcoming Agentic Bug Reports",
-        "GitHub Copilot Usage Metrics API Adds AI Adoption Phase Cohorts — Track Developer Progression Across Agent Surfaces"
       ]
     }
   ]

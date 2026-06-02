@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-02T15:00:00+09:00",
+  "last_run_at": "2026-06-02T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-02T20:00:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/na-k10015138281000",
+        "https://news.web.nhk/newsweb/na/na-k10015137911000",
+        "https://www.jiji.com/jc/article?k=2026060200626&g=int&m=rss",
+        "https://news.web.nhk/newsweb/na/na-k10015138301000",
+        "https://news.web.nhk/newsweb/na/na-k10015138211000",
+        "https://zenn.dev/correlate_dev/articles/claude-code-slash-commands",
+        "https://zenn.dev/knowledgesense/articles/2cfbefa6926f40",
+        "https://zenn.dev/xtm_blog/articles/agent-harness-layered-map",
+        "https://www.itmedia.co.jp/aiplus/article/2606/02/2000000045/",
+        "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+        "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
+      ],
+      "titles": [
+        "東京電力 福島第一原発2号機 燃料プールの核燃料取り出し開始",
+        "株価 値下がり きのう最高値更新で利益確定の売りも",
+        "農業機械、関税15％に下げ 日本の特例明記、8日適用―米大統領",
+        "糖尿病治療薬 \"ダイエット目的の使用 健康被害のおそれ\"",
+        "歌手の菅原洋一さん死去 92歳 「知りたくないの」などヒット曲",
+        "Claude Code カスタムスラッシュコマンド実装ガイド ─ 繰り返し作業を1コマンドで自動化",
+        "大量のスキルでAgentの精度を上げる方法",
+        "AIエージェント基盤のアーキテクチャを10層で整理する：OSS/SDK比較のための地図",
+        "SBI Group partners with Anthropic to deploy Claude across its workforce, jointly validate Claude Security",
+        "OpenAI frontier models and Codex are now available on AWS",
+        "AI Agent Guidelines for CS336 at Stanford"
+      ]
+    },
     {
       "run_at": "2026-06-02T15:00:00+09:00",
       "urls": [

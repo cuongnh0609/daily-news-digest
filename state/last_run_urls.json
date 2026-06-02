@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-02T20:00:00+09:00",
+  "last_run_at": "2026-06-03T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-03T00:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/articles/2606/02/news128.html",
+        "https://news.yahoo.co.jp/articles/53462983e3f20b3d5294e9cbe6327ff990773337",
+        "https://news.yahoo.co.jp/articles/c805d56492214e451312a6b47129e0ec9401f281",
+        "https://www.itmedia.co.jp/news/articles/2606/02/news073.html",
+        "https://www.jiji.com/jc/article?k=2026060201038&g=int&m=rss",
+        "https://zenn.dev/ichigoe/articles/39ed922d19c9bb",
+        "https://zenn.dev/nishiken_zenn/articles/why-stopping-coding-for-ai-ja",
+        "https://www.publickey1.jp/blog/26/googleantigravity_20osdoom.html",
+        "https://www.anthropic.com/news/expanding-project-glasswing",
+        "https://www.publickey1.jp/blog/26/xaigrok_build.html",
+        "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai"
+      ],
+      "titles": [
+        "JAXAがIHIエアロスペースを5か月間の指名停止処分――不正な契約管理で取引停止へ",
+        "福島市の工場にクマが侵入――従業員ら4人が負傷、逃走中",
+        "新たな台風の卵が発生か――6月4日頃に台湾南西海上で熱帯低気圧が形成の見通し",
+        "メルカリ、CHROとCAIOを一体化――AIと人事を統合した新経営体制を発表",
+        "独ケルン大聖堂、7月から入場料を導入――物価高騰で約2,200円の観覧料を徴収へ",
+        "「前回→今回→次回」をつなぐDecision Loop――Azure OpenAI × GPT-4oで会議の意思決定を状態管理する",
+        "僕がAIにコーディングをさせなくなった理由（2026年5月版）――学習効果・即答力・レビュー負荷の三重苦",
+        "Google「Antigravity 2.0」発表――93エージェント並列でOS構築・Doom起動、12時間で1,000ドル未満",
+        "Anthropic Expands Project Glasswing to 150 New Organizations — 10,000+ Critical Vulnerabilities Found",
+        "xAI Launches Grok Build Beta — Coding Agent with Parallel Sub-agents, AGENTS.md, and Headless Mode",
+        "Can the Stockmarket Swallow Anthropic, SpaceX, and OpenAI? — The $965B IPO Question"
+      ]
+    },
     {
       "run_at": "2026-06-02T20:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "ChatGPT for Google Sheets Exfiltrates Entire Workbooks via Indirect Prompt Injection",
         "Backpressure Is All You Need — A 7-Layer Automated Validation Framework for Autonomous AI Coding Agents",
         "Anthropic Launches Claude Design — AI-Native Visual Prototyping Tool That Reads Your Codebase and Design System"
-      ]
-    },
-    {
-      "run_at": "2026-06-01T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582513",
-        "https://www.jiji.com/jc/article?k=2026060100143&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026060100144&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026060100160&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026053100177&g=pol&m=rss",
-        "https://zenn.dev/yamadatt/articles/20260531-aws-waf-log-analysis-claude-skill",
-        "https://zenn.dev/jagaimo_poteto/articles/aa2aca6b25e3d5",
-        "https://zenn.dev/kobao/articles/64a72dc0167ca3",
-        "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-        "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
-        "https://github.blog/changelog/2026-05-28-codeql-2-25-5-improves-query-accuracy-for-github-actions"
-      ],
-      "titles": [
-        "日経平均株価、一時6万7000円台を突破――史上初の大台",
-        "台風6号、沖縄・奄美で暴風大雨の厳重警戒――東・西日本にも大雨のおそれ",
-        "イラン、米国の核合意案を修正要求――「核権利の確保」を主張し交渉継続へ",
-        "スーダンで民間人へのドローン攻撃――67人が死亡、国際社会が非難",
-        "中立公に「新・新党」構想が浮上――有力労組が合流に前向き、参院選前に政界再編の動き",
-        "AWS WAFのログ分析をAgent Skillに集約——5世代の進化で実現したトークン効率の高い自動セキュリティ解析",
-        "会議で「言いにくいこと」をAIに代弁させる——9エージェント並列監視の会議ファシリテーター「Helmsman」",
-        "Claude Codeに株・仮想通貨botを300個作らせてわかったこと——AIで量産しても「選ぶ眼」は人間が担う",
-        "Cloudflare Turnstile Forces WebGL Fingerprinting — Privacy Browsers Treated as Bots",
-        "Anthropic Opens Seoul Office, Appoints KiYoung Choi as Korea Representative Director",
-        "CodeQL 2.25.5 Extends GitHub Actions Security Coverage — New Sinks for Python, Go, and Composite Actions"
-      ]
-    },
-    {
-      "run_at": "2026-06-01T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026053100322&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6582480",
-        "https://www.jiji.com/jc/article?k=2026053100254&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026053100174&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026053100340&g=int&m=rss",
-        "https://zenn.dev/miyan/articles/claude-code-cve-supply-chain-risk-2026",
-        "https://zenn.dev/sin9_ha/books/claude-code-real-saas",
-        "https://www.publickey1.jp/blog/26/google_cloudpostgresqlalloydb.html",
-        "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/",
-        "https://github.blog/changelog/2026-05-28-hard-budget-limits-now-available-for-github-advanced-security",
-        "https://www.publickey1.jp/blog/26/aws500mbpsaws_interconnect_-_multicloud.html"
-      ],
-      "titles": [
-        "新潟知事に花角氏３選　２新人破る",
-        "1票差で町長選当選 新潟・田上町",
-        "地対艦ミサイルの輸出協議へ　日比防衛相、護衛艦の「速やかな移転」合意",
-        "トランプ氏、覚書の修正要求　イランも強硬、交渉継続へ―米メディア",
-        "ウクライナ原発にドローン　「壁に穴」とロシア主張",
-        "Claude Code に見つかった2つの脆弱性から学ぶ、AIコーディングツールのサプライチェーンリスク",
-        "Claude Code で 1人 SaaS 開発 — 要求駆動 × セッション分離運用",
-        "Google Cloud、高速にフェイルオーバー可能なPostgreSQL互換AlloyDBの新たなホットスタンバイを提供",
-        "The Solution Might Be Cancelling My AI Subscription — When AI Tools Become a Crutch",
-        "Hard Budget Limits Now Available for GitHub Advanced Security",
-        "AWS Interconnect Multicloud Gets a Free Tier — 500 Mbps Cross-Cloud Connectivity at No Cost"
       ]
     }
   ]

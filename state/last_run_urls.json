@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-04T00:00:00+09:00",
+  "last_run_at": "2026-06-04T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-04T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582856",
+        "https://news.yahoo.co.jp/pickup/6582848",
+        "https://news.yahoo.co.jp/pickup/6582843",
+        "https://news.yahoo.co.jp/pickup/6582851",
+        "https://www.itmedia.co.jp/news/articles/2606/03/news072.html",
+        "https://zenn.dev/tokium_dev/articles/pdm-brain-on-claude-code",
+        "https://zenn.dev/manalink_dev/articles/coding-agent-with-syntax-tree-analyze",
+        "https://www.itmedia.co.jp/aiplus/article/2606/03/2000000050/",
+        "https://www.anthropic.com/news/services-track-partner-hub",
+        "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+        "https://github.blog/changelog/2026-06-03-github-copilot-in-visual-studio-code-may-releases"
+      ],
+      "titles": [
+        "「トクリュウ」公開手配の28歳男を逮捕――大阪南部で約60台のスマホ窃盗に関与か",
+        "高市首相、マスコミとの対話回避を国会で追及――「試行錯誤したい」と答弁",
+        "京都で米国籍の20歳男性が行方不明――5月29日夕方から連絡が取れず、警察が捜索",
+        "重篤な不整脈の2歳男児、ジェット機搬送で静岡へ――専門医の執刀で難手術が成功",
+        "気象庁の線状降水帯情報システムに不具合――台風6号接近中に発表できない事態が発生",
+        "PdMの思考プロセスをClaude Codeに移植する――4層構造の外部記憶システムで認知負荷を半減",
+        "Claude Code向け「コード臭検出器」をAST解析で自作してHooksに組み込む――AIが自律修正するレビュー基盤",
+        "マイクロソフト、初の自社推論モデル「MAI-Thinking-1」発表――蒸留ゼロからの自社学習、SWE-bench ProでClaude Opus相当",
+        "Anthropic Launches Claude Partner Network Services Track & Partner Hub — Three-Tier Certification System for Enterprise AI Deployment",
+        "Google Releases Gemma 4 12B — Encoder-Free Multimodal Model with Native Audio, Runs Locally on 16GB RAM",
+        "GitHub Copilot for VS Code May Releases — Agents Window GA, Parallel Sessions, BYOK in Air-Gapped Envs, and Terminal Safety AI"
+      ]
+    },
     {
       "run_at": "2026-06-04T00:00:00+09:00",
       "urls": [

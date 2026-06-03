@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-03T05:00:00+09:00",
+  "last_run_at": "2026-06-03T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-03T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026060300159&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6582734",
+        "https://www.jiji.com/jc/article?k=2026060200967&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6582748",
+        "https://www.jiji.com/jc/article?k=2026060201007&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/03/news068.html",
+        "https://www.itmedia.co.jp/news/articles/2606/03/news066.html",
+        "https://zenn.dev/rakko_inc/articles/claude-design-company-deck",
+        "https://microsoft.ai/news/introducingmai-code-1-flash/",
+        "https://github.blog/changelog/2026-06-02-extend-github-with-agent-apps",
+        "https://github.blog/changelog/2026-06-02-cloud-and-local-sandboxes-for-github-copilot-now-in-public-preview"
+      ],
+      "titles": [
+        "台風6号が和歌山県南部に上陸――古座川に氾濫特別警報、東海・関東も厳重警戒",
+        "日銀、政策金利を1%に引き上げる追加利上げを本格検討――物価上振れリスクに対応",
+        "食料品の消費税減税、1%案を与党内で容認論――高市首相の「ゼロ公約」は後退か",
+        "皇族数確保に向け旧宮家からの養子縁組、対象は「15歳以上の男子」に限定する方針",
+        "自民行革本部、完全自動運転の早期実現を明確化するよう政府に提言――AIとドローンも推進",
+        "トランプ大統領、AI安全保障に関する大統領令に署名――新モデルはNSA審査が必要に",
+        "マイクロソフト、AIエージェント向けAndroidベースプラットフォーム「Project Solara」を発表",
+        "スライド制作にClaude Designを使うべき理由――数日かかる作業が1時間に短縮",
+        "Microsoft Launches MAI-Code-1-Flash: A Coding-Optimized Model That Outperforms Claude Haiku 4.5 on SWE-Bench",
+        "GitHub Launches Agent Apps — Third-Party AI Agents Now Installable Directly into GitHub Workflows",
+        "GitHub Copilot Cloud and Local Sandboxes Now in Public Preview — Isolated Execution for Agentic Coding"
+      ]
+    },
     {
       "run_at": "2026-06-03T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Closes $65B Series H at $965B Valuation — Backed by Amazon, Google, and Leading VCs",
         "NVIDIA Cosmos 3: Unified Foundation Model for Physical AI with World Simulation and Action Modeling",
         "Simon Willison's May 2026 Report: AI Got Expensive, Models Are Plateauing, and Datasette Agent Ships"
-      ]
-    },
-    {
-      "run_at": "2026-06-01T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582584",
-        "https://news.yahoo.co.jp/pickup/6582578",
-        "https://www.jiji.com/jc/article?k=2026060100669&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6582582",
-        "https://www.itmedia.co.jp/news/articles/2606/01/news072.html",
-        "https://zenn.dev/d0ne1s/articles/9422407b652a48",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news016.html",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news037.html",
-        "https://prismml.com/news/bonsai-image-4b",
-        "https://www.itmedia.co.jp/news/articles/2606/01/news098.html",
-        "https://spectrum.ieee.org/ai-video-games-llms-togelius"
-      ],
-      "titles": [
-        "台風6号、3日昼に関東甲信へ最接近――通勤・通学時間帯に暴風雨の恐れ",
-        "トランプ大統領の個人口座で大量証券売買――政府倫理局が公開、政治的波紋広がる",
-        "国旗損壊罪、今国会提出へ――自民PT了承、表現の自由をめぐり議論白熱",
-        "笹正宗酒造の酒蔵・倉庫がほぼ全焼――福島・喜多方の老舗、登録有形文化財の蔵も被害",
-        "ソフトバンクGの時価総額が国内首位に――47兆円でトヨタを超え、AI投資が評価",
-        "2026年6月時点でBestな開発環境を本気で考えた――GPT-3.5以降3年半の変遷と「polepole」誕生",
-        "「ハーネス」って結局何？――Hugging FaceがAIエージェント13用語を体系的に整理",
-        "「12.5人月→2.0人月」を実現したAI駆動VB.NET移行――DevinとC-chatSupportの組み合わせが開発期間を81%短縮",
-        "Bonsai Image 4B: 1-Bit Image Generation Model Runs on iPhone — 8.3× Compressed FLUX.2 Klein",
-        "Microsoft Surface Laptop Ultra with NVIDIA RTX Spark — 128GB Unified Memory, Local AI at 1,200-Param Models",
-        "Why Are LLMs Still Terrible at Video Games? — Spatial Reasoning Gap Persists Despite Coding Breakthroughs"
       ]
     }
   ]

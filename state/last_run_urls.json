@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-03T15:08:00+09:00",
+  "last_run_at": "2026-06-03T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-03T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026060300141&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026060300972&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/03/news114.html",
+        "https://www.itmedia.co.jp/news/articles/2606/03/news120.html",
+        "https://www.itmedia.co.jp/news/articles/2606/03/news124.html",
+        "https://www.itmedia.co.jp/aiplus/article/2606/03/2000000051/",
+        "https://www.itmedia.co.jp/news/articles/2606/03/news074.html",
+        "https://www.publickey1.jp/blog/26/windowslinuxwsl_containers.html",
+        "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+        "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/",
+        "https://github.blog/changelog/2026-06-02-github-copilot-code-review-for-azure-repos-is-now-in-technical-preview"
+      ],
+      "titles": [
+        "食品消費税「来春1%」有力に――レジ改修が6か月以内に可能と試算",
+        "参院憲法審、自民「議員任期延長は必要」――立民は反対、緊急条項めぐり対立",
+        "CAMPFIREで2250万件の個人情報が漏洩――GitHub認証情報の悪用でクラウドに不正アクセス",
+        "キオクシアの時価総額が一時トヨタを超える――AI・半導体需要で上場から1年半で50倍超",
+        "GitHub Copilotの新料金体系に不満噴出――「使い物にならない」との声、他ツールへの移行表明も",
+        "Amazon BedrockでGPT-5.5が利用可能に――OpenAIモデルがAWS経由で解禁、ただし日本リージョンは未定",
+        "Microsoft、AIエージェント向け分離実行環境「Microsoft Execution Containers (MXC)」を発表――OpenClaw攻撃フレームワークにも対応",
+        "MicrosoftがWSL containersを発表――Windows上でLinuxコンテナをネイティブに作成・実行可能に",
+        "Anthropic Maps a Year of AI-Enabled Cyber Threats — Autonomous Attack Chains Expose Gaps in MITRE ATT&CK",
+        "datasette-agent-micropython: Safe Python Execution for AI Agents via MicroPython in WebAssembly Sandbox",
+        "GitHub Copilot Code Review Comes to Azure Repos — AI-Powered PR Review Without Leaving Azure DevOps"
+      ]
+    },
     {
       "run_at": "2026-06-03T15:08:00+09:00",
       "urls": [

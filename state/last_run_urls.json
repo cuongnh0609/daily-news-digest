@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-04T15:00:00+09:00",
+  "last_run_at": "2026-06-04T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-04T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582950",
+        "https://news.yahoo.co.jp/pickup/6582940",
+        "https://www.itmedia.co.jp/news/",
+        "https://www.itmedia.co.jp/news/",
+        "https://www.itmedia.co.jp/news/",
+        "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000057/",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2606/04/news042.html",
+        "https://www.itmedia.co.jp/aiplus/",
+        "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+        "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+        "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground"
+      ],
+      "titles": [
+        "今年度補正予算案が衆議院を通過――総額3兆1000億円、食料品減税も焦点に",
+        "出生数最低を受け高市首相「非常に厳しい」――少子化対策の強化を表明",
+        "GMOペイメントゲートウェイで決済障害――デリバリーサービス等に影響、約1時間で復旧",
+        "藤田医科大学病院でサイバー攻撃による患者情報1,365件の漏洩が判明",
+        "NTTと三菱マテリアルがIT機器リサイクル合弁会社「NTTサーキュキャスト」を7月設立へ",
+        "WindsurfがDevin Desktopに刷新――ClaudeもCodexも一元管理するマルチエージェントIDEへ",
+        "Google Chrome新機能「Skills」でAIプロンプトを「スキル」として保存・再利用可能に",
+        "オートデスクがAssistantにMCP統合を実装――FusionをAIエージェントから直接制御可能に",
+        "I Built a Vulnerable App and Spent $1,500 Testing Whether LLMs Could Hack It",
+        "Failing Grades Soar at UC Berkeley as Professors Report AI Dependency and Dwindling Math Skills",
+        "Mathematicians Issue Warning as AI Rapidly Gains Ground — \"Mathematics Is More Than Producing Correct Answers\""
+      ]
+    },
     {
       "run_at": "2026-06-04T15:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "GitHub Copilot CLI Gets Rubber Duck, Prompt Scheduling, and Voice Input — The Terminal Finally Thinks With You",
         "OpenAI Codex 'Sites' Turns AI Code Output into Shareable Hosted Web Apps — 500K+ Weekly Users, Non-Devs Adopting at 3×",
         "1-Click GitHub Token Theft via VSCode Bug — Malicious Jupyter Notebook Silently Installs Extension, Exfiltrates All Private Repo Access"
-      ]
-    },
-    {
-      "run_at": "2026-06-03T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026060300159&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6582734",
-        "https://www.jiji.com/jc/article?k=2026060200967&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6582748",
-        "https://www.jiji.com/jc/article?k=2026060201007&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/03/news068.html",
-        "https://www.itmedia.co.jp/news/articles/2606/03/news066.html",
-        "https://zenn.dev/rakko_inc/articles/claude-design-company-deck",
-        "https://microsoft.ai/news/introducingmai-code-1-flash/",
-        "https://github.blog/changelog/2026-06-02-extend-github-with-agent-apps",
-        "https://github.blog/changelog/2026-06-02-cloud-and-local-sandboxes-for-github-copilot-now-in-public-preview"
-      ],
-      "titles": [
-        "台風6号が和歌山県南部に上陸――古座川に氾濫特別警報、東海・関東も厳重警戒",
-        "日銀、政策金利を1%に引き上げる追加利上げを本格検討――物価上振れリスクに対応",
-        "食料品の消費税減税、1%案を与党内で容認論――高市首相の「ゼロ公約」は後退か",
-        "皇族数確保に向け旧宮家からの養子縁組、対象は「15歳以上の男子」に限定する方針",
-        "自民行革本部、完全自動運転の早期実現を明確化するよう政府に提言――AIとドローンも推進",
-        "トランプ大統領、AI安全保障に関する大統領令に署名――新モデルはNSA審査が必要に",
-        "マイクロソフト、AIエージェント向けAndroidベースプラットフォーム「Project Solara」を発表",
-        "スライド制作にClaude Designを使うべき理由――数日かかる作業が1時間に短縮",
-        "Microsoft Launches MAI-Code-1-Flash: A Coding-Optimized Model That Outperforms Claude Haiku 4.5 on SWE-Bench",
-        "GitHub Launches Agent Apps — Third-Party AI Agents Now Installable Directly into GitHub Workflows",
-        "GitHub Copilot Cloud and Local Sandboxes Now in Public Preview — Isolated Execution for Agentic Coding"
-      ]
-    },
-    {
-      "run_at": "2026-06-03T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582723",
-        "https://www.jiji.com/jc/article?k=2026060201030&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026060100238&g=flash&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/02/news123.html",
-        "https://www.itmedia.co.jp/news/articles/2606/02/news063.html",
-        "https://zenn.dev/aws_japan/articles/2026-06-01-bedrock-japanese-eval",
-        "https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html",
-        "https://www.itmedia.co.jp/aiplus/article/2606/02/2000000047/",
-        "https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available",
-        "https://github.blog/changelog/2026-06-02-expanded-technical-preview-availability-for-the-github-copilot-app",
-        "https://research.perplexity.ai/articles/rethinking-search-as-code-generation"
-      ],
-      "titles": [
-        "台風6号の影響で東京など広範囲に線状降水帯の恐れ――各地で厳重な警戒を呼びかけ",
-        "神奈川の海岸で男女4人の遺体を発見――警察が身元確認と事件性の有無を捜査中",
-        "日経平均株価が初めて6万7000円台に到達――AI・半導体関連株の上昇が牽引",
-        "JR東日本、英国・ヒースロー空港などで自販機事業を拡大――運営規模は1800台に",
-        "米フロリダ州、OpenAIとアルトマン氏を提訴――ChatGPTを「未成年者を危険にさらす製品」と非難",
-        "Amazon Bedrock経由で使えるLLMの日本語ベンチマーク性能を徹底比較――Claude・GPT・Geminiの実力は",
-        "マイクロソフト、AIエージェント向け分離実行環境「Microsoft Execution Containers（MXC）」を発表――Build 2026",
-        "三菱重工とPreferred Networks、国産AI技術を共同開発――防衛・産業分野での社会実装を目指す",
-        "GitHub Copilot SDK Is Now Generally Available — Embed Copilot's Agentic Engine in Your Own Apps",
-        "GitHub Copilot App Goes Wide with Canvases, Voice, Cloud Sessions — The Desktop Home for Agent-Native Dev",
-        "Rethinking Search as Code Generation — Perplexity Research Proposes a New Retrieval Paradigm"
-      ]
-    },
-    {
-      "run_at": "2026-06-03T00:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/articles/2606/02/news128.html",
-        "https://news.yahoo.co.jp/articles/53462983e3f20b3d5294e9cbe6327ff990773337",
-        "https://news.yahoo.co.jp/articles/c805d56492214e451312a6b47129e0ec9401f281",
-        "https://www.itmedia.co.jp/news/articles/2606/02/news073.html",
-        "https://www.jiji.com/jc/article?k=2026060201038&g=int&m=rss",
-        "https://zenn.dev/ichigoe/articles/39ed922d19c9bb",
-        "https://zenn.dev/nishiken_zenn/articles/why-stopping-coding-for-ai-ja",
-        "https://www.publickey1.jp/blog/26/googleantigravity_20osdoom.html",
-        "https://www.anthropic.com/news/expanding-project-glasswing",
-        "https://www.publickey1.jp/blog/26/xaigrok_build.html",
-        "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai"
-      ],
-      "titles": [
-        "JAXAがIHIエアロスペースを5か月間の指名停止処分――不正な契約管理で取引停止へ",
-        "福島市の工場にクマが侵入――従業員ら4人が負傷、逃走中",
-        "新たな台風の卵が発生か――6月4日頃に台湾南西海上で熱帯低気圧が形成の見通し",
-        "メルカリ、CHROとCAIOを一体化――AIと人事を統合した新経営体制を発表",
-        "独ケルン大聖堂、7月から入場料を導入――物価高騰で約2,200円の観覧料を徴収へ",
-        "「前回→今回→次回」をつなぐDecision Loop――Azure OpenAI × GPT-4oで会議の意思決定を状態管理する",
-        "僕がAIにコーディングをさせなくなった理由（2026年5月版）――学習効果・即答力・レビュー負荷の三重苦",
-        "Google「Antigravity 2.0」発表――93エージェント並列でOS構築・Doom起動、12時間で1,000ドル未満",
-        "Anthropic Expands Project Glasswing to 150 New Organizations — 10,000+ Critical Vulnerabilities Found",
-        "xAI Launches Grok Build Beta — Coding Agent with Parallel Sub-agents, AGENTS.md, and Headless Mode",
-        "Can the Stockmarket Swallow Anthropic, SpaceX, and OpenAI? — The $965B IPO Question"
-      ]
-    },
-    {
-      "run_at": "2026-06-02T20:00:00+09:00",
-      "urls": [
-        "https://news.web.nhk/newsweb/na/na-k10015138281000",
-        "https://news.web.nhk/newsweb/na/na-k10015137911000",
-        "https://www.jiji.com/jc/article?k=2026060200626&g=int&m=rss",
-        "https://news.web.nhk/newsweb/na/na-k10015138301000",
-        "https://news.web.nhk/newsweb/na/na-k10015138211000",
-        "https://zenn.dev/correlate_dev/articles/claude-code-slash-commands",
-        "https://zenn.dev/knowledgesense/articles/2cfbefa6926f40",
-        "https://zenn.dev/xtm_blog/articles/agent-harness-layered-map",
-        "https://www.itmedia.co.jp/aiplus/article/2606/02/2000000045/",
-        "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-        "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
-      ],
-      "titles": [
-        "東京電力 福島第一原発2号機 燃料プールの核燃料取り出し開始",
-        "株価 値下がり きのう最高値更新で利益確定の売りも",
-        "農業機械、関税15％に下げ 日本の特例明記、8日適用―米大統領",
-        "糖尿病治療薬 \"ダイエット目的の使用 健康被害のおそれ\"",
-        "歌手の菅原洋一さん死去 92歳 「知りたくないの」などヒット曲",
-        "Claude Code カスタムスラッシュコマンド実装ガイド ─ 繰り返し作業を1コマンドで自動化",
-        "大量のスキルでAgentの精度を上げる方法",
-        "AIエージェント基盤のアーキテクチャを10層で整理する：OSS/SDK比較のための地図",
-        "SBI Group partners with Anthropic to deploy Claude across its workforce, jointly validate Claude Security",
-        "OpenAI frontier models and Codex are now available on AWS",
-        "AI Agent Guidelines for CS336 at Stanford"
       ]
     }
   ]

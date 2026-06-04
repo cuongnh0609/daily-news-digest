@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-04T20:00:00+09:00",
+  "last_run_at": "2026-06-05T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-05T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/",
+        "https://news.yahoo.co.jp/",
+        "https://www.jiji.com/",
+        "https://news.yahoo.co.jp/",
+        "https://www.jiji.com/",
+        "https://zenn.dev/layerx/articles/3febbbc24e55a3",
+        "https://zenn.dev/hironakamura_ai/articles/b0c5e03d8519e8",
+        "https://zenn.dev/aos_standard/articles/4b05460fd4cf3b",
+        "https://www.langchain.com/blog/",
+        "https://the-decoder.com/openai-ceo-sam-altman-sees-proactive-ai-as-the-next-big-phase-after-chatbots-and-agents/",
+        "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini"
+      ],
+      "titles": [
+        "衆院比例代表の定数45削減を首相が指示――選挙制度改革が本格化",
+        "消費税減税に向けて外食業界などへの補助金制度を検討――政府が緩和策を模索",
+        "PayPayが生命保険市場に参入――T&D子会社を1300億円で買収し金融事業を拡大",
+        "DeNAが7点差から大逆転サヨナラ勝利――プロ野球ペナントレースで劇的展開",
+        "ウクライナのEU加盟交渉が前進――ハンガリーが反対姿勢を転換し交渉再開へ",
+        "Claude Code × Datadog MCP でSREエージェントの評価から改善まで一気通貫――LayerXの実践事例",
+        "エージェントのメモリはベクトル検索だけでは足りない――3つの設計転換点を論じたアーキテクチャ解説",
+        "AOS v0.2公開――本番で黙って止まる4パターンを「物理的制約」で防ぐAIエージェント運用仕様",
+        "Why Model Neutrality Matters More Than Cloud Neutrality — LangChain's Case for Provider-Agnostic Agent Stacks",
+        "Sam Altman: \"Proactive AI\" Is the Next Phase After Chatbots and Agents — Always-On Background Intelligence",
+        "Adding MCP Tools to Reachy Mini — How Hugging Face Built a Three-Tier Robot Tool Architecture Using MCP"
+      ]
+    },
     {
       "run_at": "2026-06-04T20:00:00+09:00",
       "urls": [

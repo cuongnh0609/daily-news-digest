@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-05T00:00:00+09:00",
+  "last_run_at": "2026-06-05T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-05T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6582980",
+        "https://news.yahoo.co.jp/pickup/6582941",
+        "https://news.yahoo.co.jp/pickup/6582979",
+        "https://news.yahoo.co.jp/pickup/6582978",
+        "https://www.itmedia.co.jp/news/articles/2606/04/news119.html",
+        "https://zenn.dev/dinii/articles/d7be3acc43d868",
+        "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000058/",
+        "https://www.itmedia.co.jp/aiplus/article/2606/03/2000000049/",
+        "https://www.anthropic.com/institute/recursive-self-improvement",
+        "https://github.com/huawei-csl/KVarN",
+        "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
+      ],
+      "titles": [
+        "飲食料品の消費税を1%に引き下げへ――外食・農水産業界への補助金支援も検討",
+        "不法就労の外国人を通報で1万円支給――茨城県の新制度に賛否両論",
+        "北海道千歳市で路上刺傷事件――外国人男性逮捕、女性1人が心肺停止",
+        "旭川女子高生転落死裁判――内田被告「殺意は共犯の女にあった」と主張",
+        "TSMC株主総会――AI需要を成長の柱と強調、東京エレクトロンとの取引継続を確認",
+        "Claude Managed Agentsで社内SlackをAIエージェント化――「まずエンジニアに聞こう」が「まずbotに聞こう」へ",
+        "東大松尾研・Anthropic・PKSHAが協業――日本のAI影響を可視化する「Japan AI Index」構築へ",
+        "MicrosoftがBuild 2026で「Scout」発表――OpenClawベースのMCP対応自律エージェント",
+        "When AI Builds Itself: Anthropic Reports Claude Now Writes 80%+ of Its Own Production Code",
+        "KVarN: Native vLLM Backend for KV-Cache Quantization — 3–5× Capacity Gain at FP16 Accuracy",
+        "Ted Chiang: \"Artificial Intelligence Is Not Conscious\" — A Rigorous Philosophical Case Against Substrate Independence"
+      ]
+    },
     {
       "run_at": "2026-06-05T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Maps a Year of AI-Enabled Cyber Threats — Autonomous Attack Chains Expose Gaps in MITRE ATT&CK",
         "datasette-agent-micropython: Safe Python Execution for AI Agents via MicroPython in WebAssembly Sandbox",
         "GitHub Copilot Code Review Comes to Azure Repos — AI-Powered PR Review Without Leaving Azure DevOps"
-      ]
-    },
-    {
-      "run_at": "2026-06-03T15:08:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582783",
-        "https://news.yahoo.co.jp/pickup/6582782",
-        "https://news.yahoo.co.jp/pickup/6582773",
-        "https://news.yahoo.co.jp/pickup/6582769",
-        "https://www.itmedia.co.jp/news/articles/2606/03/news087.html",
-        "https://zenn.dev/yurukusa/articles/agentsmd-interop-5-paths-2026",
-        "https://zenn.dev/i_ichi/articles/openclaw-agent-vol2",
-        "https://www.publickey1.jp/blog/26/7aimicrosoft_ai_models.html",
-        "https://github.blog/changelog/2026-06-02-copilot-cli-improved-ui-rubber-duck-prompt-scheduling-and-voice-input/",
-        "https://www.itmedia.co.jp/news/articles/2606/03/news100.html",
-        "https://blog.ammaraskar.com/github-token-stealing/"
-      ],
-      "titles": [
-        "台風6号が太平洋側を直撃――各地で記録的な大雨、三重・東京に氾濫危険警報",
-        "2025年の出生数が67万人に――10年連続で過去最少、出生率は1.14と過去最低を更新",
-        "トランプ大統領、ネタニヤフ首相に激怒――レバノン攻撃めぐり電話会談で激しく非難",
-        "旭川17歳殺害裁判、被告が「刺していたと思う」と証言――故意性を否認しながらも殺意を示唆",
-        "Microsoftが次世代量子チップ「Majorana 2」を発表――商用量子コンピュータ実現を2029年に前倒し",
-        "Claude Code 最大の要望「AGENTS.md対応」——5,200超の reactions が示す痛みと今すぐ使える5つの回避策",
-        "【実録】同じ指示を2回出した日、AIがGCPを7万円分焼き尽くした——自律エージェント運用の失敗から学ぶ安全設計",
-        "MicrosoftがBuild 2026で自社開発7つのAIモデル「Microsoft AI Models」を発表――推論・コーディング・音声・画像を網羅",
-        "GitHub Copilot CLI Gets Rubber Duck, Prompt Scheduling, and Voice Input — The Terminal Finally Thinks With You",
-        "OpenAI Codex 'Sites' Turns AI Code Output into Shareable Hosted Web Apps — 500K+ Weekly Users, Non-Devs Adopting at 3×",
-        "1-Click GitHub Token Theft via VSCode Bug — Malicious Jupyter Notebook Silently Installs Extension, Exfiltrates All Private Repo Access"
       ]
     }
   ]

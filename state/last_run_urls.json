@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-04T10:09:00+09:00",
+  "last_run_at": "2026-06-04T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-04T15:00:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/na-k10015139631000",
+        "https://www.nikkei.com/article/DGXZQOUD02BRI0S6A600C2000000/",
+        "https://www.jiji.com/jc/article?k=2026060400216&g=soc",
+        "https://gorospace.com/baseball-2026-mlb-shohei-ohtani/",
+        "https://www.jiji.com/jc/article?k=2026060400241&g=int",
+        "https://www.anthropic.com/engineering/how-we-contain-claude",
+        "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
+        "https://zenn.dev/fitness_densuke/articles/2026-06-01-cloudflare-vs-aws-selection-guide",
+        "https://www.anthropic.com/engineering/how-we-contain-claude",
+        "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+        "https://letsencrypt.org/2026/06/03/pq-certs"
+      ],
+      "titles": [
+        "雲仙・普賢岳 大火砕流から35年――島原市で犠牲者を悼む追悼式典",
+        "佐賀県警のDNA鑑定不正が239件に拡大――警察庁の特別監査で新たな改ざんが発覚",
+        "兵庫・母娘殺傷事件の逃走容疑者、川で遺体として発見――42歳男性と確認",
+        "大谷翔平、防御率0.74・打率.301で二刀流の圧倒的存在感――規定投球回まであと7回",
+        "米下院、イラン軍事攻撃を制限する決議案を初めて可決――トランプ政権に対する歴史的な議会の制約",
+        "Anthropicエンジニアリングブログ：Claudeをプロダクト横断でどのように「封じ込める」か",
+        "AWS、ブラウザから使えるコーディングAIエージェント「Kiro Web」をプレビュー公開――spec-firstのautoモードを搭載",
+        "Cloudflareは「AWSの代わり」になるのか？――インフラ経験者のための技術選定ガイド",
+        "How Anthropic Contains Claude: Three Isolation Patterns, Real Red-Team Findings, and the Limits of Model-Layer Defense",
+        "Elixir v1.20: A Gradually Typed Language — Type Inference Across All Programs, Zero Annotations Required",
+        "Let's Encrypt Adopts Merkle Tree Certificates for Post-Quantum TLS — Smaller Handshakes Than Today's Web PKI"
+      ]
+    },
     {
       "run_at": "2026-06-04T10:09:00+09:00",
       "urls": [

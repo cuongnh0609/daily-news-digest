@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-06T00:00:00+09:00",
+  "last_run_at": "2026-06-06T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-06T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026060501065&g=soc",
+        "https://www.itmedia.co.jp/news/articles/2606/05/news096.html",
+        "https://www.jiji.com/jc/article?k=2026060501123&g=int",
+        "https://www.jiji.com/jc/article?k=2026060500910&g=int",
+        "https://www.nikkei.com/article/DGXZQOUD257560V20C26A5000000/",
+        "https://zenn.dev/green_tea/articles/d310e5cf809190",
+        "https://zenn.dev/nasubikun/articles/tmux-for-ai-agents",
+        "https://www.publickey1.jp/blog/26/7aimicrosoft_ai_models.html",
+        "https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot",
+        "https://redis.io/blog/announcing-redis-8-8/",
+        "https://ladybird.org/posts/changing-how-we-develop-ladybird/"
+      ],
+      "titles": [
+        "将棋連盟、女流棋士の編入試験制度改正案を否決――福間香奈の挑戦に道閉ざされたまま",
+        "ヤマダHDとエディオン、経営統合に基本合意――2027年10月をめどに国内最大の家電量販グループへ",
+        "5月の米雇用が17.2万人増――予想を大幅に上回り、利下げ観測が後退",
+        "ソウル市長選の開票後に「不正選挙」抗議が発生――韓国保守派が結果を拒否",
+        "飛鳥・藤原宮跡がユネスコ世界遺産候補に推薦――奈良の古代都市遺跡が国際舞台へ",
+        "データサイエンティストのためのAGENTS.mdとSkills――spec-drivenでAIエージェントを最大化する設計術",
+        "使い方は覚えなくていいからtmuxを入れろ――AIエージェント時代のターミナル共有インフラ",
+        "マイクロソフト、自社開発の7つのAIモデル「Microsoft AI Models」を一挙発表――オープンソース戦略で存在感",
+        "GitHub Copilot Gets 1-Million-Token Context Windows and Configurable Reasoning Levels",
+        "Redis 8.8 Ships New Array Data Type, Native Rate Limiter, and Up to 83% Throughput Gains",
+        "Ladybird Browser Closes to Public Contributions, Citing AI-Generated Code as a Security Risk"
+      ]
+    },
     {
       "run_at": "2026-06-06T00:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Why Model Neutrality Matters More Than Cloud Neutrality — LangChain's Case for Provider-Agnostic Agent Stacks",
         "Sam Altman: \"Proactive AI\" Is the Next Phase After Chatbots and Agents — Always-On Background Intelligence",
         "Adding MCP Tools to Reachy Mini — How Hugging Face Built a Three-Tier Robot Tool Architecture Using MCP"
-      ]
-    },
-    {
-      "run_at": "2026-06-04T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582950",
-        "https://news.yahoo.co.jp/pickup/6582940",
-        "https://www.itmedia.co.jp/news/",
-        "https://www.itmedia.co.jp/news/",
-        "https://www.itmedia.co.jp/news/",
-        "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000057/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2606/04/news042.html",
-        "https://www.itmedia.co.jp/aiplus/",
-        "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-        "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-        "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground"
-      ],
-      "titles": [
-        "今年度補正予算案が衆議院を通過――総額3兆1000億円、食料品減税も焦点に",
-        "出生数最低を受け高市首相「非常に厳しい」――少子化対策の強化を表明",
-        "GMOペイメントゲートウェイで決済障害――デリバリーサービス等に影響、約1時間で復旧",
-        "藤田医科大学病院でサイバー攻撃による患者情報1,365件の漏洩が判明",
-        "NTTと三菱マテリアルがIT機器リサイクル合弁会社「NTTサーキュキャスト」を7月設立へ",
-        "WindsurfがDevin Desktopに刷新――ClaudeもCodexも一元管理するマルチエージェントIDEへ",
-        "Google Chrome新機能「Skills」でAIプロンプトを「スキル」として保存・再利用可能に",
-        "オートデスクがAssistantにMCP統合を実装――FusionをAIエージェントから直接制御可能に",
-        "I Built a Vulnerable App and Spent $1,500 Testing Whether LLMs Could Hack It",
-        "Failing Grades Soar at UC Berkeley as Professors Report AI Dependency and Dwindling Math Skills",
-        "Mathematicians Issue Warning as AI Rapidly Gains Ground — \"Mathematics Is More Than Producing Correct Answers\""
-      ]
-    },
-    {
-      "run_at": "2026-06-04T15:00:00+09:00",
-      "urls": [
-        "https://news.web.nhk/newsweb/na/na-k10015139631000",
-        "https://www.nikkei.com/article/DGXZQOUD02BRI0S6A600C2000000/",
-        "https://www.jiji.com/jc/article?k=2026060400216&g=soc",
-        "https://gorospace.com/baseball-2026-mlb-shohei-ohtani/",
-        "https://www.jiji.com/jc/article?k=2026060400241&g=int",
-        "https://www.anthropic.com/engineering/how-we-contain-claude",
-        "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
-        "https://zenn.dev/fitness_densuke/articles/2026-06-01-cloudflare-vs-aws-selection-guide",
-        "https://www.anthropic.com/engineering/how-we-contain-claude",
-        "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-        "https://letsencrypt.org/2026/06/03/pq-certs"
-      ],
-      "titles": [
-        "雲仙・普賢岳 大火砕流から35年――島原市で犠牲者を悼む追悼式典",
-        "佐賀県警のDNA鑑定不正が239件に拡大――警察庁の特別監査で新たな改ざんが発覚",
-        "兵庫・母娘殺傷事件の逃走容疑者、川で遺体として発見――42歳男性と確認",
-        "大谷翔平、防御率0.74・打率.301で二刀流の圧倒的存在感――規定投球回まであと7回",
-        "米下院、イラン軍事攻撃を制限する決議案を初めて可決――トランプ政権に対する歴史的な議会の制約",
-        "Anthropicエンジニアリングブログ：Claudeをプロダクト横断でどのように「封じ込める」か",
-        "AWS、ブラウザから使えるコーディングAIエージェント「Kiro Web」をプレビュー公開――spec-firstのautoモードを搭載",
-        "Cloudflareは「AWSの代わり」になるのか？――インフラ経験者のための技術選定ガイド",
-        "How Anthropic Contains Claude: Three Isolation Patterns, Real Red-Team Findings, and the Limits of Model-Layer Defense",
-        "Elixir v1.20: A Gradually Typed Language — Type Inference Across All Programs, Zero Annotations Required",
-        "Let's Encrypt Adopts Merkle Tree Certificates for Post-Quantum TLS — Smaller Handshakes Than Today's Web PKI"
       ]
     }
   ]

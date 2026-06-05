@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-05T20:00:00+09:00",
+  "last_run_at": "2026-06-06T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-06T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6583099",
+        "https://news.yahoo.co.jp/pickup/6583113",
+        "https://news.yahoo.co.jp/articles/76d78e82a6dbcc60cc948fac07484f4da733c1fb",
+        "https://news.yahoo.co.jp/articles/b968bddbdfe79960e40e865446cd2305420d1aa7",
+        "https://news.yahoo.co.jp/articles/49eba66e97efe7b87ae96f9a03f5cbc8da7a58e6",
+        "https://zenn.dev/aiwatch_jp/articles/agent-vuln-hunting-harness-glasswing",
+        "https://zenn.dev/edhiblemeer/articles/claude-code-opus48-tool-corruption",
+        "https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html",
+        "https://github.blog/changelog/2026-06-04-agent-tasks-rest-api-now-available-for-copilot-pro-pro-and-max",
+        "https://www.anthropic.com/news/confidential-draft-s1-sec",
+        "https://passo.uno/fine-tuning-docs-llm/"
+      ],
+      "titles": [
+        "補正予算が参院通過——国会審議わずか3日間、野党は異例の短さを批判",
+        "島根・益田市で工事用鉄塔が崩落——解体作業中に30代男性が死亡",
+        "長崎原爆資料館の展示改訂に中国が反発——「南京事件」表記変更を巡り外交的対立",
+        "京都山科区で米国人観光客が行方不明——家族と口論後に山方面へ向かい1週間超",
+        "高市内閣支持率が若年層で初めて50%割れ——物価高への不満が背景に",
+        "AIエージェントによる脆弱性ハンティングはなぜ失敗するのか——Cloudflareが50+リポで示したharnessアーキテクチャの正体",
+        "Claude Code Opus 4.8で全ツール呼び出しが壊れる——日本語環境で踏みやすい未修正バグと回避策",
+        "マイクロソフト、AIエージェント専用の分離実行環境「Microsoft Execution Containers（MXC）」を発表",
+        "GitHub Copilot Agent Tasks REST API: Programmatic Cloud Agents for Cross-Repo Automation",
+        "Anthropic Confidentially Files Draft S-1 with SEC — IPO Option Now Open",
+        "Fine-Tuning LLMs to Write Documentation Like It's 1995 — A QLoRA Experiment on 37M-Word Microsoft Manuals"
+      ]
+    },
     {
       "run_at": "2026-06-05T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "How Anthropic Contains Claude: Three Isolation Patterns, Real Red-Team Findings, and the Limits of Model-Layer Defense",
         "Elixir v1.20: A Gradually Typed Language — Type Inference Across All Programs, Zero Annotations Required",
         "Let's Encrypt Adopts Merkle Tree Certificates for Post-Quantum TLS — Smaller Handshakes Than Today's Web PKI"
-      ]
-    },
-    {
-      "run_at": "2026-06-04T10:09:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582874",
-        "https://www.jiji.com/jc/article?k=2026060400216&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6582873",
-        "https://news.yahoo.co.jp/pickup/6582867",
-        "https://www.jiji.com/jc/article?k=2026060400241&g=flash&m=rss",
-        "https://zenn.dev/green_tea/articles/d310e5cf809190",
-        "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000038/",
-        "https://zenn.dev/nasubikun/articles/tmux-for-ai-agents",
-        "https://www.anthropic.com/news/claude-opus-4-8",
-        "https://simonwillison.net/2026/Jun/2/microsofts-new-models/",
-        "https://heyhyper.ai"
-      ],
-      "titles": [
-        "首里城正殿、11月23日から一般公開へ――沖縄の文化象徴が7年ぶりに蘇る",
-        "兵庫・たつの母娘殺害事件、指名手配容疑者の遺体を確認――動機解明は困難に",
-        "米スペースX、IPO公開価格を1株135ドルに設定――12兆円規模の史上最大調達へ",
-        "ヤマダHDとエディオンが経営統合へ――売上高2.5兆円の家電量販巨大連合が誕生",
-        "イスラエル・レバノンが停戦履行で合意――米国務長官が発表、中東情勢に緩和の兆し",
-        "データサイエンティストのためのAGENTS.mdとSkills設計――AIに「前提知識」を与えるレイヤー構造",
-        "AIエージェント時代のガバナンス再設計――「禁止」より「安心して使い続ける仕組み」へ",
-        "tmuxをAIエージェントのインフラとして使う――使い方は覚えなくていい、ただ入れろ",
-        "Claude Opus 4.8 Released — 4× Fewer Code Flaws, Dynamic Parallel Workflows, and Effort Control",
-        "Microsoft's MAI Model Family: Seven Proprietary Models Across Coding, Vision, Audio, and Reasoning",
-        "Hyper (YC P26) — Agentic Company Brain with Lifecycle Hooks for Claude Code, Codex, and Cursor"
       ]
     }
   ]

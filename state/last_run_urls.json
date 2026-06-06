@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-06T20:00:00+09:00",
+  "last_run_at": "2026-06-07T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-07T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6583227",
+        "https://news.yahoo.co.jp/pickup/6583230",
+        "https://news.yahoo.co.jp/pickup/6583237",
+        "https://news.yahoo.co.jp/pickup/6583234",
+        "https://news.yahoo.co.jp/pickup/6583233",
+        "https://zenn.dev/yutabeee/articles/claude-code-autonomous-agent-platform",
+        "https://zenn.dev/lienjack/articles/00-05-agent-evolution-path",
+        "https://zenn.dev/tadkud/articles/claude-code-workflow-pipeline-parallel-agents",
+        "https://github.com/microsoft/pg_durable",
+        "https://github.blog/changelog/2026-06-04-fix-with-copilot-for-failing-actions-now-in-pro-pro-and-max",
+        "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/"
+      ],
+      "titles": [
+        "「飛鳥・藤原」世界遺産登録へ——イコモスが勧告、7月に正式決定へ",
+        "国旗損壊罪法案、寄せ書きは処罰対象外——自民党が想定例を公表",
+        "豪産小麦が収穫減の見通し——石油高騰が農業コストを直撃、日本のうどんに影響か",
+        "交通事故で亡くなった女子高生への思い——主婦が1億8000万円を逗子市に遺贈",
+        "スペイン・ポルトガルで大規模停電——電力網障害が両国に連鎖、原因究明続く",
+        "Claude Code を自律エージェント基盤として運用する——context rot から逆算する設計",
+        "AIエージェントの進化経路——Chat Agent から Managed Agent への4段階モデル",
+        "Claude Code Workflow で複数エージェントを並列実行——役割分担とレビュー先行が鍵",
+        "Microsoft Open-Sources pg_durable — Durable Execution Engine Built Directly into PostgreSQL",
+        "GitHub Copilot's 'Fix with Copilot' Expands to All Paid Plans — One-Click AI Repair for Failing Actions",
+        "Simon Willison Releases datasette-agent-micropython — Python Agent Tools Running Inside SQLite via WASM Sandbox"
+      ]
+    },
     {
       "run_at": "2026-06-06T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Maps a Year of AI-Enabled Cyber Threats — 67% of Banned Accounts Used AI for Malware Writing",
         "Uber Caps Claude Code and Cursor Spending at $1,500/Month Per Tool After Exhausting 2026 AI Budget in 4 Months",
         "Anthropic Launches Claude Partner Network Services Track — 10,000+ Consultants Certified, $100M Partner Investment"
-      ]
-    },
-    {
-      "run_at": "2026-06-05T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/articles/49eba66e97efe7b87ae96f9a03f5cbc8da7a58e6",
-        "https://www.itmedia.co.jp/news/articles/2606/05/news097.html",
-        "https://www.itmedia.co.jp/news/articles/2606/05/news089.html",
-        "https://www.itmedia.co.jp/news/articles/2606/05/news072.html",
-        "https://news.yahoo.co.jp/articles/b7b659c5b2707fa4fed2f60b98099b862836b24d",
-        "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000063/",
-        "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000062/",
-        "https://zenn.dev/seeda_yuto/articles/ollama-vs-vllm-rtx4080-benchmark",
-        "https://www.anthropic.com/news/expanding-project-glasswing",
-        "https://github.com/alibaba/open-code-review",
-        "https://www.itmedia.co.jp/news/articles/2606/05/news091.html"
-      ],
-      "titles": [
-        "高市内閣の支持率、若年層で初めて50%割れ――物価高への不満が背景に",
-        "マイナポータルアプリが新アイコンに刷新――「マイナちゃん」キャラは廃止へ",
-        "PayPay、ポイント付与を大幅改定――本人確認未完了ユーザーは還元ゼロに",
-        "Google、クリエイター向け「検索プロフィール」機能を導入――AI検索での流入減に対応",
-        "高市首相、文春公開の音声データに言及――「あのような音声で判断は難しい」",
-        "日立製作所、Anthropicの「Claude Mythos Preview」アクセス権を取得――社会インフラのセキュリティ強化へ",
-        "東大松尾研、「LLM講座 基礎編」の講義資料を期間限定で無料公開――CC BY-NC-SA 4.0ライセンス",
-        "RTX 4080でローカルLLM 7モデルを実測――「16GB VRAMの壁」とOllama vs vLLM の実態",
-        "Anthropic Expands Project Glasswing to 150+ Organizations — Claude Mythos Finds 10,000+ Critical Vulnerabilities",
-        "Alibaba Open-Sources Open Code Review — Hybrid Agent + Deterministic Pipeline for Production-Grade AI Code Review",
-        "OpenAI Launches \"Dreaming\" — ChatGPT's New Memory System Doubles Recall Accuracy to 82.8%"
       ]
     }
   ]

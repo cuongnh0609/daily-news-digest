@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-06T10:00:00+09:00",
+  "last_run_at": "2026-06-06T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-06T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6583163",
+        "https://news.yahoo.co.jp/pickup/6583146",
+        "https://news.yahoo.co.jp/pickup/6583157",
+        "https://news.yahoo.co.jp/pickup/6583160",
+        "https://news.yahoo.co.jp/pickup/6583162",
+        "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
+        "https://zenn.dev/cnative_tkb/articles/dcc533aade4312",
+        "https://www.publickey1.jp/blog/26/windowslinuxwsl_containers.html",
+        "https://alexispurslane.github.io/rsync-analysis/",
+        "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+        "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/"
+      ],
+      "titles": [
+        "九州南部・奄美で土砂災害の危険が高まる――大雨が続き鹿児島・喜界町に避難指示",
+        "トランプ政権、AI企業の株式取得を検討――政府が民間AI投資から利益を得る新戦略",
+        "都市部で相次ぐデータセンター建設の摩擦――住宅地近くの「新公害」と情報開示の課題",
+        "コンサートチケットを90回近く転売した女性に司法の裁き――フリマサイトの悪用が問われる",
+        "佐々木朗希、7回10奪三振で圧巻の投球――ドジャースで自身最多奪三振を達成",
+        "AWS、インストール不要のブラウザ版AIコーディングエージェント「Kiro Web」をプレビュー公開――仕様駆動で自律pull requestも",
+        "「Claudeを学ぶな、仕事の言語化能力を磨け」――陳腐化しないAI時代の学習戦略",
+        "MicrosoftがBuild 2026でWSL containersを発表――WindowsでLinuxコンテナをネイティブに作成・実行可能に",
+        "Did Claude Actually Increase Bugs in rsync? A Statistical Rebuttal",
+        "Simon Willison Releases micropython-wasm: Sandboxed Python Execution via WebAssembly",
+        "S&P 500 Rejects SpaceX and Blocks Fast-Track Entry for OpenAI and Anthropic"
+      ]
+    },
     {
       "run_at": "2026-06-06T10:00:00+09:00",
       "urls": [

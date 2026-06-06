@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-06T15:00:00+09:00",
+  "last_run_at": "2026-06-06T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-06T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/8f02094c3c2c56f7393d0ceb5413d7bfae746850",
+        "https://news.yahoo.co.jp/articles/b85039375d2c382bb7f396ab6f88ef07ffde36e6",
+        "https://news.yahoo.co.jp/articles/ca4ab7a8d831d5f2d1ed15ba14b919f76c0a058e",
+        "https://www.jiji.com/jc/article?k=2026060600418&g=soc",
+        "https://www.jiji.com/jc/article?k=2026060600123&g=soc",
+        "https://zenn.dev/tokium_dev/articles/d806c7ad4fd458",
+        "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000064/",
+        "https://www.publickey1.jp/blog/26/rustjavascriptrolldown10vite_80.html",
+        "https://www.anthropic.com/news/claude-opus-4-8",
+        "https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview",
+        "https://www.0xkato.xyz/how-llms-actually-work/"
+      ],
+      "titles": [
+        "レアメタルが調達難——中国の輸出規制強化でタングステンの対日輸出が3か月連続ゼロに",
+        "7日は西日本で記録的大雨のおそれ——九州南部で線状降水帯発生の可能性",
+        "大型タンクローリーが漁港から海へ転落——和歌山・雑賀崎で接触事故、男性が軽傷",
+        "カンボジア拠点の特殊詐欺を主導か——タイ警察が日本人男性を拘束、被害総額は数十億円",
+        "自殺リスクの高い子どもの情報を関係機関で共有——こども家庭庁が自治体に協議会の設置を要請",
+        "Claude で Gemini 議事録から決定事項・TODO を自動抽出——Slack・Jira 連携まで一気通貫のワークフロー",
+        "日本漫画家協会、AI学習を防ぐ契約文言を公開——著作権法の限界を契約で補完する実践的ガイド",
+        "Rust製バンドラ「Rolldown」がv1.0に到達——esbuildの速度とRollupの拡張性を統合し、Vite 8.0に正式採用",
+        "Anthropic Releases Claude Opus 4.8 — 4× More Honest, Parallel Subagents, and Effort Controls",
+        "GitHub Copilot Enterprise-Managed Plugins Now in VS Code — Org-Wide MCP Configs and Custom Agents",
+        "How LLMs Actually Work — A Nine-Mechanism Deep Dive into Transformer Architecture"
+      ]
+    },
     {
       "run_at": "2026-06-06T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Expands Project Glasswing to 150+ Organizations — Claude Mythos Finds 10,000+ Critical Vulnerabilities",
         "Alibaba Open-Sources Open Code Review — Hybrid Agent + Deterministic Pipeline for Production-Grade AI Code Review",
         "OpenAI Launches \"Dreaming\" — ChatGPT's New Memory System Doubles Recall Accuracy to 82.8%"
-      ]
-    },
-    {
-      "run_at": "2026-06-05T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582997",
-        "https://news.yahoo.co.jp/pickup/6583000",
-        "https://news.yahoo.co.jp/pickup/6582989",
-        "https://news.yahoo.co.jp/pickup/6582995",
-        "https://news.yahoo.co.jp/pickup/6583002",
-        "https://zenn.dev/estie/articles/4f06bde08a90d4",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2606/05/news018.html",
-        "https://www.itmedia.co.jp/news/articles/2606/03/news086.html",
-        "https://github.com/anthropics/defending-code-reference-harness",
-        "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/",
-        "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future"
-      ],
-      "titles": [
-        "経済産業省、ファミリー企業の成長支援へ初の指針を策定",
-        "フィギュアスケーター・アリサ・リュウの父、天安門37周年に中国の圧力を訴える",
-        "セルフレジの「ごまかし」万引きが増加――防犯カメラで相次ぎ摘発",
-        "文科省、小中高の理系人材育成拠点を全47都道府県に整備へ",
-        "イチロー氏、マリナーズ50周年のホームラン競争に出場へ",
-        "PR前後でAIレビューを2段構えにしたら、レビュー待ち時間が約70%減った話",
-        "「この1年はAI戦国時代」――メルカリに学ぶ、AIガバナンス策定の勘所",
-        "量子コンピュータが暗号を破る「Q-Day」が迫る――GoogleはAndroid 17で2029年を期限に対応へ",
-        "Anthropic Open-Sources a Reference Harness for AI-Powered Vulnerability Discovery",
-        "AI Enthusiasts and Skeptics Are Both Right — and There's No Feedback Loop Between Them",
-        "Ashby: Over Half of New Production Code Is Now AI-Generated — With Zero Increase in Bug Rate"
-      ]
-    },
-    {
-      "run_at": "2026-06-05T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6582980",
-        "https://news.yahoo.co.jp/pickup/6582941",
-        "https://news.yahoo.co.jp/pickup/6582979",
-        "https://news.yahoo.co.jp/pickup/6582978",
-        "https://www.itmedia.co.jp/news/articles/2606/04/news119.html",
-        "https://zenn.dev/dinii/articles/d7be3acc43d868",
-        "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000058/",
-        "https://www.itmedia.co.jp/aiplus/article/2606/03/2000000049/",
-        "https://www.anthropic.com/institute/recursive-self-improvement",
-        "https://github.com/huawei-csl/KVarN",
-        "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
-      ],
-      "titles": [
-        "飲食料品の消費税を1%に引き下げへ――外食・農水産業界への補助金支援も検討",
-        "不法就労の外国人を通報で1万円支給――茨城県の新制度に賛否両論",
-        "北海道千歳市で路上刺傷事件――外国人男性逮捕、女性1人が心肺停止",
-        "旭川女子高生転落死裁判――内田被告「殺意は共犯の女にあった」と主張",
-        "TSMC株主総会――AI需要を成長の柱と強調、東京エレクトロンとの取引継続を確認",
-        "Claude Managed Agentsで社内SlackをAIエージェント化――「まずエンジニアに聞こう」が「まずbotに聞こう」へ",
-        "東大松尾研・Anthropic・PKSHAが協業――日本のAI影響を可視化する「Japan AI Index」構築へ",
-        "MicrosoftがBuild 2026で「Scout」発表――OpenClawベースのMCP対応自律エージェント",
-        "When AI Builds Itself: Anthropic Reports Claude Now Writes 80%+ of Its Own Production Code",
-        "KVarN: Native vLLM Backend for KV-Cache Quantization — 3–5× Capacity Gain at FP16 Accuracy",
-        "Ted Chiang: \"Artificial Intelligence Is Not Conscious\" — A Rigorous Philosophical Case Against Substrate Independence"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-06T05:00:00+09:00",
+  "last_run_at": "2026-06-06T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-06T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6583135",
+        "https://news.yahoo.co.jp/pickup/6583139",
+        "https://news.yahoo.co.jp/pickup/6583133",
+        "https://news.yahoo.co.jp/pickup/6583130",
+        "https://news.yahoo.co.jp/pickup/6583128",
+        "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000057/",
+        "https://www.itmedia.co.jp/aiplus/article/2606/06/2000000065/",
+        "https://zenn.dev/snowflakejp/articles/9e5b8fa393ccd8",
+        "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/",
+        "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+        "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html"
+      ],
+      "titles": [
+        "自民など4党が国民投票法改正案を共同提出――今国会での成立が現実味",
+        "国際宇宙ステーションで空気漏れが悪化――宇宙飛行士が約2時間退避",
+        "FF7リメイク完結作「FINAL FANTASY VII REVELATION」が2027年春に発売決定",
+        "「介護で昼夜逆転」と漏らしながらSOSが届かず――64歳息子が92歳母を放置し逮捕",
+        "「中傷動画」問題で野党が攻勢――高市首相、苦しい答弁を強いられる",
+        "Windsurf が「Devin Desktop」に刷新――ClaudeもCodexも一元管理できるAIエージェントIDEへ",
+        "ケンブリッジ大、AIが設計したユニバーサルワクチンの臨床試験に成功――未知の変異株にも対応",
+        "Snowflake App Runtime入門――プロンプト1つでデータの隣にWebアプリをデプロイ",
+        "OpenAI Launches Lockdown Mode: Cutting Off the \"Lethal Trifecta\" of Prompt Injection Attacks",
+        "Google Releases Gemma 4 QAT: Sub-1GB Mobile Model via Quantization-Aware Training",
+        "My Agent Skill for Test-Driven Development: Teaching AI Agents Canon TDD via a Structured Skill"
+      ]
+    },
     {
       "run_at": "2026-06-06T05:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "When AI Builds Itself: Anthropic Reports Claude Now Writes 80%+ of Its Own Production Code",
         "KVarN: Native vLLM Backend for KV-Cache Quantization — 3–5× Capacity Gain at FP16 Accuracy",
         "Ted Chiang: \"Artificial Intelligence Is Not Conscious\" — A Rigorous Philosophical Case Against Substrate Independence"
-      ]
-    },
-    {
-      "run_at": "2026-06-05T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/",
-        "https://news.yahoo.co.jp/",
-        "https://www.jiji.com/",
-        "https://news.yahoo.co.jp/",
-        "https://www.jiji.com/",
-        "https://zenn.dev/layerx/articles/3febbbc24e55a3",
-        "https://zenn.dev/hironakamura_ai/articles/b0c5e03d8519e8",
-        "https://zenn.dev/aos_standard/articles/4b05460fd4cf3b",
-        "https://www.langchain.com/blog/",
-        "https://the-decoder.com/openai-ceo-sam-altman-sees-proactive-ai-as-the-next-big-phase-after-chatbots-and-agents/",
-        "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini"
-      ],
-      "titles": [
-        "衆院比例代表の定数45削減を首相が指示――選挙制度改革が本格化",
-        "消費税減税に向けて外食業界などへの補助金制度を検討――政府が緩和策を模索",
-        "PayPayが生命保険市場に参入――T&D子会社を1300億円で買収し金融事業を拡大",
-        "DeNAが7点差から大逆転サヨナラ勝利――プロ野球ペナントレースで劇的展開",
-        "ウクライナのEU加盟交渉が前進――ハンガリーが反対姿勢を転換し交渉再開へ",
-        "Claude Code × Datadog MCP でSREエージェントの評価から改善まで一気通貫――LayerXの実践事例",
-        "エージェントのメモリはベクトル検索だけでは足りない――3つの設計転換点を論じたアーキテクチャ解説",
-        "AOS v0.2公開――本番で黙って止まる4パターンを「物理的制約」で防ぐAIエージェント運用仕様",
-        "Why Model Neutrality Matters More Than Cloud Neutrality — LangChain's Case for Provider-Agnostic Agent Stacks",
-        "Sam Altman: \"Proactive AI\" Is the Next Phase After Chatbots and Agents — Always-On Background Intelligence",
-        "Adding MCP Tools to Reachy Mini — How Hugging Face Built a Three-Tier Robot Tool Architecture Using MCP"
       ]
     }
   ]

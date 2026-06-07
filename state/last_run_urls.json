@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-07T20:00:00+09:00",
+  "last_run_at": "2026-06-08T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-08T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6583351",
+        "https://www.jiji.com/jc/article?k=2026060700067&g=pol",
+        "https://www.jiji.com/jc/article?k=2026060700240&g=int",
+        "https://www.jiji.com/jc/article?k=2026060700140&g=pol",
+        "https://news.yahoo.co.jp/pickup/6583343",
+        "https://zenn.dev/sonozaki/articles/88e54e460d29db",
+        "https://zenn.dev/ino_h/articles/2026-06-06-llm-app-aws-spec-driven-guardrails",
+        "https://zenn.dev/marvelousu/articles/claude-dynamic-workflows-cost",
+        "https://www.anthropic.com/news/confidential-draft-s1-sec",
+        "https://github.blog/changelog/2026-06-04-agent-tasks-rest-api-now-available-for-copilot-pro-pro-and-max",
+        "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/"
+      ],
+      "titles": [
+        "日本産水産物の輸入規制、韓国に協議打診——福島原発事故から15年、関係改善の試み",
+        "「新型軍国主義」論争が過熱——防衛相演説きっかけに日中双方が応酬、自民は沈静化を促す",
+        "中国の習近平主席が8日に訪朝——金正恩氏と会談、非核化や経済協力が焦点",
+        "消費税減税の最終判断は首相に委ねられる——0%か1%かで自民幹部が見通し示す",
+        "京都・山科の男児殺害事件——メディアの報道過熱を検証、SNS上での「犯人捜し」も問題視",
+        "仕様書駆動 × AI で Discord Bot を作ったら「二重管理地獄」に落ちた——spec-driven 開発の盲点と解決策",
+        "LLMアプリをAWS本番に載せて壊さない2026年の作り方——仕様書先行 × CI ガードレールで AI コードの品質問題を根本解決",
+        "ultracode でアイデア出しを安く回す——Claude Code の dynamic workflow コストを実測で約7割削減",
+        "Anthropic Confidentially Files S-1 with SEC — IPO Path Opens for AI Safety Pioneer",
+        "GitHub Copilot Agent Tasks REST API Now Available — Programmatic Control Over Cloud Agents",
+        "LLMs Are Eroding My Software Engineering Career — A Senior Dev's Honest Reckoning"
+      ]
+    },
     {
       "run_at": "2026-06-07T20:00:00+09:00",
       "urls": [

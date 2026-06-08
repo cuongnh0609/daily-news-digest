@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-08T10:00:00+09:00",
+  "last_run_at": "2026-06-08T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-08T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026060800097&g=int",
+        "https://news.yahoo.co.jp/pickup/6583375",
+        "https://www.jiji.com/jc/article?k=2026060800118&g=soc",
+        "https://www.itmedia.co.jp/news/articles/2606/08/news108.html",
+        "https://www.itmedia.co.jp/news/articles/2606/08/news086.html",
+        "https://zenn.dev/zittiandbuoni/articles/632ff0709247f6",
+        "https://www.itmedia.co.jp/news/articles/2606/08/news100.html",
+        "https://www.itmedia.co.jp/enterprise/articles/2606/05/news028.html",
+        "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/",
+        "https://www.publickey1.jp/blog/26/linuxazure_linux_40azurewsl.html",
+        "https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview"
+      ],
+      "titles": [
+        "イランがイスラエルにミサイル発射——イスラエルが空爆で報復、中東情勢が再び緊迫",
+        "高市内閣の支持率70.0%——JNN世論調査で4.2ポイント下落も高水準維持",
+        "旭川・つり橋女子高生転落死事件——内田被告に懲役27年を求刑、判決は6月22日",
+        "KADOKAWA、公正取引委員会の調査を認める——フリーランス法違反の疑いで報道受け公式声明",
+        "三菱UFJ銀行、「PPAP」を原則廃止——7月から安全なダウンロードURLに切り替え",
+        "バイブコーディングが怖いので、全プロジェクトにSemgrep + gitleaksの自動セキュリティスキャンを仕込んだ",
+        "LINEのAIエージェントにメモリ機能追加——「ツンデレ」「執事」など10種類の口調変更も可能に",
+        "AIによるコード生成、3年後に企業採用率が3倍超へ——IDC Japan調査で見えた日本企業の現状と課題",
+        "OpenAI Launches Lockdown Mode for ChatGPT — Blocks Data Exfiltration from Prompt Injection Attacks",
+        "Microsoft Releases Azure Linux 4.0 in Public Preview — A Purpose-Built Microsoft-Supported Linux Distribution",
+        "GitHub Copilot Gets Enterprise-Managed Plugins for VS Code — Admins Can Now Centrally Deploy MCP Configs and Custom Agents Org-Wide"
+      ]
+    },
     {
       "run_at": "2026-06-08T10:00:00+09:00",
       "urls": [
@@ -166,71 +195,13 @@
         "高専卒業に国際通用の学位授与を検討——文科省が「準学士」から脱却へ",
         "鹿児島・宮崎で線状降水帯発生のおそれ——九州から関東にかけて大雨警戒",
         "平岡秀夫元法相が中道離党——立憲民主党への復党を表明",
-        "世界の原油在庫が急減——米国のイラン攻撃以降、相場急騰のリスク高まる",
+        "世界の原油在庫が急減——米国のイラン攻撃以降、相場急騰のリスクが高まる",
         "Anthropic Partner Bootcampで学ぶ——AIエージェント設計の6原則",
         "Claude Codeでエージェント編集部を作り、この春にZenn Book 3冊を書き上げた",
         "RAGのボトルネックは検索結果ではなく検索クエリだった——クエリ変換で精度が劇的に向上",
         "Anthropic Expands Project Glasswing to 150 Orgs — Claude Mythos Scans Critical Infrastructure for Vulnerabilities",
         "Meta Confirms 20,000+ Instagram Accounts Hacked by Abusing AI Chatbot's Account Recovery Flow",
         "GitHub Budget and Usage Management APIs Now Generally Available — Programmatic AI Cost Control for Orgs"
-      ]
-    },
-    {
-      "run_at": "2026-06-07T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583240",
-        "https://news.yahoo.co.jp/rss/topics/domestic.xml",
-        "https://news.yahoo.co.jp/pickup/6583238",
-        "https://news.yahoo.co.jp/pickup/6583228",
-        "https://news.yahoo.co.jp/pickup/6583235",
-        "https://zenn.dev/dinii/articles/d7be3acc43d868",
-        "https://zenn.dev/estie/articles/4f06bde08a90d4",
-        "https://zenn.dev/kameoncloud/articles/784f5d85db531b",
-        "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
-        "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-        "https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638"
-      ],
-      "titles": [
-        "宮崎県で線状降水帯発生の恐れ——7日朝から昼前にかけて土砂災害リスクが急上昇",
-        "障害福祉サービスで80億円超の不正受給——5年間で全国から組織的詐取",
-        "ボクシング：カシメロがWBO世界スーパーバンタム級王座防衛——「井上尚弥に興味はない」",
-        "国旗損壊罪法案——寄せ書きや落書きは処罰対象外、自民党が具体例を提示",
-        "京都・山科区で行方不明の米国人観光客——家族と口論後に山方面へ、捜索続く",
-        "Claude Managed Agentsで「まずエンジニアに聞こう」を「まずbotに聞こう」に変えた——Dinii社の社内問い合わせbot構築事例",
-        "PR前後にAIレビューを2段構えで導入——レビュー待ち時間が14時間から4時間へ約70%削減",
-        "Amazon S3 Files登場——NFSv4.1マウントで約1ミリ秒レイテンシ、S3バケットをファイルシステムとして利用可能に",
-        "GitHub Copilot App: The Agent-Native Desktop Experience",
-        "Google to Pay SpaceX $920M Per Month for GPU Compute — Bridge Capacity for Surging Gemini Demand",
-        "Python Steering Council Halts JIT Development on Main — Six-Month PEP Deadline Issued"
-      ]
-    },
-    {
-      "run_at": "2026-06-07T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583227",
-        "https://news.yahoo.co.jp/pickup/6583230",
-        "https://news.yahoo.co.jp/pickup/6583237",
-        "https://news.yahoo.co.jp/pickup/6583234",
-        "https://news.yahoo.co.jp/pickup/6583233",
-        "https://zenn.dev/yutabeee/articles/claude-code-autonomous-agent-platform",
-        "https://zenn.dev/lienjack/articles/00-05-agent-evolution-path",
-        "https://zenn.dev/tadkud/articles/claude-code-workflow-pipeline-parallel-agents",
-        "https://github.com/microsoft/pg_durable",
-        "https://github.blog/changelog/2026-06-04-fix-with-copilot-for-failing-actions-now-in-pro-pro-and-max",
-        "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/"
-      ],
-      "titles": [
-        "「飛鳥・藤原」世界遺産登録へ——イコモスが勧告、7月に正式決定へ",
-        "国旗損壊罪法案、寄せ書きは処罰対象外——自民党が想定例を公表",
-        "豪産小麦が収穫減の見通し——石油高騰が農業コストを直撃、日本のうどんに影響か",
-        "交通事故で亡くなった女子高生への思い——主婦が1億8000万円を逗子市に遺贈",
-        "スペイン・ポルトガルで大規模停電——電力網障害が両国に連鎖、原因究明続く",
-        "Claude Code を自律エージェント基盤として運用する——context rot から逆算する設計",
-        "AIエージェントの進化経路——Chat Agent から Managed Agent への4段階モデル",
-        "Claude Code Workflow で複数エージェントを並列実行——役割分担とレビュー先行が鍵",
-        "Microsoft Open-Sources pg_durable — Durable Execution Engine Built Directly into PostgreSQL",
-        "GitHub Copilot's 'Fix with Copilot' Expands to All Paid Plans — One-Click AI Repair for Failing Actions",
-        "Simon Willison Releases datasette-agent-micropython — Python Agent Tools Running Inside SQLite via WASM Sandbox"
       ]
     }
   ]

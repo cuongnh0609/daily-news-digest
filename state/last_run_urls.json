@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-09T00:00:00+09:00",
+  "last_run_at": "2026-06-09T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-09T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6583488",
+        "https://news.yahoo.co.jp/pickup/6583485",
+        "https://news.yahoo.co.jp/pickup/6583493",
+        "https://news.yahoo.co.jp/pickup/6583495",
+        "https://www.itmedia.co.jp/news/articles/2606/09/news063.html",
+        "https://zenn.dev/rapls/articles/7456767a19af06",
+        "https://zenn.dev/murasanlab/books/f4082d7ad9ee0b",
+        "https://www.publickey1.jp/blog/26/ubuntuworkshop.html",
+        "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+        "https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html",
+        "https://www.wheresyoured.at/ai-is-slowing-down/"
+      ],
+      "titles": [
+        "中朝首脳会談、非核化には触れず——習近平が7年ぶり訪朝",
+        "イラン、対イスラエル軍事作戦を一時停止——外交交渉再開を示唆",
+        "神戸のコンテナ内で刃物刺さった遺体——会社敷地内で男性が死亡",
+        "東京23区の中古マンション、5戸に1戸が「億ション」——新築離れで需要がシフト",
+        "Apple、「Siri AI」を発表——Apple Foundation ModelsとGemini連携で全面刷新",
+        "AIに8割書かせたコードを、半年後の自分が保守できるようにするために実際にやっていること",
+        "Raspberry Pi × OpenClawで始める自宅AIエージェント入門——24時間稼働の個人AIプラットフォーム構築",
+        "Ubuntu「Workshop」——コマンド1発でサンドボックス開発環境を構築する新機能",
+        "MiMo-v2.5-Pro-UltraSpeed: Xiaomi Achieves 1,000+ Tokens/Second on a Trillion-Parameter Model",
+        "Microsoft Execution Containers (MXC): Sandboxed Isolation Environments for Autonomous AI Agents",
+        "AI Is Slowing Down: The $9.5 Trillion Infrastructure Bet Is Running Out of Demand to Justify It"
+      ]
+    },
     {
       "run_at": "2026-06-09T00:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Tokenomics: Researchers Quantify Where Tokens Are Actually Spent in Agentic Software Engineering",
         "Jane Street Designer: I Design with Claude More Than Figma Now",
         "Google Signs $920M/Month Deal with SpaceX for GPU Compute — Scrambling for Gemini Enterprise Capacity"
-      ]
-    },
-    {
-      "run_at": "2026-06-07T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583275",
-        "https://news.yahoo.co.jp/pickup/6583292",
-        "https://news.yahoo.co.jp/pickup/6583285",
-        "https://news.yahoo.co.jp/pickup/6583278",
-        "https://news.yahoo.co.jp/pickup/6583284",
-        "https://zenn.dev/tark_ann/articles/e8b09c6db73bfb",
-        "https://zenn.dev/shtrchkw/articles/438accc201f16a",
-        "https://zenn.dev/actbe_tech/articles/a0f1f3609cfc9d",
-        "https://www.anthropic.com/news/services-track-partner-hub",
-        "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-        "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack"
-      ],
-      "titles": [
-        "関東甲信・東海が梅雨入り——例年より遅く、週明けから大雨に警戒",
-        "政府、ガソリン補助金の「出口」を模索——今秋にも縮小へ",
-        "「ひと口食べてみよう」は不適切保育？——現場が困惑する新基準の解釈",
-        "差別と闘う弁護士が標的に——ヘイトスピーチ対策の弁護士が民族差別の被害訴え",
-        "内申書が子どもの主体性を奪う？——高校生の8割超が「内申書を意識」",
-        "Claude CodeとCodexを実際に使い比べて見えた設計思想の根本的な違い",
-        "AI時代のサーバーサイド開発——Next.jsフルスタックからRustへ移行した理由",
-        "フロントエンド開発で使えるMCPサーバーを徹底まとめ——Chrome DevTools・Figma・Playwright・Context7",
-        "Anthropic Launches Claude Partner Network Services Track & Partner Hub — $100M Ecosystem Investment",
-        "Uber Caps AI Coding Tool Spend at $1,500/Month Per Tool After Burning 2026 Budget in Four Months",
-        "Anthropic Maps a Year of AI-Enabled Cyber Threats — Medium-Risk Actors Up 70%, MITRE ATT&CK Gaps Exposed"
-      ]
-    },
-    {
-      "run_at": "2026-06-07T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583256",
-        "https://news.yahoo.co.jp/pickup/6583255",
-        "https://news.yahoo.co.jp/pickup/6583242",
-        "https://news.yahoo.co.jp/pickup/6583212",
-        "https://news.yahoo.co.jp/pickup/6583222",
-        "https://zenn.dev/blacook/articles/agent-engineering-principles",
-        "https://zenn.dev/tottoko_hamu/articles/2026-06-06-232700",
-        "https://zenn.dev/mofuteq/articles/2c5ca06a689140",
-        "https://www.anthropic.com/news/expanding-project-glasswing",
-        "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-        "https://github.blog/changelog/2026-06-04-budget-and-usage-management-apis-now-generally-available"
-      ],
-      "titles": [
-        "再審法案、週明けに衆院審議のヤマ場へ——証拠開示の範囲で与野党の攻防続く",
-        "高専卒業に国際通用の学位授与を検討——文科省が「準学士」から脱却へ",
-        "鹿児島・宮崎で線状降水帯発生のおそれ——九州から関東にかけて大雨警戒",
-        "平岡秀夫元法相が中道離党——立憲民主党への復党を表明",
-        "世界の原油在庫が急減——米国のイラン攻撃以降、相場急騰のリスクが高まる",
-        "Anthropic Partner Bootcampで学ぶ——AIエージェント設計の6原則",
-        "Claude Codeでエージェント編集部を作り、この春にZenn Book 3冊を書き上げた",
-        "RAGのボトルネックは検索結果ではなく検索クエリだった——クエリ変換で精度が劇的に向上",
-        "Anthropic Expands Project Glasswing to 150 Orgs — Claude Mythos Scans Critical Infrastructure for Vulnerabilities",
-        "Meta Confirms 20,000+ Instagram Accounts Hacked by Abusing AI Chatbot's Account Recovery Flow",
-        "GitHub Budget and Usage Management APIs Now Generally Available — Programmatic AI Cost Control for Orgs"
       ]
     }
   ]

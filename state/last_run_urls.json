@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-08T05:00:00+09:00",
+  "last_run_at": "2026-06-08T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-08T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6583386",
+        "https://news.yahoo.co.jp/pickup/6583372",
+        "https://www.itmedia.co.jp/news/articles/2606/08/news027.html",
+        "https://www.itmedia.co.jp/news/articles/2606/05/news096.html",
+        "https://www.itmedia.co.jp/news/articles/2606/03/news137.html",
+        "https://zenn.dev/nia_anoma/articles/c95161567744b8",
+        "https://zenn.dev/kojisumiyoshi/articles/ai-agent-permission-design",
+        "https://zenn.dev/abalol/articles/579296fa31056f",
+        "https://www.latent.space/p/bad-envs",
+        "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/",
+        "https://github.blog/changelog/2026-06-05-gpt-5-2-and-gpt-5-2-codex-deprecated"
+      ],
+      "titles": [
+        "沖縄から関東の太平洋岸に津波注意報——フィリピン沖地震M8.2が引き金",
+        "旧宮家養子縁組の見直し議論——20〜30年後を見据えた皇位継承対策",
+        "老いたマウスの肝臓を「若返り」——SIRT6タンパク質の過剰発現で老化が逆転",
+        "ヤマダHDとエディオンが経営統合で基本合意——2027年10月をめどに家電量販業界再編",
+        "Androidに「なりすまし電話」検知機能——AIで詐欺音声をリアルタイム警告",
+        "AnchorSpecの思想——「仕様を忘れないAI」こそが企業に必要な理由",
+        "Claude Code の権限設計 実務ガイド——フリクションを消しつつ安全網を外さない設計哲学",
+        "AIウォーターフォール開発——コンテキストゼロのAIを「一人前」にするGraph RAGとスキル設計",
+        "How to Stop Shipping Low-Quality RL Training Environments — A Practitioner's Guide",
+        "datasette-agent-edit 0.1a0: Reusable Text-Editing Tools for AI Agents",
+        "GitHub Deprecates GPT-5.2 and GPT-5.2-Codex in Copilot — Migration Required by June 5"
+      ]
+    },
     {
       "run_at": "2026-06-08T05:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Microsoft Open-Sources pg_durable — Durable Execution Engine Built Directly into PostgreSQL",
         "GitHub Copilot's 'Fix with Copilot' Expands to All Paid Plans — One-Click AI Repair for Failing Actions",
         "Simon Willison Releases datasette-agent-micropython — Python Agent Tools Running Inside SQLite via WASM Sandbox"
-      ]
-    },
-    {
-      "run_at": "2026-06-06T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/articles/8f02094c3c2c56f7393d0ceb5413d7bfae746850",
-        "https://news.yahoo.co.jp/articles/b85039375d2c382bb7f396ab6f88ef07ffde36e6",
-        "https://news.yahoo.co.jp/articles/ca4ab7a8d831d5f2d1ed15ba14b919f76c0a058e",
-        "https://www.jiji.com/jc/article?k=2026060600418&g=soc",
-        "https://www.jiji.com/jc/article?k=2026060600123&g=soc",
-        "https://zenn.dev/tokium_dev/articles/d806c7ad4fd458",
-        "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000064/",
-        "https://www.publickey1.jp/blog/26/rustjavascriptrolldown10vite_80.html",
-        "https://www.anthropic.com/news/claude-opus-4-8",
-        "https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview",
-        "https://www.0xkato.xyz/how-llms-actually-work/"
-      ],
-      "titles": [
-        "レアメタルが調達難——中国の輸出規制強化でタングステンの対日輸出が3か月連続ゼロに",
-        "7日は西日本で記録的大雨のおそれ——九州南部で線状降水帯発生の可能性",
-        "大型タンクローリーが漁港から海へ転落——和歌山・雑賀崎で接触事故、男性が軽傷",
-        "カンボジア拠点の特殊詐欺を主導か——タイ警察が日本人男性を拘束、被害総額は数十億円",
-        "自殺リスクの高い子どもの情報を関係機関で共有——こども家庭庁が自治体に協議会の設置を要請",
-        "Claude で Gemini 議事録から決定事項・TODO を自動抽出——Slack・Jira 連携まで一気通貫のワークフロー",
-        "日本漫画家協会、AI学習を防ぐ契約文言を公開——著作権法の限界を契約で補完する実践的ガイド",
-        "Rust製バンドラ「Rolldown」がv1.0に到達——esbuildの速度とRollupの拡張性を統合し、Vite 8.0に正式採用",
-        "Anthropic Releases Claude Opus 4.8 — 4× More Honest, Parallel Subagents, and Effort Controls",
-        "GitHub Copilot Enterprise-Managed Plugins Now in VS Code — Org-Wide MCP Configs and Custom Agents",
-        "How LLMs Actually Work — A Nine-Mechanism Deep Dive into Transformer Architecture"
-      ]
-    },
-    {
-      "run_at": "2026-06-06T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583163",
-        "https://news.yahoo.co.jp/pickup/6583146",
-        "https://news.yahoo.co.jp/pickup/6583157",
-        "https://news.yahoo.co.jp/pickup/6583160",
-        "https://news.yahoo.co.jp/pickup/6583162",
-        "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
-        "https://zenn.dev/cnative_tkb/articles/dcc533aade4312",
-        "https://www.publickey1.jp/blog/26/windowslinuxwsl_containers.html",
-        "https://alexispurslane.github.io/rsync-analysis/",
-        "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
-        "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/"
-      ],
-      "titles": [
-        "九州南部・奄美で土砂災害の危険が高まる――大雨が続き鹿児島・喜界町に避難指示",
-        "トランプ政権、AI企業の株式取得を検討――政府が民間AI投資から利益を得る新戦略",
-        "都市部で相次ぐデータセンター建設の摩擦――住宅地近くの「新公害」と情報開示の課題",
-        "コンサートチケットを90回近く転売した女性に司法の裁き――フリマサイトの悪用が問われる",
-        "佐々木朗希、7回10奪三振で圧巻の投球――ドジャースで自身最多奪三振を達成",
-        "AWS、インストール不要のブラウザ版AIコーディングエージェント「Kiro Web」をプレビュー公開――仕様駆動で自律pull requestも",
-        "「Claudeを学ぶな、仕事の言語化能力を磨け」――陳腐化しないAI時代の学習戦略",
-        "MicrosoftがBuild 2026でWSL containersを発表――WindowsでLinuxコンテナをネイティブに作成・実行可能に",
-        "Did Claude Actually Increase Bugs in rsync? A Statistical Rebuttal",
-        "Simon Willison Releases micropython-wasm: Sandboxed Python Execution via WebAssembly",
-        "S&P 500 Rejects SpaceX and Blocks Fast-Track Entry for OpenAI and Anthropic"
       ]
     }
   ]

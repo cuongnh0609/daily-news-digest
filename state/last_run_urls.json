@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-09T15:00:00+09:00",
+  "last_run_at": "2026-06-09T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-09T20:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/articles/2606/09/news130.html",
+        "https://www.itmedia.co.jp/news/articles/2606/09/news123.html",
+        "https://www.itmedia.co.jp/news/articles/2606/09/news119.html",
+        "https://www.itmedia.co.jp/news/articles/2606/09/news116.html",
+        "https://news.yahoo.co.jp/pickup/6583585",
+        "https://zenn.dev/rehabforjapan/articles/html-design-doc-workflow-claude-code-202605",
+        "https://zenn.dev/secondselection/articles/claude_code_knowledge",
+        "https://zenn.dev/nuits_jp/articles/2026-06-07-copilot-business-migration",
+        "https://www.anthropic.com/news/claude-opus-4-8",
+        "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+        "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack"
+      ],
+      "titles": [
+        "企業口座狙うボイスフィッシングが急増——日本サイバー犯罪対策センターが緊急注意喚起",
+        "JR東日本、2027年春から磁気乗車券を一部廃止——QRコード乗車券のデザイン公開",
+        "KADOKAWA・川上量生氏、夏野剛CEO解任提案に正面反論——「大混乱に陥る」と強調",
+        "任天堂にフランス当局が約65億円の制裁金——初代Switch Joy-Conドリフト問題が発端",
+        "宇都宮市内でクマ1頭を捕獲——10日も周辺小中学校が休校措置を継続",
+        "設計資料をHTMLで回す——Claude Codeでレビュー→修正→共有ワークフローを一元化",
+        "Claude Code導入後にやるべき3選——CLAUDE.md・hooks・プラグインで生産性を最大化",
+        "GitHub Copilot法人利用の移行先を徹底検討——Claude Code・Cursor・Clineとの比較と選択基準",
+        "Anthropic Releases Claude Opus 4.8: 4x Less Likely to Miss Code Flaws, Adds Dynamic Workflows and Mid-Task System Prompt Updates",
+        "Microsoft Open Source Repositories Breached: Password-Stealing Malware Injected into AI Developer Tools",
+        "Anthropic Maps a Year of AI-Enabled Cyber Threats: Agentic Attack Chains Break Traditional Risk Metrics"
+      ]
+    },
     {
       "run_at": "2026-06-09T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "How to Stop Shipping Low-Quality RL Training Environments — A Practitioner's Guide",
         "datasette-agent-edit 0.1a0: Reusable Text-Editing Tools for AI Agents",
         "GitHub Deprecates GPT-5.2 and GPT-5.2-Codex in Copilot — Migration Required by June 5"
-      ]
-    },
-    {
-      "run_at": "2026-06-08T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026060600341&g=int",
-        "https://www.jiji.com/jc/article?k=2026060700105&g=int",
-        "https://www.jiji.com/jc/article?k=2026060700215&g=soc",
-        "https://www.jiji.com/jc/article?k=2026060700301&g=spo",
-        "https://www.itmedia.co.jp/news/articles/2606/03/news086.html",
-        "https://zenn.dev/lincwell_inc/articles/e8e288ee35f5b4",
-        "https://zenn.dev/catatsuy/articles/e2fc71d810613a",
-        "https://www.publickey1.jp/blog/26/cloudflareviterolldownvoidzeroastrovitecloudflare.html",
-        "https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot/",
-        "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/",
-        "https://fergusfinn.com/blog/kv-entropy-coder/"
-      ],
-      "titles": [
-        "米半導体株が急落——時価総額200兆円が消失、AIバブル懸念が再燃",
-        "米、イラン資産の活用を検討——湾岸諸国の戦争被害修復に向け",
-        "原爆死没者名簿に公募市民が初めて記帳——平和への思いを次世代につなぐ広島",
-        "鈴木聡美、女子50m平泳ぎで9連覇——競泳日本選手権で金メダル防衛",
-        "量子コンピュータが暗号を破る「Q-Day」——Googleが2029年を対応期限に設定",
-        "E2Eテストを「民主化」したら朝には全部終わっていた——Claudeで自動分析・再実行・修正PRを一気通貫",
-        "開発者が攻撃対象になった時代——CI/CDと開発環境のセキュリティを根本から見直す",
-        "CloudflareがVoidZeroを買収——ViteとRolldownの開発元がCloudflareファミリーへ",
-        "GitHub Copilot Gets 1M-Token Context Windows and Configurable Reasoning Levels",
-        "AI Enthusiasts Are in a Race Against Time, AI Skeptics Are in a Race Against Entropy",
-        "Speculative KV Coding: Losslessly Compressing LLM KV Cache by Up to 4× Using a Predictor Model"
       ]
     }
   ]

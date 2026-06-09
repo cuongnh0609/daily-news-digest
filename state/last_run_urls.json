@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-09T10:00:00+09:00",
+  "last_run_at": "2026-06-09T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-09T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6583553",
+        "https://news.yahoo.co.jp/pickup/6583543",
+        "https://www.itmedia.co.jp/news/articles/2606/09/news088.html",
+        "https://www.itmedia.co.jp/news/articles/2606/09/news077.html",
+        "https://www.itmedia.co.jp/news/articles/2606/09/news072.html",
+        "https://zenn.dev/cnative_tkb/articles/423c50ca0d3dcc",
+        "https://zenn.dev/zoetaka38/articles/69c3e849523be8",
+        "https://zenn.dev/microsoft/articles/ghcp-finops-01",
+        "https://simonwillison.net/2026/Jun/8/wwdc/",
+        "https://www.anthropic.com/news/expanding-project-glasswing",
+        "https://github.blog/changelog/2026-06-04-budget-and-usage-management-apis-now-generally-available"
+      ],
+      "titles": [
+        "宇都宮市街地でクマ複数頭を目撃——大学周辺を重点捜索、住民に警戒呼びかけ",
+        "自民党総務会、国旗損壊罪を新設する法案を了承——刑法改正へ議論加速",
+        "AI合成写真で近大入試をすりぬけ——替え玉受験対策に生体認証の導入が急務か",
+        "Google「AI Plus」を4割値下げ、月額725円に——ストレージも400GBに増量",
+        "Apple「watchOS 27」発表——Series 8以前はサポート外、Siri AIでWatch連携を強化",
+        "マルチエージェントとは何が「複数」なのか——6体のsubagentを並走させて見えた設計の核心",
+        "AIコーディングエージェントは「継ぎ目」で壊れる——git・CI・認証の5つのインシデント事例",
+        "GitHub Copilot FinOps戦略——Usage-Based Billingへの移行とコスト最適化の実践",
+        "Apple Reveals Siri AI at WWDC26: Rebuilt on Google Gemini Models with Private Cloud Compute",
+        "Anthropic Expands Project Glasswing to 150+ Organizations Across 15+ Countries",
+        "GitHub Copilot Budget and Usage Management APIs Now Generally Available"
+      ]
+    },
     {
       "run_at": "2026-06-09T10:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "GitHub Copilot Gets 1M-Token Context Windows and Configurable Reasoning Levels",
         "AI Enthusiasts Are in a Race Against Time, AI Skeptics Are in a Race Against Entropy",
         "Speculative KV Coding: Losslessly Compressing LLM KV Cache by Up to 4× Using a Predictor Model"
-      ]
-    },
-    {
-      "run_at": "2026-06-08T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583351",
-        "https://www.jiji.com/jc/article?k=2026060700067&g=pol",
-        "https://www.jiji.com/jc/article?k=2026060700240&g=int",
-        "https://www.jiji.com/jc/article?k=2026060700140&g=pol",
-        "https://news.yahoo.co.jp/pickup/6583343",
-        "https://zenn.dev/sonozaki/articles/88e54e460d29db",
-        "https://zenn.dev/ino_h/articles/2026-06-06-llm-app-aws-spec-driven-guardrails",
-        "https://zenn.dev/marvelousu/articles/claude-dynamic-workflows-cost",
-        "https://www.anthropic.com/news/confidential-draft-s1-sec",
-        "https://github.blog/changelog/2026-06-04-agent-tasks-rest-api-now-available-for-copilot-pro-pro-and-max",
-        "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/"
-      ],
-      "titles": [
-        "日本産水産物の輸入規制、韓国に協議打診——福島原発事故から15年、関係改善の試み",
-        "「新型軍国主義」論争が過熱——防衛相演説きっかけに日中双方が応酬、自民は沈静化を促す",
-        "中国の習近平主席が8日に訪朝——金正恩氏と会談、非核化や経済協力が焦点",
-        "消費税減税の最終判断は首相に委ねられる——0%か1%かで自民幹部が見通し示す",
-        "京都・山科の男児殺害事件——メディアの報道過熱を検証、SNS上での「犯人捜し」も問題視",
-        "仕様書駆動 × AI で Discord Bot を作ったら「二重管理地獄」に落ちた——spec-driven 開発の盲点と解決策",
-        "LLMアプリをAWS本番に載せて壊さない2026年の作り方——仕様書先行 × CI ガードレールで AI コードの品質問題を根本解決",
-        "ultracode でアイデア出しを安く回す——Claude Code の dynamic workflow コストを実測で約7割削減",
-        "Anthropic Confidentially Files S-1 with SEC — IPO Path Opens for AI Safety Pioneer",
-        "GitHub Copilot Agent Tasks REST API Now Available — Programmatic Control Over Cloud Agents",
-        "LLMs Are Eroding My Software Engineering Career — A Senior Dev's Honest Reckoning"
-      ]
-    },
-    {
-      "run_at": "2026-06-07T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583315",
-        "https://news.yahoo.co.jp/pickup/6583302",
-        "https://news.yahoo.co.jp/pickup/6583310",
-        "https://news.yahoo.co.jp/pickup/6583289",
-        "https://news.yahoo.co.jp/pickup/6583303",
-        "https://zenn.dev/sun_asterisk/articles/claude-figma-mcp-app",
-        "https://zenn.dev/kawauchi_lab/articles/4b300879a41ab5",
-        "https://www.publickey1.jp/blog/26/aiwindowswindows_development_skills.html",
-        "https://arxiv.org/abs/2601.14470",
-        "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-        "https://www.itmedia.co.jp/news/articles/2606/07/news024.html"
-      ],
-      "titles": [
-        "各地で梅雨入り——台風6号の影響で例年より遅く、向こう1ヶ月は雨量多め",
-        "政府、ホルムズ海峡への自衛隊派遣に「停戦・意思疎通・脅威低下」の3条件を設定",
-        "陸上自衛隊が富士総合火力演習を実施——長射程ミサイル「25式高速滑空弾」を初公開",
-        "「仮面夫婦」10組に1組——不仲を隠す夫婦の子どもに不安・抑うつ症状が増加",
-        "「苦手な食べ物でもひと口」は不適切保育？——こども家庭庁の新基準に現場が困惑",
-        "AI駆動開発はここまで来た——Claude × Figma MCP で1日アプリ制作",
-        "Claude Code で仕様書フォーマットを実験——Markdown vs HTML の token・時間コストを定量比較",
-        "マイクロソフト、AIエージェントに Windows アプリ開発知識を注入する「Windows Development Skills」を正式公開",
-        "Tokenomics: Researchers Quantify Where Tokens Are Actually Spent in Agentic Software Engineering",
-        "Jane Street Designer: I Design with Claude More Than Figma Now",
-        "Google Signs $920M/Month Deal with SpaceX for GPU Compute — Scrambling for Gemini Enterprise Capacity"
       ]
     }
   ]

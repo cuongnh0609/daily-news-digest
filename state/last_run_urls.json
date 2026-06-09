@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-10T00:00:00+09:00",
+  "last_run_at": "2026-06-10T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-10T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/topics/domestic",
+        "https://www.jiji.com/jc/list?g=eco",
+        "https://www.jiji.com/jc/list?g=eco",
+        "https://news.yahoo.co.jp/topics/domestic",
+        "https://www.itmedia.co.jp/news/articles/2606/09/news121.html",
+        "https://zenn.dev/horicchy/articles/7076932bff319b",
+        "https://zenn.dev/kawauchi_lab/articles/4b300879a41ab5",
+        "https://zenn.dev/g2/articles/7aeb22e8ebbf82",
+        "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+        "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+        "https://arxiv.org/abs/2605.15184"
+      ],
+      "titles": [
+        "自民参院幹部、世耕氏を痛烈批判——党内対立が表面化",
+        "日本製鉄、USスチールに最大4000億円を投資——買収完了後の設備刷新へ",
+        "実質GDP、年率1.8%増に下方修正——設備投資の落ち込みと中東情勢が影響",
+        "防衛省、白書PRにショート動画を活用——若年層への安保意識啓発を強化",
+        "日本語能力試験「合格保証」詐欺——中国系SNSでカンニング機器が流通",
+        "QAエンジニアがAIスキルを設計——「画面の5要素」から逆引き検索で網羅的テストを実現",
+        "Claude Codeで仕様書をMarkdownとHTMLで比較——コスト・品質・保守性のトレードオフを実測",
+        "AIでどこでも仕事できるようにしたけど疲れてやめた——介入設計という逆転の発想",
+        "Anthropic Releases Claude Fable 5 and Mythos 5 — State-of-the-Art Performance with Restricted Access Tier",
+        "What It Feels Like to Work With Claude Mythos — From Wizard to Patron of Autonomous AI",
+        "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search Performance"
+      ]
+    },
     {
       "run_at": "2026-06-10T00:00:00+09:00",
       "urls": [
@@ -231,35 +260,6 @@
         "OpenAI Launches Lockdown Mode for ChatGPT — Blocks Data Exfiltration from Prompt Injection Attacks",
         "Microsoft Releases Azure Linux 4.0 in Public Preview — A Purpose-Built Microsoft-Supported Linux Distribution",
         "GitHub Copilot Gets Enterprise-Managed Plugins for VS Code — Admins Can Now Centrally Deploy MCP Configs and Custom Agents Org-Wide"
-      ]
-    },
-    {
-      "run_at": "2026-06-08T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583386",
-        "https://news.yahoo.co.jp/pickup/6583372",
-        "https://www.itmedia.co.jp/news/articles/2606/08/news027.html",
-        "https://www.itmedia.co.jp/news/articles/2606/05/news096.html",
-        "https://www.itmedia.co.jp/news/articles/2606/03/news137.html",
-        "https://zenn.dev/nia_anoma/articles/c95161567744b8",
-        "https://zenn.dev/kojisumiyoshi/articles/ai-agent-permission-design",
-        "https://zenn.dev/abalol/articles/579296fa31056f",
-        "https://www.latent.space/p/bad-envs",
-        "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/",
-        "https://github.blog/changelog/2026-06-05-gpt-5-2-and-gpt-5-2-codex-deprecated"
-      ],
-      "titles": [
-        "沖縄から関東の太平洋岸に津波注意報——フィリピン沖地震M8.2が引き金",
-        "旧宮家養子縁組の見直し議論——20〜30年後を見据えた皇位継承対策",
-        "老いたマウスの肝臓を「若返り」——SIRT6タンパク質の過剰発現で老化が逆転",
-        "ヤマダHDとエディオンが経営統合で基本合意——2027年10月をめどに家電量販業界再編",
-        "Androidに「なりすまし電話」検知機能——AIで詐欺音声をリアルタイム警告",
-        "AnchorSpecの思想——「仕様を忘れないAI」こそが企業に必要な理由",
-        "Claude Code の権限設計 実務ガイド——フリクションを消しつつ安全網を外さない設計哲学",
-        "AIウォーターフォール開発——コンテキストゼロのAIを「一人前」にするGraph RAGとスキル設計",
-        "How to Stop Shipping Low-Quality RL Training Environments — A Practitioner's Guide",
-        "datasette-agent-edit 0.1a0: Reusable Text-Editing Tools for AI Agents",
-        "GitHub Deprecates GPT-5.2 and GPT-5.2-Codex in Copilot — Migration Required by June 5"
       ]
     }
   ]

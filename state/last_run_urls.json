@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-10T05:00:00+09:00",
+  "last_run_at": "2026-06-10T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-10T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6583634",
+        "https://news.yahoo.co.jp/pickup/6583642",
+        "https://news.yahoo.co.jp/pickup/6583640",
+        "https://news.yahoo.co.jp/pickup/6583631",
+        "https://www.itmedia.co.jp/news/articles/2606/10/news015.html",
+        "https://zenn.dev/dinii/articles/1cfac1ca8b46c3",
+        "https://zenn.dev/pepabo/articles/claude-code-token-reduction-measured",
+        "https://www.itmedia.co.jp/news/articles/2606/10/news060.html",
+        "https://simonwillison.net/2026/Jun/9/claude-fable-5/",
+        "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12",
+        "https://github.blog/changelog/2026-06-09-claude-fable-5-is-generally-available-for-github-copilot"
+      ],
+      "titles": [
+        "自民党、安保政策の見直しに向けて防衛費増額を政府に提言へ",
+        "ラピダス、英国・イタリアの公的機関と次世代半導体の研究開発協力へ",
+        "楽天イーグルス・三木肇監督が休養——深夜1時の電撃発表、塩川ヘッドが代行へ",
+        "誕生祝いと称し幼児の顔にケーキを押し付ける動画、虐待疑惑で福岡の児相が一時保護",
+        "政府関係者らのInstagramアカウント乗っ取り——Meta AIアシスタントの脆弱性が悪用か",
+        "Claude Managed Agentsで社内データ・ログ・コードを横断調査するSlack botを安定運用する方法",
+        "Claude Codeのトークン削減を実測——semble活用で93%削減・cacheRead 1800倍の内訳",
+        "Google、リアルタイム音声翻訳「Gemini 3.5 Live Translate」発表——70言語対応で同時通訳に迫る精度",
+        "Simon Willison: Initial Impressions of Claude Fable 5 — A Beast with 1M Token Context and $110 in Test Costs",
+        "npm v12 Breaking Changes: Script Execution, Git Deps, and Remote URLs Now Require Explicit Approval",
+        "Claude Fable 5 Now Generally Available for GitHub Copilot — Integrated Across All Plans"
+      ]
+    },
     {
       "run_at": "2026-06-10T05:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "MiMo-v2.5-Pro-UltraSpeed: Xiaomi Achieves 1,000+ Tokens/Second on a Trillion-Parameter Model",
         "Microsoft Execution Containers (MXC): Sandboxed Isolation Environments for Autonomous AI Agents",
         "AI Is Slowing Down: The $9.5 Trillion Infrastructure Bet Is Running Out of Demand to Justify It"
-      ]
-    },
-    {
-      "run_at": "2026-06-09T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026060800542&g=int",
-        "https://news.yahoo.co.jp/pickup/6583495",
-        "https://news.yahoo.co.jp/pickup/6583455",
-        "https://news.yahoo.co.jp/pickup/6583477",
-        "https://www.jiji.com/jc/article?k=2026060801141&g=int",
-        "https://zenn.dev/ryokkon/articles/a7f943f87da11a",
-        "https://zenn.dev/mohhh_ok/articles/anthropic-managed-agents-hands-on",
-        "https://zenn.dev/rakko_taniyama/articles/5f0a408c3f0b88",
-        "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-        "https://github.blog/changelog/2026-06-04-fix-with-copilot-for-failing-actions-now-in-pro-pro-and-max",
-        "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/"
-      ],
-      "titles": [
-        "ペルー大統領選決選投票——フジモリ氏とサンチェス氏が大接戦、開票続く",
-        "東京23区の中古マンション、5戸に1戸が「億ション」——新築回避で需要シフト",
-        "日韓がレーダー照射事件以来9年ぶりに合同訓練を実施——防衛協力が正常化へ",
-        "皇族確保策の「立法府総意」案に7党が賛成——10日にも決定の方針",
-        "カンボジア拠点特殊詐欺のリーダー格邦人をタイで拘束——被害総額10億円超",
-        "AIエージェントチームで66スプリント運用して分かった「失敗から学ばせ続ける」設計哲学",
-        "Anthropic Managed Agentsを試してみた——CLIで自律AIサービスを手軽に構築",
-        "コーディング規約を「読まれるドキュメント」にする——Skill/hookの3層構造で二重管理を排除",
-        "NVIDIA Releases Cosmos 3: First Open Omni-Model Unifying Physical AI Reasoning, World Generation, and Action",
-        "GitHub Copilot \"Fix with Copilot\" Now Available for Failing Actions — Cloud Agent Auto-Repairs CI Failures",
-        "Simon Willison: Running Python Code in a Sandboxed WASM Environment Using MicroPython"
-      ]
-    },
-    {
-      "run_at": "2026-06-08T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026060800250&g=int",
-        "https://www.itmedia.co.jp/news/articles/2606/08/news133.html",
-        "https://www.itmedia.co.jp/news/articles/2606/08/news131.html",
-        "https://news.yahoo.co.jp/pickup/6583466",
-        "https://news.yahoo.co.jp/pickup/6583465",
-        "https://www.itmedia.co.jp/aiplus/article/2606/08/2000000068/",
-        "https://zenn.dev/tokium_dev/articles/d806c7ad4fd458",
-        "https://www.itmedia.co.jp/business/articles/2606/08/news058.html",
-        "https://www.itmedia.co.jp/aiplus/article/2606/08/2000000066/",
-        "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-        "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown"
-      ],
-      "titles": [
-        "フィリピン南部沖でM8.2の巨大地震——19人死亡、日本各地に津波注意報",
-        "日立とIntelが戦略提携——物理AI・量子コンピューティングなど5領域で協力",
-        "パナソニックエナジー、2028年度に売上高2兆円目指す——AIデータセンター向け電池を成長の軸に",
-        "秋葉原無差別殺傷事件から18年——現場で献花、再発防止の誓いを新たに",
-        "「退職金」の縮小・廃止が広がる——日本企業でなぜ見直しが加速しているのか",
-        "Sakana AI、「AIでAIを開発」加速へ——再帰的自己改善専門チーム「RSI Lab」を設立",
-        "ClaudeでGemini議事録から決定事項・TODOを自動抽出——Google Apps Script + Claude Skillsで業務フロー構築",
-        "日立がClaude Mythosアクセス権を取得——「Project Glasswing」参加でサイバーセキュリティに活用",
-        "Notion AI Temporarily Disables Claude After Opus 4.7/4.8 Performance Degradation",
-        "DeepSeek V4 Pro Surpasses GPT-5.5 Pro on Precision Benchmarks — Open-Source Challenge Intensifies",
-        "How Linear Achieves Millisecond Responsiveness: A Deep Technical Breakdown of Their Architecture"
-      ]
-    },
-    {
-      "run_at": "2026-06-08T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026060800097&g=int",
-        "https://news.yahoo.co.jp/pickup/6583375",
-        "https://www.jiji.com/jc/article?k=2026060800118&g=soc",
-        "https://www.itmedia.co.jp/news/articles/2606/08/news108.html",
-        "https://www.itmedia.co.jp/news/articles/2606/08/news086.html",
-        "https://zenn.dev/zittiandbuoni/articles/632ff0709247f6",
-        "https://www.itmedia.co.jp/news/articles/2606/08/news100.html",
-        "https://www.itmedia.co.jp/enterprise/articles/2606/05/news028.html",
-        "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/",
-        "https://www.publickey1.jp/blog/26/linuxazure_linux_40azurewsl.html",
-        "https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview"
-      ],
-      "titles": [
-        "イランがイスラエルにミサイル発射——イスラエルが空爆で報復、中東情勢が再び緊迫",
-        "高市内閣の支持率70.0%——JNN世論調査で4.2ポイント下落も高水準維持",
-        "旭川・つり橋女子高生転落死事件——内田被告に懲役27年を求刑、判決は6月22日",
-        "KADOKAWA、公正取引委員会の調査を認める——フリーランス法違反の疑いで報道受け公式声明",
-        "三菱UFJ銀行、「PPAP」を原則廃止——7月から安全なダウンロードURLに切り替え",
-        "バイブコーディングが怖いので、全プロジェクトにSemgrep + gitleaksの自動セキュリティスキャンを仕込んだ",
-        "LINEのAIエージェントにメモリ機能追加——「ツンデレ」「執事」など10種類の口調変更も可能に",
-        "AIによるコード生成、3年後に企業採用率が3倍超へ——IDC Japan調査で見えた日本企業の現状と課題",
-        "OpenAI Launches Lockdown Mode for ChatGPT — Blocks Data Exfiltration from Prompt Injection Attacks",
-        "Microsoft Releases Azure Linux 4.0 in Public Preview — A Purpose-Built Microsoft-Supported Linux Distribution",
-        "GitHub Copilot Gets Enterprise-Managed Plugins for VS Code — Admins Can Now Centrally Deploy MCP Configs and Custom Agents Org-Wide"
       ]
     }
   ]

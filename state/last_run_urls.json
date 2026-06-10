@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-10T20:00:00+09:00",
+  "last_run_at": "2026-06-11T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-11T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6583739",
+        "https://news.yahoo.co.jp/pickup/6583714",
+        "https://news.yahoo.co.jp/pickup/6583746",
+        "https://news.yahoo.co.jp/pickup/6583748",
+        "https://news.yahoo.co.jp/pickup/6583720",
+        "https://zenn.dev/counterworks/articles/62667be5a186b8",
+        "https://zenn.dev/okamyuji/articles/local-llm-ruby-pitfall-benchmark-18gb-mac",
+        "https://www.publickey1.jp/blog/26/applemacoslinuxcontainer_machine10.html",
+        "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+        "https://github.blog/changelog/2026-06-10-dedicated-security-review-command-now-available-in-copilot-cli",
+        "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/"
+      ],
+      "titles": [
+        "皇族数確保策で「立法府の総意」——与野党の評価分かれ、共産党などが反発",
+        "日銀利上げ公算大——変動型住宅ローン金利の上昇と家計への影響",
+        "大阪・天王寺の地下街で女性が刺される——バッグ奪われ強盗殺人未遂で捜査",
+        "天橋立でクマ出没——麻酔銃で捕獲、名勝地の府道を一時閉鎖",
+        "北陸新幹線延伸——小浜・京都ルートの着工議論に「透明性欠如」の批判",
+        "生成AI時代のエンジニア生存戦略——「何を作るか」を問う3つのキャリアパス",
+        "18GB MacでローカルLLMを検証——Gemma 4 vs Qwen 3.5、言語別の精度差が明らかに",
+        "Apple「Container machine v1.0」macOSにLinuxコンテナを統合——ホームディレクトリ自動共有で開発体験が激変",
+        "AWS Bedrock Requires 30-Day Data Retention for Claude Mythos-Class Models — Even for Zero-Retention Customers",
+        "GitHub Copilot CLI Gains Dedicated /security-review Command — AI-Powered Vulnerability Scan Before Every Commit",
+        "Simon Willison Releases datasette-agent-edit — A Storage-Agnostic File-Editing Foundation for Agentic Datasette Plugins"
+      ]
+    },
     {
       "run_at": "2026-06-10T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Releases Claude Opus 4.8: 4x Less Likely to Miss Code Flaws, Adds Dynamic Workflows and Mid-Task System Prompt Updates",
         "Microsoft Open Source Repositories Breached: Password-Stealing Malware Injected into AI Developer Tools",
         "Anthropic Maps a Year of AI-Enabled Cyber Threats: Agentic Attack Chains Break Traditional Risk Metrics"
-      ]
-    },
-    {
-      "run_at": "2026-06-09T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583553",
-        "https://news.yahoo.co.jp/pickup/6583543",
-        "https://www.itmedia.co.jp/news/articles/2606/09/news088.html",
-        "https://www.itmedia.co.jp/news/articles/2606/09/news077.html",
-        "https://www.itmedia.co.jp/news/articles/2606/09/news072.html",
-        "https://zenn.dev/cnative_tkb/articles/423c50ca0d3dcc",
-        "https://zenn.dev/zoetaka38/articles/69c3e849523be8",
-        "https://zenn.dev/microsoft/articles/ghcp-finops-01",
-        "https://simonwillison.net/2026/Jun/8/wwdc/",
-        "https://www.anthropic.com/news/expanding-project-glasswing",
-        "https://github.blog/changelog/2026-06-04-budget-and-usage-management-apis-now-generally-available"
-      ],
-      "titles": [
-        "宇都宮市街地でクマ複数頭を目撃——大学周辺を重点捜索、住民に警戒呼びかけ",
-        "自民党総務会、国旗損壊罪を新設する法案を了承——刑法改正へ議論加速",
-        "AI合成写真で近大入試をすりぬけ——替え玉受験対策に生体認証の導入が急務か",
-        "Google「AI Plus」を4割値下げ、月額725円に——ストレージも400GBに増量",
-        "Apple「watchOS 27」発表——Series 8以前はサポート外、Siri AIでWatch連携を強化",
-        "マルチエージェントとは何が「複数」なのか——6体のsubagentを並走させて見えた設計の核心",
-        "AIコーディングエージェントは「継ぎ目」で壊れる——git・CI・認証の5つのインシデント事例",
-        "GitHub Copilot FinOps戦略——Usage-Based Billingへの移行とコスト最適化の実践",
-        "Apple Reveals Siri AI at WWDC26: Rebuilt on Google Gemini Models with Private Cloud Compute",
-        "Anthropic Expands Project Glasswing to 150+ Organizations Across 15+ Countries",
-        "GitHub Copilot Budget and Usage Management APIs Now Generally Available"
       ]
     }
   ]

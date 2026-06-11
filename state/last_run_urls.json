@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-11T15:00:00+09:00",
+  "last_run_at": "2026-06-11T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-11T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6583851",
+        "https://news.yahoo.co.jp/pickup/6583853",
+        "https://news.yahoo.co.jp/pickup/6583799",
+        "https://news.yahoo.co.jp/pickup/6583830",
+        "https://www.itmedia.co.jp/news/articles/2606/11/news110.html",
+        "https://zenn.dev/sompojapan_dx/articles/811ac0999e297b",
+        "https://www.itmedia.co.jp/news/articles/2606/11/news128.html",
+        "https://www.publickey1.jp/blog/26/aiwindowswindows_development_skills.html",
+        "https://github.blog/changelog/2026-06-10-copilot-chat-now-sees-your-agent-sessions",
+        "https://pgdog.dev/blog/our-funding-announcement",
+        "https://mohkohn.co.uk/writing/html-first/"
+      ],
+      "titles": [
+        "河野洋平・元衆院議長が89歳で逝去——「河野談話」で戦後外交を担った重鎮",
+        "家庭内の性暴力——刑法改正で父親による被害の摘発が急増",
+        "官房長官、中東情勢の深刻化を懸念——米・イラン交渉を注視",
+        "みらい党・安野党首、国会議員向けにAI勉強会を開催へ",
+        "JASRAC「AI作曲・人間作詞」の楽曲も著作権管理の対象に——人間の創作的寄与が基準",
+        "「Fable 5は自分以上に信頼している」——Claude Code開発者に直接聞いた、エージェント開発の現在地",
+        "NEC・Anthropic、金融8社と連携——Claude活用で業務DXと新サービス創出へ",
+        "Microsoft「Windows Development Skills」正式提供——AIエージェントにWinUI 3開発知識を付与",
+        "GitHub Copilot Chat Now Sees Your Agent Sessions — Cross-Session Context for Agentic Workflows",
+        "PgDog Raises $5.5M — Open-Source PostgreSQL Proxy Hits 2M Queries/Second in Production",
+        "Building an HTML-First Site Doubled Conversion Overnight — Progressive Enhancement Still Works in 2026"
+      ]
+    },
     {
       "run_at": "2026-06-11T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Simon Willison: Initial Impressions of Claude Fable 5 — A Beast with 1M Token Context and $110 in Test Costs",
         "npm v12 Breaking Changes: Script Execution, Git Deps, and Remote URLs Now Require Explicit Approval",
         "Claude Fable 5 Now Generally Available for GitHub Copilot — Integrated Across All Plans"
-      ]
-    },
-    {
-      "run_at": "2026-06-10T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/topics/domestic",
-        "https://www.jiji.com/jc/list?g=eco",
-        "https://www.jiji.com/jc/list?g=eco",
-        "https://news.yahoo.co.jp/topics/domestic",
-        "https://www.itmedia.co.jp/news/articles/2606/09/news121.html",
-        "https://zenn.dev/horicchy/articles/7076932bff319b",
-        "https://zenn.dev/kawauchi_lab/articles/4b300879a41ab5",
-        "https://zenn.dev/g2/articles/7aeb22e8ebbf82",
-        "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-        "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
-        "https://arxiv.org/abs/2605.15184"
-      ],
-      "titles": [
-        "自民参院幹部、世耕氏を痛烈批判——党内対立が表面化",
-        "日本製鉄、USスチールに最大4000億円を投資——買収完了後の設備刷新へ",
-        "実質GDP、年率1.8%増に下方修正——設備投資の落ち込みと中東情勢が影響",
-        "防衛省、白書PRにショート動画を活用——若年層への安保意識啓発を強化",
-        "日本語能力試験「合格保証」詐欺——中国系SNSでカンニング機器が流通",
-        "QAエンジニアがAIスキルを設計——「画面の5要素」から逆引き検索で網羅的テストを実現",
-        "Claude Codeで仕様書をMarkdownとHTMLで比較——コスト・品質・保守性のトレードオフを実測",
-        "AIでどこでも仕事できるようにしたけど疲れてやめた——介入設計という逆転の発想",
-        "Anthropic Releases Claude Fable 5 and Mythos 5 — State-of-the-Art Performance with Restricted Access Tier",
-        "What It Feels Like to Work With Claude Mythos — From Wizard to Patron of Autonomous AI",
-        "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search Performance"
-      ]
-    },
-    {
-      "run_at": "2026-06-10T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583597",
-        "https://news.yahoo.co.jp/pickup/6583601",
-        "https://news.yahoo.co.jp/pickup/6583598",
-        "https://www.itmedia.co.jp/news/articles/2606/09/news132.html",
-        "https://news.yahoo.co.jp/pickup/6583611",
-        "https://zenn.dev/knowledgesense/articles/7ce72924c0050f",
-        "https://www.publickey1.jp/blog/26/cloudflareaicloudflare_ai_gateway.html",
-        "https://www.itmedia.co.jp/news/articles/2606/09/news117.html",
-        "https://www.anthropic.com/news/confidential-draft-s1-sec",
-        "https://github.blog/changelog/2026-06-09-security-validation-for-third-party-coding-agents",
-        "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/"
-      ],
-      "titles": [
-        "日銀、政策金利を1.0%へ引き上げへ——31年ぶり高水準、住宅ローンや預金に波及",
-        "池田小事件から25年——重傷を負った女性、今は2児の母として歩む",
-        "ニュージーランド首都に高さ11メートルの高波——数百人が避難、警戒続く",
-        "九電子会社の紛失SSD、暗号化もパスワードも未設定——最大1090万件の顧客情報が対象",
-        "スノボ男子ハーフパイプ金メダリスト・戸塚優斗選手、結婚を発表",
-        "「Claude Code」を支える技術——AIコードは1.6%、残り98.4%はハーネス設計だった",
-        "Cloudflare AI Gateway、従業員・アプリごとにAI利用上限額を設定可能に",
-        "Apple、「Private Cloud Compute」にGoogle CloudとNVIDIA GPUを採用——プライバシー保護の仕組みも公開",
-        "Anthropic Confidentially Files S-1 with the SEC — IPO Path Opens for the Claude Maker",
-        "GitHub Extends Security Validation to All Third-Party Coding Agents Including Claude and Codex",
-        "Charity Majors: AI Enthusiasts Race Against Time, AI Skeptics Race Against Entropy"
       ]
     }
   ]

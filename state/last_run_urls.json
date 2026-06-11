@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-11T20:00:00+09:00",
+  "last_run_at": "2026-06-12T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-12T00:00:00+09:00",
+      "urls": [
+        "https://www.nikkei.com",
+        "https://news.yahoo.co.jp",
+        "https://www.jiji.com",
+        "https://www.nhk.or.jp/news/",
+        "https://news.yahoo.co.jp",
+        "https://zenn.dev/topics/claudecode",
+        "https://zenn.dev/topics/llm",
+        "https://www.itmedia.co.jp/news/",
+        "https://www.anthropic.com/news",
+        "https://simonwillison.net",
+        "https://github.blog/changelog/feed/"
+      ],
+      "titles": [
+        "欧州中央銀行、2年9カ月ぶりに利上げ——インフレ再燃と中東リスクが決定を後押し",
+        "天皇陛下、皇族数確保策に異例のコメント——「国民の理解と協力」に期待を示す",
+        "トランプ大統領、イランへの「激しい攻撃」を宣言——中東情勢はさらなる緊張局面へ",
+        "神戸市内で初めてクマの目撃情報——市街地近くの山林で発見、猟友会が出動",
+        "元ボクサー・ガッツ石松さんが79歳で逝去——「世界チャンプは俺だ」で親しまれた昭和の名物人",
+        "Claude Codeの記事が薄くなる理由——AIエージェントに設計議論が届いていない問題を考える",
+        "Stateful MCPサーバーで社内データ分析エージェントを構築する——セッション管理とコンテキスト保持の設計パターン",
+        "VisaとOpenAIが提携——AIエージェントによる代理決済を安全に実現する仕組みを共同開発",
+        "Anthropic Launches Claude Corps — A National Fellowship to Democratize AI Access for Early-Career Professionals",
+        "Uber Caps AI Coding Tool Spend at $1,500/Month Per Engineer — Internal Cost Control Amid Soaring AI Tooling Bills",
+        "GitHub CLI v2.94.0 Adds gh discussion Command Group — Full Discussion Lifecycle Now Manageable from Terminal"
+      ]
+    },
     {
       "run_at": "2026-06-11T20:00:00+09:00",
       "urls": [

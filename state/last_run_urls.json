@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-13T00:00:00+09:00",
+  "last_run_at": "2026-06-13T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-13T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026061200195&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6584013",
+        "https://www.jiji.com/jc/article?k=2026061200658&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061200772&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061200735&g=int&m=rss",
+        "https://zenn.dev/acntechjp/articles/83f9d7bb898010",
+        "https://zenn.dev/imaimai17468/articles/c5440b98a6e766",
+        "https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html",
+        "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+        "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+        "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners"
+      ],
+      "titles": [
+        "スペースX、米ナスダックに上場——史上最大のIPOで約12兆円を調達",
+        "タイのパーチャラキッティヤパー王女が死去——3年半の昏睡状態から回復せず",
+        "女優・中村玉緒さんが86歳で逝去——昭和を彩った名優が静かに幕",
+        "H3ロケット、事故から半年で早期再開へ——物的証拠と準備機体が条件を整える",
+        "韓国・李在明大統領の支持率が急落——統一地方選後に7ポイント低下し57%に",
+        "CLAUDE.mdでAdvisorに直接語りかける——Claude Codeのプロジェクト設計原則を長期セッションで維持する方法",
+        "AIモデルをまたいだコードレビューは効果的か——Opus 4.8とCodexで13本のReact実装を比較検証",
+        "Microsoft、AIエージェント向け実行コンテナ「MXC」を発表——組織ポリシーに応じた隔離環境でリスクを制御",
+        "Kimi K2.7-Code: Open-Source Agentic Coding Model Cuts Thinking Tokens by 30% While Beating K2.6 on SWE Benchmarks",
+        "How to Run a Local Coding Agent on macOS at 72 Tokens/Second — Gemma 4 + llama.cpp + Speculative Decoding",
+        "GitHub Actions Enforces Minimum Runner Version — Self-Hosted Runners on Rearchitected Platform Must Upgrade by July–September 2026"
+      ]
+    },
     {
       "run_at": "2026-06-13T00:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "GitHub Copilot Chat Now Sees Your Agent Sessions — Cross-Session Context for Agentic Workflows",
         "PgDog Raises $5.5M — Open-Source PostgreSQL Proxy Hits 2M Queries/Second in Production",
         "Building an HTML-First Site Doubled Conversion Overnight — Progressive Enhancement Still Works in 2026"
-      ]
-    },
-    {
-      "run_at": "2026-06-11T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583784",
-        "https://news.yahoo.co.jp/pickup/6583787",
-        "https://news.yahoo.co.jp/pickup/6583788",
-        "https://news.yahoo.co.jp/pickup/6583789",
-        "https://www.itmedia.co.jp/news/articles/2606/11/news096.html",
-        "https://zenn.dev/paraponera/articles/2026-06-11-code-with-claude-tokyo",
-        "https://www.publickey1.jp/blog/26/ubuntuworkshop.html",
-        "https://zenn.dev/sre_holdings/articles/3b4d7d222d4b1f",
-        "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/",
-        "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-        "https://www.anthropic.com/news/expanding-project-glasswing"
-      ],
-      "titles": [
-        "米軍がイランへの攻撃作戦を完了——中央軍が声明、ホルムズ海峡封鎖宣言で中東情勢は依然緊張",
-        "原油の代替調達、来月には100%達成の見通し——ホルムズ迂回ルートを政府が確保",
-        "85歳バス運転手を鑑定留置へ——名古屋の2人死亡事故、責任能力を判断",
-        "皇族数確保で「立法府の総意」——女性皇族の婚姻後残留と旧宮家男系男子の編入に賛否",
-        "セブン購買データを広告に活用——電通・サイバーエージェントと合弁、2万2000店舗のPOSデータを解析",
-        "Code with Claude Tokyo 参加レポート——AI時代に強い組織は「ワークフローそのもの」を再設計している",
-        "Ubuntu「Workshop」リリース——コマンド一発でAI・GPU対応の隔離開発環境を構築、LXDベースの再現性確保",
-        "続・Figma MCPは本当にすごいのか——コードからデザインへの双方向同期を実証、CI/CD統合の可能性を探る",
-        "Anthropic Reverses Hidden \"Frontier LLM Research\" Degradation Policy — Transparency Now Required for All Safeguards",
-        "AI Agent Runs Amok in Fedora and Upstream Projects — Compromised Account Merges Suspicious Code into Anaconda Installer",
-        "Anthropic Expands Project Glasswing to 150+ Organizations — AI-Powered Vulnerability Scanning Now Covers Power, Water, and Healthcare Infrastructure"
-      ]
-    },
-    {
-      "run_at": "2026-06-11T10:25:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583766",
-        "https://news.yahoo.co.jp/pickup/6583762",
-        "https://news.yahoo.co.jp/pickup/6583774",
-        "https://news.yahoo.co.jp/pickup/6583777",
-        "https://news.yahoo.co.jp/pickup/6583772",
-        "https://zenn.dev/lnest_knowledge/articles/5c096326621715",
-        "https://zenn.dev/yamato_snow/articles/d180340730d583",
-        "https://www.itmedia.co.jp/news/articles/2606/11/news063.html",
-        "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-        "https://burr.apache.org/",
-        "https://simonwillison.net/2026/Jun/10/datasette-agent/"
-      ],
-      "titles": [
-        "米軍がイラン国内への攻撃を再開——ホルムズ海峡閉鎖宣言で中東緊張が最高潮に",
-        "再審見直し法案、政府・与党が修正へ——国民民主の態度次第で最終判断",
-        "日経平均が一時1800円超の急落——中東情勢悪化でリスク回避の売りが殺到",
-        "大谷翔平、7勝目の権利を持ちながら7回途中で降板——指の出血も投球内容は高水準",
-        "漫画「宇宙兄弟」が18年半の連載に幕——432話で完結、最終46巻は7月発売",
-        "LLM時代の非構造化データ設計——JSON契約・信頼度スコア・モデル分担で後段システムを堅牢化",
-        "Claude Fable 5レビュー——Opusの2倍の価格でも「速度・精度・長期タスク遂行力」で明確に上回る",
-        "Fable 5のガードレールが厳格すぎて「DNAとは何か」にも回答拒否——Anthropicが改善策を適用",
-        "Cybersecurity Researchers Slam Anthropic's Fable Guardrails as \"Haphazard\" — Legit Security Work Gets Blocked",
-        "Apache Burr: Production-Ready Python Framework for Building Reliable AI Agents Without Vendor Lock-In",
-        "datasette-agent 0.2a0: Tools Can Now Pause Mid-Execution to Ask Humans Questions — A Model for Agentic Human-in-the-Loop"
       ]
     }
   ]

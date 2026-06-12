@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-12T10:00:00+09:00",
+  "last_run_at": "2026-06-12T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-12T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6583961",
+        "https://news.yahoo.co.jp/pickup/6583957",
+        "https://news.yahoo.co.jp/pickup/6583947",
+        "https://news.yahoo.co.jp/pickup/6583960",
+        "https://www.itmedia.co.jp/news/articles/2606/12/news095.html",
+        "https://zenn.dev/yasuhiro_test/articles/65eba13298c9c2",
+        "https://zenn.dev/0rv3/articles/b6a7172bfda1ed",
+        "https://zenn.dev/knowledgesense/articles/7ce72924c0050f",
+        "https://simonwillison.net/2026/Jun/11/datasette/",
+        "https://github.blog/changelog/2026-06-11-github-enterprise-server-3-21-is-now-generally-available",
+        "https://mrbruh.com/amd2/"
+      ],
+      "titles": [
+        "東京都心に大雨警報——川の増水や低地の浸水に厳重注意",
+        "新潟駅近くで刃物切り付け事件——男は徒歩で逃走中",
+        "放課後デイサービスで6歳死亡——職員が屋外活動中に男児の行方を見失う",
+        "W杯2026開幕戦で史上初の一発退場3人——メキシコが南アフリカを下す",
+        "NTT、Amazon衛星ネット「Amazon Leo」を国内提供へ——離島・災害時の通信インフラに",
+        "QAエンジニアがClaude Codeでテスト自動化——「自分でやりきる」から「AIの結果を判断する」へシフト",
+        "Claude Code × Obsidianで「記憶の二層構造」を構築——長期ナレッジとセッション文脈を分離管理",
+        "「Claude Code」を支える技術——実装コードの98.4%は「ハーネス」、AIが担う推論はわずか1.6%",
+        "Datasette 1.0a33 — Agentic API Explorer Built Collaboratively by Claude Fable 5 and GPT-5.5",
+        "GitHub Enterprise Server 3.21 GA — Organization Custom Properties, Hierarchy View, and REST API 2026-03-10",
+        "The RCE That AMD Wouldn't Fix — Auto-Updater Served Executables Over HTTP Without Signature Verification"
+      ]
+    },
     {
       "run_at": "2026-06-12T10:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Cybersecurity Researchers Slam Anthropic's Fable Guardrails as \"Haphazard\" — Legit Security Work Gets Blocked",
         "Apache Burr: Production-Ready Python Framework for Building Reliable AI Agents Without Vendor Lock-In",
         "datasette-agent 0.2a0: Tools Can Now Pause Mid-Execution to Ask Humans Questions — A Model for Agentic Human-in-the-Loop"
-      ]
-    },
-    {
-      "run_at": "2026-06-11T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583739",
-        "https://news.yahoo.co.jp/pickup/6583714",
-        "https://news.yahoo.co.jp/pickup/6583746",
-        "https://news.yahoo.co.jp/pickup/6583748",
-        "https://news.yahoo.co.jp/pickup/6583720",
-        "https://zenn.dev/counterworks/articles/62667be5a186b8",
-        "https://zenn.dev/okamyuji/articles/local-llm-ruby-pitfall-benchmark-18gb-mac",
-        "https://www.publickey1.jp/blog/26/applemacoslinuxcontainer_machine10.html",
-        "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-        "https://github.blog/changelog/2026-06-10-dedicated-security-review-command-now-available-in-copilot-cli",
-        "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/"
-      ],
-      "titles": [
-        "皇族数確保策で「立法府の総意」——与野党の評価分かれ、共産党などが反発",
-        "日銀利上げ公算大——変動型住宅ローン金利の上昇と家計への影響",
-        "大阪・天王寺の地下街で女性が刺される——バッグ奪われ強盗殺人未遂で捜査",
-        "天橋立でクマ出没——麻酔銃で捕獲、名勝地の府道を一時閉鎖",
-        "北陸新幹線延伸——小浜・京都ルートの着工議論に「透明性欠如」の批判",
-        "生成AI時代のエンジニア生存戦略——「何を作るか」を問う3つのキャリアパス",
-        "18GB MacでローカルLLMを検証——Gemma 4 vs Qwen 3.5、言語別の精度差が明らかに",
-        "Apple「Container machine v1.0」macOSにLinuxコンテナを統合——ホームディレクトリ自動共有で開発体験が激変",
-        "AWS Bedrock Requires 30-Day Data Retention for Claude Mythos-Class Models — Even for Zero-Retention Customers",
-        "GitHub Copilot CLI Gains Dedicated /security-review Command — AI-Powered Vulnerability Scan Before Every Commit",
-        "Simon Willison Releases datasette-agent-edit — A Storage-Agnostic File-Editing Foundation for Agentic Datasette Plugins"
-      ]
-    },
-    {
-      "run_at": "2026-06-10T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583722",
-        "https://news.yahoo.co.jp/pickup/6583723",
-        "https://www.itmedia.co.jp/news/articles/2606/10/news123.html",
-        "https://www.itmedia.co.jp/news/articles/2606/10/news094.html",
-        "https://www.itmedia.co.jp/news/articles/2606/10/news125.html",
-        "https://www.itmedia.co.jp/news/articles/2606/10/news126.html",
-        "https://www.publickey1.jp/blog/26/cloudflareviterolldownvoidzeroastrovitecloudflare.html",
-        "https://zenn.dev/zittiandbuoni/articles/632ff0709247f6",
-        "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-        "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-        "https://simonwillison.net/2026/Jun/9/llm/"
-      ],
-      "titles": [
-        "元衆議院議長・河野洋平氏が89歳で逝去——「河野談話」で知られる戦後外交の重鎮",
-        "日銀・植田総裁が入院——肝嚢胞感染症で2週間、金融決定会合への参加は書面のみ",
-        "NTT、800億円規模のAIファンド「IOWN AI Fund」設立——シリコンバレーと韓国に新会社",
-        "電動キックボードのLuup、北区の死亡事故を「当社サービス利用中」と公表——安全対策を強化へ",
-        "H3ロケット打ち上げ時の水蒸気放出を科学未来館でパブリックビューイング——6月12日に無料開催",
-        "AIエージェントもフィッシング詐欺に引っかかる——OpenClawで4種の攻撃手法を検証、GPT-5.4が最も耐性高",
-        "CloudflareがVoidZeroを買収——ViteとRolldownがCloudflare傘下に、Astroに続きフロントエンドエコシステムを掌握",
-        "バイブコーディングが怖いので全PJにSemgrep+gitleaksを仕込んだ——AI生成コードの二層セキュリティスキャン実践",
-        "If Claude Fable Stops Helping You, You'll Never Know — Silent Capability Degradation for Competitors",
-        "German Court Rules Google Liable for False AI Overview Answers — AI Summaries Are Google's Own Words",
-        "Simon Willison Releases llm 0.32a3 — Built Almost Entirely by Claude Fable 5 in One Session"
       ]
     }
   ]

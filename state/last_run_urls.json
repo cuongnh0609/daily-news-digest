@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-12T05:00:00+09:00",
+  "last_run_at": "2026-06-12T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-12T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6583918",
+        "https://news.yahoo.co.jp/pickup/6583875",
+        "https://news.yahoo.co.jp/pickup/6583873",
+        "https://news.yahoo.co.jp/pickup/6583751",
+        "https://www.itmedia.co.jp/news/articles/2606/12/news058.html",
+        "https://zenn.dev/piroyoung/articles/73114bf42b4eaf",
+        "https://zenn.dev/mkj/articles/966c62588bd8fc",
+        "https://www.itmedia.co.jp/news/articles/2606/12/news072.html",
+        "https://zed.dev/blog/introducing-deltadb",
+        "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+        "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/"
+      ],
+      "titles": [
+        "首都直下地震対策を抜本見直し——死者数を現在の想定から半減以下に",
+        "憲法9条改正を巡り自民・維新の溝が浮き彫りに——自衛隊明記 vs 2項削除で対立",
+        "日韓犯罪人引渡し条約が初適用——違法漫画サイト運営の37歳男を韓国へ",
+        "首相、G7サミットでエネルギー安保「3原則」を提唱へ——アジア向け備蓄強化が柱",
+        "NTTドコモ、量子耐性暗号を搭載したSIMカードを世界初開発——IoT機器を次世代脅威から防御",
+        "コーディングエージェントに18万行書かせて見えたこと——設計・ログ・Issue管理で変わる開発の現場",
+        "CodexでAIニュースキュレーターを自作、1か月運用——スワイプUIで好みを学習、フィルターバブルも防止",
+        "OpenAI、クラウド開発環境「Ona（旧Gitpod）」を買収——CodexにAIエージェント向けセキュア実行環境を統合",
+        "Zed Introduces DeltaDB — A Version Control System Built for AI-Collaborative Software Development",
+        "Homebrew 6.0.0 Released — New Tap Trust Model, Linux Sandboxing, and Faster JSON API",
+        "Simon Willison: Claude Fable Is Relentlessly Proactive — Opened a Browser and Edited Templates Without Being Asked"
+      ]
+    },
     {
       "run_at": "2026-06-12T05:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "If Claude Fable Stops Helping You, You'll Never Know — Silent Capability Degradation for Competitors",
         "German Court Rules Google Liable for False AI Overview Answers — AI Summaries Are Google's Own Words",
         "Simon Willison Releases llm 0.32a3 — Built Almost Entirely by Claude Fable 5 in One Session"
-      ]
-    },
-    {
-      "run_at": "2026-06-10T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583682",
-        "https://news.yahoo.co.jp/pickup/6583629",
-        "https://news.yahoo.co.jp/pickup/6583609",
-        "https://www.itmedia.co.jp/news/articles/2606/10/news084.html",
-        "https://www.itmedia.co.jp/news/articles/2606/10/news081.html",
-        "https://zenn.dev/flierinc/articles/fcf32bfa82524e",
-        "https://zenn.dev/harumikun/articles/cd898e4032ca37",
-        "https://zenn.dev/engharu/articles/b3aa073c3694de",
-        "https://blog.gitbutler.com/true-grit",
-        "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/",
-        "https://www.anthropic.com/news/services-track-partner-hub"
-      ],
-      "titles": [
-        "糖質カット炊飯器の表示、東京高裁が国の控訴を棄却——消費者庁の措置命令は無効と判断",
-        "日本・マレーシア首脳会談——海上保安当局間の協力覚書締結で合意、インド太平洋の安全保障を強化",
-        "立憲、首相秘書の参考人招致を要求——自民は応じず「首相との質疑で確認を」",
-        "光パルスで制御する新型磁気メモリ、従来比1000倍の高速化——QSTと旭化成が共同開発",
-        "防衛装備庁、自爆型ドローンに対抗する「迎撃ドローン」の公募を開始——8月には量産契約へ",
-        "Maestro MCP × Claude Code Skills——モバイルE2Eテストの生成・実行・自動修復を一気通貫で実現",
-        "ExcelVBA開発をAIエージェントで完全自律化——GUI不要のランタイム「xlflow」でVBEを卒業",
-        "Docker Buildを106秒→44秒・32秒→3秒に高速化——3つの改善で実現したキャッシュ最適化の実践",
-        "Grit: Rewriting Git in Rust Using AI Agents — 360K Lines, 45B Tokens, $10-15K Cost",
-        "Claude Fable 5 Silently Degrades Responses for Frontier LLM Research — Anthropic Confirms Invisible Safeguards",
-        "Anthropic Launches Services Track and Partner Hub — Structured Ecosystem for Claude Integration Partners"
-      ]
-    },
-    {
-      "run_at": "2026-06-10T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583634",
-        "https://news.yahoo.co.jp/pickup/6583642",
-        "https://news.yahoo.co.jp/pickup/6583640",
-        "https://news.yahoo.co.jp/pickup/6583631",
-        "https://www.itmedia.co.jp/news/articles/2606/10/news015.html",
-        "https://zenn.dev/dinii/articles/1cfac1ca8b46c3",
-        "https://zenn.dev/pepabo/articles/claude-code-token-reduction-measured",
-        "https://www.itmedia.co.jp/news/articles/2606/10/news060.html",
-        "https://simonwillison.net/2026/Jun/9/claude-fable-5/",
-        "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12",
-        "https://github.blog/changelog/2026-06-09-claude-fable-5-is-generally-available-for-github-copilot"
-      ],
-      "titles": [
-        "自民党、安保政策の見直しに向けて防衛費増額を政府に提言へ",
-        "ラピダス、英国・イタリアの公的機関と次世代半導体の研究開発協力へ",
-        "楽天イーグルス・三木肇監督が休養——深夜1時の電撃発表、塩川ヘッドが代行へ",
-        "誕生祝いと称し幼児の顔にケーキを押し付ける動画、虐待疑惑で福岡の児相が一時保護",
-        "政府関係者らのInstagramアカウント乗っ取り——Meta AIアシスタントの脆弱性が悪用か",
-        "Claude Managed Agentsで社内データ・ログ・コードを横断調査するSlack botを安定運用する方法",
-        "Claude Codeのトークン削減を実測——semble活用で93%削減・cacheRead 1800倍の内訳",
-        "Google、リアルタイム音声翻訳「Gemini 3.5 Live Translate」発表——70言語対応で同時通訳に迫る精度",
-        "Simon Willison: Initial Impressions of Claude Fable 5 — A Beast with 1M Token Context and $110 in Test Costs",
-        "npm v12 Breaking Changes: Script Execution, Git Deps, and Remote URLs Now Require Explicit Approval",
-        "Claude Fable 5 Now Generally Available for GitHub Copilot — Integrated Across All Plans"
       ]
     }
   ]

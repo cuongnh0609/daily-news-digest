@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-14T00:00:00+09:00",
+  "last_run_at": "2026-06-14T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-14T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6584135",
+        "https://news.yahoo.co.jp/pickup/6584119",
+        "https://news.yahoo.co.jp/pickup/6584139",
+        "https://news.yahoo.co.jp/pickup/6584137",
+        "https://www.itmedia.co.jp/news/articles/2606/12/news122.html",
+        "https://zenn.dev/mkj/articles/966c62588bd8fc",
+        "https://zenn.dev/sompojapan_dx/articles/811ac0999e297b",
+        "https://zenn.dev/counterworks/articles/1887cb36a1b701",
+        "https://www.anthropic.com/news/dxc-anthropic-alliance",
+        "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+        "https://github.com/tensorzero/tensorzero"
+      ],
+      "titles": [
+        "島根の山林で73歳男性死亡――ヒノキの下敷きになった可能性、労災調査へ",
+        "DAZNが「月980円」誤表示で謝罪――サッカー年間プランを月額と誤認させた約12日間の表示ミス",
+        "日本ハム9連勝・交流戦13勝3敗で独走――新庄監督「パが強すぎる」とユーモアたっぷりに",
+        "Mrs. GREEN APPLE がMAJ 2026最優秀アーティスト賞――2年連続の快挙、「孤独に作り続けた」と語る",
+        "はてな、11億円超の資金流出で通期最終赤字へ――東芝との委託トラブルも重なり業績悪化",
+        "自分専用のAIニュースキュレーターをCodexで構築・1か月運用――パーソナライズの有効性とRSSベース設計の知見",
+        "「Fable 5 は自分以上に信頼している」――Code w/ Claude Tokyo でClaude Code開発者が語ったエージェント設計の真髄",
+        "マルチテナントSaaSにおけるアプリ層とDB層の二重防御――PostgreSQL RLS + Rails gemでテナント分離を保証する実践手法",
+        "DXC Technology + Anthropic Alliance: Claude to Power Banking, Aviation, and Government Systems at Scale",
+        "Simon Willison: Claude Fable 5 Is Relentlessly Proactive — Autonomous Browser Control, Shadow DOM Inspection, and a $12 Token Bill",
+        "TensorZero LLMOps Platform Archived Overnight After $7.3M Seed — Community Debates What Happened"
+      ]
+    },
     {
       "run_at": "2026-06-14T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "AI Agent Autonomously Spent $6,531 on AWS Infrastructure While Scanning DN42",
         "Anthropic Confidentially Files Draft S-1 with the SEC — IPO Path Opens for the $965B AI Lab",
         "Claude Fable 5 Scores Mid-Table on Real-World Security Coding Benchmark — 38 Cheating Signals Detected"
-      ]
-    },
-    {
-      "run_at": "2026-06-12T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583961",
-        "https://news.yahoo.co.jp/pickup/6583957",
-        "https://news.yahoo.co.jp/pickup/6583947",
-        "https://news.yahoo.co.jp/pickup/6583960",
-        "https://www.itmedia.co.jp/news/articles/2606/12/news095.html",
-        "https://zenn.dev/yasuhiro_test/articles/65eba13298c9c2",
-        "https://zenn.dev/0rv3/articles/b6a7172bfda1ed",
-        "https://zenn.dev/knowledgesense/articles/7ce72924c0050f",
-        "https://simonwillison.net/2026/Jun/11/datasette/",
-        "https://github.blog/changelog/2026-06-11-github-enterprise-server-3-21-is-now-generally-available",
-        "https://mrbruh.com/amd2/"
-      ],
-      "titles": [
-        "東京都心に大雨警報——川の増水や低地の浸水に厳重注意",
-        "新潟駅近くで刃物切り付け事件——男は徒歩で逃走中",
-        "放課後デイサービスで6歳死亡——職員が屋外活動中に男児の行方を見失う",
-        "W杯2026開幕戦で史上初の一発退場3人——メキシコが南アフリカを下す",
-        "Starlink対抗の衛星ネット「Amazon Leo」　NTTが国内提供へ　災害時や離島でも"つながる回線"に",
-        "QAエンジニアがClaude Codeでテスト自動化——「自分でやりきる」から「AIの結果を判断する」へシフト",
-        "Claude Code × Obsidianで「記憶の二層構造」を構築——長期ナレッジとセッション文脈を分離管理",
-        "「Claude Code」を支える技術——実装コードの98.4%は「ハーネス」、AIが担う推論はわずか1.6%",
-        "Datasette 1.0a33 — Agentic API Explorer Built Collaboratively by Claude Fable 5 and GPT-5.5",
-        "GitHub Enterprise Server 3.21 GA — Organization Custom Properties, Hierarchy View, and REST API 2026-03-10",
-        "The RCE That AMD Wouldn't Fix — Auto-Updater Served Executables Over HTTP Without Signature Verification"
       ]
     }
   ]

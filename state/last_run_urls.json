@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-13T20:00:00+09:00",
+  "last_run_at": "2026-06-14T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-14T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6584127",
+        "https://news.yahoo.co.jp/pickup/6584128",
+        "https://www.jiji.com/jc/article?k=2026061300376&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6584140",
+        "https://www.itmedia.co.jp/news/articles/2606/12/news126.html",
+        "https://zenn.dev/53able/articles/6514f44e72be7f",
+        "https://zenn.dev/znet/articles/2026-stronger-model-as-reviewer",
+        "https://www.publickey1.jp/blog/26/ubuntuworkshop.html",
+        "https://www.anthropic.com/news/claude-corps",
+        "https://www.anthropic.com/news/tcs-anthropic-partnership",
+        "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow"
+      ],
+      "titles": [
+        "米・イラン停戦合意が間近か――パキスタンが「24時間以内」と見通しを表明",
+        "AI企業幹部がG7サミットに集結――アンソロピックCEOらエビアンへ",
+        "中国、台湾東部沖で外国貨物船を取り締まり――日本への示威行動か",
+        "名古屋の庄内川で男子中学生が溺死――川遊び中に流される",
+        "メタプラネット、シイボ証券を21億円で買収――ビットコイン事業を拡大",
+        "散らばるAIエージェントのログを一元管理――「agentsview」でコスト把握と振り返りを効率化",
+        "高性能モデルの真価は「実装者」でなく「レビュアー」にあり――Fable 5実機評価で見えた最適な役割分担",
+        "Ubuntu、コマンド一発で再現可能な開発環境を構築する新機能「Workshop」をリリース",
+        "Anthropic Launches Claude Corps — $150M Fellowship to Deploy AI in Nonprofits Nationwide",
+        "TCS and Anthropic Partner to Deploy Claude Across Banks, Airlines, and Regulated Industries Globally",
+        "A Shadow Hangs Over Fable 5 — Government Export Controls, Corporate Politics, and the Precedent for AI Shutdowns"
+      ]
+    },
     {
       "run_at": "2026-06-13T20:00:00+09:00",
       "urls": [
@@ -195,71 +224,13 @@
         "新潟駅近くで刃物切り付け事件——男は徒歩で逃走中",
         "放課後デイサービスで6歳死亡——職員が屋外活動中に男児の行方を見失う",
         "W杯2026開幕戦で史上初の一発退場3人——メキシコが南アフリカを下す",
-        "NTT、Amazon衛星ネット「Amazon Leo」を国内提供へ——離島・災害時の通信インフラに",
+        "Starlink対抗の衛星ネット「Amazon Leo」　NTTが国内提供へ　災害時や離島でも"つながる回線"に",
         "QAエンジニアがClaude Codeでテスト自動化——「自分でやりきる」から「AIの結果を判断する」へシフト",
         "Claude Code × Obsidianで「記憶の二層構造」を構築——長期ナレッジとセッション文脈を分離管理",
         "「Claude Code」を支える技術——実装コードの98.4%は「ハーネス」、AIが担う推論はわずか1.6%",
         "Datasette 1.0a33 — Agentic API Explorer Built Collaboratively by Claude Fable 5 and GPT-5.5",
         "GitHub Enterprise Server 3.21 GA — Organization Custom Properties, Hierarchy View, and REST API 2026-03-10",
         "The RCE That AMD Wouldn't Fix — Auto-Updater Served Executables Over HTTP Without Signature Verification"
-      ]
-    },
-    {
-      "run_at": "2026-06-12T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583918",
-        "https://news.yahoo.co.jp/pickup/6583875",
-        "https://news.yahoo.co.jp/pickup/6583873",
-        "https://news.yahoo.co.jp/pickup/6583751",
-        "https://www.itmedia.co.jp/news/articles/2606/12/news058.html",
-        "https://zenn.dev/piroyoung/articles/73114bf42b4eaf",
-        "https://zenn.dev/mkj/articles/966c62588bd8fc",
-        "https://www.itmedia.co.jp/news/articles/2606/12/news072.html",
-        "https://zed.dev/blog/introducing-deltadb",
-        "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-        "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/"
-      ],
-      "titles": [
-        "首都直下地震対策を抜本見直し——死者数を現在の想定から半減以下に",
-        "憲法9条改正を巡り自民・維新の溝が浮き彫りに——自衛隊明記 vs 2項削除で対立",
-        "日韓犯罪人引渡し条約が初適用——違法漫画サイト運営の37歳男を韓国へ",
-        "首相、G7サミットでエネルギー安保「3原則」を提唱へ——アジア向け備蓄強化が柱",
-        "NTTドコモ、量子耐性暗号を搭載したSIMカードを世界初開発——IoT機器を次世代脅威から防御",
-        "コーディングエージェントに18万行書かせて見えたこと——設計・ログ・Issue管理で変わる開発の現場",
-        "CodexでAIニュースキュレーターを自作、1か月運用——スワイプUIで好みを学習、フィルターバブルも防止",
-        "OpenAI、クラウド開発環境「Ona（旧Gitpod）」を買収——CodexにAIエージェント向けセキュア実行環境を統合",
-        "Zed Introduces DeltaDB — A Version Control System Built for AI-Collaborative Software Development",
-        "Homebrew 6.0.0 Released — New Tap Trust Model, Linux Sandboxing, and Faster JSON API",
-        "Simon Willison: Claude Fable Is Relentlessly Proactive — Opened a Browser and Edited Templates Without Being Asked"
-      ]
-    },
-    {
-      "run_at": "2026-06-12T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583836",
-        "https://news.yahoo.co.jp/pickup/6583884",
-        "https://www.itmedia.co.jp/news/articles/2606/11/news132.html",
-        "https://www.itmedia.co.jp/news/articles/2606/11/news113.html",
-        "https://www.itmedia.co.jp/news/articles/2606/09/news123.html",
-        "https://zenn.dev/libercraft/articles/20260611-react-plan-execute-difference",
-        "https://zenn.dev/dowjapan/articles/dow-japan-multiagent",
-        "https://zenn.dev/aiwatch_jp/articles/agent-flow-plan-work-review-compound",
-        "https://anthropic.com/news/dxc-anthropic-alliance",
-        "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
-        "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings"
-      ],
-      "titles": [
-        "W杯開幕戦、メキシコが南アフリカに2-1で勝利——グループAの首位に浮上",
-        "工藤会トップへの損害賠償、確定判決後も支払われず——被害者側が強制執行へ",
-        "講談社、ISSのロボットアームを使い宇宙で「宇宙兄弟」を描くミッションを発表",
-        "Google、検索サービスのプライバシー設定を刷新——カメラ・音声データもデフォルト保存対象に",
-        "JR東日本、「QRコード乗車券」のデザインを初公開——2027年春から磁気券を段階廃止へ",
-        "ReActとPlan-and-Executeはどう違うか——エージェントパターンを選ぶ判断軸を徹底整理",
-        "毎日4,400銘柄をさばく12体のAIエージェントチーム——反証してから決める株リサーチ基盤を本番運用",
-        "Claude Code / Codex時代の開発フロー——Plan・Work・Review・Compoundの4工程でAIを設計に組み込む",
-        "DXC Technology Partners with Anthropic to Deploy Claude Across Banks, Airlines, and Regulated Industries",
-        "GitHub Agentic Workflows Now in Public Preview — Natural Language Automation for Issue Triage, CI Fixes, and Multi-Repo Tasks",
-        "GitHub Copilot CLI Gets Unified /settings Command — Schema-Validated Config for All Preferences in One Place"
       ]
     }
   ]

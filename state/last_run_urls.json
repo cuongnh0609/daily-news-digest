@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-13T05:00:00+09:00",
+  "last_run_at": "2026-06-13T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-13T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6584041",
+        "https://news.yahoo.co.jp/pickup/6584050",
+        "https://news.yahoo.co.jp/pickup/6584038",
+        "https://news.yahoo.co.jp/pickup/6584044",
+        "https://www.itmedia.co.jp/news/articles/2606/12/news129.html",
+        "https://zenn.dev/pksha/articles/agentcore-strands-self-improving-rag",
+        "https://zenn.dev/genda_jp/articles/e399fea370ffdb",
+        "https://zenn.dev/genda_jp/articles/b6045575e2e13d",
+        "https://www.anthropic.com/news/fable-mythos-access",
+        "https://www.anthropic.com/news/anthropic-public-record",
+        "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls"
+      ],
+      "titles": [
+        "米投資会社ウォーバーグ、学生寮運営JSBを総額1,900億円で買収——東証上場廃止へ",
+        "宮城沖に800年前の「未知の大津波」——東北大が松島湾で砂層を発見、M8級地震を推定",
+        "ふるさと納税、24年度に863億円の赤字——会計検査院が自治体財政への構造的負担を指摘",
+        "過熱する日本の不動産市況——自己破産が13年ぶりの高水準、長期金利は29年ぶり2.8%台へ",
+        "厚労省のTeamsチャット2年10カ月分が消失——東芝の作業ミスで完全復旧は困難",
+        "Bedrock AgentCore + Strands SDKで「使うほど賢くなる」社内RAGボットを構築——3つの運用ループで知識を自動更新",
+        "DatadogとAWSが同日発表した「Opsエージェント」——「検知から修復」の覇権争いが三つ巴に",
+        "サブエージェントで Claude Fable 5 をコスパ運用——役割分担設計とCLAUDE.md委譲ルールで費用を最大3分の1に",
+        "US Government Orders Anthropic to Suspend Fable 5 and Mythos 5 — National Security Export Control Directive",
+        "Anthropic's First Public Record: 64% of Americans Fear Job Loss from AI — Only 15% Trust AI Companies",
+        "GitHub Copilot Code Review Gets Org-Level Runner Control, Content Exclusions, and Unlimited Custom Instructions"
+      ]
+    },
     {
       "run_at": "2026-06-13T05:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "DXC Technology Partners with Anthropic to Deploy Claude Across Banks, Airlines, and Regulated Industries",
         "GitHub Agentic Workflows Now in Public Preview — Natural Language Automation for Issue Triage, CI Fixes, and Multi-Repo Tasks",
         "GitHub Copilot CLI Gets Unified /settings Command — Schema-Validated Config for All Preferences in One Place"
-      ]
-    },
-    {
-      "run_at": "2026-06-12T00:00:00+09:00",
-      "urls": [
-        "https://www.nikkei.com",
-        "https://news.yahoo.co.jp",
-        "https://www.jiji.com",
-        "https://www.nhk.or.jp/news/",
-        "https://news.yahoo.co.jp",
-        "https://zenn.dev/topics/claudecode",
-        "https://zenn.dev/topics/llm",
-        "https://www.itmedia.co.jp/news/",
-        "https://www.anthropic.com/news",
-        "https://simonwillison.net",
-        "https://github.blog/changelog/feed/"
-      ],
-      "titles": [
-        "欧州中央銀行、2年9カ月ぶりに利上げ——インフレ再燃と中東リスクが決定を後押し",
-        "天皇陛下、皇族数確保策に異例のコメント——「国民の理解と協力」に期待を示す",
-        "トランプ大統領、イランへの「激しい攻撃」を宣言——中東情勢はさらなる緊張局面へ",
-        "神戸市内で初めてクマの目撃情報——市街地近くの山林で発見、猟友会が出動",
-        "元ボクサー・ガッツ石松さんが79歳で逝去——「世界チャンプは俺だ」で親しまれた昭和の名物人",
-        "Claude Codeの記事が薄くなる理由——AIエージェントに設計議論が届いていない問題を考える",
-        "Stateful MCPサーバーで社内データ分析エージェントを構築する——セッション管理とコンテキスト保持の設計パターン",
-        "VisaとOpenAIが提携——AIエージェントによる代理決済を安全に実現する仕組みを共同開発",
-        "Anthropic Launches Claude Corps — A National Fellowship to Democratize AI Access for Early-Career Professionals",
-        "Uber Caps AI Coding Tool Spend at $1,500/Month Per Engineer — Internal Cost Control Amid Soaring AI Tooling Bills",
-        "GitHub CLI v2.94.0 Adds gh discussion Command Group — Full Discussion Lifecycle Now Manageable from Terminal"
-      ]
-    },
-    {
-      "run_at": "2026-06-11T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583851",
-        "https://news.yahoo.co.jp/pickup/6583853",
-        "https://news.yahoo.co.jp/pickup/6583799",
-        "https://news.yahoo.co.jp/pickup/6583830",
-        "https://www.itmedia.co.jp/news/articles/2606/11/news110.html",
-        "https://zenn.dev/sompojapan_dx/articles/811ac0999e297b",
-        "https://www.itmedia.co.jp/news/articles/2606/11/news128.html",
-        "https://www.publickey1.jp/blog/26/aiwindowswindows_development_skills.html",
-        "https://github.blog/changelog/2026-06-10-copilot-chat-now-sees-your-agent-sessions",
-        "https://pgdog.dev/blog/our-funding-announcement",
-        "https://mohkohn.co.uk/writing/html-first/"
-      ],
-      "titles": [
-        "河野洋平・元衆院議長が89歳で逝去——「河野談話」で戦後外交を担った重鎮",
-        "家庭内の性暴力——刑法改正で父親による被害の摘発が急増",
-        "官房長官、中東情勢の深刻化を懸念——米・イラン交渉を注視",
-        "みらい党・安野党首、国会議員向けにAI勉強会を開催へ",
-        "JASRAC「AI作曲・人間作詞」の楽曲も著作権管理の対象に——人間の創作的寄与が基準",
-        "「Fable 5は自分以上に信頼している」——Claude Code開発者に直接聞いた、エージェント開発の現在地",
-        "NEC・Anthropic、金融8社と連携——Claude活用で業務DXと新サービス創出へ",
-        "Microsoft「Windows Development Skills」正式提供——AIエージェントにWinUI 3開発知識を付与",
-        "GitHub Copilot Chat Now Sees Your Agent Sessions — Cross-Session Context for Agentic Workflows",
-        "PgDog Raises $5.5M — Open-Source PostgreSQL Proxy Hits 2M Queries/Second in Production",
-        "Building an HTML-First Site Doubled Conversion Overnight — Progressive Enhancement Still Works in 2026"
       ]
     }
   ]

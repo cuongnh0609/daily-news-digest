@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-14T20:00:00+09:00",
+  "last_run_at": "2026-06-15T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-15T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6584254",
+        "https://news.yahoo.co.jp/pickup/6584247",
+        "https://news.yahoo.co.jp/pickup/6584186",
+        "https://news.yahoo.co.jp/pickup/6584160",
+        "https://news.yahoo.co.jp/pickup/6584211",
+        "https://zenn.dev/ichikawa_y/articles/audit-driven-feedback-development",
+        "https://zenn.dev/numarn/articles/73fa473c161361",
+        "https://www.publickey1.jp/blog/26/2027ai65ide.html",
+        "https://www.anthropic.com/research/making-claude-a-chemist",
+        "https://www.anthropic.com/news/anthropic-public-record",
+        "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls"
+      ],
+      "titles": [
+        "英文学者・小田島雄志氏が逝去——シェークスピア翻訳で半世紀、享年95歳",
+        "高市首相「日英関係をもっと高みに」——ロンドンでスターマー首相と会談、経済安保・防衛で連携強化",
+        "皇室典範改正の議論、今後の焦点——女性皇族の身分保持と旧宮家養子案の二本柱",
+        "原子力規制庁の「ノーリターンルール」一部緩和へ——推進部署への人事異動禁止を見直し",
+        "関東15日は雨、気温4月並みに——梅雨前線の影響で竜巻・落雷に注意",
+        "AIエージェント時代の品質保証——「監査駆動フィードバック開発」という新しいアプローチ",
+        "なぜAI生成コードは危ないのか——セキュリティスキャナを自作して見えた現実",
+        "ガートナー予測：2027年にAIエージェント利用チームの65%が「IDEは必要不可欠ではない」と考えるように",
+        "Making Claude a Chemist: Anthropic Tests Claude Opus 4.7 on NMR Spectra Analysis",
+        "Anthropic Public Record: First Survey of 52,000 Americans Reveals AI Hopes, Fears, and Governance Demands",
+        "GitHub Copilot Code Review Gets Enterprise Controls: Org-Level Runners, Content Exclusions, and Unlimited Custom Instructions"
+      ]
+    },
     {
       "run_at": "2026-06-14T20:00:00+09:00",
       "urls": [

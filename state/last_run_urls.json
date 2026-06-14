@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-15T00:00:00+09:00",
+  "last_run_at": "2026-06-15T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-15T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/13ef65d79630cbd902e31982009a06733e0a70f6",
+        "https://www.jiji.com/jc/article?k=2026061400308&g=int&m=rss",
+        "https://news.yahoo.co.jp/articles/dfb6b0d4742fbbe42775c96adf339bff9a2aff2",
+        "https://www.jiji.com/jc/article?k=2026061400161&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/12/news129.html",
+        "https://zenn.dev/kusuke/articles/82129236caa5f8",
+        "https://zenn.dev/yy7613/articles/173404d60a6150",
+        "https://www.publickey1.jp/blog/26/wasi_03webassembly_component.html",
+        "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+        "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+        "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack"
+      ],
+      "titles": [
+        "サッカーW杯2026、日本代表がオランダと激突——スタメン発表で注目の布陣",
+        "英軍がロシアの「影の船団」タンカーを拿捕——制裁逃れへの初の直接作戦",
+        "トランプ大統領「2〜3時間以内に署名」——米・イラン停戦覚書の行方",
+        "日英首脳会談でエネルギー安保を強化——次期戦闘機開発でも協力確認",
+        "厚労省のTeamsチャット約3年分が消失——東芝の作業ミスで一部は復元困難",
+        "GitHub Copilot従量課金化に対抗——VSCode Custom EndpointでOpenCode Goを格安代替に",
+        "クラウド依存ゼロのローカルコーディングエージェント「lca」——アーキテクトとワーカーとレビュアーの3役設計",
+        "WASI 0.3正式版リリース——WebAssemblyコンポーネントの非同期処理が統一基盤へ",
+        "No, Everyone Is Not Using AI for Everything — The Real Numbers Tell a Different Story",
+        "KPMG Pulls 'Agentic AI' Report After AI Hallucinated Facts About UBS, NHS, and Swiss Railways",
+        "Anthropic Maps a Year of AI-Enabled Cyber Attacks: Attackers Now Use AI Deeper in the Kill Chain"
+      ]
+    },
     {
       "run_at": "2026-06-15T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Simon Willison: Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
         "H.R. 6028 would fundamentally change the U.S. Copyright Office",
         "Slightly reducing the sloppiness of AI generated front end"
-      ]
-    },
-    {
-      "run_at": "2026-06-13T15:16:00+09:00",
-      "urls": [
-        "https://www.nikkei.com/article/emperor-netherlands-state-visit",
-        "https://www.nikkei.com/article/boj-rate-hike-without-ueda",
-        "https://www.nikkei.com/article/kioxia-market-cap-1st-japan",
-        "https://www.nikkei.com/article/ilo-gig-worker-treaty",
-        "https://news.yahoo.co.jp/article/takaichi-cabinet-approval-70",
-        "https://zenn.dev/shippai/articles/b420841196ebf0",
-        "https://zenn.dev/aiwatch_jp/articles/agent-flow-review-evals",
-        "https://zenn.dev/corone/articles/549eb4ba9adcec",
-        "https://github.com/github/spec-kit",
-        "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-        "https://opensourceaimustwin.com"
-      ],
-      "titles": [
-        "天皇皇后両陛下、オランダ・ベルギーへ出発——国賓として2週間の欧州訪問",
-        "日銀、植田総裁不在の異例の状況で利上げを検討——長期金利2.8%台が続く中",
-        "キオクシアの時価総額が45兆円に達し、国内上場企業で首位に躍進",
-        "ILO、初の「ギグワーカー保護条約」採択——アルゴリズムによる評価の見直しを要求",
-        "高市内閣の支持率70.0%——発足以来の最高水準を更新",
-        "個人開発でSDD（仕様駆動開発）を18本回して分かったこと——AI時代の「設計で守る」開発術",
-        "AIエージェントの仕事をどう検品するか——Trace・Eval・Pre-CI Reviewの5層構造",
-        "Claude CodeからCodexへ移行して分かった「エージェントの作法」——設定・精度・役割分担の落とし穴",
-        "GitHub Spec-Kit: Open-Source Toolkit for Spec-Driven Development Hits 90K Stars",
-        "AI Agent Finds 21 Zero-Days in FFmpeg for $1,000 — Including a 23-Year-Old RCE",
-        "Open Source AI Must Win — Why Closed AI Monopolies Threaten Civilizational Infrastructure"
       ]
     }
   ]

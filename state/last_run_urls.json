@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-14T05:00:00+09:00",
+  "last_run_at": "2026-06-14T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-14T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6584156",
+        "https://news.yahoo.co.jp/pickup/6584157",
+        "https://news.yahoo.co.jp/pickup/6584162",
+        "https://news.yahoo.co.jp/pickup/6584158",
+        "https://news.yahoo.co.jp/pickup/6584149",
+        "https://zenn.dev/nextbeat/articles/2026-06-cs-edu-site-fable5",
+        "https://www.itmedia.co.jp/news/articles/2606/11/news128.html",
+        "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
+        "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
+        "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+        "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/"
+      ],
+      "titles": [
+        "米イラン和平覚書、トランプ大統領「14日に署名する」と表明——イラン側は時期を否定",
+        "天皇皇后両陛下がオランダに到着——24年ぶりの欧州歴訪、ベルギーへも",
+        "W杯2026、ブラジルvs.モロッコは1-1ドロー——ヴィニシウスが同点弾",
+        "韓国スタバ不買運動、「全額返金」期限迫り客殺到——現場スタッフは悲鳴",
+        "倒れた技能実習生が長期療養——制度の空白が生む「想定外」の悲劇",
+        "Claude Fable 5が2時間で54レッスンの日本語プログラミング教材を構築——「言語の庭」の衝撃",
+        "NEC・Anthropic連携、金融・製造など8社と生成AI実証実験を開始——Claude活用で新サービス創出へ",
+        "AWS「Kiro Web」発表——インストール不要でブラウザから仕様駆動型AIコーディングエージェントを利用可能に",
+        "Amazon CEO's Talks With US Officials Triggered the Crackdown on Anthropic's Fable 5 and Mythos 5",
+        "AI Coding at Home Without Going Broke: A Practical Tiered Strategy for Independent Developers",
+        "Pyodide 314.0 Lets Developers Publish WASM Python Wheels to PyPI — Simon Willison Ships luau-wasm"
+      ]
+    },
     {
       "run_at": "2026-06-14T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Claude Fable 5 and Claude Mythos 5 — Anthropic's Most Capable Models at Half the Previous Price",
         "Cloudflare Acquires VoidZero — Vite and Rolldown Now Under Cloudflare's Umbrella",
         "GitHub: Bot-Created Pull Requests Can Now Run Workflows When Approved — Agentic CI/CD Gets Safer"
-      ]
-    },
-    {
-      "run_at": "2026-06-12T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6583993",
-        "https://news.yahoo.co.jp/pickup/6583991",
-        "https://news.yahoo.co.jp/pickup/6583995",
-        "https://news.yahoo.co.jp/pickup/6583978",
-        "https://www.itmedia.co.jp/news/articles/2606/12/news085.html",
-        "https://www.publickey1.jp/blog/26/applemacoslinuxcontainer_machine10.html",
-        "https://www.itmedia.co.jp/news/articles/2606/10/news123.html",
-        "https://www.itmedia.co.jp/news/articles/2606/10/news060.html",
-        "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-        "https://www.anthropic.com/news/confidential-draft-s1-sec",
-        "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype"
-      ],
-      "titles": [
-        "改正郵便法が成立——手紙の料金値上げ、日本郵便が申請・総務相が認可する新方式へ",
-        "ウリ信用組合に業務停止命令——顧客名義の無断口座開設など複数の不正行為が発覚",
-        "兵庫県たつの市で妻殺害事件——68歳男が自ら「妻を殺した」と110番通報",
-        "トランプ大統領がナルト動画をSNS投稿——日本の大臣が著作権懸念を表明、外交ルートで申し入れ",
-        "公取委がKADOKAWAに勧告——フリーランス法違反で113人のライター・イラストレーターに被害",
-        "Apple、macOSにLinuxコンテナ統合機能「Container machine」v1.0をリリース",
-        "NTT、800億円規模のAI投資ファンド「IOWN AI Fund」を設立",
-        "Google、70言語対応の同時翻訳AI「Gemini 3.5 Live Translate」を発表",
-        "AI Agent Autonomously Spent $6,531 on AWS Infrastructure While Scanning DN42",
-        "Anthropic Confidentially Files Draft S-1 with the SEC — IPO Path Opens for the $965B AI Lab",
-        "Claude Fable 5 Scores Mid-Table on Real-World Security Coding Benchmark — 38 Cheating Signals Detected"
       ]
     }
   ]

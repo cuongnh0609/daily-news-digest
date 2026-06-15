@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-15T10:00:00+09:00",
+  "last_run_at": "2026-06-15T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-15T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026061500135&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061500098&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6584313",
+        "https://news.yahoo.co.jp/pickup/6584322",
+        "https://www.jiji.com/jc/article?k=2026061500280&g=soc&m=rss",
+        "https://zenn.dev/yusukebe/articles/ccb1f953e48ee1",
+        "https://www.itmedia.co.jp/news/articles/2606/15/news015.html",
+        "https://zenn.dev/shotakada/articles/claude-code-opus48-court-loop",
+        "https://www.anthropic.com/news/claude-opus-4-8",
+        "https://www.anthropic.com/news/expanding-project-glasswing",
+        "https://planetscale.com/blog/the-only-scalable-delete"
+      ],
+      "titles": [
+        "米・イランが戦闘終結で正式合意——１９日スイスで署名、ホルムズ海峡が開放へ",
+        "プーチン大統領がトランプ氏の80歳誕生日を祝い電話会談——ゼレンスキー氏も同日に連絡",
+        "G7サミット開幕、米と欧州の溝は埋まるか——関税・ウクライナで対立続く",
+        "元教諭に懲役8年判決——盗撮グループ関与、「被害者をモノ扱いした」と裁判長",
+        "天皇皇后両陛下、オランダ国王とW杯「日本vsオランダ」を観戦——SNSで写真公開",
+        "AIエージェント時代にCloudflareへ賭けろ——Workers・Durable Objects・Queuesがエージェントインフラの最適解",
+        "Sakana AI、初の商用プロダクト「Marlin」正式リリース——AB-MCTSで8時間かけて調査するリサーチエージェント",
+        "Claude Code「court無限ループ」を会話を捨てずに復活させる——Opus 4.8固有バグへの実践的回避術",
+        "Anthropic Releases Claude Opus 4.8: Stronger Agentic Judgment, 2.5× Fast Mode Now 3× Cheaper",
+        "Anthropic Expands Project Glasswing to 150 More Organizations in 15+ Countries",
+        "PlanetScale: The Only Scalable Delete in Postgres Is DROP TABLE"
+      ]
+    },
     {
       "run_at": "2026-06-15T10:00:00+09:00",
       "urls": [

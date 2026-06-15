@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-15T15:00:00+09:00",
+  "last_run_at": "2026-06-15T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-15T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6584365",
+        "https://news.yahoo.co.jp/pickup/6584341",
+        "https://www.jiji.com/jc/article?k=2026061500260&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061500888&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061500932&g=soc&m=rss",
+        "https://zenn.dev/nomhiro/articles/omc-azure-foundry",
+        "https://www.itmedia.co.jp/news/articles/2606/15/news067.html",
+        "https://zenn.dev/japan/articles/73ad921caeb0bd",
+        "https://www.anthropic.com/news/confidential-draft-s1-sec",
+        "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+        "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/"
+      ],
+      "titles": [
+        "日伊首脳会談、先端技術・防衛協力で共同声明へ——高市首相がメローニ首相と会談",
+        "H3ロケット9号機、8月7日に打ち上げ決定——JAXAが正式発表",
+        "ブラジルでヘリコプター空中衝突、6人死亡——米人気歌手も犠牲の可能性",
+        "茨城・下妻市長が遺体で発見——3月に初当選、家族が行方不明届",
+        "読売巨人軍・阿部前監督を起訴猶予——東京地検、長女への暴行容疑で捜査",
+        "OSSの「AI社員だけの会社」OneManCompany をMicrosoft Foundry モデルで動かす——マルチエージェント実験レポート",
+        "Google、Gemini悪用の中国系サイバー犯罪組織を提訴——5か月で159万件の偽URLを生成",
+        "LLMは本当に長文を読めているのか？「Lost in the Middle」から考えるRAG設計の実践",
+        "Anthropic Confidentially Files Draft S-1 with SEC — IPO Process Officially Begins",
+        "Formal Methods at Jane Street: How Proof-Driven Engineering Is Reshaping the Future of Programming",
+        "GitHub Copilot CLI Now Speaks Your Code: Language Server Integration Brings True Semantic Understanding"
+      ]
+    },
     {
       "run_at": "2026-06-15T15:00:00+09:00",
       "urls": [

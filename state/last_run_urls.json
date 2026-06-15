@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-16T00:00:00+09:00",
+  "last_run_at": "2026-06-16T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-16T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026061501016&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061501192&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061501195&g=flash&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061600099&g=spo&m=rss",
+        "https://news.yahoo.co.jp/pickup/6584396",
+        "https://zenn.dev/r_kaga/articles/340fba67527789",
+        "https://zenn.dev/ssknaoya/articles/d9becba1164230",
+        "https://www.itmedia.co.jp/news/articles/2606/15/news120.html",
+        "https://www.anthropic.com/news/claude-corps",
+        "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/",
+        "https://rsgm.dev/post/ai-dev-platform/"
+      ],
+      "titles": [
+        "イスラエル、米国に深い失望感——イランの核問題が「宙吊り」のまま合意へ",
+        "ホルムズ海峡を石油タンカーが通過再開——トランプ大統領が合意の成果を強調",
+        "NYダウが600ドル超の急騰——米イラン合意でリスク回避ムード一変",
+        "Ｗ杯サッカー：初出場カボベルデがスペインに0-0でドロー——番狂わせに近い奮闘",
+        "愛媛県独自品種の苗木が中国へ流出か——知事「怒りを禁じ得ない」と強い憤り",
+        "月2億円分のトークンを燃やすには——「in the loop」から「on the loop」へのパラダイム転換",
+        "GitHub Copilot有料化難民の旅——Claude Code、Google AI Studio、そしてCodexへ",
+        "イギリス、16歳未満のSNS利用を法律で禁止——「子どもを不幸にしている」と政府が断言",
+        "Anthropic Launches Claude Corps: $150M Fellowship Placing AI-Trained Talent at Nonprofits",
+        "\"They Screwed Us\": Inside the Personality Clashes That Sent Anthropic's Models Offline",
+        "Building a Homelab AI Dev Platform: GitOps-Controlled OpenCode with Human-in-the-Loop Merges"
+      ]
+    },
     {
       "run_at": "2026-06-16T00:00:00+09:00",
       "urls": [
@@ -202,33 +231,6 @@
         "Don't Trust Large Context Windows — Your LLM Is Only Sharp in the First 100k Tokens",
         "GitHub Copilot CLI Cuts Tool Failures 23% by Teaching the Agent When NOT to Delegate",
         "Apple Releases Container Machine 1.0 — Native Linux Containers on macOS with Shared Home Directory"
-      ]
-    },
-    {
-      "run_at": "2026-06-14T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6584190",
-        "https://news.yahoo.co.jp/pickup/6584200",
-        "https://news.yahoo.co.jp/pickup/6584192",
-        "https://www.jiji.com/jc/article?k=2026061300361&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061400073&g=int&m=rss",
-        "https://zenn.dev/nnakapa/articles/lab-26-fable5-opus48-coding-traits",
-        "https://zenn.dev/yasuhiro_test/articles/65eba13298c9c2",
-        "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
-        "https://github.blog/changelog/2026-06-11-github-enterprise-server-3-21-is-now-generally-available",
-        "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/"
-      ],
-      "titles": [
-        "米・イラン和平覚書、トランプ大統領「14日に署名」——イラン側は時期を否定",
-        "高市首相、英国訪問——首相官邸「ナンバー10」での日英首脳会談に格上げ",
-        "福岡・海岸で溺れた小学生が死亡——事故から約2週間後に力尽きる",
-        "FRB、4会合連続で政策金利据え置きへ——新議長初のFOMCで年内利下げ見送りも",
-        "米ケネディセンターからトランプ名を撤去——連邦地裁の命令に従い外壁から削除",
-        "Claude Fable 5のコーディング特性を40試行で検証——防御的設計でOpus 4.8を15対1で圧倒",
-        "QAエンジニアが「手動テスト全部やる」をやめる——Claude Codeで自動化し「判断する役」に転換",
-        "GitHub Agentic Workflows、パブリックプレビュー開始——自然言語でCI/CD自動化、企業が「数時間→数分」に短縮",
-        "GitHub Enterprise Server 3.21 Generally Available — Org Custom Properties, Lazy-Loaded 300-Job Workflows, Secret Scanning Overhaul",
-        "Google Research: A Low-Carbon Computing Platform Built from Retired Smartphones"
       ]
     }
   ]

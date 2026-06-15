@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-15T05:00:00+09:00",
+  "last_run_at": "2026-06-15T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-15T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6584291",
+        "https://news.yahoo.co.jp/pickup/6584278",
+        "https://news.yahoo.co.jp/pickup/6584284",
+        "https://news.yahoo.co.jp/pickup/6584286",
+        "https://news.yahoo.co.jp/pickup/6584275",
+        "https://zenn.dev/snaga/articles/2026-06-14-doctools-with-pageindex",
+        "https://zenn.dev/tingtt/articles/fc05c73f8265e4",
+        "https://www.itmedia.co.jp/news/articles/2606/15/news055.html",
+        "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+        "https://blog.cloudflare.com/ai-gateway-spend-limits/",
+        "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html"
+      ],
+      "titles": [
+        "日経平均株価、史上初めて6万9000円台に突入——米イラン和解を好感し一時3000円超上昇",
+        "米イランが和平合意に署名——パキスタン仲介で戦闘終結へ、19日スイスで式典",
+        "天皇皇后両陛下、オランダ国王王妃とともにW杯「日本vsオランダ」を観戦",
+        "栃木・強盗殺人事件の「主導役」容疑者が浮上——逃亡中の益田和彦容疑者を公開手配",
+        "サッカー日本代表がオランダとドロー——久保建英が負傷交代も試合後は自力歩行",
+        "超精密インデックス「PageIndex」で実現する推論ベースRAG——ベクタ検索の限界をAIエージェントが突破",
+        "「原則」をRules / Skillsに落とし込む——Agentic Codingにおける抽象度の高い行動指針の設計",
+        "ナデラCEO「エコシステムなきフロンティアは不安定」——Fable 5停止から2日、AI依存脱却を訴える",
+        "Why AI Hasn't Replaced Software Engineers — And Won't: Three Real Bottlenecks Revealed",
+        "Cloudflare AI Gateway Launches Real-Time Spend Controls and Identity-Driven Budgets for Enterprise AI",
+        "Inverse Rubric Optimization: A New Testbed for Studying Long-Horizon Agent Behavior at Scale"
+      ]
+    },
     {
       "run_at": "2026-06-15T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Launches Claude Corps — $150M Fellowship to Deploy AI in Nonprofits Nationwide",
         "TCS and Anthropic Partner to Deploy Claude Across Banks, Airlines, and Regulated Industries Globally",
         "A Shadow Hangs Over Fable 5 — Government Export Controls, Corporate Politics, and the Precedent for AI Shutdowns"
-      ]
-    },
-    {
-      "run_at": "2026-06-13T20:00:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260613/k10015148801000.html",
-        "http://www3.nhk.or.jp/news/html/20260613/k10015149091000.html",
-        "https://www.itmedia.co.jp/news/articles/2606/13/news024.html",
-        "https://www.itmedia.co.jp/news/articles/2606/12/news071.html",
-        "https://www.itmedia.co.jp/news/articles/2606/11/news110.html",
-        "https://zenn.dev/minamorl/articles/ba026ee683bff2",
-        "https://zenn.dev/virtualcraft/articles/claude-code-trivy-mcp-security-check",
-        "https://www.itmedia.co.jp/news/articles/2606/13/news026.html",
-        "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/",
-        "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
-        "https://envs.net/~volpe/blog/posts/reduce-slop.html"
-      ],
-      "titles": [
-        "米・イラン覚書「数日中に署名の可能性」双方が言及",
-        "高市首相G7サミットなどへ出発——「G7連携し課題対応を主導」",
-        "SpaceX、ナスダックに上場——初日終値で時価総額2.1兆ドル超、史上最大のIPO",
-        "任天堂、Switch 2多言語版に買い占め確認——「プレイ時間50時間以上」の購入制限復活",
-        "JASRAC、「AI作曲・人間作詞」の曲は管理します——「人間の創作的寄与の有無」で線引き",
-        "いかにして既存の自律LLMエージェントを超えるエージェントをつくるか——試行錯誤の痕跡",
-        "Claude Code × Trivy MCPで依存ライブラリの脆弱性を検出→修正→再スキャンする",
-        "「Claude Fable 5」「Mythos 5」全面停止——米政府の指令によりAnthropicは早期復旧を宣言",
-        "Simon Willison: Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-        "H.R. 6028 would fundamentally change the U.S. Copyright Office",
-        "Slightly reducing the sloppiness of AI generated front end"
       ]
     }
   ]

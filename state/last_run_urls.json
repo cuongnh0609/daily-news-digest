@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-15T20:00:00+09:00",
+  "last_run_at": "2026-06-16T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-16T00:00:00+09:00",
+      "urls": [
+        "http://www3.nhk.or.jp/news/html/20260615/k10015150661000.html",
+        "https://news.yahoo.co.jp/pickup/6584389",
+        "http://www3.nhk.or.jp/news/html/20260615/k10015150551000.html",
+        "https://news.yahoo.co.jp/pickup/6584394",
+        "https://news.yahoo.co.jp/pickup/6584381",
+        "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2606/15/news042.html",
+        "https://zenn.dev/dress_code/articles/dresscode-ai-dev-camp",
+        "https://stratechery.com/2026/anthropics-safety-superpower/",
+        "https://openrouter.ai/openrouter/fusion",
+        "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models"
+      ],
+      "titles": [
+        "別府市ひき逃げ事件、八田與一容疑者の新たな手配ポスター公開",
+        "島根・丸山知事、膀胱がん治療のため約2週間の入院へ",
+        "北海道・赤い羽根共同募金で約1.8億円の寄付金が使途不明に",
+        "米・イラン合意を受け、ホルムズ海峡への自衛隊派遣論が浮上",
+        "名古屋・コストコの総菜で食中毒、10歳未満の子どもが重症",
+        "AIエージェント向け知識共有プラットフォーム「Stack Overflow for Agents」がベータ公開",
+        "IBM「Bob」がJavaレガシー移行を3ヶ月から3週間に短縮——AIエージェントが開発生産性45%向上",
+        "AI開発合宿が映し出したもの——「ツールより先に開発文化が問われる」",
+        "Anthropic's Safety Superpower: When Mission and Business Interests Align Too Perfectly",
+        "OpenRouter Launches Fusion: Multi-Model Deliberation API for Higher-Accuracy AI Outputs",
+        "Anthropic Releases ClaudeForFoundationModels: Claude Now Plugs Into Apple's On-Device AI Framework"
+      ]
+    },
     {
       "run_at": "2026-06-15T20:00:00+09:00",
       "urls": [
@@ -186,7 +215,6 @@
         "https://zenn.dev/nnakapa/articles/lab-26-fable5-opus48-coding-traits",
         "https://zenn.dev/yasuhiro_test/articles/65eba13298c9c2",
         "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
-        "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
         "https://github.blog/changelog/2026-06-11-github-enterprise-server-3-21-is-now-generally-available",
         "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/"
       ],
@@ -199,96 +227,8 @@
         "Claude Fable 5のコーディング特性を40試行で検証——防御的設計でOpus 4.8を15対1で圧倒",
         "QAエンジニアが「手動テスト全部やる」をやめる——Claude Codeで自動化し「判断する役」に転換",
         "GitHub Agentic Workflows、パブリックプレビュー開始——自然言語でCI/CD自動化、企業が「数時間→数分」に短縮",
-        "GitHub Agentic Workflows Now in Public Preview — Natural Language to CI/CD Automation for Enterprise",
         "GitHub Enterprise Server 3.21 Generally Available — Org Custom Properties, Lazy-Loaded 300-Job Workflows, Secret Scanning Overhaul",
         "Google Research: A Low-Carbon Computing Platform Built from Retired Smartphones"
-      ]
-    },
-    {
-      "run_at": "2026-06-14T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6584156",
-        "https://news.yahoo.co.jp/pickup/6584157",
-        "https://news.yahoo.co.jp/pickup/6584162",
-        "https://news.yahoo.co.jp/pickup/6584158",
-        "https://news.yahoo.co.jp/pickup/6584149",
-        "https://zenn.dev/nextbeat/articles/2026-06-cs-edu-site-fable5",
-        "https://www.itmedia.co.jp/news/articles/2606/11/news128.html",
-        "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
-        "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
-        "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-        "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/"
-      ],
-      "titles": [
-        "米イラン和平覚書、トランプ大統領「14日に署名する」と表明——イラン側は時期を否定",
-        "天皇皇后両陛下がオランダに到着——24年ぶりの欧州歴訪、ベルギーへも",
-        "W杯2026、ブラジルvs.モロッコは1-1ドロー——ヴィニシウスが同点弾",
-        "韓国スタバ不買運動、「全額返金」期限迫り客殺到——現場スタッフは悲鳴",
-        "倒れた技能実習生が長期療養——制度の空白が生む「想定外」の悲劇",
-        "Claude Fable 5が2時間で54レッスンの日本語プログラミング教材を構築——「言語の庭」の衝撃",
-        "NEC・Anthropic連携、金融・製造など8社と生成AI実証実験を開始——Claude活用で新サービス創出へ",
-        "AWS「Kiro Web」発表——インストール不要でブラウザから仕様駆動型AIコーディングエージェントを利用可能に",
-        "Amazon CEO's Talks With US Officials Triggered the Crackdown on Anthropic's Fable 5 and Mythos 5",
-        "AI Coding at Home Without Going Broke: A Practical Tiered Strategy for Independent Developers",
-        "Pyodide 314.0 Lets Developers Publish WASM Python Wheels to PyPI — Simon Willison Ships luau-wasm"
-      ]
-    },
-    {
-      "run_at": "2026-06-14T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6584135",
-        "https://news.yahoo.co.jp/pickup/6584119",
-        "https://news.yahoo.co.jp/pickup/6584139",
-        "https://news.yahoo.co.jp/pickup/6584137",
-        "https://www.itmedia.co.jp/news/articles/2606/12/news122.html",
-        "https://zenn.dev/mkj/articles/966c62588bd8fc",
-        "https://zenn.dev/sompojapan_dx/articles/811ac0999e297b",
-        "https://zenn.dev/counterworks/articles/1887cb36a1b701",
-        "https://www.anthropic.com/news/dxc-anthropic-alliance",
-        "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-        "https://github.com/tensorzero/tensorzero"
-      ],
-      "titles": [
-        "島根の山林で73歳男性死亡――ヒノキの下敷きになった可能性、労災調査へ",
-        "DAZNが「月980円」誤表示で謝罪――サッカー年間プランを月額と誤認させた約12日間の表示ミス",
-        "日本ハム9連勝・交流戦13勝3敗で独走――新庄監督「パが強すぎる」とユーモアたっぷりに",
-        "Mrs. GREEN APPLE がMAJ 2026最優秀アーティスト賞――2年連続の快挙、「孤独に作り続けた」と語る",
-        "はてな、11億円超の資金流出で通期最終赤字へ――東芝との委託トラブルも重なり業績悪化",
-        "自分専用のAIニュースキュレーターをCodexで構築・1か月運用――パーソナライズの有効性とRSSベース設計の知見",
-        "「Fable 5 は自分以上に信頼している」――Code w/ Claude Tokyo でClaude Code開発者が語ったエージェント設計の真髄",
-        "マルチテナントSaaSにおけるアプリ層とDB層の二重防御――PostgreSQL RLS + Rails gemでテナント分離を保証する実践手法",
-        "DXC Technology + Anthropic Alliance: Claude to Power Banking, Aviation, and Government Systems at Scale",
-        "Simon Willison: Claude Fable 5 Is Relentlessly Proactive — Autonomous Browser Control, Shadow DOM Inspection, and a $12 Token Bill",
-        "TensorZero LLMOps Platform Archived Overnight After $7.3M Seed — Community Debates What Happened"
-      ]
-    },
-    {
-      "run_at": "2026-06-14T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6584127",
-        "https://news.yahoo.co.jp/pickup/6584128",
-        "https://www.jiji.com/jc/article?k=2026061300376&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6584140",
-        "https://www.itmedia.co.jp/news/articles/2606/12/news126.html",
-        "https://zenn.dev/53able/articles/6514f44e72be7f",
-        "https://zenn.dev/znet/articles/2026-stronger-model-as-reviewer",
-        "https://www.publickey1.jp/blog/26/ubuntuworkshop.html",
-        "https://www.anthropic.com/news/claude-corps",
-        "https://www.anthropic.com/news/tcs-anthropic-partnership",
-        "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow"
-      ],
-      "titles": [
-        "米・イラン停戦合意が間近か――パキスタンが「24時間以内」と見通しを表明",
-        "AI企業幹部がG7サミットに集結――アンソロピックCEOらエビアンへ",
-        "中国、台湾東部沖で外国貨物船を取り締まり――日本への示威行動か",
-        "名古屋の庄内川で男子中学生が溺死――川遊び中に流される",
-        "メタプラネット、シイボ証券を21億円で買収――ビットコイン事業を拡大",
-        "散らばるAIエージェントのログを一元管理――「agentsview」でコスト把握と振り返りを効率化",
-        "高性能モデルの真価は「実装者」でなく「レビュアー」にあり――Fable 5実機評価で見えた最適な役割分担",
-        "Ubuntu、コマンド一発で再現可能な開発環境を構築する新機能「Workshop」をリリース",
-        "Anthropic Launches Claude Corps — $150M Fellowship to Deploy AI in Nonprofits Nationwide",
-        "TCS and Anthropic Partner to Deploy Claude Across Banks, Airlines, and Regulated Industries Globally",
-        "A Shadow Hangs Over Fable 5 — Government Export Controls, Corporate Politics, and the Precedent for AI Shutdowns"
       ]
     }
   ]

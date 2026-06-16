@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-17T00:00:00+09:00",
+  "last_run_at": "2026-06-17T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-17T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6584524",
+        "https://news.yahoo.co.jp/pickup/6584521",
+        "https://news.yahoo.co.jp/pickup/6584506",
+        "https://www.jiji.com/jc/article?k=2026061601040&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061601111&g=int&m=rss",
+        "https://zenn.dev/mdtechknowledge/articles/agent-teams-vs-dynamic-workflows",
+        "https://zenn.dev/ino_h/articles/2026-06-16-loop-engineering-goal",
+        "https://zenn.dev/sompojapan_dx/articles/74624afa03040c",
+        "https://www.anthropic.com/news/fable-mythos-access",
+        "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+        "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls"
+      ],
+      "titles": [
+        "こども家庭庁、予算の全項目を一般公開へ——透明性向上で国民監視を促進",
+        "米・イラン合意、ネタニヤフ首相に「悪夢」——イスラエル孤立深まる懸念",
+        "宿泊施設で集団食中毒、患者97人——原因食品の特定を急ぐ",
+        "立憲民主・古賀議員の「経済的に厳しい子が自衛隊へ」発言が波紋——党内外から批判",
+        "米・ウクライナ首脳、G7サミット合わせ会談——トランプ大統領「侵攻終結へ努力」",
+        "Agent Teams と Dynamic Workflows の違いを整理する——Claude Code マルチエージェント設計の選択指針",
+        "Loop Engineering の組み方——Claude Code の /goal でAIエージェントを「自走」させる設計術",
+        "ローカルLLMをいつ使うべきか——「コストが安い」は誤解、真の優位性は専門化とレイテンシにある",
+        "US Government Orders Suspension of Fable 5 and Mythos 5 — Anthropic Complies, Disputes the Rationale",
+        "Running Local Models Is Good Now — Small Models Reach ~75% Frontier Accuracy for Agentic Coding",
+        "GitHub Copilot Code Review Gets Organization-Wide Runner Controls and Content Exclusions"
+      ]
+    },
     {
       "run_at": "2026-06-17T00:00:00+09:00",
       "urls": [

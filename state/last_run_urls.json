@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-16T05:00:00+09:00",
+  "last_run_at": "2026-06-16T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-16T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6584412",
+        "https://news.yahoo.co.jp/pickup/6584401",
+        "https://news.yahoo.co.jp/pickup/6584416",
+        "https://www.itmedia.co.jp/news/articles/2606/16/news060.html",
+        "https://www.itmedia.co.jp/news/articles/2606/16/news061.html",
+        "https://www.itmedia.co.jp/news/articles/2606/12/news072.html",
+        "https://zenn.dev/dataheroes/articles/snowflake-summit-2026-strategic-ai",
+        "https://zenn.dev/aishift/articles/5a5383987efee6",
+        "https://www.iroh.computer/blog/v1",
+        "https://simonwillison.net/2026/Jun/15/datasette-agent/",
+        "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html"
+      ],
+      "titles": [
+        "米でB-52爆撃機が墜落、8人死亡か——原因調査中",
+        "9か国が共同声明、米・イラン核合意を歓迎",
+        "関東で気温上昇、猛暑が戻る——沖縄・奄美は梅雨前線で大雨警戒",
+        "SpaceXのIPO調達額が857億ドルに拡大——グリーンシュー行使で史上最大規模に",
+        "Facebookに新「AI Mode」導入——グループやリールの公開投稿が検索回答の情報源に",
+        "OpenAI、クラウド開発環境「Ona」を買収——AIコーディングエージェント「Codex」の長時間稼働基盤に",
+        "戦術AIから戦略AIへ——Snowflake SUMMIT 2026が示すデータ基盤とAIエージェントの融合",
+        "Local LLMでデータ分析を試してみた——AI Shiftが検証するオンプレミスAI活用の現実と限界",
+        "Iroh 1.0: Dial Keys, Not IPs — A Stable Peer-to-Peer Networking Layer Hits General Availability",
+        "datasette-agent 0.3: The Agentic Database Interface Gets Write Permissions and Human Approval Gates",
+        "How Memory Safety CVEs Differ Between Rust and C/C++: Why Comparing Counts Is Misleading"
+      ]
+    },
     {
       "run_at": "2026-06-16T05:00:00+09:00",
       "urls": [

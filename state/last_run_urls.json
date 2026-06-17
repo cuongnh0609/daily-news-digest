@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-17T15:00:00+09:00",
+  "last_run_at": "2026-06-17T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-17T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026061700901&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061700904&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061700685&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/17/news089.html",
+        "https://www.jiji.com/jc/article?k=2026061700811&g=soc&m=rss",
+        "https://zenn.dev/bokuwalily/articles/claude-autopilot",
+        "https://zenn.dev/cutlet_of_pork/articles/codex-claude-code-mcp-agents-md-integration",
+        "https://zenn.dev/aiwatch_jp/articles/agent-flow-sandbox-permissions",
+        "https://www.anthropic.com/news/dxc-anthropic-alliance",
+        "https://github.blog/changelog/2026-06-16-github-models-is-no-longer-available-to-new-customers",
+        "https://claude.com/blog/the-founders-playbook"
+      ],
+      "titles": [
+        "中国、白書で「軍国主義」復活を批判——日本念頭に国際社会へ警告",
+        "16歳少女、自白強要で摂食障害に——不当逮捕で死亡と母親が国・兵庫県提訴",
+        "国家公務員、転勤「嫌だ」が過半数——人事院が金銭給付制度の創設検討",
+        "Google、「Android 17」を配信開始——Pixelから順次、マルチタスク強化と「ゲーミングモード」が目玉",
+        "IT役員殺害でIT社長再逮捕——報酬トラブルか、SNSで遺体解体を指南した29歳男も逮捕",
+        "Claude Codeを無人で自律改善させる——コストで暴走を止めるautopilot設計",
+        "Claude CodeからCodex CLIをMCPで呼ぶ——AGENTS.md単一ソース化で設定ファイルの分散を解決",
+        "AIエージェントに実行させる前に——Sandbox・権限・ファイル境界の設計指針",
+        "DXC Technology Partners with Anthropic: Claude Powers Enterprise Systems for Banks, Airlines, and Governments",
+        "GitHub Models Closed to New Customers — Service Heading Toward Full Retirement",
+        "Anthropic's Founder Playbook: Building AI-Native Startups from Idea to Scale with Claude"
+      ]
+    },
     {
       "run_at": "2026-06-17T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Launches Claude Corps: $150M Fellowship Placing AI-Trained Talent at Nonprofits",
         "\"They Screwed Us\": Inside the Personality Clashes That Sent Anthropic's Models Offline",
         "Building a Homelab AI Dev Platform: GitOps-Controlled OpenCode with Human-in-the-Loop Merges"
-      ]
-    },
-    {
-      "run_at": "2026-06-16T00:00:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260615/k10015150661000.html",
-        "https://news.yahoo.co.jp/pickup/6584389",
-        "http://www3.nhk.or.jp/news/html/20260615/k10015150551000.html",
-        "https://news.yahoo.co.jp/pickup/6584394",
-        "https://news.yahoo.co.jp/pickup/6584381",
-        "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2606/15/news042.html",
-        "https://zenn.dev/dress_code/articles/dresscode-ai-dev-camp",
-        "https://stratechery.com/2026/anthropics-safety-superpower/",
-        "https://openrouter.ai/openrouter/fusion",
-        "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models"
-      ],
-      "titles": [
-        "別府市ひき逃げ事件、八田與一容疑者の新たな手配ポスター公開",
-        "島根・丸山知事、膀胱がん治療のため約2週間の入院へ",
-        "北海道・赤い羽根共同募金で約1.8億円の寄付金が使途不明に",
-        "米・イラン合意を受け、ホルムズ海峡への自衛隊派遣論が浮上",
-        "名古屋・コストコの総菜で食中毒、10歳未満の子どもが重症",
-        "AIエージェント向け知識共有プラットフォーム「Stack Overflow for Agents」がベータ公開",
-        "IBM「Bob」がJavaレガシー移行を3ヶ月から3週間に短縮——AIエージェントが開発生産性45%向上",
-        "AI開発合宿が映し出したもの——「ツールより先に開発文化が問われる」",
-        "Anthropic's Safety Superpower: When Mission and Business Interests Align Too Perfectly",
-        "OpenRouter Launches Fusion: Multi-Model Deliberation API for Higher-Accuracy AI Outputs",
-        "Anthropic Releases ClaudeForFoundationModels: Claude Now Plugs Into Apple's On-Device AI Framework"
       ]
     }
   ]

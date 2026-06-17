@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-17T05:00:00+09:00",
+  "last_run_at": "2026-06-17T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-17T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6584574",
+        "https://www.jiji.com/jc/article?k=2026061700127&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061700238&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6584575",
+        "https://news.yahoo.co.jp/pickup/6584559",
+        "https://zenn.dev/ymotongpoo/articles/20260616-ai-cli-otel-grafana",
+        "https://zenn.dev/hataluck/articles/0752919b305a9f",
+        "https://zenn.dev/knowledgesense/articles/1b5c7b70a2837c",
+        "https://www.anthropic.com/news/anthropic-public-record",
+        "https://www.publickey1.jp/blog/26/2027ai65ide.html",
+        "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/"
+      ],
+      "titles": [
+        "G7サミット閉幕、成果文書で国際結束を演出——中東・ウクライナ情勢にも言及",
+        "知床観光船事故、運航会社社長に禁錮5年——「予見可能だった」と釧路地裁",
+        "高市首相、G7で中国の対日輸出規制を批判——重要鉱物サプライチェーンの強靱化訴え",
+        "大谷翔平が15号ソロ本塁打——本拠地で「天敵」右腕から130メートルの豪快アーチ",
+        "警視庁など、中国籍2人を地下銀行運営容疑で逮捕——特殊詐欺との資金洗浄も捜査",
+        "Claude CodeとCodex CLIのテレメトリーをGrafana Cloudで可視化——OpenTelemetry連携の実践ガイド",
+        "AIの大量アウトプットによる認知負荷を下げる——意味と見せ方を分離するYAML→HTML Skill設計",
+        "AmazonのState-Aware RAG研究——反復検索でマルチホップ推論精度を向上させる新手法",
+        "Anthropic's First Public Record: 64% of Americans Fear AI Job Loss, 70%+ Support Government Regulation",
+        "Gartner: By 2027, 65% of AI-Agent Coding Teams Will No Longer Consider IDEs Essential",
+        "Wolfram Language & Mathematica 15: Built-In AI Assistant, Symbolic Music, and Agent Tools Framework"
+      ]
+    },
     {
       "run_at": "2026-06-17T05:00:00+09:00",
       "urls": [
@@ -143,7 +172,7 @@
         "Local LLMでデータ分析を試してみた——AI Shiftが検証するオンプレミスAI活用の現実と限界",
         "Iroh 1.0: Dial Keys, Not IPs — A Stable Peer-to-Peer Networking Layer Hits General Availability",
         "datasette-agent 0.3: The Agentic Database Interface Gets Write Permissions and Human Approval Gates",
-        "How Memory Safety CVEs Differ Between Rust and C/C++: Why Comparing Counts Is Misleading"
+        "How Memory Safety CVEs Differ Between Rust and C/C++: Why Comparing Rubric Counts Is Misleading"
       ]
     },
     {
@@ -202,93 +231,6 @@
         "Anthropic's Safety Superpower: When Mission and Business Interests Align Too Perfectly",
         "OpenRouter Launches Fusion: Multi-Model Deliberation API for Higher-Accuracy AI Outputs",
         "Anthropic Releases ClaudeForFoundationModels: Claude Now Plugs Into Apple's On-Device AI Framework"
-      ]
-    },
-    {
-      "run_at": "2026-06-15T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6584365",
-        "https://news.yahoo.co.jp/pickup/6584341",
-        "https://www.jiji.com/jc/article?k=2026061500260&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061500888&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061500932&g=soc&m=rss",
-        "https://zenn.dev/nomhiro/articles/omc-azure-foundry",
-        "https://www.itmedia.co.jp/news/articles/2606/15/news067.html",
-        "https://zenn.dev/japan/articles/73ad921caeb0bd",
-        "https://www.anthropic.com/news/confidential-draft-s1-sec",
-        "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
-        "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/"
-      ],
-      "titles": [
-        "日伊首脳会談、先端技術・防衛協力で共同声明へ——高市首相がメローニ首相と会談",
-        "H3ロケット9号機、8月7日に打ち上げ決定——JAXAが正式発表",
-        "ブラジルでヘリコプター空中衝突、6人死亡——米人気歌手も犠牲の可能性",
-        "茨城・下妻市長が遺体で発見——3月に初当選、家族が行方不明届",
-        "読売巨人軍・阿部前監督を起訴猶予——東京地検、長女への暴行容疑で捜査",
-        "OSSの「AI社員だけの会社」OneManCompany をMicrosoft Foundry モデルで動かす——マルチエージェント実験レポート",
-        "Google、Gemini悪用の中国系サイバー犯罪組織を提訴——5か月で159万件の偽URLを生成",
-        "LLMは本当に長文を読めているのか？「Lost in the Middle」から考えるRAG設計の実践",
-        "Anthropic Confidentially Files Draft S-1 with SEC — IPO Process Officially Begins",
-        "Formal Methods at Jane Street: How Proof-Driven Engineering Is Reshaping the Future of Programming",
-        "GitHub Copilot CLI Now Speaks Your Code: Language Server Integration Brings True Semantic Understanding"
-      ]
-    },
-    {
-      "run_at": "2026-06-15T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026061500135&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061500098&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6584313",
-        "https://news.yahoo.co.jp/pickup/6584322",
-        "https://www.jiji.com/jc/article?k=2026061500280&g=soc&m=rss",
-        "https://zenn.dev/yusukebe/articles/ccb1f953e48ee1",
-        "https://www.itmedia.co.jp/news/articles/2606/15/news015.html",
-        "https://zenn.dev/shotakada/articles/claude-code-opus48-court-loop",
-        "https://www.anthropic.com/news/claude-opus-4-8",
-        "https://www.anthropic.com/news/expanding-project-glasswing",
-        "https://planetscale.com/blog/the-only-scalable-delete"
-      ],
-      "titles": [
-        "米・イランが戦闘終結で正式合意——１９日スイスで署名、ホルムズ海峡が開放へ",
-        "プーチン大統領がトランプ氏の80歳誕生日を祝い電話会談——ゼレンスキー氏も同日に連絡",
-        "G7サミット開幕、米と欧州の溝は埋まるか——関税・ウクライナで対立続く",
-        "元教諭に懲役8年判決——盗撮グループ関与、「被害者をモノ扱いした」と裁判長",
-        "天皇皇后両陛下、オランダ国王とW杯「日本vsオランダ」を観戦——SNSで写真公開",
-        "AIエージェント時代にCloudflareへ賭けろ——Workers・Durable Objects・Queuesがエージェントインフラの最適解",
-        "Sakana AI、初の商用プロダクト「Marlin」正式リリース——AB-MCTSで8時間かけて調査するリサーチエージェント",
-        "Claude Code「court無限ループ」を会話を捨てずに復活させる——Opus 4.8固有バグへの実践的回避術",
-        "Anthropic Releases Claude Opus 4.8: Stronger Agentic Judgment, 2.5× Fast Mode Now 3× Cheaper",
-        "Anthropic Expands Project Glasswing to 150 More Organizations in 15+ Countries",
-        "PlanetScale: The Only Scalable Delete in Postgres Is DROP TABLE"
-      ]
-    },
-    {
-      "run_at": "2026-06-15T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6584291",
-        "https://news.yahoo.co.jp/pickup/6584278",
-        "https://news.yahoo.co.jp/pickup/6584284",
-        "https://news.yahoo.co.jp/pickup/6584286",
-        "https://news.yahoo.co.jp/pickup/6584275",
-        "https://zenn.dev/snaga/articles/2026-06-14-doctools-with-pageindex",
-        "https://zenn.dev/tingtt/articles/fc05c73f8265e4",
-        "https://www.itmedia.co.jp/news/articles/2606/15/news055.html",
-        "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
-        "https://blog.cloudflare.com/ai-gateway-spend-limits/",
-        "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html"
-      ],
-      "titles": [
-        "日経平均株価、史上初めて6万9000円台に突入——米イラン和解を好感し一時3000円超上昇",
-        "米イランが和平合意に署名——パキスタン仲介で戦闘終結へ、19日スイスで式典",
-        "天皇皇后両陛下、オランダ国王王妃とともにW杯「日本vsオランダ」を観戦",
-        "栃木・強盗殺人事件の「主導役」容疑者が浮上——逃亡中の益田和彦容疑者を公開手配",
-        "サッカー日本代表がオランダとドロー——久保建英が負傷交代も試合後は自力歩行",
-        "超精密インデックス「PageIndex」で実現する推論ベースRAG——ベクタ検索の限界をAIエージェントが突破",
-        "「原則」をRules / Skillsに落とし込む——Agentic Codingにおける抽象度の高い行動指針の設計",
-        "ナデラCEO「エコシステムなきフロンティアは不安定」——Fable 5停止から2日、AI依存脱却を訴える",
-        "Why AI Hasn't Replaced Software Engineers — And Won't: Three Real Bottlenecks Revealed",
-        "Cloudflare AI Gateway Launches Real-Time Spend Controls and Identity-Driven Budgets for Enterprise AI",
-        "Inverse Rubric Optimization: A New Testbed for Studying Long-Horizon Agent Behavior at Scale"
       ]
     }
   ]

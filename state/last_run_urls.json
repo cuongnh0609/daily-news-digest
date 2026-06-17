@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-18T00:00:00+09:00",
+  "last_run_at": "2026-06-18T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-18T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026061800098&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061800135&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/17/news124.html",
+        "https://www.itmedia.co.jp/news/articles/2606/17/news089.html",
+        "https://www.itmedia.co.jp/news/articles/2606/17/news120.html",
+        "https://zenn.dev/ikora/articles/88f62861a953c1",
+        "https://zenn.dev/nttdata_tech/articles/d2edb6a9fe5d7f",
+        "https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html",
+        "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+        "https://browser-use.com/posts/firecracker-browser-infra",
+        "https://www.greptile.com/blog/trex-code-execution"
+      ],
+      "titles": [
+        "対イラン作戦参加、日本が拒否——トランプ大統領が会見で言及",
+        "米FRB、4会合連続で金利据え置き——物価高への警戒続く",
+        "Google、Gemini専用スマートスピーカー「Google Home スピーカー」を1万6800円で国内発売へ",
+        "Google「Android 17」配信開始——折りたたみ向けゲーミングモードとマルチタスク強化",
+        "東急電鉄、車内モバイルバッテリー充電に注意喚起——「使用禁止」ではないと釈明",
+        "AI臭を消すClaude Skillsを作った——出力の「生成感」を設計で制御する",
+        "「とりあえず許可」を卒業する——Claude Codeの実行前にHookで行動説明を表示する実装",
+        "AWS FinOps Agent、パブリックプレビュー開始——コスト異常をAIが自動特定",
+        "AI Demands More Engineering Discipline. Not Less.",
+        "How We Run Firecracker VMs Inside EC2 and Start Browsers in Less Than 1 Second",
+        "TREX: An AI Code Reviewer That Executes Your Code Before Commenting"
+      ]
+    },
     {
       "run_at": "2026-06-18T00:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "TCS and Anthropic Partner to Bring Claude to 50,000 Employees and Regulated Industries Worldwide",
         "Cloudflare Acquires VoidZero: Vite, Rolldown, and Astro Now Under One Roof — Declaring War on Vercel",
         "Microsoft Launches 7 Proprietary AI Models at Build 2026: Reasoning, Coding, Vision, Speech"
-      ]
-    },
-    {
-      "run_at": "2026-06-16T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6584445",
-        "https://news.yahoo.co.jp/pickup/6584440",
-        "https://news.yahoo.co.jp/pickup/6584438",
-        "https://news.yahoo.co.jp/pickup/6584451",
-        "https://news.yahoo.co.jp/pickup/6584453",
-        "https://zenn.dev/yamadatt/articles/20260614-ubuntu-gemma4-ollama",
-        "https://zenn.dev/yun_bow/articles/6e6bcbf127072a",
-        "https://zenn.dev/shizuku1984/articles/3f546a7ddd780a",
-        "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/",
-        "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
-        "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers"
-      ],
-      "titles": [
-        "日経平均株価、史上初めて7万円の大台を突破",
-        "日銀、政策金利を1%に引き上げ——31年ぶりの高水準",
-        "アイス大手6社にカルテル疑い——公取委が立ち入り検査",
-        "富士通会長が辞任——女性に関する不適切な行動が理由",
-        "世界遺産・下鴨神社で樹齢450年の御神木が倒壊",
-        "Fable 5停止を機に — UbuntuでGemma 4 E2Bをローカル動作させた記録",
-        "個人開発はなぜ誰も使わないのか — AIで「作る壁」が消えた時代の本質",
-        "Docker/KubernetesをつなぐOSSコンテナランタイム「Raind」が登場",
-        "The Fable 5 Export Controls Harm US Cyber Defense",
-        "GitHub Agentic Workflows Is Now in Public Preview",
-        "Hetzner Cloud Price Adjustment: New Pricing Tiers Effective June 15"
-      ]
-    },
-    {
-      "run_at": "2026-06-16T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6584412",
-        "https://news.yahoo.co.jp/pickup/6584401",
-        "https://news.yahoo.co.jp/pickup/6584416",
-        "https://www.itmedia.co.jp/news/articles/2606/16/news060.html",
-        "https://www.itmedia.co.jp/news/articles/2606/16/news061.html",
-        "https://www.itmedia.co.jp/news/articles/2606/12/news072.html",
-        "https://zenn.dev/dataheroes/articles/snowflake-summit-2026-strategic-ai",
-        "https://zenn.dev/aishift/articles/5a5383987efee6",
-        "https://www.iroh.computer/blog/v1",
-        "https://simonwillison.net/2026/Jun/15/datasette-agent/",
-        "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html"
-      ],
-      "titles": [
-        "米でB-52爆撃機が墜落、8人死亡か——原因調査中",
-        "9か国が共同声明、米・イラン核合意を歓迎",
-        "関東で気温上昇、猛暑が戻る——沖縄・奄美は梅雨前線で大雨警戒",
-        "SpaceXのIPO調達額が857億ドルに拡大——グリーンシュー行使で史上最大規模に",
-        "Facebookに新「AI Mode」導入——グループやリールの公開投稿が検索回答の情報源に",
-        "OpenAI、クラウド開発環境「Ona」を買収——AIコーディングエージェント「Codex」の長時間稼働基盤に",
-        "戦術AIから戦略AIへ——Snowflake SUMMIT 2026が示すデータ基盤とAIエージェントの融合",
-        "Local LLMでデータ分析を試してみた——AI Shiftが検証するオンプレミスAI活用の現実と限界",
-        "Iroh 1.0: Dial Keys, Not IPs — A Stable Peer-to-Peer Networking Layer Hits General Availability",
-        "datasette-agent 0.3: The Agentic Database Interface Gets Write Permissions and Human Approval Gates",
-        "How Memory Safety CVEs Differ Between Rust and C/C++: Why Comparing Rubric Counts Is Misleading"
-      ]
-    },
-    {
-      "run_at": "2026-06-16T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026061501016&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061501192&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061501195&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061600099&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6584396",
-        "https://zenn.dev/r_kaga/articles/340fba67527789",
-        "https://zenn.dev/ssknaoya/articles/d9becba1164230",
-        "https://www.itmedia.co.jp/news/articles/2606/15/news120.html",
-        "https://www.anthropic.com/news/claude-corps",
-        "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/",
-        "https://rsgm.dev/post/ai-dev-platform/"
-      ],
-      "titles": [
-        "イスラエル、米国に深い失望感——イランの核問題が「宙吊り」のまま合意へ",
-        "ホルムズ海峡を石油タンカーが通過再開——トランプ大統領が合意の成果を強調",
-        "NYダウが600ドル超の急騰——米イラン合意でリスク回避ムード一変",
-        "Ｗ杯サッカー：初出場カボベルデがスペインに0-0でドロー——番狂わせに近い奮闘",
-        "愛媛県独自品種の苗木が中国へ流出か——知事「怒りを禁じ得ない」と強い憤り",
-        "月2億円分のトークンを燃やすには——「in the loop」から「on the loop」へのパラダイム転換",
-        "GitHub Copilot有料化難民の旅——Claude Code、Google AI Studio、そしてCodexへ",
-        "イギリス、16歳未満のSNS利用を法律で禁止——「子どもを不幸にしている」と政府が断言",
-        "Anthropic Launches Claude Corps: $150M Fellowship Placing AI-Trained Talent at Nonprofits",
-        "\"They Screwed Us\": Inside the Personality Clashes That Sent Anthropic's Models Offline",
-        "Building a Homelab AI Dev Platform: GitOps-Controlled OpenCode with Human-in-the-Loop Merges"
       ]
     }
   ]

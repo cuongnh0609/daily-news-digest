@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-18T05:00:00+09:00",
+  "last_run_at": "2026-06-18T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-18T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026061800322&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061800238&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/18/news071.html",
+        "https://www.itmedia.co.jp/news/articles/2606/18/news065.html",
+        "https://www.itmedia.co.jp/news/articles/2606/18/news057.html",
+        "https://zenn.dev/nttdata_tech/articles/2fe14c8819557c",
+        "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
+        "https://www.itmedia.co.jp/news/articles/2606/18/news038.html",
+        "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+        "https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available",
+        "https://openrouter.ai/blog/insights/royale-last-agent-standing/"
+      ],
+      "titles": [
+        "米・イラン核合意が正式発効——トランプ大統領が署名、ホルムズ海峡60日間無料通航へ",
+        "高市首相、国民民主との連立に含み——消費税「実質ゼロ」実現へ前向き姿勢",
+        "東京メトロ、全9路線の「混雑ヒートマップ」を公開——リアルタイムで車両混雑を可視化",
+        "JR東海、新幹線にグリーン車超えの個室「Supreme Class」——2027年度導入へ",
+        "在宅勤務、東京圏で一定の定着——大阪圏ではコロナ前の水準に逆戻り",
+        "DatabricksのOSSメタハーネス「Omnigent」——複数AIエージェントを一元管理する新アーキテクチャ",
+        "Stack Overflow for Agents 始動——AIエージェント同士が技術知識を共有するプラットフォーム",
+        "「AIコーディング」がたった5年で急進化したワケ——データ品質と学習手法の進化がもたらした変革",
+        "Anthropic Opens Seoul Office, Partners with NAVER, Samsung SDS, and Korean Research Universities",
+        "GitHub Agent Finder GA: Copilot Now Auto-Discovers MCP Servers and Tools Using Open ARD Spec",
+        "OpenRouter Battle Royale: Claude Sonnet Wins 5 Matches but Costs 27× More per Win Than Grok in Agentic Benchmark"
+      ]
+    },
     {
       "run_at": "2026-06-18T05:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "SpaceX Acquires Cursor (Anysphere) for $60 Billion — Largest AI Dev Tool Deal Ever",
         "\"Fix This Code\" Triggered Fable 5 Ban — Security Researcher Calls Export Control \"Absurd\"",
         "Google Chrome 150 Removes Last Manifest V2 Support — Popular Ad Blockers Permanently Broken"
-      ]
-    },
-    {
-      "run_at": "2026-06-16T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6584500",
-        "https://news.yahoo.co.jp/pickup/6584494",
-        "https://www.itmedia.co.jp/news/articles/2606/16/news115.html",
-        "https://www.itmedia.co.jp/news/articles/2606/16/news121.html",
-        "https://news.yahoo.co.jp/pickup/6584407",
-        "https://www.publickey1.jp/blog/26/aiwindowswindows_development_skills.html",
-        "https://www.publickey1.jp/blog/26/7aimicrosoft_ai_models.html",
-        "https://www.publickey1.jp/blog/26/cloudflareviterolldownvoidzeroastrovitecloudflare.html",
-        "https://www.anthropic.com/news/tcs-anthropic-partnership",
-        "https://www.publickey1.jp/blog/26/cloudflareviterolldownvoidzeroastrovitecloudflare.html",
-        "https://www.publickey1.jp/blog/26/7aimicrosoft_ai_models.html"
-      ],
-      "titles": [
-        "群馬・埼玉で震度5弱の地震——津波の心配なし",
-        "日米首脳、G7会場で短時間会談——中東情勢・合意の履行確認を要請",
-        "SBGとOpenAI、AIで重要インフラの脆弱性を診断する「Patching as a Service」発表",
-        "シャープ、初のスマートウォッチ「ココロト Watch」発表——食事カロリーを自動計測",
-        "スマホのシャッター音「廃止すべき？」——世論二分、見直し論が高まる",
-        "マイクロソフト、AIエージェントにWindows開発知識を与える「Windows Development Skills」を正式提供開始",
-        "マイクロソフト、自社開発AIモデル「Microsoft AI Models」7種を一挙発表——推論・コード・画像・音声を網羅",
-        "CloudflareがVoidZeroを買収——ViteとRolldownの開発元を傘下に、Astroと合わせWebプラットフォーム強化",
-        "TCS and Anthropic Partner to Bring Claude to 50,000 Employees and Regulated Industries Worldwide",
-        "Cloudflare Acquires VoidZero: Vite, Rolldown, and Astro Now Under One Roof — Declaring War on Vercel",
-        "Microsoft Launches 7 Proprietary AI Models at Build 2026: Reasoning, Coding, Vision, Speech"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-18T20:00:00+09:00",
+  "last_run_at": "2026-06-19T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-19T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026061801092&g=pol",
+        "https://www.jiji.com/jc/article?k=2026061801041&g=int",
+        "https://www.jiji.com/jc/article?k=2026061800208&g=eco",
+        "https://www.jiji.com/jc/article?k=2026061801178&g=soc",
+        "https://www.itmedia.co.jp/news/articles/2606/18/news130.html",
+        "https://zenn.dev/arm_techblog/articles/7712cde19988c8",
+        "https://zenn.dev/gleon/articles/312dacc4ba3156",
+        "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html",
+        "https://www.anthropic.com/news/fable-mythos-access",
+        "https://www.anthropic.com/news/tcs-anthropic-partnership",
+        "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch"
+      ],
+      "titles": [
+        "自民党、「スパイ防止法」制定に向けた本格的な検討を開始",
+        "アップルとインテル、米国内での半導体協業を発表——トランプ政権が後押し",
+        "ニデック株主総会、社長が不正会計・品質問題を謝罪——永守氏の責任追及も",
+        "天皇陛下、オランダ訪問でフェルメール鑑賞——首相主催昼食会にも出席",
+        "DAZN、サッカー専用プラン契約者に「解約・変更・継続」の選択を迫る——30日以内に対応必須",
+        "2026年6月現在のClaude Code開発フロー——計画承認からPR作成まで自律化する実践例",
+        "企業がAIエージェントの改善ループを確立するための4つの課題——MCPからRAG、評価設計まで",
+        "GitLab「Project Switch」発表——AIエージェント向けに最大50倍高速なGit互換SCM",
+        "US Government Orders Anthropic to Suspend Fable 5 and Mythos 5 — Citing a Claimed Jailbreak",
+        "TCS and Anthropic Partner to Deploy Claude Across 50,000 Employees and Regulated Industries Globally",
+        "Elastic Builds Persistent Agent Memory on Elasticsearch — Three-Index Architecture Achieves 0.89 Recall"
+      ]
+    },
     {
       "run_at": "2026-06-18T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "DXC Technology Partners with Anthropic: Claude Powers Enterprise Systems for Banks, Airlines, and Governments",
         "GitHub Models Closed to New Customers — Service Heading Toward Full Retirement",
         "Anthropic's Founder Playbook: Building AI-Native Startups from Idea to Scale with Claude"
-      ]
-    },
-    {
-      "run_at": "2026-06-17T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6584574",
-        "https://www.jiji.com/jc/article?k=2026061700127&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061700238&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6584575",
-        "https://news.yahoo.co.jp/pickup/6584559",
-        "https://zenn.dev/ymotongpoo/articles/20260616-ai-cli-otel-grafana",
-        "https://zenn.dev/hataluck/articles/0752919b305a9f",
-        "https://zenn.dev/knowledgesense/articles/1b5c7b70a2837c",
-        "https://www.anthropic.com/news/anthropic-public-record",
-        "https://www.publickey1.jp/blog/26/2027ai65ide.html",
-        "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/"
-      ],
-      "titles": [
-        "G7サミット閉幕、成果文書で国際結束を演出——中東・ウクライナ情勢にも言及",
-        "知床観光船事故、運航会社社長に禁錮5年——「予見可能だった」と釧路地裁",
-        "高市首相、G7で中国の対日輸出規制を批判——重要鉱物サプライチェーンの強靱化訴え",
-        "大谷翔平が15号ソロ本塁打——本拠地で「天敵」右腕から130メートルの豪快アーチ",
-        "警視庁など、中国籍2人を地下銀行運営容疑で逮捕——特殊詐欺との資金洗浄も捜査",
-        "Claude CodeとCodex CLIのテレメトリーをGrafana Cloudで可視化——OpenTelemetry連携の実践ガイド",
-        "AIの大量アウトプットによる認知負荷を下げる——意味と見せ方を分離するYAML→HTML Skill設計",
-        "AmazonのState-Aware RAG研究——反復検索でマルチホップ推論精度を向上させる新手法",
-        "Anthropic's First Public Record: 64% of Americans Fear AI Job Loss, 70%+ Support Government Regulation",
-        "Gartner: By 2027, 65% of AI-Agent Coding Teams Will No Longer Consider IDEs Essential",
-        "Wolfram Language & Mathematica 15: Built-In AI Assistant, Symbolic Music, and Agent Tools Framework"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-18T10:00:00+09:00",
+  "last_run_at": "2026-06-18T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-18T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026061800453&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061800365&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061800274&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061800202&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/18/news099.html",
+        "https://zenn.dev/coa00/articles/tailscale-ssh-home-mac-claude-code",
+        "https://zenn.dev/yusukebe/articles/ccb1f953e48ee1",
+        "https://www.publickey1.jp/blog/26/wasi_03webassembly_component.html",
+        "https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users",
+        "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli",
+        "https://blog.alexellis.io/local-ai-is-not-opus/"
+      ],
+      "titles": [
+        "山岳遭難者、過去最多の3623人——高齢者と訪日外国人の増加が背景に",
+        "天皇陛下、オランダ晩さん会で過去の戦争に言及——「平和への努力を続けていかなくてはならない」",
+        "フィリピン、南シナ海の中国製浮体構造物の撤去を確認——中国側は「調査完了」と説明",
+        "衆院憲法審、国民投票法改正案を可決——立会人要件の緩和で改憲発議に向け環境整備",
+        "ChatGPT、定期タスク自動実行機能「Scheduled tasks」を全プランに提供——設定時間に自動でウェブ検索・通知",
+        "ポート開放なしで外出先から自宅MacにSSH接続し、Claude Codeを動かす——Tailscale活用術",
+        "AIエージェント時代のインフラはCloudflareに賭けろ——「1対1パラダイム」に対応する新アーキテクチャ",
+        "WASI 0.3が正式リリース——WebAssemblyコンポーネント間の非同期処理を共通基盤で統一",
+        "GitHub Copilot Chat Auto Mode Now GA for All Users — Smart Model Routing with 10% Discount",
+        "GitHub CLI Gets Remote Repo Reading — Browse Files Without Cloning, Including AI Agent Workflows",
+        "Local Qwen Isn't a Worse Opus — It's a Different Tool With a $12K GPU and Specific Strengths"
+      ]
+    },
     {
       "run_at": "2026-06-18T10:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-20T00:00:00+09:00",
+  "last_run_at": "2026-06-20T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-20T05:00:00+09:00",
+      "urls": [
+        "http://www3.nhk.or.jp/news/html/20260620/k10015155061000.html",
+        "http://www3.nhk.or.jp/news/html/20260620/k10015154971000.html",
+        "https://www.jiji.com/jc/article?k=2026061901087&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061900760&g=int&m=rss",
+        "http://www3.nhk.or.jp/news/html/20260619/k10015154991000.html",
+        "https://zenn.dev/stak22/articles/3ea03d0e3ca025",
+        "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
+        "https://zenn.dev/loglass/articles/75f3435f24595a",
+        "https://www.anthropic.com/news/expanding-project-glasswing",
+        "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+        "https://www.nature.com/articles/d41586-026-01947-1"
+      ],
+      "titles": [
+        "台風7号が発生——沖縄県に接近のおそれ、気象庁が注意呼びかけ",
+        "東京電力の提携交渉、日米5陣営に絞り込み——投資ファンドや通信大手が名乗り",
+        "外国人ビザ手数料を48年ぶりに引き上げ——7月以降、申請費用が大幅増",
+        "EU首脳会議、中国製品の流入対策強化へ——加盟国間に温度差も",
+        "政府、高性能AIのサイバー悪用対策で基本計画の初の見直し案——外国政府との連携も強化",
+        "AIエージェントが自律的に自己改善する「self-improvement」スキルの実装例——反省ループとツール呼び出しで精度向上",
+        "「AI臭」を消すClaude Skillsを作った——LLMの定型文パターンを検出・除去するstop-ai-slop-jp",
+        "Platform Engineeringを「使われる」ものにするための組織設計——LogLassが1年間の実践を公開",
+        "Anthropic Expands Project Glasswing to 150+ Organizations — AI-Powered Security Scanning Uncovers 10,000+ Critical Vulnerabilities",
+        "DuckDB Internals: Why Is DuckDB So Fast? — A Deep Dive into Vectorized Execution and Columnar Storage",
+        "Is AI Making Us Worse at Our Jobs? Early Evidence from Nature Suggests Skill Atrophy Is Real"
+      ]
+    },
     {
       "run_at": "2026-06-20T00:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-19T15:00:00+09:00",
+  "last_run_at": "2026-06-19T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-19T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6584871",
+        "https://news.yahoo.co.jp/pickup/6584874",
+        "https://news.yahoo.co.jp/pickup/6584872",
+        "https://news.yahoo.co.jp/pickup/6584828",
+        "https://news.yahoo.co.jp/pickup/6584868",
+        "https://zenn.dev/layerx/articles/b36ceffe6b5e20",
+        "https://www.itmedia.co.jp/news/articles/2606/19/news110.html",
+        "https://zenn.dev/sompojapan_dx/articles/74624afa03040c",
+        "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout",
+        "https://www.itmedia.co.jp/news/articles/2606/19/news119.html",
+        "https://www.intheweights.com/"
+      ],
+      "titles": [
+        "梅雨前線が活発化——20〜21日、西日本・東日本で警報級大雨のおそれ",
+        "東海道新幹線が全線で運転見合わせ——浜松駅付近で「のぞみ」が人身事故",
+        "仙台市の小学校でいじめ重大事態——外国にルーツある女児のランドセルに画鋲",
+        "日清食品、カップ焼きそば28万個を自主回収——粉末ソースに合成樹脂の混入疑い",
+        "ロシアの人的優位に陰り——長期戦の消耗がウクライナ侵攻の構図を変えつつある",
+        "自己改善エージェントはなぜ前提を覆せないのか——ハーネス設計が突破口",
+        "Adobe Creative Cloud全アプリにAIエージェント導入——Claude・ChatGPTとも連携",
+        "ローカルLLMを使うべき3つの条件——コスト・ガバナンス・特化精度で考える判断軸",
+        "GitHub Actions Closes 'Pwn Request' Gap — Safer pull_request_target Defaults Ship in actions/checkout v7",
+        "Palmier Pro: Open-Source AI Video Editor Powered by Claude Code and MCP Ships for macOS Tahoe",
+        "'Are You in the Weights?' — New Tool Lets You Check if Your Writing Appears in LLM Training Data"
+      ]
+    },
     {
       "run_at": "2026-06-19T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "GitHub Copilot Chat Auto Mode Now GA for All Users — Smart Model Routing with 10% Discount",
         "GitHub CLI Gets Remote Repo Reading — Browse Files Without Cloning, Including AI Agent Workflows",
         "Local Qwen Isn't a Worse Opus — It's a Different Tool With a $12K GPU and Specific Strengths"
-      ]
-    },
-    {
-      "run_at": "2026-06-18T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026061800322&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061800238&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/18/news071.html",
-        "https://www.itmedia.co.jp/news/articles/2606/18/news065.html",
-        "https://www.itmedia.co.jp/news/articles/2606/18/news057.html",
-        "https://zenn.dev/nttdata_tech/articles/2fe14c8819557c",
-        "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
-        "https://www.itmedia.co.jp/news/articles/2606/18/news038.html",
-        "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-        "https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available",
-        "https://openrouter.ai/blog/insights/royale-last-agent-standing/"
-      ],
-      "titles": [
-        "米・イラン核合意が正式発効——トランプ大統領が署名、ホルムズ海峡60日間無料通航へ",
-        "高市首相、国民民主との連立に含み——消費税「実質ゼロ」実現へ前向き姿勢",
-        "東京メトロ、全9路線の「混雑ヒートマップ」を公開——リアルタイムで車両混雑を可視化",
-        "JR東海、新幹線にグリーン車超えの個室「Supreme Class」——2027年度導入へ",
-        "在宅勤務、東京圏で一定の定着——大阪圏ではコロナ前の水準に逆戻り",
-        "DatabricksのOSSメタハーネス「Omnigent」——複数AIエージェントを一元管理する新アーキテクチャ",
-        "Stack Overflow for Agents 始動——AIエージェント同士が技術知識を共有するプラットフォーム",
-        "「AIコーディング」がたった5年で急進化したワケ——データ品質と学習手法の進化がもたらした変革",
-        "Anthropic Opens Seoul Office, Partners with NAVER, Samsung SDS, and Korean Research Universities",
-        "GitHub Agent Finder GA: Copilot Now Auto-Discovers MCP Servers and Tools Using Open ARD Spec",
-        "OpenRouter Battle Royale: Claude Sonnet Wins 5 Matches but Costs 27× More per Win Than Grok in Agentic Benchmark"
-      ]
-    },
-    {
-      "run_at": "2026-06-18T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026061800098&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061800135&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/17/news124.html",
-        "https://www.itmedia.co.jp/news/articles/2606/17/news089.html",
-        "https://www.itmedia.co.jp/news/articles/2606/17/news120.html",
-        "https://zenn.dev/ikora/articles/88f62861a953c1",
-        "https://zenn.dev/nttdata_tech/articles/d2edb6a9fe5d7f",
-        "https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html",
-        "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-        "https://browser-use.com/posts/firecracker-browser-infra",
-        "https://www.greptile.com/blog/trex-code-execution"
-      ],
-      "titles": [
-        "対イラン作戦参加、日本が拒否——トランプ大統領が会見で言及",
-        "米FRB、4会合連続で金利据え置き——物価高への警戒続く",
-        "Google、Gemini専用スマートスピーカー「Google Home スピーカー」を1万6800円で国内発売へ",
-        "Google「Android 17」配信開始——折りたたみ向けゲーミングモードとマルチタスク強化",
-        "東急電鉄、車内モバイルバッテリー充電に注意喚起——「使用禁止」ではないと釈明",
-        "AI臭を消すClaude Skillsを作った——出力の「生成感」を設計で制御する",
-        "「とりあえず許可」を卒業する——Claude Codeの実行前にHookで行動説明を表示する実装",
-        "AWS FinOps Agent、パブリックプレビュー開始——コスト異常をAIが自動特定",
-        "AI Demands More Engineering Discipline. Not Less.",
-        "How We Run Firecracker VMs Inside EC2 and Start Browsers in Less Than 1 Second",
-        "TREX: An AI Code Reviewer That Executes Your Code Before Commenting"
       ]
     }
   ]

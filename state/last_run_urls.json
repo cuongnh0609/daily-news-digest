@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-19T05:00:00+09:00",
+  "last_run_at": "2026-06-19T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-19T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026061900255&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061801180&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061900298&g=spo&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/19/news072.html",
+        "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/",
+        "https://zenn.dev/midori/articles/2d0caf37e6bdfb",
+        "https://zenn.dev/kikaikaya/articles/flowsmith-checkpoint-resume",
+        "https://zenn.dev/n314/articles/6becd34ddbe6ad",
+        "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
+        "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
+        "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/"
+      ],
+      "titles": [
+        "米イラン覚書、与党共和で批判広がる——「目標かけ離れ」「最悪の失策」",
+        "高市首相こだわった食品消費税ゼロ——「実質」説得で1%案傾斜",
+        "ファンデルファールトさんが謝罪——日本戦で不適切発言、W杯サッカー",
+        "OpenAI、Google「Gemini」共同リードのノーム・シャジーア氏を獲得",
+        "「ChatGPT広告」日本上陸——電通・博報堂など支援",
+        "Claude Codeを安く使うコツは「LLMに探させない」こと",
+        "中断しても続きから動く——AIワークフローのチェックポイント設計",
+        "Claude CodeのTeamCreateが廃止され、Plan Modeが変わったのでワークフローを見直す",
+        "GitHub Issues Gets AI-Powered Duplicate Detection and Full MCP Field Support",
+        "Microsoft's MAI-Code-1-Flash Now Available Across All Copilot Surfaces — Opus 4.6 (fast) Deprecated June 29",
+        "SK Telecom at the Center of Anthropic's Mythos Export Control Controversy"
+      ]
+    },
     {
       "run_at": "2026-06-19T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Launches Services Track and Partner Hub in Claude Partner Network",
         "GLM-5.2 Becomes Top Open-Weights Model, Matches Proprietary Systems on Agentic Benchmarks",
         "GitHub Code Quality Goes Paid July 20 — $10/Committer/Month After Free Preview Ends"
-      ]
-    },
-    {
-      "run_at": "2026-06-17T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026061700901&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061700904&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061700685&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/17/news089.html",
-        "https://www.jiji.com/jc/article?k=2026061700811&g=soc&m=rss",
-        "https://zenn.dev/bokuwalily/articles/claude-autopilot",
-        "https://zenn.dev/cutlet_of_pork/articles/codex-claude-code-mcp-agents-md-integration",
-        "https://zenn.dev/aiwatch_jp/articles/agent-flow-sandbox-permissions",
-        "https://www.anthropic.com/news/dxc-anthropic-alliance",
-        "https://github.blog/changelog/2026-06-16-github-models-is-no-longer-available-to-new-customers",
-        "https://claude.com/blog/the-founders-playbook"
-      ],
-      "titles": [
-        "中国、白書で「軍国主義」復活を批判——日本念頭に国際社会へ警告",
-        "16歳少女、自白強要で摂食障害に——不当逮捕で死亡と母親が国・兵庫県提訴",
-        "国家公務員、転勤「嫌だ」が過半数——人事院が金銭給付制度の創設検討",
-        "Google、「Android 17」を配信開始——Pixelから順次、マルチタスク強化と「ゲーミングモード」が目玉",
-        "IT役員殺害でIT社長再逮捕——報酬トラブルか、SNSで遺体解体を指南した29歳男も逮捕",
-        "Claude Codeを無人で自律改善させる——コストで暴走を止めるautopilot設計",
-        "Claude CodeからCodex CLIをMCPで呼ぶ——AGENTS.md単一ソース化で設定ファイルの分散を解決",
-        "AIエージェントに実行させる前に——Sandbox・権限・ファイル境界の設計指針",
-        "DXC Technology Partners with Anthropic: Claude Powers Enterprise Systems for Banks, Airlines, and Governments",
-        "GitHub Models Closed to New Customers — Service Heading Toward Full Retirement",
-        "Anthropic's Founder Playbook: Building AI-Native Startups from Idea to Scale with Claude"
       ]
     }
   ]

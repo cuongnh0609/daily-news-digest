@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-20T05:00:00+09:00",
+  "last_run_at": "2026-06-20T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-20T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026062000165&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062000159&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062000119&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6584905?source=rss",
+        "https://www.jiji.com/jc/article?k=2026061901108&g=pol&m=rss",
+        "https://zenn.dev/aws_japan/articles/36e23635add477",
+        "https://zenn.dev/genda_jp/articles/16d35ffa464d65",
+        "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
+        "https://www.anthropic.com/news/services-track-partner-hub",
+        "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+        "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html"
+      ],
+      "titles": [
+        "英南部で列車衝突事故——1人死亡・89人負傷、ロンドン行き2便が正面衝突",
+        "歩数の地域格差は最大2倍——150万人データ解析で都市・農村の生活行動の差が浮き彫りに",
+        "イスラエルとレバノンが停戦合意——発効後も散発的な攻撃続く、イラン・米協議も「数日以内」",
+        "2040年度までに戦略17分野へ370兆円超の官民投資——フィジカルAIに10.5兆円",
+        "再審法案の参院審議が始まる——野党は証拠開示の拡大を求め、政府答弁は消極姿勢",
+        "Kiro CLI v3 徹底解説——仕様駆動開発・hooks 刷新・capability パーミッション管理",
+        "Claude Code サブエージェントのネスト機能で .claude/agents/ の定義が真価を発揮——GENDAの実践報告",
+        "Stack Overflow、AIエージェント同士が技術知識を共有する「Stack Overflow for Agents」をベータ公開",
+        "Anthropic Launches Tiered Claude Partner Network — Services Track and Partner Hub Now Open",
+        "Norway Imposes Near-Ban on AI in Elementary Schools — Students Up to Grade 7 Barred from AI Tools",
+        "Google Workspace Threatens to Block Firefox — Admin Panel Warning Sparks Browser Monoculture Concerns"
+      ]
+    },
     {
       "run_at": "2026-06-20T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "US Government Orders Anthropic to Suspend Fable 5 and Mythos 5 — Citing a Claimed Jailbreak",
         "TCS and Anthropic Partner to Deploy Claude Across 50,000 Employees and Regulated Industries Globally",
         "Elastic Builds Persistent Agent Memory on Elasticsearch — Three-Index Architecture Achieves 0.89 Recall"
-      ]
-    },
-    {
-      "run_at": "2026-06-18T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026061800806&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061801070&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061801025&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/18/news108.html",
-        "https://www.itmedia.co.jp/news/articles/2606/18/news112.html",
-        "https://zenn.dev/fusic/articles/9cedae6d6f8560",
-        "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000102/",
-        "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000103/",
-        "https://www.anthropic.com/news/claude-corps",
-        "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000096/",
-        "https://simonwillison.net/2026/Jun/17/glm-52/"
-      ],
-      "titles": [
-        "内閣支持率54%、発足後最低——高市内閣、批判動画問題が影響",
-        "ウクライナ、モスクワ近郊の製油所を史上最大規模のドローン攻撃——17人負傷",
-        "衆院憲法審、自民が9条改正の「論点整理」を提案——改憲発議へ議論加速",
-        "日本のメルカリ商品、米国から直接購入可能に——グローバルアプリ配信開始",
-        "NHK受信料の未払い数、6年ぶりに減少——支払督促は前年度の11倍に急増",
-        "State-Aware RAGをAWS Bedrockで再現——ワーキングメモリ管理でマルチホップ精度100%を達成",
-        "Anthropic、「Claude Design」を強化——Claude Codeとの双方向連携とCanvaへの出力に対応",
-        "「シャドーAI」に7割超の企業が対応できず——ガートナーが3層管理フレームワークを提言",
-        "Anthropic Launches Claude Corps: $150M Fellowship to Deploy AI Talent in Nonprofits",
-        "SpaceX Acquires Cursor (Anysphere) for $60 Billion — Largest AI Dev Tool Deal in History",
-        "GLM-5.2 Becomes the Strongest Open-Weights Text Model — 753B Parameters, MIT License, 1M Context"
       ]
     }
   ]

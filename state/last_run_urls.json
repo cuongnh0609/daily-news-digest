@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-20T15:00:00+09:00",
+  "last_run_at": "2026-06-20T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-20T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6584992?source=rss",
+        "https://news.yahoo.co.jp/pickup/6584986?source=rss",
+        "https://news.yahoo.co.jp/pickup/6584974?source=rss",
+        "https://news.yahoo.co.jp/pickup/6584989?source=rss",
+        "https://news.yahoo.co.jp/pickup/6584978?source=rss",
+        "https://zenn.dev/91works/articles/bb03f5adb45dea",
+        "https://zenn.dev/oubakiou/articles/b9db61885cd7be",
+        "https://zenn.dev/7kaji/articles/370a8dd7f678d1",
+        "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
+        "https://arrowtsx.dev/bigger-models/",
+        "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html"
+      ],
+      "titles": [
+        "台湾東部海域に中国が「管轄権」主張——海警船を相次ぎ派遣、台湾側が強く反発",
+        "ボリビアが非常事態宣言——50日間のデモで経済が麻痺、軍を全土展開へ",
+        "「スーパーエルニーニョ」今夏も警戒——猛暑・集中豪雨・巨大台風のリスク拡大",
+        "長野・山中でクマに襲われた男性が自力下山——腕と脚に複数の裂傷",
+        "フェルメール展、チケット争奪が「無理ゲー」——12時間待ち・10万人超が殺到",
+        "Claude Design がClaude アプリに対応——コードベースからデザインドキュメントを自動生成、AI内でデザインとコードが一気通貫に",
+        "LLMはMarkdownファイル全体を読んでいる——不要なトークン消費をmd2idxで80〜98%削減",
+        "Apple container で docker compose を動かす——netfilter 非搭載の壁を Kata Containers カーネルで突破",
+        "GitHub Copilot Code Review Now Reads AGENTS.md — Spec-Driven Review Customization Ships GA",
+        "GPT-5.5 Hallucinates 3× More Than Open-Weights GLM-5.2 — Bigger Isn't Always More Truthful",
+        "GitLab Project Switch: Git-Compatible SCM Built for AI Agents Ships, Claims 50× Speed-up and 1000× Less Network Traffic"
+      ]
+    },
     {
       "run_at": "2026-06-20T15:00:00+09:00",
       "urls": [

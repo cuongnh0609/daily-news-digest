@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-20T10:00:00+09:00",
+  "last_run_at": "2026-06-20T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-20T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026062000133&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062000241&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026061901104&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6584950?source=rss",
+        "https://news.yahoo.co.jp/pickup/6584949?source=rss",
+        "https://zenn.dev/dress_code/articles/832cc1733e992c",
+        "https://zenn.dev/417/articles/ai-era-domain-knowledge-placement",
+        "https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era",
+        "https://www.anthropic.com/news/claude-corps",
+        "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+        "https://simonwillison.net/2026/Jun/17/glm-52/"
+      ],
+      "titles": [
+        "トランプ氏がイタリア首相を「侮辱」——外相の訪米を急きょ中止、G7後の亀裂が表面化",
+        "兵庫・斎藤知事「不起訴相当」——2024年選挙買収疑惑で検察審査会が当初決定を支持",
+        "制御性T細胞の増加メカニズム解明——RUNX1タンパク質が鍵、アレルギー・移植医療に応用期待",
+        "台風が来週本州付近に接近——西日本・東日本で警報級の大雨のおそれ",
+        "大谷翔平選手が「31歳で第2子」——人生設計を語り、引退後の夢も明かす",
+        "AIに任せる設計、人間に残す設計——境界線はどこにあるか",
+        "リファクタリングに必要なドメイン知識はどこに置くか——AI時代の知識管理4分類",
+        "AIエージェント時代のソフトウェア工学12原則——規律の欠如がスケール時に爆発する",
+        "Anthropic Launches Claude Corps — $150M Fellowship Placing 1,000 AI Experts in U.S. Nonprofits",
+        "John Jumper, Nobel Prize Winner for AlphaFold, Announces He Is Joining Anthropic",
+        "GLM-5.2: Z.ai Releases 753B Open-Weights LLM with 1M Token Context, Tops Open Model Intelligence Index"
+      ]
+    },
     {
       "run_at": "2026-06-20T10:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "GitHub Issues Gets AI-Powered Duplicate Detection and Full MCP Field Support",
         "Microsoft's MAI-Code-1-Flash Now Available Across All Copilot Surfaces — Opus 4.6 (fast) Deprecated June 29",
         "SK Telecom at the Center of Anthropic's Mythos Export Control Controversy"
-      ]
-    },
-    {
-      "run_at": "2026-06-19T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026061900127&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061900051&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061801099&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/18/news127.html",
-        "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000105/",
-        "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000100/",
-        "https://zenn.dev/tokium_dev/articles/tokium-share-pages",
-        "https://www.publickey1.jp/blog/26/2027ai65ide.html",
-        "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
-        "https://www.anthropic.com/news/anthropic-public-record",
-        "https://twitter.com/NoamShazeer/status/2067400851438932297"
-      ],
-      "titles": [
-        "日本列島が東へ移動——東日本大震災の地震波が地球外核で反射、大規模地殻変動を引き起こす",
-        "円が1年11カ月ぶりに1ドル161円台に下落——米利上げ観測が再燃",
-        "与党が内閣支持率低下に警戒感——中傷動画問題が高市内閣の求心力を揺さぶる",
-        "「こち亀」の全コマ検索サービスが公式サイトに登場——まずは100巻分",
-        "「牧歌的なAI開発の時代が終わった」——チームみらい安野氏、ミュトス停止騒動を受けて警鐘",
-        "Cursor、AI時代のGitフォージ「Origin」を発表——SpaceX買収直後にGitHubへの対抗軸を宣言",
-        "ClaudeCodeのHTML成果物をSlackで共有——$0コストのCloudflare Worker内製ツールで解決",
-        "ガートナー予測：2027年までにAIエージェント活用チームの65%超がIDEを「必要不可欠」と考えなくなる",
-        "GitHub Copilot Code Review Now Reads AGENTS.md — Repo-Level Instructions Shape AI Feedback",
-        "Anthropic's First Public Record: 52,000 Americans Surveyed — Only 15% Trust AI Companies to Self-Govern",
-        "Noam Shazeer Joins OpenAI — Google's Ex-Transformer Co-Author Leaves Character.AI for the Competition"
-      ]
-    },
-    {
-      "run_at": "2026-06-19T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026061801092&g=pol",
-        "https://www.jiji.com/jc/article?k=2026061801041&g=int",
-        "https://www.jiji.com/jc/article?k=2026061800208&g=eco",
-        "https://www.jiji.com/jc/article?k=2026061801178&g=soc",
-        "https://www.itmedia.co.jp/news/articles/2606/18/news130.html",
-        "https://zenn.dev/arm_techblog/articles/7712cde19988c8",
-        "https://zenn.dev/gleon/articles/312dacc4ba3156",
-        "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html",
-        "https://www.anthropic.com/news/fable-mythos-access",
-        "https://www.anthropic.com/news/tcs-anthropic-partnership",
-        "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch"
-      ],
-      "titles": [
-        "自民党、「スパイ防止法」制定に向けた本格的な検討を開始",
-        "アップルとインテル、米国内での半導体協業を発表——トランプ政権が後押し",
-        "ニデック株主総会、社長が不正会計・品質問題を謝罪——永守氏の責任追及も",
-        "天皇陛下、オランダ訪問でフェルメール鑑賞——首相主催昼食会にも出席",
-        "DAZN、サッカー専用プラン契約者に「解約・変更・継続」の選択を迫る——30日以内に対応必須",
-        "2026年6月現在のClaude Code開発フロー——計画承認からPR作成まで自律化する実践例",
-        "企業がAIエージェントの改善ループを確立するための4つの課題——MCPからRAG、評価設計まで",
-        "GitLab「Project Switch」発表——AIエージェント向けに最大50倍高速なGit互換SCM",
-        "US Government Orders Anthropic to Suspend Fable 5 and Mythos 5 — Citing a Claimed Jailbreak",
-        "TCS and Anthropic Partner to Deploy Claude Across 50,000 Employees and Regulated Industries Globally",
-        "Elastic Builds Persistent Agent Memory on Elasticsearch — Three-Index Architecture Achieves 0.89 Recall"
       ]
     }
   ]

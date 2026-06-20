@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-20T20:00:00+09:00",
+  "last_run_at": "2026-06-21T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-21T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6585027?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585018?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585017?source=rss",
+        "https://www.jiji.com/jc/article?k=2026062000350&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062000424&g=int&m=rss",
+        "https://zenn.dev/alpha_omega/articles/56ca3136bc5cd8",
+        "https://zenn.dev/estie/articles/f90d498d21a798",
+        "https://www.publickey1.jp/blog/26/2027ai65ide.html",
+        "https://www.anthropic.com/news/fable-mythos-access",
+        "https://www.anthropic.com/news/anthropic-public-record",
+        "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/"
+      ],
+      "titles": [
+        "イランがホルムズ海峡を封鎖——米イスラエルへの対抗措置を宣言",
+        "北陸・東北中心に激しい雷雨の恐れ——熱中症警戒も",
+        "高校生就職が「空前の売り手市場」——求人倍率4.12倍で過去最高を更新",
+        "日本代表、W杯チュニジア戦は現地夜10時キックオフ——異例の開始時刻に選手も戸惑い",
+        "ウクライナとポーランドが対立——UPA部隊名称めぐり勲章剥奪へ",
+        "AIエージェントを「外側から指揮」するOSS「TAKT」——YAMLでワークフローを宣言的に制御",
+        "Claude Code 717セッションから自分の開発哲学を言語化——「仕組み＞注意」ほか5原則",
+        "ガートナー予測：2027年までにAIエージェント活用チームの65%が「IDEは必須ではない」と考えるように",
+        "US Government Orders Anthropic to Suspend Fable 5 and Mythos 5 — Export Control Cites Hypothetical Jailbreak",
+        "First Anthropic Public Record: Americans Fear AI Job Loss Most, Trust AI Companies at Just 15%",
+        "LLMs Are Complicated Now: From Clean Transformers to MoE, Compressed Attention, and Multimodal Fusion"
+      ]
+    },
     {
       "run_at": "2026-06-20T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Zero-Touch OAuth for MCP: Enterprise-Managed Authorization Ships with Anthropic, Microsoft, and Okta Support",
         "DXC Technology Partners with Anthropic to Deploy Claude Across Banks, Airlines, and Regulated Industries",
         "Datasette Apps: Simon Willison Builds Sandboxed HTML Apps Inside Datasette Using Claude and GPT-5.5"
-      ]
-    },
-    {
-      "run_at": "2026-06-19T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026061900255&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061801180&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061900298&g=spo&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/19/news072.html",
-        "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/",
-        "https://zenn.dev/midori/articles/2d0caf37e6bdfb",
-        "https://zenn.dev/kikaikaya/articles/flowsmith-checkpoint-resume",
-        "https://zenn.dev/n314/articles/6becd34ddbe6ad",
-        "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
-        "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
-        "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/"
-      ],
-      "titles": [
-        "米イラン覚書、与党共和で批判広がる——「目標かけ離れ」「最悪の失策」",
-        "高市首相こだわった食品消費税ゼロ——「実質」説得で1%案傾斜",
-        "ファンデルファールトさんが謝罪——日本戦で不適切発言、W杯サッカー",
-        "OpenAI、Google「Gemini」共同リードのノーム・シャジーア氏を獲得",
-        "「ChatGPT広告」日本上陸——電通・博報堂など支援",
-        "Claude Codeを安く使うコツは「LLMに探させない」こと",
-        "中断しても続きから動く——AIワークフローのチェックポイント設計",
-        "Claude CodeのTeamCreateが廃止され、Plan Modeが変わったのでワークフローを見直す",
-        "GitHub Issues Gets AI-Powered Duplicate Detection and Full MCP Field Support",
-        "Microsoft's MAI-Code-1-Flash Now Available Across All Copilot Surfaces — Opus 4.6 (fast) Deprecated June 29",
-        "SK Telecom at the Center of Anthropic's Mythos Export Control Controversy"
       ]
     }
   ]

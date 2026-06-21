@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-22T00:00:00+09:00",
+  "last_run_at": "2026-06-22T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-22T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026061900515&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062100382&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6585128",
+        "https://news.yahoo.co.jp/pickup/6585140",
+        "https://news.yahoo.co.jp/pickup/6585131",
+        "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
+        "https://www.publickey1.jp/blog/26/awsaiaws_transform_continuous_modernization.html",
+        "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
+        "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+        "https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html",
+        "https://simonwillison.net/2026/Jun/18/datasette-apps/"
+      ],
+      "titles": [
+        "「日野町事件」再審で検察が有罪立証を断念——40年越しの冤罪が無罪へ",
+        "自民党・世耕弘成氏の復党問題——和歌山県連で容認論が多数を占める",
+        "「独身偽装」被害が社会問題に——30代女性が民事訴訟、6月23日に判決",
+        "24時間テレビ、マラソンランナーの人選が「当事者主義」へ——社会課題との接点を重視",
+        "高知市で交差点衝突——オートバイの21歳男性が死亡、77歳ドライバーを聴取",
+        "Stack Overflow for Agents ベータ公開——AIエージェント同士が組織を超えて知見を共有する新基盤",
+        "AWS Transform – continuous modernization プレビュー——AIエージェントがリポジトリを継続スキャンして技術的負債を検出",
+        "Microsoft MAI-Code-1-Flash、GitHub Copilotの主要Surfaceへ展開——小型特化モデルがCLI・IDE・モバイル対応に",
+        "Anthropic Mandates Identity Verification for Claude — Persona Integration Requires Gov-ID + Selfie",
+        "AWS FinOps Agent Public Preview — AI Diagnoses Your Cloud Cost Problems and Proposes Fixes",
+        "Simon Willison Launches Datasette Apps — Custom HTML+JS Sandboxed Apps Living Inside Datasette"
+      ]
+    },
     {
       "run_at": "2026-06-22T00:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "US Government Orders Anthropic to Suspend Fable 5 and Mythos 5 — Export Control Cites Hypothetical Jailbreak",
         "First Anthropic Public Record: Americans Fear AI Job Loss Most, Trust AI Companies at Just 15%",
         "LLMs Are Complicated Now: From Clean Transformers to MoE, Compressed Attention, and Multimodal Fusion"
-      ]
-    },
-    {
-      "run_at": "2026-06-20T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6584992?source=rss",
-        "https://news.yahoo.co.jp/pickup/6584986?source=rss",
-        "https://news.yahoo.co.jp/pickup/6584974?source=rss",
-        "https://news.yahoo.co.jp/pickup/6584989?source=rss",
-        "https://news.yahoo.co.jp/pickup/6584978?source=rss",
-        "https://zenn.dev/91works/articles/bb03f5adb45dea",
-        "https://zenn.dev/oubakiou/articles/b9db61885cd7be",
-        "https://zenn.dev/7kaji/articles/370a8dd7f678d1",
-        "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
-        "https://arrowtsx.dev/bigger-models/",
-        "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html"
-      ],
-      "titles": [
-        "台湾東部海域に中国が「管轄権」主張——海警船を相次ぎ派遣、台湾側が強く反発",
-        "ボリビアが非常事態宣言——50日間のデモで経済が麻痺、軍を全土展開へ",
-        "「スーパーエルニーニョ」今夏も警戒——猛暑・集中豪雨・巨大台風のリスク拡大",
-        "長野・山中でクマに襲われた男性が自力下山——腕と脚に複数の裂傷",
-        "フェルメール展、チケット争奪が「無理ゲー」——12時間待ち・10万人超が殺到",
-        "Claude Design がClaude アプリに対応——コードベースからデザインドキュメントを自動生成、AI内でデザインとコードが一気通貫に",
-        "LLMはMarkdownファイル全体を読んでいる——不要なトークン消費をmd2idxで80〜98%削減",
-        "Apple container で docker compose を動かす——netfilter 非搭載の壁を Kata Containers カーネルで突破",
-        "GitHub Copilot Code Review Now Reads AGENTS.md — Spec-Driven Review Customization Ships GA",
-        "GPT-5.5 Hallucinates 3× More Than Open-Weights GLM-5.2 — Bigger Isn't Always More Truthful",
-        "GitLab Project Switch: Git-Compatible SCM Built for AI Agents Ships, Claims 50× Speed-up and 1000× Less Network Traffic"
-      ]
-    },
-    {
-      "run_at": "2026-06-20T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026062000133&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062000241&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061901104&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6584950?source=rss",
-        "https://news.yahoo.co.jp/pickup/6584949?source=rss",
-        "https://zenn.dev/dress_code/articles/832cc1733e992c",
-        "https://zenn.dev/417/articles/ai-era-domain-knowledge-placement",
-        "https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era",
-        "https://www.anthropic.com/news/claude-corps",
-        "https://twitter.com/JohnJumperSci/status/2068001285173834106",
-        "https://simonwillison.net/2026/Jun/17/glm-52/"
-      ],
-      "titles": [
-        "トランプ氏がイタリア首相を「侮辱」——外相の訪米を急きょ中止、G7後の亀裂が表面化",
-        "兵庫・斎藤知事「不起訴相当」——2024年選挙買収疑惑で検察審査会が当初決定を支持",
-        "制御性T細胞の増加メカニズム解明——RUNX1タンパク質が鍵、アレルギー・移植医療に応用期待",
-        "台風が来週本州付近に接近——西日本・東日本で警報級の大雨のおそれ",
-        "大谷翔平選手が「31歳で第2子」——人生設計を語り、引退後の夢も明かす",
-        "AIに任せる設計、人間に残す設計——境界線はどこにあるか",
-        "リファクタリングに必要なドメイン知識はどこに置くか——AI時代の知識管理4分類",
-        "AIエージェント時代のソフトウェア工学12原則——規律の欠如がスケール時に爆発する",
-        "Anthropic Launches Claude Corps — $150M Fellowship Placing 1,000 AI Experts in U.S. Nonprofits",
-        "John Jumper, Nobel Prize Winner for AlphaFold, Announces He Is Joining Anthropic",
-        "GLM-5.2: Z.ai Releases 753B Open-Weights LLM with 1M Token Context, Tops Open Model Intelligence Index"
       ]
     }
   ]

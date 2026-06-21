@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-21T20:00:00+09:00",
+  "last_run_at": "2026-06-22T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-22T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6585137?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585134?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585125?source=rss",
+        "https://www.jiji.com/jc/article?k=2026062100071&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062100228&g=int&m=rss",
+        "https://zenn.dev/codemountains/articles/1d2ebe105ef998",
+        "https://www.itmedia.co.jp/news/articles/2606/19/news110.html",
+        "https://www.publickey1.jp/blog/26/awsai_continuum.html",
+        "https://www.anthropic.com/news/expanding-project-glasswing",
+        "https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast/",
+        "https://sibexi.co/posts/epoll-vs-io_uring/"
+      ],
+      "titles": [
+        "米・イラン最終協議がスイスで開幕——レバノン停戦とホルムズ海峡が焦点に",
+        "安保3文書改定へ「新しい守り方」を明記——ドローン・AIを活用、軍事色を抑えた表現で",
+        "鹿児島・霧島の温泉施設で5歳男児が行方不明——家族と入浴中に姿消す、警察が捜索",
+        "中東情勢の混乱が波及——石油由来の自治体指定ごみ袋が不足、戦闘終結も「楽観できず」",
+        "移民抑制策でも流入数はコロナ禍前を上回る豪州——極右政党が伸長した背景を分析",
+        "Rustの公式MCP SDK「rmcp」でRemote MCPサーバーを実装する——Streamable HTTP transportの実践ガイド",
+        "Adobe Creative Cloud全製品にAIエージェント機能を全面導入——ChatGPTやClaudeとも連携し、自然言語で作業を自動化",
+        "AWS「Continuum」発表——コード・インフラ・ビジネスコンテキストを横断してAIが脆弱性を推論",
+        "Anthropic Expands Project Glasswing to 150 New Organizations",
+        "GitHub Copilot Deprecates Opus 4.6 (fast) on June 29 — Migrate to Opus 4.8 (fast) Before Deadline",
+        "Epoll vs. io_uring in Linux: A Deep Dive Into Async I/O Performance for Modern Servers"
+      ]
+    },
     {
       "run_at": "2026-06-21T20:00:00+09:00",
       "urls": [

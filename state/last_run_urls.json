@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-21T10:00:00+09:00",
+  "last_run_at": "2026-06-21T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-21T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6585086",
+        "https://news.yahoo.co.jp/pickup/6585062",
+        "https://news.yahoo.co.jp/pickup/6585069",
+        "https://www.jiji.com/jc/article?k=2026062100183&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062100195&g=soc&m=rss",
+        "https://zenn.dev/aws_japan/articles/claude-cowork-on-bedrock-windows-setup",
+        "https://zenn.dev/417/books/flue-framework-guide",
+        "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/",
+        "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+        "https://www.publickey1.jp/blog/26/wasi_03webassembly_component.html",
+        "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
+      ],
+      "titles": [
+        "日本代表、W杯チュニジア戦で4-0の快勝——上田綺世が2ゴールで決定的役割",
+        "障害福祉サービスの不正受給が急拡大——5年間で約80億円、介護の2.6倍",
+        "落選議員がスキマバイトで生計——与党の月40万円支給案に批判噴出",
+        "英スターマー首相が辞任表明へ——バーナム補選勝利で労働党内の交代圧力が高まる",
+        "東北北部が梅雨入り——北海道を除く全国で梅雨シーズンが完了",
+        "Claude Desktop CoworkをAmazon Bedrock経由でWindowsに展開する方法",
+        "Flue Framework実践入門——AIエージェントを本番で動かす3つのプリミティブ",
+        "理研のAI for Scienceスパコン「理究（りきゅう）」命名——千利休の「守破離」哲学を体現",
+        "Claude Fable 5 and Mythos 5: Anthropic's Most Capable Models Yet",
+        "WASI 0.3 Ships as Official Standard — Unified Async Event Loop Finally Lands for WebAssembly Components",
+        "When I Reject AI Code Even If It Works — Five Criteria for Engineering Judgment in the Agentic Age"
+      ]
+    },
     {
       "run_at": "2026-06-21T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Expands Project Glasswing to 150+ Organizations — AI-Powered Security Scanning Uncovers 10,000+ Critical Vulnerabilities",
         "DuckDB Internals: Why Is DuckDB So Fast? — A Deep Dive into Vectorized Execution and Columnar Storage",
         "Is AI Making Us Worse at Our Jobs? Early Evidence from Nature Suggests Skill Atrophy Is Real"
-      ]
-    },
-    {
-      "run_at": "2026-06-20T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026061901228&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061900978&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6584880?source=rss",
-        "https://news.yahoo.co.jp/pickup/6584890?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/19/news137.html",
-        "https://zenn.dev/sc30gsw/articles/a03d6a17af036c",
-        "https://zenn.dev/yui/articles/4f54a98ad94fe5",
-        "https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html",
-        "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-        "https://orchidfiles.com/github-repositories-distributing-malware/",
-        "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a"
-      ],
-      "titles": [
-        "イスラエルとヒズボラが停戦合意——カタール仲介、日本時間22時に発効",
-        "皇室典範改正案——男系養子は「15歳以上」、女性皇族の身分保持は本人判断に",
-        "ホテルで高校生ら110人が食中毒——修学旅行中に発症、原因究明急ぐ",
-        "「副首都法案」に自民が修正検討——維新の主張受け、大阪への機能移転案が焦点",
-        "moomoo証券に3カ月の一部業務停止命令——金融庁、NISAをめぐる虚偽説明を問題視",
-        "VercelのOSSエージェントフレームワーク「Eve」——ファイル配置だけでツール・サブエージェントが自動配線",
-        "「ccteams」——Claude Codeのサブエージェントをパッケージ管理する1コマンドツール",
-        "「AWS FinOps Agent」パブリックプレビュー——自然言語でAWSコスト急増の原因を診断",
-        "Anthropic Opens Seoul Office and Announces Major Korean AI Partnerships",
-        "Researcher Finds 10,000 GitHub Repositories Secretly Distributing Trojan Malware",
-        "Project Valhalla Lands in JDK 28: A Decade of Work Brings Value Types to Java"
       ]
     }
   ]

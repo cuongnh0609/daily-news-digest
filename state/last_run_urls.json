@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-21T05:00:00+09:00",
+  "last_run_at": "2026-06-21T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-21T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6585049",
+        "https://www.jiji.com/jc/article?k=2026062000290&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6585034",
+        "https://www.jiji.com/jc/article?k=2026062100086&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062000274&g=int&m=rss",
+        "https://zenn.dev/terurou/articles/eb9e7a4ca7b364",
+        "https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api",
+        "https://zenn.dev/tottoko_hamu/articles/2026-06-11-164130",
+        "https://www.anthropic.com/news/dxc-anthropic-alliance",
+        "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
+        "https://injuly.in/blog/napkin-inference-cost/index.html"
+      ],
+      "titles": [
+        "米、イランのホルムズ海峡「再封鎖」を否定——55隻が通過、石油輸送は継続",
+        "中傷動画疑惑で野党が高市首相を追及——国会会期末の焦点に",
+        "横浜・三ツ沢公園でランニング中の男性が刺される——通り魔の疑い",
+        "W杯日本対チュニジア——通算1000試合目の歴史的節目でF組争いに注目",
+        "コロンビア大統領選決選投票——トランプ支持の右派候補がリード",
+        "AI以後の受託システム開発——「コードを書ける人」の需要急落とエンジニアの生存戦略",
+        "GitHub Copilotのクレジット消費をユーザー単位で取得可能に——ai_credits_usedがAPIに追加",
+        "Claude Code の PreToolUse フックで操作ログを自動保存——セキュリティ否認リスクを低減",
+        "DXC Technology to Deploy Claude Across Banks, Airlines, and Regulated Industries Globally",
+        "OpenAI Codex Launches Record & Replay — AI Learns Your Mac Workflows and Repeats Them",
+        "Inference Cost at Scale with Napkin Math — How Many Users Can One GPU Really Serve?"
+      ]
+    },
     {
       "run_at": "2026-06-21T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Opens Seoul Office and Announces Major Korean AI Partnerships",
         "Researcher Finds 10,000 GitHub Repositories Secretly Distributing Trojan Malware",
         "Project Valhalla Lands in JDK 28: A Decade of Work Brings Value Types to Java"
-      ]
-    },
-    {
-      "run_at": "2026-06-19T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6584871",
-        "https://news.yahoo.co.jp/pickup/6584874",
-        "https://news.yahoo.co.jp/pickup/6584872",
-        "https://news.yahoo.co.jp/pickup/6584828",
-        "https://news.yahoo.co.jp/pickup/6584868",
-        "https://zenn.dev/layerx/articles/b36ceffe6b5e20",
-        "https://www.itmedia.co.jp/news/articles/2606/19/news110.html",
-        "https://zenn.dev/sompojapan_dx/articles/74624afa03040c",
-        "https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout",
-        "https://www.itmedia.co.jp/news/articles/2606/19/news119.html",
-        "https://www.intheweights.com/"
-      ],
-      "titles": [
-        "梅雨前線が活発化——20〜21日、西日本・東日本で警報級大雨のおそれ",
-        "東海道新幹線が全線で運転見合わせ——浜松駅付近で「のぞみ」が人身事故",
-        "仙台市の小学校でいじめ重大事態——外国にルーツある女児のランドセルに画鋲",
-        "日清食品、カップ焼きそば28万個を自主回収——粉末ソースに合成樹脂の混入疑い",
-        "ロシアの人的優位に陰り——長期戦の消耗がウクライナ侵攻の構図を変えつつある",
-        "自己改善エージェントはなぜ前提を覆せないのか——ハーネス設計が突破口",
-        "Adobe Creative Cloud全アプリにAIエージェント導入——Claude・ChatGPTとも連携",
-        "ローカルLLMを使うべき3つの条件——コスト・ガバナンス・特化精度で考える判断軸",
-        "GitHub Actions Closes 'Pwn Request' Gap — Safer pull_request_target Defaults Ship in actions/checkout v7",
-        "Palmier Pro: Open-Source AI Video Editor Powered by Claude Code and MCP Ships for macOS Tahoe",
-        "'Are You in the Weights?' — New Tool Lets You Check if Your Writing Appears in LLM Training Data"
       ]
     }
   ]

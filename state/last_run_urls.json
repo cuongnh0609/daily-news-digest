@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-21T15:00:00+09:00",
+  "last_run_at": "2026-06-21T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-21T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6585116",
+        "https://news.yahoo.co.jp/pickup/6585109",
+        "https://news.yahoo.co.jp/pickup/6585099",
+        "https://www.jiji.com/jc/article?k=2026062100255&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062100269&g=spo&m=rss",
+        "https://zenn.dev/fusic/articles/0020-snowflake-ai-meeting-pipeline",
+        "https://zenn.dev/catatsuy/articles/566f5e37076e53",
+        "https://www.itmedia.co.jp/news/articles/2606/21/news017.html",
+        "https://martinfowler.com/articles/reliable-llm-bayer.html",
+        "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+        "https://blog.cloudflare.com/temporary-accounts/"
+      ],
+      "titles": [
+        "米イラン核協議、スイスで再開——バンス副大統領が到着、ホルムズ封鎖めぐり緊張高まる",
+        "6月の猛暑日、昨年比1%以下の可能性——7月以降は一変、関東〜九州で急増の予測",
+        "「死の病」から日常へ——HIV感染20年超の男性が語る、治療薬と偏見の現実",
+        "日本がチュニジアを4−0で圧倒——W杯、歴代最多得点で1次リーグ突破に大きく前進",
+        "大谷翔平、第2子誕生後の復帰戦で16号ソロ——「産休」明けに即アーチ、ドジャース惜敗",
+        "Snowflake Cortex AIだけで会議議事録パイプラインを完結——AI_TRANSCRIBE + AI_COMPLETEで1件50〜200円",
+        "DoHとECHで「DNSもSNIも見えない時代」へ——CIパイプラインの外部通信監視はどう変わるか",
+        "AlphaFold開発者・ジョン・ジャンパー氏がAnthropicへ——ノーベル化学賞受賞者がAI安全研究に転身",
+        "Building Reliable Agentic AI Systems: Bayer's PRINCE Platform Shows How to Engineer Production-Ready Agents",
+        "Anthropic Opens Seoul Office and Deepens Korean AI Ecosystem — NAVER, Nexon, Samsung SDS Among Early Adopters",
+        "Cloudflare Launches Temporary Accounts for AI Agents — wrangler deploy --temporary Enables Instant, Auth-Free Workers Deployments"
+      ]
+    },
     {
       "run_at": "2026-06-21T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Launches Claude Corps — $150M Fellowship Placing 1,000 AI Experts in U.S. Nonprofits",
         "John Jumper, Nobel Prize Winner for AlphaFold, Announces He Is Joining Anthropic",
         "GLM-5.2: Z.ai Releases 753B Open-Weights LLM with 1M Token Context, Tops Open Model Intelligence Index"
-      ]
-    },
-    {
-      "run_at": "2026-06-20T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026062000165&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062000159&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062000119&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6584905?source=rss",
-        "https://www.jiji.com/jc/article?k=2026061901108&g=pol&m=rss",
-        "https://zenn.dev/aws_japan/articles/36e23635add477",
-        "https://zenn.dev/genda_jp/articles/16d35ffa464d65",
-        "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
-        "https://www.anthropic.com/news/services-track-partner-hub",
-        "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-        "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html"
-      ],
-      "titles": [
-        "英南部で列車衝突事故——1人死亡・89人負傷、ロンドン行き2便が正面衝突",
-        "歩数の地域格差は最大2倍——150万人データ解析で都市・農村の生活行動の差が浮き彫りに",
-        "イスラエルとレバノンが停戦合意——発効後も散発的な攻撃続く、イラン・米協議も「数日以内」",
-        "2040年度までに戦略17分野へ370兆円超の官民投資——フィジカルAIに10.5兆円",
-        "再審法案の参院審議が始まる——野党は証拠開示の拡大を求め、政府答弁は消極姿勢",
-        "Kiro CLI v3 徹底解説——仕様駆動開発・hooks 刷新・capability パーミッション管理",
-        "Claude Code サブエージェントのネスト機能で .claude/agents/ の定義が真価を発揮——GENDAの実践報告",
-        "Stack Overflow、AIエージェント同士が技術知識を共有する「Stack Overflow for Agents」をベータ公開",
-        "Anthropic Launches Tiered Claude Partner Network — Services Track and Partner Hub Now Open",
-        "Norway Imposes Near-Ban on AI in Elementary Schools — Students Up to Grade 7 Barred from AI Tools",
-        "Google Workspace Threatens to Block Firefox — Admin Panel Warning Sparks Browser Monoculture Concerns"
-      ]
-    },
-    {
-      "run_at": "2026-06-20T05:00:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260620/k10015155061000.html",
-        "http://www3.nhk.or.jp/news/html/20260620/k10015154971000.html",
-        "https://www.jiji.com/jc/article?k=2026061901087&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026061900760&g=int&m=rss",
-        "http://www3.nhk.or.jp/news/html/20260619/k10015154991000.html",
-        "https://zenn.dev/stak22/articles/3ea03d0e3ca025",
-        "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
-        "https://zenn.dev/loglass/articles/75f3435f24595a",
-        "https://www.anthropic.com/news/expanding-project-glasswing",
-        "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-        "https://www.nature.com/articles/d41586-026-01947-1"
-      ],
-      "titles": [
-        "台風7号が発生——沖縄県に接近のおそれ、気象庁が注意呼びかけ",
-        "東京電力の提携交渉、日米5陣営に絞り込み——投資ファンドや通信大手が名乗り",
-        "外国人ビザ手数料を48年ぶりに引き上げ——7月以降、申請費用が大幅増",
-        "EU首脳会議、中国製品の流入対策強化へ——加盟国間に温度差も",
-        "政府、高性能AIのサイバー悪用対策で基本計画の初の見直し案——外国政府との連携も強化",
-        "AIエージェントが自律的に自己改善する「self-improvement」スキルの実装例——反省ループとツール呼び出しで精度向上",
-        "「AI臭」を消すClaude Skillsを作った——LLMの定型文パターンを検出・除去するstop-ai-slop-jp",
-        "Platform Engineeringを「使われる」ものにするための組織設計——LogLassが1年間の実践を公開",
-        "Anthropic Expands Project Glasswing to 150+ Organizations — AI-Powered Security Scanning Uncovers 10,000+ Critical Vulnerabilities",
-        "DuckDB Internals: Why Is DuckDB So Fast? — A Deep Dive into Vectorized Execution and Columnar Storage",
-        "Is AI Making Us Worse at Our Jobs? Early Evidence from Nature Suggests Skill Atrophy Is Real"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-22T20:00:00+09:00",
+  "last_run_at": "2026-06-23T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-23T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026062201080&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062201001&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062200605&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/22/news125.html",
+        "https://www.itmedia.co.jp/news/articles/2606/22/news144.html",
+        "https://zenn.dev/nexta_/articles/be13a2395a5d2a",
+        "https://zenn.dev/continuitymodel/articles/996fbb4695d2e3",
+        "https://www.publickey1.jp/blog/26/githubai_1.html",
+        "https://www.anthropic.com/news/fable-mythos-access",
+        "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
+        "https://simonwillison.net/2026/Jun/17/glm-52/"
+      ],
+      "titles": [
+        "グリーンスパン元FRB議長が死去、100歳——「根拠なき熱狂」の警告で時代を画す",
+        "独防衛大手が日本に生産拠点設置の意向を表明——安全保障協力を強化",
+        "与党「副首都」法案を修正へ——「大阪都」構想の住民投票拡大条項を削除",
+        "小田急電鉄、踏切の取り残し者をAIで自動検知し列車を止める仕組みを実運用開始",
+        "KDDI、物価高を受けて店頭手数料を値上げ——eSIM発行は逆に無料化へ",
+        "Claude Code に「7人の意地悪なQA」を仕込んでテストケースの観点漏れを防ぐ",
+        "AIで自動化できます。で、そのリスクは誰が飲むんですか——AI導入時の責任の空白を問う",
+        "GitHub、AIが生成する「雑なプルリクエスト」を抑制する新機能を導入——ユーザーごとにPR数上限を設定可能に",
+        "US Government Directs Anthropic to Suspend Access to Fable 5 and Mythos 5 — Anthropic Disagrees But Complies",
+        "GitHub MCP Server Adds Issue Fields Support — AI Agents Can Now Read, Write, and Filter Triaged Issue Metadata",
+        "GLM-5.2: China's Z.ai Releases 753B Parameter Open-Weights Model That Tops the Intelligence Index — MIT Licensed"
+      ]
+    },
     {
       "run_at": "2026-06-22T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Claude Fable 5 and Mythos 5: Anthropic's Most Capable Models Yet",
         "WASI 0.3 Ships as Official Standard — Unified Async Event Loop Finally Lands for WebAssembly Components",
         "When I Reject AI Code Even If It Works — Five Criteria for Engineering Judgment in the Agentic Age"
-      ]
-    },
-    {
-      "run_at": "2026-06-21T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585049",
-        "https://www.jiji.com/jc/article?k=2026062000290&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6585034",
-        "https://www.jiji.com/jc/article?k=2026062100086&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062000274&g=int&m=rss",
-        "https://zenn.dev/terurou/articles/eb9e7a4ca7b364",
-        "https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api",
-        "https://zenn.dev/tottoko_hamu/articles/2026-06-11-164130",
-        "https://www.anthropic.com/news/dxc-anthropic-alliance",
-        "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
-        "https://injuly.in/blog/napkin-inference-cost/index.html"
-      ],
-      "titles": [
-        "米、イランのホルムズ海峡「再封鎖」を否定——55隻が通過、石油輸送は継続",
-        "中傷動画疑惑で野党が高市首相を追及——国会会期末の焦点に",
-        "横浜・三ツ沢公園でランニング中の男性が刺される——通り魔の疑い",
-        "W杯日本対チュニジア——通算1000試合目の歴史的節目でF組争いに注目",
-        "コロンビア大統領選決選投票——トランプ支持の右派候補がリード",
-        "AI以後の受託システム開発——「コードを書ける人」の需要急落とエンジニアの生存戦略",
-        "GitHub Copilotのクレジット消費をユーザー単位で取得可能に——ai_credits_usedがAPIに追加",
-        "Claude Code の PreToolUse フックで操作ログを自動保存——セキュリティ否認リスクを低減",
-        "DXC Technology to Deploy Claude Across Banks, Airlines, and Regulated Industries Globally",
-        "OpenAI Codex Launches Record & Replay — AI Learns Your Mac Workflows and Repeats Them",
-        "Inference Cost at Scale with Napkin Math — How Many Users Can One GPU Really Serve?"
       ]
     }
   ]

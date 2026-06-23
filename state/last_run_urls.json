@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-23T15:00:00+09:00",
+  "last_run_at": "2026-06-24T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-24T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026062300931&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6585420?source=rss",
+        "https://www.jiji.com/jc/article?k=2026062301260&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062300830&g=spo&m=rss",
+        "https://news.yahoo.co.jp/pickup/6585417?source=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2606/23/2000000119/",
+        "https://www.publickey1.jp/blog/26/typescriptgo10typescript_70.html",
+        "https://www.itmedia.co.jp/news/articles/2606/23/news134.html",
+        "https://arxiv.org/abs/2606.16140",
+        "https://mistral.ai/news/ocr-4/",
+        "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/"
+      ],
+      "titles": [
+        "旧統一教会の解散命令確定——「信教の自由」侵害せず合憲と判断",
+        "クールジャパン機構、累積損失が540億円超——政府が廃止・統合を本格検討へ",
+        "冷凍庫から切断された遺体——元夫殺害の疑いで元妻を逮捕、兵庫県警",
+        "日本サッカー、決勝トーナメント進出がほぼ確実——W杯グループリーグで快走",
+        "高市首相、沖縄慰霊式でのヤジに反論——「日本は平和国家として歩み続けてきた」",
+        "業務でAIを使う人の約38%が「禁止されても使い続ける」——セキュリティ調査が示す\"シャドーAI\"の実態",
+        "TypeScript 7.0 RCが登場——コンパイラをGo言語に移植して10倍の高速化を実現",
+        "メルカリ、ChatGPT上で商品検索から出品準備まで完結——「Apps in ChatGPT」公式アプリ公開",
+        "VibeThinker-3B: 3B Parameter Model Matches Frontier Performance on Reasoning Benchmarks",
+        "Mistral OCR 4: State-of-the-Art Document Intelligence with 170-Language Support and Self-Hosted Deployment",
+        "The Coming Loop: Why Machine-Operated Code Loops Are Changing How We Think About Software Maintenance"
+      ]
+    },
     {
       "run_at": "2026-06-23T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Anthropic Launches Claude Corps — $150M Fellowship Places 1,000 AI-Enabled Workers at Nonprofits",
         "GitHub Copilot Code Review Now Supports AGENTS.md — Customize AI Reviews Per Repository",
         "The Case for Open Models — Why Switching from Claude Is No Longer a Major Trade-Off"
-      ]
-    },
-    {
-      "run_at": "2026-06-22T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026061900515&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062100382&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6585128",
-        "https://news.yahoo.co.jp/pickup/6585140",
-        "https://news.yahoo.co.jp/pickup/6585131",
-        "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
-        "https://www.publickey1.jp/blog/26/awsaiaws_transform_continuous_modernization.html",
-        "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
-        "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-        "https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html",
-        "https://simonwillison.net/2026/Jun/18/datasette-apps/"
-      ],
-      "titles": [
-        "「日野町事件」再審で検察が有罪立証を断念——40年越しの冤罪が無罪へ",
-        "自民党・世耕弘成氏の復党問題——和歌山県連で容認論が多数を占める",
-        "「独身偽装」被害が社会問題に——30代女性が民事訴訟、6月23日に判決",
-        "24時間テレビ、マラソンランナーの人選が「当事者主義」へ——社会課題との接点を重視",
-        "高知市で交差点衝突——オートバイの21歳男性が死亡、77歳ドライバーを聴取",
-        "Stack Overflow for Agents ベータ公開——AIエージェント同士が組織を超えて知見を共有する新基盤",
-        "AWS Transform – continuous modernization プレビュー——AIエージェントがリポジトリを継続スキャンして技術的負債を検出",
-        "Microsoft MAI-Code-1-Flash、GitHub Copilotの主要Surfaceへ展開——小型特化モデルがCLI・IDE・モバイル対応に",
-        "Anthropic Mandates Identity Verification for Claude — Persona Integration Requires Gov-ID + Selfie",
-        "AWS FinOps Agent Public Preview — AI Diagnoses Your Cloud Cost Problems and Proposes Fixes",
-        "Simon Willison Launches Datasette Apps — Custom HTML+JS Sandboxed Apps Living Inside Datasette"
-      ]
-    },
-    {
-      "run_at": "2026-06-22T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585137?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585134?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585125?source=rss",
-        "https://www.jiji.com/jc/article?k=2026062100071&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062100228&g=int&m=rss",
-        "https://zenn.dev/codemountains/articles/1d2ebe105ef998",
-        "https://www.itmedia.co.jp/news/articles/2606/19/news110.html",
-        "https://www.publickey1.jp/blog/26/awsai_continuum.html",
-        "https://www.anthropic.com/news/expanding-project-glasswing",
-        "https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast/",
-        "https://sibexi.co/posts/epoll-vs-io_uring/"
-      ],
-      "titles": [
-        "米・イラン最終協議がスイスで開幕——レバノン停戦とホルムズ海峡が焦点に",
-        "安保3文書改定へ「新しい守り方」を明記——ドローン・AIを活用、軍事色を抑えた表現で",
-        "鹿児島・霧島の温泉施設で5歳男児が行方不明——家族と入浴中に姿消す、警察が捜索",
-        "中東情勢の混乱が波及——石油由来の自治体指定ごみ袋が不足、戦闘終結も「楽観できず」",
-        "移民抑制策でも流入数はコロナ禍前を上回る豪州——極右政党が伸長した背景を分析",
-        "Rustの公式MCP SDK「rmcp」でRemote MCPサーバーを実装する——Streamable HTTP transportの実践ガイド",
-        "Adobe Creative Cloud全製品にAIエージェント機能を全面導入——ChatGPTやClaudeとも連携し、自然言語で作業を自動化",
-        "AWS「Continuum」発表——コード・インフラ・ビジネスコンテキストを横断してAIが脆弱性を推論",
-        "Anthropic Expands Project Glasswing to 150 New Organizations",
-        "GitHub Copilot Deprecates Opus 4.6 (fast) on June 29 — Migrate to Opus 4.8 (fast) Before Deadline",
-        "Epoll vs. io_uring in Linux: A Deep Dive Into Async I/O Performance for Modern Servers"
-      ]
-    },
-    {
-      "run_at": "2026-06-21T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585116",
-        "https://news.yahoo.co.jp/pickup/6585109",
-        "https://news.yahoo.co.jp/pickup/6585099",
-        "https://www.jiji.com/jc/article?k=2026062100255&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062100269&g=spo&m=rss",
-        "https://zenn.dev/fusic/articles/0020-snowflake-ai-meeting-pipeline",
-        "https://zenn.dev/catatsuy/articles/566f5e37076e53",
-        "https://www.itmedia.co.jp/news/articles/2606/21/news017.html",
-        "https://martinfowler.com/articles/reliable-llm-bayer.html",
-        "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-        "https://blog.cloudflare.com/temporary-accounts/"
-      ],
-      "titles": [
-        "米イラン核協議、スイスで再開——バンス副大統領が到着、ホルムズ封鎖めぐり緊張高まる",
-        "6月の猛暑日、昨年比1%以下の可能性——7月以降は一変、関東〜九州で急増の予測",
-        "「死の病」から日常へ——HIV感染20年超の男性が語る、治療薬と偏見の現実",
-        "日本がチュニジアを4−0で圧倒——W杯、歴代最多得点で1次リーグ突破に大きく前進",
-        "大谷翔平、第2子誕生後の復帰戦で16号ソロ——「産休」明けに即アーチ、ドジャース惜敗",
-        "Snowflake Cortex AIだけで会議議事録パイプラインを完結——AI_TRANSCRIBE + AI_COMPLETEで1件50〜200円",
-        "DoHとECHで「DNSもSNIも見えない時代」へ——CIパイプラインの外部通信監視はどう変わるか",
-        "AlphaFold開発者・ジョン・ジャンパー氏がAnthropicへ——ノーベル化学賞受賞者がAI安全研究に転身",
-        "Building Reliable Agentic AI Systems: Bayer's PRINCE Platform Shows How to Engineer Production-Ready Agents",
-        "Anthropic Opens Seoul Office and Deepens Korean AI Ecosystem — NAVER, Nexon, Samsung SDS Among Early Adopters",
-        "Cloudflare Launches Temporary Accounts for AI Agents — wrangler deploy --temporary Enables Instant, Auth-Free Workers Deployments"
       ]
     }
   ]

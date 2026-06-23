@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-23T05:00:00+09:00",
+  "last_run_at": "2026-06-23T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-23T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6585285",
+        "https://news.yahoo.co.jp/pickup/6585288",
+        "https://www.jiji.com/jc/article?k=2026062200988&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062201116&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/23/news076.html",
+        "https://zenn.dev/mkj/articles/56245f7a34539c",
+        "https://zenn.dev/tokium_dev/articles/tmux-multitab-context-management",
+        "https://www.itmedia.co.jp/news/articles/2606/23/news073.html",
+        "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/",
+        "https://hustvl.github.io/Moebius/",
+        "https://www.itmedia.co.jp/news/articles/2606/23/news075.html"
+      ],
+      "titles": [
+        "円相場、一時39年半ぶり安値に迫る——1ドル＝161円93銭まで下落",
+        "「ダブル台風」日本接近の恐れ——台風7号・8号が同時に列島を脅かす",
+        "高市首相、中傷動画問題の追及かわす——「答弁準備で眠れなかった」と野党に反発",
+        "豪州世論調査、8割がトランプ大統領に不信——対中脅威認識が初めて対米を上回る",
+        "SpaceX、AI投資向け初の無担保社債発行——「Colossus」データセンター構築に充当",
+        "AIコーディングではコードではなく「検証プロセス」をレビューする——E2Eまで含めたエージェント責務の再定義",
+        "Claude Codeに全部抱え込ませるのをやめた——tmuxタブ分割でコンテキストを独立管理する手法",
+        "Google DeepMindと映画スタジオA24がAI研究で提携——映像制作ワークフローの変革を目指す",
+        "Prompt Injection as Role Confusion: New Research Shows Models Can't Distinguish Trusted vs. Untrusted Input",
+        "Moebius: 0.2B Parameter Image Inpainting Model Matches 12B Models — Runs in Browser via WebGPU",
+        "OpenAI Signs Multi-Year Display Partnership with Getty Images — Licensed Photos in ChatGPT Search Results"
+      ]
+    },
     {
       "run_at": "2026-06-23T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Building Reliable Agentic AI Systems: Bayer's PRINCE Platform Shows How to Engineer Production-Ready Agents",
         "Anthropic Opens Seoul Office and Deepens Korean AI Ecosystem — NAVER, Nexon, Samsung SDS Among Early Adopters",
         "Cloudflare Launches Temporary Accounts for AI Agents — wrangler deploy --temporary Enables Instant, Auth-Free Workers Deployments"
-      ]
-    },
-    {
-      "run_at": "2026-06-21T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585086",
-        "https://news.yahoo.co.jp/pickup/6585062",
-        "https://news.yahoo.co.jp/pickup/6585069",
-        "https://www.jiji.com/jc/article?k=2026062100183&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062100195&g=soc&m=rss",
-        "https://zenn.dev/aws_japan/articles/claude-cowork-on-bedrock-windows-setup",
-        "https://zenn.dev/417/books/flue-framework-guide",
-        "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/",
-        "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-        "https://www.publickey1.jp/blog/26/wasi_03webassembly_component.html",
-        "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
-      ],
-      "titles": [
-        "日本代表、W杯チュニジア戦で4-0の快勝——上田綺世が2ゴールで決定的役割",
-        "障害福祉サービスの不正受給が急拡大——5年間で約80億円、介護の2.6倍",
-        "落選議員がスキマバイトで生計——与党の月40万円支給案に批判噴出",
-        "英スターマー首相が辞任表明へ——バーナム補選勝利で労働党内の交代圧力が高まる",
-        "東北北部が梅雨入り——北海道を除く全国で梅雨シーズンが完了",
-        "Claude Desktop CoworkをAmazon Bedrock経由でWindowsに展開する方法",
-        "Flue Framework実践入門——AIエージェントを本番で動かす3つのプリミティブ",
-        "理研のAI for Scienceスパコン「理究（りきゅう）」命名——千利休の「守破離」哲学を体現",
-        "Claude Fable 5 and Mythos 5: Anthropic's Most Capable Models Yet",
-        "WASI 0.3 Ships as Official Standard — Unified Async Event Loop Finally Lands for WebAssembly Components",
-        "When I Reject AI Code Even If It Works — Five Criteria for Engineering Judgment in the Agentic Age"
       ]
     }
   ]

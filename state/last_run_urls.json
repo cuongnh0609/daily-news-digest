@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-24T15:00:00+09:00",
+  "last_run_at": "2026-06-24T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-24T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6585509?source=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/24/news135.html",
+        "https://news.yahoo.co.jp/pickup/6585500?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585498?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585504?source=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000125/",
+        "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000124/",
+        "https://zenn.dev/knowledgesense/articles/14a874a9f423bb",
+        "https://arxiv.org/abs/2606.24597",
+        "https://github.blog/changelog/2026-06-23-github-copilot-app-support-for-byok",
+        "https://simonwillison.net/2026/Jun/23/opfs-pyodide/"
+      ],
+      "titles": [
+        "九州から関東にかけて警報級の大雨続く恐れ——梅雨前線と台風接近で厳戒態勢",
+        "PayPay偽造メール詐欺が3か月で22.4倍に急増——ゲーム・トレカ事業者を装う新手口も",
+        "北区小学校火災——教師が音楽準備室で洗濯物を乾燥、電気ストーブから出火か",
+        "内田梨瑚被告が控訴断念——旭川女子高生殺害事件、懲役27年が確定へ",
+        "クマ被害対策でファミリーマートが「モンスターウルフ」を導入——コンビニ周辺での獣害防止実験",
+        "富士通、TransformerのGPU効率を最大475倍に高める新LLMアーキテクチャ「PHOTON」を発表",
+        "AIエージェント「Devin」の国内ユーザー数が前年比1582%増——MicroVMで独立したエージェント実行を実現",
+        "AI時代のナレッジ管理——Google Cloudが提案する「OKF」フォーマットでエージェント検索精度を向上",
+        "Qwen-AgentWorld: Language World Models for General Agents — 35B and 397B Models That Simulate Any Environment",
+        "GitHub Copilot App Now Supports Bring-Your-Own-Key — Use Claude, GPT, Gemini, or Local Models with Your Own API Key",
+        "Simon Willison: OPFS + Pyodide Test Harness — Running Python Tests Entirely in the Browser with No Server"
+      ]
+    },
     {
       "run_at": "2026-06-24T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Claude Now Available as Agent Provider in JetBrains IDEs — GitHub Copilot Expands Multi-Agent Support",
         "Claude Code's \"Extended Thinking\" Output Is Not the Real Reasoning — Only a Summary, Encrypted at Source",
         "Oak: Open-Source Version Control System Redesigned from Scratch for AI Agent Workflows"
-      ]
-    },
-    {
-      "run_at": "2026-06-23T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026062201080&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062201001&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062200605&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/22/news125.html",
-        "https://www.itmedia.co.jp/news/articles/2606/22/news144.html",
-        "https://zenn.dev/nexta_/articles/be13a2395a5d2a",
-        "https://zenn.dev/continuitymodel/articles/996fbb4695d2e3",
-        "https://www.publickey1.jp/blog/26/githubai_1.html",
-        "https://www.anthropic.com/news/fable-mythos-access",
-        "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
-        "https://simonwillison.net/2026/Jun/17/glm-52/"
-      ],
-      "titles": [
-        "グリーンスパン元FRB議長が死去、100歳——「根拠なき熱狂」の警告で時代を画す",
-        "独防衛大手が日本に生産拠点設置の意向を表明——安全保障協力を強化",
-        "与党「副首都」法案を修正へ——「大阪都」構想の住民投票拡大条項を削除",
-        "小田急電鉄、踏切の取り残し者をAIで自動検知し列車を止める仕組みを実運用開始",
-        "KDDI、物価高を受けて店頭手数料を値上げ——eSIM発行は逆に無料化へ",
-        "Claude Code に「7人の意地悪なQA」を仕込んでテストケースの観点漏れを防ぐ",
-        "AIで自動化できます。で、そのリスクは誰が飲むんですか——AI導入時の責任の空白を問う",
-        "GitHub、AIが生成する「雑なプルリクエスト」を抑制する新機能を導入——ユーザーごとにPR数上限を設定可能に",
-        "US Government Directs Anthropic to Suspend Access to Fable 5 and Mythos 5 — Anthropic Disagrees But Complies",
-        "GitHub MCP Server Adds Issue Fields Support — AI Agents Can Now Read, Write, and Filter Triaged Issue Metadata",
-        "GLM-5.2: China's Z.ai Releases 753B Parameter Open-Weights Model That Tops the Intelligence Index — MIT Licensed"
-      ]
-    },
-    {
-      "run_at": "2026-06-22T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026062200662&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062200871&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062200883&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062200679&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062200527&g=spo&m=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2606/22/2000000117/",
-        "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html",
-        "https://zenn.dev/417/articles/ai-era-domain-knowledge-placement",
-        "https://sakana.ai/fugu/",
-        "https://apertvs.ai/",
-        "https://docs.deno.com/runtime/desktop/"
-      ],
-      "titles": [
-        "旭川女子高生殺害事件、内田被告に懲役27年――裁判所が「実行行為」を認定",
-        "スターマー英首相が辞意表明——後継候補にバーナム氏が浮上",
-        "高市首相の公用車がSUVに変更——トヨタ「センチュリー」、費用は非公表",
-        "皇室典範改正の要綱案、衆参議長に提示——25日に与野党へ、月内提出目指す",
-        "エジプト、W杯初勝利——英雄サラーが決勝ゴール、ニュージーランドに3−1",
-        "Claude Codeに指示を出す「7つの方法」——Anthropic公式が使い分けを解説",
-        "GitLab「Project Switch」発表——AIエージェント向けGit、最大50倍高速・トークン半減",
-        "リファクタリングに必要なドメイン知識はどこに置くか——コード・テスト・ADRへの分散戦略",
-        "Sakana Fugu: Multi-Agent System as a Model — Claims to Beat Claude Mythos on Key Benchmarks",
-        "Apertus: EPFL, ETH Zurich, and CSCS Release Europe's First Fully Open Sovereign AI Foundation Model",
-        "Deno Desktop: Ship Your TypeScript or Next.js App as a Native Desktop Binary — No Electron Required"
       ]
     }
   ]

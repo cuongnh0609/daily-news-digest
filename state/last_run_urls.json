@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-24T10:00:00+09:00",
+  "last_run_at": "2026-06-24T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-24T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6585467?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585468?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585480?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585475?source=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/24/news102.html",
+        "https://zenn.dev/explaza/articles/d0aeb08fcd1888",
+        "https://zenn.dev/nomhiro/articles/poc-develop-use-github-copilot-app",
+        "https://zenn.dev/loglass/articles/1b8129c8f28b37",
+        "https://www.anthropic.com/news/claude-opus-4-8",
+        "https://www.anthropic.com/news/expanding-project-glasswing",
+        "https://simonwillison.net/2026/Jun/22/porting-moebius/"
+      ],
+      "titles": [
+        "婚姻・出生数が前年を上回る——2026年1〜4月期の人口動態統計",
+        "旧統一教会の解散命令が確定——信教の自由を侵害しないとの判断",
+        "キオクシアHD 株主総会で役員報酬が大幅増——業績回復を反映",
+        "フランスで44.3℃の猛暑——熱中症などで40人が死亡、水難事故も相次ぐ",
+        "「＠nifty」サポート窓口が混雑——メールパスワード漏えい受け問い合わせ殺到",
+        "個人のプロンプト術をやめて、チームで回るAI駆動開発ループを作った話",
+        "GAしたGitHub Copilot Appを触ってみた——Issueから実装・PR・マージまでをエージェントに任せる",
+        "E2Eテストを読めるカタログにする——AI時代の振る舞い管理",
+        "Anthropic Releases Claude Opus 4.8 — Stronger Agentic Performance, Dynamic Workflows, and Fast Mode at 2.5×",
+        "Anthropic Expands Project Glasswing to 150 More Organizations — AI-Powered Security for Critical Infrastructure",
+        "Simon Willison: Porting the Moebius 0.2B Image Inpainting Model to Run in the Browser with Claude Code"
+      ]
+    },
     {
       "run_at": "2026-06-24T10:00:00+09:00",
       "urls": [

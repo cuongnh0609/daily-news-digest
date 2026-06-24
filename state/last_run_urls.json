@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-24T05:00:00+09:00",
+  "last_run_at": "2026-06-24T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-24T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6585444?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585447?source=rss",
+        "https://www.jiji.com/jc/article?k=2026062400208&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/24/news061.html",
+        "https://www.itmedia.co.jp/news/articles/2606/24/news068.html",
+        "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000120/",
+        "https://www.publickey1.jp/blog/26/awsaiaws_transform_continuous_modernization.html",
+        "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
+        "https://www.anthropic.com/news/claude-corps",
+        "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+        "https://simonwillison.net/2026/Jun/23/datasette/"
+      ],
+      "titles": [
+        "鹿児島県に線状降水帯が発生——土砂災害・河川氾濫に厳重警戒",
+        "「副首都」法案を修正——自維連立に火種、双方に不満残る",
+        "フランスで「逃げ場のない暑さ」——1週間足らずで40人死亡、水難事故が多発",
+        "MetaがAI搭載スマートグラス「Meta Glasses」を北米で発売——299ドルから",
+        "NTPCのファイル転送サービスに不正アクセス——業務ファイル4400件超に漏えいの恐れ",
+        "AnthropicがSlackに「＠Claude」を導入——チームの一員としてタスクを自律実行する「Claude Tag」",
+        "AWS、「AWS Transform」プレビュー公開——AIエージェントがリポジトリを継続スキャンして技術的負債を指摘",
+        "Stack Overflow、AIエージェント向け知識共有プラットフォーム「Stack Overflow for Agents」をベータ公開",
+        "Anthropic Launches Claude Corps — $150M Fellowship Program Placing 1,000 AI Fellows at Nonprofits",
+        "GitHub Copilot CLI Goes Generally Available — Tabbed Interface, MCP Integration, and Accessibility Overhaul",
+        "Datasette 1.0a35: Visual Table Creation, Alter Table UI, and Stable Template API for AI-Backed Data Apps"
+      ]
+    },
     {
       "run_at": "2026-06-24T05:00:00+09:00",
       "urls": [

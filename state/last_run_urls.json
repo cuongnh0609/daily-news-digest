@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-26T00:00:00+09:00",
+  "last_run_at": "2026-06-26T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-26T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026062500334&g=int",
+        "https://www.jiji.com/jc/article?k=2026062501312&g=int",
+        "https://www.jiji.com/jc/article?k=2026062501198&g=pol",
+        "https://news.yahoo.co.jp/pickup/6585674",
+        "https://news.yahoo.co.jp/pickup/6585657",
+        "https://zenn.dev/snow_rabbit/articles/e7c8404575b62b",
+        "https://www.publickey1.jp/blog/26/typescriptgo10typescript_70.html",
+        "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
+        "https://www.latent.space/p/ainews-its-meta-harness-summer",
+        "https://huggingface.co/blog/ibm-research/cuga-apps",
+        "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/"
+      ],
+      "titles": [
+        "ベネズエラで大地震が2度発生——160人超死亡、非常事態宣言",
+        "米5月PCEが前年比4.1%上昇——原油高でインフレ加速、FRBの利上げ再開も視野",
+        "陸上自衛隊のUSBにマルウェア——中国由来か、規則が守られず約1年間放置",
+        "大阪でスクールバスが逆走——6台絡む事故で12人搬送、運転手を逮捕",
+        "SBIホールディングスとフジ・メディアHDが資本業務提携——メディア・金融の融合へ",
+        "類似度1位でも返さないRAG——TiDBのベクトル検索と認可を組み合わせてMem9の記憶操作まで守る",
+        "TypeScriptコンパイラをGoに移植——10倍高速のTypeScript 7.0リリース候補版が登場",
+        "GitHub Actions、ステップの並列実行が正式対応——backgroundキーワードで独立タスクを同時進行",
+        "[AINews] Meta-Harness Summer — AI Agent Infrastructure Enters Maturity Phase",
+        "CUGA: IBM's Open-Source Agentic Harness Deploys Real Apps with 24 Single-File Examples",
+        "The Unbearable Cheapness of Open-Weight Models — Can Frontier AI Labs Compete on Price?"
+      ]
+    },
     {
       "run_at": "2026-06-26T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Launches Claude Corps — $150M Fellowship Program Placing 1,000 AI Fellows at Nonprofits",
         "GitHub Copilot CLI Goes Generally Available — Tabbed Interface, MCP Integration, and Accessibility Overhaul",
         "Datasette 1.0a35: Visual Table Creation, Alter Table UI, and Stable Template API for AI-Backed Data Apps"
-      ]
-    },
-    {
-      "run_at": "2026-06-24T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585424?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/23/news135.html",
-        "https://www.itmedia.co.jp/news/articles/2606/23/news114.html",
-        "https://www.itmedia.co.jp/news/articles/2606/23/news138.html",
-        "https://www.itmedia.co.jp/news/articles/2606/23/news109.html",
-        "https://zenn.dev/cutlet_of_pork/articles/three-agent-orchestration",
-        "https://zenn.dev/chot/articles/e6748269611683",
-        "https://www.publickey1.jp/blog/26/awsaws_contiuumai.html",
-        "https://www.anthropic.com/news/introducing-claude-tag",
-        "https://swelljoe.com/post/will-it-mythos/",
-        "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/"
-      ],
-      "titles": [
-        "台風7号・8号が同時接近——九州・沖縄に線状降水帯の恐れ、厳重な警戒を",
-        "中国のスパコン「LineShine」が世界1位を奪還——8年半ぶり首位、GPU不使用でエクサFLOPS超え",
-        "KDDI、メールサービスで最大1422万件の個人情報が漏えいか——ISP経由の不正アクセスが原因",
-        "GiGOアプリで大規模アカウントBAN——1台のスマホで600超えのアカウント問題も、運営が謝罪",
-        "マネーフォワードにも不正アクセス——GitHubリポジトリ経由で約6.3万件のIDが流出",
-        "3つのAIエージェントを連携させた全自動開発パイプライン——Antigravity・Claude Code・Codexによる分業アーキテクチャ",
-        "Vercel Eve——AIエージェント開発の新標準フレームワーク、Vercel Ship 26 Londonで発表",
-        "AWS Continuum——インフラ・ビジネス文脈を持つAI脆弱性診断、PoC生成でリスクを可視化",
-        "Anthropic Launches Claude Tag — AI Team Member for Slack with Per-Channel Identity and Access Control",
-        "Will It Mythos? — Community Benchmark Shows Cheap Models Match Frontier AI on Security Bug Finding",
-        "Cloudflare Launches Temporary Workers Deployments — No Account Required, 60-Minute Ephemeral Projects for AI Agents"
       ]
     }
   ]

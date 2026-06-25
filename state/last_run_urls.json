@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-25T20:00:00+09:00",
+  "last_run_at": "2026-06-26T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-26T00:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/articles/2606/25/news136.html",
+        "https://news.yahoo.co.jp/pickup/6585664?source=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/25/news138.html",
+        "https://news.yahoo.co.jp/pickup/6585665?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585663?source=rss",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news058.html",
+        "https://zenn.dev/layerx/articles/6f510abfc3fa72",
+        "https://www.itmedia.co.jp/news/articles/2606/25/news132.html",
+        "https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides",
+        "https://github.blog/changelog/2026-06-24-self-service-credential-revocation-for-incident-response",
+        "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything"
+      ],
+      "titles": [
+        "W杯決勝T進出に王手——日本、26日朝8時にスウェーデンと対戦・出勤時間調整の動きも",
+        "任天堂、2029年に技術研究・開発の新拠点を建設——総投資額1210億円",
+        "AppleがMac・iPad国内価格を一斉値上げ——MacBook Air M5は18万円台から22万円台へ",
+        "認知症による行方不明者、昨年は1.7万人超——過去最多を更新",
+        "皇室典範改正案の要綱が示される——女性宮家の創設めぐり与野党に賛否",
+        "Claude Managed Agentsが着実に進化——Dreaming・Auto-Kans・マルチエージェント機能が加わりAIエージェント基盤が本格化",
+        "AI 時代だからこそコードを読もう——LayerXエンジニアが語る「AI任せ」の落とし穴",
+        "Figmaが新機能「Figma Motion」を発表——タイムラインとキーフレームによるアニメーション編集",
+        "GitHub Copilot in JetBrains IDEs Now Supports Claude as Agent Provider",
+        "GitHub Introduces Self-Service Credential Revocation for Incident Response",
+        "Prompt Injection as Role Confusion — Research Shows LLMs Recognize Text Style Over Role Tags"
+      ]
+    },
     {
       "run_at": "2026-06-25T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Launches Claude Tag — AI Team Member for Slack with Per-Channel Identity and Access Control",
         "Will It Mythos? — Community Benchmark Shows Cheap Models Match Frontier AI on Security Bug Finding",
         "Cloudflare Launches Temporary Workers Deployments — No Account Required, 60-Minute Ephemeral Projects for AI Agents"
-      ]
-    },
-    {
-      "run_at": "2026-06-24T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026062300931&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6585420?source=rss",
-        "https://www.jiji.com/jc/article?k=2026062301260&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062300830&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6585417?source=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2606/23/2000000119/",
-        "https://www.publickey1.jp/blog/26/typescriptgo10typescript_70.html",
-        "https://www.itmedia.co.jp/news/articles/2606/23/news134.html",
-        "https://arxiv.org/abs/2606.16140",
-        "https://mistral.ai/news/ocr-4/",
-        "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/"
-      ],
-      "titles": [
-        "旧統一教会の解散命令確定——「信教の自由」侵害せず合憲と判断",
-        "クールジャパン機構、累積損失が540億円超——政府が廃止・統合を本格検討へ",
-        "冷凍庫から切断された遺体——元夫殺害の疑いで元妻を逮捕、兵庫県警",
-        "日本サッカー、決勝トーナメント進出がほぼ確実——W杯グループリーグで快走",
-        "高市首相、沖縄慰霊式でのヤジに反論——「日本は平和国家として歩み続けてきた」",
-        "業務でAIを使う人の約38%が「禁止されても使い続ける」——セキュリティ調査が示す\"シャドーAI\"の実態",
-        "TypeScript 7.0 RCが登場——コンパイラをGo言語に移植して10倍の高速化を実現",
-        "メルカリ、ChatGPT上で商品検索から出品準備まで完結——「Apps in ChatGPT」公式アプリ公開",
-        "VibeThinker-3B: 3B Parameter Model Matches Frontier Performance on Reasoning Benchmarks",
-        "Mistral OCR 4: State-of-the-Art Document Intelligence with 170-Language Support and Self-Hosted Deployment",
-        "The Coming Loop: Why Machine-Operated Code Loops Are Changing How We Think About Software Maintenance"
       ]
     }
   ]

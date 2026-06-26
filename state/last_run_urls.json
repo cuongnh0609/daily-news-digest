@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-26T05:00:00+09:00",
+  "last_run_at": "2026-06-26T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-26T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6585684",
+        "https://news.yahoo.co.jp/pickup/6585689",
+        "https://news.yahoo.co.jp/pickup/6585707",
+        "https://www.itmedia.co.jp/news/articles/2606/26/news061.html",
+        "https://news.yahoo.co.jp/pickup/6585693",
+        "https://zenn.dev/google_cloud_jp/articles/63205d90345627",
+        "https://www.publickey1.jp/blog/26/githubai_1.html",
+        "https://zenn.dev/rescuenow/articles/535533464da3cf",
+        "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+        "https://www.itmedia.co.jp/news/articles/2606/26/news060.html",
+        "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything"
+      ],
+      "titles": [
+        "法人の実質的支配者を新法で把握へ——マネロン対策でG7最後の空白を埋める",
+        "ホルムズ海峡で船舶に飛翔体が直撃——エネルギー輸送ルートに再び緊張",
+        "W杯・日本 対 スウェーデン——決勝T進出をかけた一戦、後半に激闘",
+        "Windows 10の無料セキュリティ更新を2027年10月まで延長——移行猶予が1年追加",
+        "台風が列島直撃へ——ダブル台風が東日本太平洋側に接近、各地で大雨警戒",
+        "Gemini を Claude のサブエージェントに——ハイブリッド構成でコストを64%削減しながら品質を維持",
+        "GitHub、AIが乱発するプルリクエストを制限へ——ユーザー当たりのPR上限設定機能を導入",
+        "「difit」——ローカルのGit差分をブラウザでGitHub風UIレビュー、Claude Codeへのプロンプト連携も",
+        "IBM Debuts World's First Sub-1 Nanometer Chip with Nanostack Architecture — 50% Faster, 70% More Efficient",
+        "Notion Shuts Down Notion Mail to Go All-In on AI Agents — Gmail AI Connector Is the New Direction",
+        "AI and Liability: German Court Rules Google Responsible for AI Overview Inaccuracies — A Legal Turning Point"
+      ]
+    },
     {
       "run_at": "2026-06-26T05:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Releases Claude Opus 4.8 — Stronger Agentic Performance, Dynamic Workflows, and Fast Mode at 2.5×",
         "Anthropic Expands Project Glasswing to 150 More Organizations — AI-Powered Security for Critical Infrastructure",
         "Simon Willison: Porting the Moebius 0.2B Image Inpainting Model to Run in the Browser with Claude Code"
-      ]
-    },
-    {
-      "run_at": "2026-06-24T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585444?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585447?source=rss",
-        "https://www.jiji.com/jc/article?k=2026062400208&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/24/news061.html",
-        "https://www.itmedia.co.jp/news/articles/2606/24/news068.html",
-        "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000120/",
-        "https://www.publickey1.jp/blog/26/awsaiaws_transform_continuous_modernization.html",
-        "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
-        "https://www.anthropic.com/news/claude-corps",
-        "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
-        "https://simonwillison.net/2026/Jun/23/datasette/"
-      ],
-      "titles": [
-        "鹿児島県に線状降水帯が発生——土砂災害・河川氾濫に厳重警戒",
-        "「副首都」法案を修正——自維連立に火種、双方に不満残る",
-        "フランスで「逃げ場のない暑さ」——1週間足らずで40人死亡、水難事故が多発",
-        "MetaがAI搭載スマートグラス「Meta Glasses」を北米で発売——299ドルから",
-        "NTPCのファイル転送サービスに不正アクセス——業務ファイル4400件超に漏えいの恐れ",
-        "AnthropicがSlackに「＠Claude」を導入——チームの一員としてタスクを自律実行する「Claude Tag」",
-        "AWS、「AWS Transform」プレビュー公開——AIエージェントがリポジトリを継続スキャンして技術的負債を指摘",
-        "Stack Overflow、AIエージェント向け知識共有プラットフォーム「Stack Overflow for Agents」をベータ公開",
-        "Anthropic Launches Claude Corps — $150M Fellowship Program Placing 1,000 AI Fellows at Nonprofits",
-        "GitHub Copilot CLI Goes Generally Available — Tabbed Interface, MCP Integration, and Accessibility Overhaul",
-        "Datasette 1.0a35: Visual Table Creation, Alter Table UI, and Stable Template API for AI-Backed Data Apps"
       ]
     }
   ]

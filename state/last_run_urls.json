@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-26T10:00:00+09:00",
+  "last_run_at": "2026-06-26T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-26T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026062600230&g=spo&m=rss",
+        "https://news.yahoo.co.jp/pickup/6585745?source=rss",
+        "https://www.jiji.com/jc/article?k=2026062600159&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062600622&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/26/news070.html",
+        "https://www.itmedia.co.jp/aiplus/article/2606/26/2000000131/",
+        "https://www.publickey1.jp/blog/26/awsaws_contiuumai.html",
+        "https://www.itmedia.co.jp/news/articles/2606/24/news115.html",
+        "https://anthropic.com/news/introducing-claude-tag",
+        "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
+        "https://www.publickey1.jp/blog/26/awsaws_contiuumai.html"
+      ],
+      "titles": [
+        "日本、W杯グループリーグを2位で突破——次戦は決勝トーナメントでブラジルと",
+        "ダブル台風が27日に関東へ直撃の恐れ——梅雨前線と相まって記録的大雨に警戒",
+        "IMO、ホルムズ海峡の「退避計画」を停止——イランによる船舶攻撃の疑いで緊張が激化",
+        "官房長官秘書官を事実上更迭——不倫疑惑や不正宿泊報道が発端に",
+        "LINEヤフーグループで自己都合退職が前年度比65%増——2791人が離職",
+        "Amazon Bedrockのトークン処理量、2026年Q1だけで過去累計を超える——AWSがAIエージェント基盤に3.8兆円を投資",
+        "AWSがセキュリティサービス「AWS Contiuum」を発表——コードだけでなくインフラ構成とビジネスコンテキストまで考慮した脆弱性分析",
+        "AnthropicがSlack連携機能「Claude Tag」を正式発表——チームメンバーとして非同期でタスクをこなすAIエージェント",
+        "Anthropic Launches Claude Tag — Claude Becomes a Multiplayer Slack Team Member with Async Agentic Task Execution",
+        "GitHub Copilot Code Review Gets 20% Cheaper with Higher Quality — Now Uses rg, grep, glob from Copilot CLI Internally",
+        "AWS Continuum: Vulnerability Reasoning That Goes Beyond Code — Infrastructure, Permissions, and Business Context Combined"
+      ]
+    },
     {
       "run_at": "2026-06-26T10:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Qwen-AgentWorld: Language World Models for General Agents — 35B and 397B Models That Simulate Any Environment",
         "GitHub Copilot App Now Supports Bring-Your-Own-Key — Use Claude, GPT, Gemini, or Local Models with Your Own API Key",
         "Simon Willison: OPFS + Pyodide Test Harness — Running Python Tests Entirely in the Browser with No Server"
-      ]
-    },
-    {
-      "run_at": "2026-06-24T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585467?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585468?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585480?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585475?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/24/news102.html",
-        "https://zenn.dev/explaza/articles/d0aeb08fcd1888",
-        "https://zenn.dev/nomhiro/articles/poc-develop-use-github-copilot-app",
-        "https://zenn.dev/loglass/articles/1b8129c8f28b37",
-        "https://www.anthropic.com/news/claude-opus-4-8",
-        "https://www.anthropic.com/news/expanding-project-glasswing",
-        "https://simonwillison.net/2026/Jun/22/porting-moebius/"
-      ],
-      "titles": [
-        "婚姻・出生数が前年を上回る——2026年1〜4月期の人口動態統計",
-        "旧統一教会の解散命令が確定——信教の自由を侵害しないとの判断",
-        "キオクシアHD 株主総会で役員報酬が大幅増——業績回復を反映",
-        "フランスで44.3℃の猛暑——熱中症などで40人が死亡、水難事故も相次ぐ",
-        "「＠nifty」サポート窓口が混雑——メールパスワード漏えい受け問い合わせ殺到",
-        "個人のプロンプト術をやめて、チームで回るAI駆動開発ループを作った話",
-        "GAしたGitHub Copilot Appを触ってみた——Issueから実装・PR・マージまでをエージェントに任せる",
-        "E2Eテストを読めるカタログにする——AI時代の振る舞い管理",
-        "Anthropic Releases Claude Opus 4.8 — Stronger Agentic Performance, Dynamic Workflows, and Fast Mode at 2.5×",
-        "Anthropic Expands Project Glasswing to 150 More Organizations — AI-Powered Security for Critical Infrastructure",
-        "Simon Willison: Porting the Moebius 0.2B Image Inpainting Model to Run in the Browser with Claude Code"
       ]
     }
   ]

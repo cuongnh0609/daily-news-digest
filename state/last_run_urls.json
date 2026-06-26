@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-27T00:00:00+09:00",
+  "last_run_at": "2026-06-27T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-27T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6585812?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585818?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585821?source=rss",
+        "https://www.jiji.com/jc/article?k=2026062600773&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062601000&g=pol&m=rss",
+        "https://zenn.dev/explaza/articles/d0aeb08fcd1888",
+        "https://www.itmedia.co.jp/aiplus/article/2606/26/2000000131/",
+        "https://zenn.dev/mkj/articles/40a6c187d2dbc9",
+        "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
+        "https://github.com/workweave/router",
+        "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/"
+      ],
+      "titles": [
+        "ダブル台風が27日に列島直撃へ——ピークは2回、終日大雨に厳重警戒",
+        "山口県で土砂流入——住宅1階が埋没、70代男性の行方不明が続く",
+        "山梨で震度6弱——気象庁「地盤が緩み、今後の大雨で土砂災害の恐れ」",
+        "ベネズエラ大地震で死者580人超——政府の初動遅れに市民から批判の声",
+        "法務省が再審見直しの公文書を廃棄——検証困難に、野党が問題視",
+        "個人のプロンプト術をやめ、チームで回るAI駆動開発ループを構築——「interview-dev-loop」の実践",
+        "Amazon Bedrockのトークン処理量、2026年1Q単期で過去累計超え——AWSが「信頼できるAIインフラ」へ3.8兆円投資",
+        "LLMが書いた「正しそうな言葉」に感じる違和感——「主張を所有する」ことの重要性",
+        "Microsoft's MAI-Code-1-Flash Now Generally Available for GitHub Copilot Business and Enterprise",
+        "Workweave Router: Smart Model Routing Across Claude, Codex, and Cursor — 40–70% Cost Reduction",
+        "What Happened After 2,000 People Tried to Hack My AI Assistant — Prompt Injection Resistance in Frontier Models"
+      ]
+    },
     {
       "run_at": "2026-06-27T00:00:00+09:00",
       "urls": [
@@ -80,7 +109,7 @@
         "IMO、ホルムズ海峡の「退避計画」を停止——イランによる船舶攻撃の疑いで緊張が激化",
         "官房長官秘書官を事実上更迭——不倫疑惑や不正宿泊報道が発端に",
         "LINEヤフーグループで自己都合退職が前年度比65%増——2791人が離職",
-        "Amazon Bedrockのトークン処理量、2026年Q1だけで過去累計を超える——AWSがAIエージェント基盤に3.8兆円を投資",
+        "Amazon Bedrockのトークン処理量、26年1Qだけで過去累計を超える——AWSがAIエージェント基盤に3.8兆円を投資",
         "AWSがセキュリティサービス「AWS Contiuum」を発表——コードだけでなくインフラ構成とビジネスコンテキストまで考慮した脆弱性分析",
         "AnthropicがSlack連携機能「Claude Tag」を正式発表——チームメンバーとして非同期でタスクをこなすAIエージェント",
         "Anthropic Launches Claude Tag — Claude Becomes a Multiplayer Slack Team Member with Async Agentic Task Execution",
@@ -202,35 +231,6 @@
         "Anthropic Forced to Suspend Fable 5 & Mythos 5 Access Globally After US Government Export Control Directive",
         "GLM-5.2 Is a Step Change for Open Agents — 35B and 397B Models That Simulate Any Environment",
         "RubyLLM: A Clean, Unified Ruby Framework for All Major AI Providers"
-      ]
-    },
-    {
-      "run_at": "2026-06-25T15:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/articles/2606/25/news063.html",
-        "https://www.itmedia.co.jp/news/articles/2606/25/news100.html",
-        "https://www.itmedia.co.jp/news/articles/2606/25/news084.html",
-        "https://news.yahoo.co.jp/articles/8d68d45ce36a5fec791ab57daf94118242edc70f?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/24/news134.html",
-        "https://www.itmedia.co.jp/aiplus/article/2606/25/2000000127/",
-        "https://www.itmedia.co.jp/aiplus/article/2606/25/2000000126/",
-        "https://zenn.dev/manalink_dev/articles/ai-coding-era-review-to-dev-process-not-human",
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-        "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-        "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything"
-      ],
-      "titles": [
-        "青森県で最大震度6強——東北新幹線が全線運転見合わせ後に再開",
-        "Google Playが手数料30%を引き下げ——独自決済・外部誘導を解放、日本は12月から",
-        "MicrosoftとEuropolが情報窃取マルウェア「StealC」基盤を一斉摘発——C2サーバ200台超を停止",
-        "特定技能「外食」の外国人新規受け入れ停止——深刻な人手不足に波紋",
-        "KADOKAWAの夏野CEO続投へ——株主総会で再任案可決、ファンド側の解任提案を否決",
-        "Google「Gemini 3.5 Flash」に「Computer Use」を標準搭載——AIがブラウザやアプリを自律操作",
-        "OpenAI、初の独自AIチップ「Jalapeno」発表——Broadcomと共同開発の推論専用アクセラレータ",
-        "AI時代のコードレビューは「人」ではなく「仕組み」に向けろ——Claude Code時代の開発プロセス再設計",
-        "Computer Use Now Built Into Gemini 3.5 Flash — Google Mainstreams Agentic UI Control",
-        "Anthropic Accuses Alibaba of Illicitly Extracting Claude's Capabilities via Distillation",
-        "Simon Willison Converts MDN Browser Compat Data to SQLite Using Claude Code + Codex Desktop"
       ]
     }
   ]

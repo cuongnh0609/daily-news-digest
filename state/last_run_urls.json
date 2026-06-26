@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-26T20:00:00+09:00",
+  "last_run_at": "2026-06-27T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-27T00:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/articles/2606/26/news136.html",
+        "https://www.itmedia.co.jp/news/articles/2606/26/news091.html",
+        "https://www.itmedia.co.jp/news/articles/2606/26/news077.html",
+        "https://www.itmedia.co.jp/news/articles/2606/24/news130.html",
+        "https://www.itmedia.co.jp/news/articles/2606/26/news069.html",
+        "https://zenn.dev/yukurash/articles/19ece516497d40",
+        "https://zenn.dev/m2lab/articles/koe-craft-agent-amivoice",
+        "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
+        "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+        "https://www.anthropic.com/news/claude-corps",
+        "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration"
+      ],
+      "titles": [
+        "新幹線にファイヤーブランケット配備——モバイルバッテリー発火への対策をJRグループが発表",
+        "防衛省が「認知戦」対応方針を公開——AIフェイク・偽アカウントへの戦略的情報発信を強化",
+        "NURO光に行政指導——契約書面の不交付が長期間放置、光回線・見守りGPS双方で不備",
+        "陸自駐屯地に四足歩行型警備ロボット導入——GMOと未来ロボットが国産開発、24時間省人化警備へ",
+        "YouTubeショート動画に2倍速再生と「低評価ボタン廃止」——ユーザー体験を刷新する大型アップデート",
+        "Claude Code × OpenTelemetry——Splunkでエージェント・スキル・モデル別コストをリアルタイム可視化する方法",
+        "声でマイクラを動かす「KoeCraft Agent」——AmiVoice API＋生成AIのリアルタイム音声エージェント実装記",
+        "Stack Overflow for Agentsベータ公開——AIエージェント同士が知識を共有するAPI-firstプラットフォーム",
+        "Incident Report: CVE-2026-LGTM — A Malicious Package Bypassed Seven AI Security Gates",
+        "Anthropic Launches Claude Corps — $150M Fellowship to Deploy AI Skills in Nonprofits Across America",
+        "GitHub Desktop 3.6: Native Git Worktree Support and Deeper Copilot Integration"
+      ]
+    },
     {
       "run_at": "2026-06-26T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Computer Use Now Built Into Gemini 3.5 Flash — Google Mainstreams Agentic UI Control",
         "Anthropic Accuses Alibaba of Illicitly Extracting Claude's Capabilities via Distillation",
         "Simon Willison Converts MDN Browser Compat Data to SQLite Using Claude Code + Codex Desktop"
-      ]
-    },
-    {
-      "run_at": "2026-06-24T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585509?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/24/news135.html",
-        "https://news.yahoo.co.jp/pickup/6585500?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585498?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585504?source=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000125/",
-        "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000124/",
-        "https://zenn.dev/knowledgesense/articles/14a874a9f423bb",
-        "https://arxiv.org/abs/2606.24597",
-        "https://github.blog/changelog/2026-06-23-github-copilot-app-support-for-byok",
-        "https://simonwillison.net/2026/Jun/23/opfs-pyodide/"
-      ],
-      "titles": [
-        "九州から関東にかけて警報級の大雨続く恐れ——梅雨前線と台風接近で厳戒態勢",
-        "PayPay偽造メール詐欺が3か月で22.4倍に急増——ゲーム・トレカ事業者を装う新手口も",
-        "北区小学校火災——教師が音楽準備室で洗濯物を乾燥、電気ストーブから出火か",
-        "内田梨瑚被告が控訴断念——旭川女子高生殺害事件、懲役27年が確定へ",
-        "クマ被害対策でファミリーマートが「モンスターウルフ」を導入——コンビニ周辺での獣害防止実験",
-        "富士通、TransformerのGPU効率を最大475倍に高める新LLMアーキテクチャ「PHOTON」を発表",
-        "AIエージェント「Devin」の国内ユーザー数が前年比1582%増——MicroVMで独立したエージェント実行を実現",
-        "AI時代のナレッジ管理——Google Cloudが提案する「OKF」フォーマットでエージェント検索精度を向上",
-        "Qwen-AgentWorld: Language World Models for General Agents — 35B and 397B Models That Simulate Any Environment",
-        "GitHub Copilot App Now Supports Bring-Your-Own-Key — Use Claude, GPT, Gemini, or Local Models with Your Own API Key",
-        "Simon Willison: OPFS + Pyodide Test Harness — Running Python Tests Entirely in the Browser with No Server"
       ]
     }
   ]

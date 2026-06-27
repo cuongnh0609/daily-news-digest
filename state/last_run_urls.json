@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-27T10:01:00+09:00",
+  "last_run_at": "2026-06-27T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-27T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6585868?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585858?source=rss",
+        "https://www.jiji.com/jc/article?k=2026062700166&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062700153&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/26/news138.html",
+        "https://zenn.dev/kenji_harada/articles/conway-anthropic",
+        "https://zenn.dev/noragrammer/articles/soloxp-intro",
+        "https://zenn.dev/libercraft/articles/20260626-agentic-search-no-index",
+        "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+        "https://developers.openai.com/api/docs/guides/agents/sandboxes",
+        "https://spectrum.ieee.org/ai-in-mathematics"
+      ],
+      "titles": [
+        "台風7号が関東に接近——大雨・暴風に厳重警戒",
+        "福岡で住宅地が陥没——大雨による地盤沈下、複数棟に影響",
+        "北京の高層ビルに小型機が衝突か——当局は発表を控える",
+        "イランが米軍基地に報復攻撃——中東情勢が緊迫化",
+        "KDDIでフィッシング起因のデータ漏洩——顧客情報が流出の恐れ",
+        "Conway解剖：Anthropicの常時稼働エージェントプラットフォームをコードから読み解く",
+        "SoloXP——スマホとClaude Codeで5ヶ月半720PRを回したソロ開発ハーネス",
+        "RAGを捨てる：インデックスなしのAgentic Searchでベクトル検索を超える",
+        "US Lifts Export Controls on Anthropic's Mythos 5 — Partial Access Granted to 100+ Trusted Organizations",
+        "OpenAI Agents SDK Introduces Sandbox Agents — Isolated Execution Environments for Safe Agentic Workflows",
+        "AI in Mathematics Is Forcing Big Questions — From IMO Gold Medals to Autonomous Ph.D.-Level Research"
+      ]
+    },
     {
       "run_at": "2026-06-27T10:01:00+09:00",
       "urls": [

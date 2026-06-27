@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-27T15:00:00+09:00",
+  "last_run_at": "2026-06-27T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-27T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6585913?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585903?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585904?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585916?source=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/25/news113.html",
+        "https://zenn.dev/aws_japan/articles/aws-blocks-source-reading",
+        "https://zenn.dev/uguisu_blog/articles/d777bd252bab6b",
+        "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/",
+        "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+        "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
+        "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything"
+      ],
+      "titles": [
+        "政府「骨太方針」で日銀をけん制――金利政策への圧力が焦点に",
+        "異例のダブル台風が列島各地に被害――山口・静岡で土砂崩れ、交通も乱れ",
+        "山口の土砂崩れで行方不明の男性発見・死亡確認――台風7号の爪痕",
+        "大坂なおみ、ウィンブルドン準決勝で途中棄権――右足の痛みに屈す",
+        "OpenAI、独自開発AIチップ「Jalapeno」を発表――Broadcom共同設計、推論特化で9ヶ月開発",
+        "コーディングエージェント時代のフルスタック開発——AWS Blocksのソースコードから学ぶ Infrastructure from Code",
+        "会議中にClaudeが「次に聞くべきこと」を提案してくれる議事録アプリを自作してみた",
+        "AnthropicのAIモデル「Mythos 5」、米国の一部組織に限定再提供——政府許可を経て輸出規制から部分解除",
+        "DeepSeek Open-Sources DSpark: 60–85% Faster LLM Inference via Kernel-Level Optimizations",
+        "GitHub Copilot Code Review Now 20% Cheaper — CLI-Based File Tools Replace Custom Explorers",
+        "Simon Willison: Building a Browser Compatibility SQLite DB with Claude Code and the MDN MCP Server"
+      ]
+    },
     {
       "run_at": "2026-06-27T15:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "IBM Debuts World's First Sub-1 Nanometer Chip with Nanostack Architecture — 50% Faster, 70% More Efficient",
         "Notion Shuts Down Notion Mail to Go All-In on AI Agents — Gmail AI Connector Is the New Direction",
         "AI and Liability: German Court Rules Google Responsible for AI Overview Inaccuracies — A Legal Turning Point"
-      ]
-    },
-    {
-      "run_at": "2026-06-26T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026062500334&g=int",
-        "https://www.jiji.com/jc/article?k=2026062501312&g=int",
-        "https://www.jiji.com/jc/article?k=2026062501198&g=pol",
-        "https://news.yahoo.co.jp/pickup/6585674",
-        "https://news.yahoo.co.jp/pickup/6585657",
-        "https://zenn.dev/snow_rabbit/articles/e7c8404575b62b",
-        "https://www.publickey1.jp/blog/26/typescriptgo10typescript_70.html",
-        "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
-        "https://www.latent.space/p/ainews-its-meta-harness-summer",
-        "https://huggingface.co/blog/ibm-research/cuga-apps",
-        "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/"
-      ],
-      "titles": [
-        "ベネズエラで大地震が2度発生——160人超死亡、非常事態宣言",
-        "米5月PCEが前年比4.1%上昇——原油高でインフレ加速、FRBの利上げ再開も視野",
-        "陸上自衛隊のUSBにマルウェア——中国由来か、規則が守られず約1年間放置",
-        "大阪でスクールバスが逆走——6台絡む事故で12人搬送、運転手を逮捕",
-        "SBIホールディングスとフジ・メディアHDが資本業務提携——メディア・金融の融合へ",
-        "類似度1位でも返さないRAG——TiDBのベクトル検索と認可を組み合わせてMem9の記憶操作まで守る",
-        "TypeScriptコンパイラをGoに移植——10倍高速のTypeScript 7.0リリース候補版が登場",
-        "GitHub Actions、ステップの並列実行が正式対応——backgroundキーワードで独立タスクを同時進行",
-        "[AINews] Meta-Harness Summer — AI Agent Infrastructure Enters Maturity Phase",
-        "CUGA: IBM's Open-Source Agentic Harness Deploys Real Apps with 24 Single-File Examples",
-        "The Unbearable Cheapness of Open-Weight Models — Can Frontier AI Labs Compete on Price?"
-      ]
-    },
-    {
-      "run_at": "2026-06-26T00:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/articles/2606/25/news136.html",
-        "https://news.yahoo.co.jp/pickup/6585664?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/25/news138.html",
-        "https://news.yahoo.co.jp/pickup/6585665?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585663?source=rss",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news058.html",
-        "https://zenn.dev/layerx/articles/6f510abfc3fa72",
-        "https://www.itmedia.co.jp/news/articles/2606/25/news132.html",
-        "https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides",
-        "https://github.blog/changelog/2026-06-24-self-service-credential-revocation-for-incident-response",
-        "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything"
-      ],
-      "titles": [
-        "W杯決勝T進出に王手——日本、26日朝8時にスウェーデンと対戦・出勤時間調整の動きも",
-        "任天堂、2029年に技術研究・開発の新拠点を建設——総投資額1210億円",
-        "AppleがMac・iPad国内価格を一斉値上げ——MacBook Air M5は18万円台から22万円台へ",
-        "認知症による行方不明者、昨年は1.7万人超——過去最多を更新",
-        "皇室典範改正案の要綱が示される——女性宮家の創設めぐり与野党に賛否",
-        "Claude Managed Agentsが着実に進化——Dreaming・Auto-Kans・マルチエージェント機能が加わりAIエージェント基盤が本格化",
-        "AI 時代だからこそコードを読もう——LayerXエンジニアが語る「AI任せ」の落とし穴",
-        "Figmaが新機能「Figma Motion」を発表——タイムラインとキーフレームによるアニメーション編集",
-        "GitHub Copilot in JetBrains IDEs Now Supports Claude as Agent Provider",
-        "GitHub Introduces Self-Service Credential Revocation for Incident Response",
-        "Prompt Injection as Role Confusion — Research Shows LLMs Recognize Text Style Over Role Tags"
-      ]
-    },
-    {
-      "run_at": "2026-06-25T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585644?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585610?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585623?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/25/news120.html",
-        "https://news.yahoo.co.jp/pickup/6585631?source=rss",
-        "https://www.publickey1.jp/blog/26/aws_lambda_microvms.html",
-        "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html",
-        "https://zenn.dev/tribeau/articles/c961141dd4c9c8",
-        "https://www.anthropic.com/news/fable-mythos-access",
-        "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-        "https://rubyllm.com/"
-      ],
-      "titles": [
-        "台風7号、27日に九州から関東に直撃の恐れ——梅雨前線と重なり記録的大雨も",
-        "米国が量子技術に関する大統領令——輸出規制と同盟国連携を柱に対中競争を加速",
-        "芸能人の肖像をAIで無断使用4万件超——アダルト・詐欺広告に悪用、業界が対策強化へ",
-        "米防衛スタートアップAnduril、日産・追浜工場取得を協議——軍事ドローン製造拠点への転換か",
-        "大谷翔平、第2子誕生を報告——「子どもたちの将来が楽しみ」と笑顔でコメント",
-        "AWS Lambda MicroVMs登場——サーバレスの手軽さでAIエージェント向けステートフル・隔離実行環境を実現",
-        "GitLab「Project Switch」発表——AIエージェント向けGit互換SCMで最大50倍高速・半分のトークンで動作",
-        "「AIがSQLを書いてくれる」で終わらせない——分析基盤の設計思想をAI時代に合わせて再構築する",
-        "Anthropic Forced to Suspend Fable 5 & Mythos 5 Access Globally After US Government Export Control Directive",
-        "GLM-5.2 Is a Step Change for Open Agents — 35B and 397B Models That Simulate Any Environment",
-        "RubyLLM: A Clean, Unified Ruby Framework for All Major AI Providers"
       ]
     }
   ]

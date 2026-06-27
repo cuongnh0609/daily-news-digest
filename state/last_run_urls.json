@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-27T20:00:00+09:00",
+  "last_run_at": "2026-06-28T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-28T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6585938?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585928?source=rss",
+        "https://www.jiji.com/jc/article?k=2026062700528&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062700164&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062601193&g=pol&m=rss",
+        "https://zenn.dev/acntechjp/articles/22f7b6f9258008",
+        "https://zenn.dev/sc30gsw/articles/d7320f1247b785",
+        "https://zenn.dev/layerx/articles/6f510abfc3fa72",
+        "https://simonwillison.net/2026/Jun/22/porting-moebius/",
+        "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
+        "https://simonwillison.net/2026/Jun/17/glm-52/"
+      ],
+      "titles": [
+        "政府が太平洋防衛に無人潜水艇を検討——小笠原上空に防空識別圏の設定も",
+        "台風増水の川でSUP中に2人溺死——110番は無音通報、警察が急行",
+        "山梨県東部の地震はフィリピン海プレート起因——政府調査委が分析を発表",
+        "政府が熱中症死者数「1000人未満」の目標設定へ——クーリングシェルターも全市区町村へ",
+        "高市首相が予算委出席を拒否——野党5党が審議拒否、終盤国会が空転",
+        "シニアエンジニアがコードをほぼ書かなくなった理由——Spec-Driven開発とClaudeへの仕事の委譲",
+        "Generative UIにJSONは最適か？——OpenUI Langという新たな選択肢の可能性",
+        "AI時代だからこそコードを「読む」力が重要——LayerXエンジニアが語る自走できないAI活用の落とし穴",
+        "Porting a Vision AI Model to Run Entirely in the Browser Using Claude Code and WebGPU",
+        "GitHub Actions Now Supports Truly Parallel Steps with a New background Keyword",
+        "GLM-5.2: The Most Capable Open-Weights Text LLM Now Available, Trailing Only Claude Fable 5 on Coding Benchmarks"
+      ]
+    },
     {
       "run_at": "2026-06-27T20:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Introducing Claude Opus 4.8 — Stronger Agentic Judgment, Dynamic Workflows, and 2.5× Fast Mode",
         "An Entire Herculaneum Scroll Read for the First Time — AI and X-Ray Imaging Unlock 2,000-Year-Old Papyrus",
         "OpenKnowledge — Open Source AI-Native Alternative to Obsidian and Notion Debuts on Hacker News"
-      ]
-    },
-    {
-      "run_at": "2026-06-26T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026062600230&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6585745?source=rss",
-        "https://www.jiji.com/jc/article?k=2026062600159&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062600622&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/26/news070.html",
-        "https://www.itmedia.co.jp/aiplus/article/2606/26/2000000131/",
-        "https://www.publickey1.jp/blog/26/awsaws_contiuumai.html",
-        "https://www.itmedia.co.jp/news/articles/2606/24/news115.html",
-        "https://anthropic.com/news/introducing-claude-tag",
-        "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-        "https://www.publickey1.jp/blog/26/awsaws_contiuumai.html"
-      ],
-      "titles": [
-        "日本、W杯グループリーグを2位で突破——次戦は決勝トーナメントでブラジルと",
-        "ダブル台風が27日に関東へ直撃の恐れ——梅雨前線と相まって記録的大雨に警戒",
-        "IMO、ホルムズ海峡の「退避計画」を停止——イランによる船舶攻撃の疑いで緊張が激化",
-        "官房長官秘書官を事実上更迭——不倫疑惑や不正宿泊報道が発端に",
-        "LINEヤフーグループで自己都合退職が前年度比65%増——2791人が離職",
-        "Amazon Bedrockのトークン処理量、26年1Qだけで過去累計を超える——AWSがAIエージェント基盤に3.8兆円を投資",
-        "AWSがセキュリティサービス「AWS Contiuum」を発表——コードだけでなくインフラ構成とビジネスコンテキストまで考慮した脆弱性分析",
-        "AnthropicがSlack連携機能「Claude Tag」を正式発表——チームメンバーとして非同期でタスクをこなすAIエージェント",
-        "Anthropic Launches Claude Tag — Claude Becomes a Multiplayer Slack Team Member with Async Agentic Task Execution",
-        "GitHub Copilot Code Review Gets 20% Cheaper with Higher Quality — Now Uses rg, grep, glob from Copilot CLI Internally",
-        "AWS Continuum: Vulnerability Reasoning That Goes Beyond Code — Infrastructure, Permissions, and Business Context Combined"
-      ]
-    },
-    {
-      "run_at": "2026-06-26T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585684",
-        "https://news.yahoo.co.jp/pickup/6585689",
-        "https://news.yahoo.co.jp/pickup/6585707",
-        "https://www.itmedia.co.jp/news/articles/2606/26/news061.html",
-        "https://news.yahoo.co.jp/pickup/6585693",
-        "https://zenn.dev/google_cloud_jp/articles/63205d90345627",
-        "https://www.publickey1.jp/blog/26/githubai_1.html",
-        "https://zenn.dev/rescuenow/articles/535533464da3cf",
-        "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-        "https://www.itmedia.co.jp/news/articles/2606/26/news060.html",
-        "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything"
-      ],
-      "titles": [
-        "法人の実質的支配者を新法で把握へ——マネロン対策でG7最後の空白を埋める",
-        "ホルムズ海峡で船舶に飛翔体が直撃——エネルギー輸送ルートに再び緊張",
-        "W杯・日本 対 スウェーデン——決勝T進出をかけた一戦、後半に激闘",
-        "Windows 10の無料セキュリティ更新を2027年10月まで延長——移行猶予が1年追加",
-        "台風が列島直撃へ——ダブル台風が東日本太平洋側に接近、各地で大雨警戒",
-        "Gemini を Claude のサブエージェントに——ハイブリッド構成でコストを64%削減しながら品質を維持",
-        "GitHub、AIが乱発するプルリクエストを制限へ——ユーザー当たりのPR上限設定機能を導入",
-        "「difit」——ローカルのGit差分をブラウザでGitHub風UIレビュー、Claude Codeへのプロンプト連携も",
-        "IBM Debuts World's First Sub-1 Nanometer Chip with Nanostack Architecture — 50% Faster, 70% More Efficient",
-        "Notion Shuts Down Notion Mail to Go All-In on AI Agents — Gmail AI Connector Is the New Direction",
-        "AI and Liability: German Court Rules Google Responsible for AI Overview Inaccuracies — A Legal Turning Point"
       ]
     }
   ]

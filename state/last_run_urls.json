@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-28T00:00:00+09:00",
+  "last_run_at": "2026-06-28T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-28T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6585937?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585934?source=rss",
+        "https://news.yahoo.co.jp/pickup/6585926?source=rss",
+        "https://www.jiji.com/jc/article?k=2026062800002&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062700515&g=soc&m=rss",
+        "https://zenn.dev/propagandist/articles/0004-spring-boot-otel-claude-observability",
+        "https://zenn.dev/singularity/articles/2026-06-26-mulmoclaude-html-tailwind-animation",
+        "https://zenn.dev/google_cloud_jp/articles/63205d90345627",
+        "https://www.anthropic.com/news/introducing-claude-tag",
+        "https://www.publickey1.jp/blog/26/typescriptgo10typescript_70.html",
+        "https://spectrum.ieee.org/ai-radio-chip-design"
+      ],
+      "titles": [
+        "台風通過後も土砂災害に警戒——雨が止んでも地盤の緩みに注意",
+        "静岡・南伊豆で軽トラが横転死亡——道路脇の垂れたワイヤーに絡まる台風絡みの事故",
+        "大分市で車が川に転落——流されかけた2歳児2人を救助",
+        "山梨地震はフィリピン海プレートが起因——政府調査委が臨時会合で評価",
+        "原発事故15年——福島・双葉で米仏も参加の国際ワークショップ開催",
+        "Spring Boot × Claude API × OpenTelemetry——LLM呼び出しのレイテンシ・コスト・トークン消費をリアルタイム可視化",
+        "MulmoClaude でコードゼロのAI動画制作——note記事をアニメーション付きプレゼン動画に変換",
+        "GeminiをClaudeのサブエージェントに——マルチモデル構成で実測27〜64%のコスト削減",
+        "Anthropic Introduces Claude Tag — AI as a Permanent Slack Team Member with Async Agent Capabilities",
+        "TypeScript 7.0 RC: Compiler Ported to Go for 10× Build Speed — Native Binary, Parallel Processing",
+        "AI Is Designing Radio Chips That Humans Couldn't Even Imagine — RL + Diffusion Models Break RFIC Design Paradigm"
+      ]
+    },
     {
       "run_at": "2026-06-28T00:00:00+09:00",
       "urls": [
@@ -144,64 +173,6 @@
         "Microsoft's MAI-Code-1-Flash Now Generally Available for GitHub Copilot Business and Enterprise",
         "Workweave Router: Smart Model Routing Across Claude, Codex, and Cursor — 40–70% Cost Reduction",
         "What Happened After 2,000 People Tried to Hack My AI Assistant — Prompt Injection Resistance in Frontier Models"
-      ]
-    },
-    {
-      "run_at": "2026-06-27T00:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/articles/2606/26/news136.html",
-        "https://www.itmedia.co.jp/news/articles/2606/26/news091.html",
-        "https://www.itmedia.co.jp/news/articles/2606/26/news077.html",
-        "https://www.itmedia.co.jp/news/articles/2606/24/news130.html",
-        "https://www.itmedia.co.jp/news/articles/2606/26/news069.html",
-        "https://zenn.dev/yukurash/articles/19ece516497d40",
-        "https://zenn.dev/m2lab/articles/koe-craft-agent-amivoice",
-        "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
-        "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-        "https://www.anthropic.com/news/claude-corps",
-        "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration"
-      ],
-      "titles": [
-        "新幹線にファイヤーブランケット配備——モバイルバッテリー発火への対策をJRグループが発表",
-        "防衛省が「認知戦」対応方針を公開——AIフェイク・偽アカウントへの戦略的情報発信を強化",
-        "NURO光に行政指導——契約書面の不交付が長期間放置、光回線・見守りGPS双方で不備",
-        "陸自駐屯地に四足歩行型警備ロボット導入——GMOと未来ロボットが国産開発、24時間省人化警備へ",
-        "YouTubeショート動画に2倍速再生と「低評価ボタン廃止」——ユーザー体験を刷新する大型アップデート",
-        "Claude Code × OpenTelemetry——Splunkでエージェント・スキル・モデル別コストをリアルタイム可視化する方法",
-        "声でマイクラを動かす「KoeCraft Agent」——AmiVoice API＋生成AIのリアルタイム音声エージェント実装記",
-        "Stack Overflow for Agentsベータ公開——AIエージェント同士が知識を共有するAPI-firstプラットフォーム",
-        "Incident Report: CVE-2026-LGTM — A Malicious Package Bypassed Seven AI Security Gates",
-        "Anthropic Launches Claude Corps — $150M Fellowship to Deploy AI Skills in Nonprofits Across America",
-        "GitHub Desktop 3.6: Native Git Worktree Support and Deeper Copilot Integration"
-      ]
-    },
-    {
-      "run_at": "2026-06-26T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585779?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585781?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585767?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585777?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/26/news104.html",
-        "https://zenn.dev/stockdev_sho/articles/f1d4d737bd90cc",
-        "https://www.publickey1.jp/blog/26/awsaiaws_transform_continuous_modernization.html",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2606/26/news045.html",
-        "https://www.anthropic.com/news/claude-opus-4-8",
-        "https://scrollprize.org/firstscroll",
-        "https://github.com/inkeep/open-knowledge"
-      ],
-      "titles": [
-        "ダブル台風が27日に列島直撃へ——関東・東海で350ミリ超の大雨、土砂災害に厳重警戒",
-        "地震活動が続く関東・東北——青森震度6強の余震か、各地で土砂災害に注意",
-        "欧州を記録的熱波が直撃——スペインで200人超死亡、フランス・イタリアでも被害拡大",
-        "日本代表、W杯決勝トーナメント制覇へ——次戦のブラジル戦に向け森保監督が戦略を語る",
-        "OpenAI、「GPT-5.6」の一般公開を見送り——リリースは特定パートナー限定か、上場計画も来年に延期",
-        "Claude Codeのsettings.json階層を理解する——user/project/localの優先順位と最小設定の実践",
-        "AWS Transform – Continuous Modernizationプレビュー——AIエージェントがリポジトリを継続スキャン",
-        "「OpenAIはAzureだけ」の時代が終了——GPT-5.5とCodexエージェントがAWSでも利用可能に",
-        "Introducing Claude Opus 4.8 — Stronger Agentic Judgment, Dynamic Workflows, and 2.5× Fast Mode",
-        "An Entire Herculaneum Scroll Read for the First Time — AI and X-Ray Imaging Unlock 2,000-Year-Old Papyrus",
-        "OpenKnowledge — Open Source AI-Native Alternative to Obsidian and Notion Debuts on Hacker News"
       ]
     }
   ]

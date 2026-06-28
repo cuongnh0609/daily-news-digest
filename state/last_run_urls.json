@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-28T20:00:00+09:00",
+  "last_run_at": "2026-06-29T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-29T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6586034",
+        "https://news.yahoo.co.jp/pickup/6586042",
+        "https://www.jiji.com/jc/article?k=2026062800509&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6586038",
+        "https://www.jiji.com/jc/article?k=2026062800457&g=int&m=rss",
+        "https://zenn.dev/nrs/articles/e4a2ae8a9fb785",
+        "https://zenn.dev/breakbot/articles/53e7f1c6564f26",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2606/28/news006.html",
+        "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/",
+        "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/",
+        "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise"
+      ],
+      "titles": [
+        "日韓防衛相が会談――AI・宇宙など新分野での連携強化を確認",
+        "ロシア兵器の9割に日本企業製部品――ウクライナが輸出管理強化を要求",
+        "フランス東部で小型機が墜落、スカイダイビング参加者ら11人全員死亡",
+        "岐阜・可児市でドラッグストアに車が突入、歩行中の女性が死亡",
+        "ベネズエラ大地震、72時間超えて11歳男児が生存救出――死者1430人に",
+        "ループエンジニアリングを「takt exec」で気軽に始める――人間がプロンプトを書く時代の次へ",
+        "Claude Codeセッションを「見下ろし型オフィス」として可視化するデスクトップアプリを自作",
+        "ひろゆき「SIer衰退」予測の深層――2026年を生き残るエンジニアに求められる4つの役割",
+        "Prompt Injection as Role Confusion: New Research Reveals Why LLMs Can't Distinguish System vs. User Text",
+        "Temporary Cloudflare Accounts for AI Agents: Deploy Workers in 60 Minutes Without Signing Up",
+        "MAI-Code-1-Flash Now GA for GitHub Copilot — Microsoft's First Proprietary Coding Model in Copilot"
+      ]
+    },
     {
       "run_at": "2026-06-28T20:00:00+09:00",
       "urls": [

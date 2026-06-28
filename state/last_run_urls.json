@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-28T10:00:00+09:00",
+  "last_run_at": "2026-06-28T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-28T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026062800260&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6585991?source=rss",
+        "https://www.jiji.com/jc/article?k=2026062800120&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062700412&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062800268&g=spo&m=rss",
+        "https://zenn.dev/forest_project/articles/a62fc2f6ac85ff",
+        "https://zenn.dev/masahide/articles/0d4016e8ea5a25",
+        "https://www.publickey1.jp/blog/26/awsaws_contiuumai.html",
+        "https://www.anthropic.com/news/claude-opus-4-8",
+        "https://www.anthropic.com/news/expanding-project-glasswing",
+        "https://simonwillison.net/2026/Jun/25/ai-and-liability/"
+      ],
+      "titles": [
+        "歌手・俳優の美輪明宏さんが91歳で逝去——「ヨイトマケの唄」「黒蜥蜴」など名作を残す",
+        "近畿・中国・四国で台風通過後の土砂崩れが相次ぐ——地盤緩みによる二次災害に警戒",
+        "猛暑のパリで109人が死亡——ドイツでは最高気温41.5度、欧州全土に熱波警報",
+        "比例代表定数45削減案——参政党・共産党は議席半減、国民民主党は3分の2に",
+        "メッシ、史上初の7試合連続得点——W杯アルゼンチン戦でまたも歴史塗り替え",
+        "AIの日本語が「整いすぎて不自然」——その正体は「カルク（訳語臭）」だった",
+        "RX 9070 XT 16GBでローカルLLMのAIコーディングエージェント環境を構築する",
+        "AWS Continuum発表——コード・インフラ・ビジネスコンテキストを横断してAIが脆弱性を推論",
+        "Introducing Claude Opus 4.8 — Better Agentic Judgment, Dynamic Workflows, and 3× Cheaper Fast Mode",
+        "Expanding Project Glasswing — Anthropic Extends AI Security Scanning to 150 New Critical Infrastructure Organizations",
+        "AI and Liability: German Court Rules Google Liable for AI Overview Errors — A Precedent That Could Reshape the Industry"
+      ]
+    },
     {
       "run_at": "2026-06-28T10:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "OpenAI Previews GPT-5.6 \"Sol\" Series — U.S. Government to Vet Who Gets Access to Next-Gen Models",
         "US Allows Anthropic to Release Mythos 5 to \"Trusted Partners\" — Partial Lift of Export Control Directive",
         "The Gap Between Open-Weight and Closed-Source LLMs Is Closing — Analysis Shows December 2026 Convergence"
-      ]
-    },
-    {
-      "run_at": "2026-06-27T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585812?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585818?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585821?source=rss",
-        "https://www.jiji.com/jc/article?k=2026062600773&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062601000&g=pol&m=rss",
-        "https://zenn.dev/explaza/articles/d0aeb08fcd1888",
-        "https://www.itmedia.co.jp/aiplus/article/2606/26/2000000131/",
-        "https://zenn.dev/mkj/articles/40a6c187d2dbc9",
-        "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
-        "https://github.com/workweave/router",
-        "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/"
-      ],
-      "titles": [
-        "ダブル台風が27日に列島直撃へ——ピークは2回、終日大雨に厳重警戒",
-        "山口県で土砂流入——住宅1階が埋没、70代男性の行方不明が続く",
-        "山梨で震度6弱——気象庁「地盤が緩み、今後の大雨で土砂災害の恐れ」",
-        "ベネズエラ大地震で死者580人超——政府の初動遅れに市民から批判の声",
-        "法務省が再審見直しの公文書を廃棄——検証困難に、野党が問題視",
-        "個人のプロンプト術をやめ、チームで回るAI駆動開発ループを構築——「interview-dev-loop」の実践",
-        "Amazon Bedrockのトークン処理量、2026年1Q単期で過去累計超え——AWSが「信頼できるAIインフラ」へ3.8兆円投資",
-        "LLMが書いた「正しそうな言葉」に感じる違和感——「主張を所有する」ことの重要性",
-        "Microsoft's MAI-Code-1-Flash Now Generally Available for GitHub Copilot Business and Enterprise",
-        "Workweave Router: Smart Model Routing Across Claude, Codex, and Cursor — 40–70% Cost Reduction",
-        "What Happened After 2,000 People Tried to Hack My AI Assistant — Prompt Injection Resistance in Frontier Models"
       ]
     }
   ]

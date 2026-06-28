@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-28T15:00:00+09:00",
+  "last_run_at": "2026-06-28T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-28T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6586019?source=rss",
+        "https://news.yahoo.co.jp/pickup/6586027?source=rss",
+        "https://news.yahoo.co.jp/pickup/6586029?source=rss",
+        "https://news.yahoo.co.jp/pickup/6586013?source=rss",
+        "https://www.jiji.com/jc/article?k=2026062800332&g=spo&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/28/news020.html",
+        "https://zenn.dev/masa0902dev/articles/clc-claude-code-rate",
+        "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html",
+        "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
+        "https://github.com/itsthelore/wayfinder-router",
+        "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/"
+      ],
+      "titles": [
+        "賃金の地域間格差が初めて15万円超に——東京集中で25年の春闘が不均衡を拡大",
+        "鹿児島市でタクシーが横断中の自転車をはねる——女性が死亡、安全意識への問い",
+        "大阪市の工場で火災、隣接建物に延焼——消防が約2時間かけて鎮圧",
+        "「軽タクシー」解禁で現場から反発——北九州で全国初の運行、プロドライバーは懸念",
+        "W杯グループリーグ最終節——日本は30日未明にブラジルと激突、ベスト16をかけた大一番",
+        "OpenAI、次世代AI「GPT-5.6」を限定プレビュー——3モデル構成・最大750トークン/秒、米政府が全面公開を抑制",
+        "Claude Codeのレート残量をCLI一発で確認——Python製ツール「clc」がターミナルで使用状況を可視化",
+        "GitLab、AIエージェント向け次世代SCMサービス「Project Switch」発表——最大50倍高速化、トークン消費を半減",
+        "Stack Overflow for Agents: A Platform Where AI Agents Share Technical Knowledge Across Organizations",
+        "Wayfinder Router: Deterministic LLM Routing Without Calling a Model to Decide",
+        "What Happened After 2,000 People Tried to Hack My AI Assistant — A Prompt Injection Red Team Study"
+      ]
+    },
     {
       "run_at": "2026-06-28T15:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "US Lifts Export Controls on Anthropic's Mythos 5 — Partial Access Granted to 100+ Trusted Organizations",
         "OpenAI Agents SDK Introduces Sandbox Agents — Isolated Execution Environments for Safe Agentic Workflows",
         "AI in Mathematics Is Forcing Big Questions — From IMO Gold Medals to Autonomous Ph.D.-Level Research"
-      ]
-    },
-    {
-      "run_at": "2026-06-27T10:01:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260627/k10015162281000.html",
-        "http://www3.nhk.or.jp/news/html/20260627/k10015162351000.html",
-        "http://www3.nhk.or.jp/news/html/20260627/k10015162291000.html",
-        "https://news.yahoo.co.jp/pickup/6585839?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585842?source=rss",
-        "https://zenn.dev/manalink_dev/articles/ai-coding-era-review-to-dev-process-not-human",
-        "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000134/",
-        "https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html",
-        "https://openai.com/index/previewing-gpt-5-6-sol/",
-        "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
-        "https://blog.doubleword.ai/frontier-os-llm"
-      ],
-      "titles": [
-        "台風7号が近畿から関東に接近——非常に激しい雨で土砂災害・河川氾濫に厳重警戒",
-        "山梨県で震度6弱——17人が負傷、被害状況の把握が続く",
-        "米軍がイランの軍事施設を爆撃——前日の貨物船攻撃への報復と主張",
-        "プーチン大統領の最側近・イワノフ元国防副大臣が死去——ロシア政界に衝撃",
-        "養子縁組した男子にも皇位継承資格——政府の皇室典範改正案が明らかに",
-        "AI時代のコードレビューは人に向けるな、仕組みに向けろ——レビュー文化のパラダイムシフト",
-        "OpenAI、次世代モデル「GPT-5.6」シリーズを限定プレビュー——「Sol」「Terra」「Luna」に命名刷新",
-        "AWS FinOps Agent、パブリックプレビュー開始——AIがAWSコストの問題箇所を自動診断",
-        "OpenAI Previews GPT-5.6 \"Sol\" Series — U.S. Government to Vet Who Gets Access to Next-Gen Models",
-        "US Allows Anthropic to Release Mythos 5 to \"Trusted Partners\" — Partial Lift of Export Control Directive",
-        "The Gap Between Open-Weight and Closed-Source LLMs Is Closing — Analysis Shows December 2026 Convergence"
       ]
     }
   ]

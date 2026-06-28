@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-29T00:00:00+09:00",
+  "last_run_at": "2026-06-29T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-29T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6586049",
+        "https://news.yahoo.co.jp/pickup/6586032",
+        "https://www.jiji.com/jc/article?k=2026062800345&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062800120&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062800136&g=int&m=rss",
+        "https://zenn.dev/upgradetech/articles/84fce7d81b9ed3",
+        "https://zenn.dev/bit_and_coffee/articles/gexam-practice-app",
+        "https://www.publickey1.jp/blog/26/deno_292webviewdeno_desktop.html",
+        "https://antoine.fi/mri-analysis-using-claude-code-opus",
+        "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+        "https://anthropic.com/news/claude-corps"
+      ],
+      "titles": [
+        "青森・八甲田山系でクマ被害か — 「タケノコ採りの友人が戻らない」通報で捜索、クマのそばに人発見",
+        "韓国がW杯グループリーグで敗退 — 李在明大統領が自身のSNSで「組織と人事の失敗」と異例の批判",
+        "日本対ブラジル — 移動距離に約2倍の格差、環境克服も「大きなポイント」と森保監督",
+        "欧州熱波が深刻化 — フランスで死者1000人増、ドイツでは最高気温41.5度を記録",
+        "米軍がイランの複数の軍事目標を空爆 — 連日の応酬でトランプ大統領が「本格戦闘」を警告",
+        "Copilot Studioエージェントを「バイブコーディング」で開発 — Claude Codeで設計図（ハーネス）を作りAgentic Loopを実装",
+        "スマホだけでWebアプリ開発 — ChatGPT+Codexをエージェントとして活用、G検定対策アプリをFirebaseで公開",
+        "Deno 2.9正式リリース — 起動速度2倍・消費メモリ半減、WebViewでデスクトップアプリが作れる「Deno Desktop」登場",
+        "Using Claude Opus 4.8 to Get a Second Opinion on an MRI — A Multi-Agent Medical Imaging Experiment",
+        "Tokenmaxxing Is Dead, Long Live Tokenmaxxing — How \"Compounding Correctness\" Reshapes Agentic Engineering Economics",
+        "Anthropic Launches Claude Corps — $150M Fellowship Placing 1,000 Professionals at Nonprofits to Bridge the AI Opportunity Gap"
+      ]
+    },
     {
       "run_at": "2026-06-29T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "DeepSeek Open-Sources DSpark: 60–85% Faster LLM Inference via Kernel-Level Optimizations",
         "GitHub Copilot Code Review Now 20% Cheaper — CLI-Based File Tools Replace Custom Explorers",
         "Simon Willison: Building a Browser Compatibility SQLite DB with Claude Code and the MDN MCP Server"
-      ]
-    },
-    {
-      "run_at": "2026-06-27T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585868?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585858?source=rss",
-        "https://www.jiji.com/jc/article?k=2026062700166&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062700153&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/26/news138.html",
-        "https://zenn.dev/kenji_harada/articles/conway-anthropic",
-        "https://zenn.dev/noragrammer/articles/soloxp-intro",
-        "https://zenn.dev/libercraft/articles/20260626-agentic-search-no-index",
-        "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-        "https://developers.openai.com/api/docs/guides/agents/sandboxes",
-        "https://spectrum.ieee.org/ai-in-mathematics"
-      ],
-      "titles": [
-        "台風7号が関東に接近——大雨・暴風に厳重警戒",
-        "福岡で住宅地が陥没——大雨による地盤沈下、複数棟に影響",
-        "北京の高層ビルに小型機が衝突か——当局は発表を控える",
-        "イランが米軍基地に報復攻撃——中東情勢が緊迫化",
-        "KDDIでフィッシング起因のデータ漏洩——顧客情報が流出の恐れ",
-        "Conway解剖：Anthropicの常時稼働エージェントプラットフォームをコードから読み解く",
-        "SoloXP——スマホとClaude Codeで5ヶ月半720PRを回したソロ開発ハーネス",
-        "RAGを捨てる：インデックスなしのAgentic Searchでベクトル検索を超える",
-        "US Lifts Export Controls on Anthropic's Mythos 5 — Partial Access Granted to 100+ Trusted Organizations",
-        "OpenAI Agents SDK Introduces Sandbox Agents — Isolated Execution Environments for Safe Agentic Workflows",
-        "AI in Mathematics Is Forcing Big Questions — From IMO Gold Medals to Autonomous Ph.D.-Level Research"
       ]
     }
   ]

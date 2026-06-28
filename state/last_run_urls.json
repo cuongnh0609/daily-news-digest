@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-28T05:00:00+09:00",
+  "last_run_at": "2026-06-28T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-28T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6585965?source=rss",
+        "https://www.jiji.com/jc/article?k=2026062800136&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062700396&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062800101&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062800145&g=soc&m=rss",
+        "https://zenn.dev/yukkie1114/articles/3d927e8c28e085",
+        "https://zenn.dev/babyjob/articles/ai-promotion-4months-practice",
+        "https://www.publickey1.jp/blog/26/aws_lambda_microvms.html",
+        "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+        "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+        "https://www.itmedia.co.jp/news/articles/2606/26/news059.html"
+      ],
+      "titles": [
+        "W杯決勝トーナメント、日本対ブラジル戦にイタリア審判団——マウリツィオ・マリアーニ主審が担当",
+        "米軍、イランの複数の軍事目標を空爆——連日の応酬でトランプ大統領が本格戦闘を警告",
+        "北米貿易協定（USMCA）が初の見直しへ——トランプ政権が延長に消極的、2国間協議が焦点に",
+        "ベネズエラ大地震、死者1400人超——72時間経過も捜索・救助活動が続く",
+        "仏アヌシー映画祭で日本映画「花緑青が明ける日に」が審査員賞——国際アニメーション界で存在感",
+        "Claude CodeとCodexのコードレビュー機能をOWASP Benchmarkで検証——Codex /review が最高スコア0.964を達成",
+        "AI推進専任4ヶ月で辿り着いた答え——現場観察・ツール標準化・継続検証の3本柱",
+        "AWS Lambda MicroVMs登場——サーバレスの手軽さで最大8時間のステートフル隔離実行環境を提供",
+        "Asian AI Startups Launch Frontier Models as Anthropic Export Ban Creates Market Vacuum",
+        "GitHub Desktop 3.6: Git Worktrees and Deeper Copilot Integration for Agentic Workflows",
+        "IBM Unveils World-First Sub-1nm Chip Technology \"Nanostack\" — 50% Performance Boost for AI Workloads"
+      ]
+    },
     {
       "run_at": "2026-06-28T05:00:00+09:00",
       "urls": [

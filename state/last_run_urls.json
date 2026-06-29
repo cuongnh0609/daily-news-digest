@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-30T00:00:00+09:00",
+  "last_run_at": "2026-06-30T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-30T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026063000068&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062901112&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6586161",
+        "https://news.yahoo.co.jp/pickup/6586135",
+        "https://www.itmedia.co.jp/news/articles/2606/29/news103.html",
+        "https://zenn.dev/kaihatsu_biyori/articles/claude-code-subagent-basics",
+        "https://zenn.dev/muramasa0228/articles/2026-06-29-agent-memory-3-layer",
+        "https://zenn.dev/okssusucha/articles/20260629-decoupled-search-grounding-dsg",
+        "https://simonwillison.net/2026/Jun/29/ornith/",
+        "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+        "https://quesma.com/blog/qwen-36-is-awesome/"
+      ],
+      "titles": [
+        "日本、W杯でブラジルに1-2で敗退——後半ロスタイムに逆転弾を浴びる",
+        "米最高裁、FRB理事の解任を認めず——中央銀行の独立性を支持する歴史的判断",
+        "東京・足立区の小学校で集団食中毒——給食後に児童139人が嘔吐・下痢",
+        "指名手配中の八田容疑者、目撃情報の半数近くが関東地方に集中",
+        "アップルが中国製メモリの調達を模索か——米政権へのロビー活動報道",
+        "Claude Codeのサブエージェントとは？——並行処理とコンテキスト分離の基本設計",
+        "エージェント長期記憶の3層設計——mcp__memoryを捨てファイル＋grepを選んだ理由",
+        "LLMから検索を切り離すDSG設計——DoorDashが検索コストを91%削減",
+        "Ornith-1.0: Open-Source Self-Scaffolding LLMs Purpose-Built for Agentic Coding",
+        "Claude Opus 4.8 Fast Mode Now in Preview for GitHub Copilot Subscribers",
+        "Qwen 3.6 27B: The First Local AI Model That Feels Like a Frontier Model"
+      ]
+    },
     {
       "run_at": "2026-06-30T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Prompt Injection as Role Confusion: New Research Reveals Why LLMs Can't Distinguish System vs. User Text",
         "Temporary Cloudflare Accounts for AI Agents: Deploy Workers in 60 Minutes Without Signing Up",
         "MAI-Code-1-Flash Now GA for GitHub Copilot — Microsoft's First Proprietary Coding Model in Copilot"
-      ]
-    },
-    {
-      "run_at": "2026-06-28T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586019?source=rss",
-        "https://news.yahoo.co.jp/pickup/6586027?source=rss",
-        "https://news.yahoo.co.jp/pickup/6586029?source=rss",
-        "https://news.yahoo.co.jp/pickup/6586013?source=rss",
-        "https://www.jiji.com/jc/article?k=2026062800332&g=spo&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/28/news020.html",
-        "https://zenn.dev/masa0902dev/articles/clc-claude-code-rate",
-        "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html",
-        "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
-        "https://github.com/itsthelore/wayfinder-router",
-        "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/"
-      ],
-      "titles": [
-        "賃金の地域間格差が初めて15万円超に——東京集中で25年の春闘が不均衡を拡大",
-        "鹿児島市でタクシーが横断中の自転車をはねる——女性が死亡、安全意識への問い",
-        "大阪市の工場で火災、隣接建物に延焼——消防が約2時間かけて鎮圧",
-        "「軽タクシー」解禁で現場から反発——北九州で全国初の運行、プロドライバーは懸念",
-        "W杯グループリーグ最終節——日本は30日未明にブラジルと激突、ベスト16をかけた大一番",
-        "OpenAI、次世代AI「GPT-5.6」を限定プレビュー——3モデル構成・最大750トークン/秒、米政府が全面公開を抑制",
-        "Claude Codeのレート残量をCLI一発で確認——Python製ツール「clc」がターミナルで使用状況を可視化",
-        "GitLab、AIエージェント向け次世代SCMサービス「Project Switch」発表——最大50倍高速化、トークン消費を半減",
-        "Stack Overflow for Agents: A Platform Where AI Agents Share Technical Knowledge Across Organizations",
-        "Wayfinder Router: Deterministic LLM Routing Without Calling a Model to Decide",
-        "What Happened After 2,000 People Tried to Hack My AI Assistant — A Prompt Injection Red Team Study"
       ]
     }
   ]

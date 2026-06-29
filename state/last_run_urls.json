@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-29T05:00:00+09:00",
+  "last_run_at": "2026-06-29T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-29T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6586066",
+        "https://news.yahoo.co.jp/pickup/6586063",
+        "https://news.yahoo.co.jp/pickup/6586059",
+        "https://www.jiji.com/jc/article?k=2026062900104&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062900147&g=spo&m=rss",
+        "https://zenn.dev/ttaniguchi/articles/hands-on-harness-engineering",
+        "https://zenn.dev/z001_001/articles/e1b0171dc70100",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2606/29/news055.html",
+        "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+        "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+        "https://github.com/openai/codex/issues/2847"
+      ],
+      "titles": [
+        "近鉄京都線で列車が脱線——乗客32人に怪我なし、京都—上鳥羽口間で運転見合わせ",
+        "能登復興住宅の整備費、熊本地震の1.6倍に高騰——資材・人件費の上昇と輸送コストが重荷",
+        "ブタの腎臓を人へ移植する異種移植、国内で2028年にも治験開始の見通し",
+        "米イランが攻撃停止で合意——カタールで30日に覚書協議、船舶の安全航行を確保へ",
+        "小椋藍がMotoGP初優勝——日本人ライダーとして22年ぶりの快挙",
+        "ハーネスエンジニアリングは、AI時代のチームビルディングだった——AIを開発チームの正式メンバーとして迎える実践論",
+        "Rustの安定ABI問題と「crABI」——バイナリ互換性という長年の課題に挑む新アプローチ",
+        "Accenture・Microsoft共同の「エージェンティック・ファクトリー」——製造現場の"隠れた問題"をAIが自律発見・対処提案",
+        "GLM 5.2 Outperforms Claude on Cyber Security Benchmarks — Semgrep's Independent Evaluation",
+        "Mass AI Fraud at Brown University — Professor Reports Entire Class Used AI for Exam, Academic Integrity Crisis Deepens",
+        "OpenAI Codex CLI Still Can't Exclude Sensitive Files from Context — 17,000+ Star Repo Has Open Issue Since April"
+      ]
+    },
     {
       "run_at": "2026-06-29T05:00:00+09:00",
       "urls": [

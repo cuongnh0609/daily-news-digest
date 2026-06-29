@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-29T10:00:00+09:00",
+  "last_run_at": "2026-06-29T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-29T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6586100",
+        "https://www.jiji.com/jc/article?k=2026062900460&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6586098",
+        "https://www.jiji.com/jc/article?k=2026062900469&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062900441&g=flash&m=rss",
+        "https://zenn.dev/nexta_/articles/858e92ee22b4a4",
+        "https://zenn.dev/inventit/articles/secure-ai-agent-local-vm",
+        "https://zenn.dev/branbran/articles/5730c47e1abac9",
+        "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
+        "https://simonwillison.net/2026/Jun/26/openai/",
+        "https://www.itmedia.co.jp/news/articles/2606/26/news060.html"
+      ],
+      "titles": [
+        "沖縄地方が梅雨明け――平年より8日遅く、熱中症への警戒を呼びかけ",
+        "中国が対日輸出規制を拡大――禁輸リストに新たに20団体を追加、計40社・機関に",
+        "がん拠点病院の9割で薬物治療専門医が不足――診療体制の地域格差が深刻化",
+        "皇室典範改正案で与野党が対立――養子縁組した子の皇位継承権めぐり議論紛糾",
+        "王将社長射殺事件、検察が被告に無期懲役を求刑――「周到な計画、反社会性大きい」",
+        "Claude Codeの学習サイクル：同じバグを3回出すと自動でCLAUDE.mdにルール化される仕組みを構築",
+        "Claude Code/Codexを安全に動かすmacOS VM基盤――Limaで作る権限境界のある隔離エージェント環境",
+        "Claude Designの実践的な活用方法――AIがUI設計のパートナーに",
+        "GitHub Copilot Agentic Harness Benchmarked Across Models — On-Par with Vendor Harnesses at Lower Token Cost",
+        "OpenAI Launches GPT-5.6 Series: Three Models (Sol, Terra, Luna) with New Prompt Caching and Tiered Pricing",
+        "Notion Shuts Down Notion Mail, Pivots Entirely to AI Agents — Notion 3.0 Bets on Autonomous Workflows"
+      ]
+    },
     {
       "run_at": "2026-06-29T10:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Anthropic Introduces Claude Tag — AI as a Permanent Slack Team Member with Async Agent Capabilities",
         "TypeScript 7.0 RC: Compiler Ported to Go for 10× Build Speed — Native Binary, Parallel Processing",
         "AI Is Designing Radio Chips That Humans Couldn't Even Imagine — RL + Diffusion Models Break RFIC Design Paradigm"
-      ]
-    },
-    {
-      "run_at": "2026-06-28T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585938?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585928?source=rss",
-        "https://www.jiji.com/jc/article?k=2026062700528&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062700164&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062601193&g=pol&m=rss",
-        "https://zenn.dev/acntechjp/articles/22f7b6f9258008",
-        "https://zenn.dev/sc30gsw/articles/d7320f1247b785",
-        "https://zenn.dev/layerx/articles/6f510abfc3fa72",
-        "https://simonwillison.net/2026/Jun/22/porting-moebius/",
-        "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
-        "https://simonwillison.net/2026/Jun/17/glm-52/"
-      ],
-      "titles": [
-        "政府が太平洋防衛に無人潜水艇を検討——小笠原上空に防空識別圏の設定も",
-        "台風増水の川でSUP中に2人溺死——110番は無音通報、警察が急行",
-        "山梨県東部の地震はフィリピン海プレート起因——政府調査委が分析を発表",
-        "政府が熱中症死者数「1000人未満」の目標設定へ——クーリングシェルターも全市区町村へ",
-        "高市首相が予算委出席を拒否——野党5党が審議拒否、終盤国会が空転",
-        "シニアエンジニアがコードをほぼ書かなくなった理由——Spec-Driven開発とClaudeへの仕事の委譲",
-        "Generative UIにJSONは最適か？——OpenUI Langという新たな選択肢の可能性",
-        "AI時代だからこそコードを「読む」力が重要——LayerXエンジニアが語る自走できないAI活用の落とし穴",
-        "Porting a Vision AI Model to Run Entirely in the Browser Using Claude Code and WebGPU",
-        "GitHub Actions Now Supports Truly Parallel Steps with a New background Keyword",
-        "GLM-5.2: The Most Capable Open-Weights Text LLM Now Available, Trailing Only Claude Fable 5 on Coding Benchmarks"
-      ]
-    },
-    {
-      "run_at": "2026-06-27T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585913?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585903?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585904?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585916?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/25/news113.html",
-        "https://zenn.dev/aws_japan/articles/aws-blocks-source-reading",
-        "https://zenn.dev/uguisu_blog/articles/d777bd252bab6b",
-        "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/",
-        "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-        "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-        "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything"
-      ],
-      "titles": [
-        "政府「骨太方針」で日銀をけん制――金利政策への圧力が焦点に",
-        "異例のダブル台風が列島各地に被害――山口・静岡で土砂崩れ、交通も乱れ",
-        "山口の土砂崩れで行方不明の男性発見・死亡確認――台風7号の爪痕",
-        "大坂なおみ、ウィンブルドン準決勝で途中棄権――右足の痛みに屈す",
-        "OpenAI、独自開発AIチップ「Jalapeno」を発表――Broadcom共同設計、推論特化で9ヶ月開発",
-        "コーディングエージェント時代のフルスタック開発——AWS Blocksのソースコードから学ぶ Infrastructure from Code",
-        "会議中にClaudeが「次に聞くべきこと」を提案してくれる議事録アプリを自作してみた",
-        "AnthropicのAIモデル「Mythos 5」、米国の一部組織に限定再提供——政府許可を経て輸出規制から部分解除",
-        "DeepSeek Open-Sources DSpark: 60–85% Faster LLM Inference via Kernel-Level Optimizations",
-        "GitHub Copilot Code Review Now 20% Cheaper — CLI-Based File Tools Replace Custom Explorers",
-        "Simon Willison: Building a Browser Compatibility SQLite DB with Claude Code and the MDN MCP Server"
       ]
     }
   ]

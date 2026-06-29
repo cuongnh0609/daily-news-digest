@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-29T15:00:00+09:00",
+  "last_run_at": "2026-06-29T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-29T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026062900718&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062900621&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062900732&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062900211&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6586126?source=rss",
+        "https://zenn.dev/takupeso/articles/claude-ontology-knowledge-structuring",
+        "https://zenn.dev/yottayoshida/articles/rag-knowledge-ops-agent-search",
+        "https://www.itmedia.co.jp/enterprise/articles/2606/29/news068.html",
+        "https://aleph-alpha.com/en/blog/model-training-as-code/",
+        "https://danunparsed.com/p/hackerrank-open-source-ats",
+        "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel"
+      ],
+      "titles": [
+        "亀梨和也さんと田中みな実さんが結婚発表――第１子の妊娠も明らかに",
+        "与党が衆院議員定数削減法案の審議入りを強行――野党5党が欠席し国会は異常事態に",
+        "バヌアツが豪州と安全保障協定に署名――中国の軍事基地構想を事実上拒否",
+        "近鉄京都線で始発電車が脱線――約8万5千人に影響、運輸安全委が調査開始",
+        "7月上旬に北日本・北陸で高温予測――気象庁が早期天候情報を発表、熱中症に警戒を",
+        "Claudeに「オントロジー」を持たせたらコスト半分・3倍速に――MCP memoryでグラフ構造を実装する知識管理術",
+        "RAGを「作る」から「運用する」へ――Agent Searchとパイプライン自動化で知識品質を継続維持する実践",
+        "GartnerがAIエージェント投資の「FDVAACスコアリング」を公開――2026〜2030年の段階的自律化ロードマップも提示",
+        "Model Training as Code: Aleph Alpha's Savanna Pipeline Makes ML Experiments as Reproducible as Software Builds",
+        "HackerRank's Open-Source ATS Scores Same Resume 66 to 99 — LLM Variance Makes It Random Candidate Filtering",
+        "GitHub Actions Steps Can Now Run in Parallel — New background Keyword Eliminates CI/CD Sequential Bottlenecks"
+      ]
+    },
     {
       "run_at": "2026-06-29T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Introducing Claude Opus 4.8 — Better Agentic Judgment, Dynamic Workflows, and 3× Cheaper Fast Mode",
         "Expanding Project Glasswing — Anthropic Extends AI Security Scanning to 150 New Critical Infrastructure Organizations",
         "AI and Liability: German Court Rules Google Liable for AI Overview Errors — A Precedent That Could Reshape the Industry"
-      ]
-    },
-    {
-      "run_at": "2026-06-28T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585965?source=rss",
-        "https://www.jiji.com/jc/article?k=2026062800136&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062700396&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062800101&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062800145&g=soc&m=rss",
-        "https://zenn.dev/yukkie1114/articles/3d927e8c28e085",
-        "https://zenn.dev/babyjob/articles/ai-promotion-4months-practice",
-        "https://www.publickey1.jp/blog/26/aws_lambda_microvms.html",
-        "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-        "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
-        "https://www.itmedia.co.jp/news/articles/2606/26/news059.html"
-      ],
-      "titles": [
-        "W杯決勝トーナメント、日本対ブラジル戦にイタリア審判団——マウリツィオ・マリアーニ主審が担当",
-        "米軍、イランの複数の軍事目標を空爆——連日の応酬でトランプ大統領が本格戦闘を警告",
-        "北米貿易協定（USMCA）が初の見直しへ——トランプ政権が延長に消極的、2国間協議が焦点に",
-        "ベネズエラ大地震、死者1400人超——72時間経過も捜索・救助活動が続く",
-        "仏アヌシー映画祭で日本映画「花緑青が明ける日に」が審査員賞——国際アニメーション界で存在感",
-        "Claude CodeとCodexのコードレビュー機能をOWASP Benchmarkで検証——Codex /review が最高スコア0.964を達成",
-        "AI推進専任4ヶ月で辿り着いた答え——現場観察・ツール標準化・継続検証の3本柱",
-        "AWS Lambda MicroVMs登場——サーバレスの手軽さで最大8時間のステートフル隔離実行環境を提供",
-        "Asian AI Startups Launch Frontier Models as Anthropic Export Ban Creates Market Vacuum",
-        "GitHub Desktop 3.6: Git Worktrees and Deeper Copilot Integration for Agentic Workflows",
-        "IBM Unveils World-First Sub-1nm Chip Technology \"Nanostack\" — 50% Performance Boost for AI Workloads"
-      ]
-    },
-    {
-      "run_at": "2026-06-28T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6585937?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585934?source=rss",
-        "https://news.yahoo.co.jp/pickup/6585926?source=rss",
-        "https://www.jiji.com/jc/article?k=2026062800002&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062700515&g=soc&m=rss",
-        "https://zenn.dev/propagandist/articles/0004-spring-boot-otel-claude-observability",
-        "https://zenn.dev/singularity/articles/2026-06-26-mulmoclaude-html-tailwind-animation",
-        "https://zenn.dev/google_cloud_jp/articles/63205d90345627",
-        "https://www.anthropic.com/news/introducing-claude-tag",
-        "https://www.publickey1.jp/blog/26/typescriptgo10typescript_70.html",
-        "https://spectrum.ieee.org/ai-radio-chip-design"
-      ],
-      "titles": [
-        "台風通過後も土砂災害に警戒——雨が止んでも地盤の緩みに注意",
-        "静岡・南伊豆で軽トラが横転死亡——道路脇の垂れたワイヤーに絡まる台風絡みの事故",
-        "大分市で車が川に転落——流されかけた2歳児2人を救助",
-        "山梨地震はフィリピン海プレートが起因——政府調査委が臨時会合で評価",
-        "原発事故15年——福島・双葉で米仏も参加の国際ワークショップ開催",
-        "Spring Boot × Claude API × OpenTelemetry——LLM呼び出しのレイテンシ・コスト・トークン消費をリアルタイム可視化",
-        "MulmoClaude でコードゼロのAI動画制作——note記事をアニメーション付きプレゼン動画に変換",
-        "GeminiをClaudeのサブエージェントに——マルチモデル構成で実測27〜64%のコスト削減",
-        "Anthropic Introduces Claude Tag — AI as a Permanent Slack Team Member with Async Agent Capabilities",
-        "TypeScript 7.0 RC: Compiler Ported to Go for 10× Build Speed — Native Binary, Parallel Processing",
-        "AI Is Designing Radio Chips That Humans Couldn't Even Imagine — RL + Diffusion Models Break RFIC Design Paradigm"
       ]
     }
   ]

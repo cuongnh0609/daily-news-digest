@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-29T20:00:00+09:00",
+  "last_run_at": "2026-06-30T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-30T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6586160",
+        "https://www.jiji.com/jc/article?k=2026062900938&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6586152",
+        "https://www.jiji.com/jc/article?k=2026062901025&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026062900998&g=soc&m=rss",
+        "https://zenn.dev/jun_uen0/articles/retry-storm-rebilled-llm-cost",
+        "https://zenn.dev/libercraft/articles/20260629-mcp-production-scaling",
+        "https://zenn.dev/syncable_tech/articles/e51591d58fec49",
+        "https://www.anthropic.com/news/introducing-claude-tag",
+        "https://github.com/ogulcancelik/herdr",
+        "https://www.publickey1.jp/blog/26/pythonmojomodularai.html"
+      ],
+      "titles": [
+        "ニューヨーク外為市場で円が一時39年半ぶりの安値水準に——1ドル161円台後半",
+        "中曽根弘文氏「愛子さまの皇位継承はあり得ない」発言で与野党から批判——「反省している」と釈明",
+        "中国が対日輸出規制をさらに拡大——禁輸リストに20団体を追加、日本企業に困惑広がる",
+        "ドイツ北部の青少年福祉施設で銃撃——5人死亡、容疑者2名を拘束",
+        "八甲田山中でクマ被害か——63歳男性の遺体発見、青森県が初の出没特別警報",
+        "AIの請求がサーバ代を超えた日——LLMコスト爆発の三重構造と防ぐための設計原則",
+        "MCPサーバーを本番でスケールさせる——Streamable HTTP・ステートレスセッション・ケイパビリティ発見の実装",
+        "Claude Codeの!コマンドがシェル出力に自動応答するようになった——デフォルト変更とコストへの影響",
+        "Anthropic Launches Claude Tag — A Team-Native AI Agent That Lives Inside Slack Channels",
+        "Herdr v0.7 — A Rust-Built Terminal Agent Multiplexer That Manages Multiple AI Coding Agents Simultaneously",
+        "Qualcomm Acquires Modular — Mojo Language Creator Joins Chipmaker's Push into AI Datacenter Market"
+      ]
+    },
     {
       "run_at": "2026-06-29T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Stack Overflow for Agents: A Platform Where AI Agents Share Technical Knowledge Across Organizations",
         "Wayfinder Router: Deterministic LLM Routing Without Calling a Model to Decide",
         "What Happened After 2,000 People Tried to Hack My AI Assistant — A Prompt Injection Red Team Study"
-      ]
-    },
-    {
-      "run_at": "2026-06-28T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026062800260&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6585991?source=rss",
-        "https://www.jiji.com/jc/article?k=2026062800120&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062700412&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062800268&g=spo&m=rss",
-        "https://zenn.dev/forest_project/articles/a62fc2f6ac85ff",
-        "https://zenn.dev/masahide/articles/0d4016e8ea5a25",
-        "https://www.publickey1.jp/blog/26/awsaws_contiuumai.html",
-        "https://www.anthropic.com/news/claude-opus-4-8",
-        "https://www.anthropic.com/news/expanding-project-glasswing",
-        "https://simonwillison.net/2026/Jun/25/ai-and-liability/"
-      ],
-      "titles": [
-        "歌手・俳優の美輪明宏さんが91歳で逝去——「ヨイトマケの唄」「黒蜥蜴」など名作を残す",
-        "近畿・中国・四国で台風通過後の土砂崩れが相次ぐ——地盤緩みによる二次災害に警戒",
-        "猛暑のパリで109人が死亡——ドイツでは最高気温41.5度、欧州全土に熱波警報",
-        "比例代表定数45削減案——参政党・共産党は議席半減、国民民主党は3分の2に",
-        "メッシ、史上初の7試合連続得点——W杯アルゼンチン戦でまたも歴史塗り替え",
-        "AIの日本語が「整いすぎて不自然」——その正体は「カルク（訳語臭）」だった",
-        "RX 9070 XT 16GBでローカルLLMのAIコーディングエージェント環境を構築する",
-        "AWS Continuum発表——コード・インフラ・ビジネスコンテキストを横断してAIが脆弱性を推論",
-        "Introducing Claude Opus 4.8 — Better Agentic Judgment, Dynamic Workflows, and 3× Cheaper Fast Mode",
-        "Expanding Project Glasswing — Anthropic Extends AI Security Scanning to 150 New Critical Infrastructure Organizations",
-        "AI and Liability: German Court Rules Google Liable for AI Overview Errors — A Precedent That Could Reshape the Industry"
       ]
     }
   ]

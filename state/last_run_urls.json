@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-30T05:00:00+09:00",
+  "last_run_at": "2026-06-30T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-30T10:00:00+09:00",
+      "urls": [
+        "http://www3.nhk.or.jp/news/html/20260629/k10015163871000.html",
+        "http://www3.nhk.or.jp/news/html/20260629/k10015164231000.html",
+        "http://www3.nhk.or.jp/news/html/20260630/k10015164411000.html",
+        "http://www3.nhk.or.jp/news/html/20260630/k10015164321000.html",
+        "https://news.yahoo.co.jp/pickup/6586195?source=rss",
+        "https://zenn.dev/tan_go238/articles/783a3fc3f11f8d",
+        "https://zenn.dev/estie/articles/29a0968c00b8d3",
+        "https://www.publickey1.jp/blog/26/aws_lambda_microvms.html",
+        "https://www.anthropic.com/news/fable-mythos-access",
+        "https://simonwillison.net/2026/Jun/28/jon-udell/",
+        "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration"
+      ],
+      "titles": [
+        "W杯・日本がブラジルに逆転負け、16強進出ならず——後半アディショナルタイムに2失点",
+        "円相場が一時1ドル161円90銭台——約39年半ぶりの円安水準を記録",
+        "ペルー大統領選、フジモリ元大統領の長女ケイコ氏が勝利と報道",
+        "ベネズエラ大地震、死者が1700人を超える——救助活動が続く中、被害拡大の恐れ",
+        "被疑者の氏名流出問題——元地検支部長が不正記載を指示していたと判明",
+        "AI時代の要件定義で人間に残るのは「アラインメント」という仕事——Spec-Driven開発の本質を考察",
+        "DevOps Agent奮闘記——アラートを起点に運用の一次対応をAIエージェントに任せた実践報告",
+        "AWS Lambda MicroVMs登場——サーバレスの手軽さでステートフルかつ隔離された実行環境を提供",
+        "US Government Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for All Foreign Nationals",
+        "\"It's Our Loop\" — Jon Udell Reframes Agentic Engineering as Human-Led Team Collaboration",
+        "GitHub Desktop 3.6: Native Worktree Support and Deeper Copilot Integration Shipped"
+      ]
+    },
     {
       "run_at": "2026-06-30T05:00:00+09:00",
       "urls": [

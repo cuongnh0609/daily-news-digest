@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-30T20:00:00+09:00",
+  "last_run_at": "2026-07-01T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-01T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6586277",
+        "https://news.yahoo.co.jp/pickup/6586279",
+        "https://news.yahoo.co.jp/pickup/6586281",
+        "https://www.jiji.com/jc/article?k=2026063000935&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2606/30/news161.html",
+        "https://zenn.dev/tan_go238/articles/c94a78a2dea391",
+        "https://zenn.dev/uehaj/articles/claude-code-fork-branch-rewind-btw",
+        "https://zenn.dev/sonicmoov/articles/63a6ae419db43a",
+        "https://www.anthropic.com/news/claude-opus-4-8",
+        "https://www.publickey1.jp/blog/26/windowslinuxwsl_containerswindows2.html",
+        "https://simonwillison.net/2026/Jun/26/incident-report/"
+      ],
+      "titles": [
+        "皇室典範改正案を閣議決定——養子の子息に皇位継承権、宮内庁に戸惑いも",
+        "歴史的円安が続く——1ドル162円台、39年半ぶりの水準で生活への影響拡大",
+        "広島で強盗殺人事件——容疑者は地元の「やんちゃ仲間」、ギャンブル依存で困窮か",
+        "世耕弘成氏の自民党復党問題——参院自民が見解を表明へ、「政治とカネ」への注目続く",
+        "富士山が7月1日に山開き——無謀登山に登山家・野口健氏が警鐘、規制強化を訴える",
+        "仕様の曖昧さをコードで共有する——AI時代の「Spec-Driven」開発における人間の役割とは",
+        "エージェントOS化するClaude Code——/fork・/branch・/rewindをOSのプロセス操作として理解する",
+        "GitHub Copilot・Claude Code・Cursorの裏側を比較——インデックス戦略とHarness設計の違いとは",
+        "Anthropic Launches Claude Opus 4.8 — Dynamic Workflows, Effort Control, and 3× Cheaper Fast Mode",
+        "WSL Containers Goes Public Preview — Run Linux Containers on Windows with 2× File Access Speed",
+        "CVE-2026-LGTM: A Satirical Incident Report on AI Agent Supply Chain Failure — and Why It Rings True"
+      ]
+    },
     {
       "run_at": "2026-06-30T20:00:00+09:00",
       "urls": [
@@ -48,7 +77,7 @@
       "titles": [
         "アフラック生命保険で約438万人分の個人情報が漏えい——口座情報も含まれる可能性",
         "国旗損壊罪を新設する法案が衆院本会議で可決——全野党が欠席し異例の採決に",
-        "円相場が一時1ドル162円台に突入——約39年半ぶりの円安が続く",
+        "円相場が一時1ドル161円90銭台——約39年半ぶりの円安水準を記録",
         "栃木・那須塩原でクマが住宅街に出没——男性が襲われ軽傷",
         "本田圭佑氏「W杯で勝つには哲学の整合性が鍵」——敗退後に分析コメント",
         "Claude Code の Agent Teams で「PM＋作業者」AIチームを構築——複数課題の並列処理と自己改善を実装",
@@ -173,122 +202,6 @@
         "Model Training as Code: Aleph Alpha's Savanna Pipeline Makes ML Experiments as Reproducible as Software Builds",
         "HackerRank's Open-Source ATS Scores Same Resume 66 to 99 — LLM Variance Makes It Random Candidate Filtering",
         "GitHub Actions Steps Can Now Run in Parallel — New background Keyword Eliminates CI/CD Sequential Bottlenecks"
-      ]
-    },
-    {
-      "run_at": "2026-06-29T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586100",
-        "https://www.jiji.com/jc/article?k=2026062900460&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6586098",
-        "https://www.jiji.com/jc/article?k=2026062900469&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062900441&g=flash&m=rss",
-        "https://zenn.dev/nexta_/articles/858e92ee22b4a4",
-        "https://zenn.dev/inventit/articles/secure-ai-agent-local-vm",
-        "https://zenn.dev/branbran/articles/5730c47e1abac9",
-        "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
-        "https://simonwillison.net/2026/Jun/26/openai/",
-        "https://www.itmedia.co.jp/news/articles/2606/26/news060.html"
-      ],
-      "titles": [
-        "沖縄地方が梅雨明け――平年より8日遅く、熱中症への警戒を呼びかけ",
-        "中国が対日輸出規制を拡大――禁輸リストに新たに20団体を追加、計40社・機関に",
-        "がん拠点病院の9割で薬物治療専門医が不足――診療体制の地域格差が深刻化",
-        "皇室典範改正案で与野党が対立――養子縁組した子の皇位継承権めぐり議論紛糾",
-        "王将社長射殺事件、検察が被告に無期懲役を求刑――「周到な計画、反社会性大きい」",
-        "Claude Codeの学習サイクル：同じバグを3回出すと自動でCLAUDE.mdにルール化される仕組みを構築",
-        "Claude Code/Codexを安全に動かすmacOS VM基盤――Limaで作る権限境界のある隔離エージェント環境",
-        "Claude Designの実践的な活用方法――AIがUI設計のパートナーに",
-        "GitHub Copilot Agentic Harness Benchmarked Across Models — On-Par with Vendor Harnesses at Lower Token Cost",
-        "OpenAI Launches GPT-5.6 Series: Three Models (Sol, Terra, Luna) with New Prompt Caching and Tiered Pricing",
-        "Notion Shuts Down Notion Mail, Pivots Entirely to AI Agents — Notion 3.0 Bets on Autonomous Workflows"
-      ]
-    },
-    {
-      "run_at": "2026-06-29T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586066",
-        "https://news.yahoo.co.jp/pickup/6586063",
-        "https://news.yahoo.co.jp/pickup/6586059",
-        "https://www.jiji.com/jc/article?k=2026062900104&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062900147&g=spo&m=rss",
-        "https://zenn.dev/ttaniguchi/articles/hands-on-harness-engineering",
-        "https://zenn.dev/z001_001/articles/e1b0171dc70100",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2606/29/news055.html",
-        "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-        "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-        "https://github.com/openai/codex/issues/2847"
-      ],
-      "titles": [
-        "近鉄京都線で列車が脱線——乗客32人に怪我なし、京都—上鳥羽口間で運転見合わせ",
-        "能登復興住宅の整備費、熊本地震の1.6倍に高騰——資材・人件費の上昇と輸送コストが重荷",
-        "ブタの腎臓を人へ移植する異種移植、国内で2028年にも治験開始の見通し",
-        "米イランが攻撃停止で合意——カタールで30日に覚書協議、船舶の安全航行を確保へ",
-        "小椋藍がMotoGP初優勝——日本人ライダーとして22年ぶりの快挙",
-        "ハーネスエンジニアリングは、AI時代のチームビルディングだった——AIを開発チームの正式メンバーとして迎える実践論",
-        "Rustの安定ABI問題と「crABI」——バイナリ互換性という長年の課題に挑む新アプローチ",
-        "Accenture・Microsoft共同の「エージェンティック・ファクトリー」——製造現場の「隠れた問題」をAIが自律発見・対処提案",
-        "GLM 5.2 Outperforms Claude on Cyber Security Benchmarks — Semgrep's Independent Evaluation",
-        "Mass AI Fraud at Brown University — Professor Reports Entire Class Used AI for Exam, Academic Integrity Crisis Deepens",
-        "OpenAI Codex CLI Still Can't Exclude Sensitive Files from Context — 17,000+ Star Repo Has Open Issue Since April"
-      ]
-    },
-    {
-      "run_at": "2026-06-29T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586049",
-        "https://news.yahoo.co.jp/pickup/6586032",
-        "https://www.jiji.com/jc/article?k=2026062800345&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062800120&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062800136&g=int&m=rss",
-        "https://zenn.dev/upgradetech/articles/84fce7d81b9ed3",
-        "https://zenn.dev/bit_and_coffee/articles/gexam-practice-app",
-        "https://www.publickey1.jp/blog/26/deno_292webviewdeno_desktop.html",
-        "https://antoine.fi/mri-analysis-using-claude-code-opus",
-        "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-        "https://anthropic.com/news/claude-corps"
-      ],
-      "titles": [
-        "青森・八甲田山系でクマ被害か — 「タケノコ採りの友人が戻らない」通報で捜索、クマのそばに人発見",
-        "韓国がW杯グループリーグで敗退 — 李在明大統領が自身のSNSで「組織と人事の失敗」と異例の批判",
-        "日本対ブラジル — 移動距離に約2倍の格差、環境克服も「大きなポイント」と森保監督",
-        "欧州熱波が深刻化 — フランスで死者1000人増、ドイツでは最高気温41.5度を記録",
-        "米軍がイランの複数の軍事目標を空爆 — 連日の応酬でトランプ大統領が「本格戦闘」を警告",
-        "Copilot Studioエージェントを「バイブコーディング」で開発 — Claude Codeで設計図（ハーネス）を作りAgentic Loopを実装",
-        "スマホだけでWebアプリ開発 — ChatGPT+Codexをエージェントとして活用、G検定対策アプリをFirebaseで公開",
-        "Deno 2.9正式リリース — 起動速度2倍・消費メモリ半減、WebViewでデスクトップアプリが作れる「Deno Desktop」登場",
-        "Using Claude Opus 4.8 to Get a Second Opinion on an MRI — A Multi-Agent Medical Imaging Experiment",
-        "Tokenmaxxing Is Dead, Long Live Tokenmaxxing — How \"Compounding Correctness\" Reshapes Agentic Engineering Economics",
-        "Anthropic Launches Claude Corps — $150M Fellowship Placing 1,000 Professionals at Nonprofits to Bridge the AI Opportunity Gap"
-      ]
-    },
-    {
-      "run_at": "2026-06-29T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586034",
-        "https://news.yahoo.co.jp/pickup/6586042",
-        "https://www.jiji.com/jc/article?k=2026062800509&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6586038",
-        "https://www.jiji.com/jc/article?k=2026062800457&g=int&m=rss",
-        "https://zenn.dev/nrs/articles/e4a2ae8a9fb785",
-        "https://zenn.dev/breakbot/articles/53e7f1c6564f26",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2606/28/news006.html",
-        "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/",
-        "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/",
-        "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise"
-      ],
-      "titles": [
-        "日韓防衛相が会談――AI・宇宙など新分野での連携強化を確認",
-        "ロシア兵器の9割に日本企業製部品――ウクライナが輸出管理強化を要求",
-        "フランス東部で小型機が墜落、スカイダイビング参加者ら11人全員死亡",
-        "岐阜・可児市でドラッグストアに車が突入、歩行中の女性が死亡",
-        "ベネズエラ大地震、72時間超えて11歳男児が生存救出――死者1430人に",
-        "ループエンジニアリングを「takt exec」で気軽に始める――人間がプロンプトを書く時代の次へ",
-        "Claude Codeセッションを「見下ろし型オフィス」として可視化するデスクトップアプリを自作",
-        "ひろゆき「SIer衰退」予測の深層――2026年を生き残るエンジニアに求められる4つの役割",
-        "Prompt Injection as Role Confusion: New Research Reveals Why LLMs Can't Distinguish System vs. User Text",
-        "Temporary Cloudflare Accounts for AI Agents: Deploy Workers in 60 Minutes Without Signing Up",
-        "MAI-Code-1-Flash Now GA for GitHub Copilot — Microsoft's First Proprietary Coding Model in Copilot"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-30T15:00:00+09:00",
+  "last_run_at": "2026-06-30T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-30T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6586255",
+        "https://news.yahoo.co.jp/pickup/6586261",
+        "https://www.itmedia.co.jp/news/articles/2606/30/news141.html",
+        "https://www.itmedia.co.jp/news/articles/2606/30/news120.html",
+        "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000144/",
+        "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000143/",
+        "https://zenn.dev/studist/articles/opentelemetry-genai-reasoning-level",
+        "https://zenn.dev/namoo_san/articles/3cc632399946e5",
+        "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000140/",
+        "https://longcat.chat/blog/longcat-2.0/",
+        "https://moondream.ai/blog/popping-the-gpu-bubble"
+      ],
+      "titles": [
+        "経産省、国産AI開発「Noetra」に3873億円を支援——フィジカルAI領域での国際競争力強化へ",
+        "飲食料品の値上げ加速——7月は2566品目、年間2万品目ペースで「中東発」物価高が本格化",
+        "日印首脳が「防衛用AIドローン」の共同開発を確認——対中安保協力をさらに深化",
+        "米最高裁、ジオフェンス令状に憲法的保護を義務付け——Googleの位置情報収集をめぐる歴史的判決",
+        "経産省、2040年までに国内にAIロボット1000万台——戦略を改訂し18分野に社会実装を拡大",
+        "国産LLM「Sarashina3」が登場——ソフトバンク系SB Intuitionsが30兆トークンで学習、Qwen3-235Bと同等性能",
+        "OpenTelemetryにgen_ai.request.reasoning.level属性を追加——LLM推論の深さをトレースで可視化する標準化の一歩",
+        "AI時代の自動化を再考——「入口の最適化」と「全体の最適化」は別物、部分最適の罠を避ける設計論",
+        "Devin Fusion: Cognition's Multi-Model Routing Cuts AI Coding Costs by 35% Without Performance Loss",
+        "LongCat-2.0: A 1.6T Parameter MoE Model with 48B Active Parameters Launches as Open-Weight Challenger",
+        "Moondream Photon: Pipelined Decoding Eliminates the GPU Bubble, Delivers Up to 35% Higher Decode Throughput"
+      ]
+    },
     {
       "run_at": "2026-06-30T15:00:00+09:00",
       "urls": [

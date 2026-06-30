@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-06-30T10:00:00+09:00",
+  "last_run_at": "2026-06-30T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-06-30T15:00:00+09:00",
+      "urls": [
+        "http://www3.nhk.or.jp/news/html/20260630/k10015164791000.html",
+        "http://www3.nhk.or.jp/news/html/20260630/k10015164511000.html",
+        "http://www3.nhk.or.jp/news/html/20260629/k10015164231000.html",
+        "http://www3.nhk.or.jp/news/html/20260630/k10015164641000.html",
+        "http://www3.nhk.or.jp/news/html/20260630/k10015164361000.html",
+        "https://zenn.dev/acntechjp/articles/6f74e9a6aef835",
+        "https://zenn.dev/khale/articles/llm-agent-cost-accuracy-clearwing",
+        "https://www.itmedia.co.jp/news/articles/2606/30/news100.html",
+        "https://www.anthropic.com/news/expanding-project-glasswing",
+        "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+        "https://htmx.org/essays/working-with-ai/"
+      ],
+      "titles": [
+        "アフラック生命保険で約438万人分の個人情報が漏えい——口座情報も含まれる可能性",
+        "国旗損壊罪を新設する法案が衆院本会議で可決——全野党が欠席し異例の採決に",
+        "円相場が一時1ドル162円台に突入——約39年半ぶりの円安が続く",
+        "栃木・那須塩原でクマが住宅街に出没——男性が襲われ軽傷",
+        "本田圭佑氏「W杯で勝つには哲学の整合性が鍵」——敗退後に分析コメント",
+        "Claude Code の Agent Teams で「PM＋作業者」AIチームを構築——複数課題の並列処理と自己改善を実装",
+        "LLMエージェントをコスパ良く高精度に組む——Clearwingのワークフロー設計から学ぶ「ファネル型」アーキテクチャ",
+        "CursorがiOSアプリを公開——スマートフォンからAIコーディングエージェントを遠隔操作",
+        "Anthropic Expands Project Glasswing to 150 New Organizations — AI-Powered Cyberdefense Goes Global",
+        "South Korea Commits $1 Trillion to Semiconductors, Physical AI, and Humanoid Robots by 2028",
+        "Working With AI: A Concrete Example — htmx Creator Used Claude to Debug a Parser, Then Caught AI's Subtle Mistake"
+      ]
+    },
     {
       "run_at": "2026-06-30T10:00:00+09:00",
       "urls": [
@@ -169,7 +198,7 @@
         "小椋藍がMotoGP初優勝——日本人ライダーとして22年ぶりの快挙",
         "ハーネスエンジニアリングは、AI時代のチームビルディングだった——AIを開発チームの正式メンバーとして迎える実践論",
         "Rustの安定ABI問題と「crABI」——バイナリ互換性という長年の課題に挑む新アプローチ",
-        "Accenture・Microsoft共同の「エージェンティック・ファクトリー」——製造現場の"隠れた問題"をAIが自律発見・対処提案",
+        "Accenture・Microsoft共同の「エージェンティック・ファクトリー」——製造現場の「隠れた問題」をAIが自律発見・対処提案",
         "GLM 5.2 Outperforms Claude on Cyber Security Benchmarks — Semgrep's Independent Evaluation",
         "Mass AI Fraud at Brown University — Professor Reports Entire Class Used AI for Exam, Academic Integrity Crisis Deepens",
         "OpenAI Codex CLI Still Can't Exclude Sensitive Files from Context — 17,000+ Star Repo Has Open Issue Since April"

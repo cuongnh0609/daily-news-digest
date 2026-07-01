@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-01T20:00:00+09:00",
+  "last_run_at": "2026-07-02T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-02T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6586394",
+        "https://news.yahoo.co.jp/pickup/6586395",
+        "https://www.itmedia.co.jp/news/articles/2607/01/news156.html",
+        "https://www.itmedia.co.jp/news/articles/2607/01/news140.html",
+        "https://www.itmedia.co.jp/news/articles/2607/01/news151.html",
+        "https://zenn.dev/canly/articles/428767121d7dc2",
+        "https://zenn.dev/syurenuko/articles/b31d9d63035c9c",
+        "https://www.publickey1.jp/blog/26/astro_70vite_8rolldownrust.html",
+        "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
+        "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+        "https://simonwillison.net/2026/Jun/29/ornith/"
+      ],
+      "titles": [
+        "社会保障制度改革、自民・維新が合意に向け最終調整へ",
+        "スペインで記録的熱波、死者1000人超——上半期の気温が観測史上最高",
+        "SIE、PlayStation新作ゲームのディスク販売を2028年1月に終了へ",
+        "NEC、子会社「NEC Solution Innovators」を10月に吸収合併",
+        "PayPay、他社クレジットカード利用を「利用券」購入方式に変更——8月末で従来方式終了",
+        "10ヶ月CLIで使ってきたClaude Codeを、Desktopメインに移行した12の理由",
+        "投機的デコーディングで推論を高速化——Eagle3・DFlash・DSparkの比較解説",
+        "静的サイトジェネレータ「Astro 7.0」正式リリース——Rust製コンパイラ採用でビルドが最大61%高速化",
+        "Linux Foundation Announces Agent Name Service (ANS) — DNS-Based Identity Layer for AI Agents",
+        "Claude Opus 4.8 Fast Mode Now in Preview for GitHub Copilot",
+        "Ornith-1.0: Open-Source Self-Scaffolding LLM for Agentic Coding, Built on Gemma 4 and Qwen 3.5"
+      ]
+    },
     {
       "run_at": "2026-07-01T20:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Devin Fusion: Cognition's Multi-Model Routing Cuts AI Coding Costs by 35% Without Performance Loss",
         "LongCat-2.0: A 1.6T Parameter MoE Model with 48B Active Parameters Launches as Open-Weight Challenger",
         "Moondream Photon: Pipelined Decoding Eliminates the GPU Bubble, Delivers Up to 35% Higher Decode Throughput"
-      ]
-    },
-    {
-      "run_at": "2026-06-30T15:00:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260630/k10015164791000.html",
-        "http://www3.nhk.or.jp/news/html/20260630/k10015164511000.html",
-        "http://www3.nhk.or.jp/news/html/20260629/k10015164231000.html",
-        "http://www3.nhk.or.jp/news/html/20260630/k10015164641000.html",
-        "http://www3.nhk.or.jp/news/html/20260630/k10015164361000.html",
-        "https://zenn.dev/acntechjp/articles/6f74e9a6aef835",
-        "https://zenn.dev/khale/articles/llm-agent-cost-accuracy-clearwing",
-        "https://www.itmedia.co.jp/news/articles/2606/30/news100.html",
-        "https://www.anthropic.com/news/expanding-project-glasswing",
-        "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-        "https://htmx.org/essays/working-with-ai/"
-      ],
-      "titles": [
-        "アフラック生命保険で約438万人分の個人情報が漏えい——口座情報も含まれる可能性",
-        "国旗損壊罪を新設する法案が衆院本会議で可決——全野党が欠席し異例の採決に",
-        "円相場が一時1ドル161円90銭台——約39年半ぶりの円安水準を記録",
-        "栃木・那須塩原でクマが住宅街に出没——男性が襲われ軽傷",
-        "本田圭佑氏「W杯で勝つには哲学の整合性が鍵」——敗退後に分析コメント",
-        "Claude Code の Agent Teams で「PM＋作業者」AIチームを構築——複数課題の並列処理と自己改善を実装",
-        "LLMエージェントをコスパ良く高精度に組む——Clearwingのワークフロー設計から学ぶ「ファネル型」アーキテクチャ",
-        "CursorがiOSアプリを公開——スマートフォンからAIコーディングエージェントを遠隔操作",
-        "Anthropic Expands Project Glasswing to 150 New Organizations — AI-Powered Cyberdefense Goes Global",
-        "South Korea Commits $1 Trillion to Semiconductors, Physical AI, and Humanoid Robots by 2028",
-        "Working With AI: A Concrete Example — htmx Creator Used Claude to Debug a Parser, Then Caught AI's Subtle Mistake"
-      ]
-    },
-    {
-      "run_at": "2026-06-30T10:00:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260629/k10015163871000.html",
-        "http://www3.nhk.or.jp/news/html/20260629/k10015164231000.html",
-        "http://www3.nhk.or.jp/news/html/20260630/k10015164411000.html",
-        "http://www3.nhk.or.jp/news/html/20260630/k10015164321000.html",
-        "https://news.yahoo.co.jp/pickup/6586195?source=rss",
-        "https://zenn.dev/tan_go238/articles/783a3fc3f11f8d",
-        "https://zenn.dev/estie/articles/29a0968c00b8d3",
-        "https://www.publickey1.jp/blog/26/aws_lambda_microvms.html",
-        "https://www.anthropic.com/news/fable-mythos-access",
-        "https://simonwillison.net/2026/Jun/28/jon-udell/",
-        "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration"
-      ],
-      "titles": [
-        "W杯・日本がブラジルに逆転負け、16強進出ならず——後半アディショナルタイムに2失点",
-        "円相場が一時1ドル161円90銭台——約39年半ぶりの円安水準を記録",
-        "ペルー大統領選、フジモリ元大統領の長女ケイコ氏が勝利と報道",
-        "ベネズエラ大地震、死者が1700人を超える——救助活動が続く中、被害拡大の恐れ",
-        "被疑者の氏名流出問題——元地検支部長が不正記載を指示していたと判明",
-        "AI時代の要件定義で人間に残るのは「アラインメント」という仕事——Spec-Driven開発の本質を考察",
-        "DevOps Agent奮闘記——アラートを起点に運用の一次対応をAIエージェントに任せた実践報告",
-        "AWS Lambda MicroVMs登場——サーバレスの手軽さでステートフルかつ隔離された実行環境を提供",
-        "US Government Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for All Foreign Nationals",
-        "\"It's Our Loop\" — Jon Udell Reframes Agentic Engineering as Human-Led Team Collaboration",
-        "GitHub Desktop 3.6: Native Worktree Support and Deeper Copilot Integration Shipped"
       ]
     }
   ]

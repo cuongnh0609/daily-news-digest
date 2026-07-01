@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-01T00:00:00+09:00",
+  "last_run_at": "2026-07-01T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-01T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6586300",
+        "https://news.yahoo.co.jp/pickup/6586293",
+        "https://www.jiji.com/jc/article?k=2026063000761&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070100222&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070100170&g=int&m=rss",
+        "https://zenn.dev/satto_workspace/articles/62cdc01e1d0e97",
+        "https://www.itmedia.co.jp/news/articles/2607/01/news057.html",
+        "https://zenn.dev/branbran/articles/5730c47e1abac9",
+        "https://www.anthropic.com/news/claude-sonnet-5",
+        "https://simonwillison.net/2026/Jun/30/shot-scraper-video/",
+        "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant"
+      ],
+      "titles": [
+        "宮崎県で最大震度4の地震——津波の心配なし、複数市町で揺れを観測",
+        "米最高裁、出生地主義制限の大統領令は違憲と判断——不法滞在者の子も市民権を保持",
+        "皇室典範改正案「課題多い」——専門家が養子制度や家族分離の問題点を指摘",
+        "ベネズエラ大地震、死者1900人超——発生から1週間、生存者の発見が困難に",
+        "NY株が2日連続で最高値を更新——ハイテク銘柄への買い集まり、景気への楽観論が支える",
+        "コードを仕様書にするために関数型プログラミングをする——ts-morphで処理フロー図を自動生成",
+        "Anthropicが「Claude Sonnet 5」を公開——エージェント特化、Opus 4.8に迫る性能を低価格で提供",
+        "超便利なClaude Designの実践的な活用方法——デザインからコードへの最短ルートを解説",
+        "Anthropic Launches Claude Sonnet 5 — Agentic AI with Opus-Class Performance at Mid-Tier Pricing",
+        "shot-scraper 1.10: AI Agents Can Now Record Video Demos of Their Own Work with a Storyboard YAML",
+        "GitHub Copilot Agent Now Available in JetBrains AI Assistant — Pick Models and Hand Off Multi-Step Work"
+      ]
+    },
     {
       "run_at": "2026-07-01T00:00:00+09:00",
       "urls": [

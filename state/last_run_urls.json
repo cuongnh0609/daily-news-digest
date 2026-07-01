@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-01T05:00:00+09:00",
+  "last_run_at": "2026-07-01T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-01T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6586303",
+        "https://news.yahoo.co.jp/pickup/6586306",
+        "https://news.yahoo.co.jp/pickup/6586302",
+        "https://www.itmedia.co.jp/news/articles/2607/01/news061.html",
+        "https://www.itmedia.co.jp/news/articles/2607/01/news064.html",
+        "https://zenn.dev/nexta_/articles/858e92ee22b4a4",
+        "https://zenn.dev/chot/articles/dca4889fa27d27",
+        "https://zenn.dev/aishift/articles/83708f752b3c87",
+        "https://claude.com/product/claude-science",
+        "https://thereallo.dev/blog/claude-code-prompt-steganography",
+        "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser"
+      ],
+      "titles": [
+        "日銀短観、大企業製造業の景況感が5期連続で改善——半導体・AI需要が牽引",
+        "ベネズエラ大地震、死者1700人超——発生6日後に3歳児が奇跡的に救出",
+        "米最高裁、トランスジェンダー選手の女子競技参加制限を合憲と判断",
+        "GoogleがTenor APIの外部提供を終了——DiscordやBlueskyのGIF検索に影響",
+        "書店ゼロ地域に本を届ける——郵便局が児童書販売の拠点に、出版社と連携",
+        "Claude Codeに同じバグを3回出すと自動でルール化される——ふりかえり駆動の学習メカニズム実装",
+        "AIエージェント向けCLIツール設計で気づいたこと——人間向けと全く異なる5つの原則",
+        "Gemini Embedding 2でネイティブマルチモーダルRAGを構築——テキスト・画像・動画を単一モデルで統合",
+        "Claude Science Launches: Anthropic's AI Workbench for Scientists with Native Lab Tool Integrations",
+        "Claude Code Is Steganographically Marking Its Requests — Every API Call Contains a Hidden Fingerprint",
+        "I Ported Kubernetes to the Browser — 100K Lines of TypeScript, 2K Tests, AI-Assisted in Two Months"
+      ]
+    },
     {
       "run_at": "2026-07-01T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Launches Claude Tag — A Team-Native AI Agent That Lives Inside Slack Channels",
         "Herdr v0.7 — A Rust-Built Terminal Agent Multiplexer That Manages Multiple AI Coding Agents Simultaneously",
         "Qualcomm Acquires Modular — Mojo Language Creator Joins Chipmaker's Push into AI Datacenter Market"
-      ]
-    },
-    {
-      "run_at": "2026-06-29T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026062900718&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062900621&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062900732&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062900211&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6586126?source=rss",
-        "https://zenn.dev/takupeso/articles/claude-ontology-knowledge-structuring",
-        "https://zenn.dev/yottayoshida/articles/rag-knowledge-ops-agent-search",
-        "https://www.itmedia.co.jp/enterprise/articles/2606/29/news068.html",
-        "https://aleph-alpha.com/en/blog/model-training-as-code/",
-        "https://danunparsed.com/p/hackerrank-open-source-ats",
-        "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel"
-      ],
-      "titles": [
-        "亀梨和也さんと田中みな実さんが結婚発表――第１子の妊娠も明らかに",
-        "与党が衆院議員定数削減法案の審議入りを強行――野党5党が欠席し国会は異常事態に",
-        "バヌアツが豪州と安全保障協定に署名――中国の軍事基地構想を事実上拒否",
-        "近鉄京都線で始発電車が脱線――約8万5千人に影響、運輸安全委が調査開始",
-        "7月上旬に北日本・北陸で高温予測――気象庁が早期天候情報を発表、熱中症に警戒を",
-        "Claudeに「オントロジー」を持たせたらコスト半分・3倍速に――MCP memoryでグラフ構造を実装する知識管理術",
-        "RAGを「作る」から「運用する」へ――Agent Searchとパイプライン自動化で知識品質を継続維持する実践",
-        "GartnerがAIエージェント投資の「FDVAACスコアリング」を公開――2026〜2030年の段階的自律化ロードマップも提示",
-        "Model Training as Code: Aleph Alpha's Savanna Pipeline Makes ML Experiments as Reproducible as Software Builds",
-        "HackerRank's Open-Source ATS Scores Same Resume 66 to 99 — LLM Variance Makes It Random Candidate Filtering",
-        "GitHub Actions Steps Can Now Run in Parallel — New background Keyword Eliminates CI/CD Sequential Bottlenecks"
       ]
     }
   ]

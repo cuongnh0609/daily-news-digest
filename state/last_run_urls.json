@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-01T15:00:00+09:00",
+  "last_run_at": "2026-07-01T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-01T20:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/articles/2607/01/news139.html",
+        "https://www.itmedia.co.jp/news/articles/2607/01/news124.html",
+        "https://www.jiji.com/jc/article?k=2026070100942&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070100602&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/01/news142.html",
+        "https://zenn.dev/hkdeveloper/articles/kiro-security-ops-aws-summit-2026",
+        "https://zenn.dev/xtone/articles/copper-golem-claude-p",
+        "https://zenn.dev/minedia/articles/17a07dc1ce4f12",
+        "https://www.anthropic.com/news/redeploying-fable-5",
+        "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
+        "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests"
+      ],
+      "titles": [
+        "ソフトバンクG、OpenAIに1兆6273億円の追加出資　第3弾は10月に",
+        "全国のJR券売機で一時障害　「えきねっと」などWebも　基幹システム「マルス」不具合で",
+        "海保調査に中国が中止要求　日本政府、外交ルートで抗議",
+        "台湾統一は「歴史的任務」　習氏、中国共産党創立１０５年式典で演説",
+        "NPBが「SNS監視システム」導入　審判への誹謗中傷対策で、悪質な投稿には法的措置も",
+        "KiroにAWSセキュリティ運用を任せるために必要なこと——Spec-Driven AIエージェントの実践レポート",
+        "claude -p を分類器として使って、ファイルを中身で自動整理するツールを作った話",
+        "Claude Codeのサブスク使用状況をVSCodeで常時可視化する拡張機能を作った",
+        "Anthropic Redeploying Fable 5 and Mythos 5 After US Export Controls Lifted",
+        "Meta's Brain2Qwerty v2: Non-Invasive Brain-to-Text AI Reaches Near-Implant Accuracy",
+        "GitHub Ships Code Coverage Merge Protection — Block PRs That Drop Test Coverage"
+      ]
+    },
     {
       "run_at": "2026-07-01T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "US Government Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for All Foreign Nationals",
         "\"It's Our Loop\" — Jon Udell Reframes Agentic Engineering as Human-Led Team Collaboration",
         "GitHub Desktop 3.6: Native Worktree Support and Deeper Copilot Integration Shipped"
-      ]
-    },
-    {
-      "run_at": "2026-06-30T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026063000068&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062901112&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6586161",
-        "https://news.yahoo.co.jp/pickup/6586135",
-        "https://www.itmedia.co.jp/news/articles/2606/29/news103.html",
-        "https://zenn.dev/kaihatsu_biyori/articles/claude-code-subagent-basics",
-        "https://zenn.dev/muramasa0228/articles/2026-06-29-agent-memory-3-layer",
-        "https://zenn.dev/okssusucha/articles/20260629-decoupled-search-grounding-dsg",
-        "https://simonwillison.net/2026/Jun/29/ornith/",
-        "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
-        "https://quesma.com/blog/qwen-36-is-awesome/"
-      ],
-      "titles": [
-        "日本、W杯でブラジルに1-2で敗退——後半ロスタイムに逆転弾を浴びる",
-        "米最高裁、FRB理事の解任を認めず——中央銀行の独立性を支持する歴史的判断",
-        "東京・足立区の小学校で集団食中毒——給食後に児童139人が嘔吐・下痢",
-        "指名手配中の八田容疑者、目撃情報の半数近くが関東地方に集中",
-        "アップルが中国製メモリの調達を模索か——米政権へのロビー活動報道",
-        "Claude Codeのサブエージェントとは？——並行処理とコンテキスト分離の基本設計",
-        "エージェント長期記憶の3層設計——mcp__memoryを捨てファイル＋grepを選んだ理由",
-        "LLMから検索を切り離すDSG設計——DoorDashが検索コストを91%削減",
-        "Ornith-1.0: Open-Source Self-Scaffolding LLMs Purpose-Built for Agentic Coding",
-        "Claude Opus 4.8 Fast Mode Now in Preview for GitHub Copilot Subscribers",
-        "Qwen 3.6 27B: The First Local AI Model That Feels Like a Frontier Model"
-      ]
-    },
-    {
-      "run_at": "2026-06-30T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586160",
-        "https://www.jiji.com/jc/article?k=2026062900938&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6586152",
-        "https://www.jiji.com/jc/article?k=2026062901025&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026062900998&g=soc&m=rss",
-        "https://zenn.dev/jun_uen0/articles/retry-storm-rebilled-llm-cost",
-        "https://zenn.dev/libercraft/articles/20260629-mcp-production-scaling",
-        "https://zenn.dev/syncable_tech/articles/e51591d58fec49",
-        "https://www.anthropic.com/news/introducing-claude-tag",
-        "https://github.com/ogulcancelik/herdr",
-        "https://www.publickey1.jp/blog/26/pythonmojomodularai.html"
-      ],
-      "titles": [
-        "ニューヨーク外為市場で円が一時39年半ぶりの安値水準に——1ドル161円台後半",
-        "中曽根弘文氏「愛子さまの皇位継承はあり得ない」発言で与野党から批判——「反省している」と釈明",
-        "中国が対日輸出規制をさらに拡大——禁輸リストに20団体を追加、日本企業に困惑広がる",
-        "ドイツ北部の青少年福祉施設で銃撃——5人死亡、容疑者2名を拘束",
-        "八甲田山中でクマ被害か——63歳男性の遺体発見、青森県が初の出没特別警報",
-        "AIの請求がサーバ代を超えた日——LLMコスト爆発の三重構造と防ぐための設計原則",
-        "MCPサーバーを本番でスケールさせる——Streamable HTTP・ステートレスセッション・ケイパビリティ発見の実装",
-        "Claude Codeの!コマンドがシェル出力に自動応答するようになった——デフォルト変更とコストへの影響",
-        "Anthropic Launches Claude Tag — A Team-Native AI Agent That Lives Inside Slack Channels",
-        "Herdr v0.7 — A Rust-Built Terminal Agent Multiplexer That Manages Multiple AI Coding Agents Simultaneously",
-        "Qualcomm Acquires Modular — Mojo Language Creator Joins Chipmaker's Push into AI Datacenter Market"
       ]
     }
   ]

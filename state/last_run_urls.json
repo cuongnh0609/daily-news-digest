@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-02T20:00:00+09:00",
+  "last_run_at": "2026-07-03T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-03T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/1f359339adc5e19efba148b5fc00dd79a88d6be8",
+        "https://news.yahoo.co.jp/articles/2392f9a27c0e1db23d218b83b3a349266e016f5a",
+        "https://www.jiji.com/jc/article?k=2026070201131&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070201210&g=int&m=rss",
+        "https://news.yahoo.co.jp/articles/537e10ee81f3838876677bd22e23f77dfaf85269",
+        "https://zenn.dev/tokium_dev/articles/foreman-cross-session-task-harness",
+        "https://zenn.dev/sato_frontend/articles/52b58b74f7aebb",
+        "https://zenn.dev/appare/articles/glm-5-2-tsukaikata",
+        "https://www.anthropic.com/news/claude-sonnet-5",
+        "https://simonwillison.net/2026/Jun/30/shot-scraper-video/",
+        "https://www.mixedbread.com/blog/asymmetric-quant"
+      ],
+      "titles": [
+        "九州5県に線状降水帯が発生――台風9号も形成、大規模浸水・土砂災害に厳重警戒",
+        "WHO、クルーズ船ハンタウイルス集団感染の収束を宣言――国際的な警戒態勢が解除",
+        "北京の高層ビルに小型機が衝突――当局「操縦者に自殺願望」故意の可能性を調査",
+        "6月の米雇用5.7万人増、失業率4.2%に改善――市場予測下回り利下げ観測が高まる",
+        "日印首脳「兄と妹」の絆を確認――高市首相とモディ首相、安倍元首相の逸話を引用",
+        "並走する複数のClaudeが二重実行・取りこぼしを起こす――指揮者なしの台帳で衝突を防いだ17日間",
+        "設計の考慮漏れをなくすために「Skills for Real Engineers」を導入してみた――grillワークフローで仕様の抜け穴を事前に塞ぐ",
+        "GLM-5.2の使い方――Claude Codeのコストを最大1/6に削減する実践ガイド",
+        "Anthropic Releases Claude Sonnet 5 — Flagship-Grade Agentic Performance at Sonnet Pricing",
+        "Simon Willison Ships shot-scraper video — AI Agents Can Now Auto-Record Demo Videos of Their Own Work",
+        "Mixedbread Ships Asymmetric Quantization — 32x Storage Reduction for Late Interaction Embeddings with 0.7% Quality Loss"
+      ]
+    },
     {
       "run_at": "2026-07-02T20:00:00+09:00",
       "urls": [

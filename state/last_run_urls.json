@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-02T05:00:00+09:00",
+  "last_run_at": "2026-07-02T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-02T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6586415",
+        "https://news.yahoo.co.jp/pickup/6586418",
+        "https://news.yahoo.co.jp/pickup/6586420",
+        "https://news.yahoo.co.jp/pickup/6586422",
+        "https://www.jiji.com/jc/article?k=2026070200270&g=int&m=rss",
+        "https://zenn.dev/aeyesec/articles/fe599775862786",
+        "https://www.itmedia.co.jp/news/articles/2607/02/news017.html",
+        "https://www.publickey1.jp/blog/26/aws_lambda_microvms.html",
+        "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
+        "https://github.blog/changelog/2026-07-01-enterprise-managed-settings-json-is-generally-available",
+        "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/"
+      ],
+      "titles": [
+        "九州から関東にかけて激しい雨のおそれ——梅雨前線が活発化、土砂災害や河川氾濫に厳重警戒",
+        "中部電力でデータ不正操作——発覚後も継続、原発審査への影響を調査中",
+        "玉木代表「自民党との信頼関係に疑義」——国民民主党が連立協議の行方を左右か",
+        "50〜70代の未婚者の約9割が「孤独感あり」——内閣府の実態調査で深刻な社会問題が浮き彫りに",
+        "米・イラン間接協議、継続で合意——核開発問題と資産凍結解除めぐる交渉が前進",
+        "リリースのキャッチアップをClaude Code SkillsとGitHub CLIで自動化——変更ログの収集・要約・通知をワンコマンドで",
+        "AnthropicのAIエージェントを使った営業チームの実践——日本法人メンバーが明かす現場の手の内",
+        "AWS Lambda MicroVMsが登場——サーバレスの手軽さでステートフルかつ隔離された実行環境を実現",
+        "GitHub Models Retiring July 30 — Free Inference Playground and Model Catalog Shut Down Completely",
+        "GitHub Copilot Enterprise Gets managed-settings.json GA and CLI Auto Model Routing with Credit Caps",
+        "Meta Caps Internal AI Token Spending as Costs Approach Billions — Enterprise Reality Check for AI-Heavy Orgs"
+      ]
+    },
     {
       "run_at": "2026-07-02T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Launches Claude Opus 4.8 — Dynamic Workflows, Effort Control, and 3× Cheaper Fast Mode",
         "WSL Containers Goes Public Preview — Run Linux Containers on Windows with 2× File Access Speed",
         "CVE-2026-LGTM: A Satirical Incident Report on AI Agent Supply Chain Failure — and Why It Rings True"
-      ]
-    },
-    {
-      "run_at": "2026-06-30T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586255",
-        "https://news.yahoo.co.jp/pickup/6586261",
-        "https://www.itmedia.co.jp/news/articles/2606/30/news141.html",
-        "https://www.itmedia.co.jp/news/articles/2606/30/news120.html",
-        "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000144/",
-        "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000143/",
-        "https://zenn.dev/studist/articles/opentelemetry-genai-reasoning-level",
-        "https://zenn.dev/namoo_san/articles/3cc632399946e5",
-        "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000140/",
-        "https://longcat.chat/blog/longcat-2.0/",
-        "https://moondream.ai/blog/popping-the-gpu-bubble"
-      ],
-      "titles": [
-        "経産省、国産AI開発「Noetra」に3873億円を支援——フィジカルAI領域での国際競争力強化へ",
-        "飲食料品の値上げ加速——7月は2566品目、年間2万品目ペースで「中東発」物価高が本格化",
-        "日印首脳が「防衛用AIドローン」の共同開発を確認——対中安保協力をさらに深化",
-        "米最高裁、ジオフェンス令状に憲法的保護を義務付け——Googleの位置情報収集をめぐる歴史的判決",
-        "経産省、2040年までに国内にAIロボット1000万台——戦略を改訂し18分野に社会実装を拡大",
-        "国産LLM「Sarashina3」が登場——ソフトバンク系SB Intuitionsが30兆トークンで学習、Qwen3-235Bと同等性能",
-        "OpenTelemetryにgen_ai.request.reasoning.level属性を追加——LLM推論の深さをトレースで可視化する標準化の一歩",
-        "AI時代の自動化を再考——「入口の最適化」と「全体の最適化」は別物、部分最適の罠を避ける設計論",
-        "Devin Fusion: Cognition's Multi-Model Routing Cuts AI Coding Costs by 35% Without Performance Loss",
-        "LongCat-2.0: A 1.6T Parameter MoE Model with 48B Active Parameters Launches as Open-Weight Challenger",
-        "Moondream Photon: Pipelined Decoding Eliminates the GPU Bubble, Delivers Up to 35% Higher Decode Throughput"
       ]
     }
   ]

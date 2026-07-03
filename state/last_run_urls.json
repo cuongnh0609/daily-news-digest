@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-03T10:09:00+09:00",
+  "last_run_at": "2026-07-03T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-03T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6586573",
+        "https://news.yahoo.co.jp/pickup/6586577",
+        "https://news.yahoo.co.jp/pickup/6586565",
+        "https://news.yahoo.co.jp/pickup/6586569",
+        "https://www.jiji.com/jc/article?k=2026070300537&g=soc&m=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
+        "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000156/",
+        "https://zenn.dev/nexta_/articles/858e92ee22b4a4",
+        "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+        "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+        "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
+      ],
+      "titles": [
+        "外国人の永住許可手数料、1万円から20万円へ大幅引き上げ――10月施行目指す",
+        "米ニューヨークで42℃を記録――アメリカ東部に記録的熱波、W杯会場も警戒",
+        "セブン―イレブン、ナイキを米で提訴――7月11日発売スニーカーのデザイン酷似が争点",
+        "ウクライナ東部で半年ぶりの兵士交代――ドローン飛び交う前線での過酷な任務を終え",
+        "素材メーカー元社長を逮捕――20年にわたる粉飾で政策投資銀行から11億円詐取か",
+        "Meta「Claude Codeと組織改編で爆速開発のはず」が「想定ほど加速せず」――ザッカーバーグ氏が社内で認める",
+        "Godotエンジンがプルリク全面禁止へ――「機械と話したくない」レビュアーの反乱が自律型AIエージェントを締め出す",
+        "Claude Codeが同じバグを3回で自動ルール化――3ヵ月385セッションから生まれた「ふりかえり学習機構」",
+        "Apple Introduces Safari MCP Server — AI Agents Can Now Autonomously Debug Your Website in Safari",
+        "GitHub: Copilot CLI in Actions No Longer Needs a PAT — Org-Billed GITHUB_TOKEN Replaces Long-Lived Tokens",
+        "claude-real-video: Open-Source Tool Lets Any LLM Watch and Understand Videos via Scene-Aware Frame Extraction"
+      ]
+    },
     {
       "run_at": "2026-07-03T10:09:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Anthropic Launches Claude Tag — Multiplayer Agentic AI That Lives in Your Slack Workspace",
         "GitHub Copilot Vision Goes GA — Attach Images and PDFs to Chat, Free for All Plans",
         "Kimi K2.7 Code Is Now GA in GitHub Copilot — A New Open-Weight Competitor for Coding Tasks"
-      ]
-    },
-    {
-      "run_at": "2026-07-02T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586394",
-        "https://news.yahoo.co.jp/pickup/6586395",
-        "https://www.itmedia.co.jp/news/articles/2607/01/news156.html",
-        "https://www.itmedia.co.jp/news/articles/2607/01/news140.html",
-        "https://www.itmedia.co.jp/news/articles/2607/01/news151.html",
-        "https://zenn.dev/canly/articles/428767121d7dc2",
-        "https://zenn.dev/syurenuko/articles/b31d9d63035c9c",
-        "https://www.publickey1.jp/blog/26/astro_70vite_8rolldownrust.html",
-        "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
-        "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
-        "https://simonwillison.net/2026/Jun/29/ornith/"
-      ],
-      "titles": [
-        "社会保障制度改革、自民・維新が合意に向け最終調整へ",
-        "スペインで記録的熱波、死者1000人超——上半期の気温が観測史上最高",
-        "SIE、PlayStation新作ゲームのディスク販売を2028年1月に終了へ",
-        "NEC、子会社「NEC Solution Innovators」を10月に吸収合併",
-        "PayPay、他社クレジットカード利用を「利用券」購入方式に変更——8月末で従来方式終了",
-        "10ヶ月CLIで使ってきたClaude Codeを、Desktopメインに移行した12の理由",
-        "投機的デコーディングで推論を高速化——Eagle3・DFlash・DSparkの比較解説",
-        "静的サイトジェネレータ「Astro 7.0」正式リリース——Rust製コンパイラ採用でビルドが最大61%高速化",
-        "Linux Foundation Announces Agent Name Service (ANS) — DNS-Based Identity Layer for AI Agents",
-        "Claude Opus 4.8 Fast Mode Now in Preview for GitHub Copilot",
-        "Ornith-1.0: Open-Source Self-Scaffolding LLM for Agentic Coding, Built on Gemma 4 and Qwen 3.5"
-      ]
-    },
-    {
-      "run_at": "2026-07-01T20:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/articles/2607/01/news139.html",
-        "https://www.itmedia.co.jp/news/articles/2607/01/news124.html",
-        "https://www.jiji.com/jc/article?k=2026070100942&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070100602&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/01/news142.html",
-        "https://zenn.dev/hkdeveloper/articles/kiro-security-ops-aws-summit-2026",
-        "https://zenn.dev/xtone/articles/copper-golem-claude-p",
-        "https://zenn.dev/minedia/articles/17a07dc1ce4f12",
-        "https://www.anthropic.com/news/redeploying-fable-5",
-        "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
-        "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests"
-      ],
-      "titles": [
-        "ソフトバンクG、OpenAIに1兆6273億円の追加出資　第3弾は10月に",
-        "全国のJR券売機で一時障害　「えきねっと」などWebも　基幹システム「マルス」不具合で",
-        "海保調査に中国が中止要求　日本政府、外交ルートで抗議",
-        "台湾統一は「歴史的任務」　習氏、中国共産党創立１０５年式典で演説",
-        "NPBが「SNS監視システム」導入　審判への誹謗中傷対策で、悪質な投稿には法的措置も",
-        "KiroにAWSセキュリティ運用を任せるために必要なこと——Spec-Driven AIエージェントの実践レポート",
-        "claude -p を分類器として使って、ファイルを中身で自動整理するツールを作った話",
-        "Claude Codeのサブスク使用状況をVSCodeで常時可視化する拡張機能を作った",
-        "Anthropic Redeploying Fable 5 and Mythos 5 After US Export Controls Lifted",
-        "Meta's Brain2Qwerty v2: Non-Invasive Brain-to-Text AI Reaches Near-Implant Accuracy",
-        "GitHub Ships Code Coverage Merge Protection — Block PRs That Drop Test Coverage"
       ]
     }
   ]

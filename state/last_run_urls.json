@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-03T20:00:00+09:00",
+  "last_run_at": "2026-07-04T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-04T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6586625",
+        "https://news.yahoo.co.jp/pickup/6586636",
+        "https://news.yahoo.co.jp/pickup/6586639",
+        "https://news.yahoo.co.jp/pickup/6586629",
+        "https://news.yahoo.co.jp/pickup/6586562",
+        "https://zenn.dev/ryu1maniwa25/articles/fable5-agent-sop-setup",
+        "https://zenn.dev/aws_japan/articles/006-aws-specialist-agent",
+        "https://www.publickey1.jp/blog/26/astro_70vite_8rolldownrust.html",
+        "https://www.anthropic.com/news/introducing-claude-tag",
+        "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
+        "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/"
+      ],
+      "titles": [
+        "国会正常化が来週に持ち越し――野党の要求に与党が応えず、審議再開の見通し立たず",
+        "「案件屋」を初めて逮捕――強盗組織の仲介役、9300万円窃盗事件で警視庁が摘発",
+        "ロシア、日本から燃料輸入を画策か――韓国沖で瀬取り、制裁網くぐり抜けの疑い",
+        "冷凍サバ入り箱が崩落、作業員が下敷きで死亡――名古屋の水産加工場で事故",
+        "厚労相の事務所設置数が公選法違反の疑い――週刊誌が「裏選挙事務所」の存在を報道",
+        "Fable 5が使えるうちにAgent SOPを整備させる――100本のワークログから13の標準手順書を蒸留する実践",
+        "AWS AgentCoreをプロダクション利用する際の実装ノウハウ――マルチモデル・VPC完全分離・Cedar認可まで",
+        "静的サイトジェネレータ「Astro 7.0」正式リリース――RustコンパイラとVite 8/Rolldownで60%以上の高速化",
+        "Anthropic Launches Claude Tag — AI as an Active Slack Team Member with Multiplayer Collaboration",
+        "GitHub Models Fully Retired July 30 — Playground, Catalog, Inference API and BYOK All Shut Down",
+        "Podman v6.0.0 Released — Modernized Networking with Netavark/nftables, New Machine OS Update Command"
+      ]
+    },
     {
       "run_at": "2026-07-03T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Senior SWE-Bench: The New Benchmark That Evaluates AI Agents as Senior Engineers — Top Models Fail 75%+ of Tasks",
         "Cloudflare Launches Monetization Gateway with x402 Protocol — Charge Agents Per-Request in Stablecoins",
         "Google's Android Developer Verification System: F-Droid Warns of Root-Level Gatekeeper Affecting 4 Billion Devices"
-      ]
-    },
-    {
-      "run_at": "2026-07-02T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586450",
-        "https://news.yahoo.co.jp/pickup/6586462",
-        "https://news.yahoo.co.jp/pickup/6586458",
-        "https://www.jiji.com/jc/article?k=2026070200369&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070200129&g=spo&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/02/news029.html",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news050.html",
-        "https://zenn.dev/nocall/articles/3f0fcbbed6348c",
-        "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
-        "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises",
-        "https://www.publickey1.jp/blog/26/pythonmojomodularai.html"
-      ],
-      "titles": [
-        "2025年度の税収、84兆円超えで6年連続最高を更新へ",
-        "現金給付にマイナンバー活用——政府、緊急時の直接給付システム整備へ",
-        "中国の海洋進出主張が「新段階」——日本EEZ内での調査中断要求は14年ぶり",
-        "自民、皇室典範改正審議を優先——定数削減・副首都法案は中断へ",
-        "森保監督ら帰国——サッカーW杯日本代表、ベスト16敗退で凱旋",
-        "AIに「電気ショックを与えろ」と命じ続けたら——11のLLMでミルグラム実験を実施",
-        "「賢さよりツール連携力が重要」——MicrosoftがオープンソースAIエージェント基盤「MagenticLite」を公開",
-        "AI時代のチーム開発フローは「小さく安全に流し続ける」こと——トランクベース開発への移行実践",
-        "GitHub Copilot Browser Tools Go GA — Agents Can Now Drive a Real Browser Inside VS Code",
-        "GitHub Secret Scanning Now Monitors All Public GitHub Content for Leaked Enterprise Credentials",
-        "Qualcomm Acquires Modular to Enter AI Datacenter Race — Mojo Language Creator Joins the Chip Giant"
       ]
     }
   ]

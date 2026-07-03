@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-03T15:00:00+09:00",
+  "last_run_at": "2026-07-03T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-03T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070300376&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070300854&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070300888&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070300923&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6586614",
+        "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
+        "https://zenn.dev/uhyo/articles/react-profession-bench-9",
+        "https://zenn.dev/canly/articles/428767121d7dc2",
+        "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
+        "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+        "https://simonwillison.net/2026/Jul/2/understand-to-participate/"
+      ],
+      "titles": [
+        "外国人の在留手数料を大幅引き上げ――永住許可は1万円から20万円へ、10月施行方針",
+        "ウクライナ首都キーウへの大規模攻撃――ミサイルとドローンで死者30人、今年最悪の被害か",
+        "ボビー・オロゴン容疑者を不同意性交罪などで起訴――千葉地検が判断",
+        "野党3党合流で「中道」から党名変更も――政治再編の行方に関心高まる",
+        "マッチングアプリで出会った男性が「ロマンス詐欺」に――友人の反対を押し切り40万円騙し取られる",
+        "「Claude Fable 5」をサブスクの標準機能に――Anthropicエンジニアが7月8日以降の早期復活を示唆",
+        "【速報】Claude Sonnet 5のReact習熟度はOpus 4.8に匹敵――独自ベンチマーク13仕様で検証",
+        "10ヵ月CLIで使ったClaude Codeを「Desktop」メインに移行した12の理由",
+        "Linux Foundation Announces Agent Name Service (ANS) — DNS-Based Identity Infrastructure for AI Agents",
+        "GitHub Copilot: Gemini 2.5 Pro and Gemini 3 Flash Deprecated July 31 — Migrate to Newer Models Now",
+        "Geoffrey Litt at AI Engineer: Understand to Participate — Why Developers Must Stay Cognitively Engaged with Agent-Generated Code"
+      ]
+    },
     {
       "run_at": "2026-07-03T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "GitHub Copilot Browser Tools Go GA — Agents Can Now Drive a Real Browser Inside VS Code",
         "GitHub Secret Scanning Now Monitors All Public GitHub Content for Leaked Enterprise Credentials",
         "Qualcomm Acquires Modular to Enter AI Datacenter Race — Mojo Language Creator Joins the Chip Giant"
-      ]
-    },
-    {
-      "run_at": "2026-07-02T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586415",
-        "https://news.yahoo.co.jp/pickup/6586418",
-        "https://news.yahoo.co.jp/pickup/6586420",
-        "https://news.yahoo.co.jp/pickup/6586422",
-        "https://www.jiji.com/jc/article?k=2026070200270&g=int&m=rss",
-        "https://zenn.dev/aeyesec/articles/fe599775862786",
-        "https://www.itmedia.co.jp/news/articles/2607/02/news017.html",
-        "https://www.publickey1.jp/blog/26/aws_lambda_microvms.html",
-        "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
-        "https://github.blog/changelog/2026-07-01-enterprise-managed-settings-json-is-generally-available",
-        "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/"
-      ],
-      "titles": [
-        "九州から関東にかけて激しい雨のおそれ——梅雨前線が活発化、土砂災害や河川氾濫に厳重警戒",
-        "中部電力でデータ不正操作——発覚後も継続、原発審査への影響を調査中",
-        "玉木代表「自民党との信頼関係に疑義」——国民民主党が連立協議の行方を左右か",
-        "50〜70代の未婚者の約9割が「孤独感あり」——内閣府の実態調査で深刻な社会問題が浮き彫りに",
-        "米・イラン間接協議、継続で合意——核開発問題と資産凍結解除めぐる交渉が前進",
-        "リリースのキャッチアップをClaude Code SkillsとGitHub CLIで自動化——変更ログの収集・要約・通知をワンコマンドで",
-        "AnthropicのAIエージェントを使った営業チームの実践——日本法人メンバーが明かす現場の手の内",
-        "AWS Lambda MicroVMsが登場——サーバレスの手軽さでステートフルかつ隔離された実行環境を実現",
-        "GitHub Models Retiring July 30 — Free Inference Playground and Model Catalog Shut Down Completely",
-        "GitHub Copilot Enterprise Gets managed-settings.json GA and CLI Auto Model Routing with Credit Caps",
-        "Meta Caps Internal AI Token Spending as Costs Approach Billions — Enterprise Reality Check for AI-Heavy Orgs"
-      ]
-    },
-    {
-      "run_at": "2026-07-02T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586403",
-        "https://www.jiji.com/jc/article?k=2026070100729&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070100165&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2606/30/news133.html",
-        "https://www.jiji.com/jc/article?k=2026070100253&g=int&m=rss",
-        "https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced",
-        "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000149/",
-        "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000150/",
-        "https://www.anthropic.com/news/introducing-claude-tag",
-        "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
-        "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot"
-      ],
-      "titles": [
-        "西日本から東日本にかけて大雨の恐れ——梅雨前線が活発化、土砂災害に警戒",
-        "高市首相、インド訪問へ——経済安保5分野で協力強化、首脳会談も予定",
-        "皇室典範改正案「課題多い」——専門家が養子制度や家族分離の問題点を指摘",
-        "アフラック生命保険に不正アクセス——約438万人分の個人情報漏えい、口座情報23万件も含まれる",
-        "米イランがカタールで間接協議——ホルムズ海峡の安全確保と資産凍結解除を議論",
-        "ローカルLLMで「Pi」エージェントを動かす——Dockerサンドボックスとオープンソースツールで完全自律コーディングを実現",
-        "Sakana AIがマルチエージェントシステム「Fugu」にGoogle Cloudを選んだ理由——3層アーキテクチャで複数モデルを統合",
-        "任天堂、生成AIへの考え方を公表——「ゲーム開発とAI技術はもともと近い」が、創造性への影響を注視",
-        "Anthropic Launches Claude Tag — Multiplayer Agentic AI That Lives in Your Slack Workspace",
-        "GitHub Copilot Vision Goes GA — Attach Images and PDFs to Chat, Free for All Plans",
-        "Kimi K2.7 Code Is Now GA in GitHub Copilot — A New Open-Weight Competitor for Coding Tasks"
       ]
     }
   ]

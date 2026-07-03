@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-04T00:00:00+09:00",
+  "last_run_at": "2026-07-04T08:42:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-04T08:42:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070400133&g=spo&m=rss",
+        "https://news.yahoo.co.jp/pickup/6586644",
+        "https://news.yahoo.co.jp/pickup/6586651",
+        "https://news.yahoo.co.jp/pickup/6586650",
+        "https://www.jiji.com/jc/article?k=2026070400152&g=int&m=rss",
+        "https://zenn.dev/yui/articles/740da24e9ee419",
+        "https://zenn.dev/rapls/articles/7a1bac83df8b21",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news050.html",
+        "https://mistral.ai/news/leanstral-1-5/",
+        "https://simonwillison.net/2026/Jul/3/judgement/",
+        "https://www.publickey1.jp/blog/26/pythonmojomodularai.html"
+      ],
+      "titles": [
+        "望月慎太郎がウィンブルドン4回戦進出――日本男子では松岡・錦織に続く3人目の快挙",
+        "ペルー大統領にケイコ・フジモリ氏――日系人として父に続く親子2代での就任へ",
+        "外国人在留手数料の減額要件を厳格化――永住許可は1万円から20万円へ、10月施行へ向けた指針案",
+        "米・独立記念日に記録的熱波が直撃――W杯開催中の都市でもイベント中止・延期が相次ぐ",
+        "イラン、米制裁緩和を受けて日本企業と原油販売を協議――2019年以来の輸入再開へ",
+        "Fable 5をトークン破産させずに使い倒す――オーケストレーターに徹させる実践的運用戦略",
+        "AIに8割書かせたコード、半年運用の答え合わせ――「足し算より引き算」が保守性の鍵",
+        "「賢さよりツール連携力が重要」――MicrosoftがMagenticLiteとFara1.5を公開、小型モデルでも複雑タスクをこなすエージェント基盤",
+        "Mistral Releases Leanstral 1.5 — Open-Source 119B MoE Model Breaks Formal Proof Benchmarks, Finds Real-World Bugs",
+        "Simon Willison: Give Fable Judgment, Not Rules — How Discretion Beats Prescriptive Workflows for Agentic Efficiency",
+        "Qualcomm Acquires Modular (Mojo Language Creator) to Build CUDA-Rival AI Datacenter Stack"
+      ]
+    },
     {
       "run_at": "2026-07-04T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Releases Claude Sonnet 5 — Flagship-Grade Agentic Performance at Sonnet Pricing",
         "Simon Willison Ships shot-scraper video — AI Agents Can Now Auto-Record Demo Videos of Their Own Work",
         "Mixedbread Ships Asymmetric Quantization — 32x Storage Reduction for Late Interaction Embeddings with 0.7% Quality Loss"
-      ]
-    },
-    {
-      "run_at": "2026-07-02T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586502",
-        "https://news.yahoo.co.jp/pickup/6586499",
-        "https://www.jiji.com/jc/article?k=2026070200987&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070201007&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6586501",
-        "https://zenn.dev/acntechjp/articles/498c1dc866af19",
-        "https://zenn.dev/kusui26/articles/96f7ba8b7efd56",
-        "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
-        "https://senior-swe-bench.snorkel.ai/",
-        "https://blog.cloudflare.com/monetization-gateway/",
-        "https://f-droid.org/2026/07/01/adv-malware.html"
-      ],
-      "titles": [
-        "高市首相とモディ首相が会談、日印が経済安保5分野で協力強化に合意",
-        "個人株主が初めて延べ9000万人超え——株式分割の普及で12年連続増加",
-        "ロシア軍がキーウを大規模攻撃——ミサイル70発超・ドローン500機で13人死亡",
-        "2025年度の国の税収が84.2兆円——6年連続で過去最高を更新",
-        "2歳娘を虐待死させた両親の裁判員裁判始まる——体重は平均の半分まで衰弱",
-        "Claude Fable 5が帰還——セーフガード強化と段階的アクセス制限の詳細を整理",
-        "非エンジニアがMulmoClaude で10日間に5つのアプリを自作——Vibe Craftingという新パラダイム",
-        "復活した「Fable 5」——Anthropicが米政府からの要求に対してとった安全設計の詳細",
-        "Senior SWE-Bench: The New Benchmark That Evaluates AI Agents as Senior Engineers — Top Models Fail 75%+ of Tasks",
-        "Cloudflare Launches Monetization Gateway with x402 Protocol — Charge Agents Per-Request in Stablecoins",
-        "Google's Android Developer Verification System: F-Droid Warns of Root-Level Gatekeeper Affecting 4 Billion Devices"
       ]
     }
   ]

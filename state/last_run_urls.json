@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-05T00:00:00+09:00",
+  "last_run_at": "2026-07-05T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-05T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070400283&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070301007&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6586747",
+        "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
+        "https://www.jiji.com/jc/article?k=2026070400298&g=int&m=rss",
+        "https://zenn.dev/studypocket/articles/herdr-ai-agent-multiplexer",
+        "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000156/",
+        "https://www.itmedia.co.jp/enterprise/articles/2607/06/news016.html",
+        "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+        "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+        "https://github.com/anthropics/claude-code/issues/74066"
+      ],
+      "titles": [
+        "Ｗ杯クロアチア「幻の同点弾」――最新センサーがオフサイド認定、VARの是非に再び論争",
+        "消費減税の取りまとめ難航――与野党に異論続出、「骨太の方針」反映が不透明に",
+        "難病で鼻と唇が変形した51歳女性――40回超の手術と就職差別、「基本的人権はない」と言われた半生",
+        "MetaのザッカーバーグCEO「Claude Codeで爆速開発を目論んだが想定通りには加速せず」",
+        "イランで故ハメネイ師の国葬が開幕――市民数万人が首都で最後の別れ、後継体制への不安も",
+        "AIエージェント時代のターミナルマルチプレクサ「herdr」――tmuxを捨てて並列エージェント管理を最適化",
+        "ゲームエンジン「Godot」がAI生成コードを原則禁止――「機械と話したくない」レビュアーの疲弊が決め手に",
+        "AWSが「静かな」戦略転換――OpenAIとAnthropicを同等に扱うマルチモデル基盤へ、Bedrockで囲い込みを回避",
+        "Anthropic Introduces Cyber Jailbreak Severity (CJS) Scale — A Standardized Framework for AI Security Risk Communication",
+        "GitHub Copilot Agent Session Streaming Now in Public Preview — Enterprise-Wide AI Observability for Compliance Teams",
+        "Claude Code Session Leakage Bug Goes Public — Enterprise ZDR Workspace Boundaries May Not Be Fully Isolated"
+      ]
+    },
     {
       "run_at": "2026-07-05T00:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-04T20:41:00+09:00",
+  "last_run_at": "2026-07-05T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-05T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6586743",
+        "https://news.yahoo.co.jp/pickup/6586751",
+        "https://news.yahoo.co.jp/pickup/6586740",
+        "https://www.jiji.com/jc/article?k=2026070400277&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070400368&g=int&m=rss",
+        "https://zenn.dev/gys/articles/fable5-local-llm-ask-cli",
+        "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000157/",
+        "https://zenn.dev/hidechannu/articles/20260703-japanese-filename-bytestring",
+        "https://www.anthropic.com/news/claude-science-ai-workbench",
+        "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+        "https://github.blog/changelog/2026-07-01-enterprise-managed-settings-json-is-generally-available"
+      ],
+      "titles": [
+        "米建国250周年——プーチン大統領がトランプ氏に祝電、関係改善への期待を表明",
+        "九州北部、週明けにかけ大雨の恐れ——梅雨末期で地盤軟化、土砂災害に警戒",
+        "個人が7億5000万円を寄付——愛知・尾張旭市のプール全面改修が実現、市長「天の恵み」",
+        "米のAI規制、二転三転——「ミュトス」対応で政権内部に亀裂、任意の30日事前審査で着地",
+        "チベット人男性が国連本部前で焼身自殺——中国の民族弾圧に抗議、SNSで生中継",
+        "Claude Fable 5にローカルLLM用シェルCLIを作らせたら、コードより仕事の進め方に驚かされた",
+        "「Claude Fable 5」の性能は落ちたのか——提供停止前後の比較で米AI企業2社が正反対の結論",
+        "Next.jsの本番環境だけHTTPヘッダーエラー——日本語ファイル名がByteString制約に引っかかる罠",
+        "Anthropic Launches Claude Science — An AI Research Workbench for Scientists with 60+ Domain Skills",
+        "GitHub Issue Fields Now GA — AI Tools Can Read and Set Structured Metadata via MCP Integration",
+        "GitHub Enterprise managed-settings.json Now GA — Centralized AI Governance Across All Copilot Clients"
+      ]
+    },
     {
       "run_at": "2026-07-04T20:41:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Linux Foundation Announces Agent Name Service (ANS) — DNS-Based Identity Infrastructure for AI Agents",
         "GitHub Copilot: Gemini 2.5 Pro and Gemini 3 Flash Deprecated July 31 — Migrate to Newer Models Now",
         "Geoffrey Litt at AI Engineer: Understand to Participate — Why Developers Must Stay Cognitively Engaged with Agent-Generated Code"
-      ]
-    },
-    {
-      "run_at": "2026-07-03T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586573",
-        "https://news.yahoo.co.jp/pickup/6586577",
-        "https://news.yahoo.co.jp/pickup/6586565",
-        "https://news.yahoo.co.jp/pickup/6586569",
-        "https://www.jiji.com/jc/article?k=2026070300537&g=soc&m=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
-        "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000156/",
-        "https://zenn.dev/nexta_/articles/858e92ee22b4a4",
-        "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-        "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-        "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
-      ],
-      "titles": [
-        "外国人の永住許可手数料、1万円から20万円へ大幅引き上げ――10月施行目指す",
-        "米ニューヨークで42℃を記録――アメリカ東部に記録的熱波、W杯会場も警戒",
-        "セブン―イレブン、ナイキを米で提訴――7月11日発売スニーカーのデザイン酷似が争点",
-        "ウクライナ東部で半年ぶりの兵士交代――ドローン飛び交う前線での過酷な任務を終え",
-        "素材メーカー元社長を逮捕――20年にわたる粉飾で政策投資銀行から11億円詐取か",
-        "Meta「Claude Codeと組織改編で爆速開発のはず」が「想定ほど加速せず」――ザッカーバーグ氏が社内で認める",
-        "Godotエンジンがプルリク全面禁止へ――「機械と話したくない」レビュアーの反乱が自律型AIエージェントを締め出す",
-        "Claude Codeが同じバグを3回で自動ルール化――3ヵ月385セッションから生まれた「ふりかえり学習機構」",
-        "Apple Introduces Safari MCP Server — AI Agents Can Now Autonomously Debug Your Website in Safari",
-        "GitHub: Copilot CLI in Actions No Longer Needs a PAT — Org-Billed GITHUB_TOKEN Replaces Long-Lived Tokens",
-        "claude-real-video: Open-Source Tool Lets Any LLM Watch and Understand Videos via Scene-Aware Frame Extraction"
-      ]
-    },
-    {
-      "run_at": "2026-07-03T10:09:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586556",
-        "https://news.yahoo.co.jp/pickup/6586552",
-        "https://news.yahoo.co.jp/pickup/6586553",
-        "https://news.yahoo.co.jp/pickup/6586547",
-        "https://www.jiji.com/jc/article?k=2026070300126&g=pol&m=rss",
-        "https://zenn.dev/studypocket/articles/herdr-ai-agent-multiplexer",
-        "https://zenn.dev/sunagaku/articles/ai-autonomous-development-design",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news016.html",
-        "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-        "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-        "https://simonwillison.net/2026/Jul/2/llm-coding-agent/"
-      ],
-      "titles": [
-        "京都大学が「国際卓越研究大学」に認定へ――東北大・東京科学大に続く3校目",
-        "長期金利が一時2.81%に上昇――1997年5月以来、約29年ぶりの高水準",
-        "熱海土石流から5年――盛り土の法的責任は依然「押し付け合い」の状態",
-        "アマゾン、衛星インターネット年内サービス開始へ――軌道上に390基超を配備",
-        "玉木代表、連立入りに否定的――国民民主党、自民との距離感を改めて強調",
-        "AIエージェント時代のターミナルマルチプレクサ「herdr」――tmuxから乗り換えた開発者が語る設計の革新",
-        "AIが自走できるかは「設計」で決まる――良いコードを残し、悪いコードを入れさせない原則",
-        "ソフトウェアエンジニアの仕事は「ループ管理」へ――内側ループと外側ループ（ハーネス）入門",
-        "Anthropic Publishes Fable 5 Cyber Safeguards and the CJS Jailbreak Severity Framework",
-        "GitHub Copilot Agent Session Streaming Enters Public Preview — Enterprise-Wide AI Audit Trail",
-        "Simon Willison Releases llm-coding-agent 0.1a0 — A Minimal Agentic Coding CLI Built on the LLM Framework"
       ]
     }
   ]

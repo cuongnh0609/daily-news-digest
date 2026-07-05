@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-06T00:00:00+09:00",
+  "last_run_at": "2026-07-06T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-06T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070500217&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070500379&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070500306&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070500232&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/03/news124.html",
+        "https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories",
+        "https://www.itmedia.co.jp/news/articles/2607/03/news101.html",
+        "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
+        "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
+        "https://ui.shadcn.com/docs/changelog",
+        "https://github.com/langchain-ai/openwiki"
+      ],
+      "titles": [
+        "米建国250年祝典、トランプ氏「私物化」に各州が反発――分断を映す記念行事",
+        "高市首相、ペルー新大統領フジモリ氏へ祝辞――日系３世の当選で日ペルー関係に新展開",
+        "米ロ首脳、電話会談でウクライナ情勢を協議――今年4度目、停戦へ向けた接触続く",
+        "イラン国葬に「米国に死を」の声――ハメネイ師への弔意が体制団結の場に",
+        "消火栓標識柱にStarlinkを搭載――全国12万本を災害時通信拠点に活用する技術デモ",
+        "コードレビュー指摘300件を3ヶ月分類――「効いていた」のはBugとSpecの2種類だけだった",
+        "AnthropicがSamsungと独自AIチップ開発を協議中――2nmプロセスでNVIDIA依存脱却を模索",
+        "Claude Fable 5、サブスク標準機能として早期復活へ――Anthropicエンジニアが方針を表明",
+        "GitHub Models Fully Retired July 30 — All Users Must Migrate to Azure AI Foundry or GitHub Copilot",
+        "shadcn/ui Switches Default from Radix UI to Base UI — New Projects Get Base UI Automatically",
+        "OpenWiki: LangChain's CLI That Auto-Generates and Maintains Agent Documentation for Your Codebase"
+      ]
+    },
     {
       "run_at": "2026-07-06T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Launches Claude Science — An AI Research Workbench for Scientists with 60+ Domain Skills",
         "GitHub Issue Fields Now GA — AI Tools Can Read and Set Structured Metadata via MCP Integration",
         "GitHub Enterprise managed-settings.json Now GA — Centralized AI Governance Across All Copilot Clients"
-      ]
-    },
-    {
-      "run_at": "2026-07-04T20:41:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586726",
-        "https://news.yahoo.co.jp/pickup/6586716",
-        "https://www.jiji.com/jc/article?k=2026070301007&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070301159&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070400344&g=spo&m=rss",
-        "https://zenn.dev/trknhr/articles/42c20e11812217",
-        "https://zenn.dev/dataheroes/articles/why-coco-for-snowflake-dev",
-        "https://zenn.dev/asap/articles/1a267ec154c14d",
-        "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-        "https://simonwillison.net/2026/Jul/2/llm-coding-agent/",
-        "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions"
-      ],
-      "titles": [
-        "ロシアのキーウ大規模攻撃――ジェット推進ドローンが招いた過去最大級の犠牲",
-        "イランのハメネイ前最高指導者の国葬――参列者2000万人規模、各国弔問団がテヘランに集結",
-        "消費減税の取りまとめ難航――与野党から異論続出、7月「骨太の方針」への反映が不透明に",
-        "大坂なおみ、ウィンブルドン3回戦を突破――初の8強入りをかけ元世界1位が快進撃",
-        "ラグビー日本代表、新国際大会「ネーションズチャンピオンシップ」でイタリアを撃破",
-        ".env にAPIキーを書きたくないので軽いCLI「EnvVault」を作った",
-        "SnowflakeのAIコーディングアシスタント「CoCo」（旧Cortex Code）――Snowflake開発に専用AIを使うべき理由",
-        "今こそDGX Sparkを購入した理由――クラウドLLM無料枠の消滅と円安がローカルAI基盤投資を後押し",
-        "Dan Luu: Agentic Coding Loops Require Testing-First Thinking — LLMs Amplify Good Test Practices, Not Replace Them",
-        "Simon Willison Releases llm-coding-agent 0.1a0 — A Minimal Agentic Coding CLI Built Entirely by Fable 5 via TDD",
-        "GitHub Copilot CLI in Actions No Longer Needs a Personal Access Token — GITHUB_TOKEN Now Sufficient"
       ]
     }
   ]

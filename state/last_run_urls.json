@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-05T10:00:00+09:00",
+  "last_run_at": "2026-07-05T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-05T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070500111&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070500148&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070500174&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070500097&g=int&m=rss",
+        "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news047.html",
+        "https://zenn.dev/yuki_fujisawa/articles/a155d388e61acc",
+        "https://zenn.dev/acntechjp/articles/0c63b5b08bbdb9",
+        "https://zenn.dev/okssusucha/articles/20260701-openai-codex-sqlite-trace-log-ssd-wear",
+        "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+        "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
+        "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports"
+      ],
+      "titles": [
+        "須藤美貴さんが米ホットドッグ早食い大会で１２回目の優勝――建国２５０年記念大会を圧勝で制す",
+        "北朝鮮が駆逐艦から巡航ミサイル発射実験――金正恩氏「２カ月以内に就役せよ」と指示",
+        "Ｗ杯サッカー・フランスがパラグアイを下し８強へ――エムバペのＰＫ決勝弾で辛勝",
+        "米建国２５０年の祝賀行事――トランプ大統領「黄金時代の幕開け」と演説、花火８５万発も",
+        "マイクロンが長野県に新半導体工場――政府支援５３６０億円、HBMなどAI向け製品を製造へ",
+        "Claude Code（Opus 4.8）が数分固まる問題――１８８セッション実測したら、原因はAPIでもネットワークでもなかった",
+        "「Loop Engineering」とは何か――「自分の仕事はloopを書くこと」、4800スターのリポジトリが示す新パラダイム",
+        "OpenAI Codexが年間６４０ＴＢをＳＳＤに書き続けていた――原因はTRACEログの設定ミスと判明",
+        "sqlite-utils 4.0rc2, Mostly Written by Claude Fable for ~$149",
+        "GitHub Copilot Enterprises Can Now Default to Auto Model Selection",
+        "GitHub Copilot Usage Metrics Overhaul: CLI Line Counts, IDE Identity Gaps, and Credit Attribution Fixed"
+      ]
+    },
     {
       "run_at": "2026-07-05T10:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Current AI Releases Open Source AI Gap Map — 421 Products, 14 Categories, MIT-Licensed Dataset",
         "Epoch AI: Serious CVE Disclosures Spiked 3.5× Around Claude Mythos Release — AI-Powered Vulnerability Research Arrives",
         "Cloudflare Opens AI Crawler Control to All Customers — Three-Category Management: Search, Agent, Training"
-      ]
-    },
-    {
-      "run_at": "2026-07-04T08:42:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070400133&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6586644",
-        "https://news.yahoo.co.jp/pickup/6586651",
-        "https://news.yahoo.co.jp/pickup/6586650",
-        "https://www.jiji.com/jc/article?k=2026070400152&g=int&m=rss",
-        "https://zenn.dev/yui/articles/740da24e9ee419",
-        "https://zenn.dev/rapls/articles/7a1bac83df8b21",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news050.html",
-        "https://mistral.ai/news/leanstral-1-5/",
-        "https://simonwillison.net/2026/Jul/3/judgement/",
-        "https://www.publickey1.jp/blog/26/pythonmojomodularai.html"
-      ],
-      "titles": [
-        "望月慎太郎がウィンブルドン4回戦進出――日本男子では松岡・錦織に続く3人目の快挙",
-        "ペルー大統領にケイコ・フジモリ氏――日系人として父に続く親子2代での就任へ",
-        "外国人在留手数料の減額要件を厳格化――永住許可は1万円から20万円へ、10月施行へ向けた指針案",
-        "米・独立記念日に記録的熱波が直撃――W杯開催中の都市でもイベント中止・延期が相次ぐ",
-        "イラン、米制裁緩和を受けて日本企業と原油販売を協議――2019年以来の輸入再開へ",
-        "Fable 5をトークン破産させずに使い倒す――オーケストレーターに徹させる実践的運用戦略",
-        "AIに8割書かせたコード、半年運用の答え合わせ――「足し算より引き算」が保守性の鍵",
-        "「賢さよりツール連携力が重要」――MicrosoftがMagenticLiteとFara1.5を公開、小型モデルでも複雑タスクをこなすエージェント基盤",
-        "Mistral Releases Leanstral 1.5 — Open-Source 119B MoE Model Breaks Formal Proof Benchmarks, Finds Real-World Bugs",
-        "Simon Willison: Give Fable Judgment, Not Rules — How Discretion Beats Prescriptive Workflows for Agentic Efficiency",
-        "Qualcomm Acquires Modular (Mojo Language Creator) to Build CUDA-Rival AI Datacenter Stack"
-      ]
-    },
-    {
-      "run_at": "2026-07-04T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586625",
-        "https://news.yahoo.co.jp/pickup/6586636",
-        "https://news.yahoo.co.jp/pickup/6586639",
-        "https://news.yahoo.co.jp/pickup/6586629",
-        "https://news.yahoo.co.jp/pickup/6586562",
-        "https://zenn.dev/ryu1maniwa25/articles/fable5-agent-sop-setup",
-        "https://zenn.dev/aws_japan/articles/006-aws-specialist-agent",
-        "https://www.publickey1.jp/blog/26/astro_70vite_8rolldownrust.html",
-        "https://www.anthropic.com/news/introducing-claude-tag",
-        "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
-        "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/"
-      ],
-      "titles": [
-        "国会正常化が来週に持ち越し――野党の要求に与党が応えず、審議再開の見通し立たず",
-        "「案件屋」を初めて逮捕――強盗組織の仲介役、9300万円窃盗事件で警視庁が摘発",
-        "ロシア、日本から燃料輸入を画策か――韓国沖で瀬取り、制裁網くぐり抜けの疑い",
-        "冷凍サバ入り箱が崩落、作業員が下敷きで死亡――名古屋の水産加工場で事故",
-        "厚労相の事務所設置数が公選法違反の疑い――週刊誌が「裏選挙事務所」の存在を報道",
-        "Fable 5が使えるうちにAgent SOPを整備させる――100本のワークログから13の標準手順書を蒸留する実践",
-        "AWS AgentCoreをプロダクション利用する際の実装ノウハウ――マルチモデル・VPC完全分離・Cedar認可まで",
-        "静的サイトジェネレータ「Astro 7.0」正式リリース――RustコンパイラとVite 8/Rolldownで60%以上の高速化",
-        "Anthropic Launches Claude Tag — AI as an Active Slack Team Member with Multiplayer Collaboration",
-        "GitHub Models Fully Retired July 30 — Playground, Catalog, Inference API and BYOK All Shut Down",
-        "Podman v6.0.0 Released — Modernized Networking with Netavark/nftables, New Machine OS Update Command"
-      ]
-    },
-    {
-      "run_at": "2026-07-03T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070300376&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070300854&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070300888&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070300923&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6586614",
-        "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
-        "https://zenn.dev/uhyo/articles/react-profession-bench-9",
-        "https://zenn.dev/canly/articles/428767121d7dc2",
-        "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
-        "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-        "https://simonwillison.net/2026/Jul/2/understand-to-participate/"
-      ],
-      "titles": [
-        "外国人の在留手数料を大幅引き上げ――永住許可は1万円から20万円へ、10月施行方針",
-        "ウクライナ首都キーウへの大規模攻撃――ミサイルとドローンで死者30人、今年最悪の被害か",
-        "ボビー・オロゴン容疑者を不同意性交罪などで起訴――千葉地検が判断",
-        "野党3党合流で「中道」から党名変更も――政治再編の行方に関心高まる",
-        "マッチングアプリで出会った男性が「ロマンス詐欺」に――友人の反対を押し切り40万円騙し取られる",
-        "「Claude Fable 5」をサブスクの標準機能に――Anthropicエンジニアが7月8日以降の早期復活を示唆",
-        "【速報】Claude Sonnet 5のReact習熟度はOpus 4.8に匹敵――独自ベンチマーク13仕様で検証",
-        "10ヵ月CLIで使ったClaude Codeを「Desktop」メインに移行した12の理由",
-        "Linux Foundation Announces Agent Name Service (ANS) — DNS-Based Identity Infrastructure for AI Agents",
-        "GitHub Copilot: Gemini 2.5 Pro and Gemini 3 Flash Deprecated July 31 — Migrate to Newer Models Now",
-        "Geoffrey Litt at AI Engineer: Understand to Participate — Why Developers Must Stay Cognitively Engaged with Agent-Generated Code"
       ]
     }
   ]

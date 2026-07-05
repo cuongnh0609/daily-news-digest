@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-05T20:00:00+09:00",
+  "last_run_at": "2026-07-06T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-06T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070500334&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070500221&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6586856?source=rss",
+        "https://news.yahoo.co.jp/pickup/6586866?source=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/03/news136.html",
+        "https://zenn.dev/nobu666/articles/ai-external-brain-digest",
+        "https://zenn.dev/rapls/articles/7a1bac83df8b21",
+        "https://zenn.dev/yui/articles/740da24e9ee419",
+        "https://www.anthropic.com/news/introducing-claude-tag",
+        "https://arxiv.org/abs/2605.21997",
+        "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps"
+      ],
+      "titles": [
+        "滋賀知事に三日月氏４選　３新人破る",
+        "はやぶさ２、小惑星の通過観測成功　弾丸５倍の超高速で―「地球防衛」にも貢献",
+        "九州北部で非常に激しい雨か 警戒",
+        "高市内閣の支持率65.9% JNN",
+        "ゆうパック、平均約10％値上げ　ゆうパケットは一律360円に　10月から",
+        "AIに外部脳を持たせて1ヶ月運用した全記録",
+        "AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ",
+        "Fable 5をトークン破産させずに使い倒す — オーケストレーターに徹させる運用",
+        "Introducing Claude Tag",
+        "The Log is the Agent",
+        "Cost centers now support AI credit pools"
+      ]
+    },
     {
       "run_at": "2026-07-05T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Dan Luu: Agentic Coding Loops Require Testing-First Thinking — LLMs Amplify Good Test Practices, Not Replace Them",
         "Simon Willison Releases llm-coding-agent 0.1a0 — A Minimal Agentic Coding CLI Built Entirely by Fable 5 via TDD",
         "GitHub Copilot CLI in Actions No Longer Needs a Personal Access Token — GITHUB_TOKEN Now Sufficient"
-      ]
-    },
-    {
-      "run_at": "2026-07-04T15:41:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586697",
-        "https://news.yahoo.co.jp/pickup/6586704",
-        "https://news.yahoo.co.jp/pickup/6586692",
-        "https://www.itmedia.co.jp/news/articles/2607/03/news139.html",
-        "https://www.itmedia.co.jp/news/articles/2607/03/news082.html",
-        "https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/",
-        "https://www.itmedia.co.jp/news/articles/2607/03/news050.html",
-        "https://monoist.itmedia.co.jp/mn/articles/2607/04/news016.html",
-        "https://www.wafer.ai/blog/glm52-amd",
-        "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
-        "https://github.com/jamesob/local-llm"
-      ],
-      "titles": [
-        "6日にかけ西日本から東日本で断続的な雨――土砂災害・浸水への厳重な警戒を",
-        "行方不明の10歳男児が死亡確認――父親が声を震わせ安全対策の継続を訴える",
-        "ヨーロッパの熱波でパリ周辺の死者が1週間で6割増――気候変動の影響が鮮明に",
-        "講談社、「はたらく細胞」作者に謝罪――監修体制と作画環境の不備を認める",
-        "KADOKAWAの早期退職に154人が応募――年間約17億円の人件費削減を目指す",
-        "トランプ大統領「AI規制は介入を最小限に」――中国との開発競争で「圧倒的リード」を強調",
-        "\"開かずの基幹システム\"、450人月の解析をAIで実質2カ月に――カクヤス、生成AIで30年物のレガシーを「転生」",
-        "フィジカルAIの日の丸連合「Noetra」始動――ソニー・SoftBank・NECが出資、2031年までに人型ロボット実用化へ",
-        "Wafer Runs GLM-5.2 on AMD MI355X at 2.75× Lower Cost Than NVIDIA Blackwell — The CUDA Moat Is Cracking",
-        "Canonical Uses TLA+ to Hunt a 16-Year-Old SQLite WAL Bug — dqlite Unaffected Thanks to Stricter Locking",
-        "jamesob's Guide to Running SOTA LLMs Locally — From $2k to $40k Setups for Real Inference Independence"
       ]
     }
   ]

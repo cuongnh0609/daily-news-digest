@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-05T05:00:00+09:00",
+  "last_run_at": "2026-07-05T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-05T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070400262&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070400265&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070400285&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070500129&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070400266&g=soc&m=rss",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news016.html",
+        "https://www.anthropic.com/news/redeploying-fable-5",
+        "https://www.itmedia.co.jp/news/articles/2607/02/news058.html",
+        "https://www.anthropic.com/news/redeploying-fable-5",
+        "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+        "https://github.com/openai/codex/issues/30364"
+      ],
+      "titles": [
+        "空転国会、高市首相の決断が焦点に――「維新２法案」を巡る与野党の攻防が最終局面へ",
+        "特捜検事２人が不適正取り調べで刑事裁判へ――「在り方見直し」求める声が高まる",
+        "ホルムズ海峡の通航回復で世界原油の供給過剰懸念が浮上――専門家「価格押し下げ圧力が継続」",
+        "Ｗ杯サッカー、モロッコが安定感際立つ戦いぶりで準々決勝へ――冷静な戦術眼が光る",
+        "能登の被災生徒を見送った機長志願の鈴木さん――「前を向く契機に」、日航子会社でＷ杯へ",
+        "ソフトウェアエンジニアの仕事は「ループを書くこと」になる――内側ループ（エージェント）と外側ループ（ハーネス）入門",
+        "Anthropicが「Claude Fable 5」再公開の経緯と新セーフガードを詳細公開――米政府との交渉と業界共通フレームワークへの提言",
+        "GoogleのAIエージェント「Gemini Spark」がmacOSに対応――Canva・Dropboxなど外部アプリ連携と独自MCPサーバ接続もサポート",
+        "Anthropic Redeploys Fable 5 Globally After US Export Control Lifted -- Introduces CJS Scale and Industry Safeguard Framework",
+        "Better Models, Worse Tools -- Opus 4.8 and Sonnet 5 Regress on Third-Party Tool Schema Conformance",
+        "GPT-5.5 Codex Reasoning-Token Clustering May Be Causing Performance Degradation in Production Agentic Workflows"
+      ]
+    },
     {
       "run_at": "2026-07-05T05:00:00+09:00",
       "urls": [
@@ -110,7 +139,7 @@
         "講談社、「はたらく細胞」作者に謝罪――監修体制と作画環境の不備を認める",
         "KADOKAWAの早期退職に154人が応募――年間約17億円の人件費削減を目指す",
         "トランプ大統領「AI規制は介入を最小限に」――中国との開発競争で「圧倒的リード」を強調",
-        ""開かずの基幹システム"、450人月の解析をAIで実質2カ月に――カクヤス、生成AIで30年物のレガシーを「転生」",
+        "\"開かずの基幹システム\"、450人月の解析をAIで実質2カ月に――カクヤス、生成AIで30年物のレガシーを「転生」",
         "フィジカルAIの日の丸連合「Noetra」始動――ソニー・SoftBank・NECが出資、2031年までに人型ロボット実用化へ",
         "Wafer Runs GLM-5.2 on AMD MI355X at 2.75× Lower Cost Than NVIDIA Blackwell — The CUDA Moat Is Cracking",
         "Canonical Uses TLA+ to Hunt a 16-Year-Old SQLite WAL Bug — dqlite Unaffected Thanks to Stricter Locking",

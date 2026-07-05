@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-05T15:00:00+09:00",
+  "last_run_at": "2026-07-05T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-05T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070500279&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070500239&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070500278&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070500260&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070500247&g=spo&m=rss",
+        "https://zenn.dev/ryu1maniwa/articles/fable5-agent-sop-setup",
+        "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
+        "https://www.publickey1.jp/blog/26/githubai_1.html",
+        "https://www.anthropic.com/news/claude-sonnet-5",
+        "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+        "https://simonwillison.net/2026/Jul/3/judgement/"
+      ],
+      "titles": [
+        "ニューヨーク独立記念日の祝典でコニーアイランドに銃撃――子ども４人含む８人が負傷",
+        "中国当局に拘束されていた牧師が解放され渡米――米中首脳会談後の「友好的ジェスチャー」か",
+        "OPECプラス、５カ月連続の増産決定――ホルムズ海峡通航回復で供給過剰懸念が浮上",
+        "福岡・田川市長選が告示――セクハラ認定の前市長が再出馬、４人が立候補",
+        "ルーキー倉林紅が資生堂レディースで史上最多7人のプレーオフを制し初優勝",
+        "AIエージェントの「SOP基盤」をFable 5で整備する――仕事ログからSOPを発掘し組織知識を永続させる手法",
+        "DNSを拡張してAIエージェントに信頼できる名前を付与する「Agent Name Service」――Linux Foundationが立ち上げ意向を発表",
+        "GitHub、AIによる粗悪なプルリクエストを抑制へ――ユーザー単位のPR数上限設定機能を導入",
+        "Anthropic Launches Claude Sonnet 5 — Most Agentic Sonnet Yet Narrows Gap with Opus 4.8",
+        "GitHub Copilot Deprecates Gemini 2.5 Pro and Gemini 3 Flash — Migration Required by July 31",
+        "Fable's Judgement: Delegating AI Model-Selection Decisions to the Agent Itself Outperforms Prescriptive Rules"
+      ]
+    },
     {
       "run_at": "2026-07-05T15:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Wafer Runs GLM-5.2 on AMD MI355X at 2.75× Lower Cost Than NVIDIA Blackwell — The CUDA Moat Is Cracking",
         "Canonical Uses TLA+ to Hunt a 16-Year-Old SQLite WAL Bug — dqlite Unaffected Thanks to Stricter Locking",
         "jamesob's Guide to Running SOTA LLMs Locally — From $2k to $40k Setups for Real Inference Independence"
-      ]
-    },
-    {
-      "run_at": "2026-07-04T10:42:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586666",
-        "https://news.yahoo.co.jp/pickup/6586656",
-        "https://www.itmedia.co.jp/news/articles/2607/03/news136.html",
-        "https://www.itmedia.co.jp/news/articles/2607/03/news124.html",
-        "https://www.itmedia.co.jp/news/articles/2607/03/news083.html",
-        "https://zenn.dev/peishim/articles/37ff4d894f8fbc",
-        "https://www.itmedia.co.jp/news/articles/2607/03/news101.html",
-        "https://www.itmedia.co.jp/news/articles/2607/03/news087.html",
-        "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/",
-        "https://epoch.ai/data-insights/cve-severity-spike",
-        "https://www.itmedia.co.jp/news/articles/2607/03/news087.html"
-      ],
-      "titles": [
-        "九州に線状降水帯が相次ぎ発生――土砂災害・浸水に厳重警戒",
-        "ロシア、ウクライナ東部の要衝「制圧」と発表――ドネツク州コンスタンチノフカ陥落か",
-        "ゆうパック、10月から平均10%値上げ――ゆうパケットも一律360円へ",
-        "消火栓標識にStarlinkを設置――災害時の通信拠点として全国12万本を活用する技術デモ",
-        "Amazonの衛星インターネット「Leo」、打ち上げ300基超え――世界3位の規模に成長",
-        "Generative UIとOpenUI――AIがレイアウトまで生成する新パラダイム、トークン67%削減の秘訣",
-        "AnthropicとSamsungが独自AIチップ開発を協議――脱NVIDIA依存、AI専用半導体市場の争奪戦が加速",
-        "Cloudflare、AIクローラー制御を全顧客に開放――「検索」「エージェント」「学習」の3分類で細かく管理可能に",
-        "Current AI Releases Open Source AI Gap Map — 421 Products, 14 Categories, MIT-Licensed Dataset",
-        "Epoch AI: Serious CVE Disclosures Spiked 3.5× Around Claude Mythos Release — AI-Powered Vulnerability Research Arrives",
-        "Cloudflare Opens AI Crawler Control to All Customers — Three-Category Management: Search, Agent, Training"
       ]
     }
   ]

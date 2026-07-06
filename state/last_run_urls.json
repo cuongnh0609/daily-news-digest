@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-07T00:00:00+09:00",
+  "last_run_at": "2026-07-07T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-07T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070600575&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070601135&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6586980",
+        "https://www.itmedia.co.jp/news/articles/2607/06/news133.html",
+        "https://www.itmedia.co.jp/news/articles/2607/06/news130.html",
+        "https://zenn.dev/ait/articles/fable-emu-opus-harness",
+        "https://zenn.dev/garasubo/articles/9b9548ebab5a67",
+        "https://zenn.dev/gys/articles/fable5-local-llm-ask-cli",
+        "https://www.anthropic.com/research/global-workspace",
+        "https://simonwillison.net/2026/Jul/2/llm-coding-agent/",
+        "https://www.anthropic.com/news/alberta-government-claude-cybersecurity"
+      ],
+      "titles": [
+        "NATO首脳会議がアンカラで開幕――欧州防衛費のGDP比5%目標達成が最大の焦点に",
+        "トランプ大統領、FIFA会長に「W杯判定の見直しを求めた」と公言――異例のスポーツ介入に批判集まる",
+        "鹿児島で5歳男児が行方不明になって2週間――父「諦めない」と毎日現場へ、捜索続く",
+        "はやぶさ2、小惑星「トリフネ」を秒速5kmで超接近撮影――表面の岩塊まで鮮明に捉えることに成功",
+        "JAXA、AIで宇宙船と「会話」できる次世代インターフェース「Mission Buddy」の試験運用開始",
+        "Claude Fable 5の挙動をOpus 4.8で再現する「fable-emu」ハーネス設計――Plan→Execute→Verify→Reportの4段階で品質を担保",
+        "AIコーディング時代の生き抜き方――「何を作らないか」を決める力こそが最重要スキルに",
+        "Claude Code「Fable 5」でローカルLLM用シェル補助CLI「ask」を開発――モデル選定を実測ベースで行う手法が参考に",
+        "Anthropic Research: Claude Has a \"Global Workspace\" — Internal Neural Patterns That Function Like Conscious Thought",
+        "Simon Willison Releases llm-coding-agent 0.1a0 — A Spec-Driven Coding Agent Built by AI, for AI-Assisted Development",
+        "Government of Alberta Deploys Claude for Automated Cybersecurity Vulnerability Detection Across All Government Systems"
+      ]
+    },
     {
       "run_at": "2026-07-07T00:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "Anthropic Launches Claude Sonnet 5 — Most Agentic Sonnet Yet Narrows Gap with Opus 4.8",
         "GitHub Copilot Deprecates Gemini 2.5 Pro and Gemini 3 Flash — Migration Required by July 31",
         "Fable's Judgement: Delegating AI Model-Selection Decisions to the Agent Itself Outperforms Prescriptive Rules"
-      ]
-    },
-    {
-      "run_at": "2026-07-05T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070500111&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070500148&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070500174&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070500097&g=int&m=rss",
-        "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news047.html",
-        "https://zenn.dev/yuki_fujisawa/articles/a155d388e61acc",
-        "https://zenn.dev/acntechjp/articles/0c63b5b08bbdb9",
-        "https://zenn.dev/okssusucha/articles/20260701-openai-codex-sqlite-trace-log-ssd-wear",
-        "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-        "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-        "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports"
-      ],
-      "titles": [
-        "須藤美貴さんが米ホットドッグ早食い大会で１２回目の優勝――建国２５０年記念大会を圧勝で制す",
-        "北朝鮮が駆逐艦から巡航ミサイル発射実験――金正恩氏「２カ月以内に就役せよ」と指示",
-        "Ｗ杯サッカー・フランスがパラグアイを下し８強へ――エムバペのＰＫ決勝弾で辛勝",
-        "米建国２５０年の祝賀行事――トランプ大統領「黄金時代の幕開け」と演説、花火８５万発も",
-        "マイクロンが長野県に新半導体工場――政府支援５３６０億円、HBMなどAI向け製品を製造へ",
-        "Claude Code（Opus 4.8）が数分固まる問題――１８８セッション実測したら、原因はAPIでもネットワークでもなかった",
-        "「Loop Engineering」とは何か――「自分の仕事はloopを書くこと」、4800スターのリポジトリが示す新パラダイム",
-        "OpenAI Codexが年間６４０ＴＢをＳＳＤに書き続けていた――原因はTRACEログの設定ミスと判明",
-        "sqlite-utils 4.0rc2, Mostly Written by Claude Fable for ~$149",
-        "GitHub Copilot Enterprises Can Now Default to Auto Model Selection",
-        "GitHub Copilot Usage Metrics Overhaul: CLI Line Counts, IDE Identity Gaps, and Credit Attribution Fixed"
-      ]
-    },
-    {
-      "run_at": "2026-07-05T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070400262&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070400265&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070400285&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070500129&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070400266&g=soc&m=rss",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news016.html",
-        "https://www.anthropic.com/news/redeploying-fable-5",
-        "https://www.itmedia.co.jp/news/articles/2607/02/news058.html",
-        "https://www.anthropic.com/news/redeploying-fable-5",
-        "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-        "https://github.com/openai/codex/issues/30364"
-      ],
-      "titles": [
-        "空転国会、高市首相の決断が焦点に――「維新２法案」を巡る与野党の攻防が最終局面へ",
-        "特捜検事２人が不適正取り調べで刑事裁判へ――「在り方見直し」求める声が高まる",
-        "ホルムズ海峡の通航回復で世界原油の供給過剰懸念が浮上――専門家「価格押し下げ圧力が継続」",
-        "Ｗ杯サッカー、モロッコが安定感際立つ戦いぶりで準々決勝へ――冷静な戦術眼が光る",
-        "能登の被災生徒を見送った機長志願の鈴木さん――「前を向く契機に」、日航子会社でＷ杯へ",
-        "ソフトウェアエンジニアの仕事は「ループを書くこと」になる――内側ループ（エージェント）と外側ループ（ハーネス）入門",
-        "Anthropicが「Claude Fable 5」再公開の経緯と新セーフガードを詳細公開――米政府との交渉と業界共通フレームワークへの提言",
-        "GoogleのAIエージェント「Gemini Spark」がmacOSに対応――Canva・Dropboxなど外部アプリ連携と独自MCPサーバ接続もサポート",
-        "Anthropic Redeploys Fable 5 Globally After US Export Control Lifted -- Introduces CJS Scale and Industry Safeguard Framework",
-        "Better Models, Worse Tools -- Opus 4.8 and Sonnet 5 Regress on Third-Party Tool Schema Conformance",
-        "GPT-5.5 Codex Reasoning-Token Clustering May Be Causing Performance Degradation in Production Agentic Workflows"
-      ]
-    },
-    {
-      "run_at": "2026-07-05T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070400283&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070301007&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6586747",
-        "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
-        "https://www.jiji.com/jc/article?k=2026070400298&g=int&m=rss",
-        "https://zenn.dev/studypocket/articles/herdr-ai-agent-multiplexer",
-        "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000156/",
-        "https://www.itmedia.co.jp/enterprise/articles/2607/06/news016.html",
-        "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-        "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-        "https://github.com/anthropics/claude-code/issues/74066"
-      ],
-      "titles": [
-        "Ｗ杯クロアチア「幻の同点弾」――最新センサーがオフサイド認定、VARの是非に再び論争",
-        "消費減税の取りまとめ難航――与野党に異論続出、「骨太の方針」反映が不透明に",
-        "難病で鼻と唇が変形した51歳女性――40回超の手術と就職差別、「基本的人権はない」と言われた半生",
-        "MetaのザッカーバーグCEO「Claude Codeで爆速開発を目論んだが想定通りには加速せず」",
-        "イランで故ハメネイ師の国葬が開幕――市民数万人が首都で最後の別れ、後継体制への不安も",
-        "AIエージェント時代のターミナルマルチプレクサ「herdr」――tmuxを捨てて並列エージェント管理を最適化",
-        "ゲームエンジン「Godot」がAI生成コードを原則禁止――「機械と話したくない」レビュアーの疲弊が決め手に",
-        "AWSが「静かな」戦略転換――OpenAIとAnthropicを同等に扱うマルチモデル基盤へ、Bedrockで囲い込みを回避",
-        "Anthropic Introduces Cyber Jailbreak Severity (CJS) Scale — A Standardized Framework for AI Security Risk Communication",
-        "GitHub Copilot Agent Session Streaming Now in Public Preview — Enterprise-Wide AI Observability for Compliance Teams",
-        "Claude Code Session Leakage Bug Goes Public — Enterprise ZDR Workspace Boundaries May Not Be Fully Isolated"
       ]
     }
   ]

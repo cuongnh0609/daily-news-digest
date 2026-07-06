@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-06T05:00:00+09:00",
+  "last_run_at": "2026-07-06T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-06T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070600137&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070500312&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070500223&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6586893?source=rss",
+        "https://www.jiji.com/jc/article?k=2026070600102&g=spo&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/02/news017.html",
+        "https://zenn.dev/canly/articles/428767121d7dc2",
+        "https://www.itmedia.co.jp/news/articles/2607/06/news052.html",
+        "https://huggingface.co/blog/ibm-research/scarfbench",
+        "https://www.latent.space/p/vercel-agents-new-software",
+        "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/"
+      ],
+      "titles": [
+        "大坂なおみが準々決勝へ　日本女子３人目、サバレンカ破る―ウィンブルドンテニス",
+        "設計寿命超え、機体に不安も　イオンエンジンは残り１基―はやぶさ２",
+        "立民「排除の論理」警戒　中道公明系に強硬論",
+        "豪雨で親友失う 教師志し語り継ぐ",
+        "バログン次戦出場可能に　異例措置、トランプ氏介入の報道―Ｗ杯サッカー",
+        "AnthropicがAWS Summit Japan 2026で公開――営業チームに５つのAIエージェントを配備、MCPで業務を完全自動化",
+        "CLI 10ヶ月からDesktopへ移行した12の理由――並走前提の設計が生む「素のままの自動化」",
+        "Amazon Mechanical Turk、新規受付を7月30日で終了――LLM台頭がクラウドソーシングの役割を縮小",
+        "ScarfBench: AI Agents Achieve Under 10% Success on Real-World Java Framework Migration",
+        "Vercel's Andrew Qu: Agents Are a New Kind of Software Requiring New Primitives",
+        "Current AI Releases Open Source AI Gap Map v0.1 — 421 Projects Across 14 Categories Indexed"
+      ]
+    },
     {
       "run_at": "2026-07-06T05:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Introduces Cyber Jailbreak Severity (CJS) Scale — A Standardized Framework for AI Security Risk Communication",
         "GitHub Copilot Agent Session Streaming Now in Public Preview — Enterprise-Wide AI Observability for Compliance Teams",
         "Claude Code Session Leakage Bug Goes Public — Enterprise ZDR Workspace Boundaries May Not Be Fully Isolated"
-      ]
-    },
-    {
-      "run_at": "2026-07-05T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586743",
-        "https://news.yahoo.co.jp/pickup/6586751",
-        "https://news.yahoo.co.jp/pickup/6586740",
-        "https://www.jiji.com/jc/article?k=2026070400277&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070400368&g=int&m=rss",
-        "https://zenn.dev/gys/articles/fable5-local-llm-ask-cli",
-        "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000157/",
-        "https://zenn.dev/hidechannu/articles/20260703-japanese-filename-bytestring",
-        "https://www.anthropic.com/news/claude-science-ai-workbench",
-        "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-        "https://github.blog/changelog/2026-07-01-enterprise-managed-settings-json-is-generally-available"
-      ],
-      "titles": [
-        "米建国250周年——プーチン大統領がトランプ氏に祝電、関係改善への期待を表明",
-        "九州北部、週明けにかけ大雨の恐れ——梅雨末期で地盤軟化、土砂災害に警戒",
-        "個人が7億5000万円を寄付——愛知・尾張旭市のプール全面改修が実現、市長「天の恵み」",
-        "米のAI規制、二転三転——「ミュトス」対応で政権内部に亀裂、任意の30日事前審査で着地",
-        "チベット人男性が国連本部前で焼身自殺——中国の民族弾圧に抗議、SNSで生中継",
-        "Claude Fable 5にローカルLLM用シェルCLIを作らせたら、コードより仕事の進め方に驚かされた",
-        "「Claude Fable 5」の性能は落ちたのか——提供停止前後の比較で米AI企業2社が正反対の結論",
-        "Next.jsの本番環境だけHTTPヘッダーエラー——日本語ファイル名がByteString制約に引っかかる罠",
-        "Anthropic Launches Claude Science — An AI Research Workbench for Scientists with 60+ Domain Skills",
-        "GitHub Issue Fields Now GA — AI Tools Can Read and Set Structured Metadata via MCP Integration",
-        "GitHub Enterprise managed-settings.json Now GA — Centralized AI Governance Across All Copilot Clients"
       ]
     }
   ]

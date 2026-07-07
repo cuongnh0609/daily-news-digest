@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-07T05:00:00+09:00",
+  "last_run_at": "2026-07-07T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-07T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070600991&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070700227&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6587008",
+        "https://www.itmedia.co.jp/news/articles/2607/07/news076.html",
+        "https://www.jiji.com/jc/article?k=2026070700111&g=soc&m=rss",
+        "https://zenn.dev/uzulla/articles/91272997a7c668",
+        "https://zenn.dev/yuki_fujisawa/articles/a155d388e61acc",
+        "https://zenn.dev/acntechjp/articles/0c63b5b08bbdb9",
+        "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+        "https://github.com/iOfficeAI/OfficeCLI",
+        "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/"
+      ],
+      "titles": [
+        "高市首相が強硬路線を転換――参院審議の正常化へ合意、17法案の成立に黄信号",
+        "サムスン電子、四半期過去最高益を更新――半導体好況で営業利益が前年比約19倍に",
+        "内田梨瑚被告に懲役27年が確定――旭川で17歳少女を橋から突き落とした殺人事件",
+        "マイクロソフト、約4800人を削減――XboxとCommercial部門を中心に大規模な組織再編",
+        "ネアンデルタール人も貝殻を「鑑賞」していた――現生人類と共通する審美的感覚が明らかに",
+        "AIエージェントにProxmox + LXCで「使い捨て自由空間」を提供する設計パターン",
+        "Claude Code (Opus 4.8) が「数分固まる」真因を188セッション・14000ターン実測で解明",
+        "4800スターを獲得した「Loop Engineering」とは何か――「自分の仕事はloopを書くこと」",
+        "GLM 5.2 and the Coming AI Margin Collapse — Open-Weight Models Threaten Frontier Lab Business Models",
+        "OfficeCLI: A Single-Binary Office Suite That Gives AI Agents Full Control Over Word, Excel, and PowerPoint",
+        "Resetting Xbox: Microsoft Spins Off Four Studios and Cuts 3,200 Jobs in Sweeping Gaming Restructure"
+      ]
+    },
     {
       "run_at": "2026-07-07T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Introducing Claude Tag",
         "The Log is the Agent",
         "Cost centers now support AI credit pools"
-      ]
-    },
-    {
-      "run_at": "2026-07-05T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070500279&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070500239&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070500278&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070500260&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070500247&g=spo&m=rss",
-        "https://zenn.dev/ryu1maniwa/articles/fable5-agent-sop-setup",
-        "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
-        "https://www.publickey1.jp/blog/26/githubai_1.html",
-        "https://www.anthropic.com/news/claude-sonnet-5",
-        "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-        "https://simonwillison.net/2026/Jul/3/judgement/"
-      ],
-      "titles": [
-        "ニューヨーク独立記念日の祝典でコニーアイランドに銃撃――子ども４人含む８人が負傷",
-        "中国当局に拘束されていた牧師が解放され渡米――米中首脳会談後の「友好的ジェスチャー」か",
-        "OPECプラス、５カ月連続の増産決定――ホルムズ海峡通航回復で供給過剰懸念が浮上",
-        "福岡・田川市長選が告示――セクハラ認定の前市長が再出馬、４人が立候補",
-        "ルーキー倉林紅が資生堂レディースで史上最多7人のプレーオフを制し初優勝",
-        "AIエージェントの「SOP基盤」をFable 5で整備する――仕事ログからSOPを発掘し組織知識を永続させる手法",
-        "DNSを拡張してAIエージェントに信頼できる名前を付与する「Agent Name Service」――Linux Foundationが立ち上げ意向を発表",
-        "GitHub、AIによる粗悪なプルリクエストを抑制へ――ユーザー単位のPR数上限設定機能を導入",
-        "Anthropic Launches Claude Sonnet 5 — Most Agentic Sonnet Yet Narrows Gap with Opus 4.8",
-        "GitHub Copilot Deprecates Gemini 2.5 Pro and Gemini 3 Flash — Migration Required by July 31",
-        "Fable's Judgement: Delegating AI Model-Selection Decisions to the Agent Itself Outperforms Prescriptive Rules"
       ]
     }
   ]

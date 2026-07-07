@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-07T15:00:00+09:00",
+  "last_run_at": "2026-07-07T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-07T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070700948&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070700965&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6587079?source=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/07/news158.html",
+        "https://www.itmedia.co.jp/news/articles/2607/07/news131.html",
+        "https://www.itmedia.co.jp/news/articles/2607/03/news087.html",
+        "https://zenn.dev/yui/articles/e4f8268ab5c6c1",
+        "https://www.itmedia.co.jp/news/articles/2607/07/news084.html",
+        "https://www.anthropic.com/features/making-of-claude-code",
+        "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/",
+        "https://ternlight-demo.vercel.app/"
+      ],
+      "titles": [
+        "高市氏は「美しい妹」、誤訳か――モディ氏発言で政府説明",
+        "防衛省の「局」、増設検討――国際協力所管、OB支援庁も",
+        "西日本豪雨8年 亡き義母への思い",
+        "次期学習指導要領では「情報」教育を大幅に拡充、教科新設や先行導入も",
+        "観測史上最古の巨大ブラックホール発見――宇宙誕生から6億7000万年ごろの天体",
+        "Cloudflare、AIクローラー制御を全顧客に開放――「検索」「エージェント」「学習」の3分類で管理可能に",
+        "Fable 5が使えなくなる前に、その「働き方」をOpus/Sonnetに引き継がせた",
+        "SpaceX、xAIの正式名称を「SpaceXAI」に――新ロゴも公開",
+        "The Making of Claude Code: From Internal CLI to Anthropic's Production Coding Agent",
+        "Better Models: Worse Tools — Newer Claude Models Misuse Custom Tool Schemas",
+        "Ternlight: 7 MB Embedding Model That Runs Entirely in the Browser via WASM"
+      ]
+    },
     {
       "run_at": "2026-07-07T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "ScarfBench: AI Agents Achieve Under 10% Success on Real-World Java Framework Migration",
         "Vercel's Andrew Qu: Agents Are a New Kind of Software Requiring New Primitives",
         "Current AI Releases Open Source AI Gap Map v0.1 — 421 Projects Across 14 Categories Indexed"
-      ]
-    },
-    {
-      "run_at": "2026-07-06T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070500217&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070500379&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070500306&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070500232&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/03/news124.html",
-        "https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories",
-        "https://www.itmedia.co.jp/news/articles/2607/03/news101.html",
-        "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
-        "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
-        "https://ui.shadcn.com/docs/changelog",
-        "https://github.com/langchain-ai/openwiki"
-      ],
-      "titles": [
-        "米建国250年祝典、トランプ氏「私物化」に各州が反発――分断を映す記念行事",
-        "高市首相、ペルー新大統領フジモリ氏へ祝辞――日系３世の当選で日ペルー関係に新展開",
-        "米ロ首脳、電話会談でウクライナ情勢を協議――今年4度目、停戦へ向けた接触続く",
-        "イラン国葬に「米国に死を」の声――ハメネイ師への弔意が体制団結の場に",
-        "消火栓標識柱にStarlinkを搭載――全国12万本を災害時通信拠点に活用する技術デモ",
-        "コードレビュー指摘300件を3ヶ月分類――「効いていた」のはBugとSpecの2種類だけだった",
-        "AnthropicがSamsungと独自AIチップ開発を協議中――2nmプロセスでNVIDIA依存脱却を模索",
-        "Claude Fable 5、サブスク標準機能として早期復活へ――Anthropicエンジニアが方針を表明",
-        "GitHub Models Fully Retired July 30 — All Users Must Migrate to Azure AI Foundry or GitHub Copilot",
-        "shadcn/ui Switches Default from Radix UI to Base UI — New Projects Get Base UI Automatically",
-        "OpenWiki: LangChain's CLI That Auto-Generates and Maintains Agent Documentation for Your Codebase"
-      ]
-    },
-    {
-      "run_at": "2026-07-06T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070500334&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070500221&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6586856?source=rss",
-        "https://news.yahoo.co.jp/pickup/6586866?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/03/news136.html",
-        "https://zenn.dev/nobu666/articles/ai-external-brain-digest",
-        "https://zenn.dev/rapls/articles/7a1bac83df8b21",
-        "https://zenn.dev/yui/articles/740da24e9ee419",
-        "https://www.anthropic.com/news/introducing-claude-tag",
-        "https://arxiv.org/abs/2605.21997",
-        "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps"
-      ],
-      "titles": [
-        "滋賀知事に三日月氏４選　３新人破る",
-        "はやぶさ２、小惑星の通過観測成功　弾丸５倍の超高速で―「地球防衛」にも貢献",
-        "九州北部で非常に激しい雨か 警戒",
-        "高市内閣の支持率65.9% JNN",
-        "ゆうパック、平均約10％値上げ　ゆうパケットは一律360円に　10月から",
-        "AIに外部脳を持たせて1ヶ月運用した全記録",
-        "AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ",
-        "Fable 5をトークン破産させずに使い倒す — オーケストレーターに徹させる運用",
-        "Introducing Claude Tag",
-        "The Log is the Agent",
-        "Cost centers now support AI credit pools"
       ]
     }
   ]

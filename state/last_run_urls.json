@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-07T20:00:00+09:00",
+  "last_run_at": "2026-07-08T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-08T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587110",
+        "https://news.yahoo.co.jp/pickup/6587112",
+        "https://news.yahoo.co.jp/pickup/6587111",
+        "https://news.yahoo.co.jp/pickup/6587108",
+        "https://news.yahoo.co.jp/pickup/6587106",
+        "https://zenn.dev/aircloset/articles/d4c32cff8cb230",
+        "https://zenn.dev/knowledgesense/articles/283244af941a2d",
+        "https://www.publickey1.jp/blog/26/visual_studio_codegithub_copilot.html",
+        "https://www.anthropic.com/news/claude-sonnet-5",
+        "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+        "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026"
+      ],
+      "titles": [
+        "「骨太相場」首相周辺に危機感は",
+        "ホルムズ海峡を日本関係船13隻が通過――損傷した商船三井コンテナ船も含む",
+        "大阪・泉南市でひき逃げ、60代女性が死亡――25歳男を逮捕",
+        "四国ILの選手11人が防災士を取得――2018年豪雨の反省を活かした取り組み",
+        "介護施設殺人、被告が黙秘7カ月――裁判員132人の証言を経て懲役20年",
+        "AI時代のObservability設計――アプリ・インフラ・CI・LLMの4層を「質的性質」で分けて監視する",
+        "Fable時代のAI活用法をAnthropicの開発者が公開――「未知の未知」を減らすことが鍵",
+        "VS Code、GitHub Copilotのトークン消費量をリアルタイム表示――従量課金時代の予算管理を支援",
+        "Introducing Claude Sonnet 5 — Near-Opus Performance at Sonnet Pricing",
+        "Anthropic Publishes Cyber Jailbreak Severity (CJS) Scale — A Framework for Classifying AI Security Exploits",
+        "GitHub Models Fully Retiring July 30, 2026 — Migrate to Azure AI Foundry or GitHub Copilot"
+      ]
+    },
     {
       "run_at": "2026-07-07T20:00:00+09:00",
       "urls": [
@@ -64,7 +93,7 @@
       "urls": [
         "https://www.jiji.com/jc/article?k=2026070600991&g=pol&m=rss",
         "https://www.jiji.com/jc/article?k=2026070700227&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587008",
+        "https://news.yahoo.co.jp/pickup/6586991",
         "https://www.itmedia.co.jp/news/articles/2607/07/news076.html",
         "https://www.jiji.com/jc/article?k=2026070700111&g=soc&m=rss",
         "https://zenn.dev/uzulla/articles/91272997a7c668",
@@ -202,35 +231,6 @@
         "Anthropic Engineering: How We Contain Claude Across Products — Agent Containment Architecture Revealed",
         "Qualcomm Acquires Modular — Mojo Language Targets CPUs, GPUs, and NPUs as CUDA Alternative",
         "sqlite-utils 4.0rc2: 37 Prompts, 34 Commits, $149 — Simon Willison's Deep Dive into Fable-Assisted OSS Development"
-      ]
-    },
-    {
-      "run_at": "2026-07-06T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070600137&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070500312&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070500223&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6586893?source=rss",
-        "https://www.jiji.com/jc/article?k=2026070600102&g=spo&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/02/news017.html",
-        "https://zenn.dev/canly/articles/428767121d7dc2",
-        "https://www.itmedia.co.jp/news/articles/2607/06/news052.html",
-        "https://huggingface.co/blog/ibm-research/scarfbench",
-        "https://www.latent.space/p/vercel-agents-new-software",
-        "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/"
-      ],
-      "titles": [
-        "大坂なおみが準々決勝へ　日本女子３人目、サバレンカ破る―ウィンブルドンテニス",
-        "設計寿命超え、機体に不安も　イオンエンジンは残り１基―はやぶさ２",
-        "立民「排除の論理」警戒　中道公明系に強硬論",
-        "豪雨で親友失う 教師志し語り継ぐ",
-        "バログン次戦出場可能に　異例措置、トランプ氏介入の報道―Ｗ杯サッカー",
-        "AnthropicがAWS Summit Japan 2026で公開――営業チームに５つのAIエージェントを配備、MCPで業務を完全自動化",
-        "CLI 10ヶ月からDesktopへ移行した12の理由――並走前提の設計が生む「素のままの自動化」",
-        "Amazon Mechanical Turk、新規受付を7月30日で終了――LLM台頭がクラウドソーシングの役割を縮小",
-        "ScarfBench: AI Agents Achieve Under 10% Success on Real-World Java Framework Migration",
-        "Vercel's Andrew Qu: Agents Are a New Kind of Software Requiring New Primitives",
-        "Current AI Releases Open Source AI Gap Map v0.1 — 421 Projects Across 14 Categories Indexed"
       ]
     }
   ]

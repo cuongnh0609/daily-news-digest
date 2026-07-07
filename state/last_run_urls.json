@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-07T10:00:00+09:00",
+  "last_run_at": "2026-07-07T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-07T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587042",
+        "https://news.yahoo.co.jp/pickup/6587026",
+        "https://news.yahoo.co.jp/pickup/6587040",
+        "https://news.yahoo.co.jp/pickup/6587028",
+        "https://www.itmedia.co.jp/news/articles/2607/07/news124.html",
+        "https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78",
+        "https://zenn.dev/studypocket/articles/herdr-ai-agent-multiplexer",
+        "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
+        "https://www.anthropic.com/news/redeploying-fable-5",
+        "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+        "https://www.kapa.ai/blog/how-we-prune-rag-context"
+      ],
+      "titles": [
+        "経産相、ナフサ備蓄制度の導入を検討――中東情勢の悪化で石化産業に供給不安が拡大",
+        "自民・維新が社会保障改革の骨子まとめる――高齢者医療費、「原則3割」明記は見送り",
+        "介護施設での空気注入殺人、裁判員裁判で1件無罪・1件有罪――懲役20年の判決",
+        "群馬で子ども2人が死亡――逮捕された父親、「将来を悲観して」と供述",
+        "スターバックス、12〜24歳向けに月100円割引の「U24パス」を開始――若年層取り込みを狙う",
+        "AIエージェントの決済履歴は「戦略ログ」になる――プライベートx402決済「SubEtha」をZKPで実現",
+        "AIエージェント並列管理ツール「herdr」――tmuxから乗り換えて分かった、状態可視化という決定的な強み",
+        "Linux Foundation、DNSベースの「Agent Name Service（ANS）」設立へ――AIエージェントに分散型アイデンティティ層を",
+        "Anthropic Redeploys Claude Fable 5 Globally After Lifting of US Export Controls and New Jailbreak Framework",
+        "GitHub Copilot Agent Session Streaming in Public Preview — Enterprises Get Real-Time Visibility Into AI Usage",
+        "Kapa.ai Cuts RAG Costs 34% by Teaching a Small LLM to Throw Away 68% of Retrieved Context"
+      ]
+    },
     {
       "run_at": "2026-07-07T10:00:00+09:00",
       "urls": [

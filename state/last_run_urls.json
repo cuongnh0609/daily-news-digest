@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-08T05:00:00+09:00",
+  "last_run_at": "2026-07-08T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-08T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070800228&g=flash&m=rss",
+        "https://news.yahoo.co.jp/pickup/6587131?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587125?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587127?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587129?source=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000168/",
+        "https://zenn.dev/leateq/books/ai-autonomous-dev",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news009.html",
+        "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+        "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000169/",
+        "https://replicated.live/blog/away"
+      ],
+      "titles": [
+        "米中央軍は、イランに対する「強力な攻撃」を開始したと明らかにした",
+        "台風9号が沖縄接近 早めの備えを",
+        "W杯8強が出そろう 欧州が6チーム",
+        "NY高層ビル崩落の恐れ 周辺避難",
+        "皇室典範改正案賛成せず 立憲調整",
+        "Anthropicの「Claude Cowork」がWebとモバイルでも利用可能に　まずはMaxプランから",
+        "Slackで頼むと、夜のうちにPRができている——AI自律開発パイプラインの作り方",
+        "ソフトバンクの「1人100エージェント」を支える独自AIゲートウェイ「Cloud Proxy」の正体",
+        "Kimi K2.7 now available for Copilot Business and Enterprise",
+        "Meta、初のエージェント型画像生成AI「Muse Image」公開　動画生成AI「Muse Video」もプレビュー",
+        "Automating AI Away"
+      ]
+    },
     {
       "run_at": "2026-07-08T05:00:00+09:00",
       "urls": [
@@ -231,35 +260,6 @@
         "sqlite-utils 4.0rc3: Simon Willison Pushes Toward Stable Release Using Both Claude Fable 5 and GPT-5.5",
         "Zuckerberg: AI Agent Development Going Slower Than Expected — Meta's Ambitions Hit Engineering Reality",
         "Does Code Cleanliness Affect Coding Agents? — arXiv Controlled Study Finds Measurable Impact on Agent Performance"
-      ]
-    },
-    {
-      "run_at": "2026-07-06T15:16:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070600566&g=int",
-        "https://www.jiji.com/jc/article?k=2026070600218&g=soc",
-        "https://news.yahoo.co.jp/pickup/6586930",
-        "https://news.yahoo.co.jp/pickup/6586931",
-        "https://www.itmedia.co.jp/news/articles/2607/06/news060.html",
-        "https://www.publickey1.jp/blog/26/astro_70vite_8rolldownrust.html",
-        "https://www.publickey1.jp/blog/26/aws_lambda_microvms.html",
-        "https://www.itmedia.co.jp/business/articles/2607/06/news072.html",
-        "https://www.anthropic.com/engineering",
-        "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
-        "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/"
-      ],
-      "titles": [
-        "中国海軍、原子力潜水艦から太平洋へ弾道ミサイルを発射――日本政府は深刻な懸念を表明",
-        "ChatGPTで不正プログラムを自作、高校１年生が逮捕――バンダイチャンネルで約４万６千アカウントを強制退会",
-        "自民・立憲、集中審議と党首討論の実施で合意――会期末へ向け国会審議が正常化へ",
-        "PlayStation、2028年1月以降の新作からディスク版を廃止へ――デジタル化加速が中古市場に波紋",
-        "シャープ、2030年度の新規事業売上の８割超をAIサーバー関連で稼ぐ目標を設定",
-        "静的サイトジェネレータ「Astro 7.0」正式リリース――Rust製コンパイラとVite 8採用でビルドが最大60%高速化",
-        "AWS Lambda MicroVMs登場――サーバレスの手軽さでステートフルかつカーネルレベル隔離の実行環境を提供",
-        "「AIコストにブレーキ」――AWS Summit Japan 2026でAmazonが語った、トークン爆発時代の費用対効果",
-        "Anthropic Engineering: How We Contain Claude Across Products — Agent Containment Architecture Revealed",
-        "Qualcomm Acquires Modular — Mojo Language Targets CPUs, GPUs, and NPUs as CUDA Alternative",
-        "sqlite-utils 4.0rc2: 37 Prompts, 34 Commits, $149 — Simon Willison's Deep Dive into Fable-Assisted OSS Development"
       ]
     }
   ]

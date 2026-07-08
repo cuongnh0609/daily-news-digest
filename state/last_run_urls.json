@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-09T00:00:00+09:00",
+  "last_run_at": "2026-07-09T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-09T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070900019&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070801352&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/08/news170.html",
+        "https://news.yahoo.co.jp/pickup/6587232",
+        "https://news.yahoo.co.jp/pickup/6587225",
+        "https://zenn.dev/kashioka/articles/7e02592d222990",
+        "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000171/",
+        "https://www.publickey1.jp/blog/26/postgresql_19ioautovacuum.html",
+        "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+        "https://cognition.com/blog/swe-1-7",
+        "https://github.blog/changelog/2026-07-07-codex-as-agent-provider-and-agentic-enhancements-in-jetbrains-ides"
+      ],
+      "titles": [
+        "ADB、アジア2026年成長率を4.9%に下方修正——中東情勢の悪化が直撃",
+        "トランプ大統領、イランを「日本」と言い間違え——NATO首脳会議で失言",
+        "ギガファイル便、長期障害からほぼ復旧——ドメイン変更で対応",
+        "全東信が破産——2万店超に売上金未入金、負債1151億円",
+        "東京地検特捜部の主任検事、元容疑者女性と不適切交際——懲戒処分へ",
+        "Claude Codeで作ったアプリ、3ヶ月後の現実——AIコードの「敵対的レビュー」が必須と判明",
+        "「Grok 4.5」本日一般公開——「Opusクラスの性能を低コストで」とマスク氏",
+        "PostgreSQL 19ベータ版公開——I/Oワーカー自動スケール、外部キー挿入が2倍高速化",
+        "TypeScript 7.0 Rewrites the Compiler in Go — 8–12x Build Speed Gains",
+        "Cognition Releases SWE-1.7 — Near-Frontier Coding Agent at Lower Cost, Built on Kimi K2.7",
+        "GitHub Copilot Adds Codex as Agent Provider in JetBrains — Full Agentic Workflow with MCP and Hook Management"
+      ]
+    },
     {
       "run_at": "2026-07-09T00:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "The Making of Claude Code: From Internal CLI to Anthropic's Production Coding Agent",
         "Better Models: Worse Tools — Newer Claude Models Misuse Custom Tool Schemas",
         "Ternlight: 7 MB Embedding Model That Runs Entirely in the Browser via WASM"
-      ]
-    },
-    {
-      "run_at": "2026-07-07T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587042",
-        "https://news.yahoo.co.jp/pickup/6587026",
-        "https://news.yahoo.co.jp/pickup/6587040",
-        "https://news.yahoo.co.jp/pickup/6587028",
-        "https://www.itmedia.co.jp/news/articles/2607/07/news124.html",
-        "https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78",
-        "https://zenn.dev/studypocket/articles/herdr-ai-agent-multiplexer",
-        "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
-        "https://www.anthropic.com/news/redeploying-fable-5",
-        "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-        "https://www.kapa.ai/blog/how-we-prune-rag-context"
-      ],
-      "titles": [
-        "経産相、ナフサ備蓄制度の導入を検討――中東情勢の悪化で石化産業に供給不安が拡大",
-        "自民・維新が社会保障改革の骨子まとめる――高齢者医療費、「原則3割」明記は見送り",
-        "介護施設での空気注入殺人、裁判員裁判で1件無罪・1件有罪――懲役20年の判決",
-        "群馬で子ども2人が死亡――逮捕された父親、「将来を悲観して」と供述",
-        "スターバックス、12〜24歳向けに月100円割引の「U24パス」を開始――若年層取り込みを狙う",
-        "AIエージェントの決済履歴は「戦略ログ」になる――プライベートx402決済「SubEtha」をZKPで実現",
-        "AIエージェント並列管理ツール「herdr」――tmuxから乗り換えて分かった、状態可視化という決定的な強み",
-        "Linux Foundation、DNSベースの「Agent Name Service（ANS）」設立へ――AIエージェントに分散型アイデンティティ層を",
-        "Anthropic Redeploys Claude Fable 5 Globally After Lifting of US Export Controls and New Jailbreak Framework",
-        "GitHub Copilot Agent Session Streaming in Public Preview — Enterprises Get Real-Time Visibility Into AI Usage",
-        "Kapa.ai Cuts RAG Costs 34% by Teaching a Small LLM to Throw Away 68% of Retrieved Context"
-      ]
-    },
-    {
-      "run_at": "2026-07-07T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070600991&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070700227&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6586991",
-        "https://www.itmedia.co.jp/news/articles/2607/07/news076.html",
-        "https://www.jiji.com/jc/article?k=2026070700111&g=soc&m=rss",
-        "https://zenn.dev/uzulla/articles/91272997a7c668",
-        "https://zenn.dev/yuki_fujisawa/articles/a155d388e61acc",
-        "https://zenn.dev/acntechjp/articles/0c63b5b08bbdb9",
-        "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-        "https://github.com/iOfficeAI/OfficeCLI",
-        "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/"
-      ],
-      "titles": [
-        "高市首相が強硬路線を転換――参院審議の正常化へ合意、17法案の成立に黄信号",
-        "サムスン電子、四半期過去最高益を更新――半導体好況で営業利益が前年比約19倍に",
-        "内田梨瑚被告に懲役27年が確定――旭川で17歳少女を橋から突き落とした殺人事件",
-        "マイクロソフト、約4800人を削減――XboxとCommercial部門を中心に大規模な組織再編",
-        "ネアンデルタール人も貝殻を「鑑賞」していた――現生人類と共通する審美的感覚が明らかに",
-        "AIエージェントにProxmox + LXCで「使い捨て自由空間」を提供する設計パターン",
-        "Claude Code (Opus 4.8) が「数分固まる」真因を188セッション・14000ターン実測で解明",
-        "4800スターを獲得した「Loop Engineering」とは何か――「自分の仕事はloopを書くこと」",
-        "GLM 5.2 and the Coming AI Margin Collapse — Open-Weight Models Threaten Frontier Lab Business Models",
-        "OfficeCLI: A Single-Binary Office Suite That Gives AI Agents Full Control Over Word, Excel, and PowerPoint",
-        "Resetting Xbox: Microsoft Spins Off Four Studios and Cuts 3,200 Jobs in Sweeping Gaming Restructure"
-      ]
-    },
-    {
-      "run_at": "2026-07-07T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070600575&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070601135&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6586980",
-        "https://www.itmedia.co.jp/news/articles/2607/06/news133.html",
-        "https://www.itmedia.co.jp/news/articles/2607/06/news130.html",
-        "https://zenn.dev/ait/articles/fable-emu-opus-harness",
-        "https://zenn.dev/garasubo/articles/9b9548ebab5a67",
-        "https://zenn.dev/gys/articles/fable5-local-llm-ask-cli",
-        "https://www.anthropic.com/research/global-workspace",
-        "https://simonwillison.net/2026/Jul/2/llm-coding-agent/",
-        "https://www.anthropic.com/news/alberta-government-claude-cybersecurity"
-      ],
-      "titles": [
-        "NATO首脳会議がアンカラで開幕――欧州防衛費のGDP比5%目標達成が最大の焦点に",
-        "トランプ大統領、FIFA会長に「W杯判定の見直しを求めた」と公言――異例のスポーツ介入に批判集まる",
-        "鹿児島で5歳男児が行方不明になって2週間――父「諦めない」と毎日現場へ、捜索続く",
-        "はやぶさ2、小惑星「トリフネ」を秒速5kmで超接近撮影――表面の岩塊まで鮮明に捉えることに成功",
-        "JAXA、AIで宇宙船と「会話」できる次世代インターフェース「Mission Buddy」の試験運用開始",
-        "Claude Fable 5の挙動をOpus 4.8で再現する「fable-emu」ハーネス設計――Plan→Execute→Verify→Reportの4段階で品質を担保",
-        "AIコーディング時代の生き抜き方――「何を作らないか」を決める力こそが最重要スキルに",
-        "Claude Code「Fable 5」でローカルLLM用シェル補助CLI「ask」を開発――モデル選定を実測ベースで行う手法が参考に",
-        "Anthropic Research: Claude Has a \"Global Workspace\" — Internal Neural Patterns That Function Like Conscious Thought",
-        "Simon Willison Releases llm-coding-agent 0.1a0 — A Spec-Driven Coding Agent Built by AI, for AI-Assisted Development",
-        "Government of Alberta Deploys Claude for Automated Cybersecurity Vulnerability Detection Across All Government Systems"
       ]
     }
   ]

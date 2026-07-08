@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-08T10:00:00+09:00",
+  "last_run_at": "2026-07-08T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-08T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070800188&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6587200",
+        "https://www.jiji.com/jc/article?k=2026070801048&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6587204",
+        "https://news.yahoo.co.jp/pickup/6587199",
+        "https://zenn.dev/kenfdev/articles/1febc0052b0d71",
+        "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000170/",
+        "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000172/",
+        "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+        "https://www.anthropic.com/news/claude-science-ai-workbench",
+        "https://zenn.dev/avaintelligence/articles/b7d4743a448485"
+      ],
+      "titles": [
+        "皇室典範改正案、10日にも衆院通過へ——国会が全面正常化",
+        "トランプ大統領、イランとの覚書「終わった」と発言——中東情勢に緊張再燃",
+        "豪パプアニューギニア同盟条約が発効——中国の影響力拡大を牽制",
+        "三笘薫選手が東京で交通事故——自転車の女性に軽傷",
+        "ノーリツが下請法違反——公正取引委員会から勧告を受ける",
+        "LLMエージェント時代、VS Code DevContainerを捨ててSSH永続環境へ移行した理由",
+        "GPT-5.6とGrok 4.5、今週木曜に同時一般公開——競合AIが相次ぎリリース",
+        "AnthropicのOSS向けプログラム拡大——Claude Max 20xを6カ月間無料提供",
+        "GitLost: Prompt Injection Flaw in GitHub's Agentic Workflows Leaks Private Repositories",
+        "Anthropic Launches Claude Science: A Unified AI Workbench for Scientific Research",
+        "When Your API and DB Are Both in Tokyo but Every Query Crosses the Pacific: A DNS Routing Postmortem"
+      ]
+    },
     {
       "run_at": "2026-07-08T10:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Anthropic Research: Claude Has a \"Global Workspace\" — Internal Neural Patterns That Function Like Conscious Thought",
         "Simon Willison Releases llm-coding-agent 0.1a0 — A Spec-Driven Coding Agent Built by AI, for AI-Assisted Development",
         "Government of Alberta Deploys Claude for Automated Cybersecurity Vulnerability Detection Across All Government Systems"
-      ]
-    },
-    {
-      "run_at": "2026-07-07T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586983?source=rss",
-        "https://www.jiji.com/jc/article?k=2026070601072&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070600839&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6586990?source=rss",
-        "https://news.yahoo.co.jp/pickup/6586991?source=rss",
-        "https://zenn.dev/elements/articles/a86509157c243a",
-        "https://zenn.dev/kairininja/articles/zenn-codex-vertical-mv-quality-gate",
-        "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
-        "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-        "https://www.publickey1.jp/blog/26/applemacos_27swift.html",
-        "https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/"
-      ],
-      "titles": [
-        "高市首相、NATO首脳会議を欠席へ――トランプ氏の関与縮小で日米の二国間会談も中止に",
-        "ハマス、ガザの行政当局を解散――暫定統治へ移行、武装解除は拒否",
-        "日本船10隻がホルムズ海峡を通過――原油1200万バレル積載、緊張緩和の兆しに",
-        "逮捕状の少年、川を泳いで逃走――大阪で任意同行中に警察官の目を盗む",
-        "小林製薬、今年3回目の値上げを発表――9月から121品目で5〜15%引き上げ",
-        "ClaudeがSlackに書く文字装飾が崩れる問題、Skillで自動修正する方法",
-        "Codexに丸投げで縦型リリックビデオを全自動生成――品質ゲートの実装が鍵に",
-        "MCPにエンタープライズ向け一括認証機能「EMA」が安定版リリース――OktaやFigmaなど主要サービスが対応",
-        "GitHub Copilot CLI No Longer Needs a PAT in GitHub Actions",
-        "Apple to Use Swift for macOS 27 Kernel Development — Memory Safety Comes to the OS Core",
-        "Anthropic's Method to Losing Developer Goodwill — Billing, Lock-in, and Platform Trust"
-      ]
-    },
-    {
-      "run_at": "2026-07-06T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6586961?source=rss",
-        "https://news.yahoo.co.jp/pickup/6586964?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/06/news121.html",
-        "https://www.itmedia.co.jp/news/articles/2607/06/news127.html",
-        "https://www.jiji.com/jc/article?k=2026070600724&g=soc",
-        "https://zenn.dev/karaage0703/articles/2d61434fceb867",
-        "https://www.itmedia.co.jp/news/articles/2607/06/news089.html",
-        "https://www.publickey1.jp/blog/26/vmware_9.html",
-        "https://simonwillison.net/2026/Jul/6/sqlite-utils/",
-        "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-        "https://arxiv.org/abs/2605.20049"
-      ],
-      "titles": [
-        "消費税減税、13日にも与野党の協議再開へ――参院での最終調整が焦点に",
-        "中国が進めるデジタル世論工作――SNSを通じた影響力拡大に各国が警戒強める",
-        "KDDIシステム不正アクセスでBIGLOBE・ニフティ合計約700万人超のメールアドレスが流出",
-        "クレジットカード決済代行の全東信が破産手続き開始――負債1259億円、端末が使用不可に",
-        "はやぶさ２、小惑星「トリフネ」の最接近撮影に成功――表面の岩も鮮明に捉える",
-        "スマートグラス「Even Realities G2」でAIコーディングツールを実践活用――ハンズフリー開発の新境地",
-        "Sakana AI、温度感を保ったまま翻訳する「Sakana Translate」を無料公開――日英中の敬語・スラングに対応",
-        "ブロードコムのVMware製品抱き合わせ販売疑惑、独占禁止法違反と認定されず――公取委が調査を終了",
-        "sqlite-utils 4.0rc3: Simon Willison Pushes Toward Stable Release Using Both Claude Fable 5 and GPT-5.5",
-        "Zuckerberg: AI Agent Development Going Slower Than Expected — Meta's Ambitions Hit Engineering Reality",
-        "Does Code Cleanliness Affect Coding Agents? — arXiv Controlled Study Finds Measurable Impact on Agent Performance"
       ]
     }
   ]

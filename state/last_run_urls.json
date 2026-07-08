@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-08T20:00:00+09:00",
+  "last_run_at": "2026-07-09T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-09T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070800517&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070801191&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070801282&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070801147&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/08/news156.html",
+        "https://zenn.dev/mkj/articles/cco-paper_20260531",
+        "https://zenn.dev/salt2/articles/salt2-ai-b1a19290",
+        "https://zenn.dev/easakura/articles/selling-japan-data-to-ai-agents-day1",
+        "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
+        "https://www.latent.space/p/vercel-agents-new-software",
+        "https://github.com/rowboatlabs/rowboat"
+      ],
+      "titles": [
+        "米軍がイランへの大規模攻撃を再開——トランプ大統領「停戦は終わった」と宣言",
+        "皇室典範改正案、10日に衆院採決へ——審議は「中継入り」で公開",
+        "IMF、2026年世界成長率を3.0%に下方修正——中東緊張による原油高とAIブームの相克",
+        "三笘薫選手、東京で交通事故——双方が赤信号で進入か、女性軽傷",
+        "小中学校に「情報」教科を新設——AI時代に対応した次期学習指導要領が固まる",
+        "Claude Codeと論文執筆——7週間・108実験・46,000行のコードで学術論文をACLに投稿した記録",
+        "AIエージェントのループ設計を考える——ワークフロー vs エージェント、6つの核心コンポーネント",
+        "AIエージェントに日本の公的データを売る——MCP serverで4商品を1日で世界公開した起業実験",
+        "MCP Enterprise-Managed Authorization (EMA) Goes Stable — Centralized Identity for AI Tool Access",
+        "Vercel: Agents Are a New Kind of Software — Eve Framework and the Agent-Readable Web",
+        "Rowboat: Open-Source Local-First AI Desktop with Agent Client Protocol and Persistent Knowledge Graph"
+      ]
+    },
     {
       "run_at": "2026-07-08T20:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-09T15:00:00+09:00",
+  "last_run_at": "2026-07-09T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-09T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587332?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587334?source=rss",
+        "https://www.jiji.com/jc/article?k=2026070900735&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/09/news132.html",
+        "https://www.itmedia.co.jp/news/articles/2607/09/news123.html",
+        "https://zenn.dev/exwzd/articles/20260701_aws_summit_builders_fair",
+        "https://zenn.dev/layerx/articles/797bb5b8935bf6",
+        "https://zenn.dev/branbran/articles/2f9538ef0301c7",
+        "https://www.anthropic.com/news/redeploying-fable-5",
+        "https://www.anthropic.com/news/introducing-claude-tag",
+        "https://simonwillison.net/2026/Jul/6/hy3/"
+      ],
+      "titles": [
+        "山本太郎氏がれいわ新選組代表を辞任——大石共同代表も離党へ",
+        "全国各地で猛暑続く——10日以降も警戒、九州では37℃予想",
+        "国旗損壊罪法案に刑事法学者148人が反対声明——「表現の自由を侵害」",
+        "「ドコモの銀行」が誕生へ——住信SBIネット銀行が8月3日に名称変更",
+        "三菱自動車とHighlandersが協業——ヒューマノイドロボットを2027年後半に月産1000台目指す",
+        "AWS Summit Japan 2026 レポート——AIエージェントの「成熟」とPhysical AIの「萌芽」が鮮明に",
+        "個人タスク管理を「判断は人間・更新はエージェント・計算はスクリプト」で設計する",
+        "Next.js 16.3でTurbopackのメモリ使用量を劇的に削減——大規模プロジェクトでの実測レポート",
+        "Anthropic Redeploys Fable 5 After Jailbreak Patch — New Cyber Jailbreak Severity Framework Proposed",
+        "Anthropic Launches Claude Tag — Persistent Slack Agent with Scoped Permissions and Async Task Delegation",
+        "Tencent Releases Hy3: 295B-Parameter Open Model Available Free on OpenRouter Through July 21"
+      ]
+    },
     {
       "run_at": "2026-07-09T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "sqlite-utils 4.0 Released — Schema Migrations, Nested Transactions, and Compound Foreign Keys",
         "GitHub Copilot App Now Available to All Plans — Including Free Tier and BYOK Support",
         "Sakana AI Launches \"Sakana Translate\" — Tone-Aware Japanese↔English↔Chinese AI Translation"
-      ]
-    },
-    {
-      "run_at": "2026-07-08T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587110",
-        "https://news.yahoo.co.jp/pickup/6587112",
-        "https://news.yahoo.co.jp/pickup/6587111",
-        "https://news.yahoo.co.jp/pickup/6587108",
-        "https://news.yahoo.co.jp/pickup/6587106",
-        "https://zenn.dev/aircloset/articles/d4c32cff8cb230",
-        "https://zenn.dev/knowledgesense/articles/283244af941a2d",
-        "https://www.publickey1.jp/blog/26/visual_studio_codegithub_copilot.html",
-        "https://www.anthropic.com/news/claude-sonnet-5",
-        "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-        "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026"
-      ],
-      "titles": [
-        "「骨太相場」首相周辺に危機感は",
-        "ホルムズ海峡を日本関係船13隻が通過――損傷した商船三井コンテナ船も含む",
-        "大阪・泉南市でひき逃げ、60代女性が死亡――25歳男を逮捕",
-        "四国ILの選手11人が防災士を取得――2018年豪雨の反省を活かした取り組み",
-        "介護施設殺人、被告が黙秘7カ月――裁判員132人の証言を経て懲役20年",
-        "AI時代のObservability設計――アプリ・インフラ・CI・LLMの4層を「質的性質」で分けて監視する",
-        "Fable時代のAI活用法をAnthropicの開発者が公開――「未知の未知」を減らすことが鍵",
-        "VS Code、GitHub Copilotのトークン消費量をリアルタイム表示――従量課金時代の予算管理を支援",
-        "Introducing Claude Sonnet 5 — Near-Opus Performance at Sonnet Pricing",
-        "Anthropic Publishes Cyber Jailbreak Severity (CJS) Scale — A Framework for Classifying AI Security Exploits",
-        "GitHub Models Fully Retiring July 30, 2026 — Migrate to Azure AI Foundry or GitHub Copilot"
       ]
     }
   ]

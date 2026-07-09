@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-09T10:00:00+09:00",
+  "last_run_at": "2026-07-09T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-09T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587288?source=rss",
+        "https://www.jiji.com/jc/article?k=2026070900496&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070801341&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/09/news097.html",
+        "https://news.yahoo.co.jp/pickup/6587295?source=rss",
+        "https://zenn.dev/xim2jp_tokyo/articles/ce4e5faba0e41a",
+        "https://zenn.dev/layerx/articles/9f25ec86a31730",
+        "https://zenn.dev/mskbhd/articles/lab-029-openai-claude-code",
+        "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/",
+        "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+        "https://www.anthropic.com/features/making-of-claude-code"
+      ],
+      "titles": [
+        "米軍がイランへの追加攻撃を完了——イランも報復、ホルムズ海峡周辺で緊張続く",
+        "皇室典範改正案、10日に衆院通過へ——国民民主も賛成、旧宮家男系男子の皇籍復帰が焦点",
+        "特捜部の裏金事件主任検事、捜査対象の女性と不適切交際——最高検が懲戒処分へ",
+        "首相官邸の偽サイトが出現——本物そっくりのフィッシングサイト、公式XがURLの確認を呼びかけ",
+        "警察庁とメルカリ・ヤフー・楽天が協定締結——EC不正防止で情報連携、カード番号不正利用の撲滅へ",
+        "Claude Codeに28体のサブエージェント「開発チーム」を組ませ、1人でSaaSを19日でリリースした構成",
+        "Agent Skillsの自動最適化研究——SKILL.mdが学習パラメータ、訓練ループと同一構造であることが判明",
+        "OpenAI公式Claude CodeプラグインはJSON-RPCで呼ばれていた——内部構造を読み解く技術解析",
+        "Rewriting Bun from Zig to Rust Using AI Agents: 11 Days, 5.9B Tokens, 10% Faster Startup",
+        "Databricks Benchmarks Coding Agents on Real Multi-Million Line Codebase — No Single Agent Wins",
+        "The Making of Claude Code: How Anthropic Built an Agentic Coding Tool That Operates in Your Terminal"
+      ]
+    },
     {
       "run_at": "2026-07-09T10:00:00+09:00",
       "urls": [
@@ -76,7 +105,7 @@
       ],
       "titles": [
         "米軍がイランへの大規模攻撃を再開——トランプ大統領「停戦は終わった」と宣言",
-        "皇室典範改正案、10日に衆院採決へ——審議は「中継入り」で公開",
+        "皇室典範改正案、10日にも衆院採決へ——審議は「中継入り」で公開",
         "IMF、2026年世界成長率を3.0%に下方修正——中東緊張による原油高とAIブームの相克",
         "三笘薫選手、東京で交通事故——双方が赤信号で進入か、女性軽傷",
         "小中学校に「情報」教科を新設——AI時代に対応した次期学習指導要領が固まる",

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-09T05:00:00+09:00",
+  "last_run_at": "2026-07-09T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-09T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026070900153&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026070900247&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6587258",
+        "https://www.jiji.com/jc/article?k=2026070900164&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/09/news068.html",
+        "https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78",
+        "https://zenn.dev/uzulla/articles/91272997a7c668",
+        "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
+        "https://simonwillison.net/2026/Jul/8/introducing-gptlive/",
+        "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases/",
+        "https://mistral.ai/news/robostral-navigate/"
+      ],
+      "titles": [
+        "米軍、イランへの攻撃を２日連続実施——トランプ氏「衝突はごく短期間で終わる」",
+        "中国、エヌビディアの先端AI半導体「H200」購入を一部企業に容認——国内産業保護方針から転換",
+        "九州内陸部で最高気温37℃予想——全国各地に熱中症警戒アラート、記録的猛暑に",
+        "「快活CLUB」アプリへのサイバー攻撃で18歳逮捕——ChatGPT生成ツール使い724万回不正送信",
+        "Apple・Broadcomが300億ドル超の新契約——米国内で先端チップ量産、2031年まで協力",
+        "AIエージェントの決済履歴は「戦略ログ」になる——x402とzERC20で支払いパターンを隠す手法",
+        "AIエージェントに専用サンドボックスを——Proxmox + LXCで「使い捨て開発環境」を秒速構築",
+        "Agent Name Service（ANS）——DNSを拡張してAIエージェントに信頼できる識別子を付与、Linux Foundationが発表",
+        "OpenAI Launches GPT-Live: Hybrid Real-Time Voice Mode with Frontier Model Backend",
+        "GitHub Copilot VS Code June 2026: Agentic Browser GA, Parallel Sessions, and 1M Token Context",
+        "Mistral Launches Robostral Navigate: 8B-Param Robot Navigation Model That Needs Only a Camera"
+      ]
+    },
     {
       "run_at": "2026-07-09T05:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Introducing Claude Sonnet 5 — Near-Opus Performance at Sonnet Pricing",
         "Anthropic Publishes Cyber Jailbreak Severity (CJS) Scale — A Framework for Classifying AI Security Exploits",
         "GitHub Models Fully Retiring July 30, 2026 — Migrate to Azure AI Foundry or GitHub Copilot"
-      ]
-    },
-    {
-      "run_at": "2026-07-07T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070700948&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070700965&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587079?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/07/news158.html",
-        "https://www.itmedia.co.jp/news/articles/2607/07/news131.html",
-        "https://www.itmedia.co.jp/news/articles/2607/03/news087.html",
-        "https://zenn.dev/yui/articles/e4f8268ab5c6c1",
-        "https://www.itmedia.co.jp/news/articles/2607/07/news084.html",
-        "https://www.anthropic.com/features/making-of-claude-code",
-        "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/",
-        "https://ternlight-demo.vercel.app/"
-      ],
-      "titles": [
-        "高市氏は「美しい妹」、誤訳か――モディ氏発言で政府説明",
-        "防衛省の「局」、増設検討――国際協力所管、OB支援庁も",
-        "西日本豪雨8年 亡き義母への思い",
-        "次期学習指導要領では「情報」教育を大幅に拡充、教科新設や先行導入も",
-        "観測史上最古の巨大ブラックホール発見――宇宙誕生から6億7000万年ごろの天体",
-        "Cloudflare、AIクローラー制御を全顧客に開放――「検索」「エージェント」「学習」の3分類で管理可能に",
-        "Fable 5が使えなくなる前に、その「働き方」をOpus/Sonnetに引き継がせた",
-        "SpaceX、xAIの正式名称を「SpaceXAI」に――新ロゴも公開",
-        "The Making of Claude Code: From Internal CLI to Anthropic's Production Coding Agent",
-        "Better Models: Worse Tools — Newer Claude Models Misuse Custom Tool Schemas",
-        "Ternlight: 7 MB Embedding Model That Runs Entirely in the Browser via WASM"
       ]
     }
   ]

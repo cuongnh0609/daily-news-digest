@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-10T00:00:00+09:00",
+  "last_run_at": "2026-07-10T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-10T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587340?source=rss",
+        "https://www.jiji.com/jc/article?k=2026070901167&g=flash&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/09/news130.html",
+        "https://www.itmedia.co.jp/news/articles/2607/09/news138.html",
+        "https://www.jiji.com/jc/article?k=2026070900998&g=pol&m=rss",
+        "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
+        "https://zenn.dev/sonicmoov/articles/3ee60ce2f5954d",
+        "https://zenn.dev/trans/articles/cc1c398e1f770c",
+        "https://www.anthropic.com/news/hard-questions",
+        "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+        "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/"
+      ],
+      "titles": [
+        "山本太郎氏が政界引退を表明——れいわ新選組は党名変更・再出発へ",
+        "自民党、令状なし「行政傍受」制度を提言——スパイ防止法制定の焦点に浮上",
+        "JCBら、バスで「ハンズフリー決済」を2028年度に実用化——スマホも財布も不要に",
+        "NVIDIAがセガとの40周年を祝うイベント開催へ——フアンCEOが来日",
+        "再審法改正案が参院委で審議開始——証拠開示の拡充で与野党が一致",
+        "BunがClaude Fable 5で53万行のZig→Rust移植を11日で完遂——コスト2640万円相当",
+        "「oh-my-系」ハーネス1年史——マルチエージェントオーケストレーションの真価が明らかに",
+        "Cloudflare Drop登場——HTMLをドラッグ&ドロップするだけで即時Web公開",
+        "Anthropic Invites Hard Questions About AI — Launching a Public Trust and Accountability Initiative",
+        "Alberta Government Uses Claude to Scan 466M Lines of Code in 20 Hours",
+        "AI Changes the Economics of Software Rewrites — Clean Codebases Beat Messy Ones by Orders of Magnitude"
+      ]
+    },
     {
       "run_at": "2026-07-10T00:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "GitLost: Prompt Injection Flaw in GitHub's Agentic Workflows Leaks Private Repositories",
         "Anthropic Launches Claude Science: A Unified AI Workbench for Scientific Research",
         "When Your API and DB Are Both in Tokyo but Every Query Crosses the Pacific: A DNS Routing Postmortem"
-      ]
-    },
-    {
-      "run_at": "2026-07-08T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070800228&g=flash&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587131?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587125?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587127?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587129?source=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000168/",
-        "https://zenn.dev/leateq/books/ai-autonomous-dev",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news009.html",
-        "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
-        "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000169/",
-        "https://replicated.live/blog/away"
-      ],
-      "titles": [
-        "米中央軍は、イランに対する「強力な攻撃」を開始したと明らかにした",
-        "台風9号が沖縄接近 早めの備えを",
-        "W杯8強が出そろう 欧州が6チーム",
-        "NY高層ビル崩落の恐れ 周辺避難",
-        "皇室典範改正案賛成せず 立憲調整",
-        "Anthropicの「Claude Cowork」がWebとモバイルでも利用可能に　まずはMaxプランから",
-        "Slackで頼むと、夜のうちにPRができている——AI自律開発パイプラインの作り方",
-        "ソフトバンクの「1人100エージェント」を支える独自AIゲートウェイ「Cloud Proxy」の正体",
-        "Kimi K2.7 now available for Copilot Business and Enterprise",
-        "Meta、初のエージェント型画像生成AI「Muse Image」公開　動画生成AI「Muse Video」もプレビュー",
-        "Automating AI Away"
-      ]
-    },
-    {
-      "run_at": "2026-07-08T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587116",
-        "https://news.yahoo.co.jp/pickup/6587107",
-        "https://news.yahoo.co.jp/pickup/6587088",
-        "https://news.yahoo.co.jp/pickup/6587115",
-        "https://www.itmedia.co.jp/news/articles/2607/07/news127.html",
-        "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000167/",
-        "https://zenn.dev/finatext/articles/whole-dev-container",
-        "https://zenn.dev/yumemi_inc/articles/suve-git-like-secret-management",
-        "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/",
-        "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-        "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000164/"
-      ],
-      "titles": [
-        "トランプ大統領、トヨタのテキサス投資を「極めて重要だ」と称賛——関税効果を強調",
-        "ベネズエラ大地震——男子バレー代表主将リバス選手が死亡確認、死者3500人超",
-        "フジテレビ、佐藤二朗と橋本愛に謝罪——ドラマ制作でのハラスメント対応不備を認める",
-        "巨人・戸郷翔征、左太もも裏を痛めて緊急降板——コーチ「すぐ治るのは無理」と悲観",
-        "全東信が破産——負債1259億円、全国の加盟店でカード決済端末が突然使えなくなる事態に",
-        "Claude Fable 5のサブスクリプション、7月13日午後4時（JST）まで延長——GPT-5.6対抗でAnthropic判断",
-        "複数リポジトリを単一dev containerで管理するClaude Code環境——DinD・認証注入・MCP共有設計を紹介",
-        "「suve」——Git感覚でAWS/GCP/Azureのシークレットを管理するCLI/GUIツール、AI agentとのhuman-in-the-loop運用も",
-        "sqlite-utils 4.0 Released — Schema Migrations, Nested Transactions, and Compound Foreign Keys",
-        "GitHub Copilot App Now Available to All Plans — Including Free Tier and BYOK Support",
-        "Sakana AI Launches \"Sakana Translate\" — Tone-Aware Japanese↔English↔Chinese AI Translation"
       ]
     }
   ]

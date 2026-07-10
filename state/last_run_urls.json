@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-10T10:30:00+09:00",
+  "last_run_at": "2026-07-10T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-10T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587421?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587419?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587412?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587397?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587400?source=rss",
+        "https://zenn.dev/rehabforjapan/articles/composer-to-cloud-run-jobs",
+        "https://www.itmedia.co.jp/news/articles/2607/10/news086.html",
+        "https://www.publickey1.jp/blog/26/postgresqldbmultigres_v01.html",
+        "https://www.anthropic.com/news/ust-claude",
+        "https://github.com/malisper/pgrust",
+        "https://www.ello.com/blog/teaching-a-child-in-1000-ms"
+      ],
+      "titles": [
+        "皇室典範改正案、衆院本会議で可決——養子対象を15歳以上に限定",
+        "全東信破産、政府が飲食店の資金繰り支援——特別相談窓口を設置",
+        "成田空港の新滑走路建設へ——57年ぶりに土地収用の事業認定を申請",
+        "北陸新幹線の延伸ルート、来週にも決定へ——小浜・京都の桂川案が有力",
+        "仙台・マンション下ながけ崩れ——市が「直ちに危険なし」と判断、監視継続",
+        "Claude Codeで技術的負債を返済——本番ETL基盤をCloud Run Jobsへ一人で移行、コスト94%削減",
+        "Anthropic、Claude向け「reflect」機能追加——AIの使い方を4D AIフルエンシーで振り返る",
+        "PostgreSQL分散DB「Multigres v0.1」アルファ版——Supabaseが水平スケールと高可用性を実現",
+        "UST Integrates Claude into Physical AI — iDEC Platform Cuts Chip Validation Cycles by 50-70%",
+        "pgrust: Postgres Fully Rewritten in Rust, Now Passing 46,000+ Regression Tests",
+        "Building a Real-Time AI Tutor for 5-Year-Olds: Custom Agent Loop Under 1,000ms"
+      ]
+    },
     {
       "run_at": "2026-07-10T10:30:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "OpenAI Launches GPT-Live: Hybrid Real-Time Voice Mode with Frontier Model Backend",
         "GitHub Copilot VS Code June 2026: Agentic Browser GA, Parallel Sessions, and 1M Token Context",
         "Mistral Launches Robostral Navigate: 8B-Param Robot Navigation Model That Needs Only a Camera"
-      ]
-    },
-    {
-      "run_at": "2026-07-09T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070900019&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070801352&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/08/news170.html",
-        "https://news.yahoo.co.jp/pickup/6587232",
-        "https://news.yahoo.co.jp/pickup/6587225",
-        "https://zenn.dev/kashioka/articles/7e02592d222990",
-        "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000171/",
-        "https://www.publickey1.jp/blog/26/postgresql_19ioautovacuum.html",
-        "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-        "https://cognition.com/blog/swe-1-7",
-        "https://github.blog/changelog/2026-07-07-codex-as-agent-provider-and-agentic-enhancements-in-jetbrains-ides"
-      ],
-      "titles": [
-        "ADB、アジア2026年成長率を4.9%に下方修正——中東情勢の悪化が直撃",
-        "トランプ大統領、イランを「日本」と言い間違え——NATO首脳会議で失言",
-        "ギガファイル便、長期障害からほぼ復旧——ドメイン変更で対応",
-        "全東信が破産——2万店超に売上金未入金、負債1151億円",
-        "東京地検特捜部の主任検事、元容疑者女性と不適切交際——懲戒処分へ",
-        "Claude Codeで作ったアプリ、3ヶ月後の現実——AIコードの「敵対的レビュー」が必須と判明",
-        "「Grok 4.5」本日一般公開——「Opusクラスの性能を低コストで」とマスク氏",
-        "PostgreSQL 19ベータ版公開——I/Oワーカー自動スケール、外部キー挿入が2倍高速化",
-        "TypeScript 7.0 Rewrites the Compiler in Go — 8–12x Build Speed Gains",
-        "Cognition Releases SWE-1.7 — Near-Frontier Coding Agent at Lower Cost, Built on Kimi K2.7",
-        "GitHub Copilot Adds Codex as Agent Provider in JetBrains — Full Agentic Workflow with MCP and Hook Management"
-      ]
-    },
-    {
-      "run_at": "2026-07-09T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070800517&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070801191&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070801282&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070801147&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/08/news156.html",
-        "https://zenn.dev/mkj/articles/cco-paper_20260531",
-        "https://zenn.dev/salt2/articles/salt2-ai-b1a19290",
-        "https://zenn.dev/easakura/articles/selling-japan-data-to-ai-agents-day1",
-        "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
-        "https://www.latent.space/p/vercel-agents-new-software",
-        "https://github.com/rowboatlabs/rowboat"
-      ],
-      "titles": [
-        "米軍がイランへの大規模攻撃を再開——トランプ大統領「停戦は終わった」と宣言",
-        "皇室典範改正案、10日にも衆院採決へ——審議は「中継入り」で公開",
-        "IMF、2026年世界成長率を3.0%に下方修正——中東緊張による原油高とAIブームの相克",
-        "三笘薫選手、東京で交通事故——双方が赤信号で進入か、女性軽傷",
-        "小中学校に「情報」教科を新設——AI時代に対応した次期学習指導要領が固まる",
-        "Claude Codeと論文執筆——7週間・108実験・46,000行のコードで学術論文をACLに投稿した記録",
-        "AIエージェントのループ設計を考える——ワークフロー vs エージェント、6つの核心コンポーネント",
-        "AIエージェントに日本の公的データを売る——MCP serverで4商品を1日で世界公開した起業実験",
-        "MCP Enterprise-Managed Authorization (EMA) Goes Stable — Centralized Identity for AI Tool Access",
-        "Vercel: Agents Are a New Kind of Software — Eve Framework and the Agent-Readable Web",
-        "Rowboat: Open-Source Local-First AI Desktop with Agent Client Protocol and Persistent Knowledge Graph"
-      ]
-    },
-    {
-      "run_at": "2026-07-08T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070800188&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587200",
-        "https://www.jiji.com/jc/article?k=2026070801048&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587204",
-        "https://news.yahoo.co.jp/pickup/6587199",
-        "https://zenn.dev/kenfdev/articles/1febc0052b0d71",
-        "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000170/",
-        "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000172/",
-        "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-        "https://www.anthropic.com/news/claude-science-ai-workbench",
-        "https://zenn.dev/avaintelligence/articles/b7d4743a448485"
-      ],
-      "titles": [
-        "皇室典範改正案、10日にも衆院通過へ——国会が全面正常化",
-        "トランプ大統領、イランとの覚書「終わった」と発言——中東情勢に緊張再燃",
-        "豪パプアニューギニア同盟条約が発効——中国の影響力拡大を牽制",
-        "三笘薫選手が東京で交通事故——自転車の女性に軽傷",
-        "ノーリツが下請法違反——公正取引委員会から勧告を受ける",
-        "LLMエージェント時代、VS Code DevContainerを捨ててSSH永続環境へ移行した理由",
-        "GPT-5.6とGrok 4.5、今週木曜に同時一般公開——競合AIが相次ぎリリース",
-        "AnthropicのOSS向けプログラム拡大——Claude Max 20xを6カ月間無料提供",
-        "GitLost: Prompt Injection Flaw in GitHub's Agentic Workflows Leaks Private Repositories",
-        "Anthropic Launches Claude Science: A Unified AI Workbench for Scientific Research",
-        "When Your API and DB Are Both in Tokyo but Every Query Crosses the Pacific: A DNS Routing Postmortem"
       ]
     }
   ]

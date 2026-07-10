@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-10T20:00:00+09:00",
+  "last_run_at": "2026-07-11T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-11T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587476",
+        "https://news.yahoo.co.jp/pickup/6587472",
+        "https://news.yahoo.co.jp/pickup/6587474",
+        "https://www.jiji.com/jc/article?k=2026071001104&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071000967&g=int&m=rss",
+        "https://zenn.dev/gvatech_blog/articles/1c20901b5aecde",
+        "https://zenn.dev/imohuke/articles/what-is-loop-engineering",
+        "https://zenn.dev/gemcook/articles/467b1233efe811",
+        "https://www.anthropic.com/news/ben-bernanke",
+        "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+        "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/"
+      ],
+      "titles": [
+        "台風9号「バービー」、石垣島に丸一日の暴風域——先島諸島に最接近へ",
+        "退職自衛官支援へ新「庁」設置を検討——「骨太の方針」への盛り込みを目指す",
+        "中古買い取り会社元代表、所得税7.8億円を脱税か——東京地検が逮捕",
+        "スペイン南部で大規模山火事——11人死亡・19人行方不明、送電線落下が出火原因か",
+        "ゼレンスキー大統領、三菱重工とパトリオット共同生産に意欲——技術力を高く評価",
+        "1日54本のPRをマージした「並列Agent Codingコックピット」——herdr + git worktreeで人間は「管制官」になった",
+        "ループエンジニアリングとは何か——AIエージェント時代の「プロンプトの次」を整理する",
+        "Claude Codeのループが回らない原因は「完了条件の分類ミス」だった——3型フレームワークで解決",
+        "Ben Bernanke Joins Anthropic's Long-Term Benefit Trust — Former Fed Chair Brings Economic Crisis Expertise to AI Governance",
+        "GitHub Mobile Gets Advanced Copilot Session Filters — Agentic Workflow Management at Scale",
+        "Good Tools Are Invisible — Why Developer Tool Design Fails When It Becomes an Identity"
+      ]
+    },
     {
       "run_at": "2026-07-10T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Rewriting Bun from Zig to Rust Using AI Agents: 11 Days, 5.9B Tokens, 10% Faster Startup",
         "Databricks Benchmarks Coding Agents on Real Multi-Million Line Codebase — No Single Agent Wins",
         "The Making of Claude Code: How Anthropic Built an Agentic Coding Tool That Operates in Your Terminal"
-      ]
-    },
-    {
-      "run_at": "2026-07-09T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070900153&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070900247&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587258",
-        "https://www.jiji.com/jc/article?k=2026070900164&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/09/news068.html",
-        "https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78",
-        "https://zenn.dev/uzulla/articles/91272997a7c668",
-        "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
-        "https://simonwillison.net/2026/Jul/8/introducing-gptlive/",
-        "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases/",
-        "https://mistral.ai/news/robostral-navigate/"
-      ],
-      "titles": [
-        "米軍、イランへの攻撃を２日連続実施——トランプ氏「衝突はごく短期間で終わる」",
-        "中国、エヌビディアの先端AI半導体「H200」購入を一部企業に容認——国内産業保護方針から転換",
-        "九州内陸部で最高気温37℃予想——全国各地に熱中症警戒アラート、記録的猛暑に",
-        "「快活CLUB」アプリへのサイバー攻撃で18歳逮捕——ChatGPT生成ツール使い724万回不正送信",
-        "Apple・Broadcomが300億ドル超の新契約——米国内で先端チップ量産、2031年まで協力",
-        "AIエージェントの決済履歴は「戦略ログ」になる——x402とzERC20で支払いパターンを隠す手法",
-        "AIエージェントに専用サンドボックスを——Proxmox + LXCで「使い捨て開発環境」を秒速構築",
-        "Agent Name Service（ANS）——DNSを拡張してAIエージェントに信頼できる識別子を付与、Linux Foundationが発表",
-        "OpenAI Launches GPT-Live: Hybrid Real-Time Voice Mode with Frontier Model Backend",
-        "GitHub Copilot VS Code June 2026: Agentic Browser GA, Parallel Sessions, and 1M Token Context",
-        "Mistral Launches Robostral Navigate: 8B-Param Robot Navigation Model That Needs Only a Camera"
       ]
     }
   ]

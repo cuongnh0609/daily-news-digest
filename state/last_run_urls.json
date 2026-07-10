@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-11T00:00:00+09:00",
+  "last_run_at": "2026-07-11T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-11T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587459",
+        "https://news.yahoo.co.jp/pickup/6587470",
+        "https://news.yahoo.co.jp/pickup/6587475",
+        "https://news.yahoo.co.jp/pickup/6587477",
+        "https://news.yahoo.co.jp/pickup/6587480",
+        "https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering",
+        "https://zenn.dev/boutiquehack/articles/ai-agent-tests-green-prod-down",
+        "https://zenn.dev/cutlet_of_pork/articles/llm-token-saving-delegation-design",
+        "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+        "https://github.com/rowboatlabs/rowboat",
+        "https://tejassuds.com/blog/ai-cannot-forget"
+      ],
+      "titles": [
+        "福井事件の再審で無罪——無実を示す証拠を検察官5人が把握しながら報告せず",
+        "エレベーター新設後まもなく小学生3人が閉じ込め——兵庫・加古川の公民館で約1時間",
+        "フィギュアスケーター村主章枝さん、13歳年下の米国人男性との結婚を公表",
+        "堂本兄弟、STARTO ENTERTAINMENTとのグループ契約を7月21日に終了へ",
+        "スペインvsベルギー——ユーロ2028予選で激しい攻防、南欧の強豪が首位争い",
+        "64並列Claude Codeで53万行を11日間でRust移植——Bunのハーネス設計から学べること",
+        "テスト全部グリーンなのに本番で落ちた——AIエージェントコードの2つの盲点",
+        "小さいトークン枠でAIエージェントを回す——委任アーキテクチャで「主モデルの文脈」を守る設計",
+        "Anthropic's J-Lens Reveals J-Space — A Hidden Computational Layer Where Claude Thinks Before It Speaks",
+        "Rowboat: Open-Source Desktop AI Coworker That Indexes Your Work Into a Living Knowledge Graph",
+        "AI Cannot Forget and Does Not Know How to Forgive — Why Machine Memory Architecture Prevents Graceful Decay"
+      ]
+    },
     {
       "run_at": "2026-07-11T00:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Launches 'Reflect with Claude' — A Usage Dashboard with 4D AI Fluency Framework",
         "Meta Releases Muse Spark 1.1 — Multimodal Agentic Model with 1M Context and Computer Use",
         "How Version Control Will Evolve for the Agent Boom — Git Hosting Must Go Distributed"
-      ]
-    },
-    {
-      "run_at": "2026-07-09T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587332?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587334?source=rss",
-        "https://www.jiji.com/jc/article?k=2026070900735&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/09/news132.html",
-        "https://www.itmedia.co.jp/news/articles/2607/09/news123.html",
-        "https://zenn.dev/exwzd/articles/20260701_aws_summit_builders_fair",
-        "https://zenn.dev/layerx/articles/797bb5b8935bf6",
-        "https://zenn.dev/branbran/articles/2f9538ef0301c7",
-        "https://www.anthropic.com/news/redeploying-fable-5",
-        "https://www.anthropic.com/news/introducing-claude-tag",
-        "https://simonwillison.net/2026/Jul/6/hy3/"
-      ],
-      "titles": [
-        "山本太郎氏がれいわ新選組代表を辞任——大石共同代表も離党へ",
-        "全国各地で猛暑続く——10日以降も警戒、九州では37℃予想",
-        "国旗損壊罪法案に刑事法学者148人が反対声明——「表現の自由を侵害」",
-        "「ドコモの銀行」が誕生へ——住信SBIネット銀行が8月3日に名称変更",
-        "三菱自動車とHighlandersが協業——ヒューマノイドロボットを2027年後半に月産1000台目指す",
-        "AWS Summit Japan 2026 レポート——AIエージェントの「成熟」とPhysical AIの「萌芽」が鮮明に",
-        "個人タスク管理を「判断は人間・更新はエージェント・計算はスクリプト」で設計する",
-        "Next.js 16.3でTurbopackのメモリ使用量を劇的に削減——大規模プロジェクトでの実測レポート",
-        "Anthropic Redeploys Fable 5 After Jailbreak Patch — New Cyber Jailbreak Severity Framework Proposed",
-        "Anthropic Launches Claude Tag — Persistent Slack Agent with Scoped Permissions and Async Task Delegation",
-        "Tencent Releases Hy3: 295B-Parameter Open Model Available Free on OpenRouter Through July 21"
-      ]
-    },
-    {
-      "run_at": "2026-07-09T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587288?source=rss",
-        "https://www.jiji.com/jc/article?k=2026070900496&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070801341&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/09/news097.html",
-        "https://news.yahoo.co.jp/pickup/6587295?source=rss",
-        "https://zenn.dev/xim2jp_tokyo/articles/ce4e5faba0e41a",
-        "https://zenn.dev/layerx/articles/9f25ec86a31730",
-        "https://zenn.dev/mskbhd/articles/lab-029-openai-claude-code",
-        "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/",
-        "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-        "https://www.anthropic.com/features/making-of-claude-code"
-      ],
-      "titles": [
-        "米軍がイランへの追加攻撃を完了——イランも報復、ホルムズ海峡周辺で緊張続く",
-        "皇室典範改正案、10日に衆院通過へ——国民民主も賛成、旧宮家男系男子の皇籍復帰が焦点",
-        "特捜部の裏金事件主任検事、捜査対象の女性と不適切交際——最高検が懲戒処分へ",
-        "首相官邸の偽サイトが出現——本物そっくりのフィッシングサイト、公式XがURLの確認を呼びかけ",
-        "警察庁とメルカリ・ヤフー・楽天が協定締結——EC不正防止で情報連携、カード番号不正利用の撲滅へ",
-        "Claude Codeに28体のサブエージェント「開発チーム」を組ませ、1人でSaaSを19日でリリースした構成",
-        "Agent Skillsの自動最適化研究——SKILL.mdが学習パラメータ、訓練ループと同一構造であることが判明",
-        "OpenAI公式Claude CodeプラグインはJSON-RPCで呼ばれていた——内部構造を読み解く技術解析",
-        "Rewriting Bun from Zig to Rust Using AI Agents: 11 Days, 5.9B Tokens, 10% Faster Startup",
-        "Databricks Benchmarks Coding Agents on Real Multi-Million Line Codebase — No Single Agent Wins",
-        "The Making of Claude Code: How Anthropic Built an Agentic Coding Tool That Operates in Your Terminal"
       ]
     }
   ]

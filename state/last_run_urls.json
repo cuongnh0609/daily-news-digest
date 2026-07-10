@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-10T05:00:00+09:00",
+  "last_run_at": "2026-07-10T10:30:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-10T10:30:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587381?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587373?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587379?source=rss",
+        "https://www.jiji.com/jc/article?k=2026071000161&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071000275&g=int&m=rss",
+        "https://zenn.dev/nanasess/articles/claude-code-prompt-injection-confabulation",
+        "https://zenn.dev/knowledgesense/articles/283244af941a2d",
+        "https://zenn.dev/eda_sann/articles/343ce0f43b8fa5",
+        "https://simonwillison.net/2026/Jul/9/gpt-5-6/",
+        "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
+        "https://www.itmedia.co.jp/news/articles/2607/10/news074.html"
+      ],
+      "titles": [
+        "放送局への株主圧力を懸念——自民党調査会が総務省に検討要請",
+        "中道・立民・公明の3党合流に黄信号——政策認識の隔たり浮き彫りに",
+        "高速道路トンネル内でUターン、63歳女性が死亡——京都縦貫道で事故",
+        "「トランプ空港」が正式誕生——米フロリダ州の改称に約9億円の費用",
+        "イラン最高指導者ハメネイ師が埋葬——マシャドの聖地に、一連の国葬行事が閉幕",
+        "Claude Codeが「プロンプトインジェクション検出」を報告——解析したら作話だった",
+        "Fable時代のAI活用——Anthropic開発者が公開した「A Field Guide to Fable」を読む",
+        "Sonnet＋OpusでFable 5相当を再現——ハーネス設計と5タスク比較検証の結果",
+        "OpenAI Releases GPT-5.6: Three-Tier Model Family (Sol, Terra, Luna) with Agentic Calling",
+        "GitHub Copilot Now Generates Repository Overviews on Demand",
+        "Anthropic Appoints Ben Bernanke to Long-Term Benefit Trust"
+      ]
+    },
     {
       "run_at": "2026-07-10T05:00:00+09:00",
       "urls": [

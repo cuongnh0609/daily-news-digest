@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-11T13:42:00+09:00",
+  "last_run_at": "2026-07-11T18:42:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-11T18:42:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587566",
+        "https://news.yahoo.co.jp/pickup/6587556",
+        "https://news.yahoo.co.jp/pickup/6587576",
+        "https://news.yahoo.co.jp/pickup/6587567",
+        "https://news.yahoo.co.jp/pickup/6587560",
+        "https://zenn.dev/syarihu/articles/a811f2d2d9f149",
+        "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
+        "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
+        "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+        "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
+        "https://www.itmedia.co.jp/news/articles/2607/09/news123.html"
+      ],
+      "titles": [
+        "ロシア全土で燃料不足が深刻化——ウクライナの製油所攻撃が周辺国にも波及",
+        "全東信破産——加盟20万店舗が資金回収不能の危機、中小支援策を緊急発動",
+        "リニア中央新幹線、静岡工区着工承認から4日で前知事が「万死に値する」と痛烈批判",
+        "大戸屋ホールディングス、過去最高売上3700億円を達成——創業家が経営を再掌握",
+        "SNSフォロワー40万人超のインフルエンサー経営者、法人税1.5億円脱税で15日に判決",
+        "Claude Codeに「昨日の続き」を記憶させるローカル知識ベースCLI「lk」を自作した",
+        "Loop Engineeringで失敗しないための5層ガード・ハーネス設計——「合意は機械可読でなければ壊れる」",
+        "OpenAI「GPT-Live」登場——トークンを出力せず会話を継続する「連続アーキテクチャ」が話題に",
+        "Anthropic Publishes Fable 5 Cyber Safeguards and a Standardized Jailbreak Severity Framework",
+        "GitHub's New Pull Requests Dashboard Is Now Generally Available",
+        "Mitsubishi Motors Partners with Highlanders to Mass-Produce Humanoid Robots — 1,000 Units by Mid-2027"
+      ]
+    },
     {
       "run_at": "2026-07-11T13:42:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Invites Hard Questions About AI — Launching a Public Trust and Accountability Initiative",
         "Alberta Government Uses Claude to Scan 466M Lines of Code in 20 Hours",
         "AI Changes the Economics of Software Rewrites — Clean Codebases Beat Messy Ones by Orders of Magnitude"
-      ]
-    },
-    {
-      "run_at": "2026-07-10T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026070901169&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070901227&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026070900923&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587347?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587352?source=rss",
-        "https://zenn.dev/shiromizuj/articles/fac8f8243fd135",
-        "https://zenn.dev/agentmemories/articles/agent-handoff-ledger-schema",
-        "https://zenn.dev/taroosg/articles/20260708203628-86db8756331c10",
-        "https://www.anthropic.com/news/reflect-with-claude",
-        "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-        "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom"
-      ],
-      "titles": [
-        "自民、令状なし「行政傍受」制度を提言へ——スパイ防止法制定の焦点に",
-        "英歌手ボニー・タイラーさん死去——「ヒーロー」「愛のかげり」で知られる75歳",
-        "スズキが約50万台のリコール届け出——エンジンクランクシャフトのボルト不具合",
-        "ファミリーマートが初の旗艦店を東京に開業——試着室・カフェ・デジタル体験を融合",
-        "プーチン大統領、ウクライナのドローン攻撃で戦闘継続の意志をさらに強める",
-        "ソフトウェアファクトリーは「コード生成」ではなく「レビュー設計」から始まる——Mastra解説",
-        "AIエージェントの引き継ぎ台帳をJSONLで設計する——中断・再開に強い最小スキーマ",
-        "2026年7月版 Claude Codeによる AI駆動開発フロー——品質ゲートと独立レビューエージェントが鍵",
-        "Anthropic Launches 'Reflect with Claude' — A Usage Dashboard with 4D AI Fluency Framework",
-        "Meta Releases Muse Spark 1.1 — Multimodal Agentic Model with 1M Context and Computer Use",
-        "How Version Control Will Evolve for the Agent Boom — Git Hosting Must Go Distributed"
       ]
     }
   ]

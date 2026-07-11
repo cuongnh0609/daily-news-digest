@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-12T01:27:00+09:00",
+  "last_run_at": "2026-07-12T05:47:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-12T05:47:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026071100423&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071100445&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071100343&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/10/news149.html",
+        "https://news.yahoo.co.jp/pickup/6587608",
+        "https://zenn.dev/daiksud/articles/is-human-code-review-still-necessary",
+        "https://zenn.dev/hjpotter1/articles/59622ac112d0a7",
+        "https://zenn.dev/yutannihilation/articles/779cbe9909a637",
+        "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+        "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
+        "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres"
+      ],
+      "titles": [
+        "鈴木自民幹事長、皇室典範改正案めぐり立民をけん制——「３党不一致なら合流できぬ」",
+        "イラン新最高指導者、「米・イスラエルへの復讐を誓う」——ハメネイ師の葬儀後に初声明",
+        "仏大統領選、極右ルペン氏が世論調査でトップ——有罪判決後も求心力衰えず",
+        "モバイルSuicaが2日連続で障害——JR東日本が原因と対策を公表、影響者に払い戻しへ",
+        "J1浦和レッズ、MF柴戸海と契約解除——「契約違反に当たる行為」を認定、10シーズンに幕",
+        "人間のコードレビュー、本当に必要ですか？——AI reviewで「レビューのレビュー」に移行する提案",
+        "CodexのデフォルトをGPT-5.6 Terraにした理由——Sol・Luna・Terraの選択基準を整理する",
+        "DuckDB v2の新機能まとめ（2026年7月）——サーバーモード・VARIANT型・トリガー・C API v2など",
+        "Alberta Government Scanned 466M Lines of Code with Claude in 20 Hours — Replacing 6.5 Years of Manual Work",
+        "Linux Foundation Announces Agent Name Service (ANS) — DNS Infrastructure for Trusted AI Agent Identity",
+        "How ClickHouse Scaled PgBouncer to 4× Throughput — Multi-Process Fleet with so_reuseport"
+      ]
+    },
     {
       "run_at": "2026-07-12T01:27:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Ben Bernanke Joins Anthropic's Long-Term Benefit Trust — Former Fed Chair Brings Economic Crisis Expertise to AI Governance",
         "GitHub Mobile Gets Advanced Copilot Session Filters — Agentic Workflow Management at Scale",
         "Good Tools Are Invisible — Why Developer Tool Design Fails When It Becomes an Identity"
-      ]
-    },
-    {
-      "run_at": "2026-07-10T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587446?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587442?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587451?source=rss",
-        "https://www.jiji.com/jc/article?k=2026071000965&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587448?source=rss",
-        "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
-        "https://zenn.dev/kenfdev/articles/1febc0052b0d71",
-        "https://www.publickey1.jp/blog/26/postgresql_19ioautovacuum.html",
-        "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-        "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-        "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02"
-      ],
-      "titles": [
-        "地方税収、初の50兆円超え——給与所得増が個人住民税を押し上げ",
-        "台風9号バービー、沖縄・先島諸島に11日最接近——全国的に猛暑も継続",
-        "名古屋カラオケ女性2人殺害——被告に無期懲役、裁判員が完全責任能力を認定",
-        "「福井事件」再審——無罪の決め手となった証拠、検察官5人が把握も報告せず",
-        "イトーヨーカドー運営会社、なぜ急回復——セブン&アイ分離後の構造改革が奏功",
-        "MCP「Enterprise-Managed Authorization」が安定版へ——IdP一括管理でエンタープライズ導入が加速",
-        "LLMエージェント時代の開発環境——VS Code DevContainerからSSHコンテナへの移行が進む",
-        "PostgreSQL 19ベータ版登場——I/Oワーカー自動スケール・SQL/PGQグラフクエリなど新機能",
-        "EU Parliament Greenlights Chat Control 1.0 — Mass Scanning of Private Messages Continues Until 2028",
-        "OpenAI's GPT-5.6 Sol, Terra, and Luna Now Available in GitHub Copilot",
-        "John Deere Right-to-Repair FTC Settlement — Farmers Finally Get Full Diagnostic Access to Their Equipment"
-      ]
-    },
-    {
-      "run_at": "2026-07-10T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587421?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587419?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587412?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587397?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587400?source=rss",
-        "https://zenn.dev/rehabforjapan/articles/composer-to-cloud-run-jobs",
-        "https://www.itmedia.co.jp/news/articles/2607/10/news086.html",
-        "https://www.publickey1.jp/blog/26/postgresqldbmultigres_v01.html",
-        "https://www.anthropic.com/news/ust-claude",
-        "https://github.com/malisper/pgrust",
-        "https://www.ello.com/blog/teaching-a-child-in-1000-ms"
-      ],
-      "titles": [
-        "皇室典範改正案、衆院本会議で可決——養子対象を15歳以上に限定",
-        "全東信破産、政府が飲食店の資金繰り支援——特別相談窓口を設置",
-        "成田空港の新滑走路建設へ——57年ぶりに土地収用の事業認定を申請",
-        "北陸新幹線の延伸ルート、来週にも決定へ——小浜・京都の桂川案が有力",
-        "仙台・マンション下ながけ崩れ——市が「直ちに危険なし」と判断、監視継続",
-        "Claude Codeで技術的負債を返済——本番ETL基盤をCloud Run Jobsへ一人で移行、コスト94%削減",
-        "Anthropic、Claude向け「reflect」機能追加——AIの使い方を4D AIフルエンシーで振り返る",
-        "PostgreSQL分散DB「Multigres v0.1」アルファ版——Supabaseが水平スケールと高可用性を実現",
-        "UST Integrates Claude into Physical AI — iDEC Platform Cuts Chip Validation Cycles by 50-70%",
-        "pgrust: Postgres Fully Rewritten in Rust, Now Passing 46,000+ Regression Tests",
-        "Building a Real-Time AI Tutor for 5-Year-Olds: Custom Agent Loop Under 1,000ms"
       ]
     }
   ]

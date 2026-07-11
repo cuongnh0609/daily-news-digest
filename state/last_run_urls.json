@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-11T20:42:00+09:00",
+  "last_run_at": "2026-07-12T01:27:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-12T01:27:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587605",
+        "https://news.yahoo.co.jp/pickup/6587593",
+        "https://news.yahoo.co.jp/pickup/6587611",
+        "https://news.yahoo.co.jp/pickup/6587607",
+        "https://news.yahoo.co.jp/pickup/6587610",
+        "https://zenn.dev/i_ichi/articles/agent-ops-failure-casebook",
+        "https://zenn.dev/egu777/articles/fable5-legacy-archaeology",
+        "https://zenn.dev/398/books/claude-code-nido-sasenai",
+        "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+        "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/",
+        "https://www.mixfont.com/ghost-font"
+      ],
+      "titles": [
+        "特別国会が山場に——重要法案が積み残しとなる可能性、会期延長論も浮上",
+        "高市首相、安倍元総理の追悼集会で「闘う政治家であらねば」と決意表明",
+        "イラン新最高指導者モジタバ師「復讐を誓う」——中東情勢がさらに緊迫化",
+        "「1日千人が使うバス」廃止へ——千葉・幕張で運転士不足が地域交通を直撃",
+        "岐阜・飛騨川で釣り人が溺死——流された道具を追いかけ転落か",
+        "AIエージェント運用でやりがちな失敗事例13選——ステータスが「正常」でも本番は止まっていた",
+        "仕様書なきレガシーシステムをClaude Fable 5で「発掘」——18〜28人日の調査を27分に圧縮",
+        "なぜAIは同じミスを繰り返すのか——CLAUDE.mdだけに頼らず、効果を測ってClaude Codeを「育てる」",
+        "MiMo V2.5 Inference Engineering: Hybrid SWA, Dual-Pool KV Cache, and 2.3× Decode Speedup",
+        "sqlite-utils 4.0: Schema Migrations, Mostly Written by Claude Fable",
+        "Ghost Font: A Typeface Humans Can Read But AI Cannot"
+      ]
+    },
     {
       "run_at": "2026-07-11T20:42:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "UST Integrates Claude into Physical AI — iDEC Platform Cuts Chip Validation Cycles by 50-70%",
         "pgrust: Postgres Fully Rewritten in Rust, Now Passing 46,000+ Regression Tests",
         "Building a Real-Time AI Tutor for 5-Year-Olds: Custom Agent Loop Under 1,000ms"
-      ]
-    },
-    {
-      "run_at": "2026-07-10T10:30:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587381?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587373?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587379?source=rss",
-        "https://www.jiji.com/jc/article?k=2026071000161&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071000275&g=int&m=rss",
-        "https://zenn.dev/nanasess/articles/claude-code-prompt-injection-confabulation",
-        "https://zenn.dev/knowledgesense/articles/283244af941a2d",
-        "https://zenn.dev/eda_sann/articles/343ce0f43b8fa5",
-        "https://simonwillison.net/2026/Jul/9/gpt-5-6/",
-        "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
-        "https://www.itmedia.co.jp/news/articles/2607/10/news074.html"
-      ],
-      "titles": [
-        "放送局への株主圧力を懸念——自民党調査会が総務省に検討要請",
-        "中道・立民・公明の3党合流に黄信号——政策認識の隔たり浮き彫りに",
-        "高速道路トンネル内でUターン、63歳女性が死亡——京都縦貫道で事故",
-        "「トランプ空港」が正式誕生——米フロリダ州の改称に約9億円の費用",
-        "イラン最高指導者ハメネイ師が埋葬——マシャドの聖地に、一連の国葬行事が閉幕",
-        "Claude Codeが「プロンプトインジェクション検出」を報告——解析したら作話だった",
-        "Fable時代のAI活用——Anthropic開発者が公開した「A Field Guide to Fable」を読む",
-        "Sonnet＋OpusでFable 5相当を再現——ハーネス設計と5タスク比較検証の結果",
-        "OpenAI Releases GPT-5.6: Three-Tier Model Family (Sol, Terra, Luna) with Agentic Calling",
-        "GitHub Copilot Now Generates Repository Overviews on Demand",
-        "Anthropic Appoints Ben Bernanke to Long-Term Benefit Trust"
-      ]
-    },
-    {
-      "run_at": "2026-07-10T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587340?source=rss",
-        "https://www.jiji.com/jc/article?k=2026070901167&g=flash&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/09/news130.html",
-        "https://www.itmedia.co.jp/news/articles/2607/09/news138.html",
-        "https://www.jiji.com/jc/article?k=2026070900998&g=pol&m=rss",
-        "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
-        "https://zenn.dev/sonicmoov/articles/3ee60ce2f5954d",
-        "https://zenn.dev/trans/articles/cc1c398e1f770c",
-        "https://www.anthropic.com/news/hard-questions",
-        "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
-        "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/"
-      ],
-      "titles": [
-        "山本太郎氏が政界引退を表明——れいわ新選組は党名変更・再出発へ",
-        "自民党、令状なし「行政傍受」制度を提言——スパイ防止法制定の焦点に浮上",
-        "JCBら、バスで「ハンズフリー決済」を2028年度に実用化——スマホも財布も不要に",
-        "NVIDIAがセガとの40周年を祝うイベント開催へ——フアンCEOが来日",
-        "再審法改正案が参院委で審議開始——証拠開示の拡充で与野党が一致",
-        "BunがClaude Fable 5で53万行のZig→Rust移植を11日で完遂——コスト2640万円相当",
-        "「oh-my-系」ハーネス1年史——マルチエージェントオーケストレーションの真価が明らかに",
-        "Cloudflare Drop登場——HTMLをドラッグ&ドロップするだけで即時Web公開",
-        "Anthropic Invites Hard Questions About AI — Launching a Public Trust and Accountability Initiative",
-        "Alberta Government Uses Claude to Scan 466M Lines of Code in 20 Hours",
-        "AI Changes the Economics of Software Rewrites — Clean Codebases Beat Messy Ones by Orders of Magnitude"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-12T21:27:00+09:00",
+  "last_run_at": "2026-07-13T03:37:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-13T03:37:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587720",
+        "https://news.yahoo.co.jp/pickup/6587717",
+        "https://www.jiji.com/jc/article?k=2026071200346&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071200211&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6587726",
+        "https://zenn.dev/znet/articles/2026-openfugu-local-multiagent-part1",
+        "https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering",
+        "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000182/",
+        "https://www.anthropic.com/news/claude-sonnet-5",
+        "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+        "https://www.anthropic.com/news/ben-bernanke"
+      ],
+      "titles": [
+        "ウクライナ、内閣改造でスビリデンコ首相が交代へ——ゼレンスキー大統領がXで意向表明",
+        "生食用鶏肉、初のガイドライン策定へ——厚労省が食中毒リスクに対応、リスク周知も強化",
+        "バレーボール女子日本代表、ネーションズリーグ決勝T進出——ポーランドに大逆転でセット3-2勝利",
+        "ミャンマー外相、ASEAN外相会議に対面初出席——クーデター後5年、圧力から対話路線へ転換",
+        "田川市長選、セクハラ辞任の前市長が落選——31歳新人・浦野仁氏が初当選",
+        "OpenFugu×ローカルLLM群でマルチAI駆動を実験——「采配学習」を0.6Bモデルで再現、訓練はCPU 2秒",
+        "BunがZig 53万行を11日でRustへ——64並列Claude Codeエージェントが生成した100万行超の変更を解析",
+        "デジタル庁、国産AI3モデルを「さくらのクラウド」で稼働——18万人の公務員が使う「権界」で実証実験",
+        "Introducing Claude Sonnet 5: Anthropic's Most Agentic Sonnet, Approaching Opus 4.8 at Lower Cost",
+        "Terence Tao: Old and New Apps via Modern Coding Agents — A Fields Medalist's Take on Vibe Coding",
+        "Ben Bernanke Joins Anthropic's Long-Term Benefit Trust — Former Fed Chair Brings Crisis Economics Expertise to AI Governance"
+      ]
+    },
     {
       "run_at": "2026-07-12T21:27:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Launches Claude Reflect — A Wellbeing Dashboard to Review Your AI Usage Patterns",
         "AI 2040: Plan A — A Governance Roadmap for Safely Navigating the Path to Superintelligence",
         "GitHub Enterprise Now Enforces Centralized OpenTelemetry Export for Copilot in VS Code and CLI"
-      ]
-    },
-    {
-      "run_at": "2026-07-11T18:42:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587566",
-        "https://news.yahoo.co.jp/pickup/6587556",
-        "https://news.yahoo.co.jp/pickup/6587576",
-        "https://news.yahoo.co.jp/pickup/6587567",
-        "https://news.yahoo.co.jp/pickup/6587560",
-        "https://zenn.dev/syarihu/articles/a811f2d2d9f149",
-        "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
-        "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
-        "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-        "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
-        "https://www.itmedia.co.jp/news/articles/2607/09/news123.html"
-      ],
-      "titles": [
-        "ロシア全土で燃料不足が深刻化——ウクライナの製油所攻撃が周辺国にも波及",
-        "全東信破産——加盟20万店舗が資金回収不能の危機、中小支援策を緊急発動",
-        "リニア中央新幹線、静岡工区着工承認から4日で前知事が「万死に値する」と痛烈批判",
-        "大戸屋ホールディングス、過去最高売上3700億円を達成——創業家が経営を再掌握",
-        "SNSフォロワー40万人超のインフルエンサー経営者、法人税1.5億円脱税で15日に判決",
-        "Claude Codeに「昨日の続き」を記憶させるローカル知識ベースCLI「lk」を自作した",
-        "Loop Engineeringで失敗しないための5層ガード・ハーネス設計——「合意は機械可読でなければ壊れる」",
-        "OpenAI「GPT-Live」登場——トークンを出力せず会話を継続する「連続アーキテクチャ」が話題に",
-        "Anthropic Publishes Fable 5 Cyber Safeguards and a Standardized Jailbreak Severity Framework",
-        "GitHub's New Pull Requests Dashboard Is Now Generally Available",
-        "Mitsubishi Motors Partners with Highlanders to Mass-Produce Humanoid Robots — 1,000 Units by Mid-2027"
-      ]
-    },
-    {
-      "run_at": "2026-07-11T13:42:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587540",
-        "https://news.yahoo.co.jp/pickup/6587541",
-        "https://news.yahoo.co.jp/pickup/6587530",
-        "https://news.yahoo.co.jp/pickup/6587528",
-        "https://news.yahoo.co.jp/pickup/6587532",
-        "https://zenn.dev/atrae/articles/08f2b2c3f2217d",
-        "https://zenn.dev/layerx/articles/9f25ec86a31730",
-        "https://zenn.dev/layerx/articles/797bb5b8935bf6",
-        "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-        "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-        "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"
-      ],
-      "titles": [
-        "習近平主席が金正恩氏に書簡——中朝の友好関係は「変わらない」と強調",
-        "JAXA、再使用ロケット実験機「RV-X」の着陸試験に成功——宇宙輸送コスト削減へ前進",
-        "大谷翔平が今季21号、先頭打者ホームラン——イチロー超え「4本差」に迫る",
-        "ヘンリー王子一家、チャールズ国王・カミラ王妃と4年ぶりに対面——英王室に和解の兆し",
-        "原爆の惨状を伝える「異形の遺骨」初公開——眼鏡の縁が頭蓋骨に溶け込んだ物証",
-        "AIが自分の結論を正当化するバイアスを克服——Fable 5 にブラインドでセカンドオピニオンを聞くSkillを作った",
-        "Agent Skills自動最適化の研究を読み解く——中身は深層学習の訓練ループだった",
-        "個人タスク管理を「判断は人間・更新はエージェント・計算はスクリプト」で設計する——LayerX実践報告",
-        "CodeQL 2.26.0: AI Prompt Injection Detection for JS/TS Now in GitHub Code Scanning",
-        "Apple Sues OpenAI and Former Employees Over Trade Secret Theft",
-        "GPT-5.6 Sol Ultra Produces First Machine-Generated Proof of the Cycle Double Cover Conjecture"
       ]
     }
   ]

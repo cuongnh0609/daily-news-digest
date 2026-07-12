@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-12T15:27:00+09:00",
+  "last_run_at": "2026-07-12T21:27:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-12T21:27:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587708?source=rss",
+        "https://www.jiji.com/jc/article?k=2026071200337&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6587710?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587695?source=rss",
+        "https://www.jiji.com/jc/article?k=2026071200365&g=spo&m=rss",
+        "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
+        "https://zenn.dev/phpmyadmin/articles/f243076e9ec1fe",
+        "https://zenn.dev/grooves/articles/d0e1a182138ab0",
+        "https://thebeach.dev/posts/lisp-agent/",
+        "https://simonwillison.net/2026/Jul/9/gpt-5-6/",
+        "https://github.com/cosmtrek/mindwalk"
+      ],
+      "titles": [
+        "台風9号が高気圧を強化——西日本で猛暑日続出、関東でも40℃に迫る恐れ",
+        "米・グラム上院議員が71歳で急死——トランプ大統領の盟友、共和党重鎮が突然の訃報",
+        "小田凱人、ウィンブルドン2連覇達成——6-1, 6-1の完勝でグランドスラム10勝目",
+        "「ぬれぎぬ」で懲戒解雇された男性が自殺——遺族が企業と7年の法廷闘争を続ける",
+        "大相撲名古屋場所、両横綱が明暗——霧島が連敗、照ノ富士が白星を死守",
+        "MCPの「Enterprise-Managed Authorization（EMA）」が安定版へ——企業向けアクセス一括管理を実現",
+        "NVIDIA DGX Spark（GB10）で7本のローカルLLMを実測——MoEモデルが密結合型の約5倍の速度を記録",
+        "AI時代でも変わらない業務自動化の本質——「ツールを作ること」より「組織プロセスの再設計」が先",
+        "An Agent in 100 Lines of Lisp — How Homoiconicity Makes AI Agent Loops Trivially Simple",
+        "OpenAI's GPT-5.6 Family: Three-Tier Model Architecture with Luna, Terra, and Sol",
+        "Mindwalk: Replay Coding-Agent Sessions on a 3D Map of Your Codebase"
+      ]
+    },
     {
       "run_at": "2026-07-12T15:27:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "CodeQL 2.26.0: AI Prompt Injection Detection for JS/TS Now in GitHub Code Scanning",
         "Apple Sues OpenAI and Former Employees Over Trade Secret Theft",
         "GPT-5.6 Sol Ultra Produces First Machine-Generated Proof of the Cycle Double Cover Conjecture"
-      ]
-    },
-    {
-      "run_at": "2026-07-11T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587459",
-        "https://news.yahoo.co.jp/pickup/6587470",
-        "https://news.yahoo.co.jp/pickup/6587475",
-        "https://news.yahoo.co.jp/pickup/6587477",
-        "https://news.yahoo.co.jp/pickup/6587480",
-        "https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering",
-        "https://zenn.dev/boutiquehack/articles/ai-agent-tests-green-prod-down",
-        "https://zenn.dev/cutlet_of_pork/articles/llm-token-saving-delegation-design",
-        "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-        "https://github.com/rowboatlabs/rowboat",
-        "https://tejassuds.com/blog/ai-cannot-forget"
-      ],
-      "titles": [
-        "福井事件の再審で無罪——無実を示す証拠を検察官5人が把握しながら報告せず",
-        "エレベーター新設後まもなく小学生3人が閉じ込め——兵庫・加古川の公民館で約1時間",
-        "フィギュアスケーター村主章枝さん、13歳年下の米国人男性との結婚を公表",
-        "堂本兄弟、STARTO ENTERTAINMENTとのグループ契約を7月21日に終了へ",
-        "スペインvsベルギー——ユーロ2028予選で激しい攻防、南欧の強豪が首位争い",
-        "64並列Claude Codeで53万行を11日間でRust移植——Bunのハーネス設計から学べること",
-        "テスト全部グリーンなのに本番で落ちた——AIエージェントコードの2つの盲点",
-        "小さいトークン枠でAIエージェントを回す——委任アーキテクチャで「主モデルの文脈」を守る設計",
-        "Anthropic's J-Lens Reveals J-Space — A Hidden Computational Layer Where Claude Thinks Before It Speaks",
-        "Rowboat: Open-Source Desktop AI Coworker That Indexes Your Work Into a Living Knowledge Graph",
-        "AI Cannot Forget and Does Not Know How to Forgive — Why Machine Memory Architecture Prevents Graceful Decay"
-      ]
-    },
-    {
-      "run_at": "2026-07-11T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587476",
-        "https://news.yahoo.co.jp/pickup/6587472",
-        "https://news.yahoo.co.jp/pickup/6587474",
-        "https://www.jiji.com/jc/article?k=2026071001104&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071000967&g=int&m=rss",
-        "https://zenn.dev/gvatech_blog/articles/1c20901b5aecde",
-        "https://zenn.dev/imohuke/articles/what-is-loop-engineering",
-        "https://zenn.dev/gemcook/articles/467b1233efe811",
-        "https://www.anthropic.com/news/ben-bernanke",
-        "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
-        "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/"
-      ],
-      "titles": [
-        "台風9号「バービー」、石垣島に丸一日の暴風域——先島諸島に最接近へ",
-        "退職自衛官支援へ新「庁」設置を検討——「骨太の方針」への盛り込みを目指す",
-        "中古買い取り会社元代表、所得税7.8億円を脱税か——東京地検が逮捕",
-        "スペイン南部で大規模山火事——11人死亡・19人行方不明、送電線落下が出火原因か",
-        "ゼレンスキー大統領、三菱重工とパトリオット共同生産に意欲——技術力を高く評価",
-        "1日54本のPRをマージした「並列Agent Codingコックピット」——herdr + git worktreeで人間は「管制官」になった",
-        "ループエンジニアリングとは何か——AIエージェント時代の「プロンプトの次」を整理する",
-        "Claude Codeのループが回らない原因は「完了条件の分類ミス」だった——3型フレームワークで解決",
-        "Ben Bernanke Joins Anthropic's Long-Term Benefit Trust — Former Fed Chair Brings Economic Crisis Expertise to AI Governance",
-        "GitHub Mobile Gets Advanced Copilot Session Filters — Agentic Workflow Management at Scale",
-        "Good Tools Are Invisible — Why Developer Tool Design Fails When It Becomes an Identity"
       ]
     }
   ]

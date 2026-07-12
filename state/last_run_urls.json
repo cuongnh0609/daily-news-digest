@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-13T03:37:00+09:00",
+  "last_run_at": "2026-07-13T05:37:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-13T05:37:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026071300059&g=spo",
+        "https://www.jiji.com/jc/article?k=2026071100364&g=eco",
+        "https://www.jiji.com/jc/article?k=2026071200184&g=pol",
+        "https://www.jiji.com/jc/article?k=2026071200177&g=soc",
+        "https://www.jiji.com/jc/article?k=2026071001140&g=eco",
+        "https://zenn.dev/syarihu/articles/a811f2d2d9f149",
+        "https://zenn.dev/layerx/articles/9f25ec86a31730",
+        "https://zenn.dev/seiuchi3939/articles/b12d6746d9f187",
+        "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+        "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+        "https://arxiv.org/abs/2607.06377"
+      ],
+      "titles": [
+        "佐々木麟太郎、マーリンズから8巡目235位で指名——ソフトバンクとMLBの二択、7月末が決断の期限",
+        "東海道新幹線に23年ぶりの個室「Supreme Class」——2026年10月から東京～大阪間で導入へ",
+        "茂木外相、南シナ海仲裁判決10周年に際し中国に順守を要求——「覇権主義的行動」に強い懸念",
+        "四国で梅雨明け——平年より5日早く、近畿・中国地方に続き西日本で本格的な夏到来",
+        "ソフトバンク・PayPay、セブン&アイに数千億円規模の出資へ——デジタル決済と小売の「ポイント経済圏」統合",
+        "Claude Codeに「昨日の続き」を覚えさせるCLI「lk」——SQLite FTS5とGitで実装するAIエージェント向けローカル知識ベース",
+        "AIエージェントのSkills自動最適化は「深層学習の訓練ループ」だった——Trace2Skill・CoEvoSkills・SkillGradの設計原理を解剖",
+        "情報漏洩リスクを抱えた金融機関でClaude・Gemini・ChatGPTを導入——リスク部門と現場の合意形成と「非導入リスク」の視点",
+        "Claude Code vs OpenCode: Token Overhead Benchmarked — 33k vs 7k Tokens Before Reading Your Prompt",
+        "Anthropic Publishes Fable 5's Jailbreak Framework — A Standardized Severity Scale for AI Security Breaches",
+        "Automation Without Understanding — Mathematical Capacity as National Infrastructure in the Age of AI Theorem Provers"
+      ]
+    },
     {
       "run_at": "2026-07-13T03:37:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "MiMo V2.5 Inference Engineering: Hybrid SWA, Dual-Pool KV Cache, and 2.3× Decode Speedup",
         "sqlite-utils 4.0: Schema Migrations, Mostly Written by Claude Fable",
         "Ghost Font: A Typeface Humans Can Read But AI Cannot"
-      ]
-    },
-    {
-      "run_at": "2026-07-11T20:42:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587592",
-        "https://www.jiji.com/jc/article?k=2026071100429&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587570",
-        "https://news.yahoo.co.jp/pickup/6587584",
-        "https://www.jiji.com/jc/article?k=2026071100383&g=int&m=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000183/",
-        "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
-        "https://www.publickey1.jp/blog/26/applemacos_27swift.html",
-        "https://www.anthropic.com/news/reflect-with-claude",
-        "https://ai-2040.com/",
-        "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli"
-      ],
-      "titles": [
-        "トランプ大統領、「暗殺企てればイランを完全破壊」と警告——中東緊張が一段と高まる",
-        "上地結衣、ウィンブルドン初制覇——車いすテニスで生涯グランドスラムの偉業達成",
-        "皇室典範改正案を巡り中道と立民の間で亀裂——３党合流協議に影響必至",
-        "O157食中毒から30年——当時の被害者が今や管理栄養士として食の安全を守る立場に",
-        "北朝鮮軍に「特大型汚職事件」——金正恩氏が軍総政治局幹部を「政治的犯罪」と断罪",
-        "OpenAI「GPT-5.6」一般公開——Sol/Terra/Lunaの3層モデルで「Claude Fable 5と同等、コスト半分」をうたう",
-        "テスラ車内で「Grok」と会話、日本でも展開——ナビ設定やルート確認がハンズフリーに",
-        "Apple、次期macOS 27でSwiftをシステムカーネル開発に採用——メモリ安全な言語でOSコアを書き換えへ",
-        "Anthropic Launches Claude Reflect — A Wellbeing Dashboard to Review Your AI Usage Patterns",
-        "AI 2040: Plan A — A Governance Roadmap for Safely Navigating the Path to Superintelligence",
-        "GitHub Enterprise Now Enforces Centralized OpenTelemetry Export for Copilot in VS Code and CLI"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-13T15:00:00+09:00",
+  "last_run_at": "2026-07-13T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-13T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026071300768&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071300559&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6587808",
+        "https://news.yahoo.co.jp/pickup/6587806",
+        "https://news.yahoo.co.jp/pickup/6587812",
+        "https://zenn.dev/nenene01/articles/ai-security-2026",
+        "https://www.itmedia.co.jp/news/articles/2607/13/news090.html",
+        "https://zenn.dev/xin9le/articles/6fb2045805996c",
+        "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+        "https://nebusec.ai/research/ionstack-part-2/",
+        "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available"
+      ],
+      "titles": [
+        "死刑囚の手紙黒塗り、最高裁が「違法」と確定——弁護士への再審依頼文を削除した拘置所に賠償命令",
+        "SNS選挙法が成立——偽情報対策を強化、AI生成コンテンツへのラベル表示を義務化",
+        "検察の不祥事が相次いでも記者会見を開かず——組織の透明性と説明責任が問われる",
+        "警棒で高校生が右目失明——沖縄県議会が約9,140万円の賠償に合意",
+        "兵庫県の財政指標が算定ミスで急悪化——2030年度に「早期健全化団体」転落の危機",
+        "AIエージェント時代の開発セキュリティを再設計する——「致命的トリフェクタ」を避けるアーキテクチャ設計",
+        "OpenAIのAIブラウザ「ChatGPT Atlas」が1年足らずで終了——機能はChatGPT本体に統合へ",
+        "Claude Fable 5が教えてくれたハッシュ最適化——FastEnumの文字列検索を最大8.5倍高速化した手法",
+        "Zig Creator Calls Spade a Spade: Anthropic Blows Smoke — AI Is Not Enough Without Engineering Rigor",
+        "GhostLock: A 15-Year Linux Kernel Use-After-Free That Allows Privilege Escalation and Container Escapes",
+        "GitHub's Redesigned Pull Requests Dashboard Is Now Generally Available — With Keyboard Nav, AI-PR Filters, and Saved Views"
+      ]
+    },
     {
       "run_at": "2026-07-13T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Invites the Public to Ask Hard Questions About AI's Societal Impact",
         "What xAI's Grok Build CLI Actually Sends to xAI: Full Repos Uploaded Without Disclosure",
         "sqlite-utils 4.1: New CLI Options, AI-Assisted Development, and the Evolving Role of LLMs in Tool Building"
-      ]
-    },
-    {
-      "run_at": "2026-07-12T10:37:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026071200113&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071200093&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587625?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/09/news132.html",
-        "https://news.yahoo.co.jp/pickup/6587633?source=rss",
-        "https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types",
-        "https://zenn.dev/aws_japan/articles/agent-cost-bench-model-compare",
-        "https://zenn.dev/okamyuji/articles/agent-driven-workflow-feedflow",
-        "https://www.anthropic.com/news/ust-claude",
-        "https://www.iroh.computer/blog/mesh-llm",
-        "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot"
-      ],
-      "titles": [
-        "米軍がイランへの新たな空爆を開始——革命防衛隊はホルムズ海峡封鎖を宣言",
-        "ノスコバがウィンブルドン初優勝——21歳のチェコ人選手が初のグランドスラム制覇",
-        "勤務医の残業、年960時間超が15%——医師の働き方改革に課題残る",
-        "「ドコモの銀行」誕生へ——住信SBIネット銀行が社名変更、法人向けは「NEOBANK」維持",
-        "大阪の公園に毒キノコが大量発生——専門家が市民に注意を呼びかけ",
-        "AIエージェントが使う5種類のグラフ——ナレッジグラフだけでは足りない理由を整理する",
-        "agent-cost-bench でコーディングエージェントの品質とコストを実測——Sonnet 5とOpus 4.8は品質互角、コストは1.7倍差",
-        "Claude CodeでAgentic Engineeringを個人開発の本番運用につなぐ——人間は監督役、AIは実装役の役割分担",
-        "UST is bringing Claude to physical AI — Semiconductor Validation Cycles Cut by 50–70%",
-        "Mesh LLM: Run 235B-Parameter Models Across Ordinary Hardware via P2P Networking",
-        "OpenAI's GPT-5.6 Sol, Terra, and Luna Now Available in GitHub Copilot"
-      ]
-    },
-    {
-      "run_at": "2026-07-12T05:47:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026071100423&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071100445&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071100343&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/10/news149.html",
-        "https://news.yahoo.co.jp/pickup/6587608",
-        "https://zenn.dev/daiksud/articles/is-human-code-review-still-necessary",
-        "https://zenn.dev/hjpotter1/articles/59622ac112d0a7",
-        "https://zenn.dev/yutannihilation/articles/779cbe9909a637",
-        "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
-        "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
-        "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres"
-      ],
-      "titles": [
-        "鈴木自民幹事長、皇室典範改正案めぐり立民をけん制——「３党不一致なら合流できぬ」",
-        "イラン新最高指導者、「米・イスラエルへの復讐を誓う」——ハメネイ師の葬儀後に初声明",
-        "仏大統領選、極右ルペン氏が世論調査でトップ——有罪判決後も求心力衰えず",
-        "モバイルSuicaが2日連続で障害——JR東日本が原因と対策を公表、影響者に払い戻しへ",
-        "J1浦和レッズ、MF柴戸海と契約解除——「契約違反に当たる行為」を認定、10シーズンに幕",
-        "人間のコードレビュー、本当に必要ですか？——AI reviewで「レビューのレビュー」に移行する提案",
-        "CodexのデフォルトをGPT-5.6 Terraにした理由——Sol・Luna・Terraの選択基準を整理する",
-        "DuckDB v2の新機能まとめ（2026年7月）——サーバーモード・VARIANT型・トリガー・C API v2など",
-        "Alberta Government Scanned 466M Lines of Code with Claude in 20 Hours — Replacing 6.5 Years of Manual Work",
-        "Linux Foundation Announces Agent Name Service (ANS) — DNS Infrastructure for Trusted AI Agent Identity",
-        "How ClickHouse Scaled PgBouncer to 4× Throughput — Multi-Process Fleet with so_reuseport"
       ]
     }
   ]

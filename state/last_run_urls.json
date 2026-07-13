@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-14T00:00:00+09:00",
+  "last_run_at": "2026-07-14T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-14T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026071301068&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071300810&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071300748&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6587832",
+        "https://www.itmedia.co.jp/news/articles/2607/13/news126.html",
+        "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering",
+        "https://www.publickey1.jp/blog/26/3ai.html",
+        "https://www.itmedia.co.jp/news/articles/2607/13/news129.html",
+        "https://github.com/clawkwork/clawk",
+        "https://playcode.io/blog/real-price-of-frontier-models",
+        "https://www.anthropic.com/news/hard-questions"
+      ],
+      "titles": [
+        "米トランプ大統領、ホルムズ海峡を通過する船舶に「通行料」要求——イランへの海上封鎖を再発動",
+        "皇室典範改正案、15日に参院委採決へ——自民・立民が大筋合意、副首都法案は与野党の攻防続く",
+        "社会保障国民会議、低収入者向け給付で先行合意目指す——消費税減税の結論は会期後に先送りか",
+        "EU、13歳未満の子どものSNS利用を制限へ——フォンデアライエン委員長が方針表明、秋に具体策を発表",
+        "LINEヤフー、ゲームアプリから710万件の識別情報を誤送信——3年以上にわたる情報漏えいが発覚",
+        "AI-DLC Workflows 2.0とは何か——32ステージ・11エージェント・9スコープで実現するAI駆動開発ライフサイクル",
+        "デジタル庁、国産AI「つづみ2」「Takane 32B」「PLaMo 2.0」をさくらのクラウドで試験運用——18万人の公務員が使うGovAI「源内」に向けた実証",
+        "リチウムイオン電池の出火、東京都内で過去最多の382件——電動キックボードや電動自転車の普及が要因に",
+        "Clawk: Give Coding Agents a Disposable Linux VM, Not Your Laptop — Isolated Sandboxes with Network Allow-listing for Claude Code and Codex",
+        "The Real Cost of Claude vs GPT: Same TypeScript Code Costs 73% More Tokens — And Claude Opus 4.8 Silently Inflated Its Own Tokenizer by 32%",
+        "Anthropic Invites the World's Hardest Questions About AI — And Commits to Publicly Track Its Answers"
+      ]
+    },
     {
       "run_at": "2026-07-14T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Introducing Claude Sonnet 5: Anthropic's Most Agentic Sonnet, Approaching Opus 4.8 at Lower Cost",
         "Terence Tao: Old and New Apps via Modern Coding Agents — A Fields Medalist's Take on Vibe Coding",
         "Ben Bernanke Joins Anthropic's Long-Term Benefit Trust — Former Fed Chair Brings Crisis Economics Expertise to AI Governance"
-      ]
-    },
-    {
-      "run_at": "2026-07-12T21:27:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587708?source=rss",
-        "https://www.jiji.com/jc/article?k=2026071200337&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587710?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587695?source=rss",
-        "https://www.jiji.com/jc/article?k=2026071200365&g=spo&m=rss",
-        "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
-        "https://zenn.dev/phpmyadmin/articles/f243076e9ec1fe",
-        "https://zenn.dev/grooves/articles/d0e1a182138ab0",
-        "https://thebeach.dev/posts/lisp-agent/",
-        "https://simonwillison.net/2026/Jul/9/gpt-5-6/",
-        "https://github.com/cosmtrek/mindwalk"
-      ],
-      "titles": [
-        "台風9号が高気圧を強化——西日本で猛暑日続出、関東でも40℃に迫る恐れ",
-        "米・グラム上院議員が71歳で急死——トランプ大統領の盟友、共和党重鎮が突然の訃報",
-        "小田凱人、ウィンブルドン2連覇達成——6-1, 6-1の完勝でグランドスラム10勝目",
-        "「ぬれぎぬ」で懲戒解雇された男性が自殺——遺族が企業と7年の法廷闘争を続ける",
-        "大相撲名古屋場所、両横綱が明暗——霧島が連敗、照ノ富士が白星を死守",
-        "MCPの「Enterprise-Managed Authorization（EMA）」が安定版へ——企業向けアクセス一括管理を実現",
-        "NVIDIA DGX Spark（GB10）で7本のローカルLLMを実測——MoEモデルが密結合型の約5倍の速度を記録",
-        "AI時代でも変わらない業務自動化の本質——「ツールを作ること」より「組織プロセスの再設計」が先",
-        "An Agent in 100 Lines of Lisp — How Homoiconicity Makes AI Agent Loops Trivially Simple",
-        "OpenAI's GPT-5.6 Family: Three-Tier Model Architecture with Luna, Terra, and Sol",
-        "Mindwalk: Replay Coding-Agent Sessions on a 3D Map of Your Codebase"
       ]
     }
   ]

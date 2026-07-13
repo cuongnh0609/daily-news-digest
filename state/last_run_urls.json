@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-13T20:00:00+09:00",
+  "last_run_at": "2026-07-14T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-14T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587822",
+        "https://news.yahoo.co.jp/pickup/6587835",
+        "https://news.yahoo.co.jp/pickup/6587833",
+        "https://www.jiji.com/jc/article?k=2026071300945&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071300512&g=int&m=rss",
+        "https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types",
+        "https://www.publickey1.jp/blog/26/google_cloudaicloud_run.html",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2607/13/news034.html",
+        "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/",
+        "https://antirez.com/news/169",
+        "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/"
+      ],
+      "titles": [
+        "14日 東日本も熱中症リスク高まる",
+        "東京で無差別殺傷を計画疑い 逮捕",
+        "全東信破産 465億円超焦げ付きか",
+        "歌舞伎俳優がひき逃げか 中村小三郎さんを任意聴取",
+        "トランプ氏含む「報復リスト」 最高指導者殺害でイラン主要紙",
+        "ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ",
+        "Google Cloud、生成AIのコードを瞬時に隔離して安全に実行できる「Cloud Runサンドボックス」パブリックプレビュー",
+        "エージェントによる業務自動化をどう実現？ 「Microsoft Build 2026」で発表された多数の新技術",
+        "Directly Responsible Individuals (DRI) — LLM Agents Should Never Be the DRI",
+        "Control the Ideas, Not the Code — antirez on Architecture in the Age of LLM-Generated Code",
+        "Introducing Muse Spark 1.1 — First Spark Model with API Access and Improved Agentic Tool Calling"
+      ]
+    },
     {
       "run_at": "2026-07-13T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "An Agent in 100 Lines of Lisp — How Homoiconicity Makes AI Agent Loops Trivially Simple",
         "OpenAI's GPT-5.6 Family: Three-Tier Model Architecture with Luna, Terra, and Sol",
         "Mindwalk: Replay Coding-Agent Sessions on a 3D Map of Your Codebase"
-      ]
-    },
-    {
-      "run_at": "2026-07-12T15:27:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026071200189&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587668?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587658?source=rss",
-        "https://www.jiji.com/jc/article?k=2026071200151&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587667?source=rss",
-        "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering",
-        "https://zenn.dev/jodycraft/articles/3f7548173dcb55",
-        "https://zenn.dev/karaage0703/articles/47299d42de9607",
-        "https://www.anthropic.com/news/hard-questions",
-        "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-        "https://simonwillison.net/2026/Jul/11/sqlite-utils/"
-      ],
-      "titles": [
-        "米軍、対イラン攻撃を完了と発表——ホルムズ海峡封鎖宣言後の緊張が頂点へ",
-        "東北で記録的大雨——九州から関東も雷雨に警戒、梅雨前線が活発化",
-        "サッカーW杯2026、4強が出そろう——ブラジル・フランス・アルゼンチン・スペイン",
-        "自民党、会期内の全法案成立を目指す——野党は「充実審議」を要求し対立",
-        "東京都内でクマの出没が増加傾向——都市近郊への侵入が相次ぎ、専門家が原因を分析",
-        "AI-DLC Workflows 2.0——5フェーズ・32ステージ・11エージェントで構成するAI駆動開発ライフサイクル",
-        "ループエンジニアリングをGitHub Copilotで組めるか調べてみた",
-        "AIと一緒にCAD設計ができる「cad-coworker」——AIが初期設計、人間がスライダーで微調整するワークフロー",
-        "Anthropic Invites the Public to Ask Hard Questions About AI's Societal Impact",
-        "What xAI's Grok Build CLI Actually Sends to xAI: Full Repos Uploaded Without Disclosure",
-        "sqlite-utils 4.1: New CLI Options, AI-Assisted Development, and the Evolving Role of LLMs in Tool Building"
       ]
     }
   ]

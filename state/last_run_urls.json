@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-13T05:37:00+09:00",
+  "last_run_at": "2026-07-13T10:24:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-13T10:24:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587739?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587748?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587740?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587738?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587749?source=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000185/",
+        "https://zenn.dev/tacky_exception/articles/4d77fef5a36e42",
+        "https://www.itmedia.co.jp/news/articles/2607/13/news021.html",
+        "https://www.anthropic.com/news/reflect-with-claude",
+        "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+        "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html"
+      ],
+      "titles": [
+        "国会残り5日、会期末に向けた与野党の攻防が本格化——皇室典範改正案が最大の焦点に",
+        "原油先物が急騰——米・イラン対立でホルムズ海峡封鎖への懸念が再び高まる",
+        "東証上場の昭和HD、実印・通帳・帳簿がすべて消失——代表取締役も行方不明の異常事態",
+        "九州・近畿で猛暑続く——熱中症警戒アラートが広域発令、東海以北でも雷雨に注意",
+        "佐々木麟太郎、MLBドラフトでマーリンズから8巡目指名——ソフトバンクとの二択で7月末に最終決断",
+        "Anthropic、Claude Fable 5の無償アクセスとClaude Code週間上限50%増を7月19日まで延長",
+        "ハーネスエンジニアリングとループエンジニアリングの違いを整理——AIエージェント開発の2つの基盤設計",
+        "arXiv投稿論文の約9割に非公開情報が露出——270万件調査でパスワード・秘密鍵・GPS座標も",
+        "Anthropic Launches Reflect with Claude — An AI Usage Dashboard Built Around the 4D Fluency Framework",
+        "Migrating a Production AI Agent to GPT-5.6: 2.2x Faster, 27% Cheaper — But Your Harness Is Secretly Tuned to Your Old Model",
+        "George Hotz: I Love LLMs, I Hate Hype — On AI Progress as Physics, Not Strategy"
+      ]
+    },
     {
       "run_at": "2026-07-13T05:37:00+09:00",
       "urls": [
@@ -110,7 +139,7 @@
         "自民党、会期内の全法案成立を目指す——野党は「充実審議」を要求し対立",
         "東京都内でクマの出没が増加傾向——都市近郊への侵入が相次ぎ、専門家が原因を分析",
         "AI-DLC Workflows 2.0——5フェーズ・32ステージ・11エージェントで構成するAI駆動開発ライフサイクル",
-        "ループエンジニアリングをGitHub Copilotで実現できるか——自律運用設計の階層を徹底検証",
+        "ループエンジニアリングをGitHub Copilotで組めるか調べてみた",
         "AIと一緒にCAD設計ができる「cad-coworker」——AIが初期設計、人間がスライダーで微調整するワークフロー",
         "Anthropic Invites the Public to Ask Hard Questions About AI's Societal Impact",
         "What xAI's Grok Build CLI Actually Sends to xAI: Full Repos Uploaded Without Disclosure",

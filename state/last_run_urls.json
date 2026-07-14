@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-14T10:00:00+09:00",
+  "last_run_at": "2026-07-14T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-14T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587891?source=rss",
+        "https://www.jiji.com/jc/article?k=2026071400519&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071400144&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071400244&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6587869?source=rss",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2607/14/news031.html",
+        "https://www.itmedia.co.jp/aiplus/article/2607/14/2000000190/",
+        "https://monoist.itmedia.co.jp/mn/articles/2607/14/news046.html",
+        "https://arxiv.org/abs/2607.01418",
+        "https://github.com/jbwinters/jacquard-lang",
+        "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/"
+      ],
+      "titles": [
+        "大飯原発の運転差し止め認めず——京都地裁が住民3500人の請求を棄却",
+        "セブン冷蔵設備で談合疑い——富士電機など3社に公正取引委員会が立ち入り検査",
+        "副首都法案、あすにも衆院通過へ——与党・みらいが修正合意、会期末に向け攻防",
+        "米、ICC脱退を同盟国に働きかけ——日本にも判断を求める可能性",
+        "「結婚・子育ては経済力次第」——国連調査、73カ国で若者の88%が経済安定を出産の前提に",
+        "AIがホームディレクトリを丸ごと削除——DockerがAIコーディングエージェントの構造的欠陥とsandbox解決策を公開",
+        "DropboxがClaudeと連携開始——ChatGPT・Geminiに続きAI共通コンテンツ基盤を構築",
+        "富士通、「自己進化」するマルチAIエージェントフレームワーク「MAAF」の検証を開始",
+        "Microsoft Study: Claude Code and Copilot CLI Adoption Drives 24% More Merged PRs — Peer Visibility Is the Key",
+        "Jacquard: A Programming Language Designed for AI-Written, Human-Reviewed Code",
+        "Simon Willison: Cache uvx Tools in GitHub Actions With a Date-Pinned UV_EXCLUDE_NEWER Trick"
+      ]
+    },
     {
       "run_at": "2026-07-14T10:00:00+09:00",
       "urls": [
@@ -144,64 +173,6 @@
         "CodeQL 2.26.0 Adds AI Prompt Injection Detection for JavaScript and TypeScript",
         "Anthropic Extends Claude Fable 5 Access Again to July 19 — As Competitive Pressure From OpenAI's GPT-5.6 Mounts",
         "Why Write Code in 2026 — The Case for Human Authorship in the Age of AI Coding Agents"
-      ]
-    },
-    {
-      "run_at": "2026-07-13T10:24:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587739?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587748?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587740?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587738?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587749?source=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000185/",
-        "https://zenn.dev/tacky_exception/articles/4d77fef5a36e42",
-        "https://www.itmedia.co.jp/news/articles/2607/13/news021.html",
-        "https://www.anthropic.com/news/reflect-with-claude",
-        "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-        "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html"
-      ],
-      "titles": [
-        "国会残り5日、会期末に向けた与野党の攻防が本格化——皇室典範改正案が最大の焦点に",
-        "原油先物が急騰——米・イラン対立でホルムズ海峡封鎖への懸念が再び高まる",
-        "東証上場の昭和HD、実印・通帳・帳簿がすべて消失——代表取締役も行方不明の異常事態",
-        "九州・近畿で猛暑続く——熱中症警戒アラートが広域発令、東海以北でも雷雨に注意",
-        "佐々木麟太郎、MLBドラフトでマーリンズから8巡目指名——ソフトバンクとの二択で7月末に最終決断",
-        "Anthropic、Claude Fable 5の無償アクセスとClaude Code週間上限50%増を7月19日まで延長",
-        "ハーネスエンジニアリングとループエンジニアリングの違いを整理——AIエージェント開発の2つの基盤設計",
-        "arXiv投稿論文の約9割に非公開情報が露出——270万件調査でパスワード・秘密鍵・GPS座標も",
-        "Anthropic Launches Reflect with Claude — An AI Usage Dashboard Built Around the 4D Fluency Framework",
-        "Migrating a Production AI Agent to GPT-5.6: 2.2x Faster, 27% Cheaper — But Your Harness Is Secretly Tuned to Your Old Model",
-        "George Hotz: I Love LLMs, I Hate Hype — On AI Progress as Physics, Not Strategy"
-      ]
-    },
-    {
-      "run_at": "2026-07-13T05:37:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026071300059&g=spo",
-        "https://www.jiji.com/jc/article?k=2026071100364&g=eco",
-        "https://www.jiji.com/jc/article?k=2026071200184&g=pol",
-        "https://www.jiji.com/jc/article?k=2026071200177&g=soc",
-        "https://www.jiji.com/jc/article?k=2026071001140&g=eco",
-        "https://zenn.dev/syarihu/articles/a811f2d2d9f149",
-        "https://zenn.dev/layerx/articles/9f25ec86a31730",
-        "https://zenn.dev/seiuchi3939/articles/b12d6746d9f187",
-        "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-        "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-        "https://arxiv.org/abs/2607.06377"
-      ],
-      "titles": [
-        "佐々木麟太郎、マーリンズから8巡目235位で指名——ソフトバンクとMLBの二択、7月末が決断の期限",
-        "東海道新幹線に23年ぶりの個室「Supreme Class」——2026年10月から東京～大阪間で導入へ",
-        "茂木外相、南シナ海仲裁判決10周年に際し中国に順守を要求——「覇権主義的行動」に強い懸念",
-        "四国で梅雨明け——平年より5日早く、近畿・中国地方に続き西日本で本格的な夏到来",
-        "ソフトバンク・PayPay、セブン&アイに数千億円規模の出資へ——デジタル決済と小売の「ポイント経済圏」統合",
-        "Claude Codeに「昨日の続き」を覚えさせるCLI「lk」——SQLite FTS5とGitで実装するAIエージェント向けローカル知識ベース",
-        "AIエージェントのSkills自動最適化は「深層学習の訓練ループ」だった——Trace2Skill・CoEvoSkills・SkillGradの設計原理を解剖",
-        "情報漏洩リスクを抱えた金融機関でClaude・Gemini・ChatGPTを導入——リスク部門と現場の合意形成と「非導入リスク」の視点",
-        "Claude Code vs OpenCode: Token Overhead Benchmarked — 33k vs 7k Tokens Before Reading Your Prompt",
-        "Anthropic Publishes Fable 5's Jailbreak Framework — A Standardized Severity Scale for AI Security Breaches",
-        "Automation Without Understanding — Mathematical Capacity as National Infrastructure in the Age of AI Theorem Provers"
       ]
     }
   ]

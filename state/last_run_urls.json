@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-14T05:00:00+09:00",
+  "last_run_at": "2026-07-14T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-14T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6587854?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587847?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587855?source=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/09/news123.html",
+        "https://news.yahoo.co.jp/pickup/6587841?source=rss",
+        "https://zenn.dev/znet/articles/2026-openfugu-local-multiagent-part1",
+        "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
+        "https://www.itmedia.co.jp/news/articles/2607/13/news128.html",
+        "https://simonwillison.net/2026/Jul/9/gpt-5-6/",
+        "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+        "https://neow.in/cWsyMTV3"
+      ],
+      "titles": [
+        "イランがUAEタンカーを攻撃——ホルムズ海峡で乗組員1名が死亡、中東緊張が一段と高まる",
+        "休職代行サービスが急拡大——中間管理職や公務員も駆け込み、「退職代行」に続く新潮流",
+        "愛媛県、内部通報が20年間でゼロ——47都道府県で唯一、公益通報制度の形骸化が浮き彫りに",
+        "三菱重工と東大発スタートアップが連携——国産ヒューマノイドロボットを2027年度に月産1000台へ",
+        "フィジカルAI研究、日米欧14機関が連携——AISTが主導、ケンブリッジ・CMUなど200名超の研究者が参加",
+        "OpenFuguとローカルLLMでマルチエージェント采配を実験——0.6Bモデルが「どのAIに何を任せるか」を自律学習",
+        "MCPにエンタープライズ向け認証拡張「EMA」が安定版に——Okta連携でユーザーが一元管理",
+        "ニチレイに不正アクセス——冷凍食品の出荷に支障、サイバー攻撃が食品サプライチェーンにも波及",
+        "OpenAI's GPT-5.6 Family (Luna, Terra, Sol) Launches with 1M Token Context and Agentic Multi-Agent API",
+        "GitHub Code Quality Goes Paid July 20: $10/Active Committer/Month — License Estimate Now in Preview",
+        "Samsung Health Threatens to Delete User Data If They Opt Out of AI Training — Sparks Privacy Backlash"
+      ]
+    },
     {
       "run_at": "2026-07-14T05:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Claude Code vs OpenCode: Token Overhead Benchmarked — 33k vs 7k Tokens Before Reading Your Prompt",
         "Anthropic Publishes Fable 5's Jailbreak Framework — A Standardized Severity Scale for AI Security Breaches",
         "Automation Without Understanding — Mathematical Capacity as National Infrastructure in the Age of AI Theorem Provers"
-      ]
-    },
-    {
-      "run_at": "2026-07-13T03:37:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587720",
-        "https://news.yahoo.co.jp/pickup/6587717",
-        "https://www.jiji.com/jc/article?k=2026071200346&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071200211&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587726",
-        "https://zenn.dev/znet/articles/2026-openfugu-local-multiagent-part1",
-        "https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering",
-        "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000182/",
-        "https://www.anthropic.com/news/claude-sonnet-5",
-        "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-        "https://www.anthropic.com/news/ben-bernanke"
-      ],
-      "titles": [
-        "ウクライナ、内閣改造でスビリデンコ首相が交代へ——ゼレンスキー大統領がXで意向表明",
-        "生食用鶏肉、初のガイドライン策定へ——厚労省が食中毒リスクに対応、リスク周知も強化",
-        "バレーボール女子日本代表、ネーションズリーグ決勝T進出——ポーランドに大逆転でセット3-2勝利",
-        "ミャンマー外相、ASEAN外相会議に対面初出席——クーデター後5年、圧力から対話路線へ転換",
-        "田川市長選、セクハラ辞任の前市長が落選——31歳新人・浦野仁氏が初当選",
-        "OpenFugu×ローカルLLM群でマルチAI駆動を実験——「采配学習」を0.6Bモデルで再現、訓練はCPU 2秒",
-        "BunがZig 53万行を11日でRustへ——64並列Claude Codeエージェントが生成した100万行超の変更を解析",
-        "デジタル庁、国産AI3モデルを「さくらのクラウド」で稼働——18万人の公務員が使う「権界」で実証実験",
-        "Introducing Claude Sonnet 5: Anthropic's Most Agentic Sonnet, Approaching Opus 4.8 at Lower Cost",
-        "Terence Tao: Old and New Apps via Modern Coding Agents — A Fields Medalist's Take on Vibe Coding",
-        "Ben Bernanke Joins Anthropic's Long-Term Benefit Trust — Former Fed Chair Brings Crisis Economics Expertise to AI Governance"
       ]
     }
   ]

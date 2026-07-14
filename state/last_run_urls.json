@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-15T00:00:00+09:00",
+  "last_run_at": "2026-07-15T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-15T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026071500026&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6587964?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587957?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587913?source=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/14/news115.html",
+        "https://zenn.dev/iwaken71/articles/cursor-agent-d-drive-deleted",
+        "https://zenn.dev/seiuchi3939/articles/b12d6746d9f187",
+        "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
+        "https://www.anthropic.com/news/claude-for-teachers",
+        "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+        "https://prismml.com/news/bonsai-27b"
+      ],
+      "titles": [
+        "トランプ大統領、ホルムズ海峡通過の貨物に「20%対価」要求——湾岸諸国との取引への切り替えを圧力",
+        "工場放火事件——放火男性に21億円超の賠償命令、過去最大規模の民事判決",
+        "ニチレイへのサイバー攻撃でKFC全店が品切れ・臨時休業の恐れ——食品サプライチェーンに波紋",
+        "FIFA世界杯：フランスがスペインに勝利——準決勝で激突、決勝への切符を手中に",
+        "孫正義氏「人間が頂点の時代が終わる」——2040年のAI社会と「スーパーサイバネーティック化」を提言",
+        "Cursorに「ブランチを整理して」と頼んだらDドライブが消えた——AIコーディングエージェントの破壊的操作リスクを考える",
+        "情報漏洩に敏感な金融機関でClaude・Gemini・ChatGPTを導入した方法——リスク部門を説得した3層防御アーキテクチャ",
+        "JavaScriptランタイム「Bun」がClaude Fable 5を11日間稼働させてZigからRustへ53万行を移植——費用2640万円でエンジニア3人×1年分の作業を代替",
+        "Anthropic Launches Claude for Teachers — Free Premium Access with FERPA-Compliant K-12 Curriculum Integration",
+        "GitHub Code Scanning Now Shows AI Security Detections on Pull Requests — Expanding Vulnerability Coverage Beyond CodeQL",
+        "Bonsai 27B: First 27B-Class Model to Run on a Smartphone — PrismML's 1-Bit LLM Achieves 90% Baseline Performance at 3.9GB"
+      ]
+    },
     {
       "run_at": "2026-07-15T00:00:00+09:00",
       "urls": [

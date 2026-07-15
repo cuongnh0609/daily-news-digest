@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-15T20:00:00+09:00",
+  "last_run_at": "2026-07-16T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-16T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6588068?source=rss",
+        "https://news.yahoo.co.jp/pickup/6588091?source=rss",
+        "https://www.jiji.com/jc/article?k=2026071501146&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071501121&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/15/news121.html",
+        "https://zenn.dev/marvelousu/articles/claude-browser-pane-review",
+        "https://zenn.dev/zozotech/articles/cb767af383bc78",
+        "https://www.publickey1.jp/blog/26/vite.html",
+        "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/",
+        "https://martinfowler.com/articles/llm-and-dsls.html",
+        "https://tailscale.com/security-bulletins"
+      ],
+      "titles": [
+        "党首討論で消費減税めぐり激論——野党が実施スケジュール明示を求める",
+        "「生活が苦しい」半数超え——厚労省調査で高齢者世帯の過去最高割合も判明",
+        "医師・歯科医15人を処分——免許取り消しや業務停止、厚労省が発表",
+        "「佐渡金山」でユネスコが勧告案——展示内容の改善を促す",
+        "フィッシング被害で5日間休講——札幌国際大でウイルス感染リスクが続く",
+        "Claude Code DesktopのBrowserペインはPlaywrightの代替になるか——実機検証で判明した限界と可能性",
+        "Claude Code の statusLine を徹底活用——コンテキスト残量とレートリミットを1画面で把握する",
+        "「Vite+」ベータ公開——フロントエンド開発に必要なツール群を一つのCLIに統合",
+        "How Researchers Tricked Claude Into Leaking User Data via Web Fetch — And How Anthropic Fixed It",
+        "DSLs Enable Reliable Use of LLMs — Martin Fowler on Constraining AI to Domain Languages",
+        "TS-2026-009: Tailscale SSH Root Access via Username Leading Dash — Patch to 1.98.9 Immediately"
+      ]
+    },
     {
       "run_at": "2026-07-15T20:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "Anthropic Launches \"Reflect\" — A New Feature to Help Users Understand Their Claude Usage Patterns",
         "OpenAI Codex Encrypts Inter-Agent Prompts — Creating an Auditability Gap in Multi-Agent Workflows",
         "GPT-5.6 Sol, Terra, and Luna Are Now Available in GitHub Copilot — Expanding Agentic Coding Options"
-      ]
-    },
-    {
-      "run_at": "2026-07-14T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587891?source=rss",
-        "https://www.jiji.com/jc/article?k=2026071400519&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071400144&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071400244&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587869?source=rss",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2607/14/news031.html",
-        "https://www.itmedia.co.jp/aiplus/article/2607/14/2000000190/",
-        "https://monoist.itmedia.co.jp/mn/articles/2607/14/news046.html",
-        "https://arxiv.org/abs/2607.01418",
-        "https://github.com/jbwinters/jacquard-lang",
-        "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/"
-      ],
-      "titles": [
-        "大飯原発の運転差し止め認めず——京都地裁が住民3500人の請求を棄却",
-        "セブン冷蔵設備で談合疑い——富士電機など3社に公正取引委員会が立ち入り検査",
-        "副首都法案、あすにも衆院通過へ——与党・みらいが修正合意、会期末に向け攻防",
-        "米、ICC脱退を同盟国に働きかけ——日本にも判断を求める可能性",
-        "「結婚・子育ては経済力次第」——国連調査、73カ国で若者の88%が経済安定を出産の前提に",
-        "AIがホームディレクトリを丸ごと削除——DockerがAIコーディングエージェントの構造的欠陥とsandbox解決策を公開",
-        "DropboxがClaudeと連携開始——ChatGPT・Geminiに続きAI共通コンテンツ基盤を構築",
-        "富士通、「自己進化」するマルチAIエージェントフレームワーク「MAAF」の検証を開始",
-        "Microsoft Study: Claude Code and Copilot CLI Adoption Drives 24% More Merged PRs — Peer Visibility Is the Key",
-        "Jacquard: A Programming Language Designed for AI-Written, Human-Reviewed Code",
-        "Simon Willison: Cache uvx Tools in GitHub Actions With a Date-Pinned UV_EXCLUDE_NEWER Trick"
-      ]
-    },
-    {
-      "run_at": "2026-07-14T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587854?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587847?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587855?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/09/news123.html",
-        "https://news.yahoo.co.jp/pickup/6587841?source=rss",
-        "https://zenn.dev/znet/articles/2026-openfugu-local-multiagent-part1",
-        "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
-        "https://www.itmedia.co.jp/news/articles/2607/13/news128.html",
-        "https://simonwillison.net/2026/Jul/9/gpt-5-6/",
-        "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-        "https://neow.in/cWsyMTV3"
-      ],
-      "titles": [
-        "イランがUAEタンカーを攻撃——ホルムズ海峡で乗組員1名が死亡、中東緊張が一段と高まる",
-        "休職代行サービスが急拡大——中間管理職や公務員も駆け込み、「退職代行」に続く新潮流",
-        "愛媛県、内部通報が20年間でゼロ——47都道府県で唯一、公益通報制度の形骸化が浮き彫りに",
-        "三菱重工と東大発スタートアップが連携——国産ヒューマノイドロボットを2027年度に月産1000台へ",
-        "フィジカルAI研究、日米欧14機関が連携——AISTが主導、ケンブリッジ・CMUなど200名超の研究者が参加",
-        "OpenFuguとローカルLLMでマルチエージェント采配を実験——0.6Bモデルが「どのAIに何を任せるか」を自律学習",
-        "MCPにエンタープライズ向け認証拡張「EMA」が安定版に——Okta連携でユーザーが一元管理",
-        "ニチレイに不正アクセス——冷凍食品の出荷に支障、サイバー攻撃が食品サプライチェーンにも波及",
-        "OpenAI's GPT-5.6 Family (Luna, Terra, Sol) Launches with 1M Token Context and Agentic Multi-Agent API",
-        "GitHub Code Quality Goes Paid July 20: $10/Active Committer/Month — License Estimate Now in Preview",
-        "Samsung Health Threatens to Delete User Data If They Opt Out of AI Training — Sparks Privacy Backlash"
-      ]
-    },
-    {
-      "run_at": "2026-07-14T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026071301068&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071300810&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071300748&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587832",
-        "https://www.itmedia.co.jp/news/articles/2607/13/news126.html",
-        "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering",
-        "https://www.publickey1.jp/blog/26/3ai.html",
-        "https://www.itmedia.co.jp/news/articles/2607/13/news129.html",
-        "https://github.com/clawkwork/clawk",
-        "https://playcode.io/blog/real-price-of-frontier-models",
-        "https://www.anthropic.com/news/hard-questions"
-      ],
-      "titles": [
-        "米トランプ大統領、ホルムズ海峡を通過する船舶に「通行料」要求——イランへの海上封鎖を再発動",
-        "皇室典範改正案、15日に参院委採決へ——自民・立民が大筋合意、副首都法案は与野党の攻防続く",
-        "社会保障国民会議、低収入者向け給付で先行合意目指す——消費税減税の結論は会期後に先送りか",
-        "EU、13歳未満の子どものSNS利用を制限へ——フォンデアライエン委員長が方針表明、秋に具体策を発表",
-        "LINEヤフー、ゲームアプリから710万件の識別情報を誤送信——3年以上にわたる情報漏えいが発覚",
-        "AI-DLC Workflows 2.0とは何か——32ステージ・11エージェント・9スコープで実現するAI駆動開発ライフサイクル",
-        "デジタル庁、国産AI「つづみ2」「Takane 32B」「PLaMo 2.0」をさくらのクラウドで試験運用——18万人の公務員が使うGovAI「源内」に向けた実証",
-        "リチウムイオン電池の出火、東京都内で過去最多の382件——電動キックボードや電動自転車の普及が要因に",
-        "Clawk: Give Coding Agents a Disposable Linux VM, Not Your Laptop — Isolated Sandboxes with Network Allow-listing for Claude Code and Codex",
-        "The Real Cost of Claude vs GPT: Same TypeScript Code Costs 73% More Tokens — And Claude Opus 4.8 Silently Inflated Its Own Tokenizer by 32%",
-        "Anthropic Invites the World's Hardest Questions About AI — And Commits to Publicly Track Its Answers"
-      ]
-    },
-    {
-      "run_at": "2026-07-14T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587822",
-        "https://news.yahoo.co.jp/pickup/6587835",
-        "https://news.yahoo.co.jp/pickup/6587833",
-        "https://www.jiji.com/jc/article?k=2026071300945&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071300512&g=int&m=rss",
-        "https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types",
-        "https://www.publickey1.jp/blog/26/google_cloudaicloud_run.html",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2607/13/news034.html",
-        "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/",
-        "https://antirez.com/news/169",
-        "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/"
-      ],
-      "titles": [
-        "14日 東日本も熱中症リスク高まる",
-        "東京で無差別殺傷を計画疑い 逮捕",
-        "全東信破産 465億円超焦げ付きか",
-        "歌舞伎俳優がひき逃げか 中村小三郎さんを任意聴取",
-        "トランプ氏含む「報復リスト」 最高指導者殺害でイラン主要紙",
-        "ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ",
-        "Google Cloud、生成AIのコードを瞬時に隔離して安全に実行できる「Cloud Runサンドボックス」パブリックプレビュー",
-        "エージェントによる業務自動化をどう実現？ 「Microsoft Build 2026」で発表された多数の新技術",
-        "Directly Responsible Individuals (DRI) — LLM Agents Should Never Be the DRI",
-        "Control the Ideas, Not the Code — antirez on Architecture in the Age of LLM-Generated Code",
-        "Introducing Muse Spark 1.1 — First Spark Model with API Access and Improved Agentic Tool Calling"
       ]
     }
   ]

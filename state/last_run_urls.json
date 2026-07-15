@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-15T05:00:00+09:00",
+  "last_run_at": "2026-07-15T10:11:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-15T10:11:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026071500175&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6587990?source=rss",
+        "https://news.yahoo.co.jp/pickup/6587987?source=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/14/news104.html",
+        "https://www.jiji.com/jc/article?k=2026071500160&g=int&m=rss",
+        "https://zenn.dev/r_kaga/articles/c9fcb75f1ff284",
+        "https://zenn.dev/tokium_dev/articles/building-a-research-skill",
+        "https://www.itmedia.co.jp/news/articles/2607/15/news060.html",
+        "https://www.artfish.ai/p/offloading-thinking-to-ai",
+        "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+        "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update"
+      ],
+      "titles": [
+        "北陸新幹線延伸、与党が「桂川案」に決定——敦賀〜新大阪ルート選定で10年来の議論に決着",
+        "FRB議長、議会証言で「インフレ容認しない」——独立性を強調、トランプ圧力を一蹴",
+        "習主席の側近が相次いで失脚——党大会前に摘発激化、権力基盤の再編進む",
+        "IT系サービス業の倒産が過去10年で最多——生成AIとノーコードが零細企業を直撃",
+        "米、ホルムズ海峡の海上封鎖を再開——対イラン圧力強化、4日連続の攻撃継続",
+        "AIにルールファイルを数ヶ月自動更新させ続けたら、ルールは「良く」育ったのか——harness-entropyとharness-feedbackの実測",
+        "Claude Codeの「調査用スキル」を自作してみた——arXivから公式ブログまで多ソース横断リサーチを自動化",
+        "ChatGPT、ワールドカップの勝敗予想に予測市場「Kalshi」のリアルタイムデータを反映——スポーツAIの実用化が加速",
+        "Are We Offloading Too Much of Our Thinking to AI? — The Cognitive Autonomy Question",
+        "The Zero-Cost Fallacy: Open-Source Software in the Agentic Era — Who Pays When AI Generates the PRs?",
+        "GitHub Copilot for Visual Studio — June 2026 Update: C++ Modernization Agent Goes GA, MCP Trust Validation, Extended Edit Suggestions"
+      ]
+    },
     {
       "run_at": "2026-07-15T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Directly Responsible Individuals (DRI) — LLM Agents Should Never Be the DRI",
         "Control the Ideas, Not the Code — antirez on Architecture in the Age of LLM-Generated Code",
         "Introducing Muse Spark 1.1 — First Spark Model with API Access and Improved Agentic Tool Calling"
-      ]
-    },
-    {
-      "run_at": "2026-07-13T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026071300768&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071300559&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587808",
-        "https://news.yahoo.co.jp/pickup/6587806",
-        "https://news.yahoo.co.jp/pickup/6587812",
-        "https://zenn.dev/nenene01/articles/ai-security-2026",
-        "https://www.itmedia.co.jp/news/articles/2607/13/news090.html",
-        "https://zenn.dev/xin9le/articles/6fb2045805996c",
-        "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-        "https://nebusec.ai/research/ionstack-part-2/",
-        "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available"
-      ],
-      "titles": [
-        "死刑囚の手紙黒塗り、最高裁が「違法」と確定——弁護士への再審依頼文を削除した拘置所に賠償命令",
-        "SNS選挙法が成立——偽情報対策を強化、AI生成コンテンツへのラベル表示を義務化",
-        "検察の不祥事が相次いでも記者会見を開かず——組織の透明性と説明責任が問われる",
-        "警棒で高校生が右目失明——沖縄県議会が約9,140万円の賠償に合意",
-        "兵庫県の財政指標が算定ミスで急悪化——2030年度に「早期健全化団体」転落の危機",
-        "AIエージェント時代の開発セキュリティを再設計する——「致命的トリフェクタ」を避けるアーキテクチャ設計",
-        "OpenAIのAIブラウザ「ChatGPT Atlas」が1年足らずで終了——機能はChatGPT本体に統合へ",
-        "Claude Fable 5が教えてくれたハッシュ最適化——FastEnumの文字列検索を最大8.5倍高速化した手法",
-        "Zig Creator Calls Spade a Spade: Anthropic Blows Smoke — AI Is Not Enough Without Engineering Rigor",
-        "GhostLock: A 15-Year Linux Kernel Use-After-Free That Allows Privilege Escalation and Container Escapes",
-        "GitHub's Redesigned Pull Requests Dashboard Is Now Generally Available — With Keyboard Nav, AI-PR Filters, and Saved Views"
       ]
     }
   ]

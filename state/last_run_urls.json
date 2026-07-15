@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-16T00:00:00+09:00",
+  "last_run_at": "2026-07-16T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-16T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6588080?source=rss",
+        "https://news.yahoo.co.jp/pickup/6588088?source=rss",
+        "https://news.yahoo.co.jp/pickup/6588090?source=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/15/news127.html",
+        "https://www.jiji.com/jc/article?k=2026071501049&g=spo&m=rss",
+        "https://zenn.dev/genda_jp/articles/46745564b7a9dd",
+        "https://www.publickey1.jp/blog/26/google_cloudaicloud_run.html",
+        "https://www.publickey1.jp/blog/26/3ai.html",
+        "https://www.latent.space/p/aiewf26trends",
+        "https://thinkingmachines.ai/news/introducing-inkling/",
+        "https://github.com/vshulcz/deja-vu/"
+      ],
+      "titles": [
+        "点滴への異物混入事件——助産師が殺人容疑で逮捕、死因は多臓器不全と判明",
+        "台船上で女性が倒れ死亡——状況から事件の可能性、警察が捜査",
+        "愛犬を助けようと川に入った女性が溺死——夏の水難事故が相次ぐ",
+        "ニチレイへの不正アクセス波及——外食・小売各社に欠品・営業短縮の影響拡大",
+        "バレーボール日本男子、9連勝で決勝Ｔ進出——ネーションズリーグでイタリアを破る",
+        "herdrでClaude Code＋Codexオーケストレーション——Claude Code Pluginで複数Issue並列処理を実現",
+        "Google Cloud、生成AIコードを瞬時に隔離実行「Cloud Runサンドボックス」をパブリックプレビュー公開",
+        "デジタル庁がさくらのクラウドで国内開発LLM3本を試用——ガバメントAI「源内」の評価へ",
+        "5 Trends That Defined AI Engineering at World's Fair 2026 — Agents Are Now the Platform",
+        "Inkling: Thinking Machines Lab Releases Open-Weights Reasoning Model Optimized for Southeast Asia",
+        "deja-vu: Open-Source Persistent Memory for Coding Agents, Synced Over SSH"
+      ]
+    },
     {
       "run_at": "2026-07-16T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Coding Agents Think 25 Steps Ahead: New Research Reveals Hidden \"Latent Programming Horizons\"",
         "GitHub Launches Agentic Autofix for Code Scanning: Copilot Now Autonomously Patches Security Vulnerabilities",
         "Gartner: 60% of Organizations Will Run Smaller Engineering Teams by 2029 as AI Reshapes Team Structure"
-      ]
-    },
-    {
-      "run_at": "2026-07-14T20:40:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6587940?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587930?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587938?source=rss",
-        "https://www.jiji.com/jc/article?k=2026071400999&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071400808&g=pol&m=rss",
-        "https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint",
-        "https://zenn.dev/tenkei/articles/5ba5c993dfb8d6",
-        "https://zenn.dev/layerx/articles/9f25ec86a31730",
-        "https://www.itmedia.co.jp/news/articles/2607/10/news086.html",
-        "https://github.com/openai/codex/issues/28058",
-        "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot"
-      ],
-      "titles": [
-        "姫路市の化学工場で爆発事故——研究員2名が被害、意識不明の重体も",
-        "中道・立憲・公明の合流交渉、安保・エネルギー政策の相違が鮮明に",
-        "福岡県知事が「先生」呼び廃止を要請——県議への忖度文化の是正へ",
-        "北陸新幹線延伸、小浜・京都「桂川案」で与党が最終調整へ",
-        "衆院憲法審で与党が条文起草委設置を見送り——中道の反発で難航",
-        "AI臭はリズムに宿る——7モデル×406本の実測で判明した「文体均一化」の問題",
-        "Critを使えばAI生成コードのレビューがGitHub PRと同じ感覚でできる",
-        "Agent Skills自動最適化の内実——中身はほぼ深層学習の訓練ループだった",
-        "Anthropic Launches \"Reflect\" — A New Feature to Help Users Understand Their Claude Usage Patterns",
-        "OpenAI Codex Encrypts Inter-Agent Prompts — Creating an Auditability Gap in Multi-Agent Workflows",
-        "GPT-5.6 Sol, Terra, and Luna Are Now Available in GitHub Copilot — Expanding Agentic Coding Options"
       ]
     }
   ]

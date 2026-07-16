@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-16T10:15:00+09:00",
+  "last_run_at": "2026-07-16T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-16T15:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/articles/2607/16/news064.html",
+        "https://www.jiji.com/jc/article?k=2026071600104&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071600519&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071600163&g=scr&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071600231&g=int&m=rss",
+        "https://zenn.dev/sonicmoov/articles/8712598f532b18",
+        "https://zenn.dev/discus0434/articles/customizable-agent-teams",
+        "https://www.itmedia.co.jp/news/articles/2607/16/news073.html",
+        "https://github.com/xai-org/grok-build",
+        "https://www.anthropic.com/news/ust-claude",
+        "https://coasty.ai/docs"
+      ],
+      "titles": [
+        "クレジットカード決済が全国で一時不能——国際ブランドネットワーク障害が朝のラッシュを直撃",
+        "超党派会議、中低所得者向け給付制度を2029年度に導入合意——消費減税は先送り",
+        "点滴混入事件、逮捕の元看護師がネットで「便注入、死ぬか」と検索——千葉県警が動機を捜査",
+        "W杯サッカー：アルゼンチン、逆転でイングランドを撃破——メッシの2アシストで決勝進出",
+        "ピュー調査：中国への好感度が初めて米国を上回る——トランプ政権への評価悪化が影響",
+        "Claude Codeが化けた——3つのプラグインと標準機能でコスト管理・設計検証ができる開発パートナーへ進化",
+        "役割ごとにFable 5とGPT-5.6を使い分けるAgent Team設計——11役割に分散したマルチエージェントアーキテクチャ",
+        "富士通・ファナック・日立・三菱電機の4社、NVIDIA技術でフィジカルAI事業を本格展開",
+        "xAI Open-Sources Grok Build: A Rust-Based Terminal AI Coding Agent with MCP Support",
+        "UST Deploys Claude Across 20,000 Engineers for Physical AI — Semiconductor Validation Cycles Cut from 4 Days to 48 Hours",
+        "Coasty (YC S26): An API for Computer-Use Agents — Giving AI Visual Access to Any Web App Without Scraping"
+      ]
+    },
     {
       "run_at": "2026-07-16T10:15:00+09:00",
       "urls": [
@@ -150,7 +179,7 @@
       "run_at": "2026-07-15T10:11:00+09:00",
       "urls": [
         "https://www.jiji.com/jc/article?k=2026071500175&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587990?source=rss",
+        "https://news.yahoo.co.jp/pickup/6588031?source=rss",
         "https://news.yahoo.co.jp/pickup/6587987?source=rss",
         "https://www.itmedia.co.jp/news/articles/2607/14/news104.html",
         "https://www.jiji.com/jc/article?k=2026071500160&g=int&m=rss",
@@ -202,35 +231,6 @@
         "Anthropic Launches Claude for Teachers — Free Premium Access with FERPA-Compliant K-12 Curriculum Integration",
         "GitHub Code Scanning Now Shows AI Security Detections on Pull Requests — Expanding Vulnerability Coverage Beyond CodeQL",
         "Bonsai 27B: First 27B-Class Model to Run on a Smartphone — PrismML's 1-Bit LLM Achieves 90% Baseline Performance at 3.9GB"
-      ]
-    },
-    {
-      "run_at": "2026-07-15T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026071401146&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587962?source=rss",
-        "https://www.jiji.com/jc/article?k=2026071400432&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587906?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/14/news112.html",
-        "https://zenn.dev/takkuhiro/articles/agent-as-a-judge-necessity",
-        "https://zenn.dev/knowledgesense/articles/67c61463d9c664",
-        "https://zenn.dev/aircloset/articles/3b8e60fcaab4b7",
-        "https://arxiv.org/abs/2607.05188",
-        "https://github.blog/changelog/2026-07-10-agentic-autofix-for-code-scanning-alerts-in-public-preview",
-        "https://www.publickey1.jp/blog/26/202960.html"
-      ],
-      "titles": [
-        "米6月CPI、3年ぶりの大幅減速——イラン停戦合意で原油下落し3.5%上昇に",
-        "手足口病が急拡大——27都府県で警報レベルを超え、感染対策の徹底を呼びかけ",
-        "道頓堀ビル火災——たばこのポイ捨てが出火原因か、重過失失火容疑で男を書類送検",
-        "GMOグループ、在宅勤務を完全廃止——コロナ禍以降続けてきた週1日の推奨も終了",
-        "Google Play手数料引き下げ、日本での導入を9月に前倒し——公正取引委員会との協議を踏まえ",
-        "Agent-as-a-Judgeは本当に必要なのか——評価精度90%の秘密は「計画」ではなく「証拠収集」",
-        "Claude Codeでレガシーシステムの刷新を進めた方法——4億6600万行のコードを役割別AIエージェントで近代化",
-        "AI時代のObservability設計——PIIとAI検索性を両立させ、MCPを介した自動修復パイプラインを実現",
-        "Coding Agents Think 25 Steps Ahead: New Research Reveals Hidden \"Latent Programming Horizons\"",
-        "GitHub Launches Agentic Autofix for Code Scanning: Copilot Now Autonomously Patches Security Vulnerabilities",
-        "Gartner: 60% of Organizations Will Run Smaller Engineering Teams by 2029 as AI Reshapes Team Structure"
       ]
     }
   ]

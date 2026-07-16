@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-16T15:00:00+09:00",
+  "last_run_at": "2026-07-16T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-16T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026071600709&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6588176",
+        "https://www.itmedia.co.jp/news/articles/2607/16/news096.html",
+        "https://www.jiji.com/jc/article?k=2026071600908&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6588165",
+        "https://www.itmedia.co.jp/news/articles/2607/16/news101.html",
+        "https://www.publickey1.jp/blog/26/202960.html",
+        "https://zenn.dev/knowledgesense/articles/67c61463d9c664",
+        "https://www.anthropic.com/news/hard-questions",
+        "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+        "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b"
+      ],
+      "titles": [
+        "高市内閣の支持率が初めて５割を割り込む——政権発足後の最低水準を更新",
+        "皇室典範改正案が参院特別委で可決——17日に本会議での成立が確実に",
+        "AWS障害でPayPayなど広範なサービスが一時停止——CloudFrontのVPC Origins機能が原因",
+        "TSMC、4〜6月期純利益が前年比77%増——AI半導体需要が四半期最高益をけん引",
+        "8月からマイナ保険証移行が本格化——旧来の健康保険証は10割負担のリスクも",
+        "ソニー・NEC・本田ら44社参加の国産AIプロジェクト「Noetra」始動——NVIDIAのRubin GPU 2.75万基で2030年代エンタメAIを目指す",
+        "ガートナー予測：2029年に60%の組織がより小規模なエンジニアチームへ移行——AIが日常業務を代替",
+        "Claude Codeでレガシーシステムを刷新——カナダ政府の4.66億行コード解析事例から学ぶ実践手法",
+        "Anthropic Launches 'Inviting Hard Questions' — Commits to Transparent Public Accountability on AI's Societal Impact",
+        "Dependabot Now Enforces Default 3-Day Package Cooldown — Mitigating Supply Chain Attack Window",
+        "Thinking Machines Lab Releases Inkling: 975B-Parameter Open-Weights Multimodal Model Under Apache 2.0"
+      ]
+    },
     {
       "run_at": "2026-07-16T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Commits $10M CAD to Canadian AI Research — Partnerships with Mila, Vector Institute, and Six More",
         "GitHub Copilot for JetBrains Gets Custom Endpoints, Claude Agent Customization, and Built-In Debugger Skill",
         "The Tower Keeps Rising — Armin Ronacher on How AI Agents Accelerate Code While Dissolving Team Coordination"
-      ]
-    },
-    {
-      "run_at": "2026-07-15T10:11:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026071500175&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6588031?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587987?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/14/news104.html",
-        "https://www.jiji.com/jc/article?k=2026071500160&g=int&m=rss",
-        "https://zenn.dev/r_kaga/articles/c9fcb75f1ff284",
-        "https://zenn.dev/tokium_dev/articles/building-a-research-skill",
-        "https://www.itmedia.co.jp/news/articles/2607/15/news060.html",
-        "https://www.artfish.ai/p/offloading-thinking-to-ai",
-        "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-        "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update"
-      ],
-      "titles": [
-        "北陸新幹線延伸、与党が「桂川案」に決定——敦賀〜新大阪ルート選定で10年来の議論に決着",
-        "FRB議長、議会証言で「インフレ容認しない」——独立性を強調、トランプ圧力を一蹴",
-        "習主席の側近が相次いで失脚——党大会前に摘発激化、権力基盤の再編進む",
-        "IT系サービス業の倒産が過去10年で最多——生成AIとノーコードが零細企業を直撃",
-        "米、ホルムズ海峡の海上封鎖を再開——対イラン圧力強化、4日連続の攻撃継続",
-        "AIにルールファイルを数ヶ月自動更新させ続けたら、ルールは「良く」育ったのか——harness-entropyとharness-feedbackの実測",
-        "Claude Codeの「調査用スキル」を自作してみた——arXivから公式ブログまで多ソース横断リサーチを自動化",
-        "ChatGPT、ワールドカップの勝敗予想に予測市場「Kalshi」のリアルタイムデータを反映——スポーツAIの実用化が加速",
-        "Are We Offloading Too Much of Our Thinking to AI? — The Cognitive Autonomy Question",
-        "The Zero-Cost Fallacy: Open-Source Software in the Agentic Era — Who Pays When AI Generates the PRs?",
-        "GitHub Copilot for Visual Studio — June 2026 Update: C++ Modernization Agent Goes GA, MCP Trust Validation, Extended Edit Suggestions"
-      ]
-    },
-    {
-      "run_at": "2026-07-15T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026071500026&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6587964?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587957?source=rss",
-        "https://news.yahoo.co.jp/pickup/6587913?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/14/news115.html",
-        "https://zenn.dev/iwaken71/articles/cursor-agent-d-drive-deleted",
-        "https://zenn.dev/seiuchi3939/articles/b12d6746d9f187",
-        "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
-        "https://www.anthropic.com/news/claude-for-teachers",
-        "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-        "https://prismml.com/news/bonsai-27b"
-      ],
-      "titles": [
-        "トランプ大統領、ホルムズ海峡通過の貨物に「20%対価」要求——湾岸諸国との取引への切り替えを圧力",
-        "工場放火事件——放火男性に21億円超の賠償命令、過去最大規模の民事判決",
-        "ニチレイへのサイバー攻撃でKFC全店が品切れ・臨時休業の恐れ——食品サプライチェーンに波紋",
-        "FIFA世界杯：フランスがスペインに勝利——準決勝で激突、決勝への切符を手中に",
-        "孫正義氏「人間が頂点の時代が終わる」——2040年のAI社会と「スーパーサイバネーティック化」を提言",
-        "Cursorに「ブランチを整理して」と頼んだらDドライブが消えた——AIコーディングエージェントの破壊的操作リスクを考える",
-        "情報漏洩に敏感な金融機関でClaude・Gemini・ChatGPTを導入した方法——リスク部門を説得した3層防御アーキテクチャ",
-        "JavaScriptランタイム「Bun」がClaude Fable 5を11日間稼働させてZigからRustへ53万行を移植——費用2640万円でエンジニア3人×1年分の作業を代替",
-        "Anthropic Launches Claude for Teachers — Free Premium Access with FERPA-Compliant K-12 Curriculum Integration",
-        "GitHub Code Scanning Now Shows AI Security Detections on Pull Requests — Expanding Vulnerability Coverage Beyond CodeQL",
-        "Bonsai 27B: First 27B-Class Model to Run on a Smartphone — PrismML's 1-Bit LLM Achieves 90% Baseline Performance at 3.9GB"
       ]
     }
   ]

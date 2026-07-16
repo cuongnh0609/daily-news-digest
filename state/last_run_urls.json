@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-16T05:00:00+09:00",
+  "last_run_at": "2026-07-16T10:15:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-16T10:15:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6588121?source=rss",
+        "https://www.jiji.com/jc/article?k=2026071600194&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6588107?source=rss",
+        "https://www.jiji.com/jc/article?k=2026071600172&g=spo&m=rss",
+        "https://www.itmedia.co.jp/news/articles/2607/16/news054.html",
+        "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000185/",
+        "https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint",
+        "https://zenn.dev/var/articles/wsl-containers-windows-wslc-hands-on",
+        "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
+        "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
+        "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents"
+      ],
+      "titles": [
+        "日経平均が一時2000円超の急落——半導体株安が東京市場を直撃",
+        "利根川進さん死去、享年86歳——日本人初のノーベル生理学・医学賞受賞者",
+        "消費減税、首相が8月初旬までに結論——党首討論で野党と激しく応酬",
+        "W杯サッカー準決勝：アルゼンチンが劇的勝利——決勝進出を決める",
+        "マスク氏、Xの全コードをオープンソース化——第三者による検証も実施へ",
+        "AnthropicがFable 5無償アクセスとClaude Code利用上限50%増を7月19日まで再延長",
+        "AI臭は語彙よりリズムに出る——7モデル406本の実測で判明した自然な日本語の書き方",
+        "WSL Containers（wslc）入門——Docker Desktop不要でWindowsからコンテナを動かす",
+        "OpenAI Ships Its First Hardware: Codex Micro Keypad at $230, Purpose-Built for Coding Agents",
+        "CodeQL 2.26.0 Ships AI Prompt Injection Detection — New js/system-prompt-injection Query",
+        "Designing APIs for Agents: Four Principles That Make or Break Agent-Driven Integrations"
+      ]
+    },
     {
       "run_at": "2026-07-16T05:00:00+09:00",
       "urls": [
@@ -41,7 +70,7 @@
         "https://zenn.dev/marvelousu/articles/claude-browser-pane-review",
         "https://zenn.dev/zozotech/articles/cb767af383bc78",
         "https://www.publickey1.jp/blog/26/vite.html",
-        "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/",
+        "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
         "https://martinfowler.com/articles/llm-and-dsls.html",
         "https://tailscale.com/security-bulletins"
       ],

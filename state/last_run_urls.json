@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-18T00:00:00+09:00",
+  "last_run_at": "2026-07-18T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-18T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026071700126&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071700183&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6588324",
+        "https://news.yahoo.co.jp/pickup/6588346",
+        "https://news.yahoo.co.jp/pickup/6588353",
+        "https://zenn.dev/aldagram_tech/articles/c407ae672c9c0e",
+        "https://zenn.dev/nobmake/articles/394d8b42da48a1",
+        "https://www.publickey1.jp/blog/26/google_cloudaicloud_run.html",
+        "https://www.anthropic.com/news/claude-sonnet-5",
+        "https://www.anthropic.com/news/claude-science-ai-workbench",
+        "https://stateofopensource.ai/"
+      ],
+      "titles": [
+        "「国旗損壊罪」法が成立——表現の自由への懸念残る中、施行まで20日",
+        "タイ地方公務員試験で5900人超の不正——採用取り消し・大量解雇へ",
+        "ハウスメーカー倒産が2026年上半期に9割増——コスト高・人手不足が直撃",
+        "メキシコでM7.4の強震——日本の太平洋沿岸に津波の心配なし",
+        "ソフトバンク情シスが4カ月で「日本1位のAIスパコン」構築——社長特命プロジェクトの舞台裏",
+        "Claude CodeのSkillをSkillでレビューする——静的チェック×LLMレビュー×git hooksの3層ゲート",
+        "LLMに「読み進められる説明文」を書かせる設計——cognitive-rhythm-writingの構造を読む",
+        "Google Cloud、AIエージェントが生成するコードを安全に隔離実行できる「Cloud Run Sandboxes」をパブリックプレビュー公開",
+        "Introducing Claude Sonnet 5 — The Most Agentic Sonnet Model Yet",
+        "Claude Science: Anthropic Launches an AI Workbench Purpose-Built for Scientists",
+        "The State of Open Source AI — V1.0: Open Weights Have Closed the Capability Gap"
+      ]
+    },
     {
       "run_at": "2026-07-18T00:00:00+09:00",
       "urls": [
@@ -23,7 +52,7 @@
         "Netflix「今年配信の約300作品で生成AI活用」——制作費半額・スピード2倍の実例も",
         "GMO系で従業員が在職中に競合会社を無断設立——他社との偽装契約も発覚",
         "AIに「レビューして」はもう古い？——「敵対的検証」でコードレビューの品質を劇的に引き上げる手法",
-        "AIエージェントの約半数が"戦力外"になる——ガートナーが警告するガバナンス不足の落とし穴",
+        "AIエージェントの約半数が戦力外になる——ガートナーが警告するガバナンス不足の落とし穴",
         "MCPに企業向け一元認証機能「EMA extension」が安定版でリリース——IdPで全サーバを一括管理",
         "Anthropic Launches Claude Reflection Dashboard — AI Usage Self-Analysis with 4D Fluency Framework",
         "GitHub Copilot App Now Has /security-review Slash Command — AI Vulnerability Scanning Before PR",

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-17T10:00:00+09:00",
+  "last_run_at": "2026-07-17T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-17T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6588266",
+        "https://news.yahoo.co.jp/pickup/6588252",
+        "https://www.jiji.com/jc/article?k=2026071700121&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071700491&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071700578&g=soc&m=rss",
+        "https://zenn.dev/k_yoshiya/articles/claude-code-plan-mode-loop",
+        "https://zenn.dev/mkj/articles/7a8f55591e6baf",
+        "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
+        "https://www.anthropic.com/news/canadian-ai-research",
+        "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+        "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/"
+      ],
+      "titles": [
+        "日経平均が一時4000円超の急落——半導体株安と中東懸念が重なる",
+        "東京・千葉・神奈川に大雨危険警報——避難を急ぐよう呼びかけ",
+        "改正皇室典範が成立——制定79年で初の養子男系子孫への継承権付与",
+        "キオクシア、米陪審が特許侵害認定——賠償額約370億円の評決",
+        "大阪の中学校でスプレー噴射か——生徒・教員23人が喉や皮膚に症状",
+        "Claude Code の Plan モードをループエンジニアリングで自動化——Hook と並列 subagent で開発を高速化",
+        "非同期パーソナルエージェントのススメ——PKBとCronで「思考の中断なし」を実現する3パターン",
+        "BunがClaude Fable 5で53万行のZig→Rust移植を11日間で完了——費用1億6000万円相当",
+        "Anthropic Commits $10 Million CAD to Canadian AI Research — Partners with 8 Institutions Including Mila, Vector, and AMII",
+        "GitHub Copilot for JetBrains Adds BYOK, Claude Agent Support, and Local Sandboxing",
+        "Microsoft Open-Sources Comic Chat (1995): A Window Into AI-Assisted Conversation Visualization"
+      ]
+    },
     {
       "run_at": "2026-07-17T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "5 Trends That Defined AI Engineering at World's Fair 2026 — Agents Are Now the Platform",
         "Inkling: Thinking Machines Lab Releases Open-Weights Reasoning Model Optimized for Southeast Asia",
         "deja-vu: Open-Source Persistent Memory for Coding Agents, Synced Over SSH"
-      ]
-    },
-    {
-      "run_at": "2026-07-16T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6588068?source=rss",
-        "https://news.yahoo.co.jp/pickup/6588091?source=rss",
-        "https://www.jiji.com/jc/article?k=2026071501146&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071501121&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/15/news121.html",
-        "https://zenn.dev/marvelousu/articles/claude-browser-pane-review",
-        "https://zenn.dev/zozotech/articles/cb767af383bc78",
-        "https://www.publickey1.jp/blog/26/vite.html",
-        "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
-        "https://martinfowler.com/articles/llm-and-dsls.html",
-        "https://tailscale.com/security-bulletins"
-      ],
-      "titles": [
-        "党首討論で消費減税めぐり激論——野党が実施スケジュール明示を求める",
-        "「生活が苦しい」半数超え——厚労省調査で高齢者世帯の過去最高割合も判明",
-        "医師・歯科医15人を処分——免許取り消しや業務停止、厚労省が発表",
-        "「佐渡金山」でユネスコが勧告案——展示内容の改善を促す",
-        "フィッシング被害で5日間休講——札幌国際大でウイルス感染リスクが続く",
-        "Claude Code DesktopのBrowserペインはPlaywrightの代替になるか——実機検証で判明した限界と可能性",
-        "Claude Code の statusLine を徹底活用——コンテキスト残量とレートリミットを1画面で把握する",
-        "「Vite+」ベータ公開——フロントエンド開発に必要なツール群を一つのCLIに統合",
-        "How Researchers Tricked Claude Into Leaking User Data via Web Fetch — And How Anthropic Fixed It",
-        "DSLs Enable Reliable Use of LLMs — Martin Fowler on Constraining AI to Domain Languages",
-        "TS-2026-009: Tailscale SSH Root Access via Username Leading Dash — Patch to 1.98.9 Immediately"
       ]
     }
   ]

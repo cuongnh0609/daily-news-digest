@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-17T05:00:00+09:00",
+  "last_run_at": "2026-07-17T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-17T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6588229",
+        "https://news.yahoo.co.jp/pickup/6588222",
+        "https://news.yahoo.co.jp/pickup/6588215",
+        "https://news.yahoo.co.jp/pickup/6588225",
+        "https://news.yahoo.co.jp/pickup/6588223",
+        "https://zenn.dev/uhyo/articles/react-profession-bench-11",
+        "https://zenn.dev/fusic/articles/196bcd22676d97",
+        "https://www.itmedia.co.jp/news/articles/2607/17/news061.html",
+        "https://www.kimi.com/blog/kimi-k3",
+        "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+        "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/"
+      ],
+      "titles": [
+        "日経平均が一時2500円超の急落——半導体株安が東京市場を直撃",
+        "関東甲信で局地的な大雨——不安定な大気が続き、道路冠水や土砂災害に警戒",
+        "新米価格が高騰から一転——2026年産は前年比20〜45%下落の見通し",
+        "登下校中にクマ出没——見守り活動の「丸腰」問題が浮上、クマスプレー配備が急務に",
+        "留置場で勾留中のトルコ人男性が死亡——医療対応の遅れに批判の声",
+        "GPT-5.6のReact習熟度を測定——Sol・Luna・Terraの三層でコンポーネント設計にClaude比の構造的弱点が判明",
+        "Googleの時系列基盤モデル「TimesFM」を解剖——ゼロショット予測の仕組みと限界を実測で検証",
+        "Google検索「AIモード」が外部アプリと連携——Canva・YouTube Musicなどと統合でシームレスな作業環境へ",
+        "Kimi K3: The World's First Open 2.8-Trillion-Parameter Model with 1M Context Window",
+        "LM Studio Bionic: An AI Agent for Open Models with Zero Data Retention and Local-First Compute",
+        "Firefox Compiled to WebAssembly Inside Another Browser — $25K in Claude Tokens, One Working Demo"
+      ]
+    },
     {
       "run_at": "2026-07-17T05:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "How Researchers Tricked Claude Into Leaking User Data via Web Fetch — And How Anthropic Fixed It",
         "DSLs Enable Reliable Use of LLMs — Martin Fowler on Constraining AI to Domain Languages",
         "TS-2026-009: Tailscale SSH Root Access via Username Leading Dash — Patch to 1.98.9 Immediately"
-      ]
-    },
-    {
-      "run_at": "2026-07-15T20:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/articles/2607/15/news120.html",
-        "https://news.yahoo.co.jp/pickup/6588054?source=rss",
-        "https://news.yahoo.co.jp/pickup/6588075?source=rss",
-        "https://www.jiji.com/jc/article?k=2026071500937&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071500706&g=soc&m=rss",
-        "https://zenn.dev/neet/articles/11bafab8645995",
-        "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
-        "https://zenn.dev/cybozu_frontend/articles/rn-devmap-in-2026",
-        "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
-        "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-        "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app"
-      ],
-      "titles": [
-        "ニチレイへのサイバー攻撃が確認——食品サプライチェーンに大規模な混乱",
-        "病院で患者の点滴に異物混入——助産師を殺人容疑で逮捕、医療安全に波紋",
-        "第175回芥川賞・直木賞が決定——小砂川チト「ゾンビ回収婦」と朝倉かすみ「けんぐゎい」が受賞",
-        "政府・与党、国会会期を約1週間延長へ——副首都法案の参院審議を確保",
-        "富山・無差別殺傷計画で男逮捕——秋葉原事件を意識か、SNSで被害者に通報",
-        "自宅にローカルLLMを構築した——デュアルRTX 3090でQwen3-27Bを33.2トークン/秒で推論",
-        "Linux Foundation、AIエージェント向け「Agent Name Service（ANS）」の立ち上げを発表——DNS基盤で信頼できるID管理を実現",
-        "Reactエンジニアがモバイル開発に参入しやすくなった2026年——React NativeのNew Architectureとエコシステムの成熟",
-        "Alberta Government Uses Claude Code to Scan 466M Lines of Code in 20 Hours — What Would've Taken 6.5 Years",
-        "Cursor 0day: Malicious git.exe in Repo Root Executes Automatically — 7 Months Unpatched After Full Disclosure",
-        "GitHub Copilot Adds /security-review Command in Public Preview — On-Demand AI Vulnerability Scanning for All Tiers"
-      ]
-    },
-    {
-      "run_at": "2026-07-15T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026071500165&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6588031?source=rss",
-        "https://www.jiji.com/jc/article?k=2026071500459&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6588022?source=rss",
-        "https://news.yahoo.co.jp/pickup/6588030?source=rss",
-        "https://zenn.dev/genda_jp/articles/46745564b7a9dd",
-        "https://zenn.dev/hacobell_dev/articles/369ff476324aae",
-        "https://www.itmedia.co.jp/news/articles/2607/13/news081.html",
-        "https://www.anthropic.com/news/canadian-ai-research",
-        "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-        "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/"
-      ],
-      "titles": [
-        "皇室典範改正案、参院で審議入り——採決先送りも、今国会での成立を目指す",
-        "集団登校中の6歳男児が車にはねられ死亡——通学路の安全対策を改めて問う",
-        "中国、4〜6月期GDPが4.3%増に減速——政府目標の5%割れで景気回復に不透明感",
-        "「顔パス」改札、都内で初運用——マイナンバーカードで乗り越しも自動精算",
-        "大阪万博「2億円トイレ」の移設費用が約1億円に——税金の使い方に批判の声",
-        "herdrで実現するClaude Code＋Codexオーケストレーション——Claude Code Pluginで複数Issue並列処理",
-        "非エンジニアが自作アプリを社内にデプロイできる基盤を構築——Claude Code＋Cloud RunでAIアプリ民主化",
-        "Anthropic、「Claude Fable 5」の無料延長を再延長——OpenAI「ChatGPT Atlas」は1年未満で終了へ",
-        "Anthropic Commits $10M CAD to Canadian AI Research — Partnerships with Mila, Vector Institute, and Six More",
-        "GitHub Copilot for JetBrains Gets Custom Endpoints, Claude Agent Customization, and Built-In Debugger Skill",
-        "The Tower Keeps Rising — Armin Ronacher on How AI Agents Accelerate Code While Dissolving Team Coordination"
       ]
     }
   ]

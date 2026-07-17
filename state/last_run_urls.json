@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-17T15:00:00+09:00",
+  "last_run_at": "2026-07-17T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-17T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026071700290&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071700129&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6588313",
+        "https://www.itmedia.co.jp/news/articles/2607/17/news107.html",
+        "https://www.jiji.com/jc/article?k=2026071701020&g=soc&m=rss",
+        "https://zenn.dev/microsoft/articles/1113250e1e63dc",
+        "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
+        "https://www.itmedia.co.jp/news/articles/2607/17/news088.html",
+        "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+        "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+        "https://www.anthropic.com/news/ben-bernanke"
+      ],
+      "titles": [
+        "国会会期を８日間延長、２５日まで——副首都法案の審議確保が目的",
+        "新給付制度、支援漏れ防止を検討——高市首相が集中審議に出席",
+        "松本人志、大腸腫瘍の手術を告白——芸能界に衝撃広がる",
+        "アサヒグループ、ランサムウェア被害で漏えい件数が229万件に拡大",
+        "声優・二階堂有希子さん死去——数十年にわたって活躍したベテラン",
+        "SQL MCP Server が GA——AIエージェントが安全にデータベースを操作できる新時代へ",
+        "スマホで動く27BモデルAI「Bonsai 27B」登場——1ビット量子化で54GBを3.9GBに圧縮",
+        "1PasswordがClaudeと連携——パスワードを見せずにAIエージェントがログインできる「ゼロ露出」認証",
+        "The Human-in-the-Loop Is Tired: Why AI Coding Tools Are Eroding Developer Satisfaction",
+        "GitHub Code Scanning Now Flags AI Prompt Injection Attacks in Pull Requests",
+        "Ben Bernanke Joins Anthropic's Long-Term Benefit Trust — A Signal on AI Governance Maturity"
+      ]
+    },
     {
       "run_at": "2026-07-17T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "OpenAI Ships Its First Hardware: Codex Micro Keypad at $230, Purpose-Built for Coding Agents",
         "CodeQL 2.26.0 Ships AI Prompt Injection Detection — New js/system-prompt-injection Query",
         "Designing APIs for Agents: Four Principles That Make or Break Agent-Driven Integrations"
-      ]
-    },
-    {
-      "run_at": "2026-07-16T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6588080?source=rss",
-        "https://news.yahoo.co.jp/pickup/6588088?source=rss",
-        "https://news.yahoo.co.jp/pickup/6588090?source=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/15/news127.html",
-        "https://www.jiji.com/jc/article?k=2026071501049&g=spo&m=rss",
-        "https://zenn.dev/genda_jp/articles/46745564b7a9dd",
-        "https://www.publickey1.jp/blog/26/google_cloudaicloud_run.html",
-        "https://www.publickey1.jp/blog/26/3ai.html",
-        "https://www.latent.space/p/aiewf26trends",
-        "https://thinkingmachines.ai/news/introducing-inkling/",
-        "https://github.com/vshulcz/deja-vu/"
-      ],
-      "titles": [
-        "点滴への異物混入事件——助産師が殺人容疑で逮捕、死因は多臓器不全と判明",
-        "台船上で女性が倒れ死亡——状況から事件の可能性、警察が捜査",
-        "愛犬を助けようと川に入った女性が溺死——夏の水難事故が相次ぐ",
-        "ニチレイへの不正アクセス波及——外食・小売各社に欠品・営業短縮の影響拡大",
-        "バレーボール日本男子、9連勝で決勝Ｔ進出——ネーションズリーグでイタリアを破る",
-        "herdrでClaude Code＋Codexオーケストレーション——Claude Code Pluginで複数Issue並列処理を実現",
-        "Google Cloud、生成AIコードを瞬時に隔離実行「Cloud Runサンドボックス」をパブリックプレビュー公開",
-        "デジタル庁がさくらのクラウドで国内開発LLM3本を試用——ガバメントAI「源内」の評価へ",
-        "5 Trends That Defined AI Engineering at World's Fair 2026 — Agents Are Now the Platform",
-        "Inkling: Thinking Machines Lab Releases Open-Weights Reasoning Model Optimized for Southeast Asia",
-        "deja-vu: Open-Source Persistent Memory for Coding Agents, Synced Over SSH"
       ]
     }
   ]

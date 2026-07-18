@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-18T20:16:00+09:00",
+  "last_run_at": "2026-07-19T01:46:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-19T01:46:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6588445",
+        "https://www.jiji.com/jc/article?k=2026071800137&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6588426",
+        "https://news.yahoo.co.jp/pickup/6588442",
+        "https://www.jiji.com/jc/article?k=2026071800174&g=int&m=rss",
+        "https://zenn.dev/luup_developers/articles/server-jang-20260716",
+        "https://zenn.dev/yumemi_inc/articles/github-release-not-a-publish-trigger",
+        "https://zenn.dev/uhyo/articles/react-profession-bench-13",
+        "https://www.anthropic.com/news/claude-for-teachers",
+        "https://simonwillison.net/2026/Jul/16/inkling/",
+        "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"
+      ],
+      "titles": [
+        "北日本で大雨警戒——19日・20日に前線停滞、土砂災害や河川増水に注意",
+        "高額療養費の月額負担、４～３８％引き上げ　長期療養者に年間上限も新設",
+        "食品消費税1% 効果に不透明感も",
+        "花火大会で火事 落下後に爆発か",
+        "皇室典範改正で国連総長「女性権利向上の政策を」",
+        "Claude Codeと取り組んだ大規模レガシー移行の記録",
+        "GitHub Release 作成をパッケージリリースのトリガーにするな！",
+        "Fable 5はeffort=lowでも「使える」のか？　React習熟度ベンチマーク第13弾",
+        "Introducing Claude for Teachers",
+        "Inkling: Our open-weights model",
+        "GPT-5.6 used a prompt to close a 30-year gap in convex optimization"
+      ]
+    },
     {
       "run_at": "2026-07-18T20:16:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "The Human-in-the-Loop Is Tired: Why AI Coding Tools Are Eroding Developer Satisfaction",
         "GitHub Code Scanning Now Flags AI Prompt Injection Attacks in Pull Requests",
         "Ben Bernanke Joins Anthropic's Long-Term Benefit Trust — A Signal on AI Governance Maturity"
-      ]
-    },
-    {
-      "run_at": "2026-07-17T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6588266",
-        "https://news.yahoo.co.jp/pickup/6588252",
-        "https://www.jiji.com/jc/article?k=2026071700121&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071700491&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071700578&g=soc&m=rss",
-        "https://zenn.dev/k_yoshiya/articles/claude-code-plan-mode-loop",
-        "https://zenn.dev/mkj/articles/7a8f55591e6baf",
-        "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
-        "https://www.anthropic.com/news/canadian-ai-research",
-        "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-        "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/"
-      ],
-      "titles": [
-        "日経平均が一時4000円超の急落——半導体株安と中東懸念が重なる",
-        "東京・千葉・神奈川に大雨危険警報——避難を急ぐよう呼びかけ",
-        "改正皇室典範が成立——制定79年で初の養子男系子孫への継承権付与",
-        "キオクシア、米陪審が特許侵害認定——賠償額約370億円の評決",
-        "大阪の中学校でスプレー噴射か——生徒・教員23人が喉や皮膚に症状",
-        "Claude Code の Plan モードをループエンジニアリングで自動化——Hook と並列 subagent で開発を高速化",
-        "非同期パーソナルエージェントのススメ——PKBとCronで「思考の中断なし」を実現する3パターン",
-        "BunがClaude Fable 5で53万行のZig→Rust移植を11日間で完了——費用1億6000万円相当",
-        "Anthropic Commits $10 Million CAD to Canadian AI Research — Partners with 8 Institutions Including Mila, Vector, and AMII",
-        "GitHub Copilot for JetBrains Adds BYOK, Claude Agent Support, and Local Sandboxing",
-        "Microsoft Open-Sources Comic Chat (1995): A Window Into AI-Assisted Conversation Visualization"
-      ]
-    },
-    {
-      "run_at": "2026-07-17T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6588229",
-        "https://news.yahoo.co.jp/pickup/6588222",
-        "https://news.yahoo.co.jp/pickup/6588215",
-        "https://news.yahoo.co.jp/pickup/6588225",
-        "https://news.yahoo.co.jp/pickup/6588223",
-        "https://zenn.dev/uhyo/articles/react-profession-bench-11",
-        "https://zenn.dev/fusic/articles/196bcd22676d97",
-        "https://www.itmedia.co.jp/news/articles/2607/17/news061.html",
-        "https://www.kimi.com/blog/kimi-k3",
-        "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-        "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/"
-      ],
-      "titles": [
-        "日経平均が一時2500円超の急落——半導体株安が東京市場を直撃",
-        "関東甲信で局地的な大雨——不安定な大気が続き、道路冠水や土砂災害に警戒",
-        "新米価格が高騰から一転——2026年産は前年比20〜45%下落の見通し",
-        "登下校中にクマ出没——見守り活動の「丸腰」問題が浮上、クマスプレー配備が急務に",
-        "留置場で勾留中のトルコ人男性が死亡——医療対応の遅れに批判の声",
-        "GPT-5.6のReact習熟度を測定——Sol・Luna・Terraの三層でコンポーネント設計にClaude比の構造的弱点が判明",
-        "Googleの時系列基盤モデル「TimesFM」を解剖——ゼロショット予測の仕組みと限界を実測で検証",
-        "Google検索「AIモード」が外部アプリと連携——Canva・YouTube Musicなどと統合でシームレスな作業環境へ",
-        "Kimi K3: The World's First Open 2.8-Trillion-Parameter Model with 1M Context Window",
-        "LM Studio Bionic: An AI Agent for Open Models with Zero Data Retention and Local-First Compute",
-        "Firefox Compiled to WebAssembly Inside Another Browser — $25K in Claude Tokens, One Working Demo"
       ]
     }
   ]

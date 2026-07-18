@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-18T05:00:00+09:00",
+  "last_run_at": "2026-07-18T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-18T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6588355",
+        "https://www.itmedia.co.jp/news/articles/2607/18/news014.html",
+        "https://www.jiji.com/jc/article?k=2026071701018&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071700903&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071800190&g=int&m=rss",
+        "https://zenn.dev/kamegoro/articles/aws-cloudfront-vpc-origins-outage-20260716",
+        "https://zenn.dev/uhyo/articles/react-profession-bench-12",
+        "https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint",
+        "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+        "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/",
+        "https://www.anthropic.com/news/alberta-government-claude-cybersecurity"
+      ],
+      "titles": [
+        "ベネズエラで大地震、死者5000人超——太平洋沿岸各地に津波警戒が広がる",
+        "アップル、日本でiPhoneを一斉値上げ——円安とAI機能強化が主因か",
+        "中国、AI国際規制でリーダーシップ狙う——29カ国参加の新組織を設立",
+        "日本の防衛産業、武器輸出解禁で転換期——人員・生産能力の拡充が急務",
+        "米国、香港への優遇措置を再開——トランプ政権が第1期以来の方針を転換",
+        "AWS CloudFront VPC Originsの障害から学ぶ——「便利な新機能」が新たな単一障害点になるリスク",
+        "GPT-5.6、effort=max同士の対決でもClaudeに届かず——React習熟度ベンチマーク第12弾",
+        "「AI臭はリズムに出る」——7モデル×406記事の実測でAI生成日本語の特徴を定量化",
+        "GitHub Copilot Code Review Gets Major Customization Overhaul — Branch-Level Config, CLAUDE.md Support, and Firewall Controls",
+        "Simon Willison Builds LLM Cliché Highlighter — A Browser Tool to Make AI Writing Patterns Visible",
+        "Alberta Government Scans 466M Lines of Code in 20 Hours with Claude — 6.5 Years of Security Work in One Weekend"
+      ]
+    },
     {
       "run_at": "2026-07-18T05:00:00+09:00",
       "urls": [
@@ -231,35 +260,6 @@
         "Anthropic Launches 'Inviting Hard Questions' — Commits to Transparent Public Accountability on AI's Societal Impact",
         "Dependabot Now Enforces Default 3-Day Package Cooldown — Mitigating Supply Chain Attack Window",
         "Thinking Machines Lab Releases Inkling: 975B-Parameter Open-Weights Multimodal Model Under Apache 2.0"
-      ]
-    },
-    {
-      "run_at": "2026-07-16T15:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/articles/2607/16/news064.html",
-        "https://www.jiji.com/jc/article?k=2026071600104&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071600519&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071600163&g=scr&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071600231&g=int&m=rss",
-        "https://zenn.dev/sonicmoov/articles/8712598f532b18",
-        "https://zenn.dev/discus0434/articles/customizable-agent-teams",
-        "https://www.itmedia.co.jp/news/articles/2607/16/news073.html",
-        "https://github.com/xai-org/grok-build",
-        "https://www.anthropic.com/news/ust-claude",
-        "https://coasty.ai/docs"
-      ],
-      "titles": [
-        "クレジットカード決済が全国で一時不能——国際ブランドネットワーク障害が朝のラッシュを直撃",
-        "超党派会議、中低所得者向け給付制度を2029年度に導入合意——消費減税は先送り",
-        "点滴混入事件、逮捕の元看護師がネットで「便注入、死ぬか」と検索——千葉県警が動機を捜査",
-        "W杯サッカー：アルゼンチン、逆転でイングランドを撃破——メッシの2アシストで決勝進出",
-        "ピュー調査：中国への好感度が初めて米国を上回る——トランプ政権への評価悪化が影響",
-        "Claude Codeが化けた——3つのプラグインと標準機能でコスト管理・設計検証ができる開発パートナーへ進化",
-        "役割ごとにFable 5とGPT-5.6を使い分けるAgent Team設計——11役割に分散したマルチエージェントアーキテクチャ",
-        "富士通・ファナック・日立・三菱電機の4社、NVIDIA技術でフィジカルAI事業を本格展開",
-        "xAI Open-Sources Grok Build: A Rust-Based Terminal AI Coding Agent with MCP Support",
-        "UST Deploys Claude Across 20,000 Engineers for Physical AI — Semiconductor Validation Cycles Cut from 4 Days to 48 Hours",
-        "Coasty (YC S26): An API for Computer-Use Agents — Giving AI Visual Access to Any Web App Without Scraping"
       ]
     }
   ]

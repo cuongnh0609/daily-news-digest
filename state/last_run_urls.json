@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-19T15:31:00+09:00",
+  "last_run_at": "2026-07-19T22:31:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-19T22:31:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6588559",
+        "https://news.yahoo.co.jp/pickup/6588563",
+        "https://news.yahoo.co.jp/pickup/6588555",
+        "https://www.jiji.com/jc/article?k=2026071900078&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071900186&g=int&m=rss",
+        "https://zenn.dev/r_kaga/articles/a27a3879dd3ce4",
+        "https://zenn.dev/jodycraft/articles/dfe38e73e1ef8a",
+        "https://www.itmedia.co.jp/news/articles/2607/17/news079.html",
+        "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+        "https://workshop.cjpais.com/projects/transcribe-cpp"
+      ],
+      "titles": [
+        "連休最終日、全国的に猛暑日が拡大——熱中症警戒アラートが相次いで発令",
+        "母娘ら3人が切りつけられ重軽傷——長男の知人が容疑者として浮上",
+        "登山中に斜面を40メートル滑落——男性が死亡、連休中の事故が相次ぐ",
+        "防衛省、X（旧Twitter）に公式アカウント開設——中国の認知戦に対抗する情報発信強化",
+        "日比南シナ海交渉に中国が猛反発——台湾、中国の船舶臨検に警戒を強める",
+        "ループエンジニアリングの本質——「ゴールまで自走する」ではなく「ループを設計・監督する」時代へ",
+        "ループの次は「グラフ」なのか——制御フロー進化論とJudgment Engineeringという新概念",
+        "中国AIも「ミュトス級」へ——Moonshot AIのKimi K3がProgram BenchでFable 5を上回る",
+        "Claude Code v2.1.181 Now Ships Bun Rewritten in Rust — Confirmed via Binary Inspection",
+        "Qwen 3.8 Launching Open-Weight Soon — Alibaba's Next Frontier Model Enters the Race",
+        "transcribe.cpp: A Trustworthy Local ASR Library Supporting 60+ Models with GPU Acceleration"
+      ]
+    },
     {
       "run_at": "2026-07-19T15:31:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "GitHub Copilot Code Review Gets Major Customization Overhaul — Branch-Level Config, CLAUDE.md Support, and Firewall Controls",
         "Simon Willison Builds LLM Cliché Highlighter — A Browser Tool to Make AI Writing Patterns Visible",
         "Alberta Government Scans 466M Lines of Code in 20 Hours with Claude — 6.5 Years of Security Work in One Weekend"
-      ]
-    },
-    {
-      "run_at": "2026-07-18T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026071700126&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071700183&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6588324",
-        "https://news.yahoo.co.jp/pickup/6588346",
-        "https://news.yahoo.co.jp/pickup/6588353",
-        "https://zenn.dev/aldagram_tech/articles/c407ae672c9c0e",
-        "https://zenn.dev/nobmake/articles/394d8b42da48a1",
-        "https://www.publickey1.jp/blog/26/google_cloudaicloud_run.html",
-        "https://www.anthropic.com/news/claude-sonnet-5",
-        "https://www.anthropic.com/news/claude-science-ai-workbench",
-        "https://stateofopensource.ai/"
-      ],
-      "titles": [
-        "「国旗損壊罪」法が成立——表現の自由への懸念残る中、施行まで20日",
-        "タイ地方公務員試験で5900人超の不正——採用取り消し・大量解雇へ",
-        "ハウスメーカー倒産が2026年上半期に9割増——コスト高・人手不足が直撃",
-        "メキシコでM7.4の強震——日本の太平洋沿岸に津波の心配なし",
-        "ソフトバンク情シスが4カ月で「日本1位のAIスパコン」構築——社長特命プロジェクトの舞台裏",
-        "Claude CodeのSkillをSkillでレビューする——静的チェック×LLMレビュー×git hooksの3層ゲート",
-        "LLMに「読み進められる説明文」を書かせる設計——cognitive-rhythm-writingの構造を読む",
-        "Google Cloud、AIエージェントが生成するコードを安全に隔離実行できる「Cloud Run Sandboxes」をパブリックプレビュー公開",
-        "Introducing Claude Sonnet 5 — The Most Agentic Sonnet Model Yet",
-        "Claude Science: Anthropic Launches an AI Workbench Purpose-Built for Scientists",
-        "The State of Open Source AI — V1.0: Open Weights Have Closed the Capability Gap"
-      ]
-    },
-    {
-      "run_at": "2026-07-18T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026071700259&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071701190&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/17/news112.html",
-        "https://www.itmedia.co.jp/news/articles/2607/17/news065.html",
-        "https://www.itmedia.co.jp/news/articles/2607/17/news116.html",
-        "https://zenn.dev/loglass/articles/6aa18c80496ec6",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news053.html",
-        "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
-        "https://www.anthropic.com/news/reflect-with-claude",
-        "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-        "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6"
-      ],
-      "titles": [
-        "バーナム氏、英国新首相に就任へ——無投票で労働党党首選出、20日に正式就任",
-        "EU、産業界の負担軽減へ炭素排出規制を緩和——削減率を段階的に引き下げ",
-        "AWS、誤った17億ドルのコスト見積もりを表示——課金データのバグが世界規模で発生",
-        "Netflix「今年配信の約300作品で生成AI活用」——制作費半額・スピード2倍の実例も",
-        "GMO系で従業員が在職中に競合会社を無断設立——他社との偽装契約も発覚",
-        "AIに「レビューして」はもう古い？——「敵対的検証」でコードレビューの品質を劇的に引き上げる手法",
-        "AIエージェントの約半数が戦力外になる——ガートナーが警告するガバナンス不足の落とし穴",
-        "MCPに企業向け一元認証機能「EMA extension」が安定版でリリース——IdPで全サーバを一括管理",
-        "Anthropic Launches Claude Reflection Dashboard — AI Usage Self-Analysis with 4D Fluency Framework",
-        "GitHub Copilot App Now Has /security-review Slash Command — AI Vulnerability Scanning Before PR",
-        "$100 AI Music Video Arena: Claude Fable 5 vs. GPT-5.6 Autonomously Produce Agentic Video Pipelines"
       ]
     }
   ]

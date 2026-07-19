@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-19T11:31:00+09:00",
+  "last_run_at": "2026-07-19T15:31:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-19T15:31:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6588502",
+        "https://news.yahoo.co.jp/pickup/6588505",
+        "https://news.yahoo.co.jp/pickup/6588507",
+        "https://news.yahoo.co.jp/pickup/6588500",
+        "https://www.jiji.com/jc/article?k=2026071900184&g=spo&m=rss",
+        "https://zenn.dev/tyabu12/articles/0010-code-review-path-scoped-rules",
+        "https://zenn.dev/singularity/articles/clean-code-ci-for-ai-era",
+        "https://zenn.dev/microsoft/articles/1113250e1e63dc",
+        "https://bun.sh/blog/bun-in-rust",
+        "https://www.anthropic.com/news/canadian-ai-research",
+        "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/"
+      ],
+      "titles": [
+        "21日から「災害級の暑さ」——名古屋で40℃超えの予報、各地で猛暑日が連続",
+        "静岡・御殿場のサッカー場で倒木——観客ら10人超が負傷、乳幼児も搬送",
+        "奈良の遺体2体事件——容疑者逮捕、前日に被害者らと外出か",
+        "八幡市長の産休取得が海外で相次ぎ報道——日本社会の「当然の権利」への反応に世界が驚く",
+        "佐々木麟太郎、マーリンズ入団へ——スタンフォード大からMLB挑戦を決意",
+        "Claude Codeの/code-reviewはpath-scopedルールを読み込まない——.claude/rulesの落とし穴と対策",
+        "AIが大量生成するコードの「品質崩壊」をCIで防ぐ——ESLint+SonarJS・jscpd・knipの3層ガード",
+        "Microsoft SQL MCP Server が GA——ストアドプロシージャをAIエージェントのツールとして公開する設計パターン",
+        "Bun Rewrites 535K Lines from Zig to Rust in 11 Days Using 64 Parallel Claude Instances",
+        "Anthropic Commits $10M to Canadian AI Research — API Credits for Hundreds of Startups",
+        "AI Mania Is Eviscerating Global Decision-Making — The Organizational Dysfunction Engineers Can't Escape"
+      ]
+    },
     {
       "run_at": "2026-07-19T11:31:00+09:00",
       "urls": [

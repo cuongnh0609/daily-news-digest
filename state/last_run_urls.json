@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-19T06:46:00+09:00",
+  "last_run_at": "2026-07-19T11:31:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-19T11:31:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026071800305&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071900074&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026071900087&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6588460",
+        "https://www.jiji.com/jc/article?k=2026071900132&g=spo&m=rss",
+        "https://zenn.dev/arufian/articles/4676070054c347",
+        "https://zenn.dev/suuungwoo/articles/personal-ai-system-overview",
+        "https://www.itmedia.co.jp/news/articles/2607/16/news107.html",
+        "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
+        "https://deepmind.google/blog/our-approach-to-bioresilience/",
+        "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/"
+      ],
+      "titles": [
+        "世界一律10%代替関税が失効へ——日本向け新関税は12.5%に引き上げの見通し",
+        "米兵2人死亡、米軍がイランへ報復攻撃——最高指導者「覚書は無価値」と強硬姿勢",
+        "NY市長、国連総会出席なら「ネタニヤフ首相の拘束を検討する」——ICC逮捕状を根拠に",
+        "海上保安庁向け無人船を開発へ——中国の海洋進出に対処、来年度から着手",
+        "W杯サッカー——フランス敗れ、エムバペの花道飾れず　決勝はスペイン対イングランドへ",
+        "Claude Codeのスキル×サブエージェントで開発ワークフローを丸ごと自動化——デリバリー速度が3倍に",
+        "Claude CodeとCodexを「人生の秘書」にする——Personal AI System構築の全体設計を公開",
+        "NVIDIAフアンCEO「日本はJapan AIを構築するマストだ」——国産AI企業Noetraが本格始動",
+        "Simon Willison Builds SQLite Query Explainer with Claude Fable 5 — AI-Assisted Developer Tooling in Practice",
+        "Google DeepMind and Isomorphic Labs Release Joint Bioresilience Approach — AI as Defense Against Biological Threats",
+        "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem — Does the /goal Flag Actually Help?"
+      ]
+    },
     {
       "run_at": "2026-07-19T06:46:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Launches Claude Reflection Dashboard — AI Usage Self-Analysis with 4D Fluency Framework",
         "GitHub Copilot App Now Has /security-review Slash Command — AI Vulnerability Scanning Before PR",
         "$100 AI Music Video Arena: Claude Fable 5 vs. GPT-5.6 Autonomously Produce Agentic Video Pipelines"
-      ]
-    },
-    {
-      "run_at": "2026-07-17T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026071700290&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071700129&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6588313",
-        "https://www.itmedia.co.jp/news/articles/2607/17/news107.html",
-        "https://www.jiji.com/jc/article?k=2026071701020&g=soc&m=rss",
-        "https://zenn.dev/microsoft/articles/1113250e1e63dc",
-        "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
-        "https://www.itmedia.co.jp/news/articles/2607/17/news088.html",
-        "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-        "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-        "https://www.anthropic.com/news/ben-bernanke"
-      ],
-      "titles": [
-        "国会会期を８日間延長、２５日まで——副首都法案の審議確保が目的",
-        "新給付制度、支援漏れ防止を検討——高市首相が集中審議に出席",
-        "松本人志、大腸腫瘍の手術を告白——芸能界に衝撃広がる",
-        "アサヒグループ、ランサムウェア被害で漏えい件数が229万件に拡大",
-        "声優・二階堂有希子さん死去——数十年にわたって活躍したベテラン",
-        "SQL MCP Server が GA——AIエージェントが安全にデータベースを操作できる新時代へ",
-        "スマホで動く27BモデルAI「Bonsai 27B」登場——1ビット量子化で54GBを3.9GBに圧縮",
-        "1PasswordがClaudeと連携——パスワードを見せずにAIエージェントがログインできる「ゼロ露出」認証",
-        "The Human-in-the-Loop Is Tired: Why AI Coding Tools Are Eroding Developer Satisfaction",
-        "GitHub Code Scanning Now Flags AI Prompt Injection Attacks in Pull Requests",
-        "Ben Bernanke Joins Anthropic's Long-Term Benefit Trust — A Signal on AI Governance Maturity"
       ]
     }
   ]

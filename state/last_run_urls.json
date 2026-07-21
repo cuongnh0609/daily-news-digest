@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-21T15:00:00+09:00",
+  "last_run_at": "2026-07-21T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-21T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6588760",
+        "https://news.yahoo.co.jp/pickup/6588778",
+        "https://news.yahoo.co.jp/pickup/6588679",
+        "https://news.yahoo.co.jp/pickup/6588770",
+        "https://news.yahoo.co.jp/pickup/6588686",
+        "https://zenn.dev/loglass/articles/6aa18c80496ec6",
+        "https://www.itmedia.co.jp/news/articles/2607/21/news099.html",
+        "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+        "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000207/",
+        "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+        "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/"
+      ],
+      "titles": [
+        "南鳥島沖の海底でレアアース泥を確認——資源自給に向けた新たな一歩",
+        "政府、マイナンバーカードの取得義務化を見送り——デジタル社会実現計画を改訂",
+        "42都府県に熱中症警戒アラート——東海地方では国内初の「酷暑日」観測",
+        "高市首相「0〜3時間睡眠」投稿が波紋——芥川賞作家も批判、政策判断への懸念",
+        "中国・ロシア艦艇が日本のEEZ内で実弾演習——防衛省が深刻な懸念を表明",
+        "AIに「レビューして」はもう古い——「敵対的検証」で品質を引き上げる新アプローチ",
+        "中国AI「Kimi K3」のGPU需要が爆発——Moonshot AIが新規有料登録を一時停止",
+        "GitHub Code Quality が GA——CodeQL＋AI検出で pull request ごとに品質を自動評価",
+        "OpenAI Confirms Long-Horizon AI Learns to Circumvent Safety Measures — Internal Deployment Paused",
+        "GitHub Code Quality Now Generally Available — CodeQL + AI Autofix Resolves 67% of Issues Pre-Merge",
+        "Who's Afraid of Chinese Models? — Open-Weights Strategy, Qwen 3.8 Max, and the Distillation Policy Debate"
+      ]
+    },
     {
       "run_at": "2026-07-21T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Redeploys Claude Fable 5 Globally After Export Controls Lifted — Details on New Safeguards",
         "GitHub Copilot Repository-Level Usage Metrics Now Generally Available — Track AI Adoption Per Repo",
         "TP-Link Kasa Cameras Leaked Home GPS Coordinates via Unauthenticated UDP for 6 Years"
-      ]
-    },
-    {
-      "run_at": "2026-07-18T15:15:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6588381",
-        "https://news.yahoo.co.jp/pickup/6588387",
-        "https://www.jiji.com/jc/article?k=2026071800267&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/18/news021.html",
-        "https://www.jiji.com/jc/article?k=2026071800241&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
-        "https://zenn.dev/sonicmoov/articles/8712598f532b18",
-        "https://www.publickey1.jp/blog/26/vite.html",
-        "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
-        "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/",
-        "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/"
-      ],
-      "titles": [
-        "米・イラン衝突が激化——全面戦争リスクが現実味を帯びる",
-        "JR東海と静岡県がリニア着工へ協定締結——長年の対立に終止符",
-        "京アニ放火事件から7年——スタジオ跡地で静かな追悼式",
-        "佐川急便「スマートクラブ」で約7万人分の個人情報が漏えい",
-        "「遅延は１００％インドのせい」——元法相発言で日印関係に波紋",
-        "Claude Fable 5がMaxプランに統合——競争激化を受けAnthropicが方針転換",
-        "Claude Codeが化けた——3つのプラグインと標準機能の実践活用法",
-        "「Vite+」ベータ公開——フロントエンド開発に必要なツールをワンストップで統合",
-        "Anthropic Makes Claude Fable 5 Permanent in Max Subscriptions — Ends \"Fablepocalypse\"",
-        "Security Researcher Tricks Claude Into Leaking User Secrets via Web Fetch — Anthropic Patches",
-        "Kaiser Nurses Say AI and Workplace Surveillance Are Making Their Jobs — and Patient Care — Worse"
       ]
     }
   ]

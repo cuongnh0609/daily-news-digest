@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-22T00:00:00+09:00",
+  "last_run_at": "2026-07-22T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-22T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6588807",
+        "https://news.yahoo.co.jp/pickup/6588820",
+        "https://news.yahoo.co.jp/pickup/6588825",
+        "https://news.yahoo.co.jp/pickup/6588815",
+        "https://news.yahoo.co.jp/pickup/6588804",
+        "https://zenn.dev/takepon7/articles/ai-agent-permission-design-for-users",
+        "https://zenn.dev/kzsaka/articles/rag-evaluation-structure",
+        "https://www.itmedia.co.jp/news/articles/2607/21/news084.html",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+        "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+        "https://simonwillison.net/2026/Jul/21/cat-and-thariq/"
+      ],
+      "titles": [
+        "22日は関東でも40℃超えの酷暑日予想——東日本に「危険な暑さ」が到来",
+        "人への腎移植に向け——遺伝子改変ブタの治験用生産が国内で始まる",
+        "梨5000個を盗まれた農家が「栽培を辞めます」——農業被害の深刻さ改めて浮き彫りに",
+        "南海トラフ地震の「後発地震情報」——発表タイミングの前倒しで迅速避難を実現へ",
+        "自民党有志がトレーディングカード振興の議連設立へ——カード市場の制度整備に向け動き出す",
+        "AIエージェントの暴走は「指示」では止まらない——権限モデルから設計する4つの境界",
+        "精度70%のRAGを前に何を判断すべきか——評価・意思決定の構造を問い直す",
+        "WordPressに認証不要のリモートコード実行脆弱性——即時アップデートが呼びかけられる緊急事態",
+        "Google Launches Gemini 3.6 Flash, 3.5 Flash-Lite & 3.5 Flash Cyber — Speed-Optimized Models for Every Use Case",
+        "Jack Dorsey Launches Buzz — An Open-Source Workspace Unifying AI Agents, Team Chat, and Git",
+        "Simon Willison Reviews Fireside Chat with Claude Code Team — Insights on Agentic Coding Philosophy"
+      ]
+    },
     {
       "run_at": "2026-07-22T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Simon Willison Builds SQLite Query Explainer with Claude Fable 5 — AI-Assisted Developer Tooling in Practice",
         "Google DeepMind and Isomorphic Labs Release Joint Bioresilience Approach — AI as Defense Against Biological Threats",
         "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem — Does the /goal Flag Actually Help?"
-      ]
-    },
-    {
-      "run_at": "2026-07-19T06:46:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260719/k10015180531000.html",
-        "http://www3.nhk.or.jp/news/html/20260719/k10015180561000.html",
-        "http://www3.nhk.or.jp/news/html/20260719/k10015180351000.html",
-        "https://news.yahoo.co.jp/pickup/6588451",
-        "http://www3.nhk.or.jp/news/html/20260719/k10015180461000.html",
-        "https://zenn.dev/k_yoshiya/articles/claude-code-plan-mode-loop",
-        "https://zenn.dev/kai_kou/articles/248-cloudflare-agents-week-2026-infra-guide",
-        "https://zenn.dev/sonder01/articles/multi-agent-debate-cost-effectiveness",
-        "https://www.anthropic.com/news/hard-questions",
-        "https://ykdojo.github.io/claude-controls-mac/",
-        "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/"
-      ],
-      "titles": [
-        "北海道・青森で大雨——レベル4危険警報が発令、土砂災害に厳重警戒",
-        "栃木・足利で住宅に土砂流入し倒壊——行方不明者の捜索続く",
-        "「飛鳥・藤原の宮都」世界遺産登録へ——世界遺産委員会が審議開始",
-        "琵琶湖でボートから落水、23歳男性が死亡——レジャー中の水難事故",
-        "W杯準決勝——イングランドがフランスを撃破、決勝進出を決める",
-        "Claude CodeのPlanモードをループエンジニアリングで自動化——要件詰め・サブエージェント委譲・HTML確認をhookに組み込む",
-        "Cloudflare Agents Week 2026——7つの新機能でAIエージェントを本番運用する完全ガイド",
-        "マルチエージェントを「会議させても」賢くならない——30倍コストの検証で見えた限界",
-        "Anthropic Invites Hard Questions About AI — Launches Public Initiative on Hopes, Concerns, and Transparency",
-        "Setting Up a Spare Mac as an Always-On Claude Code Machine — A Step-by-Step Agentic Computer Use Guide",
-        "The Kimi K3 Moment — How Moonshot AI's New Model Is Reshaping the AI Competitive Landscape"
       ]
     }
   ]

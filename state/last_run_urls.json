@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-19T22:31:00+09:00",
+  "last_run_at": "2026-07-21T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-21T15:00:00+09:00",
+      "urls": [
+        "http://www3.nhk.or.jp/news/html/20260721/k10015181481000.html",
+        "http://www3.nhk.or.jp/news/html/20260720/k10015181411000.html",
+        "http://www3.nhk.or.jp/news/html/20260721/k10015181561000.html",
+        "http://www3.nhk.or.jp/news/html/20260721/k10015181811000.html",
+        "http://www3.nhk.or.jp/news/html/20260721/k10015181821000.html",
+        "https://zenn.dev/mrmtsntr/articles/artgraph-spec-code-drift",
+        "https://zenn.dev/drbobt1122/articles/blog26072002",
+        "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
+        "https://www.anthropic.com/news/claude-sonnet-5",
+        "https://cursor.com/blog/agent-swarm-model-economics",
+        "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything"
+      ],
+      "titles": [
+        "岐阜・愛知で40度超え、今年初の「酷暑日」を記録——熱中症への厳重警戒が続く",
+        "中国艦艇が日本のEEZ内で機関銃射撃訓練——防衛省が確認、ロシア艦も周辺に",
+        "高市政権、初の「骨太の方針」を決定——「強い経済」実現へ財政運営を抜本転換",
+        "政府が新成長戦略を決定——2040年度までに370兆円超の官民投資を想定",
+        "エアコン国内出荷額が21%増——「エアコン2027年問題」を前に需要が急伸",
+        "仕様駆動開発の「仕様とコードのズレ」をハッシュで決定的に検出するCLIツール「artgraph」",
+        "Claude Agent SDKのサブエージェント機能でソフトウェア開発エージェントを構築する",
+        "Claude Codeを組織一括でSSO管理——「Claude apps gateway for AWS/Google Cloud」が登場",
+        "Anthropic Launches Claude Sonnet 5 — Most Agentic Sonnet Yet, Matching Opus-Class Performance",
+        "Cursor: Agent Swarms and the New Model Economics — Building SQLite from Scratch with a Multi-Agent System",
+        "Simon Willison: Reverse-Engineering Is Cheap Now — How Coding Agents Change the ROI Equation"
+      ]
+    },
     {
       "run_at": "2026-07-19T22:31:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Makes Claude Fable 5 Permanent in Max Subscriptions — Ends \"Fablepocalypse\"",
         "Security Researcher Tricks Claude Into Leaking User Secrets via Web Fetch — Anthropic Patches",
         "Kaiser Nurses Say AI and Workplace Surveillance Are Making Their Jobs — and Patient Care — Worse"
-      ]
-    },
-    {
-      "run_at": "2026-07-18T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6588355",
-        "https://www.itmedia.co.jp/news/articles/2607/18/news014.html",
-        "https://www.jiji.com/jc/article?k=2026071701018&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071700903&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071800190&g=int&m=rss",
-        "https://zenn.dev/kamegoro/articles/aws-cloudfront-vpc-origins-outage-20260716",
-        "https://zenn.dev/uhyo/articles/react-profession-bench-12",
-        "https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint",
-        "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-        "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/",
-        "https://www.anthropic.com/news/alberta-government-claude-cybersecurity"
-      ],
-      "titles": [
-        "ベネズエラで大地震、死者5000人超——太平洋沿岸各地に津波警戒が広がる",
-        "アップル、日本でiPhoneを一斉値上げ——円安とAI機能強化が主因か",
-        "中国、AI国際規制でリーダーシップ狙う——29カ国参加の新組織を設立",
-        "日本の防衛産業、武器輸出解禁で転換期——人員・生産能力の拡充が急務",
-        "米国、香港への優遇措置を再開——トランプ政権が第1期以来の方針を転換",
-        "AWS CloudFront VPC Originsの障害から学ぶ——「便利な新機能」が新たな単一障害点になるリスク",
-        "GPT-5.6、effort=max同士の対決でもClaudeに届かず——React習熟度ベンチマーク第12弾",
-        "「AI臭はリズムに出る」——7モデル×406記事の実測でAI生成日本語の特徴を定量化",
-        "GitHub Copilot Code Review Gets Major Customization Overhaul — Branch-Level Config, CLAUDE.md Support, and Firewall Controls",
-        "Simon Willison Builds LLM Cliché Highlighter — A Browser Tool to Make AI Writing Patterns Visible",
-        "Alberta Government Scans 466M Lines of Code in 20 Hours with Claude — 6.5 Years of Security Work in One Weekend"
       ]
     }
   ]

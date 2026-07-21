@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-21T20:00:00+09:00",
+  "last_run_at": "2026-07-22T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-22T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6588817",
+        "https://news.yahoo.co.jp/pickup/6588829",
+        "https://news.yahoo.co.jp/pickup/6588828",
+        "https://news.yahoo.co.jp/pickup/6588793",
+        "https://news.yahoo.co.jp/pickup/6588818",
+        "https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide",
+        "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
+        "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000208/",
+        "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+        "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000210/",
+        "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
+      ],
+      "titles": [
+        "石破氏、食料品消費税1%案の「見直しも選択肢」と言及——与党内の議論に波紋",
+        "日本、7年ぶりにロシアへの大学生短期派遣を再開——ウクライナ侵攻後初の人的交流",
+        "明石歩道橋事故から25年——救助活動への誤情報が引き起こした長年の苦悩",
+        "学習放獣のクマが再び出没し殺処分——野生動物管理の難しさ改めて浮き彫りに",
+        "「夜の熱中症」に潜む危険——睡眠中のエアコン管理で予防を",
+        "1-bit LLM「Bonsai」活用ガイド——1.15GBで動く8Bモデルをローカル環境で使い倒す",
+        "企業向けAIツール成長率トップはAnthropicと判明——Oktaが2万社超の利用データを公開",
+        "GMO熊谷代表「タスクはAIに任せ、人はオフィスへ」——在宅廃止発言を釈明し真意を語る",
+        "AI Systems Are Disproving Major Mathematical Conjectures — Formal Proof Verified in Lean",
+        "Anthropic Pays $1.5B in Landmark Copyright Settlement — AI Training on Books Ruled Fair Use",
+        "China's Open-Weights AI Strategy Is Winning — American Proprietary Approach Cedes the Ecosystem"
+      ]
+    },
     {
       "run_at": "2026-07-21T20:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Invites Hard Questions About AI — Launches Public Initiative on Hopes, Concerns, and Transparency",
         "Setting Up a Spare Mac as an Always-On Claude Code Machine — A Step-by-Step Agentic Computer Use Guide",
         "The Kimi K3 Moment — How Moonshot AI's New Model Is Reshaping the AI Competitive Landscape"
-      ]
-    },
-    {
-      "run_at": "2026-07-19T01:46:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6588445",
-        "https://www.jiji.com/jc/article?k=2026071800137&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6588426",
-        "https://news.yahoo.co.jp/pickup/6588442",
-        "https://www.jiji.com/jc/article?k=2026071800174&g=int&m=rss",
-        "https://zenn.dev/luup_developers/articles/server-jang-20260716",
-        "https://zenn.dev/yumemi_inc/articles/github-release-not-a-publish-trigger",
-        "https://zenn.dev/uhyo/articles/react-profession-bench-13",
-        "https://www.anthropic.com/news/claude-for-teachers",
-        "https://simonwillison.net/2026/Jul/16/inkling/",
-        "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"
-      ],
-      "titles": [
-        "北日本で大雨警戒——19日・20日に前線停滞、土砂災害や河川増水に注意",
-        "高額療養費の月額負担、４～３８％引き上げ　長期療養者に年間上限も新設",
-        "食品消費税1% 効果に不透明感も",
-        "花火大会で火事 落下後に爆発か",
-        "皇室典範改正で国連総長「女性権利向上の政策を」",
-        "Claude Codeと取り組んだ大規模レガシー移行の記録",
-        "GitHub Release 作成をパッケージリリースのトリガーにするな！",
-        "Fable 5はeffort=lowでも「使える」のか？　React習熟度ベンチマーク第13弾",
-        "Introducing Claude for Teachers",
-        "Inkling: Our open-weights model",
-        "GPT-5.6 used a prompt to close a 30-year gap in convex optimization"
-      ]
-    },
-    {
-      "run_at": "2026-07-18T20:16:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6588408",
-        "https://news.yahoo.co.jp/pickup/6588413",
-        "https://news.yahoo.co.jp/pickup/6588427",
-        "https://www.itmedia.co.jp/news/articles/2607/18/news017.html",
-        "https://www.itmedia.co.jp/news/articles/2607/17/news099.html",
-        "https://zenn.dev/ruri/articles/claude-code-artifacts-mcp-connector",
-        "https://zenn.dev/veripsa/articles/cloud-ai-agents-local-control-boundary",
-        "https://zenn.dev/yamada_ai_dev/articles/ai-models-2026-07-benchmarks",
-        "https://www.anthropic.com/news/redeploying-fable-5",
-        "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-        "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md"
-      ],
-      "titles": [
-        "米・イラン、相互攻撃が激化——原油価格が急騰し市場に緊張感",
-        "連休明け、名古屋など内陸で40℃迫る猛暑——熱中症の警戒が続く",
-        "栃木で住宅が倒壊——心肺停止の女性が発見され救助活動が続く",
-        "「Apple Music」「Apple One」が日本を含む世界で値上げ——円安・AI投資が背景に",
-        "ニチレイ、システム障害からの業務再開が進む——食品物流の正常化は来週中めど",
-        "Claude Code Artifacts が MCP コネクタ対応——スナップショットから「生きたダッシュボード」へ",
-        "Claude Code・Codex・Copilotがクラウドで動く時代——ローカル監視ではmainを守れない",
-        "「ベンチマークの数字が横に並ばなくなった」——2026年7月の新モデル群を技術仕様で読み解く",
-        "Anthropic Redeploys Claude Fable 5 Globally After Export Controls Lifted — Details on New Safeguards",
-        "GitHub Copilot Repository-Level Usage Metrics Now Generally Available — Track AI Adoption Per Repo",
-        "TP-Link Kasa Cameras Leaked Home GPS Coordinates via Unauthenticated UDP for 6 Years"
       ]
     }
   ]

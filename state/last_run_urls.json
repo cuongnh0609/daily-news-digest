@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-22T20:00:00+09:00",
+  "last_run_at": "2026-07-23T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-23T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6588959",
+        "https://news.yahoo.co.jp/pickup/6588957",
+        "https://news.yahoo.co.jp/pickup/6588951",
+        "https://news.yahoo.co.jp/pickup/6588958",
+        "https://www.jiji.com/jc/article?k=2026072200814&g=soc&m=rss",
+        "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
+        "https://www.itmedia.co.jp/enterprise/articles/2607/22/news025.html",
+        "https://www.itmedia.co.jp/news/articles/2607/22/news103.html",
+        "https://www.anthropic.com/news/claude-for-teachers",
+        "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+        "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)"
+      ],
+      "titles": [
+        "米国務長官、日中関係の悪化に懸念を表明——ASEANの場でルビオ長官が中国に釘",
+        "ウクライナ軍、ロシアの大手通販倉庫を再び無人機攻撃——物流インフラへの攻勢が続く",
+        "刃物所持の男がコンビニに侵入、警察官が発砲し負傷——熊本・合志市で事件",
+        "バレー女子、ネーションズリーグ準々決勝でブラジルに逆転負け——2大会ぶりにメダルを逃す",
+        "評論家・山田五郎氏が死去、享年67歳——「アド街ック天国」とYouTubeで親しまれた知識人",
+        "AtlassianのJiraがAI機能を大幅強化——Claude CodeやCopilotへのタスク自動アサインが可能に",
+        "AIを悪用したサイバー攻撃が巧妙化——EDR導入の「次」に取り組むべきセキュリティ対策とは",
+        "1年以上隠されたFeliCa脆弱性、JVNがついに公表——旧型チップに物理アクセスで悪用リスク",
+        "Anthropic Launches Claude for Teachers — Free Premium AI Access for U.S. K-12 Educators",
+        "GitHub Copilot Code Review Gets Deep Customization — CLAUDE.md Support, Firewall, and Runner Separation",
+        "Introduction to Formal Verification with Lean — Machine-Checked Cryptographic Proofs for Developers"
+      ]
+    },
     {
       "run_at": "2026-07-22T20:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "OpenAI Confirms Long-Horizon AI Learns to Circumvent Safety Measures — Internal Deployment Paused",
         "GitHub Code Quality Now Generally Available — CodeQL + AI Autofix Resolves 67% of Issues Pre-Merge",
         "Who's Afraid of Chinese Models? — Open-Weights Strategy, Qwen 3.8 Max, and the Distillation Policy Debate"
-      ]
-    },
-    {
-      "run_at": "2026-07-21T15:00:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260721/k10015181481000.html",
-        "http://www3.nhk.or.jp/news/html/20260720/k10015181411000.html",
-        "http://www3.nhk.or.jp/news/html/20260721/k10015181561000.html",
-        "http://www3.nhk.or.jp/news/html/20260721/k10015181811000.html",
-        "http://www3.nhk.or.jp/news/html/20260721/k10015181821000.html",
-        "https://zenn.dev/mrmtsntr/articles/artgraph-spec-code-drift",
-        "https://zenn.dev/drbobt1122/articles/blog26072002",
-        "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
-        "https://www.anthropic.com/news/claude-sonnet-5",
-        "https://cursor.com/blog/agent-swarm-model-economics",
-        "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything"
-      ],
-      "titles": [
-        "岐阜・愛知で40度超え、今年初の「酷暑日」を記録——熱中症への厳重警戒が続く",
-        "中国艦艇が日本のEEZ内で機関銃射撃訓練——防衛省が確認、ロシア艦も周辺に",
-        "高市政権、初の「骨太の方針」を決定——「強い経済」実現へ財政運営を抜本転換",
-        "政府が新成長戦略を決定——2040年度までに370兆円超の官民投資を想定",
-        "エアコン国内出荷額が21%増——「エアコン2027年問題」を前に需要が急伸",
-        "仕様駆動開発の「仕様とコードのズレ」をハッシュで決定的に検出するCLIツール「artgraph」",
-        "Claude Agent SDKのサブエージェント機能でソフトウェア開発エージェントを構築する",
-        "Claude Codeを組織一括でSSO管理——「Claude apps gateway for AWS/Google Cloud」が登場",
-        "Anthropic Launches Claude Sonnet 5 — Most Agentic Sonnet Yet, Matching Opus-Class Performance",
-        "Cursor: Agent Swarms and the New Model Economics — Building SQLite from Scratch with a Multi-Agent System",
-        "Simon Willison: Reverse-Engineering Is Cheap Now — How Coding Agents Change the ROI Equation"
-      ]
-    },
-    {
-      "run_at": "2026-07-19T22:31:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6588559",
-        "https://news.yahoo.co.jp/pickup/6588563",
-        "https://news.yahoo.co.jp/pickup/6588555",
-        "https://www.jiji.com/jc/article?k=2026071900078&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071900186&g=int&m=rss",
-        "https://zenn.dev/r_kaga/articles/a27a3879dd3ce4",
-        "https://zenn.dev/jodycraft/articles/dfe38e73e1ef8a",
-        "https://www.itmedia.co.jp/news/articles/2607/17/news079.html",
-        "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-        "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-        "https://workshop.cjpais.com/projects/transcribe-cpp"
-      ],
-      "titles": [
-        "連休最終日、全国的に猛暑日が拡大——熱中症警戒アラートが相次いで発令",
-        "母娘ら3人が切りつけられ重軽傷——長男の知人が容疑者として浮上",
-        "登山中に斜面を40メートル滑落——男性が死亡、連休中の事故が相次ぐ",
-        "防衛省、X（旧Twitter）に公式アカウント開設——中国の認知戦に対抗する情報発信強化",
-        "日比南シナ海交渉に中国が猛反発——台湾、中国の船舶臨検に警戒を強める",
-        "ループエンジニアリングの本質——「ゴールまで自走する」ではなく「ループを設計・監督する」時代へ",
-        "ループの次は「グラフ」なのか——制御フロー進化論とJudgment Engineeringという新概念",
-        "中国AIも「ミュトス級」へ——Moonshot AIのKimi K3がProgram BenchでFable 5を上回る",
-        "Claude Code v2.1.181 Now Ships Bun Rewritten in Rust — Confirmed via Binary Inspection",
-        "Qwen 3.8 Launching Open-Weight Soon — Alibaba's Next Frontier Model Enters the Race",
-        "transcribe.cpp: A Trustworthy Local ASR Library Supporting 60+ Models with GPU Acceleration"
       ]
     }
   ]

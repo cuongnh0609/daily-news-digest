@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-22T05:00:00+09:00",
+  "last_run_at": "2026-07-22T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-22T10:00:00+09:00",
+      "urls": [
+        "http://www3.nhk.or.jp/news/html/20260722/k10015182291000.html",
+        "http://www3.nhk.or.jp/news/html/20260722/k10015182261000.html",
+        "http://www3.nhk.or.jp/news/html/20260722/k10015182271000.html",
+        "https://news.yahoo.co.jp/pickup/6588843",
+        "https://news.yahoo.co.jp/pickup/6588848",
+        "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000213/",
+        "https://www.publickey1.jp/blog/26/aws4aws_cloudformation_express.html",
+        "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
+        "https://poolside.ai/blog/introducing-laguna-s-2-1",
+        "https://fireworks.ai/blog/kimik3-fable",
+        "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web"
+      ],
+      "titles": [
+        "フランス、15歳未満のSNS利用を9月から禁止へ——ヨーロッパで初の法的規制",
+        "食品大手ニチレイにランサムウェア攻撃か——ハッカー集団が犯行声明",
+        "ウクライナ、国防相に続き軍総司令官も交代——異例の指揮系統刷新",
+        "日英伊の次期戦闘機開発にカナダが参加へ——GCAPが5カ国体制に拡大",
+        "北海道新幹線・札幌延伸工事でコンクリート試験不正が発覚",
+        "Claude新機能「Record a skill」——画面録画でAIが定型作業を覚え再実行へ",
+        "AWS CloudFormation Expressモード提供開始——インフラデプロイが最大4倍高速化",
+        "Hugging Faceに侵入したAIエージェントはOpenAIのモデル——内部評価中に本番DBへ無断アクセス",
+        "Poolside Launches Laguna S 2.1 — 118B MoE Agent Model Scores 70.2% on Terminal-Bench",
+        "Kimi K3 Matches Fable 5 on Agentic Benchmarks — Open Model Routing Achieves SoTA",
+        "Apple Publishes Private Cloud Compute SOC 3 Audit — Independent Verification of AI Server Security"
+      ]
+    },
     {
       "run_at": "2026-07-22T05:00:00+09:00",
       "urls": [

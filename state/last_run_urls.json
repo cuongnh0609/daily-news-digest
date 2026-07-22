@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-22T10:00:00+09:00",
+  "last_run_at": "2026-07-22T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-22T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6588891",
+        "https://news.yahoo.co.jp/pickup/6588886",
+        "https://news.yahoo.co.jp/pickup/6588873",
+        "https://www.itmedia.co.jp/news/articles/2607/22/news068.html",
+        "https://news.yahoo.co.jp/pickup/6588869",
+        "https://zenn.dev/epicai_techblog/articles/1bc0f3769bfddc",
+        "https://zenn.dev/estie/articles/f0f114389662ba",
+        "https://www.itmedia.co.jp/news/articles/2607/22/news066.html",
+        "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
+        "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "https://www.anthropic.com/news/rare-disease-research-grants"
+      ],
+      "titles": [
+        "東京38℃超え・静岡39℃台——全国各地で危険な猛暑が続く",
+        "運転手不足が深刻化——自動運転実用化が地方交通を救う鍵に",
+        "ウクライナ軍総司令官を解任——ゼレンスキー大統領が大規模な指揮系統刷新",
+        "次世代マイナンバーカード、2029年度に刷新——AIエージェント連携で情報管理を変革",
+        "大谷翔平は「打者優先」——ドジャース監督が今後の起用方針を明言",
+        "Claude Code + Notion でターミナルから一歩も出ずにタスク管理・ドキュメント生成を全自動化",
+        "自社のレビュー履歴からAIコードレビュアーを構築——カバレッジ73%・誤検知率0%を達成",
+        "MicrosoftとMistral AIが戦略提携を拡大——欧州企業向けデータ主権対応AI基盤を強化",
+        "Gemini 3.6 Flash Lands in GitHub Copilot — Parallel Tool Use and Agentic Tasks Now Available",
+        "OpenAI and Hugging Face Disclose Security Incident — OpenAI Model Accessed Production DB During Evaluation",
+        "Anthropic Launches AI for Science Rare Disease Grants — Up to $50K in Claude Credits for Researchers"
+      ]
+    },
     {
       "run_at": "2026-07-22T10:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Claude Code v2.1.181 Now Ships Bun Rewritten in Rust — Confirmed via Binary Inspection",
         "Qwen 3.8 Launching Open-Weight Soon — Alibaba's Next Frontier Model Enters the Race",
         "transcribe.cpp: A Trustworthy Local ASR Library Supporting 60+ Models with GPU Acceleration"
-      ]
-    },
-    {
-      "run_at": "2026-07-19T15:31:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6588502",
-        "https://news.yahoo.co.jp/pickup/6588505",
-        "https://news.yahoo.co.jp/pickup/6588507",
-        "https://news.yahoo.co.jp/pickup/6588500",
-        "https://www.jiji.com/jc/article?k=2026071900184&g=spo&m=rss",
-        "https://zenn.dev/tyabu12/articles/0010-code-review-path-scoped-rules",
-        "https://zenn.dev/singularity/articles/clean-code-ci-for-ai-era",
-        "https://zenn.dev/microsoft/articles/1113250e1e63dc",
-        "https://bun.sh/blog/bun-in-rust",
-        "https://www.anthropic.com/news/canadian-ai-research",
-        "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/"
-      ],
-      "titles": [
-        "21日から「災害級の暑さ」——名古屋で40℃超えの予報、各地で猛暑日が連続",
-        "静岡・御殿場のサッカー場で倒木——観客ら10人超が負傷、乳幼児も搬送",
-        "奈良の遺体2体事件——容疑者逮捕、前日に被害者らと外出か",
-        "八幡市長の産休取得が海外で相次ぎ報道——日本社会の「当然の権利」への反応に世界が驚く",
-        "佐々木麟太郎、マーリンズ入団へ——スタンフォード大からMLB挑戦を決意",
-        "Claude Codeの/code-reviewはpath-scopedルールを読み込まない——.claude/rulesの落とし穴と対策",
-        "AIが大量生成するコードの「品質崩壊」をCIで防ぐ——ESLint+SonarJS・jscpd・knipの3層ガード",
-        "Microsoft SQL MCP Server が GA——ストアドプロシージャをAIエージェントのツールとして公開する設計パターン",
-        "Bun Rewrites 535K Lines from Zig to Rust in 11 Days Using 64 Parallel Claude Instances",
-        "Anthropic Commits $10M to Canadian AI Research — API Credits for Hundreds of Startups",
-        "AI Mania Is Eviscerating Global Decision-Making — The Organizational Dysfunction Engineers Can't Escape"
-      ]
-    },
-    {
-      "run_at": "2026-07-19T11:31:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026071800305&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071900074&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026071900087&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6588460",
-        "https://www.jiji.com/jc/article?k=2026071900132&g=spo&m=rss",
-        "https://zenn.dev/arufian/articles/4676070054c347",
-        "https://zenn.dev/suuungwoo/articles/personal-ai-system-overview",
-        "https://www.itmedia.co.jp/news/articles/2607/16/news107.html",
-        "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
-        "https://deepmind.google/blog/our-approach-to-bioresilience/",
-        "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/"
-      ],
-      "titles": [
-        "世界一律10%代替関税が失効へ——日本向け新関税は12.5%に引き上げの見通し",
-        "米兵2人死亡、米軍がイランへ報復攻撃——最高指導者「覚書は無価値」と強硬姿勢",
-        "NY市長、国連総会出席なら「ネタニヤフ首相の拘束を検討する」——ICC逮捕状を根拠に",
-        "海上保安庁向け無人船を開発へ——中国の海洋進出に対処、来年度から着手",
-        "W杯サッカー——フランス敗れ、エムバペの花道飾れず　決勝はスペイン対イングランドへ",
-        "Claude Codeのスキル×サブエージェントで開発ワークフローを丸ごと自動化——デリバリー速度が3倍に",
-        "Claude CodeとCodexを「人生の秘書」にする——Personal AI System構築の全体設計を公開",
-        "NVIDIAフアンCEO「日本はJapan AIを構築するマストだ」——国産AI企業Noetraが本格始動",
-        "Simon Willison Builds SQLite Query Explainer with Claude Fable 5 — AI-Assisted Developer Tooling in Practice",
-        "Google DeepMind and Isomorphic Labs Release Joint Bioresilience Approach — AI as Defense Against Biological Threats",
-        "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem — Does the /goal Flag Actually Help?"
       ]
     }
   ]

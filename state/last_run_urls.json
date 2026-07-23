@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-23T05:00:00+09:00",
+  "last_run_at": "2026-07-23T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-23T10:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/articles/2607/23/news070.html",
+        "https://www.itmedia.co.jp/news/articles/2607/23/news066.html",
+        "https://www.itmedia.co.jp/news/articles/2607/23/news063.html",
+        "https://www.itmedia.co.jp/news/articles/2607/21/news098.html",
+        "https://www.itmedia.co.jp/news/articles/2607/23/news021.html",
+        "https://zenn.dev/mrmtsntr/articles/artgraph-spec-code-drift",
+        "https://www.publickey1.jp/blog/26/rustbunclaude_code.html",
+        "https://www.publickey1.jp/blog/26/202960.html",
+        "https://www.anthropic.com/news/claude-sonnet-5",
+        "https://dylancastillo.co/posts/pelicanmaxxing.html",
+        "https://bento.page/slides/"
+      ],
+      "titles": [
+        "SamsungとGoogleが「Android XR」スマートグラスを発表——カメラで視界を認識、最大9時間駆動",
+        "Google親会社Alphabet、AI需要で24%増収——設備投資は前年比2倍の449億ドルに急拡大",
+        "AMDとAnthropicが戦略的提携——「Helios」最大2GW導入、最大50億ドルの出資も",
+        "慶大のiPS脊髄損傷治療、最長4年の追跡調査で長期的な安全性を確認——来年度中に治験届提出へ",
+        "高校2年生が700万件漏えいに関与か——若年層のサイバー犯罪に「ホワイトハッカーに」が安直なワケ",
+        "仕様駆動開発で「仕様とコードのズレ」をハッシュで決定的に検出するツールを作った",
+        "Rust版Bun、Claude Codeに早くも本番投入——11日でZigからRustへ移植後、即座に採用",
+        "ガートナー予測：2029年までに60%の組織がより小さなエンジニアリングチームを本格展開",
+        "Introducing Claude Sonnet 5 — Anthropic's Most Agentic Sonnet Yet",
+        "Are AI Labs Pelicanmaxxing? — Testing Whether Frontier Models Are Overfit to Benchmarks",
+        "Bento: An Entire Presentation System Packed into One Self-Contained HTML File"
+      ]
+    },
     {
       "run_at": "2026-07-23T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "AI Systems Are Disproving Major Mathematical Conjectures — Formal Proof Verified in Lean",
         "Anthropic Pays $1.5B in Landmark Copyright Settlement — AI Training on Books Ruled Fair Use",
         "China's Open-Weights AI Strategy Is Winning — American Proprietary Approach Cedes the Ecosystem"
-      ]
-    },
-    {
-      "run_at": "2026-07-21T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6588760",
-        "https://news.yahoo.co.jp/pickup/6588778",
-        "https://news.yahoo.co.jp/pickup/6588679",
-        "https://news.yahoo.co.jp/pickup/6588770",
-        "https://news.yahoo.co.jp/pickup/6588686",
-        "https://zenn.dev/loglass/articles/6aa18c80496ec6",
-        "https://www.itmedia.co.jp/news/articles/2607/21/news099.html",
-        "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-        "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000207/",
-        "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-        "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/"
-      ],
-      "titles": [
-        "南鳥島沖の海底でレアアース泥を確認——資源自給に向けた新たな一歩",
-        "政府、マイナンバーカードの取得義務化を見送り——デジタル社会実現計画を改訂",
-        "42都府県に熱中症警戒アラート——東海地方では国内初の「酷暑日」観測",
-        "高市首相「0〜3時間睡眠」投稿が波紋——芥川賞作家も批判、政策判断への懸念",
-        "中国・ロシア艦艇が日本のEEZ内で実弾演習——防衛省が深刻な懸念を表明",
-        "AIに「レビューして」はもう古い——「敵対的検証」で品質を引き上げる新アプローチ",
-        "中国AI「Kimi K3」のGPU需要が爆発——Moonshot AIが新規有料登録を一時停止",
-        "GitHub Code Quality が GA——CodeQL＋AI検出で pull request ごとに品質を自動評価",
-        "OpenAI Confirms Long-Horizon AI Learns to Circumvent Safety Measures — Internal Deployment Paused",
-        "GitHub Code Quality Now Generally Available — CodeQL + AI Autofix Resolves 67% of Issues Pre-Merge",
-        "Who's Afraid of Chinese Models? — Open-Weights Strategy, Qwen 3.8 Max, and the Distillation Policy Debate"
       ]
     }
   ]

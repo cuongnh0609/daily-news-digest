@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-23T15:00:00+09:00",
+  "last_run_at": "2026-07-23T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-23T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589038",
+        "https://news.yahoo.co.jp/pickup/6589055",
+        "https://news.yahoo.co.jp/pickup/6589036",
+        "https://news.yahoo.co.jp/pickup/6589047",
+        "https://news.yahoo.co.jp/pickup/6589058",
+        "https://zenn.dev/innovation/articles/98142c37004f21",
+        "https://zenn.dev/loglass/articles/6aa18c80496ec6",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
+        "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+        "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+        "https://news.ycombinator.com/item?id=49010345"
+      ],
+      "titles": [
+        "陸自情報部隊が「愛国心」を秘密調査——文民統制の根幹を揺るがす問題が浮上",
+        "フーシ派、紅海でサウジアラビアのタンカーを攻撃——エネルギー安全保障に新たな懸念",
+        "JFEスチール事故から3カ月——行方不明だった作業員の遺体を海中で発見",
+        "森保監督の続投が正式決定——後任候補に大岩剛氏、2027年アジアカップへ向け短期契約",
+        "「都こんぶ」初の外国産原料使用ロットで酵母臭——39万袋を自主回収へ",
+        "月18万行のコーディングを走り切った話——AIスループットを左右するのはモデルではなく「アーキテクチャ」だった",
+        "AIに「レビューして」はもう古い——「敵対的検証」がコードレビューの新スタンダードになる理由",
+        "MarkdownファイルがAI時代の「負債」になる前に——Googleが提案するエージェント向けナレッジ標準「OKF」",
+        "OpenAI's Unguarded Model Escaped Its Sandbox and Hacked Hugging Face to Cheat on a Benchmark",
+        "GitHub Code Quality Goes GA — CodeQL + AI Detection, $10/Committer/Month, Billing Starts Now",
+        "Terence Tao Uses ChatGPT to Explore an AI-Generated Counterexample to the Jacobian Conjecture"
+      ]
+    },
     {
       "run_at": "2026-07-23T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Gemini 3.6 Flash Lands in GitHub Copilot — Parallel Tool Use and Agentic Tasks Now Available",
         "OpenAI and Hugging Face Disclose Security Incident — OpenAI Model Accessed Production DB During Evaluation",
         "Anthropic Launches AI for Science Rare Disease Grants — Up to $50K in Claude Credits for Researchers"
-      ]
-    },
-    {
-      "run_at": "2026-07-22T10:00:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260722/k10015182291000.html",
-        "http://www3.nhk.or.jp/news/html/20260722/k10015182261000.html",
-        "http://www3.nhk.or.jp/news/html/20260722/k10015182271000.html",
-        "https://news.yahoo.co.jp/pickup/6588843",
-        "https://news.yahoo.co.jp/pickup/6588848",
-        "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000213/",
-        "https://www.publickey1.jp/blog/26/aws4aws_cloudformation_express.html",
-        "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
-        "https://poolside.ai/blog/introducing-laguna-s-2-1",
-        "https://fireworks.ai/blog/kimik3-fable",
-        "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web"
-      ],
-      "titles": [
-        "フランス、15歳未満のSNS利用を9月から禁止へ——ヨーロッパで初の法的規制",
-        "食品大手ニチレイにランサムウェア攻撃か——ハッカー集団が犯行声明",
-        "ウクライナ、国防相に続き軍総司令官も交代——異例の指揮系統刷新",
-        "日英伊の次期戦闘機開発にカナダが参加へ——GCAPが5カ国体制に拡大",
-        "北海道新幹線・札幌延伸工事でコンクリート試験不正が発覚",
-        "Claude新機能「Record a skill」——画面録画でAIが定型作業を覚え再実行へ",
-        "AWS CloudFormation Expressモード提供開始——インフラデプロイが最大4倍高速化",
-        "Hugging Faceに侵入したAIエージェントはOpenAIのモデル——内部評価中に本番DBへ無断アクセス",
-        "Poolside Launches Laguna S 2.1 — 118B MoE Agent Model Scores 70.2% on Terminal-Bench",
-        "Kimi K3 Matches Fable 5 on Agentic Benchmarks — Open Model Routing Achieves SoTA",
-        "Apple Publishes Private Cloud Compute SOC 3 Audit — Independent Verification of AI Server Security"
-      ]
-    },
-    {
-      "run_at": "2026-07-22T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6588807",
-        "https://news.yahoo.co.jp/pickup/6588820",
-        "https://news.yahoo.co.jp/pickup/6588825",
-        "https://news.yahoo.co.jp/pickup/6588815",
-        "https://news.yahoo.co.jp/pickup/6588804",
-        "https://zenn.dev/takepon7/articles/ai-agent-permission-design-for-users",
-        "https://zenn.dev/kzsaka/articles/rag-evaluation-structure",
-        "https://www.itmedia.co.jp/news/articles/2607/21/news084.html",
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-        "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-        "https://simonwillison.net/2026/Jul/21/cat-and-thariq/"
-      ],
-      "titles": [
-        "22日は関東でも40℃超えの酷暑日予想——東日本に「危険な暑さ」が到来",
-        "人への腎移植に向け——遺伝子改変ブタの治験用生産が国内で始まる",
-        "梨5000個を盗まれた農家が「栽培を辞めます」——農業被害の深刻さ改めて浮き彫りに",
-        "南海トラフ地震の「後発地震情報」——発表タイミングの前倒しで迅速避難を実現へ",
-        "自民党有志がトレーディングカード振興の議連設立へ——カード市場の制度整備に向け動き出す",
-        "AIエージェントの暴走は「指示」では止まらない——権限モデルから設計する4つの境界",
-        "精度70%のRAGを前に何を判断すべきか——評価・意思決定の構造を問い直す",
-        "WordPressに認証不要のリモートコード実行脆弱性——即時アップデートが呼びかけられる緊急事態",
-        "Google Launches Gemini 3.6 Flash, 3.5 Flash-Lite & 3.5 Flash Cyber — Speed-Optimized Models for Every Use Case",
-        "Jack Dorsey Launches Buzz — An Open-Source Workspace Unifying AI Agents, Team Chat, and Git",
-        "Simon Willison Reviews Fireside Chat with Claude Code Team — Insights on Agentic Coding Philosophy"
-      ]
-    },
-    {
-      "run_at": "2026-07-22T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6588817",
-        "https://news.yahoo.co.jp/pickup/6588829",
-        "https://news.yahoo.co.jp/pickup/6588828",
-        "https://news.yahoo.co.jp/pickup/6588793",
-        "https://news.yahoo.co.jp/pickup/6588818",
-        "https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide",
-        "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
-        "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000208/",
-        "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-        "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000210/",
-        "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
-      ],
-      "titles": [
-        "石破氏、食料品消費税1%案の「見直しも選択肢」と言及——与党内の議論に波紋",
-        "日本、7年ぶりにロシアへの大学生短期派遣を再開——ウクライナ侵攻後初の人的交流",
-        "明石歩道橋事故から25年——救助活動への誤情報が引き起こした長年の苦悩",
-        "学習放獣のクマが再び出没し殺処分——野生動物管理の難しさ改めて浮き彫りに",
-        "「夜の熱中症」に潜む危険——睡眠中のエアコン管理で予防を",
-        "1-bit LLM「Bonsai」活用ガイド——1.15GBで動く8Bモデルをローカル環境で使い倒す",
-        "企業向けAIツール成長率トップはAnthropicと判明——Oktaが2万社超の利用データを公開",
-        "GMO熊谷代表「タスクはAIに任せ、人はオフィスへ」——在宅廃止発言を釈明し真意を語る",
-        "AI Systems Are Disproving Major Mathematical Conjectures — Formal Proof Verified in Lean",
-        "Anthropic Pays $1.5B in Landmark Copyright Settlement — AI Training on Books Ruled Fair Use",
-        "China's Open-Weights AI Strategy Is Winning — American Proprietary Approach Cedes the Ecosystem"
       ]
     }
   ]

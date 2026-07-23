@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-23T10:00:00+09:00",
+  "last_run_at": "2026-07-23T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-23T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589014",
+        "https://www.itmedia.co.jp/news/articles/2607/23/news090.html",
+        "https://news.yahoo.co.jp/pickup/6589015",
+        "https://www.itmedia.co.jp/news/articles/2607/23/news053.html",
+        "https://www.itmedia.co.jp/news/articles/2607/23/news074.html",
+        "https://zenn.dev/ququla89/articles/claude-code-subagents-and-plugins-guide",
+        "https://zenn.dev/mameresearcher/articles/ai-agent-persistent-memory-ssot",
+        "https://zenn.dev/syrup/articles/67d58b6b6381f1",
+        "https://www.anthropic.com/news/anthropic-economic-index-connector",
+        "https://github.com/cactus-compute/cactus-hybrid",
+        "https://github.com/marcelroed/gigatoken/"
+      ],
+      "titles": [
+        "三重で40.4℃を記録——国内で3日連続の酷暑日、熱中症への厳戒続く",
+        "ニチレイ、サイバー攻撃から復旧中——「今週中に全拠点で通常稼働」と発表",
+        "セブン-イレブン従業員による限定商品の転売——本部が「重大な問題」として全国店舗に警告",
+        "「クレカが使えない！」——7月16日の大規模決済障害、元凶は決済ゲートウェイCybersource",
+        "3Dアバター配信アプリ「POPOPO」、サービス終了前にMac対応——Windows技術はオープンソース化",
+        "Claude Code の能力を極限まで引き出す——カスタムSubagents設計と拡張プラグイン活用ガイド",
+        "AIエージェントの「コンテキストリセット」問題を永続メモリ層で解決する——SSOT設計のアプローチ",
+        "個人開発でインシデント対応の閉ループを再現する——AI根本原因分析からRunbook自己改善まで",
+        "Anthropic Launches Economic Index Connector — Ask Claude Directly About AI's Labor Impact",
+        "Cactus Hybrid — Teaching Small On-Device Models to Know When They're Wrong",
+        "GigaToken — Rust-Powered Tokenizer Achieves ~1000x Speed Over HuggingFace on High-Core CPUs"
+      ]
+    },
     {
       "run_at": "2026-07-23T10:00:00+09:00",
       "urls": [

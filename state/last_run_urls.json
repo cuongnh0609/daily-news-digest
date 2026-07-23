@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-23T20:00:00+09:00",
+  "last_run_at": "2026-07-24T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-24T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589070",
+        "https://news.yahoo.co.jp/pickup/6589072",
+        "https://news.yahoo.co.jp/pickup/6589068",
+        "https://news.yahoo.co.jp/pickup/6589075",
+        "https://www.itmedia.co.jp/news/articles/2607/24/news010.html",
+        "https://zenn.dev/feed",
+        "https://www.publickey1.jp/atom.xml",
+        "https://zenn.dev/feed",
+        "https://simonwillison.net/atom/everything/",
+        "https://simonwillison.net/atom/everything/",
+        "https://github.blog/changelog/feed/"
+      ],
+      "titles": [
+        "入国警備官に退職自衛官を積極採用——人手不足解消へ法務省が方針転換",
+        "愛媛の地方銀行2行が経営統合へ——最終調整段階に入り早期実現目指す",
+        "登山中の女子高校生が奥穂高岳で滑落——夏山シーズンに山岳事故が相次ぐ",
+        "大雨で北朝鮮の地雷が韓国側に流入か——韓国軍が回収・無害化を急ぐ",
+        "WordPressに認証不要の重大脆弱性——緊急パッチを適用しないサイトに攻撃リスク",
+        "1ビットLLM「Bonsai」が消費者向けハードウェアで動作——8BパラメータモデルがわずかA1.15GBで稼働",
+        "Google CloudがAI生成コードを安全に実行する「Cloud Run Sandboxes」を発表——agentシステムへの組み込みを想定",
+        "Go 1.27にネイティブUUIDサポートが標準ライブラリへ追加——外部パッケージ依存が不要に",
+        "Inside Claude Code: 65% of Anthropic's PRs Now Landed by AI — Team Reveals Prompt Engineering Has Reversed",
+        "PyPI Now Rejects File Uploads to Releases Older Than 14 Days — Supply Chain Security Tightened",
+        "GitHub Mobile Gets \"Fix with Copilot\" on Code Review Comments — One-Tap AI Fix from Your Phone"
+      ]
+    },
     {
       "run_at": "2026-07-23T20:00:00+09:00",
       "urls": [

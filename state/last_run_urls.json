@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-24T20:00:00+09:00",
+  "last_run_at": "2026-07-25T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-25T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589183",
+        "https://news.yahoo.co.jp/pickup/6589194",
+        "https://news.yahoo.co.jp/pickup/6589185",
+        "https://news.yahoo.co.jp/pickup/6589184",
+        "https://www.itmedia.co.jp/news/articles/2607/24/news096.html",
+        "https://zenn.dev/singularity/articles/diy-terminal-500-commits",
+        "https://zenn.dev/aws_japan/articles/e536274dc77a4f",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
+        "https://platform.claude.com/cookbook/",
+        "https://echo.tracerml.ai/",
+        "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent"
+      ],
+      "titles": [
+        "「副首都構想」関連法が参院本会議で成立——大規模災害時の首都機能代替を制度化",
+        "外国人の永住許可要件が厳格化へ——「厚生年金30年水準」の受給見込みを新条件に",
+        "霧島市の温泉施設で行方不明だった5歳男児の遺体確認——約700m下流で発見",
+        "大分の特別支援学校でスクールバス内に児童50分放置——安全装置の不適切な運用が原因",
+        "LINEヤフーが「LINE広告」の約3年半分のデータを誤って削除——復元不能と公表",
+        "Claude Code並列実行のためのブラウザ型ターミナル「MulmoTerminal」自作——1日500コミット超の生産性革命",
+        "LiteLLM AI GatewayをAWS公式実装でデプロイ——Claude Codeから複数モデルを統一管理する方法",
+        "中国AI「Kimi K3」をめぐる批判が示すAIサプライチェーン管理の盲点",
+        "Anthropic Launches Claude Cookbook — 100+ Production-Ready Recipes for Agents, RAG, and Multimodal Pipelines",
+        "Echo by Tracer: Open-Weight Model Ensemble Claims Fable-Class Results at One-Third the Inference Cost",
+        "GitHub Mobile Can Now Fix Failing CI Checks with Copilot Cloud Agent — One-Tap from Your Phone"
+      ]
+    },
     {
       "run_at": "2026-07-24T20:00:00+09:00",
       "urls": [

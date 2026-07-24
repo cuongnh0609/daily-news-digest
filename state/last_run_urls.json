@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-24T05:00:00+09:00",
+  "last_run_at": "2026-07-24T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-24T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589143",
+        "https://news.yahoo.co.jp/pickup/6589139",
+        "https://news.yahoo.co.jp/pickup/6589132",
+        "https://www.itmedia.co.jp/news/articles/2607/24/news070.html",
+        "https://www.itmedia.co.jp/news/articles/2607/24/news078.html",
+        "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000219/",
+        "https://zenn.dev/explaza/articles/500ded8ea67252",
+        "https://www.publickey1.jp/blog/26/net_mauiiosandoridmonocoreclrnet_11_preview_6.html",
+        "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
+        "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/",
+        "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
+      ],
+      "titles": [
+        "4日連続で酷暑日 過去最長と並ぶ——岐阜・美濃市で40℃超を観測",
+        "トランプ政権の新関税が発動——日本からの輸入品に原則12.5%適用",
+        "現職市長が産休へ——京都・八幡市の川田翔子市長、首長では初のケース",
+        "「2日かかる攻撃が25分に」生成AIで爆速化するサイバー攻撃——パロアルト識者が警鐘",
+        "ChatGPTとClaude、そろって音声機能強化——Codexでエージェントに声だけで指示も可能に",
+        "MicrosoftがGitHub CopilotとExcelで自社AIモデル「MAI」を本番投入",
+        "開発しているだけで進捗が更新される——Linear × Claude Code × GitHubで作る自動化開発フロー",
+        ".NET 11 Preview 6公開——.NET MAUIのランタイムがMonoからCoreCLRへ完全移行",
+        "GitHub MCP Server Now Supports Next MCP Specification — Streamable HTTP and OAuth 2.1 Authorization",
+        "The First Known Runaway AI Agent — or a Very Bad Marketing Stunt?",
+        "DARPA and U.S. Air Force Fly AI-Controlled F-16 — VENOM Program Achieves Historic Milestone"
+      ]
+    },
     {
       "run_at": "2026-07-24T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Launches Claude for Teachers — Free Premium AI Access for U.S. K-12 Educators",
         "GitHub Copilot Code Review Gets Deep Customization — CLAUDE.md Support, Firewall, and Runner Separation",
         "Introduction to Formal Verification with Lean — Machine-Checked Cryptographic Proofs for Developers"
-      ]
-    },
-    {
-      "run_at": "2026-07-22T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6588923",
-        "https://news.yahoo.co.jp/pickup/6588920",
-        "https://news.yahoo.co.jp/pickup/6588937",
-        "https://news.yahoo.co.jp/pickup/6588927",
-        "https://www.itmedia.co.jp/news/articles/2607/21/news051.html",
-        "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000213/",
-        "https://zenn.dev/tkada/articles/1ba97707dee14a",
-        "https://zenn.dev/green_tea/articles/e39e3726a449c9",
-        "https://ads.openai.com/",
-        "https://simonwillison.net/2026/Jul/21/nativ/",
-        "https://www.anthropic.com/news/donation-public-first-action"
-      ],
-      "titles": [
-        "23日も猛暑続く——関東内陸で酷暑日の可能性、熱中症への厳重警戒を呼びかけ",
-        "公立学校教員の精神疾患による退職が過去最多——2024年度に1319人、文科省調査",
-        "スピードスケートの高木美帆選手に国民栄誉賞——五輪通算10個のメダルを評価",
-        "マイナカードとAIエージェント連携——鍵は「権限委譲」と「リスク管理」の設計",
-        "AMD「Helios」がAzureに登場——AI推論向けラックスケールインフラでNVIDIA対抗へ",
-        "Claude新機能「Record a skill」——画面録画でAIが定型作業を記憶・再実行へ",
-        "Unity CLI でAIエージェントにゲームを作らせてみた——140コマンドで実現するエージェント駆動開発",
-        "Claude Code を2時間おきに自動起動——ROADMAP.md で育てるLoop Engineering実践",
-        "OpenAI Opens Advertising in ChatGPT — Brands Can Now Run Ads Inside AI Conversations",
-        "Nativ: A macOS Desktop App for Running Open-Source AI Models Locally via MLX",
-        "Anthropic Donates $20M to Public First Action — Doubling Down on AI Policy Influence"
       ]
     }
   ]

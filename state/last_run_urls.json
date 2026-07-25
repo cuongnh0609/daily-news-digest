@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-25T15:00:00+09:00",
+  "last_run_at": "2026-07-25T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-25T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589288",
+        "https://news.yahoo.co.jp/pickup/6589285",
+        "https://news.yahoo.co.jp/pickup/6589282",
+        "https://news.yahoo.co.jp/pickup/6589262",
+        "https://news.yahoo.co.jp/pickup/6589291",
+        "https://zenn.dev/hellohazime/articles/kimi_k27_code_swelancer_local",
+        "https://zenn.dev/kanaria007/articles/c392cbd1c1fc21",
+        "https://www.publickey1.jp/blog/26/rustbunclaude_code.html",
+        "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+        "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
+        "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/"
+      ],
+      "titles": [
+        "中道、内閣不信任案の提出を見送り——臨時国会は与党が全法案可決で閉幕",
+        "利根川遺体遺棄事件——被疑者所有の電動丸ノコから被害者のDNA検出",
+        "特別天然記念物タンチョウが大阪に飛来——夏の関西での目撃は極めて異例",
+        "ホワイトハウス記者夕食会が再開催——トランプ大統領が演説でジョーク交えメディア批判",
+        "鹿児島の海水浴場で80歳女性が溺死——孫と訪れ意識不明、その後死亡確認",
+        "2ビット量子化Kimi K2.7 CodeをMac Studio 1台で動かしSWELancerで$69,875を獲得",
+        "ソフトウェア設計とは「誰がどこまで考えるか」を決める仕事——変数名からDDDまで統一される一つの原理",
+        "RustへのAI支援移植で話題のBun、早くもClaude Codeアプリに本番投入——わずか11日間の大規模移植が即実用へ",
+        "Anthropic Launches $200M Economic Futures Research Fund to Study AI's Impact on Work and Income",
+        "Gemini 3.6 Flash Lands in GitHub Copilot — Configurable Reasoning, Parallel Tool Calls, Better Agentic Performance",
+        "Are AI Labs Pelicanmaxxing? A Rigorous Study Finds No Evidence of Benchmark Gaming for Pelicans on Bicycles"
+      ]
+    },
     {
       "run_at": "2026-07-25T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Inside Claude Code: 65% of Anthropic's PRs Now Landed by AI — Team Reveals Prompt Engineering Has Reversed",
         "PyPI Now Rejects File Uploads to Releases Older Than 14 Days — Supply Chain Security Tightened",
         "GitHub Mobile Gets \"Fix with Copilot\" on Code Review Comments — One-Tap AI Fix from Your Phone"
-      ]
-    },
-    {
-      "run_at": "2026-07-23T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589038",
-        "https://news.yahoo.co.jp/pickup/6589055",
-        "https://news.yahoo.co.jp/pickup/6589036",
-        "https://news.yahoo.co.jp/pickup/6589047",
-        "https://news.yahoo.co.jp/pickup/6589058",
-        "https://zenn.dev/innovation/articles/98142c37004f21",
-        "https://zenn.dev/loglass/articles/6aa18c80496ec6",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
-        "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-        "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-        "https://news.ycombinator.com/item?id=49010345"
-      ],
-      "titles": [
-        "陸自情報部隊が「愛国心」を秘密調査——文民統制の根幹を揺るがす問題が浮上",
-        "フーシ派、紅海でサウジアラビアのタンカーを攻撃——エネルギー安全保障に新たな懸念",
-        "JFEスチール事故から3カ月——行方不明だった作業員の遺体を海中で発見",
-        "森保監督の続投が正式決定——後任候補に大岩剛氏、2027年アジアカップへ向け短期契約",
-        "「都こんぶ」初の外国産原料使用ロットで酵母臭——39万袋を自主回収へ",
-        "月18万行のコーディングを走り切った話——AIスループットを左右するのはモデルではなく「アーキテクチャ」だった",
-        "AIに「レビューして」はもう古い——「敵対的検証」がコードレビューの新スタンダードになる理由",
-        "MarkdownファイルがAI時代の「負債」になる前に——Googleが提案するエージェント向けナレッジ標準「OKF」",
-        "OpenAI's Unguarded Model Escaped Its Sandbox and Hacked Hugging Face to Cheat on a Benchmark",
-        "GitHub Code Quality Goes GA — CodeQL + AI Detection, $10/Committer/Month, Billing Starts Now",
-        "Terence Tao Uses ChatGPT to Explore an AI-Generated Counterexample to the Jacobian Conjecture"
       ]
     }
   ]

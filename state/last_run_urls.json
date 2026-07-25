@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-25T00:00:00+09:00",
+  "last_run_at": "2026-07-25T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-25T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589204",
+        "https://news.yahoo.co.jp/pickup/6589213",
+        "https://news.yahoo.co.jp/pickup/6589200",
+        "https://news.yahoo.co.jp/pickup/6589217",
+        "https://news.yahoo.co.jp/pickup/6589219",
+        "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
+        "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
+        "https://zenn.dev/takna/articles/volta-to-mise-migration",
+        "https://www.anthropic.com/news/claude-opus-5",
+        "https://hhh.hn/hanwha-github-token/",
+        "https://www.dbos.dev/blog/postgres-listen-notify-scalability"
+      ],
+      "titles": [
+        "トランプ大統領、EU制裁金に対抗して「高関税」を警告——グーグルへの約1660億円制裁が引き金",
+        "2027年度予算の概算要求基準案が判明——AI・半導体など成長分野に「上限なし」の新枠を設置",
+        "福岡県議会の中尾副議長が議員辞職——金銭疑惑を否定したまま辞職、地元に憤りの声",
+        "福岡市で女性が橋上で死亡——ひき逃げ疑いのトラック運転手を逮捕",
+        "永井豪さんと鳥山明さんが米アイズナー賞の殿堂入り——日本漫画文化が国際的に最高峰の評価",
+        "Anthropic、「Claude Opus 5」を公開——Fable 5に迫る性能を同価格で、Computer Useで全モデル超え",
+        "AtlassianのJiraがAIエージェントへタスクを自動アサイン——Claude CodeやCopilotと連携する新機能を発表",
+        "Node.jsのバージョン管理をVoltaからmiseへ移行——Voltaが非メンテナンス状態に、公式推奨ツールが変わる",
+        "Introducing Claude Opus 5 — Near-Flagship Intelligence at Half the Cost, Tops OSWorld Computer Use",
+        "Security Camera Shipped a GitHub Admin Token in Its Login Page — Hanwha Vision Firmware Exposes CI Secrets",
+        "Postgres LISTEN/NOTIFY Actually Scales — 20x Throughput Boost to 60K Writes/Sec via Notification Batching"
+      ]
+    },
     {
       "run_at": "2026-07-25T00:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "OpenAI's Unguarded Model Escaped Its Sandbox and Hacked Hugging Face to Cheat on a Benchmark",
         "GitHub Code Quality Goes GA — CodeQL + AI Detection, $10/Committer/Month, Billing Starts Now",
         "Terence Tao Uses ChatGPT to Explore an AI-Generated Counterexample to the Jacobian Conjecture"
-      ]
-    },
-    {
-      "run_at": "2026-07-23T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589014",
-        "https://www.itmedia.co.jp/news/articles/2607/23/news090.html",
-        "https://news.yahoo.co.jp/pickup/6589015",
-        "https://www.itmedia.co.jp/news/articles/2607/23/news053.html",
-        "https://www.itmedia.co.jp/news/articles/2607/23/news074.html",
-        "https://zenn.dev/ququla89/articles/claude-code-subagents-and-plugins-guide",
-        "https://zenn.dev/mameresearcher/articles/ai-agent-persistent-memory-ssot",
-        "https://zenn.dev/syrup/articles/67d58b6b6381f1",
-        "https://www.anthropic.com/news/anthropic-economic-index-connector",
-        "https://github.com/cactus-compute/cactus-hybrid",
-        "https://github.com/marcelroed/gigatoken/"
-      ],
-      "titles": [
-        "三重で40.4℃を記録——国内で3日連続の酷暑日、熱中症への厳戒続く",
-        "ニチレイ、サイバー攻撃から復旧中——「今週中に全拠点で通常稼働」と発表",
-        "セブン-イレブン従業員による限定商品の転売——本部が「重大な問題」として全国店舗に警告",
-        "「クレカが使えない！」——7月16日の大規模決済障害、元凶は決済ゲートウェイCybersource",
-        "3Dアバター配信アプリ「POPOPO」、サービス終了前にMac対応——Windows技術はオープンソース化",
-        "Claude Code の能力を極限まで引き出す——カスタムSubagents設計と拡張プラグイン活用ガイド",
-        "AIエージェントの「コンテキストリセット」問題を永続メモリ層で解決する——SSOT設計のアプローチ",
-        "個人開発でインシデント対応の閉ループを再現する——AI根本原因分析からRunbook自己改善まで",
-        "Anthropic Launches Economic Index Connector — Ask Claude Directly About AI's Labor Impact",
-        "Cactus Hybrid — Teaching Small On-Device Models to Know When They're Wrong",
-        "GigaToken — Rust-Powered Tokenizer Achieves ~1000x Speed Over HuggingFace on High-Core CPUs"
-      ]
-    },
-    {
-      "run_at": "2026-07-23T10:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/articles/2607/23/news070.html",
-        "https://www.itmedia.co.jp/news/articles/2607/23/news066.html",
-        "https://www.itmedia.co.jp/news/articles/2607/23/news063.html",
-        "https://www.itmedia.co.jp/news/articles/2607/21/news098.html",
-        "https://www.itmedia.co.jp/news/articles/2607/23/news021.html",
-        "https://zenn.dev/mrmtsntr/articles/artgraph-spec-code-drift",
-        "https://www.publickey1.jp/blog/26/rustbunclaude_code.html",
-        "https://www.publickey1.jp/blog/26/202960.html",
-        "https://www.anthropic.com/news/claude-sonnet-5",
-        "https://dylancastillo.co/posts/pelicanmaxxing.html",
-        "https://bento.page/slides/"
-      ],
-      "titles": [
-        "SamsungとGoogleが「Android XR」スマートグラスを発表——カメラで視界を認識、最大9時間駆動",
-        "Google親会社Alphabet、AI需要で24%増収——設備投資は前年比2倍の449億ドルに急拡大",
-        "AMDとAnthropicが戦略的提携——「Helios」最大2GW導入、最大50億ドルの出資も",
-        "慶大のiPS脊髄損傷治療、最長4年の追跡調査で長期的な安全性を確認——来年度中に治験届提出へ",
-        "高校2年生が700万件漏えいに関与か——若年層のサイバー犯罪に「ホワイトハッカーに」が安直なワケ",
-        "仕様駆動開発で「仕様とコードのズレ」をハッシュで決定的に検出するツールを作った",
-        "Rust版Bun、Claude Codeに早くも本番投入——11日でZigからRustへ移植後、即座に採用",
-        "ガートナー予測：2029年までに60%の組織がより小さなエンジニアリングチームを本格展開",
-        "Introducing Claude Sonnet 5 — Anthropic's Most Agentic Sonnet Yet",
-        "Are AI Labs Pelicanmaxxing? — Testing Whether Frontier Models Are Overfit to Benchmarks",
-        "Bento: An Entire Presentation System Packed into One Self-Contained HTML File"
-      ]
-    },
-    {
-      "run_at": "2026-07-23T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6588946",
-        "https://news.yahoo.co.jp/pickup/6588960",
-        "https://www.itmedia.co.jp/news/articles/2607/22/news108.html",
-        "https://www.itmedia.co.jp/news/articles/2607/22/news069.html",
-        "https://www.itmedia.co.jp/news/articles/2607/22/news078.html",
-        "https://zenn.dev/serio/articles/c7cbdad5fc1dd1",
-        "https://zenn.dev/r_kaga/articles/a27a3879dd3ce4",
-        "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
-        "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-        "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-        "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/"
-      ],
-      "titles": [
-        "ソウル市長に有罪判決——刑が確定すれば失職の危機",
-        "離島専門の引っ越し業者が急成長——年商8億円を達成",
-        "韓国外交官情報が大規模流出か——国立外交院へのサイバー攻撃で最大1万件",
-        "KFC、システム障害から9日で全店舗が通常営業に復帰——「詫びクーポン」も配布",
-        "iPhone値上げの余波——リファービッシュ品の販売が前週比900%急増",
-        "生成AI Procthon 2026を開催——「成果物」より「過程」を競う新型ハッカソンの試み",
-        "ループエンジニアリングの本質——「自走するAI」ではなく「ループを設計する人間」へ",
-        "Claude Codeを組織全体で一元管理——「Claude apps gateway for AWS/Google Cloud」が登場",
-        "Anthropic Commits $200M to Research Economic Futures — Funding Large-Scale RCTs on AI and Labor",
-        "GitHub Copilot Gets AI Adoption Impact Dashboard — Cohort Analysis Shows Code-First vs Agent-First Developers",
-        "Reverse-Engineering Is Cheap Now — AI Coding Agents Reshape the Cost-Benefit of Undocumented API Automation"
       ]
     }
   ]

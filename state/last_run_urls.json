@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-25T20:00:00+09:00",
+  "last_run_at": "2026-07-26T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-26T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589323",
+        "https://news.yahoo.co.jp/pickup/6589322",
+        "https://news.yahoo.co.jp/pickup/6589313",
+        "https://news.yahoo.co.jp/pickup/6589310",
+        "https://news.yahoo.co.jp/pickup/6589316",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news050.html",
+        "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000220/",
+        "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000221/",
+        "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+        "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+        "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard"
+      ],
+      "titles": [
+        "内閣支持率が下落——市民が政府に求めるもの",
+        "三重県でサーフィン中の男性が溺死——夏の水難事故が相次ぐ",
+        "陸自情報部隊の元隊員が内部告発——市民への違法な思想調査が明らかに",
+        "日英伊の次期戦闘機、愛知・三菱重工が組み立て中核拠点に",
+        "カズ、4年ぶり公式戦ゴール——59歳レジェンドが天皇杯で存在感",
+        "明治安田生命がSalesforce Agentforceで保険金支払い業務を自動化——AIエージェント本番導入の実践",
+        "メルカリがAI活用の最前線を公開——CTOがCHRO兼CAIOに就任した理由とは",
+        "近畿大学が入試でAI利用を解禁——情報学部の総合型選抜で初の試み",
+        "UK & US AI Safety Institutes Publish Joint Assessment of Kimi K3's Offensive Cyber Capabilities",
+        "OpenAI's AI Model Accidentally Attacked Hugging Face During a Cybersecurity Benchmark Test",
+        "GitHub Launches Copilot AI Adoption Phases Dashboard — Track Who Is Code-First, Agent-First, or Multi-Agent"
+      ]
+    },
     {
       "run_at": "2026-07-25T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Why Software Factories Fail — Harness Engineering Is Not Enough for Agentic Systems",
         "GitHub Issues Gets Agent Automation Controls — Confidence Scores, Rationale, and Approvals in Public Preview",
         "JEP 540: Java Gets a Simple JSON API in Incubator — Standard Library Parsing Without Third-Party Deps"
-      ]
-    },
-    {
-      "run_at": "2026-07-24T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589070",
-        "https://news.yahoo.co.jp/pickup/6589072",
-        "https://news.yahoo.co.jp/pickup/6589068",
-        "https://news.yahoo.co.jp/pickup/6589075",
-        "https://www.itmedia.co.jp/news/articles/2607/24/news010.html",
-        "https://zenn.dev/feed",
-        "https://www.publickey1.jp/atom.xml",
-        "https://zenn.dev/feed",
-        "https://simonwillison.net/atom/everything/",
-        "https://simonwillison.net/atom/everything/",
-        "https://github.blog/changelog/feed/"
-      ],
-      "titles": [
-        "入国警備官に退職自衛官を積極採用——人手不足解消へ法務省が方針転換",
-        "愛媛の地方銀行2行が経営統合へ——最終調整段階に入り早期実現目指す",
-        "登山中の女子高校生が奥穂高岳で滑落——夏山シーズンに山岳事故が相次ぐ",
-        "大雨で北朝鮮の地雷が韓国側に流入か——韓国軍が回収・無害化を急ぐ",
-        "WordPressに認証不要の重大脆弱性——緊急パッチを適用しないサイトに攻撃リスク",
-        "1ビットLLM「Bonsai」が消費者向けハードウェアで動作——8BパラメータモデルがわずかA1.15GBで稼働",
-        "Google CloudがAI生成コードを安全に実行する「Cloud Run Sandboxes」を発表——agentシステムへの組み込みを想定",
-        "Go 1.27にネイティブUUIDサポートが標準ライブラリへ追加——外部パッケージ依存が不要に",
-        "Inside Claude Code: 65% of Anthropic's PRs Now Landed by AI — Team Reveals Prompt Engineering Has Reversed",
-        "PyPI Now Rejects File Uploads to Releases Older Than 14 Days — Supply Chain Security Tightened",
-        "GitHub Mobile Gets \"Fix with Copilot\" on Code Review Comments — One-Tap AI Fix from Your Phone"
       ]
     }
   ]

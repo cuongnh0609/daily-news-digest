@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-26T20:00:00+09:00",
+  "last_run_at": "2026-07-27T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-27T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589421",
+        "https://news.yahoo.co.jp/pickup/6589414",
+        "https://news.yahoo.co.jp/pickup/6589417",
+        "https://news.yahoo.co.jp/pickup/6589426",
+        "https://news.yahoo.co.jp/pickup/6589416",
+        "https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix",
+        "https://zenn.dev/singularity/articles/diy-terminal-500-commits",
+        "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
+        "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/",
+        "https://www.debian.org/vote/2026/vote_002",
+        "https://huggingface.co/owensong/Inflect-Micro-v2"
+      ],
+      "titles": [
+        "イラン、報復を一時休止——米軍の空爆停止を受け緊張緩和の兆し",
+        "高市首相、強気の国会運営に党内からも異論——支持率下落が続く",
+        "大阪自民、副首都指定「年内にも実現を」——維新との駆け引き激化",
+        "大谷翔平、PS前に投手復帰を慎重判断——ドジャース「10月が大事」",
+        "女性天皇容認に国民の81%が賛成——皇位継承議論が再び活発化",
+        "Claude Opus 5で「思考が浅くなる」問題——システムプロンプト80%削減が原因、対策を徹底解説",
+        "ブラウザ型ターミナル「MulmoTerminal」で1日500コミット——複数AIエージェントを並列管理する新手法",
+        "企業向けAI成長率トップはAnthropic——Okta調査、4年間でOpenAIを大きく上回る",
+        "The First Known Runaway AI Agent — Or a Very Bad Marketing Stunt?",
+        "Debian Votes on LLM Usage — Four Competing Proposals from Full Ban to Open Acceptance",
+        "Inflect-Micro-v2: Complete Voice Synthesis in 9.36M Parameters — 37MB, 6× Faster Than Real-Time on CPU"
+      ]
+    },
     {
       "run_at": "2026-07-26T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Launches Claude Opus 5 — Near-Fable Intelligence at Half the Cost, Tops OSWorld and ARC-AGI 3",
         "Claude Opus 5 Now Available in GitHub Copilot — Agentic Coding at Near-Fable Performance for Pro+ and Enterprise",
         "Claude Opus 5 Is Anthropic's Most Prompt-Injection-Resistant Model Yet — Security Buried in System Card Page 73"
-      ]
-    },
-    {
-      "run_at": "2026-07-25T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589204",
-        "https://news.yahoo.co.jp/pickup/6589213",
-        "https://news.yahoo.co.jp/pickup/6589200",
-        "https://news.yahoo.co.jp/pickup/6589217",
-        "https://news.yahoo.co.jp/pickup/6589219",
-        "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
-        "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
-        "https://zenn.dev/takna/articles/volta-to-mise-migration",
-        "https://www.anthropic.com/news/claude-opus-5",
-        "https://hhh.hn/hanwha-github-token/",
-        "https://www.dbos.dev/blog/postgres-listen-notify-scalability"
-      ],
-      "titles": [
-        "トランプ大統領、EU制裁金に対抗して「高関税」を警告——グーグルへの約1660億円制裁が引き金",
-        "2027年度予算の概算要求基準案が判明——AI・半導体など成長分野に「上限なし」の新枠を設置",
-        "福岡県議会の中尾副議長が議員辞職——金銭疑惑を否定したまま辞職、地元に憤りの声",
-        "福岡市で女性が橋上で死亡——ひき逃げ疑いのトラック運転手を逮捕",
-        "永井豪さんと鳥山明さんが米アイズナー賞の殿堂入り——日本漫画文化が国際的に最高峰の評価",
-        "Anthropic、「Claude Opus 5」を公開——Fable 5に迫る性能を同価格で、Computer Useで全モデル超え",
-        "AtlassianのJiraがAIエージェントへタスクを自動アサイン——Claude CodeやCopilotと連携する新機能を発表",
-        "Node.jsのバージョン管理をVoltaからmiseへ移行——Voltaが非メンテナンス状態に、公式推奨ツールが変わる",
-        "Introducing Claude Opus 5 — Near-Flagship Intelligence at Half the Cost, Tops OSWorld Computer Use",
-        "Security Camera Shipped a GitHub Admin Token in Its Login Page — Hanwha Vision Firmware Exposes CI Secrets",
-        "Postgres LISTEN/NOTIFY Actually Scales — 20x Throughput Boost to 60K Writes/Sec via Notification Batching"
       ]
     }
   ]

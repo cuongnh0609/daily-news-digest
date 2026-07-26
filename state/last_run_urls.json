@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-26T15:00:00+09:00",
+  "last_run_at": "2026-07-26T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-26T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589398",
+        "https://news.yahoo.co.jp/pickup/6589399",
+        "https://news.yahoo.co.jp/pickup/6589403",
+        "https://news.yahoo.co.jp/pickup/6589392",
+        "https://news.yahoo.co.jp/pickup/6589389",
+        "https://zenn.dev/explaza/articles/500ded8ea67252",
+        "https://www.itmedia.co.jp/news/articles/2607/24/news078.html",
+        "https://zenn.dev/scalar_sol_blog/articles/6fa517a84cb7ff",
+        "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview/",
+        "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification/",
+        "https://blog.cloudflare.com/content-independence-day-ai-options/"
+      ],
+      "titles": [
+        "来週は九州で観測史上初の酷暑日か——全国的に危険な暑さが続く見通し",
+        "相模原殺傷事件から10年——障害者家族の9割が「事件の風化」を実感",
+        "大相撲名古屋場所——安青錦が3場所ぶり3度目の優勝、大関復帰場所で快挙",
+        "小5男児3人が「ヘイ Siri」で119番——倒れた高齢女性を機転利かせ救護",
+        "高知のゴルフ場でカートから70代男性が転落死——安全対策の徹底が課題",
+        "開発しているだけで進捗が更新される——Linear × Claude Code × GitHub 自動化ワークフロー",
+        "ChatGPTとClaude、音声機能を同時強化——Codexエージェントへの音声指示も解禁",
+        "Terraform・Kubernetes初心者がコードレビューで繰り返し指摘される7つのポイント",
+        "GitHub Launches Agent Automation Controls in Issues — Approvals, Confidence Ratings & Audit Trails",
+        "GitHub MCP Server Goes Stateless — Supports Next MCP Spec Ahead of July 28 Protocol Shift",
+        "Cloudflare's AI Traffic Options: Granular Bot Control — Search, Agent, and Training Bots Now Separately Managed"
+      ]
+    },
     {
       "run_at": "2026-07-26T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Introducing Claude Opus 5 — Near-Flagship Intelligence at Half the Cost, Tops OSWorld Computer Use",
         "Security Camera Shipped a GitHub Admin Token in Its Login Page — Hanwha Vision Firmware Exposes CI Secrets",
         "Postgres LISTEN/NOTIFY Actually Scales — 20x Throughput Boost to 60K Writes/Sec via Notification Batching"
-      ]
-    },
-    {
-      "run_at": "2026-07-25T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589183",
-        "https://news.yahoo.co.jp/pickup/6589194",
-        "https://news.yahoo.co.jp/pickup/6589185",
-        "https://news.yahoo.co.jp/pickup/6589184",
-        "https://www.itmedia.co.jp/news/articles/2607/24/news096.html",
-        "https://zenn.dev/singularity/articles/diy-terminal-500-commits",
-        "https://zenn.dev/aws_japan/articles/e536274dc77a4f",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
-        "https://platform.claude.com/cookbook/",
-        "https://echo.tracerml.ai/",
-        "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent"
-      ],
-      "titles": [
-        "「副首都構想」関連法が参院本会議で成立——大規模災害時の首都機能代替を制度化",
-        "外国人の永住許可要件が厳格化へ——「厚生年金30年水準」の受給見込みを新条件に",
-        "霧島市の温泉施設で行方不明だった5歳男児の遺体確認——約700m下流で発見",
-        "大分の特別支援学校でスクールバス内に児童50分放置——安全装置の不適切な運用が原因",
-        "LINEヤフーが「LINE広告」の約3年半分のデータを誤って削除——復元不能と公表",
-        "Claude Code並列実行のためのブラウザ型ターミナル「MulmoTerminal」自作——1日500コミット超の生産性革命",
-        "LiteLLM AI GatewayをAWS公式実装でデプロイ——Claude Codeから複数モデルを統一管理する方法",
-        "中国AI「Kimi K3」をめぐる批判が示すAIサプライチェーン管理の盲点",
-        "Anthropic Launches Claude Cookbook — 100+ Production-Ready Recipes for Agents, RAG, and Multimodal Pipelines",
-        "Echo by Tracer: Open-Weight Model Ensemble Claims Fable-Class Results at One-Third the Inference Cost",
-        "GitHub Mobile Can Now Fix Failing CI Checks with Copilot Cloud Agent — One-Tap from Your Phone"
       ]
     }
   ]

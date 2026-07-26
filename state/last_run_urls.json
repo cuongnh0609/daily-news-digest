@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-26T10:00:00+09:00",
+  "last_run_at": "2026-07-26T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-26T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589375",
+        "https://news.yahoo.co.jp/pickup/6589374",
+        "https://news.yahoo.co.jp/pickup/6589366",
+        "https://news.yahoo.co.jp/pickup/6589358",
+        "https://news.yahoo.co.jp/pickup/6589379",
+        "https://zenn.dev/manalink_dev/articles/domain-driven-development-process",
+        "https://zenn.dev/layerx/articles/f7124d4e761c1f",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
+        "https://github.com/slvDev/esp32-ai",
+        "https://www.anthropic.com/news/anthropic-economic-index-connector",
+        "https://simonwillison.net/2026/Jul/25/ruff/"
+      ],
+      "titles": [
+        "親子ら3人海に流され父死亡 茨城",
+        "「不登校離職」母は父の30倍 調査",
+        "飛鳥・藤原 首相「世界の宝に」",
+        "日中外相接触 関係改善の道険しく",
+        "岡田紗佳が歌手に 目標はMステ",
+        "ドメイン駆動設計から、ドメイン駆動開発プロセスの時代へ",
+        "Go 1.27 から uuid 実装がサポートされる！",
+        "GoogleがAIエージェント向け知識標準フォーマット「OKF」を提案",
+        "Running a 28.9M parameter LLM on an $8 microcontroller",
+        "Ask Claude about the Anthropic Economic Index",
+        "Ruff v0.16.0 expands default lint rules from 59 to 413"
+      ]
+    },
     {
       "run_at": "2026-07-26T10:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "Anthropic Launches Claude Cookbook — 100+ Production-Ready Recipes for Agents, RAG, and Multimodal Pipelines",
         "Echo by Tracer: Open-Weight Model Ensemble Claims Fable-Class Results at One-Third the Inference Cost",
         "GitHub Mobile Can Now Fix Failing CI Checks with Copilot Cloud Agent — One-Tap from Your Phone"
-      ]
-    },
-    {
-      "run_at": "2026-07-24T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589168",
-        "https://news.yahoo.co.jp/pickup/6589165",
-        "https://news.yahoo.co.jp/pickup/6589149",
-        "https://www.itmedia.co.jp/news/articles/2607/24/news086.html",
-        "https://news.yahoo.co.jp/pickup/6589167",
-        "https://www.itmedia.co.jp/aiplus/article/2607/23/2000000216/",
-        "https://zenn.dev/green_tea/articles/e39e3726a449c9",
-        "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000219/",
-        "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-        "https://simonwillison.net/2026/Jul/21/cat-and-thariq/",
-        "https://bfl.ai/blog/flux-3"
-      ],
-      "titles": [
-        "不法残留外国人の摘発を強化へ——政府が入管職員230人増員方針を決定",
-        "南鳥島沖レアアース泥の分析結果を公表——ハイテク製品に不可欠な資源の国内確保へ前進",
-        "世界銀行が中国への融資を2031年までに段階的廃止——米国の圧力が背景に",
-        "総務省がGoogle・X・Meta等5社に勧告——誹謗中傷対策の報告義務を怠ると判断",
-        "仙台・八木山動物公園でフンボルトペンギン4羽が相次いで死亡——原因は熱中症でも鳥インフルでもなし",
-        "Claude Code macOSアプリがiOSシミュレータと連携——Computer Use不要でiOSアプリを自律的に操作・テスト",
-        "Claude Codeを2時間おきに回すループエンジニアリング実践——「ループを設計すること」が開発者の新しい仕事になった",
-        "MicrosoftがGitHub CopilotとExcelに自社開発AI「MAI」を本番投入——GPT・Claudeより採用率10%高いと報告",
-        "GitHub Copilot Cloud Agent for Linear Goes GA — Autonomous Issue-to-PR Pipeline Now in Production",
-        "Inside Claude Code: 65% of Anthropic PRs Now Landed by AI — Team Reveals Prompt Engineering Has Reversed",
-        "FLUX 3: Black Forest Labs Releases Unified Multimodal Foundation Model for Images, Video, and Audio"
-      ]
-    },
-    {
-      "run_at": "2026-07-24T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589143",
-        "https://news.yahoo.co.jp/pickup/6589139",
-        "https://news.yahoo.co.jp/pickup/6589132",
-        "https://www.itmedia.co.jp/news/articles/2607/24/news070.html",
-        "https://www.itmedia.co.jp/news/articles/2607/24/news078.html",
-        "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000219/",
-        "https://zenn.dev/explaza/articles/500ded8ea67252",
-        "https://www.publickey1.jp/blog/26/net_mauiiosandoridmonocoreclrnet_11_preview_6.html",
-        "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-        "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/",
-        "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
-      ],
-      "titles": [
-        "4日連続で酷暑日 過去最長と並ぶ——岐阜・美濃市で40℃超を観測",
-        "トランプ政権の新関税が発動——日本からの輸入品に原則12.5%適用",
-        "現職市長が産休へ——京都・八幡市の川田翔子市長、首長では初のケース",
-        "「2日かかる攻撃が25分に」生成AIで爆速化するサイバー攻撃——パロアルト識者が警鐘",
-        "ChatGPTとClaude、そろって音声機能強化——Codexでエージェントに声だけで指示も可能に",
-        "MicrosoftがGitHub CopilotとExcelで自社AIモデル「MAI」を本番投入",
-        "開発しているだけで進捗が更新される——Linear × Claude Code × GitHubで作る自動化開発フロー",
-        ".NET 11 Preview 6公開——.NET MAUIのランタイムがMonoからCoreCLRへ完全移行",
-        "GitHub MCP Server Now Supports Next MCP Specification — Streamable HTTP and OAuth 2.1 Authorization",
-        "The First Known Runaway AI Agent — or a Very Bad Marketing Stunt?",
-        "DARPA and U.S. Air Force Fly AI-Controlled F-16 — VENOM Program Achieves Historic Milestone"
-      ]
-    },
-    {
-      "run_at": "2026-07-24T05:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/articles/2607/23/news115.html",
-        "https://www.itmedia.co.jp/news/articles/2607/23/news104.html",
-        "https://www.itmedia.co.jp/news/articles/2607/23/news105.html",
-        "https://www.itmedia.co.jp/news/articles/2607/23/news116.html",
-        "https://www.itmedia.co.jp/news/articles/2607/22/news090.html",
-        "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
-        "https://zenn.dev/mhackit/articles/vector-search-vector-explained",
-        "https://www.publickey1.jp/blog/26/aws4aws_cloudformation_express.html",
-        "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-        "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-        "https://openjdk.org/jeps/540"
-      ],
-      "titles": [
-        "「サナエトークン」問題——首相秘書が陳述書で関与を全否定",
-        "PayPayとセブン-イレブンが顧客ID統合へ——国内最大級1億超のポイント経済圏が誕生か",
-        "米政府が中国AI「Kimi K3」を批判——Anthropic「Fable」を無断蒸留との疑惑",
-        "「人間洗濯機」が高齢者施設へ——大阪万博技術が介護現場に実用展開",
-        "任天堂のゲーム特許を特許庁が拒絶——著作権を巡り異例の攻防",
-        "企業向けAIで成長率トップはAnthropic——Okta調査、アカウント数首位はMicrosoft 365",
-        "ベクトル検索の「ベクトル」とは何か——RAGを支える数学的基盤をわかりやすく解説",
-        "AWS CloudFormation Expressモードで最大4倍高速デプロイ——待機ロジック廃止が鍵",
-        "Why Software Factories Fail — Harness Engineering Is Not Enough for Agentic Systems",
-        "GitHub Issues Gets Agent Automation Controls — Confidence Scores, Rationale, and Approvals in Public Preview",
-        "JEP 540: Java Gets a Simple JSON API in Incubator — Standard Library Parsing Without Third-Party Deps"
       ]
     }
   ]

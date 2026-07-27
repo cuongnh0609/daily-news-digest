@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-27T10:00:00+09:00",
+  "last_run_at": "2026-07-27T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-27T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589476",
+        "https://news.yahoo.co.jp/pickup/6589481",
+        "https://news.yahoo.co.jp/pickup/6589485",
+        "https://news.yahoo.co.jp/pickup/6589490",
+        "https://news.yahoo.co.jp/pickup/6589491",
+        "https://zenn.dev/uhyo/articles/react-profession-bench-14",
+        "https://zenn.dev/microsoft/articles/agent-framework-harness-agent",
+        "https://www.itmedia.co.jp/news/articles/2607/23/news063.html",
+        "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+        "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+        "https://www.itmedia.co.jp/news/articles/2607/23/news063.html"
+      ],
+      "titles": [
+        "東日本で夜にかけて激しい雷雨のおそれ——西日本は危険な暑さが継続",
+        "大谷翔平の打撃不振にロバーツ監督が苦言——「芯で捉えられていない」",
+        "「1回の登山で2度遭難」が相次ぐ——夏山シーズン、救助隊が悲痛な訴え",
+        "可搬式オービス盗難事件——埼玉で配送業の男を逮捕、装置は未発見",
+        "「攻めた題材」の漫画がアニメ化ラッシュ——2026年、衝撃作が相次いで映像化",
+        "Claude Opus 5がReact習熟度ベンチマークでFable 5を超える——最高スコア90.28点を達成",
+        "Microsoft Agent Framework、PlanモードとTodo管理対応の「HarnessAgent」がGA",
+        "AMDとAnthropicが戦略的提携——「Helios」インフラで最大2GW、最大50億ドルの投資",
+        "OpenAI's AI Model Broke Out of Its Sandbox and Hacked Hugging Face to Cheat on a Benchmark",
+        "GitHub Launches Copilot Usage Metrics Impact Dashboard — Cohort-Based AI Adoption Analytics",
+        "AMD and Anthropic Forge Strategic Partnership Around Helios — Up to 2GW and $5B"
+      ]
+    },
     {
       "run_at": "2026-07-27T10:00:00+09:00",
       "urls": [
@@ -171,35 +200,6 @@
         "Meta、Facebookに本人確認バッジ「Facebook Verified」を無料導入——自撮り動画で認証",
         "Open-Weight AI Is Having Its Kubernetes Moment",
         "Anthropic Donates Another $20M to Public First Action — Totaling $40M for AI Policy Education"
-      ]
-    },
-    {
-      "run_at": "2026-07-26T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589304",
-        "https://news.yahoo.co.jp/pickup/6589298",
-        "https://news.yahoo.co.jp/pickup/6589259",
-        "https://news.yahoo.co.jp/pickup/6589250",
-        "https://www.itmedia.co.jp/news/articles/2607/24/news098.html",
-        "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000215/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news052.html",
-        "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-        "https://www.anthropic.com/news/claude-for-teachers",
-        "https://www.anthropic.com/news/rare-disease-research-grants"
-      ],
-      "titles": [
-        "日本赤軍の岡本公三容疑者が死去——1972年テルアビブ空港事件の実行犯、レバノンで肺合併症により",
-        "副首都構想で大阪・福岡・愛知が名乗り——複数指定の可能性、北海道・宮城も名乗り上げ",
-        "防災庁の地方拠点に全国45団体が誘致表明——11月発足に向け自治体間の競争が激化",
-        "ギャンブルの「主戦場」がスマホへ——オンライン賭博拡大で若年層の依存症と多重債務が深刻化",
-        "平日のネット利用「4時間以上」で抑うつ傾向——富山大が就労世代を対象に調査",
-        "GoogleがAIエージェントを「信頼しない」前提で設計——「AI Control Roadmap」でゼロトラストをAI運用に適用",
-        "GoogleがAIエージェント向け知識標準フォーマット「OKF」を提案——MarkdownとYAMLで知識を管理する新設計",
-        "ClaudeやGPTより安く、日本企業向けに最適化——国産AI推論プラットフォーム「ai&」が複数モデルを一元管理",
-        "Android May Restrict On-Device ADB — Proposed Change Would Break Shizuku and Developer Tooling Ecosystem",
-        "Anthropic Launches Claude for Teachers — Free Premium Access for U.S. K-12 Educators with State-Aligned Curricula",
-        "Anthropic Opens AI for Science Grants for Rare Disease Research — Up to $50K in Claude Credits, Deadline August 2"
       ]
     }
   ]

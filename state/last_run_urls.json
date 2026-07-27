@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-27T05:00:00+09:00",
+  "last_run_at": "2026-07-27T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-27T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589447",
+        "https://news.yahoo.co.jp/pickup/6589433",
+        "https://news.yahoo.co.jp/pickup/6589397",
+        "https://www.itmedia.co.jp/news/articles/2607/27/news047.html",
+        "https://www.itmedia.co.jp/news/articles/2607/24/news086.html",
+        "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
+        "https://zenn.dev/loglass/articles/ef099b123153cf",
+        "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
+        "https://www.anthropic.com/news/claude-opus-5",
+        "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+        "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and"
+      ],
+      "titles": [
+        "各地で猛烈な暑さ続く——九州で観測史上初の「酷暑日」か、熱中症対策に全国が緊迫",
+        "高市内閣支持率が57%に急落——「説明不十分」62%、発足以来の最低水準",
+        "副首都法の議論「不十分」が66%——内閣支持率が発足後最低、皇位継承改革も半数が「不明」",
+        "ウィリアム・ギブスンの「ニューロマンサー」、Apple TV+で実写ドラマ化——2027年1月に全10話配信へ",
+        "総務省、GoogleやXなど5社を情プラ法違反で勧告——誹謗中傷対策の報告義務を怠ったと判断",
+        "Jiraが要件定義を自動生成——ClaudeやCopilotなどAIエージェントへのタスクアサインも実現",
+        "AI時代のエンジニアリングマネージャーのあり方——外部品質KPIをAIで自動集計し、経営と現場をつなぐ新手法",
+        "Anthropic、「Claude Opus 5」を公開——Fable 5に迫る性能を半額で提供、ARC-AGI 3で前世代比3倍の改善",
+        "Anthropic Launches Claude Opus 5: Frontier Intelligence at Half the Price of Fable 5",
+        "Claude Opus 5 Arrives in GitHub Copilot — Designed for Complex, Long-Running Agentic Coding Tasks",
+        "The New AI Superpowers Are Focus and Followthrough — Why Speed Without Discipline Creates More Burnout"
+      ]
+    },
     {
       "run_at": "2026-07-27T05:00:00+09:00",
       "urls": [
@@ -171,64 +200,6 @@
         "Android May Restrict On-Device ADB — Proposed Change Would Break Shizuku and Developer Tooling Ecosystem",
         "Anthropic Launches Claude for Teachers — Free Premium Access for U.S. K-12 Educators with State-Aligned Curricula",
         "Anthropic Opens AI for Science Grants for Rare Disease Research — Up to $50K in Claude Credits, Deadline August 2"
-      ]
-    },
-    {
-      "run_at": "2026-07-26T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589323",
-        "https://news.yahoo.co.jp/pickup/6589322",
-        "https://news.yahoo.co.jp/pickup/6589313",
-        "https://news.yahoo.co.jp/pickup/6589310",
-        "https://news.yahoo.co.jp/pickup/6589316",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news050.html",
-        "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000220/",
-        "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000221/",
-        "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-        "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-        "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard"
-      ],
-      "titles": [
-        "内閣支持率が下落——市民が政府に求めるもの",
-        "三重県でサーフィン中の男性が溺死——夏の水難事故が相次ぐ",
-        "陸自情報部隊の元隊員が内部告発——市民への違法な思想調査が明らかに",
-        "日英伊の次期戦闘機、愛知・三菱重工が組み立て中核拠点に",
-        "カズ、4年ぶり公式戦ゴール——59歳レジェンドが天皇杯で存在感",
-        "明治安田生命がSalesforce Agentforceで保険金支払い業務を自動化——AIエージェント本番導入の実践",
-        "メルカリがAI活用の最前線を公開——CTOがCHRO兼CAIOに就任した理由とは",
-        "近畿大学が入試でAI利用を解禁——情報学部の総合型選抜で初の試み",
-        "UK & US AI Safety Institutes Publish Joint Assessment of Kimi K3's Offensive Cyber Capabilities",
-        "OpenAI's AI Model Accidentally Attacked Hugging Face During a Cybersecurity Benchmark Test",
-        "GitHub Launches Copilot AI Adoption Phases Dashboard — Track Who Is Code-First, Agent-First, or Multi-Agent"
-      ]
-    },
-    {
-      "run_at": "2026-07-25T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589288",
-        "https://news.yahoo.co.jp/pickup/6589285",
-        "https://news.yahoo.co.jp/pickup/6589282",
-        "https://news.yahoo.co.jp/pickup/6589262",
-        "https://news.yahoo.co.jp/pickup/6589291",
-        "https://zenn.dev/hellohazime/articles/kimi_k27_code_swelancer_local",
-        "https://zenn.dev/kanaria007/articles/c392cbd1c1fc21",
-        "https://www.publickey1.jp/blog/26/rustbunclaude_code.html",
-        "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-        "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-        "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/"
-      ],
-      "titles": [
-        "中道、内閣不信任案の提出を見送り——臨時国会は与党が全法案可決で閉幕",
-        "利根川遺体遺棄事件——被疑者所有の電動丸ノコから被害者のDNA検出",
-        "特別天然記念物タンチョウが大阪に飛来——夏の関西での目撃は極めて異例",
-        "ホワイトハウス記者夕食会が再開催——トランプ大統領が演説でジョーク交えメディア批判",
-        "鹿児島の海水浴場で80歳女性が溺死——孫と訪れ意識不明、その後死亡確認",
-        "2ビット量子化Kimi K2.7 CodeをMac Studio 1台で動かしSWELancerで$69,875を獲得",
-        "ソフトウェア設計とは「誰がどこまで考えるか」を決める仕事——変数名からDDDまで統一される一つの原理",
-        "RustへのAI支援移植で話題のBun、早くもClaude Codeアプリに本番投入——わずか11日間の大規模移植が即実用へ",
-        "Anthropic Launches $200M Economic Futures Research Fund to Study AI's Impact on Work and Income",
-        "Gemini 3.6 Flash Lands in GitHub Copilot — Configurable Reasoning, Parallel Tool Calls, Better Agentic Performance",
-        "Are AI Labs Pelicanmaxxing? A Rigorous Study Finds No Evidence of Benchmark Gaming for Pelicans on Bicycles"
       ]
     }
   ]

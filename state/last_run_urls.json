@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-27T20:20:00+09:00",
+  "last_run_at": "2026-07-28T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-28T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589556",
+        "https://news.yahoo.co.jp/pickup/6589547",
+        "https://news.yahoo.co.jp/pickup/6589553",
+        "https://news.yahoo.co.jp/pickup/6589555",
+        "https://news.yahoo.co.jp/pickup/6589542",
+        "https://zenn.dev/singularity/articles/stopped-reviewing-my-code",
+        "https://zenn.dev/kimkiyong/articles/664e7527e9c356",
+        "https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html",
+        "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+        "https://github.com/vercel-labs/scriptc",
+        "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html"
+      ],
+      "titles": [
+        "食料品の消費税を2年間1%に――政府・与党が来年4月からの方針を固める",
+        "自民党が「外国干渉防止法」創設を提言――SNS工作に刑事罰を科す方針",
+        "北海道大学がアイヌ遺骨研究を正式謝罪――「尊厳を深く傷つけた」と総長声明",
+        "海上保安庁が同志社国際高校を家宅捜索――辺野古沖の船転覆事故で",
+        "霧島の温泉施設で行方不明の5歳男児――遺体発見から10日、父が単独取材に応じる",
+        "1日500コミットは、もう読めない ── だからコードレビューをやめた",
+        "Claude Code から Codex CLI に乗り換える前に知っておきたい機能差（2026年7月版）",
+        "Vercel、TypeScriptをC言語経由でネイティブバイナリにコンパイルする「scriptc」を公開",
+        "US Citizen Charged After GrapheneOS Phone Auto-Wipes During Airport Search",
+        "Scriptc by Vercel: TypeScript Compiled to Native Binaries via C — No JavaScript Engine Required",
+        "How Is the Bun Rewrite in Rust Going? A Detailed Progress Report"
+      ]
+    },
     {
       "run_at": "2026-07-27T20:20:00+09:00",
       "urls": [
@@ -202,33 +231,6 @@
         "Running a 28.9M parameter LLM on an $8 microcontroller",
         "Ask Claude about the Anthropic Economic Index",
         "Ruff v0.16.0 expands default lint rules from 59 to 413"
-      ]
-    },
-    {
-      "run_at": "2026-07-26T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589345",
-        "https://news.yahoo.co.jp/pickup/6589335",
-        "https://news.yahoo.co.jp/pickup/6589337",
-        "https://news.yahoo.co.jp/pickup/6589330",
-        "https://news.yahoo.co.jp/pickup/6589342",
-        "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
-        "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "https://www.itmedia.co.jp/news/articles/2607/26/news015.html",
-        "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-        "https://www.anthropic.com/news/donation-public-first-action"
-      ],
-      "titles": [
-        "トランプ米大統領、イランへの追加空爆の中止を軍に指示か",
-        "大谷翔平、2度目のブルペン投球を回避——ドジャース監督「8月中には」",
-        "カザフスタン、プーチン大統領にウクライナ侵攻の「凍結」を提言——異例の直接進言",
-        "VIVANT続編、壮大な宣伝戦略で「第11話」スタート——ファンの考察熱が再燃",
-        "森保監督、全国高校総体サッカーにサプライズ登場——「代表で待ってるよ」と激励",
-        "MicrosoftやNVIDIAなどがAIオープンウェイト規制に反対する公開書簡を発表——Anthropicは署名せず",
-        "Anthropic、Claude 5世代モデル向け「コンテキストエンジニアリングの新ルール」を公開——80%削減でも性能維持",
-        "Meta、Facebookに本人確認バッジ「Facebook Verified」を無料導入——自撮り動画で認証",
-        "Open-Weight AI Is Having Its Kubernetes Moment",
-        "Anthropic Donates Another $20M to Public First Action — Totaling $40M for AI Policy Education"
       ]
     }
   ]

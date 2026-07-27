@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-28T00:00:00+09:00",
+  "last_run_at": "2026-07-28T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-28T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589557",
+        "https://news.yahoo.co.jp/pickup/6589510",
+        "https://news.yahoo.co.jp/pickup/6589540",
+        "https://news.yahoo.co.jp/pickup/6589560",
+        "https://news.yahoo.co.jp/pickup/6589558",
+        "https://zenn.dev/szgk/articles/76f54d039d9a30",
+        "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000222/",
+        "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000224/",
+        "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+        "https://www.anthropic.com/news/cognizant-anthropic",
+        "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/"
+      ],
+      "titles": [
+        "東野圭吾さん死去——俳優・文壇から追悼の声相次ぐ",
+        "九州・日田市で40℃——観測史上初の「酷暑日」を記録",
+        "高市首相「国会運営に反省点はない」——特別国会閉会後の会見で強調",
+        "桐谷広人さん、前立腺がんと大腸がんのダブル診断——「60cm切除後も自転車で退院」",
+        "NiziU・RIOが当面の活動休止を発表——健康上の理由、8人体制で継続",
+        "AndroidでセカンドブレインをOSSで構築——Obsidian・Termux・Claude Codeで知識管理を一元化",
+        "NVIDIA・Microsoft・OpenAIらがオープンモデル規制に反対声明——Anthropicは署名せず",
+        "NVIDIAが「オープンセキュアAI連盟」を設立——30社超が参加、AIエージェント監視OSS開発へ",
+        "Microsoft Launches MAI-Cyber-1-Flash + MDASH: Agentic Multi-Agent Vulnerability Detection at 95.95% Accuracy",
+        "Cognizant and Anthropic Expand Partnership: Claude Code Powers Spec-Driven Development for 30,000+ Engineers",
+        "Misago Drops React, Adopts HTMX: 85KB JS Reduction and Cleaner Architecture for a Django Forum"
+      ]
+    },
     {
       "run_at": "2026-07-28T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "GitHub Launches Agent Automation Controls in Issues — Approvals, Confidence Ratings & Audit Trails",
         "GitHub MCP Server Goes Stateless — Supports Next MCP Spec Ahead of July 28 Protocol Shift",
         "Cloudflare's AI Traffic Options: Granular Bot Control — Search, Agent, and Training Bots Now Separately Managed"
-      ]
-    },
-    {
-      "run_at": "2026-07-26T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589375",
-        "https://news.yahoo.co.jp/pickup/6589374",
-        "https://news.yahoo.co.jp/pickup/6589366",
-        "https://news.yahoo.co.jp/pickup/6589358",
-        "https://news.yahoo.co.jp/pickup/6589379",
-        "https://zenn.dev/manalink_dev/articles/domain-driven-development-process",
-        "https://zenn.dev/layerx/articles/f7124d4e761c1f",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
-        "https://github.com/slvDev/esp32-ai",
-        "https://www.anthropic.com/news/anthropic-economic-index-connector",
-        "https://simonwillison.net/2026/Jul/25/ruff/"
-      ],
-      "titles": [
-        "親子ら3人海に流され父死亡 茨城",
-        "「不登校離職」母は父の30倍 調査",
-        "飛鳥・藤原 首相「世界の宝に」",
-        "日中外相接触 関係改善の道険しく",
-        "岡田紗佳が歌手に 目標はMステ",
-        "ドメイン駆動設計から、ドメイン駆動開発プロセスの時代へ",
-        "Go 1.27 から uuid 実装がサポートされる！",
-        "GoogleがAIエージェント向け知識標準フォーマット「OKF」を提案",
-        "Running a 28.9M parameter LLM on an $8 microcontroller",
-        "Ask Claude about the Anthropic Economic Index",
-        "Ruff v0.16.0 expands default lint rules from 59 to 413"
       ]
     }
   ]

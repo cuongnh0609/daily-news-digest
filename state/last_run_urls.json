@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-28T05:00:00+09:00",
+  "last_run_at": "2026-07-28T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-28T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589590",
+        "https://news.yahoo.co.jp/pickup/6589577",
+        "https://news.yahoo.co.jp/pickup/6589583",
+        "https://news.yahoo.co.jp/pickup/6589581",
+        "https://news.yahoo.co.jp/pickup/6589587",
+        "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000215/",
+        "https://www.itmedia.co.jp/news/articles/2607/28/news059.html",
+        "https://www.publickey1.jp/blog/26/awsawsaws.html",
+        "https://www.anthropic.com/news/position-open-weights-models",
+        "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+        "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/"
+      ],
+      "titles": [
+        "日経平均が一時2500円超の急落——半導体株安が波及、市場に動揺広がる",
+        "「セクストーション」相談急増——SNS通じた性的脅迫、男性被害者が多数",
+        "食品消費税1%引き下げ——課題の先送り目立ち、野党は「具体策なし」と批判",
+        "京都府が映画「国宝」ロケ地の旧ホテルを49億円で購入へ——賛否両論が渦巻く",
+        "FIFA北中米W杯——カーボベルデDFがメッシ・ハーランドを抑え最優秀ゴール受賞",
+        "Googleが自社AIを「内部脅威」と見なす——「AI Control Roadmap」で監視・制御フレームワークを公開",
+        "NVIDIAら30社超が「Open Secure AI Alliance」設立——オープンAIのセキュリティOSSを共同開発",
+        "AWSが無料サンドボックス環境を提供開始——アカウント不要でAWSサービスを最大8時間試用可能に",
+        "Anthropic's Position on Open-Weights Models: Targeted Restrictions, Not Blanket Bans",
+        "GitHub Copilot Enterprise Managed Settings: Centralized Governance Across All Copilot Clients",
+        "Simon Willison: An Opinionated Guide to Which AI to Use — Agentic Modes Replace Chat as Primary Paradigm"
+      ]
+    },
     {
       "run_at": "2026-07-28T05:00:00+09:00",
       "urls": [
@@ -24,7 +53,7 @@
         "NiziU・RIOが当面の活動休止を発表——健康上の理由、8人体制で継続",
         "AndroidでセカンドブレインをOSSで構築——Obsidian・Termux・Claude Codeで知識管理を一元化",
         "NVIDIA・Microsoft・OpenAIらがオープンモデル規制に反対声明——Anthropicは署名せず",
-        "NVIDIAが「オープンセキュアAI連盟」を設立——30社超が参加、AIエージェント監視OSS開発へ",
+        "NVIDIAが「オープンセキュリティAI連盟」を設立——30社超が参加、AIエージェント監視OSS開発へ",
         "Microsoft Launches MAI-Cyber-1-Flash + MDASH: Agentic Multi-Agent Vulnerability Detection at 95.95% Accuracy",
         "Cognizant and Anthropic Expand Partnership: Claude Code Powers Spec-Driven Development for 30,000+ Engineers",
         "Misago Drops React, Adopts HTMX: 85KB JS Reduction and Cleaner Architecture for a Django Forum"
@@ -202,35 +231,6 @@
         "The First Known Runaway AI Agent — Or a Very Bad Marketing Stunt?",
         "Debian Votes on LLM Usage — Four Competing Proposals from Full Ban to Open Acceptance",
         "Inflect-Micro-v2: Complete Voice Synthesis in 9.36M Parameters — 37MB, 6× Faster Than Real-Time on CPU"
-      ]
-    },
-    {
-      "run_at": "2026-07-26T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589398",
-        "https://news.yahoo.co.jp/pickup/6589399",
-        "https://news.yahoo.co.jp/pickup/6589403",
-        "https://news.yahoo.co.jp/pickup/6589392",
-        "https://news.yahoo.co.jp/pickup/6589389",
-        "https://zenn.dev/explaza/articles/500ded8ea67252",
-        "https://www.itmedia.co.jp/news/articles/2607/24/news078.html",
-        "https://zenn.dev/scalar_sol_blog/articles/6fa517a84cb7ff",
-        "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview/",
-        "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification/",
-        "https://blog.cloudflare.com/content-independence-day-ai-options/"
-      ],
-      "titles": [
-        "来週は九州で観測史上初の酷暑日か——全国的に危険な暑さが続く見通し",
-        "相模原殺傷事件から10年——障害者家族の9割が「事件の風化」を実感",
-        "大相撲名古屋場所——安青錦が3場所ぶり3度目の優勝、大関復帰場所で快挙",
-        "小5男児3人が「ヘイ Siri」で119番——倒れた高齢女性を機転利かせ救護",
-        "高知のゴルフ場でカートから70代男性が転落死——安全対策の徹底が課題",
-        "開発しているだけで進捗が更新される——Linear × Claude Code × GitHub 自動化ワークフロー",
-        "ChatGPTとClaude、音声機能を同時強化——Codexエージェントへの音声指示も解禁",
-        "Terraform・Kubernetes初心者がコードレビューで繰り返し指摘される7つのポイント",
-        "GitHub Launches Agent Automation Controls in Issues — Approvals, Confidence Ratings & Audit Trails",
-        "GitHub MCP Server Goes Stateless — Supports Next MCP Spec Ahead of July 28 Protocol Shift",
-        "Cloudflare's AI Traffic Options: Granular Bot Control — Search, Agent, and Training Bots Now Separately Managed"
       ]
     }
   ]

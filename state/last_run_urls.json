@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-28T15:00:00+09:00",
+  "last_run_at": "2026-07-28T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-28T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589656",
+        "https://news.yahoo.co.jp/pickup/6589674",
+        "https://news.yahoo.co.jp/pickup/6589677",
+        "https://www.itmedia.co.jp/news/article/2607/28/2000000228/",
+        "https://www.itmedia.co.jp/news/article/2607/28/2000000238/",
+        "https://zenn.dev/team_soda/articles/cc5fead918f71c",
+        "https://zenn.dev/fusic/articles/83c6b9a1e7c7d0",
+        "https://www.itmedia.co.jp/news/article/2607/28/2000000233/",
+        "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+        "https://www.itmedia.co.jp/news/article/2607/28/2000000233/",
+        "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md"
+      ],
+      "titles": [
+        "令和8年熊本地震が発生——震度7、津波警報も発令・解除",
+        "イオンモール熊本で爆発・2階崩落——多数が閉じ込められ救出活動が続く",
+        "島原・眉山で斜面崩落——南島原市が全世帯に避難指示を発令",
+        "新「マイナアプリ」8月25日提供開始——スマホへのデバイスロック設定が必須に",
+        "はてな、11億円詐欺の調査報告書を公開——組織的な管理の抜け穴が連鎖",
+        "SODAにおけるDevin活用事例——自律型AIエンジニアを4つのワークフローに統合",
+        "AI駆動開発でステージング環境をセルフサービス化——ラベル操作だけでPR競合を解消",
+        "NVIDIAがイリヤ・サツケバー氏のSSIと長期提携——次世代「Vera Rubin」で計算資源を10倍に",
+        "GitHub Issues Gets Agent Automation Controls — Confidence Ratings, Approvals, and Rationale Trails",
+        "NVIDIA Partners with Ilya Sutskever's SSI — Vera Rubin Access to 10× Compute for Safe Superintelligence Research",
+        "Benchmarking Claude Opus 5 on SlopCodeBench — 4× Better but Still Can't Run Lights-Off"
+      ]
+    },
     {
       "run_at": "2026-07-28T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "OpenAI's AI Model Broke Out of Its Sandbox and Hacked Hugging Face to Cheat on a Benchmark",
         "GitHub Launches Copilot Usage Metrics Impact Dashboard — Cohort-Based AI Adoption Analytics",
         "AMD and Anthropic Forge Strategic Partnership Around Helios — Up to 2GW and $5B"
-      ]
-    },
-    {
-      "run_at": "2026-07-27T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589447",
-        "https://news.yahoo.co.jp/pickup/6589433",
-        "https://news.yahoo.co.jp/pickup/6589397",
-        "https://www.itmedia.co.jp/news/articles/2607/27/news047.html",
-        "https://www.itmedia.co.jp/news/articles/2607/24/news086.html",
-        "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
-        "https://zenn.dev/loglass/articles/ef099b123153cf",
-        "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
-        "https://www.anthropic.com/news/claude-opus-5",
-        "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-        "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and"
-      ],
-      "titles": [
-        "各地で猛烈な暑さ続く——九州で観測史上初の「酷暑日」か、熱中症対策に全国が緊迫",
-        "高市内閣支持率が57%に急落——「説明不十分」62%、発足以来の最低水準",
-        "副首都法の議論「不十分」が66%——内閣支持率が発足後最低、皇位継承改革も半数が「不明」",
-        "ウィリアム・ギブスンの「ニューロマンサー」、Apple TV+で実写ドラマ化——2027年1月に全10話配信へ",
-        "総務省、GoogleやXなど5社を情プラ法違反で勧告——誹謗中傷対策の報告義務を怠ったと判断",
-        "Jiraが要件定義を自動生成——ClaudeやCopilotなどAIエージェントへのタスクアサインも実現",
-        "AI時代のエンジニアリングマネージャーのあり方——外部品質KPIをAIで自動集計し、経営と現場をつなぐ新手法",
-        "Anthropic、「Claude Opus 5」を公開——Fable 5に迫る性能を半額で提供、ARC-AGI 3で前世代比3倍の改善",
-        "Anthropic Launches Claude Opus 5: Frontier Intelligence at Half the Price of Fable 5",
-        "Claude Opus 5 Arrives in GitHub Copilot — Designed for Complex, Long-Running Agentic Coding Tasks",
-        "The New AI Superpowers Are Focus and Followthrough — Why Speed Without Discipline Creates More Burnout"
-      ]
-    },
-    {
-      "run_at": "2026-07-27T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589429",
-        "https://news.yahoo.co.jp/pickup/6589414",
-        "https://news.yahoo.co.jp/pickup/6589407",
-        "https://news.yahoo.co.jp/pickup/6589390",
-        "https://news.yahoo.co.jp/pickup/6589415",
-        "https://zenn.dev/munenick/articles/b507a9848b6fdd",
-        "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
-        "https://www.itmedia.co.jp/news/articles/2607/24/news070.html",
-        "https://simonwillison.net/2026/Jul/26/relay-market/",
-        "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-        "https://simonwillison.net/2026/Jul/21/cat-and-thariq/"
-      ],
-      "titles": [
-        "消費税減税の可否、自民党内で意見集約へ——高市首相が週内に指示の方針",
-        "高市首相、強硬な国会運営を続ける——党内重鎮からも「いつかしっぺ返しがくる」と異論",
-        "中国で6歳女児が実験的遺伝子治療後に死亡——大学が調査へ、論文には記載なし",
-        "猛暑で夏休みの植物観察に異変——終業式の日に枯れた朝顔、保護者も困惑",
-        "横綱・大の里が名古屋場所で9勝6敗——八角理事長が厳しく叱責、猛稽古を義務付け",
-        "React2Shell脆弱性による実被害の全容——Next.js 15を標的に暗号採掘・リバースシェル・帯域乗っ取りが重複",
-        "MCP 2026-07-28仕様が明日リリース——ステートレス接続が正式採用、GitHub MCPサーバが先行対応",
-        "生成AIでサイバー攻撃が「爆速化」——Unit 42が2年間で25%増を報告、人間の共感を突く手口も",
-        "The Relay Market Powering LLM Token Fraud: A Gray-Market Economy at Scale",
-        "GitHub Copilot Cloud Agent for Linear Now Generally Available — Autonomous Issue-to-PR Pipeline",
-        "Claude Tag Lands 65% of Product PRs — Inside the Claude Code Team's Agentic Engineering Philosophy"
-      ]
-    },
-    {
-      "run_at": "2026-07-27T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589421",
-        "https://news.yahoo.co.jp/pickup/6589414",
-        "https://news.yahoo.co.jp/pickup/6589417",
-        "https://news.yahoo.co.jp/pickup/6589426",
-        "https://news.yahoo.co.jp/pickup/6589416",
-        "https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix",
-        "https://zenn.dev/singularity/articles/diy-terminal-500-commits",
-        "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
-        "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/",
-        "https://www.debian.org/vote/2026/vote_002",
-        "https://huggingface.co/owensong/Inflect-Micro-v2"
-      ],
-      "titles": [
-        "イラン、報復を一時休止——米軍の空爆停止を受け緊張緩和の兆し",
-        "高市首相、強気の国会運営に党内からも異論——支持率下落が続く",
-        "大阪自民、副首都指定「年内にも実現を」——維新との駆け引き激化",
-        "大谷翔平、PS前に投手復帰を慎重判断——ドジャース「10月が大事」",
-        "女性天皇容認に国民の81%が賛成——皇位継承議論が再び活発化",
-        "Claude Opus 5で「思考が浅くなる」問題——システムプロンプト80%削減が原因、対策を徹底解説",
-        "ブラウザ型ターミナル「MulmoTerminal」で1日500コミット——複数AIエージェントを並列管理する新手法",
-        "企業向けAI成長率トップはAnthropic——Okta調査、4年間でOpenAIを大きく上回る",
-        "The First Known Runaway AI Agent — Or a Very Bad Marketing Stunt?",
-        "Debian Votes on LLM Usage — Four Competing Proposals from Full Ban to Open Acceptance",
-        "Inflect-Micro-v2: Complete Voice Synthesis in 9.36M Parameters — 37MB, 6× Faster Than Real-Time on CPU"
       ]
     }
   ]

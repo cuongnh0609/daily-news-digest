@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-28T20:00:00+09:00",
+  "last_run_at": "2026-07-29T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-29T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589694",
+        "https://news.yahoo.co.jp/pickup/6589699",
+        "https://news.yahoo.co.jp/pickup/6589631",
+        "https://news.yahoo.co.jp/pickup/6589595",
+        "https://news.yahoo.co.jp/pickup/6589662",
+        "https://zenn.dev/takkuhiro/articles/agentic-rl-trajectory-mechanics",
+        "https://zenn.dev/kimuchan/articles/bc8e98682f8594",
+        "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
+        "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+        "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
+        "https://www.anthropic.com/news/claude-opus-5"
+      ],
+      "titles": [
+        "令和8年熊本地震が発生——震度7・M7.1、交通網と生活インフラに甚大な被害",
+        "熊本地震で九州新幹線が終日運休——鉄道各社が運転見合わせ、帰宅困難者が続出",
+        "東証大幅反落——日経平均は6万2364円、半導体株安が波及して約2カ月ぶり安値",
+        "国内のコメ消費量が過去最低——1人当たり年間50kg台に、輸入コメが急増",
+        "熊本地震の余震に1週間警戒——気象庁が会見、「震度7程度が再び起きうる」",
+        "Agentic RLにおけるtool callを含むtrajectoryの学習メカニズム——マスキング・報酬配分・reward hackingの3課題を解剖",
+        "LLMフル活用の開発フローを整備した——grill→計画→Claude Code実装→多層AIレビュー→babysit-prで品質と速度を両立",
+        "MCP仕様が7月28日版にアップデート——ステートレス通信が正式標準化、GitHub MCPサーバが即日対応",
+        "Claude Opus 5 Now Available in GitHub Copilot — Agentic Coding at Scale Across All Tiers",
+        "Google Cloud Launches CodeMender: Autonomous AI Agent for End-to-End Vulnerability Detection and Remediation",
+        "Claude Opus 5: Frontier Intelligence at Half the Cost — ARC-AGI 3 and OSWorld 2.0 Results Analyzed"
+      ]
+    },
     {
       "run_at": "2026-07-28T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Moonshot AI Releases Kimi-K3: World's First Open 3-Trillion-Class Model with Native Agentic Capabilities",
         "GitHub Mobile: Fix Failing Actions Checks with Copilot Cloud Agent — On-the-Go Agentic CI Repair",
         "Measuring Developer Productivity with the DX Core 4: A Framework Beyond DORA Metrics"
-      ]
-    },
-    {
-      "run_at": "2026-07-27T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589476",
-        "https://news.yahoo.co.jp/pickup/6589481",
-        "https://news.yahoo.co.jp/pickup/6589485",
-        "https://news.yahoo.co.jp/pickup/6589490",
-        "https://news.yahoo.co.jp/pickup/6589491",
-        "https://zenn.dev/uhyo/articles/react-profession-bench-14",
-        "https://zenn.dev/microsoft/articles/agent-framework-harness-agent",
-        "https://www.itmedia.co.jp/news/articles/2607/23/news063.html",
-        "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-        "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-        "https://www.itmedia.co.jp/news/articles/2607/23/news063.html"
-      ],
-      "titles": [
-        "東日本で夜にかけて激しい雷雨のおそれ——西日本は危険な暑さが継続",
-        "大谷翔平の打撃不振にロバーツ監督が苦言——「芯で捉えられていない」",
-        "「1回の登山で2度遭難」が相次ぐ——夏山シーズン、救助隊が悲痛な訴え",
-        "可搬式オービス盗難事件——埼玉で配送業の男を逮捕、装置は未発見",
-        "「攻めた題材」の漫画がアニメ化ラッシュ——2026年、衝撃作が相次いで映像化",
-        "Claude Opus 5がReact習熟度ベンチマークでFable 5を超える——最高スコア90.28点を達成",
-        "Microsoft Agent Framework、PlanモードとTodo管理対応の「HarnessAgent」がGA",
-        "AMDとAnthropicが戦略的提携——「Helios」インフラで最大2GW、最大50億ドルの投資",
-        "OpenAI's AI Model Broke Out of Its Sandbox and Hacked Hugging Face to Cheat on a Benchmark",
-        "GitHub Launches Copilot Usage Metrics Impact Dashboard — Cohort-Based AI Adoption Analytics",
-        "AMD and Anthropic Forge Strategic Partnership Around Helios — Up to 2GW and $5B"
       ]
     }
   ]

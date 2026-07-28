@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-29T00:00:00+09:00",
+  "last_run_at": "2026-07-29T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-29T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589716",
+        "https://news.yahoo.co.jp/pickup/6589715",
+        "https://www.itmedia.co.jp/news/article/2607/28/2000000247/",
+        "https://news.yahoo.co.jp/pickup/6589705",
+        "https://news.yahoo.co.jp/pickup/6589711",
+        "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
+        "https://www.itmedia.co.jp/news/articles/2607/24/news078.html",
+        "https://zenn.dev/mixi/articles/fd62f8ddc178f6",
+        "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+        "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
+        "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html"
+      ],
+      "titles": [
+        "熊本地震でイオンモール崩落——2名死亡確認、20〜30名が安否不明のまま",
+        "熊本県17市町村で約14万戸が断水——西原村など復旧に数日以上かかる見通し",
+        "携帯各社が熊本で通信障害——「JAPANローミング」が自動発動、最大300kbpsで他社網に接続",
+        "日本製紙八代工場で煙突倒壊——心肺停止2名、行方不明9名で夜通し捜索",
+        "災害時のスマホ対策——00000JAPAN・JAPANローミング・伝言ダイヤルの活用法",
+        "AtlassianがJiraにAIエージェント連携を追加——Claude Code・Copilot・Cursorへ自動タスク振り分け",
+        "Claude・ChatGPTが音声機能を同日強化——日本語対応拡大と上位モデルへの切り替えが可能に",
+        "MIXIの2026年新卒技術研修——AIエージェント・RAG・生成AIを2日間で学ぶカリキュラムに刷新",
+        "Claude Discovers Cryptographic Weaknesses Autonomously — First AI to Break a Post-Quantum Candidate",
+        "GitHub Actions Now Holds Malicious Workflows for Human Approval Before Execution",
+        "Kimi K3 Architecture Deep-Dive: 2.8T Parameters, NoPE, and Why It Abandons RoPE Entirely"
+      ]
+    },
     {
       "run_at": "2026-07-29T00:00:00+09:00",
       "urls": [

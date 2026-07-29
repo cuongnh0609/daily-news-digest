@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-29T20:00:00+09:00",
+  "last_run_at": "2026-07-30T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-30T00:00:00+09:00",
+      "urls": [
+        "http://www3.nhk.or.jp/news/html/20260729/k10015190171000.html",
+        "http://www3.nhk.or.jp/news/html/20260729/k10015189531000.html",
+        "http://www3.nhk.or.jp/news/html/20260729/k10015189721000.html",
+        "https://www.itmedia.co.jp/news/article/2607/29/2000000280/",
+        "https://www.itmedia.co.jp/news/article/2607/29/2000000281/",
+        "https://zenn.dev/reizt/articles/super-mcp-chatgpt",
+        "https://zenn.dev/macnica_englab/articles/154cc03e82d7e3",
+        "https://www.itmedia.co.jp/news/article/2607/29/2000000259/",
+        "https://arxiv.org/abs/2607.25398",
+        "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+        "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers"
+      ],
+      "titles": [
+        "熊本地震——午後10時過ぎに震度5弱の余震、1週間は強い揺れに警戒を",
+        "イオンモール熊本——夏休みの約3000人来店中に爆発・崩落、死者3人・心肺停止1人に",
+        "日本製紙八代工場——煙突倒壊で5人死亡・2人けが・4人安否不明、夜通し捜索",
+        "警察庁が熊本地震に便乗した詐欺を注意喚起——義援金名目の電子マネー詐取に警戒",
+        "災害時のスマホ電池節約術——携帯各社が推奨する設定・行動まとめ",
+        "自作APIをChatGPTから呼び出す「Super MCP」——OpenAPI + OAuth 2方向認証で個人APIをMCP化",
+        "OpenTelemetry Collectorの内部構造を全分解——Receiver・Processor・Exporterの役割をKubernetes環境で実証",
+        "ザッカーバーグCEO「超知能は全員のものであるべき」——WSJ寄稿でオープンAI普及論を展開",
+        "HANDBOOK.md: New Benchmark Proves Long Policy Documents Don't Reliably Govern AI Agents",
+        "Document-Borne AI Worms Self-Propagate Through Microsoft Copilot for Word",
+        "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency Servers"
+      ]
+    },
     {
       "run_at": "2026-07-29T20:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "GitHub Issues Gets Agent Automation Controls — Confidence Ratings, Approvals, and Rationale Trails",
         "NVIDIA Partners with Ilya Sutskever's SSI — Vera Rubin Access to 10× Compute for Safe Superintelligence Research",
         "Benchmarking Claude Opus 5 on SlopCodeBench — 4× Better but Still Can't Run Lights-Off"
-      ]
-    },
-    {
-      "run_at": "2026-07-28T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589617",
-        "https://news.yahoo.co.jp/pickup/6589624",
-        "https://news.yahoo.co.jp/pickup/6589620",
-        "https://news.yahoo.co.jp/pickup/6589608",
-        "https://news.yahoo.co.jp/pickup/6589609",
-        "https://zenn.dev/tak3/articles/2686517823d1e7",
-        "https://zenn.dev/fixstars/articles/kimi-k3-benchmark",
-        "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
-        "https://www.anthropic.com/news/claude-for-teachers",
-        "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-        "https://www.publickey1.jp/blog/26/aws4aws_cloudformation_express.html"
-      ],
-      "titles": [
-        "「交通空白」が地域経済に年10兆円の損失——地方移動の危機をどう乗り越えるか",
-        "板東英二さんが86歳で死去——甲子園の伝説から国民的タレントへ",
-        "東海地方でもマンション修繕談合か——公取委が計28社を立入検査",
-        "中国BYDが軽EV「RACCO」で日本市場に参入——補助金43万円差でも実質100万円台を実現",
-        "小泉防衛相がVIVANT「別班」の実在を否定——ドラマ2期高視聴率の中で政府が公式見解",
-        "Cursor・Manus・Spotifyの「エージェントハーネス」を読み比べた——6要素フレームワークで差別化を解剖",
-        "Kimi-K3（2.8兆パラメータ）をDay0でデプロイ——NVIDIA B300×8の1ノードで実用スループット達成",
-        "「Claude apps gateway for AWS/Google Cloud」登場——Claude Codeを企業規模でSSO・費用管理・RBAC対応に",
-        "Anthropic Launches Claude for Teachers: Free Premium AI for K-12 Educators with Claude Code Integration",
-        "GitHub Copilot for JetBrains: OpenTelemetry Export, MCP Server Integration, and Custom Model Governance",
-        "AWS CloudFormation Express Mode: Up to 4× Faster Infrastructure Deployments for Iterative and AI-Driven Workflows"
-      ]
-    },
-    {
-      "run_at": "2026-07-28T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589590",
-        "https://news.yahoo.co.jp/pickup/6589577",
-        "https://news.yahoo.co.jp/pickup/6589583",
-        "https://news.yahoo.co.jp/pickup/6589581",
-        "https://news.yahoo.co.jp/pickup/6589587",
-        "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000215/",
-        "https://www.itmedia.co.jp/news/articles/2607/28/news059.html",
-        "https://www.publickey1.jp/blog/26/awsawsaws.html",
-        "https://www.anthropic.com/news/position-open-weights-models",
-        "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-        "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/"
-      ],
-      "titles": [
-        "日経平均が一時2500円超の急落——半導体株安が波及、市場に動揺広がる",
-        "「セクストーション」相談急増——SNS通じた性的脅迫、男性被害者が多数",
-        "食品消費税1%引き下げ——課題の先送り目立ち、野党は「具体策なし」と批判",
-        "京都府が映画「国宝」ロケ地の旧ホテルを49億円で購入へ——賛否両論が渦巻く",
-        "FIFA北中米W杯——カーボベルデDFがメッシ・ハーランドを抑え最優秀ゴール受賞",
-        "Googleが自社AIを「内部脅威」と見なす——「AI Control Roadmap」で監視・制御フレームワークを公開",
-        "NVIDIAら30社超が「Open Secure AI Alliance」設立——オープンAIのセキュリティOSSを共同開発",
-        "AWSが無料サンドボックス環境を提供開始——アカウント不要でAWSサービスを最大8時間試用可能に",
-        "Anthropic's Position on Open-Weights Models: Targeted Restrictions, Not Blanket Bans",
-        "GitHub Copilot Enterprise Managed Settings: Centralized Governance Across All Copilot Clients",
-        "Simon Willison: An Opinionated Guide to Which AI to Use — Agentic Modes Replace Chat as Primary Paradigm"
-      ]
-    },
-    {
-      "run_at": "2026-07-28T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589557",
-        "https://news.yahoo.co.jp/pickup/6589510",
-        "https://news.yahoo.co.jp/pickup/6589540",
-        "https://news.yahoo.co.jp/pickup/6589560",
-        "https://news.yahoo.co.jp/pickup/6589558",
-        "https://zenn.dev/szgk/articles/76f54d039d9a30",
-        "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000222/",
-        "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000224/",
-        "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-        "https://www.anthropic.com/news/cognizant-anthropic",
-        "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/"
-      ],
-      "titles": [
-        "東野圭吾さん死去——俳優・文壇から追悼の声相次ぐ",
-        "九州・日田市で40℃——観測史上初の「酷暑日」を記録",
-        "高市首相「国会運営に反省点はない」——特別国会閉会後の会見で強調",
-        "桐谷広人さん、前立腺がんと大腸がんのダブル診断——「60cm切除後も自転車で退院」",
-        "NiziU・RIOが当面の活動休止を発表——健康上の理由、8人体制で継続",
-        "AndroidでセカンドブレインをOSSで構築——Obsidian・Termux・Claude Codeで知識管理を一元化",
-        "NVIDIA・Microsoft・OpenAIらがオープンモデル規制に反対声明——Anthropicは署名せず",
-        "NVIDIAが「オープンセキュリティAI連盟」を設立——30社超が参加、AIエージェントの監視OSS開発へ",
-        "Microsoft Launches MAI-Cyber-1-Flash + MDASH: Agentic Multi-Agent Vulnerability Detection at 95.95% Accuracy",
-        "Cognizant and Anthropic Expand Partnership: Claude Code Powers Spec-Driven Development for 30,000+ Engineers",
-        "Misago Drops React, Adopts HTMX: 85KB JS Reduction and Cleaner Architecture for a Django Forum"
-      ]
-    },
-    {
-      "run_at": "2026-07-28T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589556",
-        "https://news.yahoo.co.jp/pickup/6589547",
-        "https://news.yahoo.co.jp/pickup/6589553",
-        "https://news.yahoo.co.jp/pickup/6589555",
-        "https://news.yahoo.co.jp/pickup/6589542",
-        "https://zenn.dev/singularity/articles/stopped-reviewing-my-code",
-        "https://zenn.dev/kimkiyong/articles/664e7527e9c356",
-        "https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html",
-        "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-        "https://github.com/vercel-labs/scriptc",
-        "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html"
-      ],
-      "titles": [
-        "食料品の消費税を2年間1%に――政府・与党が来年4月からの方針を固める",
-        "自民党が「外国干渉防止法」創設を提言――SNS工作に刑事罰を科す方針",
-        "北海道大学がアイヌ遺骨研究を正式謝罪――「尊厳を深く傷つけた」と総長声明",
-        "海上保安庁が同志社国際高校を家宅捜索――辺野古沖の船転覆事故で",
-        "霧島の温泉施設で行方不明の5歳男児――遺体発見から10日、父が単独取材に応じる",
-        "1日500コミットは、もう読めない ── だからコードレビューをやめた",
-        "Claude Code から Codex CLI に乗り換える前に知っておきたい機能差（2026年7月版）",
-        "Vercel、TypeScriptをC言語経由でネイティブバイナリにコンパイルする「scriptc」を公開",
-        "US Citizen Charged After GrapheneOS Phone Auto-Wipes During Airport Search",
-        "Scriptc by Vercel: TypeScript Compiled to Native Binaries via C — No JavaScript Engine Required",
-        "How Is the Bun Rewrite in Rust Going? A Detailed Progress Report"
       ]
     }
   ]

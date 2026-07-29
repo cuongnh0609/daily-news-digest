@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-29T05:00:00+09:00",
+  "last_run_at": "2026-07-29T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-29T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589731",
+        "https://news.yahoo.co.jp/pickup/6589735",
+        "https://news.yahoo.co.jp/pickup/6589728",
+        "https://news.yahoo.co.jp/pickup/6589734",
+        "https://news.yahoo.co.jp/pickup/6589736",
+        "https://zenn.dev/uhyo/articles/react-profession-bench-14",
+        "https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix",
+        "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
+        "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/",
+        "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+        "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available"
+      ],
+      "titles": [
+        "熊本・イオンモール爆発で20代女性2人死亡——LPガス漏れが原因か",
+        "熊本地震——クレーン下敷きで1人死亡、日本製紙工場でも行方不明者",
+        "国土地理院が最大84cm地殻変動を確認——「割れ残り断層」が原因か",
+        "食品消費税を来年4月から1%に——高市首相が2年限定で決断",
+        "熊本で39度の危険な暑さ予想——被災者への熱中症リスクが深刻化",
+        "Opus 5がReact習熟度ベンチで90点超え——Fable 5の最高記録を初めて更新",
+        "Opus 5で思考が浅くなる問題——システムプロンプト8割削減が根本原因、対策を解説",
+        "Anthropicが企業向けAIツールの成長率でトップ——Okta調査、2万社超のデータより",
+        "Anatomy of a Frontier Lab Agent Intrusion: OpenAI Agent Breached Hugging Face via Zero-Day",
+        "Grok 4.5 Now Available in GitHub Copilot — 500K Context, Parallel Tool Dispatch, Agentic Coding",
+        "Copilot Cloud Agent for Linear Now GA — Autonomous Issue Resolution with Streaming Progress"
+      ]
+    },
     {
       "run_at": "2026-07-29T05:00:00+09:00",
       "urls": [
@@ -169,7 +198,7 @@
         "NiziU・RIOが当面の活動休止を発表——健康上の理由、8人体制で継続",
         "AndroidでセカンドブレインをOSSで構築——Obsidian・Termux・Claude Codeで知識管理を一元化",
         "NVIDIA・Microsoft・OpenAIらがオープンモデル規制に反対声明——Anthropicは署名せず",
-        "NVIDIAが「オープンセキュリティAI連盟」を設立——30社超が参加、AIエージェント監視OSS開発へ",
+        "NVIDIAが「オープンセキュリティAI連盟」を設立——30社超が参加、AIエージェントの監視OSS開発へ",
         "Microsoft Launches MAI-Cyber-1-Flash + MDASH: Agentic Multi-Agent Vulnerability Detection at 95.95% Accuracy",
         "Cognizant and Anthropic Expand Partnership: Claude Code Powers Spec-Driven Development for 30,000+ Engineers",
         "Misago Drops React, Adopts HTMX: 85KB JS Reduction and Cleaner Architecture for a Django Forum"
@@ -202,35 +231,6 @@
         "US Citizen Charged After GrapheneOS Phone Auto-Wipes During Airport Search",
         "Scriptc by Vercel: TypeScript Compiled to Native Binaries via C — No JavaScript Engine Required",
         "How Is the Bun Rewrite in Rust Going? A Detailed Progress Report"
-      ]
-    },
-    {
-      "run_at": "2026-07-27T20:20:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589529",
-        "https://news.yahoo.co.jp/pickup/6589532",
-        "https://news.yahoo.co.jp/pickup/6589526",
-        "https://news.yahoo.co.jp/pickup/6589531",
-        "https://news.yahoo.co.jp/pickup/6589535",
-        "https://zenn.dev/little_hand_s/articles/72646a09f49d2a",
-        "https://www.itmedia.co.jp/news/articles/2607/27/news092.html",
-        "https://www.publickey1.jp/blog/26/unity_7mononet_coreclr.html",
-        "https://huggingface.co/moonshotai/Kimi-K3",
-        "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-        "https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/"
-      ],
-      "titles": [
-        "与野党の社会保障国民会議、消費減税で合意断念――各党の意見を「並記」する方針に転換",
-        "法務省検討会、「声の権利」保護を明記――生成AIによる無断使用に法的歯止め",
-        "東野圭吾さんが68歳で死去――「容疑者Xの献身」「白夜行」で知られる推理小説の巨匠",
-        "岩手・雫石町がクマをわなで捕獲後に溺死させて駆除――SNSで批判が殺到、県も注意",
-        "森保一監督がスポーツマネジメント会社UDNと契約――香川・桃田ら一流アスリートと同門に",
-        "Claude Opus 5公式プロンプティングガイドの衝撃――旧来の「検証指示」「簡潔化不足」が逆効果に",
-        "Z世代の「次くる流行」調査でAIイラストが1位、Claude Codeが5位に急浮上",
-        "ゲームエンジン「Unity 7」発表――ランタイムをMonoから.NET CoreCLRへ移行、シェーダービルドが90%高速化",
-        "Moonshot AI Releases Kimi-K3: World's First Open 3-Trillion-Class Model with Native Agentic Capabilities",
-        "GitHub Mobile: Fix Failing Actions Checks with Copilot Cloud Agent — On-the-Go Agentic CI Repair",
-        "Measuring Developer Productivity with the DX Core 4: A Framework Beyond DORA Metrics"
       ]
     }
   ]

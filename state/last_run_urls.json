@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-29T15:00:00+09:00",
+  "last_run_at": "2026-07-29T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-29T20:00:00+09:00",
+      "urls": [
+        "http://www3.nhk.or.jp/news/html/20260729/k10015189221000.html",
+        "http://www3.nhk.or.jp/news/html/20260729/k10015190051000.html",
+        "https://news.yahoo.co.jp/pickup/6589785",
+        "http://www3.nhk.or.jp/news/html/20260729/k10015189951000.html",
+        "https://www.itmedia.co.jp/news/article/2607/29/2000000274/",
+        "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000272/",
+        "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000273/",
+        "https://www.itmedia.co.jp/news/article/2607/29/2000000255/",
+        "https://github.com/openai/codex-security",
+        "https://simonwillison.net/2026/Jul/28/uv/",
+        "https://www.itmedia.co.jp/news/article/2607/29/2000000255/"
+      ],
+      "titles": [
+        "熊本地震で12人死亡・6人心肺停止——被害情報が刻々と拡大、捜索救助が続く",
+        "九州新幹線でレール破断など200か所以上の被害——JR九州が復旧の見通しを示せず",
+        "雲仙普賢岳の溶岩ドームが一部崩落——長崎県が確認、眉山でも広範囲の表層剥離",
+        "食料品の消費税減税——高市首相が「早急に方針を検討する」と表明、国民会議は意見まとまらず",
+        "ソニーが熊本の半導体工場で生産停止——CMOSイメージセンサー製造ラインが被害確認中",
+        "PFNが「国産AI」で自衛隊を支援へ——防衛装備庁の実証実験を受託、PLaMo 3.0で作戦立案をサポート",
+        "ChatGPT WorkとCodexの5時間制限が明日から再開——GPT-5.6 Solの過剰消費問題に対策を適用",
+        "OpenAI・Anthropicなど1000人超の従業員が米政府に「AIペース調整」を要請——公開書簡「Pacing the Frontier」",
+        "OpenAI Launches Codex Security: Agentic CLI and SDK for Automated Vulnerability Detection",
+        "uv 0.12.0: Python Package Manager Switches Default Project Layout to src/ with Built-in Build Backend",
+        "Over 1,000 AI Employees Sign \"Pacing the Frontier\" Letter Urging US Government to Coordinate AI Development Speed"
+      ]
+    },
     {
       "run_at": "2026-07-29T15:00:00+09:00",
       "urls": [

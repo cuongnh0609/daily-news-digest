@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-30T15:00:00+09:00",
+  "last_run_at": "2026-07-30T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-30T20:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2607/30/2000000311/",
+        "https://news.yahoo.co.jp/pickup/6589870",
+        "https://news.yahoo.co.jp/pickup/6589871",
+        "https://news.yahoo.co.jp/pickup/6589872",
+        "https://www.itmedia.co.jp/news/article/2607/30/2000000309/",
+        "https://zenn.dev/notahotel/articles/0c28638945aa32",
+        "https://zenn.dev/komlock_lab/articles/mcp-stateless-spec-2026",
+        "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000302/",
+        "https://www.anthropic.com/news/cognizant-anthropic",
+        "https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html",
+        "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise"
+      ],
+      "titles": [
+        "熊本地震でSNSにデマ拡散——能登の映像誤用や偽救助要請で被災対応に影響",
+        "高市首相が消費税1%引き下げを自民党に正式指示——2027年4月からの2年間限定",
+        "広島カープ選手の自宅を県警が家宅捜索——球団オーナーが謝罪会見",
+        "大谷翔平が契約総額「歴代1位」から陥落——3年でランキングが塗り替え",
+        "KADOKAWAとはてなが小説執筆AIエディタ「RIKU」を発表——生成AIで創作支援",
+        "【Claude Code】planモードはもう使っていない——最新モデルで「案をください」メソッドが代替に",
+        "MCPの大型アップデート（2026-07-28）で何が変わったか——TypeScript SDK v2でステートレス設計に転換",
+        "HPがRakuten AI for DesktopをプリインストールしたPCを発売——70億パラメータの日本語LLMがオフラインでも動作",
+        "Cognizant and Anthropic Expand Global Partnership to Deploy Claude Across Enterprise Operations",
+        "Vercel Open-Sources \"scriptc\": Compiles TypeScript to Native Binary via C — 47ms → 2.4ms Startup",
+        "GitHub Copilot Default Model Enablement for Business and Enterprise: New Auto-Enable Policy Takes Effect August 26"
+      ]
+    },
     {
       "run_at": "2026-07-30T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Hugging Face Publishes Full Technical Autopsy of OpenAI Agent Intrusion — 17,600 Malicious Operations Over 4.5 Days",
         "Andrew Ng Launches LearnVector — Agentic AI for Personalized One-to-One Learning at Scale",
         "npm Introduces Publish-Time Malware Scanning and Dual-Use Package Metadata — Supply Chain Security Overhaul"
-      ]
-    },
-    {
-      "run_at": "2026-07-29T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589731",
-        "https://news.yahoo.co.jp/pickup/6589735",
-        "https://news.yahoo.co.jp/pickup/6589728",
-        "https://news.yahoo.co.jp/pickup/6589734",
-        "https://news.yahoo.co.jp/pickup/6589736",
-        "https://zenn.dev/uhyo/articles/react-profession-bench-14",
-        "https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix",
-        "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
-        "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/",
-        "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-        "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available"
-      ],
-      "titles": [
-        "熊本・イオンモール爆発で20代女性2人死亡——LPガス漏れが原因か",
-        "熊本地震——クレーン下敷きで1人死亡、日本製紙工場でも行方不明者",
-        "国土地理院が最大84cm地殻変動を確認——「割れ残り断層」が原因か",
-        "食品消費税を来年4月から1%に——高市首相が2年限定で決断",
-        "熊本で39度の危険な暑さ予想——被災者への熱中症リスクが深刻化",
-        "Opus 5がReact習熟度ベンチで90点超え——Fable 5の最高記録を初めて更新",
-        "Opus 5で思考が浅くなる問題——システムプロンプト8割削減が根本原因、対策を解説",
-        "Anthropicが企業向けAIツールの成長率でトップ——Okta調査、2万社超のデータより",
-        "Anatomy of a Frontier Lab Agent Intrusion: OpenAI Agent Breached Hugging Face via Zero-Day",
-        "Grok 4.5 Now Available in GitHub Copilot — 500K Context, Parallel Tool Dispatch, Agentic Coding",
-        "Copilot Cloud Agent for Linear Now GA — Autonomous Issue Resolution with Streaming Progress"
-      ]
-    },
-    {
-      "run_at": "2026-07-29T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589716",
-        "https://news.yahoo.co.jp/pickup/6589715",
-        "https://www.itmedia.co.jp/news/article/2607/28/2000000247/",
-        "https://news.yahoo.co.jp/pickup/6589705",
-        "https://news.yahoo.co.jp/pickup/6589711",
-        "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
-        "https://www.itmedia.co.jp/news/articles/2607/24/news078.html",
-        "https://zenn.dev/mixi/articles/fd62f8ddc178f6",
-        "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-        "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
-        "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html"
-      ],
-      "titles": [
-        "熊本地震でイオンモール崩落——2名死亡確認、20〜30名が安否不明のまま",
-        "熊本県17市町村で約14万戸が断水——西原村など復旧に数日以上かかる見通し",
-        "携帯各社が熊本で通信障害——「JAPANローミング」が自動発動、最大300kbpsで他社網に接続",
-        "日本製紙八代工場で煙突倒壊——心肺停止2名、行方不明9名で夜通し捜索",
-        "災害時のスマホ対策——00000JAPAN・JAPANローミング・伝言ダイヤルの活用法",
-        "AtlassianがJiraにAIエージェント連携を追加——Claude Code・Copilot・Cursorへ自動タスク振り分け",
-        "Claude・ChatGPTが音声機能を同日強化——日本語対応拡大と上位モデルへの切り替えが可能に",
-        "MIXIの2026年新卒技術研修——AIエージェント・RAG・生成AIを2日間で学ぶカリキュラムに刷新",
-        "Claude Discovers Cryptographic Weaknesses Autonomously — First AI to Break a Post-Quantum Candidate",
-        "GitHub Actions Now Holds Malicious Workflows for Human Approval Before Execution",
-        "Kimi K3 Architecture Deep-Dive: 2.8T Parameters, NoPE, and Why It Abandons RoPE Entirely"
-      ]
-    },
-    {
-      "run_at": "2026-07-29T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589694",
-        "https://news.yahoo.co.jp/pickup/6589699",
-        "https://news.yahoo.co.jp/pickup/6589631",
-        "https://news.yahoo.co.jp/pickup/6589595",
-        "https://news.yahoo.co.jp/pickup/6589662",
-        "https://zenn.dev/takkuhiro/articles/agentic-rl-trajectory-mechanics",
-        "https://zenn.dev/kimuchan/articles/bc8e98682f8594",
-        "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
-        "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-        "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
-        "https://www.anthropic.com/news/claude-opus-5"
-      ],
-      "titles": [
-        "令和8年熊本地震が発生——震度7・M7.1、交通網と生活インフラに甚大な被害",
-        "熊本地震で九州新幹線が終日運休——鉄道各社が運転見合わせ、帰宅困難者が続出",
-        "東証大幅反落——日経平均は6万2364円、半導体株安が波及して約2カ月ぶり安値",
-        "国内のコメ消費量が過去最低——1人当たり年間50kg台に、輸入コメが急増",
-        "熊本地震の余震に1週間警戒——気象庁が会見、「震度7程度が再び起きうる」",
-        "Agentic RLにおけるtool callを含むtrajectoryの学習メカニズム——マスキング・報酬配分・reward hackingの3課題を解剖",
-        "LLMフル活用の開発フローを整備した——grill→計画→Claude Code実装→多層AIレビュー→babysit-prで品質と速度を両立",
-        "MCP仕様が7月28日版にアップデート——ステートレス通信が正式標準化、GitHub MCPサーバが即日対応",
-        "Claude Opus 5 Now Available in GitHub Copilot — Agentic Coding at Scale Across All Tiers",
-        "Google Cloud Launches CodeMender: Autonomous AI Agent for End-to-End Vulnerability Detection and Remediation",
-        "Claude Opus 5: Frontier Intelligence at Half the Cost — ARC-AGI 3 and OSWorld 2.0 Results Analyzed"
       ]
     }
   ]

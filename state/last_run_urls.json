@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-30T05:00:00+09:00",
+  "last_run_at": "2026-07-30T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-30T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589855",
+        "https://news.yahoo.co.jp/pickup/6589856",
+        "https://news.yahoo.co.jp/pickup/6589851",
+        "https://www.itmedia.co.jp/news/article/2607/30/2000000285/",
+        "https://news.yahoo.co.jp/pickup/6589853",
+        "https://zenn.dev/nabewata/articles/8cef1bd4cbae3f",
+        "https://zenn.dev/fixstars/articles/kimi-k3-benchmark",
+        "https://zenn.dev/st_little/articles/gemma4-benchmark-dgx-spark",
+        "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+        "https://github.com/drumih/turbo-fieldfare",
+        "https://www.itmedia.co.jp/news/article/2607/30/2000000284/"
+      ],
+      "titles": [
+        "熊本地震・家屋倒壊で救助活動が難航——猛暑のなかがれき撤去続く",
+        "東京・目黒のカフェで火災、男性1人死亡——オーナーと連絡とれず捜査",
+        "熊本地震に各国首脳がお見舞いコメント——国際社会から支援の声相次ぐ",
+        "マイクロソフト増収増益——Azure初の年収1000億ドル超、Copilot有料シート3000万件に",
+        "「結婚が標準形」という前提——単身社会が問い直す「普通」の枠組み",
+        "AI時代のエンジニア危機感——「見た目8割、実態1割」のPoC量産時代に本番品質を守る方法",
+        "2.8兆パラメータのKimi-K3をDay0デプロイ——NVIDIA B300×8ノードで5448トークン/秒を達成",
+        "NVIDIA DGX SparkでGemma 4モデルを比較検証——26Bが31Bの約4倍のスループットで開発体験に優れる",
+        "GitHub Copilot Code Review: Agent Skills and MCP Now Generally Available",
+        "TurboFieldfare: Run Gemma 4 26B on Just 2 GB of RAM on Any M-Series Mac",
+        "Meta Q2 2026: Revenue Up 28% but Net Income Falls 14% as AI Capex Hits $145B Guidance"
+      ]
+    },
     {
       "run_at": "2026-07-30T05:00:00+09:00",
       "urls": [

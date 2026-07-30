@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-31T00:00:00+09:00",
+  "last_run_at": "2026-07-31T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-31T05:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2607/31/2000000314/",
+        "https://news.yahoo.co.jp/pickup/6589926?source=rss",
+        "https://www.itmedia.co.jp/news/article/2607/30/2000000310/",
+        "https://www.itmedia.co.jp/news/article/2607/30/2000000307/",
+        "https://news.yahoo.co.jp/pickup/6589953?source=rss",
+        "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
+        "https://zenn.dev/kaji_kaji/articles/token-management-as-ai-proficiency",
+        "https://zenn.dev/aircloset/articles/6b47018589df0f",
+        "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+        "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+        "https://obryant.dev/p/2x-not-10x/"
+      ],
+      "titles": [
+        "熊本地震による通信障害、携帯4社すべてで復旧完了——避難者支援のデータ無制限提供は8月末まで継続",
+        "8月分の電気・ガス料金が値下がり——政府補助継続で全国的に家庭負担が軽減",
+        "「文スト」スマホゲームが前日予告で突然サービス終了——運営元の廃業で払い戻しなし、ユーザー困惑",
+        "楽天ドライブアプリから「ハッキングされた」虚偽通知——運営が緊急調査、「通知を開かないで」と呼びかけ",
+        "熊本地震ボランティア——受け入れ態勢の準備が進む、炎天下での活動に熱中症対策が課題",
+        "JetBrains、AIエージェントのコンテキスト取得を効率化する「JetBrains Context」を発表——コスト48%削減・レイテンシ59%短縮",
+        "エンジニアの習熟度は「トークン消費量」として露呈していく——AI活用効率の個人差が可視化される時代へ",
+        "GitHub ActionsのCI費用が膨らんでいるなら「Namespace」を試してみる価値あり——移行はruns-on 1行変更だけ",
+        "Google DeepMind Launches Gemini Robotics 2: Whole-Body Intelligence and Multi-Robot Collaboration for Physical AI",
+        "GitHub Stacked Pull Requests Now in Public Preview — Large Changes Broken into Reviewable Layers with One-Click Merge",
+        "\"2x, Not 10x\": Coding with LLMs in 2026 — The Staircase Hypothesis and Why Working Code Is Only 20% Done"
+      ]
+    },
     {
       "run_at": "2026-07-31T00:00:00+09:00",
       "urls": [

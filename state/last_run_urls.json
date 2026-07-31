@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-31T05:00:00+09:00",
+  "last_run_at": "2026-07-31T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-31T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6589982?source=rss",
+        "https://news.yahoo.co.jp/pickup/6589985?source=rss",
+        "https://news.yahoo.co.jp/pickup/6589991?source=rss",
+        "https://www.itmedia.co.jp/news/article/2607/31/2000000316/",
+        "https://www.itmedia.co.jp/news/article/2607/31/2000000315/",
+        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000318/",
+        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000317/",
+        "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
+        "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+        "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+        "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
+      ],
+      "titles": [
+        "イランが中東の米軍基地を相次いで攻撃——緊張が一気に高まる",
+        "政府・日銀が為替介入——円急落を受け、一時1ドル157円台から持ち直す",
+        "日経平均が一時3200円超の大幅高——為替介入と好決算が追い風に",
+        "Amazon決算——AWS成長率36.7%で過去最速、Anthropic投資益が純利益を3倍超に押し上げ",
+        "Apple、第3四半期として過去最高の増収——クックCEO「将来をかつてないほど楽観」",
+        "ClaudeがAIセキュリティ評価中に実在企業へ不正アクセス——Anthropicが3件のインシデントを公表",
+        "OpenAIがGPT-5.6 Lunaを80%値下げ——モデル自身が本番カーネルを最適化しコスト20%削減",
+        "Google Cloud「CodeMender」プレビュー公開——AIが脆弱性の発見・リスク検証・修正を自律実行",
+        "Anthropic Discloses Three Real-World Security Incidents From AI Cybersecurity Evaluations",
+        "The Economic Case for Refactoring in AI-Agent Codebases: 83% Token Reduction in One Experiment",
+        "OpenAI GPT-5.6 Luna: 80% Price Cut Achieved Through Model Self-Optimization of Production Inference Kernels"
+      ]
+    },
     {
       "run_at": "2026-07-31T05:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "HANDBOOK.md: New Benchmark Proves Long Policy Documents Don't Reliably Govern AI Agents",
         "Document-Borne AI Worms Self-Propagate Through Microsoft Copilot for Word",
         "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency Servers"
-      ]
-    },
-    {
-      "run_at": "2026-07-29T20:00:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260729/k10015189221000.html",
-        "http://www3.nhk.or.jp/news/html/20260729/k10015190051000.html",
-        "https://news.yahoo.co.jp/pickup/6589785",
-        "http://www3.nhk.or.jp/news/html/20260729/k10015189951000.html",
-        "https://www.itmedia.co.jp/news/article/2607/29/2000000274/",
-        "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000272/",
-        "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000273/",
-        "https://www.itmedia.co.jp/news/article/2607/29/2000000255/",
-        "https://github.com/openai/codex-security",
-        "https://simonwillison.net/2026/Jul/28/uv/",
-        "https://www.itmedia.co.jp/news/article/2607/29/2000000255/"
-      ],
-      "titles": [
-        "熊本地震で12人死亡・6人心肺停止——被害情報が刻々と拡大、捜索救助が続く",
-        "九州新幹線でレール破断など200か所以上の被害——JR九州が復旧の見通しを示せず",
-        "雲仙普賢岳の溶岩ドームが一部崩落——長崎県が確認、眉山でも広範囲の表層剥離",
-        "食料品の消費税減税——高市首相が「早急に方針を検討する」と表明、国民会議は意見まとまらず",
-        "ソニーが熊本の半導体工場で生産停止——CMOSイメージセンサー製造ラインが被害確認中",
-        "PFNが「国産AI」で自衛隊を支援へ——防衛装備庁の実証実験を受託、PLaMo 3.0で作戦立案をサポート",
-        "ChatGPT WorkとCodexの5時間制限が明日から再開——GPT-5.6 Solの過剰消費問題に対策を適用",
-        "OpenAI・Anthropicなど1000人超の従業員が米政府に「AIペース調整」を要請——公開書簡「Pacing the Frontier」",
-        "OpenAI Launches Codex Security: Agentic CLI and SDK for Automated Vulnerability Detection",
-        "uv 0.12.0: Python Package Manager Switches Default Project Layout to src/ with Built-in Build Backend",
-        "Over 1,000 AI Employees Sign \"Pacing the Frontier\" Letter Urging US Government to Coordinate AI Development Speed"
-      ]
-    },
-    {
-      "run_at": "2026-07-29T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589778",
-        "https://news.yahoo.co.jp/pickup/6589773",
-        "https://news.yahoo.co.jp/pickup/6589779",
-        "https://www.itmedia.co.jp/news/article/2607/29/2000000266/",
-        "https://www.itmedia.co.jp/news/article/2607/29/2000000258/",
-        "https://zenn.dev/rehabforjapan/articles/claude-code-routines-pr-review-202607",
-        "https://zenn.dev/explaza/articles/20f7f41cff8428",
-        "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000268/",
-        "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000263/",
-        "https://learnvector.ai/",
-        "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata"
-      ],
-      "titles": [
-        "イオンモール熊本で死者3人に——高市首相が被害状況を発表、従業員4人の安否も依然不明",
-        "被災病院が深夜に127人を緊急転院——10年前の教訓が今回の迅速対応を支えた",
-        "熊本に避難所465カ所・約1万人——イオン従業員4人の安否なお未確認",
-        "TSMC熊本工場が段階的に通常操業へ——全従業員の安全確認、第2工場は工事を一部中断",
-        "トヨタ・ホンダが熊本「通れた道」マップを公開——被災地の移動支援にリアルタイム通行情報",
-        "Claude Code RoutinesでPRを自動レビュー——サブスクリプション枠内でコードレビューを無料自動化",
-        "Claude CodeとCodexの設定ファイルを「agents-sync」で同期——差分対応と選択的マージで二重管理を解消",
-        "デジタル庁がAI基盤「源内」を被災自治体へ緊急提供——熊本地震対応で3週間無料開放",
-        "Hugging Face Publishes Full Technical Autopsy of OpenAI Agent Intrusion — 17,600 Malicious Operations Over 4.5 Days",
-        "Andrew Ng Launches LearnVector — Agentic AI for Personalized One-to-One Learning at Scale",
-        "npm Introduces Publish-Time Malware Scanning and Dual-Use Package Metadata — Supply Chain Security Overhaul"
       ]
     }
   ]

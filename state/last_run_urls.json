@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-31T10:00:00+09:00",
+  "last_run_at": "2026-07-31T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-31T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6590019?source=rss",
+        "https://news.yahoo.co.jp/pickup/6590011?source=rss",
+        "https://news.yahoo.co.jp/pickup/6590022?source=rss",
+        "https://www.itmedia.co.jp/news/article/2607/31/2000000327/",
+        "https://news.yahoo.co.jp/pickup/6590025?source=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
+        "https://zenn.dev/nasubikun/articles/opencli-web-research",
+        "https://zenn.dev/explaza/articles/20f7f41cff8428",
+        "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-code-july-2026-releases",
+        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000323/",
+        "https://simonwillison.net/2026/Jul/30/llm-rc2/"
+      ],
+      "titles": [
+        "熊本地震——液状化被害の拡大が懸念、断層沿いに地割れも確認",
+        "日銀、政策金利を1.0%程度に据え置き——追加利上げは見送り",
+        "日本製紙八代工場——煙突倒壊で9人死亡、地震被害が産業施設を直撃",
+        "アスクル、個人情報漏えいの恐れが約134万件に拡大——ランサムウェア攻撃の余波",
+        "海上保安庁、3千人超が日当を不正・誤請求——内部調査で発覚",
+        "PerplexityがAIエージェント暴走対策ツール「Numbat」をオープンソース公開——Claude Code・Codexを52ルールで監視",
+        "Web調査を「コマンド化」するOpenCLI——agent-browserの次世代、再利用可能なアダプターで効率化",
+        "Claude CodeとCodexの設定ファイルを同期する「agents-sync」——AGENTS.mdとSKILLSを2ツール間で一元管理",
+        "GitHub Copilot in VS Code — July 2026: Multi-Chat Sessions, Copilot Vision GA, and Agent Workflow Redesign",
+        "AI Discovers 13-Year-Old Chrome Vulnerability — Google Accelerates to Twice-Weekly Security Updates",
+        "LLM CLI 0.32rc2: New OpenAI-Compatible Endpoint Command and Default Model Upgrade to GPT-5.6 Luna"
+      ]
+    },
     {
       "run_at": "2026-07-31T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic's Position on Open-Weights AI: Targeted Policies Over Blanket Bans",
         "Adding Custom MCP Servers to Claude and ChatGPT: A Practical Guide That Exposes a Documentation Gap",
         "Claude Breaks Post-Quantum Cryptography Candidate: An Independent Expert's Assessment of Anthropic's Cryptanalysis Results"
-      ]
-    },
-    {
-      "run_at": "2026-07-30T00:00:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260729/k10015190171000.html",
-        "http://www3.nhk.or.jp/news/html/20260729/k10015189531000.html",
-        "http://www3.nhk.or.jp/news/html/20260729/k10015189721000.html",
-        "https://www.itmedia.co.jp/news/article/2607/29/2000000280/",
-        "https://www.itmedia.co.jp/news/article/2607/29/2000000281/",
-        "https://zenn.dev/reizt/articles/super-mcp-chatgpt",
-        "https://zenn.dev/macnica_englab/articles/154cc03e82d7e3",
-        "https://www.itmedia.co.jp/news/article/2607/29/2000000259/",
-        "https://arxiv.org/abs/2607.25398",
-        "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-        "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers"
-      ],
-      "titles": [
-        "熊本地震——午後10時過ぎに震度5弱の余震、1週間は強い揺れに警戒を",
-        "イオンモール熊本——夏休みの約3000人来店中に爆発・崩落、死者3人・心肺停止1人に",
-        "日本製紙八代工場——煙突倒壊で5人死亡・2人けが・4人安否不明、夜通し捜索",
-        "警察庁が熊本地震に便乗した詐欺を注意喚起——義援金名目の電子マネー詐取に警戒",
-        "災害時のスマホ電池節約術——携帯各社が推奨する設定・行動まとめ",
-        "自作APIをChatGPTから呼び出す「Super MCP」——OpenAPI + OAuth 2方向認証で個人APIをMCP化",
-        "OpenTelemetry Collectorの内部構造を全分解——Receiver・Processor・Exporterの役割をKubernetes環境で実証",
-        "ザッカーバーグCEO「超知能は全員のものであるべき」——WSJ寄稿でオープンAI普及論を展開",
-        "HANDBOOK.md: New Benchmark Proves Long Policy Documents Don't Reliably Govern AI Agents",
-        "Document-Borne AI Worms Self-Propagate Through Microsoft Copilot for Word",
-        "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency Servers"
       ]
     }
   ]

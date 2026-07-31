@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-07-31T15:00:00+09:00",
+  "last_run_at": "2026-07-31T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-07-31T20:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2607/31/2000000341/",
+        "https://www.itmedia.co.jp/news/article/2607/31/2000000336/",
+        "https://www.itmedia.co.jp/news/article/2607/31/2000000331/",
+        "https://www.itmedia.co.jp/news/article/2607/31/2000000328/",
+        "https://www.itmedia.co.jp/news/article/2607/31/2000000340/",
+        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
+        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000333/",
+        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000326/",
+        "https://api-docs.deepseek.com/updates/",
+        "https://blog.google/security/chrome-stronger-with-every-update/",
+        "https://lwn.net/Articles/1086041/"
+      ],
+      "titles": [
+        "ソニー熊本工場、8月中旬までに地震前の稼働水準へ復旧——早期復旧の理由を決算会見で明かす",
+        "キオクシアQ1純利益が前年同期比4500%増——AIサーバ向けNAND需要が業績をけん引",
+        "タカラトミーのデュエマアプリで最大15万5000人分の個人情報が漏えいか——認証脆弱性が11カ月放置",
+        "「空調服」は登録商標——公式Xの注意喚起が批判を浴び謝罪、弁理士は「賢明な対応」と評価",
+        "ロシアの「.ru」ドメイン、本人確認義務化で実質使用困難に——関連事業者が対応を急ぐ",
+        "スクウェア・エニックス、GeminiでゲームのQAテストを完全自動化——AIが画面を見てコントローラーを自走操作",
+        "OpenAI、研究者10万人に最上位モデルを無料提供——東大・京大など日本の15大学も対象",
+        "Thinking Machines、軽量モデル「Inkling-Small」正式公開——サイズ4分の1でInklingを超えるSWE-bench性能",
+        "DeepSeek-V4-Flash Official Public Beta: Dual API Support for OpenAI and Anthropic Interfaces",
+        "Google Uses AI to Discover a 13-Year-Old Chrome Sandbox Escape — Doubles Security Update Cadence",
+        "GCC Steering Committee Bans LLM-Generated Code Contributions — Policy Covers \"Legally Significant\" Submissions"
+      ]
+    },
     {
       "run_at": "2026-07-31T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "GitHub Copilot Code Review: Agent Skills and MCP Now Generally Available",
         "TurboFieldfare: Run Gemma 4 26B on Just 2 GB of RAM on Any M-Series Mac",
         "Meta Q2 2026: Revenue Up 28% but Net Income Falls 14% as AI Capex Hits $145B Guidance"
-      ]
-    },
-    {
-      "run_at": "2026-07-30T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589839",
-        "https://news.yahoo.co.jp/pickup/6589825",
-        "https://news.yahoo.co.jp/pickup/6589835",
-        "https://news.yahoo.co.jp/pickup/6589820",
-        "https://news.yahoo.co.jp/pickup/6589828",
-        "https://zenn.dev/singularity/articles/stopped-reviewing-my-code",
-        "https://zenn.dev/little_hand_s/articles/72646a09f49d2a",
-        "https://www.publickey1.jp/blog/26/kubernetesaikubeconcloudnativecon_japan_2026.html",
-        "https://anthropic.com/news/position-open-weights-models",
-        "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/",
-        "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/"
-      ],
-      "titles": [
-        "米FRBが5会合連続で政策金利を据え置き——インフレ警戒で慎重姿勢を維持",
-        "イオン社長「爆発は想定しきれなかった」——熊本ショッピングモール事故への対応を謝罪",
-        "建て替えたばかりの八代市庁舎が損傷——免震装置に深刻な被害、業務移転も検討",
-        "九州新幹線——熊本以南の被害全容いまだ把握できず、復旧見通し立たず",
-        "熊本の避難所で猛暑による脱水症状が続出——熱中症リスクへの早急な対策を求める声",
-        "1日500コミットは読めない——AIエージェント時代にコードレビューをやめた理由と新しい品質保証の仕組み",
-        "Claude Opus 5での「検証して」は逆効果——公式ガイドが示すプロンプト最適化の新常識",
-        "KubeCon Japan 2026が横浜で開幕——「KubernetesはAIを動かすプラットフォームになった」",
-        "Anthropic's Position on Open-Weights AI: Targeted Policies Over Blanket Bans",
-        "Adding Custom MCP Servers to Claude and ChatGPT: A Practical Guide That Exposes a Documentation Gap",
-        "Claude Breaks Post-Quantum Cryptography Candidate: An Independent Expert's Assessment of Anthropic's Cryptanalysis Results"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-02T00:00:00+09:00",
+  "last_run_at": "2026-08-02T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-02T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026073101338&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080100288&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080100327&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080100349&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/article/2607/31/2000000315/",
+        "https://zenn.dev/komlock_lab/articles/mcp-stateless-spec-2026",
+        "https://www.itmedia.co.jp/business/articles/2607/31/news049.html",
+        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000320/",
+        "https://www.jiji.com/jc/article?k=2026073101338&g=int&m=rss",
+        "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+        "https://microsoft.github.io/flint-chart/"
+      ],
+      "titles": [
+        "EU、AI生成コンテンツへの表示義務を施行——違反企業に最大35億円の制裁金",
+        "フィリピン、南シナ海の海図を国連に提出——中国は強く反発",
+        "米、ウイグル強制労働を理由に新たに43社からの輸入を禁止——中国は強く批判",
+        "愛子さま、三重県の伊勢神宮行事を視察——初の公式地方訪問",
+        "Apple、4〜6月期決算が第3四半期として過去最高——クックCEO最後の決算会見",
+        "MCPの大型アップデート（2026-07-28）で何が変わったか——TypeScript SDK v2で試すステートレス通信",
+        "日立、SIの全工程をAIエージェントで自動化——仕様確定工程で最大240倍の効率化を実現",
+        "Google、ロボット向けAI「Gemini Robotics 2」発表——ヒューマノイドの全身制御と指先操作を実現",
+        "EU AI Act Enforcement Begins: AI-Generated Content Must Be Labeled, Violations Up to €35M",
+        "Cursor Silently Removed Cost Transparency: Usage Page No Longer Shows Token Spend",
+        "Microsoft Releases Flint: A Declarative Visualization Language Designed for the AI Era"
+      ]
+    },
     {
       "run_at": "2026-08-02T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "DeepSeek-V4-Flash Official Public Beta: Dual API Support for OpenAI and Anthropic Interfaces",
         "Google Uses AI to Discover a 13-Year-Old Chrome Sandbox Escape — Doubles Security Update Cadence",
         "GCC Steering Committee Bans LLM-Generated Code Contributions — Policy Covers \"Legally Significant\" Submissions"
-      ]
-    },
-    {
-      "run_at": "2026-07-31T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6590019?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590011?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590022?source=rss",
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000327/",
-        "https://news.yahoo.co.jp/pickup/6590025?source=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
-        "https://zenn.dev/nasubikun/articles/opencli-web-research",
-        "https://zenn.dev/explaza/articles/20f7f41cff8428",
-        "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-code-july-2026-releases",
-        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000323/",
-        "https://simonwillison.net/2026/Jul/30/llm-rc2/"
-      ],
-      "titles": [
-        "熊本地震——液状化被害の拡大が懸念、断層沿いに地割れも確認",
-        "日銀、政策金利を1.0%程度に据え置き——追加利上げは見送り",
-        "日本製紙八代工場——煙突倒壊で9人死亡、地震被害が産業施設を直撃",
-        "アスクル、個人情報漏えいの恐れが約134万件に拡大——ランサムウェア攻撃の余波",
-        "海上保安庁、3千人超が日当を不正・誤請求——内部調査で発覚",
-        "PerplexityがAIエージェント暴走対策ツール「Numbat」をオープンソース公開——Claude Code・Codexを52ルールで監視",
-        "Web調査を「コマンド化」するOpenCLI——agent-browserの次世代、再利用可能なアダプターで効率化",
-        "Claude CodeとCodexの設定ファイルを同期する「agents-sync」——AGENTS.mdとSKILLSを2ツール間で一元管理",
-        "GitHub Copilot in VS Code — July 2026: Multi-Chat Sessions, Copilot Vision GA, and Agent Workflow Redesign",
-        "AI Discovers 13-Year-Old Chrome Vulnerability — Google Accelerates to Twice-Weekly Security Updates",
-        "LLM CLI 0.32rc2: New OpenAI-Compatible Endpoint Command and Default Model Upgrade to GPT-5.6 Luna"
       ]
     }
   ]

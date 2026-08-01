@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-01T10:00:00+09:00",
+  "last_run_at": "2026-08-01T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-01T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6590135?source=rss",
+        "https://news.yahoo.co.jp/pickup/6590140?source=rss",
+        "https://news.yahoo.co.jp/pickup/6590149?source=rss",
+        "https://www.itmedia.co.jp/news/article/2607/30/2000000291/",
+        "https://www.itmedia.co.jp/news/article/2607/31/2000000331/",
+        "https://zenn.dev/ubie_dev/articles/gh-stack-introduction",
+        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
+        "https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66",
+        "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+        "https://simonwillison.net/2026/Jul/31/smevals/",
+        "https://github.com/yc-software/qm"
+      ],
+      "titles": [
+        "日銀、次の利上げ時期が焦点に——9月以降「しっかり議論」と植田総裁",
+        "マイナ保険証、8月1日から完全移行——旧来の紙の保険証は廃止へ",
+        "恐怖忘れ瓦礫の下へ——19歳青年、熊本地震で高齢者2人を救出",
+        "ドコモ、ahamoを40GBに増量——8月1日から料金据え置きで提供",
+        "タカラトミー、デュエマアプリで個人情報が最大15万5000人分漏えいか",
+        "GitHubにスタックPRが登場——gh stackでAIエージェント時代の大量コードを分割管理",
+        "スクウェア・エニックス、GeminiでゲームQAテストを自動化——AIがコントローラーを自走操作",
+        "CLAUDE.md 設計パターン集——プロジェクト規模別に使い分ける7つのテンプレート",
+        "GitHub Copilot Enterprise Now Supports Team-Level Model Policy Targeting",
+        "smevals: Simon Willison Releases Open-Source Eval Framework for Testing Models, Prompts & Harnesses",
+        "QM: Open-Source Multiplayer Agent Harness for Organizations — Claude Code, Codex & Pi in One Platform"
+      ]
+    },
     {
       "run_at": "2026-08-01T10:00:00+09:00",
       "urls": [

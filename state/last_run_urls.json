@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-01T15:00:00+09:00",
+  "last_run_at": "2026-08-01T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-01T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6590168?source=rss",
+        "https://news.yahoo.co.jp/pickup/6590181?source=rss",
+        "https://news.yahoo.co.jp/pickup/6590175?source=rss",
+        "https://news.yahoo.co.jp/pickup/6590170?source=rss",
+        "https://news.yahoo.co.jp/pickup/6590179?source=rss",
+        "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
+        "https://zenn.dev/yumanichan/articles/browser-agent-return-vs-state",
+        "https://zenn.dev/fd_ai_teacher/articles/tech-20260731092149-1",
+        "https://weeraman.com/the-prototype-isnt-the-product/",
+        "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/",
+        "https://github.com/golang/go/issues/80590"
+      ],
+      "titles": [
+        "ロシア、ウクライナの首都キーウを大規模空爆——少なくとも9人が死亡、市街地に大きな被害",
+        "熊本地震：避難者2200人規模受け入れへ——旅館・ホテル73施設確保、自治体と調整中",
+        "「頑張って」と声かけながら——ベトナム人の若者5人、熊本・八代市の倒壊家屋から女性を救出",
+        "夏の甲子園、組み合わせ決定——横浜vs沖縄尚学が初戦の注目カードに",
+        "川遊びの男子中学生が流され意識不明——愛知・豊田市の矢作川で水難事故",
+        "AIフレンドリーなCLIを開発する5つのテクニック——エージェント時代のツール設計論",
+        "「25件取得しました」——実際は432件あった：AIブラウザエージェントの偽りの成功を検証する",
+        "LLMマルチエージェントの深層——Function Callingと連携設計の原則",
+        "The Prototype Isn't the Product: Why AI Can't Replace Engineering Judgment",
+        "DeepSeek-V4-Flash-0731: 304B Parameter Model Delivers Best Value-per-Intelligence on Current Market",
+        "Go Proposal: Adding Generic Collection Types to Standard Library for Go 1.28"
+      ]
+    },
     {
       "run_at": "2026-08-01T15:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "GitHub Copilot in VS Code — July 2026: Multi-Chat Sessions, Copilot Vision GA, and Agent Workflow Redesign",
         "AI Discovers 13-Year-Old Chrome Vulnerability — Google Accelerates to Twice-Weekly Security Updates",
         "LLM CLI 0.32rc2: New OpenAI-Compatible Endpoint Command and Default Model Upgrade to GPT-5.6 Luna"
-      ]
-    },
-    {
-      "run_at": "2026-07-31T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589982?source=rss",
-        "https://news.yahoo.co.jp/pickup/6589985?source=rss",
-        "https://news.yahoo.co.jp/pickup/6589991?source=rss",
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000316/",
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000315/",
-        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000318/",
-        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000317/",
-        "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
-        "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-        "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-        "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
-      ],
-      "titles": [
-        "イランが中東の米軍基地を相次いで攻撃——緊張が一気に高まる",
-        "政府・日銀が為替介入——円急落を受け、一時1ドル157円台から持ち直す",
-        "日経平均が一時3200円超の大幅高——為替介入と好決算が追い風に",
-        "Amazon決算——AWS成長率36.7%で過去最速、Anthropic投資益が純利益を3倍超に押し上げ",
-        "Apple、第3四半期として過去最高の増収——クックCEO「将来をかつてないほど楽観」",
-        "ClaudeがAIセキュリティ評価中に実在企業へ不正アクセス——Anthropicが3件のインシデントを公表",
-        "OpenAIがGPT-5.6 Lunaを80%値下げ——モデル自身が本番カーネルを最適化しコスト20%削減",
-        "Google Cloud「CodeMender」プレビュー公開——AIが脆弱性の発見・リスク検証・修正を自律実行",
-        "Anthropic Discloses Three Real-World Security Incidents From AI Cybersecurity Evaluations",
-        "The Economic Case for Refactoring in AI-Agent Codebases: 83% Token Reduction in One Experiment",
-        "OpenAI GPT-5.6 Luna: 80% Price Cut Achieved Through Model Self-Optimization of Production Inference Kernels"
-      ]
-    },
-    {
-      "run_at": "2026-07-31T05:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000314/",
-        "https://news.yahoo.co.jp/pickup/6589926?source=rss",
-        "https://www.itmedia.co.jp/news/article/2607/30/2000000310/",
-        "https://www.itmedia.co.jp/news/article/2607/30/2000000307/",
-        "https://news.yahoo.co.jp/pickup/6589953?source=rss",
-        "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
-        "https://zenn.dev/kaji_kaji/articles/token-management-as-ai-proficiency",
-        "https://zenn.dev/aircloset/articles/6b47018589df0f",
-        "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-        "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-        "https://obryant.dev/p/2x-not-10x/"
-      ],
-      "titles": [
-        "熊本地震による通信障害、携帯4社すべてで復旧完了——避難者支援のデータ無制限提供は8月末まで継続",
-        "8月分の電気・ガス料金が値下がり——政府補助継続で全国的に家庭負担が軽減",
-        "「文スト」スマホゲームが前日予告で突然サービス終了——運営元の廃業で払い戻しなし、ユーザー困惑",
-        "楽天ドライブアプリから「ハッキングされた」虚偽通知——運営が緊急調査、「通知を開かないで」と呼びかけ",
-        "熊本地震ボランティア——受け入れ態勢の準備が進む、炎天下での活動に熱中症対策が課題",
-        "JetBrains、AIエージェントのコンテキスト取得を効率化する「JetBrains Context」を発表——コスト48%削減・レイテンシ59%短縮",
-        "エンジニアの習熟度は「トークン消費量」として露呈していく——AI活用効率の個人差が可視化される時代へ",
-        "GitHub ActionsのCI費用が膨らんでいるなら「Namespace」を試してみる価値あり——移行はruns-on 1行変更だけ",
-        "Google DeepMind Launches Gemini Robotics 2: Whole-Body Intelligence and Multi-Robot Collaboration for Physical AI",
-        "GitHub Stacked Pull Requests Now in Public Preview — Large Changes Broken into Reviewable Layers with One-Click Merge",
-        "\"2x, Not 10x\": Coding with LLMs in 2026 — The Staircase Hypothesis and Why Working Code Is Only 20% Done"
-      ]
-    },
-    {
-      "run_at": "2026-07-31T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6589870",
-        "https://news.yahoo.co.jp/pickup/6589871",
-        "https://news.yahoo.co.jp/pickup/6589872",
-        "https://news.yahoo.co.jp/pickup/6589870",
-        "https://news.yahoo.co.jp/pickup/6589870",
-        "https://zenn.dev/riku2025/articles/ai-agent-role-separation-5-traps",
-        "https://zenn.dev/type37/articles/15519b426394d2",
-        "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000289/",
-        "https://www.latent.space/p/ontologies-agentic-systems",
-        "https://www.langchain.com/blog/deep-agents-v0-7",
-        "https://github.com/YoanWai/agent-manager"
-      ],
-      "titles": [
-        "熊本地震——関連死含む28人死亡確認、首相が8月3日の現地入りを調整",
-        "円相場が一時1ドル157円台に——急落後に値を戻す、為替介入の観測も",
-        "イオンモール熊本爆発——経済産業省が独自調査チーム設置、原因究明へ",
-        "広島カープ選手の薬物疑惑——球団幹部宅への家宅捜索で波紋広がる",
-        "映画「九条の大罪」制作決定——柳楽優弥主演、漫画の実写化に期待高まる",
-        "AIエージェントに「発想」と「評価」を同時にやらせてはいけない——2ヶ月運用して踏んだ5つの罠",
-        "LLMエージェントの「できました」を検証する——OpenTelemetryで改竄できない完了記録を作る",
-        "Google、音楽生成AI「Lyria 3.5」を発表——ボーカル表現力・歌詞対応を大幅強化",
-        "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
-        "Deep Agents v0.7: 65% Fewer Input Tokens Per Turn Through Radical Prompt Architecture Slimming",
-        "Agent-Manager: Open-Source Tmux TUI for Running Claude Code, Codex, and OpenCode in Parallel"
-      ]
-    },
-    {
-      "run_at": "2026-07-30T20:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2607/30/2000000311/",
-        "https://news.yahoo.co.jp/pickup/6589870",
-        "https://news.yahoo.co.jp/pickup/6589871",
-        "https://news.yahoo.co.jp/pickup/6589872",
-        "https://www.itmedia.co.jp/news/article/2607/30/2000000309/",
-        "https://zenn.dev/notahotel/articles/0c28638945aa32",
-        "https://zenn.dev/komlock_lab/articles/mcp-stateless-spec-2026",
-        "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000302/",
-        "https://www.anthropic.com/news/cognizant-anthropic",
-        "https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html",
-        "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise"
-      ],
-      "titles": [
-        "熊本地震でSNSにデマ拡散——能登の映像誤用や偽救助要請で被災対応に影響",
-        "高市首相が消費税1%引き下げを自民党に正式指示——2027年4月からの2年間限定",
-        "広島カープ選手の自宅を県警が家宅捜索——球団オーナーが謝罪会見",
-        "大谷翔平が契約総額「歴代1位」から陥落——3年でランキングが塗り替え",
-        "KADOKAWAとはてなが小説執筆AIエディタ「RIKU」を発表——生成AIで創作支援",
-        "【Claude Code】planモードはもう使っていない——最新モデルで「案をください」メソッドが代替に",
-        "MCPの大型アップデート（2026-07-28）で何が変わったか——TypeScript SDK v2でステートレス設計に転換",
-        "HPがRakuten AI for DesktopをプリインストールしたPCを発売——70億パラメータの日本語LLMがオフラインでも動作",
-        "Cognizant and Anthropic Expand Global Partnership to Deploy Claude Across Enterprise Operations",
-        "Vercel Open-Sources \"scriptc\": Compiles TypeScript to Native Binary via C — 47ms → 2.4ms Startup",
-        "GitHub Copilot Default Model Enablement for Business and Enterprise: New Auto-Enable Policy Takes Effect August 26"
       ]
     }
   ]

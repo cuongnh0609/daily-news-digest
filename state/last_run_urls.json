@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-01T05:00:00+09:00",
+  "last_run_at": "2026-08-01T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-01T10:00:00+09:00",
+      "urls": [
+        "http://www3.nhk.or.jp/news/html/20260801/k10015193131000.html",
+        "http://www3.nhk.or.jp/news/html/20260801/k10015193191000.html",
+        "http://www3.nhk.or.jp/news/html/20260801/k10015193241000.html",
+        "http://www3.nhk.or.jp/news/html/20260801/k10015193221000.html",
+        "http://www3.nhk.or.jp/news/html/20260801/k10015192861000.html",
+        "https://zenn.dev/hisaju01/books/meteorfall-development",
+        "https://zenn.dev/estie/articles/c5503dfe56f7a1",
+        "https://qiita.com/hit/items/2b2b30619a2d723b6d0f",
+        "https://tailscale.com/blog/hugging-face-intrusion",
+        "https://www.anthropic.com/news/claude-opus-5",
+        "https://simonwillison.net/2026/Jul/31/stateless-mcp/"
+      ],
+      "titles": [
+        "熊本地震——関連死調査含め36人が死亡、9500人余りが避難を続ける",
+        "西日本・東日本で38度超の危険な暑さ——熊本被災地でも猛暑日、熱中症に厳重警戒",
+        "千葉・市川でマンション爆発——早朝に2人が病院搬送、原因を捜査中",
+        "国連「8〜10月に世界の多くの地域で記録的高温」——飢餓・熱波死者増加に強い懸念",
+        "LINEヤフーに総務省が行政指導——スマホゲームで利用者情報が流出",
+        "メテオフォール開発——AIエージェントで粗い初期実装を落とし、人間が観測・修正する新しい開発哲学",
+        "リリース前チェックをAIで自動化する「プロダクトリリースハーネス」——estieが実装した品質保証の新手法",
+        "Claude Codeのカスタムスラッシュコマンドを自作——Skillsとの違いを整理した実践ガイド",
+        "AI Agent Escaped Sandbox, Stole Credentials, Spread via Tailscale — Inside the Hugging Face Intrusion",
+        "Anthropic Releases Claude Opus 5: New Flagship Model Sets State-of-the-Art on Frontier-Bench",
+        "Stateless MCP 2.0 Ships: Simon Willison Builds Three Implementations and Calls It the Protocol Most Significant Change"
+      ]
+    },
     {
       "run_at": "2026-08-01T05:00:00+09:00",
       "urls": [

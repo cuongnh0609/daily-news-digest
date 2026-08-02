@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-02T10:00:00+09:00",
+  "last_run_at": "2026-08-02T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-02T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026080200123&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080200088&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080200131&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6590254?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/02/2000000347/",
+        "https://zenn.dev/explaza/articles/20f7f41cff8428",
+        "https://zenn.dev/fixstars/articles/kimi-k3-benchmark",
+        "https://zenn.dev/test_myname/articles/gpt-5-6-blender-mcp-modeling",
+        "https://simonwillison.net/2026/Aug/2/open-letters/",
+        "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-code-july-2026-releases",
+        "https://simonwillison.net/2026/Aug/1/datasette-apps/"
+      ],
+      "titles": [
+        "熊本地震、熱中症疑いで初の「災害関連死」——死者38人に、猛暑と断水が被災地を直撃",
+        "トランプ米大統領、ホルムズ海峡開放を条件にイラン攻撃を見送り——土壇場の外交が奏功",
+        "ペルー・ナスカ地上絵付近で遊覧機が墜落——外国人観光客含む13人全員死亡",
+        "近畿で初の酷暑日、和歌山で40.1度を記録——列島全域で危険な暑さが続く",
+        "Googleのパーソナル AI「Gemini Spark」、日本でもサービス開始——Chrome との統合は米国先行",
+        "【決着】Claude CodeとCodexの設定ファイルを同期させる——agents-syncで二重管理を終わらせた話",
+        "Kimi-K3をDay0デプロイ——2.8TパラメーターのMoEモデルはNVIDIA B300×8の1ノードで動くのか",
+        "GPT-5.6とBlender MCPで「多少マシな」3Dモデリング——6役のマルチエージェント構成で積み木を超えた",
+        "Three Competing Open Letters Reveal Deep Splits in AI Industry Over Open-Weights, Safety, and Development Pace",
+        "GitHub Copilot in VS Code July 2026: Multi-Chat Sessions, Agent Vision GA, BYOK Models, and Voice Dictation",
+        "datasette-apps 0.2a0: AI Agent Can Now Build, Test, and Debug Its Own Apps via Browser Sandbox"
+      ]
+    },
     {
       "run_at": "2026-08-02T10:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "GitHub Copilot Code Review: Agent Skills and MCP Now Generally Available",
         "SWE-rebench: 13 Models and 4 Agents Benchmarked Across Go, Java, Python, Rust, TypeScript",
         "AI Worming Through Word: Self-Replicating Prompt Injection Discovered in Microsoft Copilot for Word"
-      ]
-    },
-    {
-      "run_at": "2026-08-01T00:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000345/",
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000342/",
-        "https://news.yahoo.co.jp/pickup/6590083?source=rss",
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000330/",
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000321/",
-        "https://www.itmedia.co.jp/business/articles/2607/31/news049.html",
-        "https://zenn.dev/singularity/articles/stopped-reviewing-my-code",
-        "https://www.itmedia.co.jp/enterprise/articles/2607/31/news094.html",
-        "https://www.anthropic.com/news/position-open-weights-models",
-        "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-        "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/"
-      ],
-      "titles": [
-        "セブン＆アイ、PayPayとの共通会員ID統合を正式発表——ソフトバンク・三井住友グループなど計3000億円を出資",
-        "ソニー、タムロン買収の狙いを説明——「イメージング事業の長期的発展につながる」",
-        "ハマスが武装解除に合意——幹部が初めて明言、中東情勢の転換点か",
-        "不動産詐欺対策でICチップ導入の議論——「多重防御なければ効果薄い」と専門家",
-        "熊本地震の被害を衛星データで地図化——航空写真400枚超も公開、復旧支援に活用",
-        "日立、SI全工程をAIエージェントで自動化——仕様確定工程で最大240倍の効率化を実現",
-        "1日500コミットは読めない——AIエージェントが量産する時代に「コードレビューをやめた」",
-        "IBM Bob、9カ月かかる作業を3日に短縮——レガシー刷新ワークフローに新機能「Bobalytics」を追加",
-        "Anthropic's Position on Open-Weights AI: No Blanket Ban, But Mandatory Safety Testing for All Frontier Models",
-        "GitHub Models Retired: Platform Shuts Down Playground, API, and BYOK — Redirects to Copilot and Microsoft Foundry",
-        "Simon Willison: How to Add a Custom MCP Server to Claude and ChatGPT's Web Interfaces — A Practical Walkthrough"
-      ]
-    },
-    {
-      "run_at": "2026-07-31T20:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000341/",
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000336/",
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000331/",
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000328/",
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000340/",
-        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
-        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000333/",
-        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000326/",
-        "https://api-docs.deepseek.com/updates/",
-        "https://blog.google/security/chrome-stronger-with-every-update/",
-        "https://lwn.net/Articles/1086041/"
-      ],
-      "titles": [
-        "ソニー熊本工場、8月中旬までに地震前の稼働水準へ復旧——早期復旧の理由を決算会見で明かす",
-        "キオクシアQ1純利益が前年同期比4500%増——AIサーバ向けNAND需要が業績をけん引",
-        "タカラトミーのデュエマアプリで最大15万5000人分の個人情報が漏えいか——認証脆弱性が11カ月放置",
-        "「空調服」は登録商標——公式Xの注意喚起が批判を浴び謝罪、弁理士は「賢明な対応」と評価",
-        "ロシアの「.ru」ドメイン、本人確認義務化で実質使用困難に——関連事業者が対応を急ぐ",
-        "スクウェア・エニックス、GeminiでゲームのQAテストを完全自動化——AIが画面を見てコントローラーを自走操作",
-        "OpenAI、研究者10万人に最上位モデルを無料提供——東大・京大など日本の15大学も対象",
-        "Thinking Machines、軽量モデル「Inkling-Small」正式公開——サイズ4分の1でInklingを超えるSWE-bench性能",
-        "DeepSeek-V4-Flash Official Public Beta: Dual API Support for OpenAI and Anthropic Interfaces",
-        "Google Uses AI to Discover a 13-Year-Old Chrome Sandbox Escape — Doubles Security Update Cadence",
-        "GCC Steering Committee Bans LLM-Generated Code Contributions — Policy Covers \"Legally Significant\" Submissions"
       ]
     }
   ]

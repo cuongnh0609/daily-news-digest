@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-02T05:00:00+09:00",
+  "last_run_at": "2026-08-02T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-02T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6590216?source=rss",
+        "https://news.yahoo.co.jp/pickup/6590206?source=rss",
+        "https://www.jiji.com/jc/article?k=2026080200069&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080100280&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
+        "https://zenn.dev/joinclass/books/ai-dlc-textbook",
+        "https://zenn.dev/triponte/articles/claude-code-hook-enforce-rules",
+        "https://zenn.dev/akimitu_666/articles/did-graphs-replace-rag",
+        "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
+        "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"
+      ],
+      "titles": [
+        "東海・九州で酷暑続く——熱中症警戒アラートを各地で発令、屋外活動に厳重注意",
+        "大谷翔平、24号本塁打ボールの返却を希望——ファンとの特別エピソードが話題に",
+        "モスクワの飲食店で爆発、3人死亡——女が「贈り物」として持ち込んだ爆発物か",
+        "防衛機密をクラウドで管理へ——AI活用を本格化、来年度から移行準備に着手",
+        "OpenAI、アクティブユーザーが世界10億人を突破——企業導入も200万社超、AIが日常インフラに",
+        "AI駆動開発ライフサイクル（AI-DLC）の教科書——2〜3人チームが大規模アウトプットを出す実践知を体系化",
+        "AIに「ルールを守って」と言うのをやめた——Claude Codeのhookで制約を物理的に強制する仕組みを作った話",
+        "「RAGはグラフに置き換わった」は本当か——Microsoft・Stanford・Anthropicが実際に選んだのは3つの別の道",
+        "GitHub Stacked Pull Requests Now in Public Preview — Stack-Based Workflows for Large Code Changes",
+        "Perplexity Open-Sources Numbat: Real-Time Safety Toolkit That Monitors and Blocks Dangerous AI Agent Behaviors",
+        "ByteDance Launches Seedance 2.5: AI Video Generator Extends to 30-Second Clips with Multimodal Reference Support"
+      ]
+    },
     {
       "run_at": "2026-08-02T05:00:00+09:00",
       "urls": [

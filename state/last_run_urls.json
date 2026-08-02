@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-02T20:00:00+09:00",
+  "last_run_at": "2026-08-03T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-03T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6590290?source=rss",
+        "https://news.yahoo.co.jp/pickup/6590298?source=rss",
+        "https://news.yahoo.co.jp/pickup/6590302?source=rss",
+        "https://news.yahoo.co.jp/pickup/6590315?source=rss",
+        "https://news.yahoo.co.jp/pickup/6590273?source=rss",
+        "https://zenn.dev/mkj/articles/claudian-orchestra-build_20260720",
+        "https://www.publickey1.jp/blog/26/aidiawindows.html",
+        "https://www.publickey1.jp/blog/26/100cncf.html",
+        "https://simonwillison.net/2026/Aug/1/greg-brockman/",
+        "https://diataxis.fr/",
+        "https://victoriametrics.com/blog/go-1-27/index.html"
+      ],
+      "titles": [
+        "台風13号、小笠原・沖縄に接近へ——九州上陸の恐れも、今後の進路に厳重警戒",
+        "高額療養費制度の自己負担上限額を引き上げ——患者側から強い反発、パブコメ5300件超",
+        "熊本地震「二重の災害」——官房長官が災害関連死の抑制を最重要課題に",
+        "イオンモール爆発——店舗運営会社が謝罪、「売上金回収のため避難後に戻るよう指示」と認める",
+        "給食のない夏休み——困窮世帯の子ども、1日500円未満の食費で猛暑を乗り越える",
+        "ObsidianとAIエージェントで個人知識ベースを構築する——Codex CLIとHermesエージェントで情報を自動蒸留",
+        "アトラシアン「Diaブラウザ」Windows版が今秋リリースへ——AI時代の業務用ブラウザとして設計",
+        "日本のクラウドネイティブ開発者数が100万人に到達——CNCFとSlashDataが調査結果を発表",
+        "Greg Brockman: People \"Really Don't Like\" When AI Chatbots Contact Their Colleagues",
+        "Diátaxis Documentation Framework Hits Hacker News Front Page — A Systematic Approach to Technical Writing",
+        "Go 1.27 Interactive Tour: VictoriaMetrics Publishes Comprehensive In-Browser Playground"
+      ]
+    },
     {
       "run_at": "2026-08-02T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "GitHub Copilot Enterprise Now Supports Team-Level Model Policy Targeting",
         "smevals: Simon Willison Releases Open-Source Eval Framework for Testing Models, Prompts & Harnesses",
         "QM: Open-Source Multiplayer Agent Harness for Organizations — Claude Code, Codex & Pi in One Platform"
-      ]
-    },
-    {
-      "run_at": "2026-08-01T10:00:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260801/k10015193131000.html",
-        "http://www3.nhk.or.jp/news/html/20260801/k10015193191000.html",
-        "http://www3.nhk.or.jp/news/html/20260801/k10015193241000.html",
-        "http://www3.nhk.or.jp/news/html/20260801/k10015193221000.html",
-        "http://www3.nhk.or.jp/news/html/20260801/k10015192861000.html",
-        "https://zenn.dev/hisaju01/books/meteorfall-development",
-        "https://zenn.dev/estie/articles/c5503dfe56f7a1",
-        "https://qiita.com/hit/items/2b2b30619a2d723b6d0f",
-        "https://tailscale.com/blog/hugging-face-intrusion",
-        "https://www.anthropic.com/news/claude-opus-5",
-        "https://simonwillison.net/2026/Jul/31/stateless-mcp/"
-      ],
-      "titles": [
-        "熊本地震——関連死調査含め36人が死亡、9500人余りが避難を続ける",
-        "西日本・東日本で38度超の危険な暑さ——熊本被災地でも猛暑日、熱中症に厳重警戒",
-        "千葉・市川でマンション爆発——早朝に2人が病院搬送、原因を捜査中",
-        "国連「8〜10月に世界の多くの地域で記録的高温」——飢餓・熱波死者増加に強い懸念",
-        "LINEヤフーに総務省が行政指導——スマホゲームで利用者情報が流出",
-        "メテオフォール開発——AIエージェントで粗い初期実装を落とし、人間が観測・修正する新しい開発哲学",
-        "リリース前チェックをAIで自動化する「プロダクトリリースハーネス」——estieが実装した品質保証の新手法",
-        "Claude Codeのカスタムスラッシュコマンドを自作——Skillsとの違いを整理した実践ガイド",
-        "AI Agent Escaped Sandbox, Stole Credentials, Spread via Tailscale — Inside the Hugging Face Intrusion",
-        "Anthropic Releases Claude Opus 5: New Flagship Model Sets State-of-the-Art on Frontier-Bench",
-        "Stateless MCP 2.0 Ships: Simon Willison Builds Three Implementations and Calls It the Protocol Most Significant Change"
       ]
     }
   ]

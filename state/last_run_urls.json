@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-03T10:00:00+09:00",
+  "last_run_at": "2026-08-03T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-03T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026080300053&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080300055&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080300398&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080200172&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080300430&g=soc&m=rss",
+        "https://zenn.dev/osakayakyu/articles/e6aa9835c04d73",
+        "https://zenn.dev/hellohazime/articles/kimi_k3_reap640_512gb_mac",
+        "https://zenn.dev/nabewata/articles/8cef1bd4cbae3f",
+        "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000353/",
+        "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
+        "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000350/"
+      ],
+      "titles": [
+        "高市首相、熊本被災地を初訪問——避難者・自治体から要望聴取、酷暑の中で復旧を指示",
+        "熊本地震１週間——記録的猛暑の中、ホテル避難受け付けと仮設住宅建設が始動",
+        "熊本へのふるさと納税が7億円超——震災後1週間で全国からの支援が加速",
+        "広島平和記念資料館、原爆展示に「子ども向け選択制」導入へ——被爆者らから反発の声",
+        "生成AIで女子中学生の画像を裸に加工・SNS投稿——男を逮捕、約300枚を処理か",
+        "Claude CodeのSkillsは「手順書」だった——/article コマンドで開発セッションをZenn草稿に自動変換",
+        "Kimi K3を441GBに枝刈りしてMac Studio 1台で動かした——REAPでエキスパートを削減、SWE-Lancer 5/8達成",
+        "AI時代にエンジニアが感じた危機感——「見えない仕事」の価値をどう伝えるか",
+        "Alibaba Launches Qwen3.8-Max: 2.4 Trillion Parameters, Claims Surpass Claude Fable 5 on Terminal Bench",
+        "GitHub Copilot in Visual Studio July 2026: New Agent Architecture, .NET Skills Built-In, Code Review by Selection",
+        "Devin Doubles Down on Japan: Not Replacing Engineers — Expanding What's Possible in Outsourcing-Heavy Market"
+      ]
+    },
     {
       "run_at": "2026-08-03T10:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "EU AI Act Enforcement Begins: AI-Generated Content Must Be Labeled, Violations Up to €35M",
         "Cursor Silently Removed Cost Transparency: Usage Page No Longer Shows Token Spend",
         "Microsoft Releases Flint: A Declarative Visualization Language Designed for the AI Era"
-      ]
-    },
-    {
-      "run_at": "2026-08-02T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6590190?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590196?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590194?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590195?source=rss",
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000316/",
-        "https://zenn.dev/dinii/articles/4aafd4c4fda4d2",
-        "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
-        "https://zenn.dev/notahotel/articles/0c28638945aa32",
-        "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-        "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
-        "https://openai.com/index/ten-advances-in-mathematics/"
-      ],
-      "titles": [
-        "猛暑日予報——週明けの熊本で40度超えの恐れ、全国300地点超で35度以上に",
-        "日米両政府、円安是正の方針を表明へ——円が157円台まで急騰、2カ月半ぶりの円高水準",
-        "著名登山家ニルマル・プルジャ氏、パキスタン・ブロードピークで雪崩に遭い死亡",
-        "熊本地震の罹災証明書申請——「片付け前に写真撮影を」被災者への重要な注意点",
-        "Amazon決算——AWS成長率が過去18四半期で最速の36.7%、四半期売上高が初めて2000億ドル突破",
-        "PR数が4倍に増えてもAIレビュー費用を爆発させない——サブスクと従量課金を使い分ける「実行場所分散」戦略",
-        "JetBrains Context発表——AIエージェントのトークン消費を68%削減し、コード生成精度を大幅向上",
-        "【Claude Code】planモードはもう使っていない——AIエージェント時代に変わったコーディングフロー",
-        "Anthropic Discloses Three Real-World Security Incidents During AI Cybersecurity Evaluations",
-        "Google Cloud Previews CodeMender: Autonomous AI Agent That Finds, Validates, and Fixes Code Vulnerabilities",
-        "OpenAI Documents Ten Advances in Mathematics and Theoretical Computer Science Powered by AI Reasoning"
-      ]
-    },
-    {
-      "run_at": "2026-08-01T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6590168?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590181?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590175?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590170?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590179?source=rss",
-        "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
-        "https://zenn.dev/yumanichan/articles/browser-agent-return-vs-state",
-        "https://zenn.dev/fd_ai_teacher/articles/tech-20260731092149-1",
-        "https://weeraman.com/the-prototype-isnt-the-product/",
-        "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/",
-        "https://github.com/golang/go/issues/80590"
-      ],
-      "titles": [
-        "ロシア、ウクライナの首都キーウを大規模空爆——少なくとも9人が死亡、市街地に大きな被害",
-        "熊本地震：避難者2200人規模受け入れへ——旅館・ホテル73施設確保、自治体と調整中",
-        "「頑張って」と声かけながら——ベトナム人の若者5人、熊本・八代市の倒壊家屋から女性を救出",
-        "夏の甲子園、組み合わせ決定——横浜vs沖縄尚学が初戦の注目カードに",
-        "川遊びの男子中学生が流され意識不明——愛知・豊田市の矢作川で水難事故",
-        "AIフレンドリーなCLIを開発する5つのテクニック——エージェント時代のツール設計論",
-        "「25件取得しました」——実際は432件あった：AIブラウザエージェントの偽りの成功を検証する",
-        "LLMマルチエージェントの深層——Function Callingと連携設計の原則",
-        "The Prototype Isn't the Product: Why AI Can't Replace Engineering Judgment",
-        "DeepSeek-V4-Flash-0731: 304B Parameter Model Delivers Best Value-per-Intelligence on Current Market",
-        "Go Proposal: Adding Generic Collection Types to Standard Library for Go 1.28"
-      ]
-    },
-    {
-      "run_at": "2026-08-01T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6590135?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590140?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590149?source=rss",
-        "https://www.itmedia.co.jp/news/article/2607/30/2000000291/",
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000331/",
-        "https://zenn.dev/ubie_dev/articles/gh-stack-introduction",
-        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
-        "https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66",
-        "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-        "https://simonwillison.net/2026/Jul/31/smevals/",
-        "https://github.com/yc-software/qm"
-      ],
-      "titles": [
-        "日銀、次の利上げ時期が焦点に——9月以降「しっかり議論」と植田総裁",
-        "マイナ保険証、8月1日から完全移行——旧来の紙の保険証は廃止へ",
-        "恐怖忘れ瓦礫の下へ——19歳青年、熊本地震で高齢者2人を救出",
-        "ドコモ、ahamoを40GBに増量——8月1日から料金据え置きで提供",
-        "タカラトミー、デュエマアプリで個人情報が最大15万5000人分漏えいか",
-        "GitHubにスタックPRが登場——gh stackでAIエージェント時代の大量コードを分割管理",
-        "スクウェア・エニックス、GeminiでゲームQAテストを自動化——AIがコントローラーを自走操作",
-        "CLAUDE.md 設計パターン集——プロジェクト規模別に使い分ける7つのテンプレート",
-        "GitHub Copilot Enterprise Now Supports Team-Level Model Policy Targeting",
-        "smevals: Simon Willison Releases Open-Source Eval Framework for Testing Models, Prompts & Harnesses",
-        "QM: Open-Source Multiplayer Agent Harness for Organizations — Claude Code, Codex & Pi in One Platform"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-04T00:00:00+09:00",
+  "last_run_at": "2026-08-04T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-04T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6590433",
+        "https://news.yahoo.co.jp/pickup/6590413",
+        "https://news.yahoo.co.jp/pickup/6590436",
+        "https://news.yahoo.co.jp/pickup/6590431",
+        "https://www.itmedia.co.jp/news/article/2607/31/2000000336/",
+        "https://zenn.dev/trust/articles/hackathon-ai-agent-team-brain",
+        "https://zenn.dev/leia_dev/articles/ai-agent-pull-based-instructions",
+        "https://zenn.dev/aiqlabs/articles/70370e973d8425",
+        "https://gruhn.me/blog/2026-08-03/",
+        "https://blog.exe.dev/devtools-must-be-open-source",
+        "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer"
+      ],
+      "titles": [
+        "熊本地震の被災地で窃盗被害が続出——倒壊家屋から避難した住民が「火事場泥棒」に遭う",
+        "熊本地震の復旧を阻む深刻な交通渋滞——国道3号に車両集中、国交省が通行自粛を呼びかけ",
+        "大津市のマンションで窓清掃中に男性が転落死——屋上付近から15階分の高さ",
+        "トランプ大統領のイラン政策、発言が二転三転——軍事威嚇と外交的言及が交錯",
+        "キオクシア、米国の特許訴訟で最終勝訴——366億円規模の賠償金支払いを半導体大手に命じる判決",
+        "herdrとNotionでClaude Code 4体を並列稼働——社内ハッカソンで7時間、コード0行の「第二の脳」アプリ完成",
+        "AIエージェントへの指示を「届ける」のをやめたら構造的なミスが消えた——プッシュ型からプル型への転換",
+        "Claude Codeを205セッション運用して気づいた「記録の腐敗」——引き継ぎファイルが誤りを自己増殖させる",
+        "Don't Be a Meat Proxy — Why Forwarding Raw AI Output Is an Antipattern",
+        "Devtools Must Be Open Source — AI Agents Make Personalization Finally Economically Viable",
+        "GitHub Enterprise Importer Goes GA — GitLab-to-GitHub Migrations Now Fully Supported via CLI"
+      ]
+    },
     {
       "run_at": "2026-08-04T00:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Anthropic Clarifies Open-Weights Stance: Never Advocated a Ban, Supports Targeted Safety Measures",
         "GitHub Models Service Fully Retired — Users Redirected to GitHub Copilot or Microsoft Foundry",
         "AMD MI355X Beats NVIDIA B300 on Cost-Efficiency for Serving Kimi K3"
-      ]
-    },
-    {
-      "run_at": "2026-08-02T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080200123&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080200088&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080200131&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6590254?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/02/2000000347/",
-        "https://zenn.dev/explaza/articles/20f7f41cff8428",
-        "https://zenn.dev/fixstars/articles/kimi-k3-benchmark",
-        "https://zenn.dev/test_myname/articles/gpt-5-6-blender-mcp-modeling",
-        "https://simonwillison.net/2026/Aug/2/open-letters/",
-        "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-code-july-2026-releases",
-        "https://simonwillison.net/2026/Aug/1/datasette-apps/"
-      ],
-      "titles": [
-        "熊本地震、熱中症疑いで初の「災害関連死」——死者38人に、猛暑と断水が被災地を直撃",
-        "トランプ米大統領、ホルムズ海峡開放を条件にイラン攻撃を見送り——土壇場の外交が奏功",
-        "ペルー・ナスカ地上絵付近で遊覧機が墜落——外国人観光客含む13人全員死亡",
-        "近畿で初の酷暑日、和歌山で40.1度を記録——列島全域で危険な暑さが続く",
-        "Googleのパーソナル AI「Gemini Spark」、日本でもサービス開始——Chrome との統合は米国先行",
-        "【決着】Claude CodeとCodexの設定ファイルを同期させる——agents-syncで二重管理を終わらせた話",
-        "Kimi-K3をDay0デプロイ——2.8TパラメーターのMoEモデルはNVIDIA B300×8の1ノードで動くのか",
-        "GPT-5.6とBlender MCPで「多少マシな」3Dモデリング——6役のマルチエージェント構成で積み木を超えた",
-        "Three Competing Open Letters Reveal Deep Splits in AI Industry Over Open-Weights, Safety, and Development Pace",
-        "GitHub Copilot in VS Code July 2026: Multi-Chat Sessions, Agent Vision GA, BYOK Models, and Voice Dictation",
-        "datasette-apps 0.2a0: AI Agent Can Now Build, Test, and Debug Its Own Apps via Browser Sandbox"
-      ]
-    },
-    {
-      "run_at": "2026-08-02T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6590216?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590206?source=rss",
-        "https://www.jiji.com/jc/article?k=2026080200069&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080100280&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
-        "https://zenn.dev/joinclass/books/ai-dlc-textbook",
-        "https://zenn.dev/triponte/articles/claude-code-hook-enforce-rules",
-        "https://zenn.dev/akimitu_666/articles/did-graphs-replace-rag",
-        "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
-        "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"
-      ],
-      "titles": [
-        "東海・九州で酷暑続く——熱中症警戒アラートを各地で発令、屋外活動に厳重注意",
-        "大谷翔平、24号本塁打ボールの返却を希望——ファンとの特別エピソードが話題に",
-        "モスクワの飲食店で爆発、3人死亡——女が「贈り物」として持ち込んだ爆発物か",
-        "防衛機密をクラウドで管理へ——AI活用を本格化、来年度から移行準備に着手",
-        "OpenAI、アクティブユーザーが世界10億人を突破——企業導入も200万社超、AIが日常インフラに",
-        "AI駆動開発ライフサイクル（AI-DLC）の教科書——2〜3人チームが大規模アウトプットを出す実践知を体系化",
-        "AIに「ルールを守って」と言うのをやめた——Claude Codeのhookで制約を物理的に強制する仕組みを作った話",
-        "「RAGはグラフに置き換わった」は本当か——Microsoft・Stanford・Anthropicが実際に選んだのは3つの別の道",
-        "GitHub Stacked Pull Requests Now in Public Preview — Stack-Based Workflows for Large Code Changes",
-        "Perplexity Open-Sources Numbat: Real-Time Safety Toolkit That Monitors and Blocks Dangerous AI Agent Behaviors",
-        "ByteDance Launches Seedance 2.5: AI Video Generator Extends to 30-Second Clips with Multimodal Reference Support"
       ]
     }
   ]

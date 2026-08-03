@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-03T05:00:00+09:00",
+  "last_run_at": "2026-08-03T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-03T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026080300101&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080200165&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6590341",
+        "https://www.jiji.com/jc/article?k=2026080300084&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6590342",
+        "https://zenn.dev/moimoi/articles/linear-multi-agent-handoff",
+        "https://zenn.dev/acrosstudioblog/articles/e983127c19594e",
+        "https://zenn.dev/rapls/articles/60ec866663ddbd",
+        "https://www.anthropic.com/news/claude-opus-5",
+        "https://www.itmedia.co.jp/news/article/2608/03/2000000348/",
+        "https://simonwillison.net/2026/Aug/2/condense-json/"
+      ],
+      "titles": [
+        "日米が為替介入を実施——財務相、円安阻止へさらなる協調を辞さず",
+        "消費税の2年間引き下げ、自民党内で懸念が噴出——参院選の争点化を危惧",
+        "熊本地震で16歳女性が転倒死——災害関連死が相次ぐ",
+        "ギリシャで消防ヘリ同士が空中衝突——２人死亡、山火事対応中に惨事",
+        "函館で路面電車に女性が接触して死亡——観光地近くで交通事故",
+        "エージェントは死ぬ。記録は腐る。それでもプロセスは続く——Linearをマルチエージェント管理の正本にした話",
+        "Graph Engineeringとは何か——AIエージェントを「会話」から「実行可能な設計図」へ",
+        "確認プロンプトを減らしたら安全になった——Claude CodeのAutoモードとサンドボックスを1か月運用した設計",
+        "Anthropic Releases Claude Opus 5: Most Aligned Model Yet, Doubles Predecessor's Performance at Lower Cost",
+        "OpenAI Reveals \"Astra\" as Next Flagship Model — Solves 10 Unsolved Math Problems Using Internal Build",
+        "Simon Willison Releases condense-json 1.0 — A Python Library for Compressing JSON via String Deduplication"
+      ]
+    },
     {
       "run_at": "2026-08-03T05:00:00+09:00",
       "urls": [

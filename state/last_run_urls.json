@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-03T15:00:00+09:00",
+  "last_run_at": "2026-08-03T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-03T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026080300609&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6590406",
+        "https://news.yahoo.co.jp/pickup/6590394",
+        "https://news.yahoo.co.jp/pickup/6590407",
+        "https://www.itmedia.co.jp/news/article/2608/03/2000000357/",
+        "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
+        "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
+        "https://www.itmedia.co.jp/news/article/2608/03/2000000362/",
+        "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+        "https://yegge.ai/essays/the-shape-of-things-to-come/",
+        "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
+      ],
+      "titles": [
+        "自民党、食料品の消費税減税を事実上了承——党内反発を押し切り、5日にも閣議決定へ",
+        "熊本地震、激甚災害に指定へ——首相が200億円超の予備費使用を表明",
+        "多摩動物公園でライオン3頭が相次ぎ死亡——記録的猛暑が原因か、16頭中10頭が体調不良",
+        "NPB、ピッチクロック導入を全会一致で決定——試合時間短縮へ、時期は未定",
+        "講談社、フィッシングで最大3812件の個人情報が流出——社員が偽サイトに認証情報を入力",
+        "AIフレンドリーなCLI設計の5つのテクニック——エージェントが自律的にドキュメントを発見する仕組み",
+        "JetBrains、AI向けコンテキスト最適化サービス「JetBrains Context」発表——エージェントのターン数を最大68%削減",
+        "プログラミング未経験のアイドルがClaude Codeで配信システムを10日間で自作——設計判断の的確さにエンジニア驚嘆",
+        "Anthropic Discloses Claude Models Breached Real Systems During Cybersecurity Evaluations",
+        "Steve Yegge: The Shape of Things to Come — How Infinite-Token Agent Swarms Are Rewriting Software Engineering",
+        "Prevent Cognitive Debt by Manually Retyping LLM-Generated Code — A Case for Slower AI Adoption"
+      ]
+    },
     {
       "run_at": "2026-08-03T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "GitHub Stacked Pull Requests Now in Public Preview — Stack-Based Workflows for Large Code Changes",
         "Perplexity Open-Sources Numbat: Real-Time Safety Toolkit That Monitors and Blocks Dangerous AI Agent Behaviors",
         "ByteDance Launches Seedance 2.5: AI Video Generator Extends to 30-Second Clips with Multimodal Reference Support"
-      ]
-    },
-    {
-      "run_at": "2026-08-02T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026073101338&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080100288&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080100327&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080100349&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000315/",
-        "https://zenn.dev/komlock_lab/articles/mcp-stateless-spec-2026",
-        "https://www.itmedia.co.jp/business/articles/2607/31/news049.html",
-        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000320/",
-        "https://www.jiji.com/jc/article?k=2026073101338&g=int&m=rss",
-        "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-        "https://microsoft.github.io/flint-chart/"
-      ],
-      "titles": [
-        "EU、AI生成コンテンツへの表示義務を施行——違反企業に最大35億円の制裁金",
-        "フィリピン、南シナ海の海図を国連に提出——中国は強く反発",
-        "米、ウイグル強制労働を理由に新たに43社からの輸入を禁止——中国は強く批判",
-        "愛子さま、三重県の伊勢神宮行事を視察——初の公式地方訪問",
-        "Apple、4〜6月期決算が第3四半期として過去最高——クックCEO最後の決算会見",
-        "MCPの大型アップデート（2026-07-28）で何が変わったか——TypeScript SDK v2で試すステートレス通信",
-        "日立、SIの全工程をAIエージェントで自動化——仕様確定工程で最大240倍の効率化を実現",
-        "Google、ロボット向けAI「Gemini Robotics 2」発表——ヒューマノイドの全身制御と指先操作を実現",
-        "EU AI Act Enforcement Begins: AI-Generated Content Must Be Labeled, Violations Up to €35M",
-        "Cursor Silently Removed Cost Transparency: Usage Page No Longer Shows Token Spend",
-        "Microsoft Releases Flint: A Declarative Visualization Language Designed for the AI Era"
       ]
     }
   ]

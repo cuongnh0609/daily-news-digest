@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-04T20:00:00+09:00",
+  "last_run_at": "2026-08-05T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-05T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6590551",
+        "https://news.yahoo.co.jp/pickup/6590548",
+        "https://news.yahoo.co.jp/pickup/6590549",
+        "https://news.yahoo.co.jp/pickup/6590542",
+        "https://www.itmedia.co.jp/news/article/2608/04/2000000385/",
+        "https://zenn.dev/knowledgesense/articles/7c1a8f7720b119",
+        "https://zenn.dev/codatum/articles/80b99faba75704",
+        "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
+        "https://lilianweng.github.io/posts/2026-07-04-harness/",
+        "https://github.com/leonickson1/Swiftlet",
+        "https://www.publickey1.jp/blog/26/aws28google_cloud1154220262synergy_research.html"
+      ],
+      "titles": [
+        "刃物を持った男が警官に発砲され死亡——大阪府河内長野市で警察官が危機対応",
+        "熊本地震1週間——避難所に7500人超、断水4万4千世帯、猛暑が追い打ち",
+        "防衛白書2026——中国の太平洋進出に「かつてない最大の戦略的挑戦」、AIとドローン戦に新章",
+        "オンワード3人死亡事故——「指導不徹底」を認める、従業員が避難後に店舗へ戻る",
+        "Google、新型スマートフォン「Pixel 11」シリーズを予告——8月12日夜から予約開始",
+        "PostgreSQL + pgvector 一択——CerebrasがRAGで社内ナレッジ管理を再設計した3つの教訓",
+        "AIエージェント向けツールはMCPではなくCLIで作る——ファイル直渡し・文脈温存・エラー回復の3原則",
+        "1Password、ダッシュボードでAI支出を一元管理——Claude・Cursor・ChatGPTの費用を部門別に追跡",
+        "Lilian Weng: Harness Engineering Is the Real Lever for AI Self-Improvement",
+        "Swiftlet: Run an 80B LLM in 4.3 GB RAM on Mac, or a 35B Model on iPhone",
+        "Cloud Market Q2 2026: 43% YoY Growth — AWS Holds 28%, Google Cloud Rises to 15%"
+      ]
+    },
     {
       "run_at": "2026-08-04T20:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Anthropic Discloses Claude Models Breached Real Systems During Cybersecurity Evaluations",
         "Steve Yegge: The Shape of Things to Come — How Infinite-Token Agent Swarms Are Rewriting Software Engineering",
         "Prevent Cognitive Debt by Manually Retyping LLM-Generated Code — A Case for Slower AI Adoption"
-      ]
-    },
-    {
-      "run_at": "2026-08-03T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080300053&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080300055&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080300398&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080200172&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080300430&g=soc&m=rss",
-        "https://zenn.dev/osakayakyu/articles/e6aa9835c04d73",
-        "https://zenn.dev/hellohazime/articles/kimi_k3_reap640_512gb_mac",
-        "https://zenn.dev/nabewata/articles/8cef1bd4cbae3f",
-        "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000353/",
-        "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-        "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000350/"
-      ],
-      "titles": [
-        "高市首相、熊本被災地を初訪問——避難者・自治体から要望聴取、酷暑の中で復旧を指示",
-        "熊本地震１週間——記録的猛暑の中、ホテル避難受け付けと仮設住宅建設が始動",
-        "熊本へのふるさと納税が7億円超——震災後1週間で全国からの支援が加速",
-        "広島平和記念資料館、原爆展示に「子ども向け選択制」導入へ——被爆者らから反発の声",
-        "生成AIで女子中学生の画像を裸に加工・SNS投稿——男を逮捕、約300枚を処理か",
-        "Claude CodeのSkillsは「手順書」だった——/article コマンドで開発セッションをZenn草稿に自動変換",
-        "Kimi K3を441GBに枝刈りしてMac Studio 1台で動かした——REAPでエキスパートを削減、SWE-Lancer 5/8達成",
-        "AI時代にエンジニアが感じた危機感——「見えない仕事」の価値をどう伝えるか",
-        "Alibaba Launches Qwen3.8-Max: 2.4 Trillion Parameters, Claims Surpass Claude Fable 5 on Terminal Bench",
-        "GitHub Copilot in Visual Studio July 2026: New Agent Architecture, .NET Skills Built-In, Code Review by Selection",
-        "Devin Doubles Down on Japan: Not Replacing Engineers — Expanding What's Possible in Outsourcing-Heavy Market"
-      ]
-    },
-    {
-      "run_at": "2026-08-03T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080300101&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080200165&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6590341",
-        "https://www.jiji.com/jc/article?k=2026080300084&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6590342",
-        "https://zenn.dev/moimoi/articles/linear-multi-agent-handoff",
-        "https://zenn.dev/acrosstudioblog/articles/e983127c19594e",
-        "https://zenn.dev/rapls/articles/60ec866663ddbd",
-        "https://www.anthropic.com/news/claude-opus-5",
-        "https://www.itmedia.co.jp/news/article/2608/03/2000000348/",
-        "https://simonwillison.net/2026/Aug/2/condense-json/"
-      ],
-      "titles": [
-        "日米が為替介入を実施——財務相、円安阻止へさらなる協調を辞さず",
-        "消費税の2年間引き下げ、自民党内で懸念が噴出——参院選の争点化を危惧",
-        "熊本地震で16歳女性が転倒死——災害関連死が相次ぐ",
-        "ギリシャで消防ヘリ同士が空中衝突——２人死亡、山火事対応中に惨事",
-        "函館で路面電車に女性が接触して死亡——観光地近くで交通事故",
-        "エージェントは死ぬ。記録は腐る。それでもプロセスは続く——Linearをマルチエージェント管理の正本にした話",
-        "Graph Engineeringとは何か——AIエージェントを「会話」から「実行可能な設計図」へ",
-        "確認プロンプトを減らしたら安全になった——Claude CodeのAutoモードとサンドボックスを1か月運用した設計",
-        "Anthropic Releases Claude Opus 5: Most Aligned Model Yet, Doubles Predecessor's Performance at Lower Cost",
-        "OpenAI Reveals \"Astra\" as Next Flagship Model — Solves 10 Unsolved Math Problems Using Internal Build",
-        "Simon Willison Releases condense-json 1.0 — A Python Library for Compressing JSON via String Deduplication"
-      ]
-    },
-    {
-      "run_at": "2026-08-03T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080300042&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080200175&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080200202&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080200297&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6590323",
-        "https://www.publickey1.jp/blog/26/kubernetesaikubeconcloudnativecon_japan_2026.html",
-        "https://zenn.dev/hisaju01/books/meteorfall-development",
-        "https://zenn.dev/headwaters/articles/76f20490b76952",
-        "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-        "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-        "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated"
-      ],
-      "titles": [
-        "桑木志帆、全英女子オープンでプレーオフ制し優勝——日本勢が2年連続メジャー制覇",
-        "米国の上下水道にサイバー攻撃——イランの関与が疑われ、トランプ大統領は関心を示さず",
-        "ハンガリーの原発、44年の歴史で初めて全停止——猛暑でドナウ川の水位が急低下",
-        "インドネシアでフェリー火災——270人超乗船、5人死亡・40人以上が行方不明",
-        "熊本地震後に「地震雲」デマ拡散——気象庁「科学的根拠なし」と注意呼びかけ",
-        "KubeCon Japan 2026：KubernetesがAIプラットフォームに変貌——企業の66%がGenAIをKubernetes上で稼働",
-        "メテオフォール開発——AIエージェントが粗い実装を「落とし」、人間が観測・分解・修正するループ設計",
-        "Claude Codeで音声入力タスク管理アプリを自作——パーミッション制御で安全なローカルAI自動化を実現",
-        "MCP 2.0 Goes Stateless: The Most Significant Protocol Change Since Launch",
-        "GitHub Copilot Code Review: Agent Skills and MCP Now Generally Available",
-        "GitHub Copilot Deprecates Gemini 2.5 Pro and Gemini 3 Flash — Replaces With Gemini 3.1 Pro and 3.6 Flash"
       ]
     }
   ]

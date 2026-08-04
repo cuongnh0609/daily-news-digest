@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-04T05:00:00+09:00",
+  "last_run_at": "2026-08-04T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-04T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6590457",
+        "https://www.jiji.com/jc/article?k=2026080400160&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/04/2000000366/",
+        "https://www.jiji.com/jc/article?k=2026080300698&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080300711&g=soc&m=rss",
+        "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy",
+        "https://zenn.dev/jtechjapan_pub/articles/intent-cli-herdr-orchestration",
+        "https://zenn.dev/dress_code/articles/c73500ae73361c",
+        "https://epoch.ai/MirrorCode",
+        "https://www.seangoedecke.com/llms-reward-expertise/",
+        "https://simonwillison.net/2026/Aug/4/steve-yegge/"
+      ],
+      "titles": [
+        "台風13号、大型で猛烈な勢力を維持——小笠原最接近、6〜8日には沖縄付近へ",
+        "中国の外国人監視データベースが一時公開——日本人記者の氏名・パスポートも掲載",
+        "EU、AI生成コンテンツへのラベル義務を適用開始——違反に最大1500万ユーロの罰金",
+        "日米、ドル売り・円買い介入で協調——15年ぶりの共同行動、米財務長官が支持表明",
+        "全国学テ分析：女子は理数に苦手意識——成績差なくても「好き」に開き、文科省が対策へ",
+        "AWSの「Context Ontology Accelerator」でAIエージェントに業務知識を渡す——Text-to-SQLの限界を超えるOSS",
+        "herdrとintent-cliでAIエージェントチームを安定運用——「状態変化≠完了」問題を3層起床冗長化で解決",
+        "「Any Decision Record」という文化——アーキテクチャに限らず意思決定を全部残す組織設計",
+        "Epoch AI's MirrorCode: AI Already Reimplements 16,000-Line Go Projects — Benchmark Measures Long-Horizon Coding",
+        "LLMs Reward Expertise: Domain Knowledge Beats Prompting Tricks for Getting the Best Out of AI",
+        "Simon Willison on Steve Yegge's \"Gas Town\" Collapse: How Opus 4.7's \"Just Two More Things\" Tic Killed an Agentic Project"
+      ]
+    },
     {
       "run_at": "2026-08-04T05:00:00+09:00",
       "urls": [

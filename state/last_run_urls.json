@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-05T00:00:00+09:00",
+  "last_run_at": "2026-08-05T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-05T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026080400909&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080401156&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080400475&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/04/2000000377/",
+        "https://www.itmedia.co.jp/news/article/2608/04/2000000382/",
+        "https://zenn.dev/aws_japan/articles/opencode-bedrock-lab",
+        "https://zenn.dev/osakayakyu/articles/e6aa9835c04d73",
+        "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
+        "https://www.anthropic.com/news/claude-opus-5",
+        "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+        "https://secretspec.dev/blog/where-env-went-wrong/"
+      ],
+      "titles": [
+        "食料品の消費税減税、5日にも閣議決定へ——自民内の異論を押し切り高市政権が強行",
+        "ＮＹ株式市場、一時800ドル超高で最高値を更新——中東緊張の緩和観測が追い風に",
+        "米国務省、名古屋など日本の5在外公館を閉鎖計画——政府機構改革の一環",
+        "AI普及でデザイン業の倒産が前年比2.7倍に急増——「独自性なき企業は淘汰」",
+        "防衛白書2026：中国軍がDeepSeek製AIを無人機・軍用車両に搭載",
+        "OpenCode × Amazon Bedrock で好きなモデルを選べる AI コーディング環境を構築する",
+        "Claude CodeのSkillsは「手順書」——/article コマンドを自作して記事執筆を自動化する実践",
+        "マイクロソフト「Windows Performance Analyzer MCP」発表——AIがトレースログからアプリの遅さを自律診断",
+        "Anthropic Launches Claude Opus 5: State-of-the-Art on Frontier-Bench and ARC-AGI 3 at Half the Cost of Fable 5",
+        "Keyv and 19 npm Packages Compromised in \"Shai-Hulud\" Active Supply Chain Attack",
+        "Where .env Went Wrong — SecretSpec Argues the Ubiquitous File Became Architecture It Was Never Designed to Be"
+      ]
+    },
     {
       "run_at": "2026-08-05T00:00:00+09:00",
       "urls": [

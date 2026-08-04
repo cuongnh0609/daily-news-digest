@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-04T15:00:00+09:00",
+  "last_run_at": "2026-08-04T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-04T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6590529",
+        "https://news.yahoo.co.jp/pickup/6590518",
+        "https://news.yahoo.co.jp/pickup/6590524",
+        "https://www.itmedia.co.jp/news/article/2608/04/2000000381/",
+        "https://www.itmedia.co.jp/news/article/2608/04/2000000380/",
+        "https://zenn.dev/ruri/articles/verification-loop-over-mcp-list",
+        "https://zenn.dev/flip451/articles/sotohe-sot-chain-overview",
+        "https://zenn.dev/takkuhiro/articles/agent-eval-isolation-difficulty",
+        "https://simonwillison.net/2026/Aug/2/open-letters/",
+        "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+        "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse"
+      ],
+      "titles": [
+        "熊本地震から1週間——震度5強以上の余震に引き続き注意、気象庁が警戒継続を呼びかけ",
+        "消費税1%引き下げをめぐり自民党に亀裂——反対派が公然と異論、高市政権の求心力に影",
+        "台風13号が「迷走」する可能性——夏台風特有の複雑な進路、沖縄・九州への影響を警戒",
+        "羽田で航空機が異常接近——ANA機と国交省の飛行検査機、高度差わずか30メートル",
+        "中部電力に不正アクセス——役職員7万1700人の連絡先情報が漏えいか、電力供給系統への影響なし",
+        "「おすすめMCP」を探す前に——Boris Chernyが本当に言っているのは「検証ループの設計」だった",
+        "AIエージェントに「仕様どおり」を保証させる——SoT Chain設計で仕様→型→実装の整合性を機械的に担保",
+        "エージェント評価はなぜ「隔離」が難しいのか——SWE-bench・GAIA・OSWorldで確認された3つのリーク経路",
+        "Three Open Letters Reveal AI Industry's Deepest Fault Lines — Open Weights, Pacing, and Anthropic's Lone Dissent",
+        "GitHub Models Is Retired — All Users Must Migrate to Microsoft Foundry or GitHub Copilot",
+        "Andy Pavlo Joins ClickHouse to Found ClickHouse Labs — Database Research Meets the AI Era"
+      ]
+    },
     {
       "run_at": "2026-08-04T15:00:00+09:00",
       "urls": [
@@ -231,35 +260,6 @@
         "MCP 2.0 Goes Stateless: The Most Significant Protocol Change Since Launch",
         "GitHub Copilot Code Review: Agent Skills and MCP Now Generally Available",
         "GitHub Copilot Deprecates Gemini 2.5 Pro and Gemini 3 Flash — Replaces With Gemini 3.1 Pro and 3.6 Flash"
-      ]
-    },
-    {
-      "run_at": "2026-08-03T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6590290?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590298?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590302?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590315?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590273?source=rss",
-        "https://zenn.dev/mkj/articles/claudian-orchestra-build_20260720",
-        "https://www.publickey1.jp/blog/26/aidiawindows.html",
-        "https://www.publickey1.jp/blog/26/100cncf.html",
-        "https://simonwillison.net/2026/Aug/1/greg-brockman/",
-        "https://diataxis.fr/",
-        "https://victoriametrics.com/blog/go-1-27/index.html"
-      ],
-      "titles": [
-        "台風13号、小笠原・沖縄に接近へ——九州上陸の恐れも、今後の進路に厳重警戒",
-        "高額療養費制度の自己負担上限額を引き上げ——患者側から強い反発、パブコメ5300件超",
-        "熊本地震「二重の災害」——官房長官が災害関連死の抑制を最重要課題に",
-        "イオンモール爆発——店舗運営会社が謝罪、「売上金回収のため避難後に戻るよう指示」と認める",
-        "給食のない夏休み——困窮世帯の子ども、1日500円未満の食費で猛暑を乗り越える",
-        "ObsidianとAIエージェントで個人知識ベースを構築する——Codex CLIとHermesエージェントで情報を自動蒸留",
-        "アトラシアン「Diaブラウザ」Windows版が今秋リリースへ——AI時代の業務用ブラウザとして設計",
-        "日本のクラウドネイティブ開発者数が100万人に到達——CNCFとSlashDataが調査結果を発表",
-        "Greg Brockman: People \"Really Don't Like\" When AI Chatbots Contact Their Colleagues",
-        "Diátaxis Documentation Framework Hits Hacker News Front Page — A Systematic Approach to Technical Writing",
-        "Go 1.27 Interactive Tour: VictoriaMetrics Publishes Comprehensive In-Browser Playground"
       ]
     }
   ]

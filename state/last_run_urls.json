@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-04T10:00:00+09:00",
+  "last_run_at": "2026-08-04T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-04T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026080400483&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080400394&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080400300&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6590494",
+        "https://www.itmedia.co.jp/news/article/2608/04/2000000371/",
+        "https://zenn.dev/fukachi_ai/articles/3ba9caf18b2c98",
+        "https://zenn.dev/fieldward/articles/fw-20260803-5dd05e35",
+        "https://zenn.dev/devex12/articles/claude-code-custom-theme-reverse-engineering",
+        "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+        "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+        "https://blog.cloudflare.com/smaller-faster-safer-models/"
+      ],
+      "titles": [
+        "永住許可の要件が厳格化へ——入管庁、収入「日本人超」の改定案を提示",
+        "防衛白書2026：中国の新たな戦い方に「総合的国力」で対抗——サイバー・宇宙・電磁波を重点強化",
+        "ベネズエラ大地震、死者6000人超に——被害の全容は依然不明、国際支援も難航",
+        "熊本地震1週間——9万世帯超が断水、「何よりも水を」の声が現地を覆う",
+        "TSMC、熊本被災地に2.5億円を寄付——第1工場は通常生産に復帰、第2工場の建設にも影響なし",
+        "AIレビューの相互批評——確信度「高」で誤る指摘をどう見抜くか｜Claude×Roblox個人開発",
+        "AI社員だけで会社を回すとどうなるか——一人会社×AIチーム運営でわかった現実",
+        "公式ドキュメントゼロ——Claude Codeの秘密テーマ機能を、grep 10数回・10分のバイナリ解析だけで解明",
+        "GitHub Copilot: Trigger Cloud Agent Automations Directly from Issue and PR Comments",
+        "GitHub Copilot Cloud Agent Now Lets You Choose Reasoning Level Per Task",
+        "Cloudflare Workers AI: How Quantization and Integrity Checks Serve Kimi and GLM at Scale"
+      ]
+    },
     {
       "run_at": "2026-08-04T10:00:00+09:00",
       "urls": [
@@ -231,35 +260,6 @@
         "Greg Brockman: People \"Really Don't Like\" When AI Chatbots Contact Their Colleagues",
         "Diátaxis Documentation Framework Hits Hacker News Front Page — A Systematic Approach to Technical Writing",
         "Go 1.27 Interactive Tour: VictoriaMetrics Publishes Comprehensive In-Browser Playground"
-      ]
-    },
-    {
-      "run_at": "2026-08-02T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080200228&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080200233&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6590296?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590284?source=rss",
-        "https://www.jiji.com/jc/article?k=2026080200194&g=soc&m=rss",
-        "https://zenn.dev/bambampurin/articles/2026-07-28-tech-daily",
-        "https://zenn.dev/cognitiveosmdl/articles/b75bad629b669b",
-        "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000333/",
-        "https://www.anthropic.com/news/position-open-weights-models",
-        "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-        "https://www.wafer.ai/blog/kimi-k3-mi355x"
-      ],
-      "titles": [
-        "３党合流協議、地方から異論続出——立憲民主党、来春の統一地方選前は見合わせを求める声が強まる",
-        "韓国で観測史上初の42.5度を記録——気候変動の影響で40度超えが連日続く異常事態",
-        "熊本地震：イオンモール宇城で天井崩落——下敷きになった男性客が死亡",
-        "被災の老人ホームで熱中症疑い続出——停電で冷房失い高齢者への二次被害が深刻化",
-        "広島電鉄、被爆電車「653号」でピースループツアー開始——原爆投下81年",
-        "MCP対応エージェントを安全に本番投入するための12の設計チェックリスト",
-        "確率的生成器に規範は預けられない——Loopの成果物側に検疫ゲートを設ける設計論",
-        "OpenAI、研究者10万人に最上位モデル「GPT-5.6 Sol Pro」を無料提供",
-        "Anthropic Clarifies Open-Weights Stance: Never Advocated a Ban, Supports Targeted Safety Measures",
-        "GitHub Models Service Fully Retired — Users Redirected to GitHub Copilot or Microsoft Foundry",
-        "AMD MI355X Beats NVIDIA B300 on Cost-Efficiency for Serving Kimi K3"
       ]
     }
   ]

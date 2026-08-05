@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-06T00:00:00+09:00",
+  "last_run_at": "2026-08-06T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-06T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026080500601&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080500994&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/05/2000000405/",
+        "https://www.itmedia.co.jp/news/article/2608/05/2000000404/",
+        "https://www.itmedia.co.jp/news/article/2608/05/2000000399/",
+        "https://zenn.dev/jtechjapan_pub/articles/intent-cli-herdr-orchestration",
+        "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
+        "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy",
+        "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+        "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+        "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data"
+      ],
+      "titles": [
+        "広島原爆の日、81回目の式典——核廃絶へ向けた政策転換を訴える声が高まる",
+        "中国、対米制裁を一斉発動——ドローン規制も同時に発表、緊張高まる",
+        "バンダイ、トレカ転売対策にマイナカード本人確認を導入——大量購入の抑制へ",
+        "NASA「確率100%」——SpaceXの使用済みロケット、月面に衝突の可能性",
+        "東芝テック、管理アカウント誤記載で顧客38万件が閲覧可能な状態に",
+        "Herdr × intent-cli でインテント駆動開発——4ヶ月で1537件のワークを自動化した設計思想",
+        "JetBrains Context 発表——AIエージェントのターン数68%削減、コスト48%低下を実現",
+        "AWSオープンソース「Context Ontology Accelerator」——オントロジーでAIに業務知識を正確に渡す",
+        "Google DeepMind Leadership Overhaul: Demis Hassabis Becomes Chair & Chief Scientist, Jeff Dean Departs After 27 Years",
+        "GitHub Copilot Now Triggered by Comments — Automate Docs, Debug Stack Traces, and Create Follow-up Issues from PRs",
+        "Atlassian Rovo Zero-Click Data Exfiltration — Sensitive Org Data Stolen via Indirect Prompt Injection Even with Web Search Disabled"
+      ]
+    },
     {
       "run_at": "2026-08-06T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Lilian Weng: Harness Engineering Is the Real Lever for AI Self-Improvement",
         "Swiftlet: Run an 80B LLM in 4.3 GB RAM on Mac, or a 35B Model on iPhone",
         "Cloud Market Q2 2026: 43% YoY Growth — AWS Holds 28%, Google Cloud Rises to 15%"
-      ]
-    },
-    {
-      "run_at": "2026-08-04T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6590529",
-        "https://news.yahoo.co.jp/pickup/6590518",
-        "https://news.yahoo.co.jp/pickup/6590524",
-        "https://www.itmedia.co.jp/news/article/2608/04/2000000381/",
-        "https://www.itmedia.co.jp/news/article/2608/04/2000000380/",
-        "https://zenn.dev/ruri/articles/verification-loop-over-mcp-list",
-        "https://zenn.dev/flip451/articles/sotohe-sot-chain-overview",
-        "https://zenn.dev/takkuhiro/articles/agent-eval-isolation-difficulty",
-        "https://simonwillison.net/2026/Aug/2/open-letters/",
-        "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-        "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse"
-      ],
-      "titles": [
-        "熊本地震から1週間——震度5強以上の余震に引き続き注意、気象庁が警戒継続を呼びかけ",
-        "消費税1%引き下げをめぐり自民党に亀裂——反対派が公然と異論、高市政権の求心力に影",
-        "台風13号が「迷走」する可能性——夏台風特有の複雑な進路、沖縄・九州への影響を警戒",
-        "羽田で航空機が異常接近——ANA機と国交省の飛行検査機、高度差わずか30メートル",
-        "中部電力に不正アクセス——役職員7万1700人の連絡先情報が漏えいか、電力供給系統への影響なし",
-        "「おすすめMCP」を探す前に——Boris Chernyが本当に言っているのは「検証ループの設計」だった",
-        "AIエージェントに「仕様どおり」を保証させる——SoT Chain設計で仕様→型→実装の整合性を機械的に担保",
-        "エージェント評価はなぜ「隔離」が難しいのか——SWE-bench・GAIA・OSWorldで確認された3つのリーク経路",
-        "Three Open Letters Reveal AI Industry's Deepest Fault Lines — Open Weights, Pacing, and Anthropic's Lone Dissent",
-        "GitHub Models Is Retired — All Users Must Migrate to Microsoft Foundry or GitHub Copilot",
-        "Andy Pavlo Joins ClickHouse to Found ClickHouse Labs — Database Research Meets the AI Era"
       ]
     }
   ]

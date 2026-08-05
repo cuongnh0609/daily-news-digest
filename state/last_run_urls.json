@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-05T05:00:00+09:00",
+  "last_run_at": "2026-08-05T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-05T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026080400781&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/05/2000000388/",
+        "https://www.itmedia.co.jp/news/article/2608/05/2000000387/",
+        "https://www.jiji.com/jc/article?k=2026080400482&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080500155&g=int&m=rss",
+        "https://zenn.dev/benjuwan/articles/c2ba48e7662f92",
+        "https://zenn.dev/wn_engineering/articles/95911ca28a7b1f",
+        "https://www.publickey1.jp/blog/26/aidiawindows.html",
+        "https://simonwillison.net/2026/Aug/4/new-release-of-llm/",
+        "https://mistral.ai/news/shieldstral/",
+        "https://waymo.com/blog/shorts/dallas-open-to-all/"
+      ],
+      "titles": [
+        "高市首相、日銀総裁に国債買い入れ再開を要請——積極財政路線で金利上昇を抑制へ",
+        "SpaceX、IPO後初決算で売上高92%増——AI分野に158億ドル投資、2030年に年商1兆ドルへ",
+        "OpenAI、Apple訴訟に全面反論——「営業秘密は持っていないし、欲しくもない」",
+        "特定技能２号に「在留５年」追加へ——永住許可の要件変更で外国人労働者に影響",
+        "紅海でインド商船がフーシ派の攻撃を受け沈没——乗員全員を救助",
+        "Microsoft製「Skill Recorder」でAIエージェント用SKILL.mdを録画から自動生成——PC操作を録画するだけで手順書が完成",
+        "生成AIの品質保証をどう設計するか——「全部QAで見る」をやめて機械・AI・人間で役割分担",
+        "アトラシアン「Diaブラウザ」Windows版が秋にリリースへ——Arc後継のAI業務ブラウザがついにWindows対応",
+        "LLM 0.32 Drops: Reasoning Traces, OpenAI Responses API, Server-Side Tools, and a Content-Addressable Log Overhaul",
+        "Mistral Releases Shieldstral: A 3B Open-Weights Multimodal Safety Classifier for Real-World Moderation",
+        "Waymo Opens to Everyone in Dallas — Full Autonomous Rideshare Now Available Without Waitlist"
+      ]
+    },
     {
       "run_at": "2026-08-05T05:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-05T20:00:00+09:00",
+  "last_run_at": "2026-08-06T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-06T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026080500643&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080500998&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080500633&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080500971&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/05/2000000406/",
+        "https://zenn.dev/gingakuwagata/articles/git-worktree-parallel-ai-agents",
+        "https://zenn.dev/cutlet_of_pork/articles/multi-agent-delegation-load-balancing",
+        "https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro",
+        "https://blog.cloudflare.com/cloudflare-os/",
+        "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+        "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/"
+      ],
+      "titles": [
+        "元ジャンポケ斉藤被告に懲役7年求刑——性的暴行事件、11月に判決へ",
+        "消費減税は「無理筋」——村上元総務相が市場信頼喪失を警告",
+        "ホルムズ海峡開放で米イラン合意間近か——管理権限めぐり最終調整",
+        "栄養価の高い食品が5年で25%値上がり——国連機関「健康的な食事が不可能に」",
+        "共同通信社に不正アクセス——職員・取引先の連絡先情報が流出か",
+        "Gitワークツリーで並行作業する——AIエージェントの手を止めない使い方",
+        "特定エージェントへの委任集中を自己改善ループで是正する——マルチエージェント負荷分散の実践",
+        "脆弱性を作り込まないために——Claude公式「Security Guidance Plugin」を導入した話",
+        "Cloudflare OS: An Open Agentic Platform That Lets Everyone in Your Company Build AI-Powered Apps",
+        "Building an Advanced Agentic Harness: DAG Planning, Multi-Tiered Memory, and Pressure-Aware Degradation",
+        "Don't Be a Meat Proxy: Why Developers Must Add Intellectual Value Beyond Relaying AI Output"
+      ]
+    },
     {
       "run_at": "2026-08-05T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Three Open Letters Reveal AI Industry's Deepest Fault Lines — Open Weights, Pacing, and Anthropic's Lone Dissent",
         "GitHub Models Is Retired — All Users Must Migrate to Microsoft Foundry or GitHub Copilot",
         "Andy Pavlo Joins ClickHouse to Found ClickHouse Labs — Database Research Meets the AI Era"
-      ]
-    },
-    {
-      "run_at": "2026-08-04T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080400483&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080400394&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080400300&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6590494",
-        "https://www.itmedia.co.jp/news/article/2608/04/2000000371/",
-        "https://zenn.dev/fukachi_ai/articles/3ba9caf18b2c98",
-        "https://zenn.dev/fieldward/articles/fw-20260803-5dd05e35",
-        "https://zenn.dev/devex12/articles/claude-code-custom-theme-reverse-engineering",
-        "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-        "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
-        "https://blog.cloudflare.com/smaller-faster-safer-models/"
-      ],
-      "titles": [
-        "永住許可の要件が厳格化へ——入管庁、収入「日本人超」の改定案を提示",
-        "防衛白書2026：中国の新たな戦い方に「総合的国力」で対抗——サイバー・宇宙・電磁波を重点強化",
-        "ベネズエラ大地震、死者6000人超に——被害の全容は依然不明、国際支援も難航",
-        "熊本地震1週間——9万世帯超が断水、「何よりも水を」の声が現地を覆う",
-        "TSMC、熊本被災地に2.5億円を寄付——第1工場は通常生産に復帰、第2工場の建設にも影響なし",
-        "AIレビューの相互批評——確信度「高」で誤る指摘をどう見抜くか｜Claude×Roblox個人開発",
-        "AI社員だけで会社を回すとどうなるか——一人会社×AIチーム運営でわかった現実",
-        "公式ドキュメントゼロ——Claude Codeの秘密テーマ機能を、grep 10数回・10分のバイナリ解析だけで解明",
-        "GitHub Copilot: Trigger Cloud Agent Automations Directly from Issue and PR Comments",
-        "GitHub Copilot Cloud Agent Now Lets You Choose Reasoning Level Per Task",
-        "Cloudflare Workers AI: How Quantization and Integrity Checks Serve Kimi and GLM at Scale"
       ]
     }
   ]

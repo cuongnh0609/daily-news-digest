@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-05T15:00:00+09:00",
+  "last_run_at": "2026-08-05T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-05T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026080500854&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080500578&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080500801&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/05/2000000396/",
+        "https://www.itmedia.co.jp/news/article/2608/05/2000000395/",
+        "https://zenn.dev/lambdalisue/articles/introduce-cclens",
+        "https://zenn.dev/cybozu_frontend/articles/llm-wiki-for-design-systems",
+        "https://www.publickey1.jp/blog/26/100cncf.html",
+        "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+        "https://www.anthropic.com/news/tino-cuellar",
+        "https://www.itmedia.co.jp/news/article/2608/05/2000000400/"
+      ],
+      "titles": [
+        "消費減税の財源「対応できる」——高市首相、社会保障への影響を否定",
+        "豪ジェットスター、機内荷物棚を全面有料化——成田便往復で1万円超、2027年2月から",
+        "米民主党ミシガン州予備選——急進左派と穏健派が僅差の接戦",
+        "「ITトレンド」運営会社でGitHub経由の不正アクセス——最大6万件の個人情報が流出か",
+        "Googleパスワードマネジャーに3種の脆弱性——パスキー保護アカウントでも乗っ取りが可能",
+        "Claude Code の「無駄」を可視化する Rust 製 CLI ツール cclens が登場",
+        "LLM-Wiki でデザインシステムの知識を統合管理——サイボウズが実践した「散らばった議論の一元化」",
+        "CNCF調査：日本のクラウドネイティブ開発者が約100万人に——APIゲートウェイ・マイクロサービス採用が急拡大",
+        "Stateless MCP 2.0 Eliminates Session Management — Single-Request Protocol Reignites Interest",
+        "Anthropic Names Tino Cuéllar as First Chief Global Affairs Officer",
+        "Kioxia Launches XL1 CXL Flash Module — A New Memory Tier Between DRAM and SSD for AI Workloads"
+      ]
+    },
     {
       "run_at": "2026-08-05T15:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "GitHub Copilot: Trigger Cloud Agent Automations Directly from Issue and PR Comments",
         "GitHub Copilot Cloud Agent Now Lets You Choose Reasoning Level Per Task",
         "Cloudflare Workers AI: How Quantization and Integrity Checks Serve Kimi and GLM at Scale"
-      ]
-    },
-    {
-      "run_at": "2026-08-04T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6590457",
-        "https://www.jiji.com/jc/article?k=2026080400160&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/04/2000000366/",
-        "https://www.jiji.com/jc/article?k=2026080300698&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080300711&g=soc&m=rss",
-        "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy",
-        "https://zenn.dev/jtechjapan_pub/articles/intent-cli-herdr-orchestration",
-        "https://zenn.dev/dress_code/articles/c73500ae73361c",
-        "https://epoch.ai/MirrorCode",
-        "https://www.seangoedecke.com/llms-reward-expertise/",
-        "https://simonwillison.net/2026/Aug/4/steve-yegge/"
-      ],
-      "titles": [
-        "台風13号、大型で猛烈な勢力を維持——小笠原最接近、6〜8日には沖縄付近へ",
-        "中国の外国人監視データベースが一時公開——日本人記者の氏名・パスポートも掲載",
-        "EU、AI生成コンテンツへのラベル義務を適用開始——違反に最大1500万ユーロの罰金",
-        "日米、ドル売り・円買い介入で協調——15年ぶりの共同行動、米財務長官が支持表明",
-        "全国学テ分析：女子は理数に苦手意識——成績差なくても「好き」に開き、文科省が対策へ",
-        "AWSの「Context Ontology Accelerator」でAIエージェントに業務知識を渡す——Text-to-SQLの限界を超えるOSS",
-        "herdrとintent-cliでAIエージェントチームを安定運用——「状態変化≠完了」問題を3層起床冗長化で解決",
-        "「Any Decision Record」という文化——アーキテクチャに限らず意思決定を全部残す組織設計",
-        "Epoch AI's MirrorCode: AI Already Reimplements 16,000-Line Go Projects — Benchmark Measures Long-Horizon Coding",
-        "LLMs Reward Expertise: Domain Knowledge Beats Prompting Tricks for Getting the Best Out of AI",
-        "Simon Willison on Steve Yegge's \"Gas Town\" Collapse: How Opus 4.7's \"Just Two More Things\" Tic Killed an Agentic Project"
-      ]
-    },
-    {
-      "run_at": "2026-08-04T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6590433",
-        "https://news.yahoo.co.jp/pickup/6590413",
-        "https://news.yahoo.co.jp/pickup/6590436",
-        "https://news.yahoo.co.jp/pickup/6590431",
-        "https://www.itmedia.co.jp/news/article/2607/31/2000000336/",
-        "https://zenn.dev/trust/articles/hackathon-ai-agent-team-brain",
-        "https://zenn.dev/leia_dev/articles/ai-agent-pull-based-instructions",
-        "https://zenn.dev/aiqlabs/articles/70370e973d8425",
-        "https://gruhn.me/blog/2026-08-03/",
-        "https://blog.exe.dev/devtools-must-be-open-source",
-        "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer"
-      ],
-      "titles": [
-        "熊本地震の被災地で窃盗被害が続出——倒壊家屋から避難した住民が「火事場泥棒」に遭う",
-        "熊本地震の復旧を阻む深刻な交通渋滞——国道3号に車両集中、国交省が通行自粛を呼びかけ",
-        "大津市のマンションで窓清掃中に男性が転落死——屋上付近から15階分の高さ",
-        "トランプ大統領のイラン政策、発言が二転三転——軍事威嚇と外交的言及が交錯",
-        "キオクシア、米国の特許訴訟で最終勝訴——366億円規模の賠償金支払いを半導体大手に命じる判決",
-        "herdrとNotionでClaude Code 4体を並列稼働——社内ハッカソンで7時間、コード0行の「第二の脳」アプリ完成",
-        "AIエージェントへの指示を「届ける」のをやめたら構造的なミスが消えた——プッシュ型からプル型への転換",
-        "Claude Codeを205セッション運用して気づいた「記録の腐敗」——引き継ぎファイルが誤りを自己増殖させる",
-        "Don't Be a Meat Proxy — Why Forwarding Raw AI Output Is an Antipattern",
-        "Devtools Must Be Open Source — AI Agents Make Personalization Finally Economically Viable",
-        "GitHub Enterprise Importer Goes GA — GitLab-to-GitHub Migrations Now Fully Supported via CLI"
-      ]
-    },
-    {
-      "run_at": "2026-08-04T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6590427",
-        "https://www.jiji.com/jc/article?k=2026080300793&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080300651&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080300785&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080300917&g=soc&m=rss",
-        "https://zenn.dev/komlock_lab/articles/mcp-stateless-spec-2026",
-        "https://zenn.dev/notahotel/articles/0c28638945aa32",
-        "https://www.publickey1.jp/blog/26/rustwebtopcoattokio.html",
-        "https://www.anthropic.com/news/cognizant-anthropic",
-        "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
-        "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
-      ],
-      "titles": [
-        "京都・高台寺の塔頭「岡林院」の施設が全焼——観光地で深夜火災、けが人なし",
-        "自民・小渕氏、消費税1%引き下げに反対し税調を辞任——党首決定前の議論不足を批判",
-        "全国学力テスト分析：小6の4人に1人が立方体の体積を誤答、校外学習時間も短縮傾向",
-        "モスクワの飲食店爆発で死者5人に——ロシア空軍総司令官の誕生会が標的か、娘が負傷",
-        "千葉・市川のマンションで爆発——暖房器具のホース外れでガス漏れ、男性が重体",
-        "MCPの大型アップデート（2026-07-28）で何が変わったか——TypeScript SDK v2でステートレス設計を試す",
-        "Claude Codeのplanモードをやめた理由——「提案を聞かせて」というアプローチへの転換",
-        "Rust製フルスタックWebフレームワーク「Topcoat」登場——TokioチームがAI時代のRust Web開発に挑む",
-        "Cognizant Integrates Claude into Spec-Driven Development Platform — 30K Associates Trained",
-        "Google Cloud Launches CodeMender: AI Agent That Detects, Verifies, and Patches Vulnerabilities Autonomously",
-        "JFrog Exposes 50+ Fabricated SQLite CVEs Generated by AI Hallucination — CVE System Under Scrutiny"
-      ]
-    },
-    {
-      "run_at": "2026-08-03T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080300609&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6590406",
-        "https://news.yahoo.co.jp/pickup/6590394",
-        "https://news.yahoo.co.jp/pickup/6590407",
-        "https://www.itmedia.co.jp/news/article/2608/03/2000000357/",
-        "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
-        "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
-        "https://www.itmedia.co.jp/news/article/2608/03/2000000362/",
-        "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-        "https://yegge.ai/essays/the-shape-of-things-to-come/",
-        "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
-      ],
-      "titles": [
-        "自民党、食料品の消費税減税を事実上了承——党内反発を押し切り、5日にも閣議決定へ",
-        "熊本地震、激甚災害に指定へ——首相が200億円超の予備費使用を表明",
-        "多摩動物公園でライオン3頭が相次ぎ死亡——記録的猛暑が原因か、16頭中10頭が体調不良",
-        "NPB、ピッチクロック導入を全会一致で決定——試合時間短縮へ、時期は未定",
-        "講談社、フィッシングで最大3812件の個人情報が流出——社員が偽サイトに認証情報を入力",
-        "AIフレンドリーなCLI設計の5つのテクニック——エージェントが自律的にドキュメントを発見する仕組み",
-        "JetBrains、AI向けコンテキスト最適化サービス「JetBrains Context」発表——エージェントのターン数を最大68%削減",
-        "プログラミング未経験のアイドルがClaude Codeで配信システムを10日間で自作——設計判断の的確さにエンジニア驚嘆",
-        "Anthropic Discloses Claude Models Breached Real Systems During Cybersecurity Evaluations",
-        "Steve Yegge: The Shape of Things to Come — How Infinite-Token Agent Swarms Are Rewriting Software Engineering",
-        "Prevent Cognitive Debt by Manually Retyping LLM-Generated Code — A Case for Slower AI Adoption"
       ]
     }
   ]

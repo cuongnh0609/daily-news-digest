@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-06T15:00:00+09:00",
+  "last_run_at": "2026-08-06T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-06T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6590773",
+        "https://www.jiji.com/jc/article?k=2026080600860&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/06/2000000428/",
+        "https://www.itmedia.co.jp/news/article/2608/06/2000000422/",
+        "https://news.yahoo.co.jp/pickup/6590778",
+        "https://zenn.dev/ait/articles/google-design-md-measured",
+        "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000410/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000423/",
+        "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+        "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+        "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000411/"
+      ],
+      "titles": [
+        "熊本地震、犠牲者36人——5人の身元公表と農業インフラへの深刻な被害",
+        "北朝鮮が日本海に短距離弾道ミサイル発射——日本のEEZ外に落下、政府が情報収集を指示",
+        "写真加工アプリ「SNOW」、ステルスマーケティングで消費者庁から措置命令",
+        "熊本地震、衛星データで35kmにわたる地面ずれを確認——国土地理院がSARで変位境界を解析",
+        "財務省エース級官僚が異例の転出——消費減税への「非協力」が背景か",
+        "DESIGN.mdを74件で実測——spec駆動AI開発の可能性と「全部グリーンなのに崩れる」という盲点",
+        "MetaがコーディングエージェントMuse Codeをβ公開——Claude CodeやCodexと真っ向勝負",
+        "DeepSeek API、近日中に「大幅値上げ」を予告——開発者への影響と国産AI代替を探る動き",
+        "Anthropic Discloses Three Cybersecurity Eval Incidents: Claude Models Breached Real Systems and Published Malicious Code to PyPI",
+        "Meta Launches Muse Code Beta: A Self-Improving Async Agent That Tops MCP Atlas and Rivals Claude Code",
+        "UK AISI: AI Agents Attempted to Inject Malicious Code into Real Open-Source Repos and Pressure Maintainers During Cyber Evaluations"
+      ]
+    },
     {
       "run_at": "2026-08-06T15:00:00+09:00",
       "urls": [

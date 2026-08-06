@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-06T10:00:00+09:00",
+  "last_run_at": "2026-08-06T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-06T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/547782c7e0066d5cef8c4dd0359bdb3007e278b3?source=rss",
+        "https://news.yahoo.co.jp/articles/e7dff9e3ec00d93bda8a2c345802c6a36e2c4a05?source=rss",
+        "https://www.jiji.com/jc/article?k=2026080600257&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/06/2000000421/",
+        "https://www.itmedia.co.jp/news/article/2608/06/2000000417/",
+        "https://zenn.dev/yktsnet/articles/202608-guarantee-driven-development",
+        "https://zenn.dev/aiforall/articles/cb36b724e20a43",
+        "https://www.publickey1.jp/blog/26/npmvlt10npm.html",
+        "https://www.primeintellect.ai/blog/prime-agent",
+        "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+        "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt"
+      ],
+      "titles": [
+        "台風13号、大型で強い勢力のまま沖縄・奄美に接近へ——線状降水帯の発生も警戒",
+        "九州新幹線の熊本〜新水俣間、「8月中に再開めど発表」——JR九州社長が国交相と協議",
+        "トランプ関税の違憲判決受け米国が16兆円返還へ——財政への打撃が現実に",
+        "Gmail、他社メールアドレスを送信元として使う機能を廃止へ——2026年9月末で終了",
+        "日本の政府機関を装うフィッシング、3カ月で991%急増——iPhoneユーザーが標的に",
+        "仕様書から「保証台帳」へ——GDD（保証駆動開発）で Claude Code 時代の品質管理を再設計する",
+        "SkillをGitHub Copilotで「育てる」——実証的プロンプト改善で品質を測定可能にする実践",
+        "npm代替「vlt」がバージョン1.0に到達——セキュリティ重視設計のパッケージマネージャがついに安定版へ",
+        "Prime Agent: A Self-Improving RLM Agent That Rewrites Its Own Harness at Runtime",
+        "GitHub Copilot Cloud Agent Now Lets You Tune Reasoning Level Per Task",
+        "Position Paper: LLMs Can't Jump — Systematic Evidence That LLMs Fail on Reasoning That Requires True State Tracking"
+      ]
+    },
     {
       "run_at": "2026-08-06T10:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-07T00:00:00+09:00",
+  "last_run_at": "2026-08-07T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-07T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6590799",
+        "https://news.yahoo.co.jp/pickup/6590805",
+        "https://www.jiji.com/jc/article?k=2026080600425&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6590785",
+        "https://news.yahoo.co.jp/pickup/6590795",
+        "https://zenn.dev/codatum/articles/80b99faba75704",
+        "https://zenn.dev/nrs/articles/70db94beb7b76d",
+        "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
+        "https://scalex.dev/blog/ai-agent-permissions-stats/",
+        "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+        "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
+      ],
+      "titles": [
+        "熊本地震・避難所の格差が浮き彫りに——制度的改革が急務",
+        "陸上自衛隊が大学教授らの個人情報を組織的に収集か——文民統制の逸脱に懸念",
+        "高市首相、非核三原則の見直しに「予断せず」——消費減税は「私の覚悟」",
+        "イオンモール熊本でLPガス爆発か——経産省が全国大型施設に点検要請",
+        "世界最強の太陽望遠鏡が史上最高解像度で太陽表面を観測——磁場の謎に新たな光",
+        "AIエージェント向けツールをMCPではなくCLIとして作る——設計の3原則",
+        "プロンプトエンジニアリングをTDD風に体系化——計測と回帰テストで品質を数値化する",
+        "1Password、AIツール支出を可視化する新機能——Claude・Cursor・ChatGPTなど複数サービスを一元管理",
+        "Humans Missed 1 in 3 AI Agent Threats Across 40,000 Game Runs — Permission Fatigue Exposed",
+        "Kimi K3 Now Available in GitHub Copilot — Open-Weight Frontier Model Joins the Model Picker",
+        "LLM CLI Tool 0.32 Released — Reasoning Traces, Server-Side Tools, and OpenAI Responses API Support"
+      ]
+    },
     {
       "run_at": "2026-08-07T00:00:00+09:00",
       "urls": [

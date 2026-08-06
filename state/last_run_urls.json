@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-06T20:00:00+09:00",
+  "last_run_at": "2026-08-07T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-07T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026080600962&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080600652&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080601025&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/06/2000000425/",
+        "https://www.itmedia.co.jp/news/article/2608/06/2000000414/",
+        "https://www.itmedia.co.jp/news/article/2608/06/2000000434/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000433/",
+        "https://www.publickey1.jp/blog/26/superlogical.html",
+        "https://zed.dev/deltadb",
+        "https://github.com/denoland/celld",
+        "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000420/"
+      ],
+      "titles": [
+        "ドイツで6月熱波による死者が約9,600人——冷房設備の普及不足が被害を拡大",
+        "「ジャンプ」公式通販で4.3億円不正注文——238アカウントを駆使した組織的キャンセル詐欺",
+        "韓国軍が竹島防衛訓練を実施——日本政府が外交ルートで抗議",
+        "SpaceXのロケット上段、月面に落下——廃棄軌道から自然落下、NASA「科学的価値あり」",
+        "ローソン、調理ロボ「I-Robo 2」を首都圏3店舗に追加展開——炒め物販売が前年比20%増",
+        "マイクロソフト「Windows Performance Analyzer MCP」発表——AIがトレースログからパフォーマンス問題を自律診断",
+        "AIデータセンターは「圧倒的な供給不足」——ソフトバンクG CFOが世界3拠点で大規模建設を宣言",
+        "HashiCorp創業者が新会社「Superlogical」設立——あらゆる仕事に使えるマルチプレクサの開発へ",
+        "Zed DeltaDB: Version Control That Records Every Keystroke and Links Each Change to the AI Conversation That Shaped It",
+        "Celld: Deno Releases Open-Source Self-Hosted Durable Objects — Run Cloudflare Workers Infrastructure on Your Own Servers",
+        "NVIDIA Alpamayo 2 Super: Frontier Autonomous Driving Model Goes Open-Source and Commercial Under Linux Foundation License"
+      ]
+    },
     {
       "run_at": "2026-08-06T20:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "Pi's Minimalism Is Its Advantage — Databricks Benchmark Shows Lean Harnesses Beat Feature-Heavy Agents",
         "GitHub Spark Deprecated — AI Prototyping Tool Shut Down as Copilot Integrated Workflows Take Over",
         "AI Fuels Over Half of Cybercrime in Africa — INTERPOL 2026 Report Finds 55% of Cases Involve AI"
-      ]
-    },
-    {
-      "run_at": "2026-08-05T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080400781&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/05/2000000388/",
-        "https://www.itmedia.co.jp/news/article/2608/05/2000000387/",
-        "https://www.jiji.com/jc/article?k=2026080400482&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080500155&g=int&m=rss",
-        "https://zenn.dev/benjuwan/articles/c2ba48e7662f92",
-        "https://zenn.dev/wn_engineering/articles/95911ca28a7b1f",
-        "https://www.publickey1.jp/blog/26/aidiawindows.html",
-        "https://simonwillison.net/2026/Aug/4/new-release-of-llm/",
-        "https://mistral.ai/news/shieldstral/",
-        "https://waymo.com/blog/shorts/dallas-open-to-all/"
-      ],
-      "titles": [
-        "高市首相、日銀総裁に国債買い入れ再開を要請——積極財政路線で金利上昇を抑制へ",
-        "SpaceX、IPO後初決算で売上高92%増——AI分野に158億ドル投資、2030年に年商1兆ドルへ",
-        "OpenAI、Apple訴訟に全面反論——「営業秘密は持っていないし、欲しくもない」",
-        "特定技能２号に「在留５年」追加へ——永住許可の要件変更で外国人労働者に影響",
-        "紅海でインド商船がフーシ派の攻撃を受け沈没——乗員全員を救助",
-        "Microsoft製「Skill Recorder」でAIエージェント用SKILL.mdを録画から自動生成——PC操作を録画するだけで手順書が完成",
-        "生成AIの品質保証をどう設計するか——「全部QAで見る」をやめて機械・AI・人間で役割分担",
-        "アトラシアン「Diaブラウザ」Windows版が秋にリリースへ——Arc後継のAI業務ブラウザがついにWindows対応",
-        "LLM 0.32 Drops: Reasoning Traces, OpenAI Responses API, Server-Side Tools, and a Content-Addressable Log Overhaul",
-        "Mistral Releases Shieldstral: A 3B Open-Weights Multimodal Safety Classifier for Real-World Moderation",
-        "Waymo Opens to Everyone in Dallas — Full Autonomous Rideshare Now Available Without Waitlist"
-      ]
-    },
-    {
-      "run_at": "2026-08-05T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080400909&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080401156&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080400475&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/04/2000000377/",
-        "https://www.itmedia.co.jp/news/article/2608/04/2000000382/",
-        "https://zenn.dev/aws_japan/articles/opencode-bedrock-lab",
-        "https://zenn.dev/osakayakyu/articles/e6aa9835c04d73",
-        "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
-        "https://www.anthropic.com/news/claude-opus-5",
-        "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-        "https://secretspec.dev/blog/where-env-went-wrong/"
-      ],
-      "titles": [
-        "食料品の消費税減税、5日にも閣議決定へ——自民内の異論を押し切り高市政権が強行",
-        "ＮＹ株式市場、一時800ドル超高で最高値を更新——中東緊張の緩和観測が追い風に",
-        "米国務省、名古屋など日本の5在外公館を閉鎖計画——政府機構改革の一環",
-        "AI普及でデザイン業の倒産が前年比2.7倍に急増——「独自性なき企業は淘汰」",
-        "防衛白書2026：中国軍がDeepSeek製AIを無人機・軍用車両に搭載",
-        "OpenCode × Amazon Bedrock で好きなモデルを選べる AI コーディング環境を構築する",
-        "Claude CodeのSkillsは「手順書」——/article コマンドを自作して記事執筆を自動化する実践",
-        "マイクロソフト「Windows Performance Analyzer MCP」発表——AIがトレースログからアプリの遅さを自律診断",
-        "Anthropic Launches Claude Opus 5: State-of-the-Art on Frontier-Bench and ARC-AGI 3 at Half the Cost of Fable 5",
-        "Keyv and 19 npm Packages Compromised in \"Shai-Hulud\" Active Supply Chain Attack",
-        "Where .env Went Wrong — SecretSpec Argues the Ubiquitous File Became Architecture It Was Never Designed to Be"
-      ]
-    },
-    {
-      "run_at": "2026-08-05T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6590551",
-        "https://news.yahoo.co.jp/pickup/6590548",
-        "https://news.yahoo.co.jp/pickup/6590549",
-        "https://news.yahoo.co.jp/pickup/6590542",
-        "https://www.itmedia.co.jp/news/article/2608/04/2000000385/",
-        "https://zenn.dev/knowledgesense/articles/7c1a8f7720b119",
-        "https://zenn.dev/codatum/articles/80b99faba75704",
-        "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
-        "https://lilianweng.github.io/posts/2026-07-04-harness/",
-        "https://github.com/leonickson1/Swiftlet",
-        "https://www.publickey1.jp/blog/26/aws28google_cloud1154220262synergy_research.html"
-      ],
-      "titles": [
-        "刃物を持った男が警官に発砲され死亡——大阪府河内長野市で警察官が危機対応",
-        "熊本地震1週間——避難所に7500人超、断水4万4千世帯、猛暑が追い打ち",
-        "防衛白書2026——中国の太平洋進出に「かつてない最大の戦略的挑戦」、AIとドローン戦に新章",
-        "オンワード3人死亡事故——「指導不徹底」を認める、従業員が避難後に店舗へ戻る",
-        "Google、新型スマートフォン「Pixel 11」シリーズを予告——8月12日夜から予約開始",
-        "PostgreSQL + pgvector 一択——CerebrasがRAGで社内ナレッジ管理を再設計した3つの教訓",
-        "AIエージェント向けツールはMCPではなくCLIで作る——ファイル直渡し・文脈温存・エラー回復の3原則",
-        "1Password、ダッシュボードでAI支出を一元管理——Claude・Cursor・ChatGPTの費用を部門別に追跡",
-        "Lilian Weng: Harness Engineering Is the Real Lever for AI Self-Improvement",
-        "Swiftlet: Run an 80B LLM in 4.3 GB RAM on Mac, or a 35B Model on iPhone",
-        "Cloud Market Q2 2026: 43% YoY Growth — AWS Holds 28%, Google Cloud Rises to 15%"
       ]
     }
   ]

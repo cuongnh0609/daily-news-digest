@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-07T15:00:00+09:00",
+  "last_run_at": "2026-08-07T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-07T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026080700647&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/07/2000000454/",
+        "https://www.jiji.com/jc/article?k=2026080700924&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/07/2000000456/",
+        "https://www.itmedia.co.jp/news/article/2608/07/2000000453/",
+        "https://zenn.dev/she_techblog/articles/937836550dfdf3",
+        "https://zenn.dev/lambdalisue/articles/introduce-cclens",
+        "https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro",
+        "https://www.anthropic.com/news/tino-cuellar",
+        "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
+        "https://www.aleksagordic.com/blog/vllm"
+      ],
+      "titles": [
+        "国家公務員の給与、5年連続引き上げへ——人事院が平均3.51%増を勧告",
+        "生成AIによる「声」の無断利用は権利侵害——法務省が初の解釈指針を公表",
+        "台風13号が直撃——3日間で計267便が欠航、7万7千人以上に影響",
+        "就職活動での生成AI利用が97%に——「面接で内容を追及されて困惑」も続出",
+        "KDDI、全システムの脆弱性診断を実施へ——1220万件漏えい受け「未知の脆弱性と片付けない」",
+        "AIがPull Requestの58%を自動承認——SHEが開発した「コードレビュー自動承認システム」の設計",
+        "cclens — Claude Codeセッションログを解析して非効率を可視化するRust製診断ツール",
+        "Claude Code向け「Security Guidance Plugin」——コード生成時に脆弱性をリアルタイム検出",
+        "Anthropic Appoints Tino Cuéllar as First Chief Global Affairs Officer",
+        "GitHub Spark Deprecated — All Apps Must Be Exported Before August 31, 2026",
+        "Inside vLLM: Anatomy of a High-Throughput LLM Inference System"
+      ]
+    },
     {
       "run_at": "2026-08-07T15:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-07T10:00:00+09:00",
+  "last_run_at": "2026-08-07T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-07T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6590858",
+        "https://www.itmedia.co.jp/news/article/2608/07/2000000445/",
+        "https://news.yahoo.co.jp/pickup/6590859",
+        "https://www.itmedia.co.jp/news/article/2608/07/2000000394/",
+        "https://www.itmedia.co.jp/news/article/2608/07/2000000426/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/07/2000000443/",
+        "https://zenn.dev/yukikurage/articles/201f6f9155f3db",
+        "https://www.publickey1.jp/blog/26/aws28google_cloud1154220262synergy_research.html",
+        "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+        "https://www.itmedia.co.jp/news/article/2608/07/2000000435/",
+        "https://github.com/CopilotKit/channels-sdk"
+      ],
+      "titles": [
+        "熊本地震が激甚災害に指定——農業・インフラ復旧への国庫補助を大幅拡充",
+        "ドコモ・バイクシェア障害が長期化——8月1日以降の利用者に全額返金へ",
+        "国民民主党代表選、玉木氏と橋本氏が立候補——消費減税・経済政策が争点に",
+        "BYDの軽EV「RACCO」、補助金込みで200万円切り——日産・ホンダへの価格圧力が鮮明に",
+        "糞便移植でピーナツアレルギーが改善——15人中6人が複数粒を摂取可能に、ヒトでの実証は世界初",
+        "PFNの国産LLM「PLaMo 3.0 Prime」、さくらのAI推論基盤で提供開始——256kトークン対応・申請制で利用可能に",
+        "自作DSL「Katari」でAIエージェントをオーケストレーション——再起動耐性・Effect System・MCP統合を標準搭載",
+        "クラウドインフラ市場が年42%成長——AWSが28%シェア維持、Google Cloudが15%に上昇（2026年Q2・Synergy Research）",
+        "Anthropic Improves Fable 5's Biology Safeguards — 85% Reduction in False Positives While Maintaining Security",
+        "OpenAI Upgrades ChatGPT Default Models — Sol for Plus/Pro, Unlimited Text Chat via Luna for Free Users",
+        "Channels SDK: Bring Any AI Agent to Slack, MS Teams, and Other Channels via a Single Unified Interface"
+      ]
+    },
     {
       "run_at": "2026-08-07T10:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "Google DeepMind Leadership Overhaul: Demis Hassabis Becomes Chair & Chief Scientist, Jeff Dean Departs After 27 Years",
         "GitHub Copilot Now Triggered by Comments — Automate Docs, Debug Stack Traces, and Create Follow-up Issues from PRs",
         "Atlassian Rovo Zero-Click Data Exfiltration — Sensitive Org Data Stolen via Indirect Prompt Injection Even with Web Search Disabled"
-      ]
-    },
-    {
-      "run_at": "2026-08-06T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080500643&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080500998&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080500633&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080500971&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/05/2000000406/",
-        "https://zenn.dev/gingakuwagata/articles/git-worktree-parallel-ai-agents",
-        "https://zenn.dev/cutlet_of_pork/articles/multi-agent-delegation-load-balancing",
-        "https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro",
-        "https://blog.cloudflare.com/cloudflare-os/",
-        "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-        "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/"
-      ],
-      "titles": [
-        "元ジャンポケ斉藤被告に懲役7年求刑——性的暴行事件、11月に判決へ",
-        "消費減税は「無理筋」——村上元総務相が市場信頼喪失を警告",
-        "ホルムズ海峡開放で米イラン合意間近か——管理権限めぐり最終調整",
-        "栄養価の高い食品が5年で25%値上がり——国連機関「健康的な食事が不可能に」",
-        "共同通信社に不正アクセス——職員・取引先の連絡先情報が流出か",
-        "Gitワークツリーで並行作業する——AIエージェントの手を止めない使い方",
-        "特定エージェントへの委任集中を自己改善ループで是正する——マルチエージェント負荷分散の実践",
-        "脆弱性を作り込まないために——Claude公式「Security Guidance Plugin」を導入した話",
-        "Cloudflare OS: An Open Agentic Platform That Lets Everyone in Your Company Build AI-Powered Apps",
-        "Building an Advanced Agentic Harness: DAG Planning, Multi-Tiered Memory, and Pressure-Aware Degradation",
-        "Don't Be a Meat Proxy: Why Developers Must Add Intellectual Value Beyond Relaying AI Output"
-      ]
-    },
-    {
-      "run_at": "2026-08-05T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080500854&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080500578&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080500801&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/05/2000000396/",
-        "https://www.itmedia.co.jp/news/article/2608/05/2000000395/",
-        "https://zenn.dev/lambdalisue/articles/introduce-cclens",
-        "https://zenn.dev/cybozu_frontend/articles/llm-wiki-for-design-systems",
-        "https://www.publickey1.jp/blog/26/100cncf.html",
-        "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-        "https://www.anthropic.com/news/tino-cuellar",
-        "https://www.itmedia.co.jp/news/article/2608/05/2000000400/"
-      ],
-      "titles": [
-        "消費減税の財源「対応できる」——高市首相、社会保障への影響を否定",
-        "豪ジェットスター、機内荷物棚を全面有料化——成田便往復で1万円超、2027年2月から",
-        "米民主党ミシガン州予備選——急進左派と穏健派が僅差の接戦",
-        "「ITトレンド」運営会社でGitHub経由の不正アクセス——最大6万件の個人情報が流出か",
-        "Googleパスワードマネジャーに3種の脆弱性——パスキー保護アカウントでも乗っ取りが可能",
-        "Claude Code の「無駄」を可視化する Rust 製 CLI ツール cclens が登場",
-        "LLM-Wiki でデザインシステムの知識を統合管理——サイボウズが実践した「散らばった議論の一元化」",
-        "CNCF調査：日本のクラウドネイティブ開発者が約100万人に——APIゲートウェイ・マイクロサービス採用が急拡大",
-        "Stateless MCP 2.0 Eliminates Session Management — Single-Request Protocol Reignites Interest",
-        "Anthropic Names Tino Cuéllar as First Chief Global Affairs Officer",
-        "Kioxia Launches XL1 CXL Flash Module — A New Memory Tier Between DRAM and SSD for AI Workloads"
-      ]
-    },
-    {
-      "run_at": "2026-08-05T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080500080&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/05/2000000392/",
-        "https://www.jiji.com/jc/article?k=2026080400741&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/05/2000000391/",
-        "https://www.jiji.com/jc/article?k=2026080200172&g=soc&m=rss",
-        "https://zenn.dev/m16_llc/articles/loop-engineering-beginner-guide",
-        "https://zenn.dev/nocodesolutions/articles/19f0d415af42be",
-        "https://zenn.dev/xim2jp_tokyo/articles/7bc2fdda24e6be",
-        "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-        "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-        "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/"
-      ],
-      "titles": [
-        "自民党が食料品の消費税減税を了承、午後に閣議決定へ——高市首相の積極財政路線が党内反発を押し切る",
-        "東大教授を懲戒処分——研究室サイトのHTMLソースに「六四天安門」を隠し書き",
-        "ドナウ川、熱波で歴史的渇水——マンモスの骨やナチス軍艦が川底から露出",
-        "英AI安全保障研究所、評価中AIが実在開発者を標的に——偽アカウントで悪意あるコードの承認を迫る",
-        "広島原爆資料館、2028年度に「子どもが見ない選択」ができる展示を導入へ",
-        "【AI駆動開発 第4世代】ループエンジニアリング入門 — 「AIにプロンプトを打つ」から「ループを設計する」時代へ",
-        "ナレッジグラフでClaude Codeのトークンを10分の1に",
-        "ローカルLLMでAIエージェントは動くのか——チャット用途との「評価軸の違い」",
-        "Pi's Minimalism Is Its Advantage — Databricks Benchmark Shows Lean Harnesses Beat Feature-Heavy Agents",
-        "GitHub Spark Deprecated — AI Prototyping Tool Shut Down as Copilot Integrated Workflows Take Over",
-        "AI Fuels Over Half of Cybercrime in Africa — INTERPOL 2026 Report Finds 55% of Cases Involve AI"
       ]
     }
   ]

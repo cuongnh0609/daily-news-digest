@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-07T20:00:00+09:00",
+  "last_run_at": "2026-08-08T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-08T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026080701068&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080701108&g=flash&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080700624&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/07/2000000446/",
+        "https://www.itmedia.co.jp/news/article/2608/07/2000000444/",
+        "https://zenn.dev/zenn_content/articles/multi-agent-failure-patterns-measured",
+        "https://zenn.dev/zenn_content/articles/claude-code-hooks-known-limits",
+        "https://zenn.dev/yamato_snow/articles/claude-code-codex-harness-engineering",
+        "https://blog.cloudflare.com/kitesurf/",
+        "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+        "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/"
+      ],
+      "titles": [
+        "サウジ・パキスタン・トルコが相互防衛協定——「イスラム版NATO」とも称される安全保障の枠組み誕生",
+        "7月の米雇用統計、非農業部門就業者数が2万3千人減——市場予測を大幅下回り景気後退懸念が浮上",
+        "国税職員が調査先の資産家から現金を盗み競艇につぎ込む——脱税容疑も浮上し免職処分",
+        "小学館「マンガワン」問題、第三者委員会が報告書を公表——3つの行為が「人権侵害への助長・加担」と指摘",
+        "西鉄福岡（天神）駅で有名YouTuberの音声が無断放送——第三者が放送システムに不正アクセスか",
+        "75体の並列エージェントで5.25Mトークンを溶かした——マルチエージェント運用の失敗5類型と対策",
+        "Claude Codeのhookが守ってくれない10のケース——15個を実運用して踏んだ制限と回避策",
+        "Claude Code・Codexの品質を守るハーネス設計5層——AIエージェント品質管理の体系化",
+        "Kitesurf: Cloudflare Launches Agent-First Browser Built on Workers — 3-7x More Efficient Than Chromium for AI Workloads",
+        "LFM2.5-2.6B: Liquid AI Releases Compact Agent Model That Runs Locally at 220 Tokens/sec — Beats Models 4x Its Size",
+        "Simon Willison on Technical Blogging: \"The Flaws You See in Your Writing Are Invisible to Everyone Else\""
+      ]
+    },
     {
       "run_at": "2026-08-07T20:00:00+09:00",
       "urls": [

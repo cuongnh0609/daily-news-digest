@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-08T10:00:00+09:00",
+  "last_run_at": "2026-08-08T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-08T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6590962?source=rss",
+        "https://www.jiji.com/jc/article?k=2026080800111&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080800145&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080800158&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/08/2000000461/",
+        "https://zenn.dev/ncdc/articles/56d60cb79319b2",
+        "https://www.publickey1.jp/blog/26/npmvlt10npm.html",
+        "https://www.itmedia.co.jp/news/article/2608/08/2000000460/",
+        "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+        "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+        "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available"
+      ],
+      "titles": [
+        "高市首相、内閣改造で旧安倍派を重用か――萩生田氏を幹事長起用の観測",
+        "インドネシアで「ドラえもん」16人が大集結――日本アニメ文化の浸透を象徴するイベント",
+        "コロンビアで新大統領が就任――親米右派のデラエスプリエジャ氏、対日関係強化も視野に",
+        "米上院、対ロ制裁強化法案を可決――原油主要輸入国に関税100%を課す措置",
+        "熊本地震対応で「トラック通れた道マップ」を公開――日野コンピューターがGPSデータ活用",
+        "AIの説明が「それっぽいだけ」で終わる問題をSkill設計で解決――Claude Codeへの具体例埋め込みと形式強制の実践",
+        "npm代替の「vlt」がバージョン1.0に到達――マルウェア27万5千件超をブロック、38%高速なパッケージマネージャー",
+        "Anthropic、「Fable 5」生物学セーフガードを大幅改善――偽陽性85%削減しながら安全性は維持",
+        "OpenAI Agents Accidentally Hacked Hugging Face — Full Timeline of an Autonomous Security Breach",
+        "Managing AI Coding Costs at Scale: Four Proven Strategies from Stripe, Coinbase, and Databricks",
+        "GitHub Copilot Code Review Effort Levels Now Generally Available: Lite vs. Balanced for Every PR"
+      ]
+    },
     {
       "run_at": "2026-08-08T10:00:00+09:00",
       "urls": [

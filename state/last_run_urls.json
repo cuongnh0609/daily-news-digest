@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-08T20:15:00+09:00",
+  "last_run_at": "2026-08-09T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-09T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026080800239&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080800234&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080800381&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6591027",
+        "https://news.yahoo.co.jp/pickup/6591031",
+        "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000410/",
+        "https://zenn.dev/ait/articles/google-design-md-measured",
+        "https://zenn.dev/gamella/articles/1fc2949daf99de",
+        "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+        "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+        "https://genesisopenmodels.anl.gov/"
+      ],
+      "titles": [
+        "ライン川が記録的渇水――水運の8割が機能不全に陥りドイツ産業界が危機に直面",
+        "ソロモン諸島が米国と海上保安協定を締結――新政権が「親中」路線から脱却へ",
+        "タイで学校銃乱射事件――死者9人、14歳の少年が祖父母宅から学校へと連続して発砲",
+        "戦時中に複数大学で動物の血を使った輸血実験――患者に無断で実施、死亡例も確認",
+        "ラグビー九州電力選手が熱中症で死亡――35℃の練習後に緊急搬送、フィジー出身26歳",
+        "Meta、コーディングエージェント「Muse Code」をリリース――Claude CodeやCodexに対抗、非同期バックグラウンドエージェント搭載",
+        "DESIGN.mdを74件で実測――AIが「いい感じ」にならない7つの落とし穴と3層検証アーキテクチャ",
+        "Grokタスクでヘッジファンド情報を毎週自動収集――Claude Codeへのインプットに、LLM駆動戦略最適化の最前線",
+        "Google DeepMind's WeatherNext Achieves Breakthrough in Cyclone Forecasting — One Extra Day of Lead Time, 1,000-Member Ensembles, Fully Open-Source",
+        "GitHub Copilot Impact Dashboard Adds ROI Section — Correlates AI Spend with PR Productivity Per Developer Tier",
+        "U.S. Department of Energy Launches Genesis Open Models Initiative — Scientific AI Models for Physics, Chemistry, and Biology Released Open-Source"
+      ]
+    },
     {
       "run_at": "2026-08-08T20:15:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "Anthropic Appoints Tino Cuéllar as First Chief Global Affairs Officer",
         "GitHub Spark Deprecated — All Apps Must Be Exported Before August 31, 2026",
         "Inside vLLM: Anatomy of a High-Throughput LLM Inference System"
-      ]
-    },
-    {
-      "run_at": "2026-08-07T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6590858",
-        "https://www.itmedia.co.jp/news/article/2608/07/2000000445/",
-        "https://news.yahoo.co.jp/pickup/6590859",
-        "https://www.itmedia.co.jp/news/article/2608/07/2000000394/",
-        "https://www.itmedia.co.jp/news/article/2608/07/2000000426/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/07/2000000443/",
-        "https://zenn.dev/yukikurage/articles/201f6f9155f3db",
-        "https://www.publickey1.jp/blog/26/aws28google_cloud1154220262synergy_research.html",
-        "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-        "https://www.itmedia.co.jp/news/article/2608/07/2000000435/",
-        "https://github.com/CopilotKit/channels-sdk"
-      ],
-      "titles": [
-        "熊本地震が激甚災害に指定——農業・インフラ復旧への国庫補助を大幅拡充",
-        "ドコモ・バイクシェア障害が長期化——8月1日以降の利用者に全額返金へ",
-        "国民民主党代表選、玉木氏と橋本氏が立候補——消費減税・経済政策が争点に",
-        "BYDの軽EV「RACCO」、補助金込みで200万円切り——日産・ホンダへの価格圧力が鮮明に",
-        "糞便移植でピーナツアレルギーが改善——15人中6人が複数粒を摂取可能に、ヒトでの実証は世界初",
-        "PFNの国産LLM「PLaMo 3.0 Prime」、さくらのAI推論基盤で提供開始——256kトークン対応・申請制で利用可能に",
-        "自作DSL「Katari」でAIエージェントをオーケストレーション——再起動耐性・Effect System・MCP統合を標準搭載",
-        "クラウドインフラ市場が年42%成長——AWSが28%シェア維持、Google Cloudが15%に上昇（2026年Q2・Synergy Research）",
-        "Anthropic Improves Fable 5's Biology Safeguards — 85% Reduction in False Positives While Maintaining Security",
-        "OpenAI Upgrades ChatGPT Default Models — Sol for Plus/Pro, Unlimited Text Chat via Luna for Free Users",
-        "Channels SDK: Bring Any AI Agent to Slack, MS Teams, and Other Channels via a Single Unified Interface"
-      ]
-    },
-    {
-      "run_at": "2026-08-07T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080700155&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080700179&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080600641&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/07/2000000437/",
-        "https://www.itmedia.co.jp/news/article/2608/07/2000000436/",
-        "https://zenn.dev/uzu_tech/articles/86a2ef05a7d649",
-        "https://zenn.dev/microsoft/articles/agent-framework-ultra-soul",
-        "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
-        "https://artificialanalysis.ai/?intelligence=agentic-index",
-        "https://www.itmedia.co.jp/news/article/2608/07/2000000435/",
-        "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344"
-      ],
-      "titles": [
-        "トランプ後継はバンス氏が最有力か——米紙が次期大統領選の行方を分析",
-        "米ＦＲＢ議長、インフレ加速なら９月利上げも辞さない姿勢——英紙が報道",
-        "被爆前の広島・長崎をゲームで再現——大学院生が「失われた記憶」を次世代に伝える",
-        "味の素、ＡＩサーバ向け半導体基板材が好調で第１四半期業績が過去最高——通期も上方修正",
-        "マスク氏の「テラファブ」、テキサス州に１６８億ドル投資——ＡＩ製造拠点の建設地が決定",
-        "Claudeが書く長いコメントは、Claude自身の役に立っていなかった——UZU Tech の実測と解決策",
-        "GPT-5.6-Solに「ウルトラ」と入力して「ソウル」と答えさせる——Microsoft Agent Frameworkの６つのパターン実践",
-        "アプリ遅延の原因をAIがトレースログから自律診断——「Windows Performance Analyzer MCP」プレビュー公開",
-        "Qwen3.8 Max Tops Agentic Index as Best Overall Model — Open-Source Contender Beats Frontier Models on Autonomous Task Performance",
-        "OpenAI Upgrades GPT-5.6 Sol for Plus/Pro and Expands Luna Access for Free Users — Default Models Shift Across All Tiers",
-        "AMD Acquires Taalas — Startup That Etches AI Model Weights Directly Into Silicon for 48x Faster Inference"
-      ]
-    },
-    {
-      "run_at": "2026-08-07T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6590799",
-        "https://news.yahoo.co.jp/pickup/6590805",
-        "https://www.jiji.com/jc/article?k=2026080600425&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6590785",
-        "https://news.yahoo.co.jp/pickup/6590795",
-        "https://zenn.dev/codatum/articles/80b99faba75704",
-        "https://zenn.dev/nrs/articles/70db94beb7b76d",
-        "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
-        "https://scalex.dev/blog/ai-agent-permissions-stats/",
-        "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
-        "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
-      ],
-      "titles": [
-        "熊本地震・避難所の格差が浮き彫りに——制度的改革が急務",
-        "陸上自衛隊が大学教授らの個人情報を組織的に収集か——文民統制の逸脱に懸念",
-        "高市首相、非核三原則の見直しに「予断せず」——消費減税は「私の覚悟」",
-        "イオンモール熊本でLPガス爆発か——経産省が全国大型施設に点検要請",
-        "世界最強の太陽望遠鏡が史上最高解像度で太陽表面を観測——磁場の謎に新たな光",
-        "AIエージェント向けツールをMCPではなくCLIとして作る——設計の3原則",
-        "プロンプトエンジニアリングをTDD風に体系化——計測と回帰テストで品質を数値化する",
-        "1Password、AIツール支出を可視化する新機能——Claude・Cursor・ChatGPTなど複数サービスを一元管理",
-        "Humans Missed 1 in 3 AI Agent Threats Across 40,000 Game Runs — Permission Fatigue Exposed",
-        "Kimi K3 Now Available in GitHub Copilot — Open-Weight Frontier Model Joins the Model Picker",
-        "LLM CLI Tool 0.32 Released — Reasoning Traces, Server-Side Tools, and OpenAI Responses API Support"
-      ]
-    },
-    {
-      "run_at": "2026-08-07T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080600962&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080600652&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080601025&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/06/2000000425/",
-        "https://www.itmedia.co.jp/news/article/2608/06/2000000414/",
-        "https://www.itmedia.co.jp/news/article/2608/06/2000000434/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000433/",
-        "https://www.publickey1.jp/blog/26/superlogical.html",
-        "https://zed.dev/deltadb",
-        "https://github.com/denoland/celld",
-        "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000420/"
-      ],
-      "titles": [
-        "ドイツで6月熱波による死者が約9,600人——冷房設備の普及不足が被害を拡大",
-        "「ジャンプ」公式通販で4.3億円不正注文——238アカウントを駆使した組織的キャンセル詐欺",
-        "韓国軍が竹島防衛訓練を実施——日本政府が外交ルートで抗議",
-        "SpaceXのロケット上段、月面に落下——廃棄軌道から自然落下、NASA「科学的価値あり」",
-        "ローソン、調理ロボ「I-Robo 2」を首都圏3店舗に追加展開——炒め物販売が前年比20%増",
-        "マイクロソフト「Windows Performance Analyzer MCP」発表——AIがトレースログからパフォーマンス問題を自律診断",
-        "AIデータセンターは「圧倒的な供給不足」——ソフトバンクG CFOが世界3拠点で大規模建設を宣言",
-        "HashiCorp創業者が新会社「Superlogical」設立——あらゆる仕事に使えるマルチプレクサの開発へ",
-        "Zed DeltaDB: Version Control That Records Every Keystroke and Links Each Change to the AI Conversation That Shaped It",
-        "Celld: Deno Releases Open-Source Self-Hosted Durable Objects — Run Cloudflare Workers Infrastructure on Your Own Servers",
-        "NVIDIA Alpamayo 2 Super: Frontier Autonomous Driving Model Goes Open-Source and Commercial Under Linux Foundation License"
       ]
     }
   ]

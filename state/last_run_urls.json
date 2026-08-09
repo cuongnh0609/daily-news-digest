@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-09T20:00:00+09:00",
+  "last_run_at": "2026-08-10T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-10T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6591129?source=rss",
+        "https://news.yahoo.co.jp/pickup/6591133?source=rss",
+        "https://news.yahoo.co.jp/pickup/6591137?source=rss",
+        "https://www.jiji.com/jc/article?k=2026080900306&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6591134?source=rss",
+        "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+        "https://zenn.dev/gsy0911/articles/a4dc76f0639576",
+        "https://zenn.dev/yuichirominato/articles/dc8cf3915f1c6f",
+        "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+        "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+        "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
+      ],
+      "titles": [
+        "台風15号、列島を横断する恐れ——お盆期間の交通・帰省に広範な影響",
+        "ガザ和平工程表、ネタニヤフ首相が拒否——ハマスは「履行準備あり」と対立",
+        "長野県知事選、現職・阿部守一氏が5選——投票率は過去最低の40.53%",
+        "カナダで山火事が急拡大、非常事態宣言——2万人超が避難、空路での救出も",
+        "JR東海「夜行」新幹線、乗客の4割が女性——お盆需要で予約率も好調",
+        "Agent Plugins 1.0.0 発表——異なるAIエージェント間でスキルとMCPサーバ設定を共通化",
+        "Raspberry Pi 5でClaude Codeを常時稼働させる——NixOSで再現可能なエージェント基盤を構築",
+        "経費精算アプリもExcelも捨てる——Claude Desktop＋MCPでマネーフォワードAPI連携を完全自動化",
+        "Agent Plugins 1.0.0: Cross-Vendor AI Agent Interoperability Standard Launches with Industry Backing",
+        "CSS: The Bomb Inside Your Inbox — Critical Webmail Vulnerabilities Allow Account Takeover via Crafted Emails",
+        "Anthropic Improves Fable 5 Biology Safeguards — 85% Reduction in False Positives While Maintaining Safety"
+      ]
+    },
     {
       "run_at": "2026-08-09T20:00:00+09:00",
       "urls": [
@@ -202,122 +231,6 @@
         "OpenAI Agents Accidentally Hacked Hugging Face — Full Timeline of an Autonomous Security Breach",
         "Managing AI Coding Costs at Scale: Four Proven Strategies from Stripe, Coinbase, and Databricks",
         "GitHub Copilot Code Review Effort Levels Now Generally Available: Lite vs. Balanced for Every PR"
-      ]
-    },
-    {
-      "run_at": "2026-08-08T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080700880&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080800074&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080800134&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6590927?source=rss",
-        "https://news.yahoo.co.jp/pickup/6590937?source=rss",
-        "https://zenn.dev/yktsnet/articles/202608-guarantee-driven-development",
-        "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy",
-        "https://www.itmedia.co.jp/news/article/2608/08/2000000459/",
-        "https://www.itmedia.co.jp/news/article/2608/08/2000000459/",
-        "https://github.blog/changelog/2026-08-06-mcp-allowlists-in-enterprise-managed-settings",
-        "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/"
-      ],
-      "titles": [
-        "高市首相に新たな動画問題　熊本視察「ＰＶ風」アピール",
-        "トランプ米大統領、ＦＲＢ理事解任へ　最高裁は無効判断、揺らぐ独立性",
-        "侵攻「順調」が過去最低　対ウクライナ、厭戦気分か―ロシア世論",
-        "政権の積極財政「日本売り」危機",
-        "野球部員死亡 別CT画像で診察か",
-        "仕様書から保証台帳へ、GDD（保証駆動開発）のすすめ",
-        "オントロジーでAIに業務知識を渡す—AWS Context Ontology Acceleratorを試してみた",
-        "OpenAI、次期モデル「Astra」の一部開発を停止　「Critical」級サイバー能力の可能性否定できず",
-        "OpenAI Halts Astra Development Over Critical Cyber Capabilities",
-        "MCP allowlists in enterprise managed settings",
-        "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI"
-      ]
-    },
-    {
-      "run_at": "2026-08-08T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6590888",
-        "https://www.jiji.com/jc/article?k=2026080701051&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080701110&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080701018&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6591033",
-        "https://zenn.dev/finatext/articles/2ea88e4b1c2e5b",
-        "https://www.itmedia.co.jp/news/article/2608/07/2000000449/",
-        "https://zenn.dev/kesin11/articles/20260806_stacked_pr",
-        "https://www.anthropic.com/news/position-open-weights-models",
-        "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-        "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity"
-      ],
-      "titles": [
-        "台風15号、来週お盆期間に東・北日本へ接近——帰省・旅行の交通に広範な影響の恐れ",
-        "火葬料金の高騰問題——高市首相と小池都知事が連携確認、墓地埋葬法改正を要請",
-        "7月の米雇用統計、非農業部門が2.3万人減——市場予測を大幅に外れ景気後退懸念が再浮上",
-        "京大病院で脳腫瘍手術中に誤部位を摘出——50代女性患者が自発呼吸不能の重篤な障害",
-        "東芝、キオクシア株の評価益で第1四半期純利益が約30倍——半導体回復の波に乗る",
-        "LLM WikiパターンをOKFで標準化——エージェントが業務知識を体系的に管理・参照する新仕様",
-        "防衛装備庁がSHIFTにAI装備品の品質審査を委託——防衛開発へのAI適用に「品質保証体制」を整備",
-        "GitHubの「Stacked Pull Requests」がパブリックプレビューに——gh stackで複数PRを一括管理",
-        "Anthropic's Position on Open-Weights Models: Targeted Controls, Not Bans",
-        "pgrust 0.2: Making Postgres 300x Faster for Analytics via Batching, Operator Fusion, and SIMD",
-        "GitHub Copilot Usage Metrics API Now Tracks Per-Agent Activity — Enterprises Can Measure Actual Agent Adoption"
-      ]
-    },
-    {
-      "run_at": "2026-08-08T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080701068&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080701108&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080700624&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/07/2000000446/",
-        "https://www.itmedia.co.jp/news/article/2608/07/2000000444/",
-        "https://zenn.dev/zenn_content/articles/multi-agent-failure-patterns-measured",
-        "https://zenn.dev/zenn_content/articles/claude-code-hooks-known-limits",
-        "https://zenn.dev/yamato_snow/articles/claude-code-codex-harness-engineering",
-        "https://blog.cloudflare.com/kitesurf/",
-        "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-        "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/"
-      ],
-      "titles": [
-        "サウジ・パキスタン・トルコが相互防衛協定——「イスラム版NATO」とも称される安全保障の枠組み誕生",
-        "7月の米雇用統計、非農業部門就業者数が2万3千人減——市場予測を大幅下回り景気後退懸念が浮上",
-        "国税職員が調査先の資産家から現金を盗み競艇につぎ込む——脱税容疑も浮上し免職処分",
-        "小学館「マンガワン」問題、第三者委員会が報告書を公表——3つの行為が「人権侵害への助長・加担」と指摘",
-        "西鉄福岡（天神）駅で有名YouTuberの音声が無断放送——第三者が放送システムに不正アクセスか",
-        "75体の並列エージェントで5.25Mトークンを溶かした——マルチエージェント運用の失敗5類型と対策",
-        "Claude Codeのhookが守ってくれない10のケース——15個を実運用して踏んだ制限と回避策",
-        "Claude Code・Codexの品質を守るハーネス設計5層——AIエージェント品質管理の体系化",
-        "Kitesurf: Cloudflare Launches Agent-First Browser Built on Workers — 3-7x More Efficient Than Chromium for AI Workloads",
-        "LFM2.5-2.6B: Liquid AI Releases Compact Agent Model That Runs Locally at 220 Tokens/sec — Beats Models 4x Its Size",
-        "Simon Willison on Technical Blogging: \"The Flaws You See in Your Writing Are Invisible to Everyone Else\""
-      ]
-    },
-    {
-      "run_at": "2026-08-07T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080700647&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/07/2000000454/",
-        "https://www.jiji.com/jc/article?k=2026080700924&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/07/2000000456/",
-        "https://www.itmedia.co.jp/news/article/2608/07/2000000453/",
-        "https://zenn.dev/she_techblog/articles/937836550dfdf3",
-        "https://zenn.dev/lambdalisue/articles/introduce-cclens",
-        "https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro",
-        "https://www.anthropic.com/news/tino-cuellar",
-        "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-        "https://www.aleksagordic.com/blog/vllm"
-      ],
-      "titles": [
-        "国家公務員の給与、5年連続引き上げへ——人事院が平均3.51%増を勧告",
-        "生成AIによる「声」の無断利用は権利侵害——法務省が初の解釈指針を公表",
-        "台風13号が直撃——3日間で計267便が欠航、7万7千人以上に影響",
-        "就職活動での生成AI利用が97%に——「面接で内容を追及されて困惑」も続出",
-        "KDDI、全システムの脆弱性診断を実施へ——1220万件漏えい受け「未知の脆弱性と片付けない」",
-        "AIがPull Requestの58%を自動承認——SHEが開発した「コードレビュー自動承認システム」の設計",
-        "cclens — Claude Codeセッションログを解析して非効率を可視化するRust製診断ツール",
-        "Claude Code向け「Security Guidance Plugin」——コード生成時に脆弱性をリアルタイム検出",
-        "Anthropic Appoints Tino Cuéllar as First Chief Global Affairs Officer",
-        "GitHub Spark Deprecated — All Apps Must Be Exported Before August 31, 2026",
-        "Inside vLLM: Anatomy of a High-Throughput LLM Inference System"
       ]
     }
   ]

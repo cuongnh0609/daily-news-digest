@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-09T10:00:00+09:00",
+  "last_run_at": "2026-08-09T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-09T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6591081?source=rss",
+        "https://www.jiji.com/jc/article?k=2026080900087&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080600962&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/09/2000000464/",
+        "https://www.jiji.com/jc/article?k=2026080900105&g=spo&m=rss",
+        "https://zenn.dev/tetsu_don/articles/e40b95dfc726ac",
+        "https://www.publickey1.jp/blog/26/superlogical.html",
+        "https://zenn.dev/xtone/articles/masshiro-ai-playtest",
+        "https://shopify.engineering/scaling-inventory-reservations",
+        "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
+        "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/"
+      ],
+      "titles": [
+        "長崎原爆の日——被爆81年、被爆者代表が「核なき世界」への誓いを新たに",
+        "バイデン前米大統領、骨への転移で「激しい痛み」——次男ハンター氏がBBCで明かす",
+        "ドイツ6月熱波、1週間で9600人死亡——冷房インフラ不足が被害を拡大",
+        "X（旧Twitter）、クリエイター収益プログラムを刷新——「オリジナルコンテンツ報酬制度」へ移行",
+        "高校野球・花巻東が継投で接戦制す——大会2回戦で勝利を収める",
+        "Claude Codeで「ループエンジニアリング」を実践——Maker-Checkerパターンで本番バグを自律検出",
+        "HashiCorp共同創業者ハシモト氏、新会社「Superlogical」設立——AIエージェント時代の「全仕事用マルチプレクサ」へ",
+        "自作パズルゲームをAIに8000回プレイさせたら、ゲームバランスの根本的な欠陥が発覚した",
+        "Shopify Replaced Redis with MySQL for Inventory Reservations — Scaling to $5.1M Sales Per Minute",
+        "GitHub Enterprises Can Now Install Third-Party GitHub Apps at the Enterprise Level",
+        "Fastmail Now Offers EU Data Region — Email Stored Primarily in Amsterdam for GDPR Compliance"
+      ]
+    },
     {
       "run_at": "2026-08-09T10:00:00+09:00",
       "urls": [
@@ -182,7 +211,7 @@
         "https://www.jiji.com/jc/article?k=2026080701051&g=pol&m=rss",
         "https://www.jiji.com/jc/article?k=2026080701110&g=int&m=rss",
         "https://www.jiji.com/jc/article?k=2026080701018&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6590911",
+        "https://news.yahoo.co.jp/pickup/6591033",
         "https://zenn.dev/finatext/articles/2ea88e4b1c2e5b",
         "https://www.itmedia.co.jp/news/article/2608/07/2000000449/",
         "https://zenn.dev/kesin11/articles/20260806_stacked_pr",

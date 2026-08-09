@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-09T05:00:00+09:00",
+  "last_run_at": "2026-08-09T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-09T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6591053?source=rss",
+        "https://news.yahoo.co.jp/pickup/6591046?source=rss",
+        "https://www.jiji.com/jc/article?k=2026080800225&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080800289&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080800240&g=soc&m=rss",
+        "https://zenn.dev/pipipipipi/articles/661b28da670728",
+        "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
+        "https://www.itmedia.co.jp/news/article/2608/06/2000000370/",
+        "https://simonwillison.net/2026/Aug/8/auto-mode/",
+        "https://code.claude.com/docs/en/cross-session-messaging",
+        "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers"
+      ],
+      "titles": [
+        "長野県で大規模な土砂崩落——約400人が孤立状態、救助活動が難航",
+        "ソニーがタムロンに買収提案——光学レンズ事業の強化と映像システム統合を狙う",
+        "内閣・党人事で幹事長ポストが焦点に——高市首相、総裁再選をにらみ旧安倍派を活用か",
+        "スペインとイタリアが対立激化——不法移民7万人の急増で両国間に深刻な亀裂",
+        "熊本の12歳がニューヨーク国際コンクールで最優秀賞——「被災後も練習続けた」と涙の快挙",
+        "社内MCPをCloudflare AccessとWorkersで構築——Managed OAuthで認証をエッジに集約",
+        "Hugging Face侵害事件の深層——侵入したAIエージェントが社内に「秘密の掲示板」を設置していた",
+        "ワークマンが画像生成AIを密かに導入済み——店頭POPやSNS素材の制作工程を半自動化",
+        "Claude Code Auto Mode Becomes the Default on August 14 — Third-Party Evals Show 89% Block Rate on Dangerous Commands",
+        "Claude Code Cross-Session Messaging — Agents Can Now Talk to Each Other Across Terminals and Machines",
+        "\"Code Was Never the Hard Part\" Is an Insult to All Programmers — A Defense of Coding Craft in the AI Era"
+      ]
+    },
     {
       "run_at": "2026-08-09T05:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-09T15:00:00+09:00",
+  "last_run_at": "2026-08-09T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-09T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6591117?source=rss",
+        "https://www.jiji.com/jc/article?k=2026080900233&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6591107?source=rss",
+        "https://www.jiji.com/jc/article?k=2026080900175&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080900138&g=pol&m=rss",
+        "https://zenn.dev/skova_digital/articles/dac77bc5fbe17f",
+        "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
+        "https://www.publickey1.jp/blog/26/kubernetesaikubeconcloudnativecon_japan_2026.html",
+        "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+        "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
+        "https://www.anthropic.com/news/claude-opus-5"
+      ],
+      "titles": [
+        "張本美和、WTTチャンピオンズ横浜で初優勝――前年覇者の陳幸同を下す",
+        "長野・安曇野で土石流、橋が流出——390人が一時孤立、けが人なし",
+        "台湾、長崎原爆式典で席次問題——「大使級の待遇受けず」と抗議",
+        "北朝鮮、ロシアへ最大5万人を追加派兵か——ゼレンスキー氏が韓国に協力要請",
+        "高市首相、内閣改造の説明を回避——「今は熊本地震対応が最優先」",
+        "AIエージェントの「ループ」を10種類に分類——検出しきい値の設計が根本から変わる",
+        "Claude Codeにクロスセッションメッセージング機能追加——エージェント同士がmacOS/Linuxで直接通信",
+        "KubernetesはAIを動かすプラットフォームへ——KubeCon Japan 2026が横浜で開幕",
+        "Zawinski's Law of MultiAgents: Every Agent Expands Until It Can Talk to Other Agents",
+        "Turn One Giant AI-Generated Pull Request Into a Reviewable Stack",
+        "Introducing Claude Opus 5: Step-Change Improvement for Long-Running Agents and Professional Work"
+      ]
+    },
     {
       "run_at": "2026-08-09T15:00:00+09:00",
       "urls": [

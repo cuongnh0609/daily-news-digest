@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-10T05:00:00+09:00",
+  "last_run_at": "2026-08-10T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-10T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026080900355&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080900225&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026080900242&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081000070&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6591146?source=rss",
+        "https://zenn.dev/she_techblog/articles/937836550dfdf3",
+        "https://zenn.dev/finatext/articles/2ea88e4b1c2e5b",
+        "https://www.itmedia.co.jp/news/article/2608/10/2000000467/",
+        "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/",
+        "https://github.blog/changelog/2026-08-06-mcp-allowlists-in-enterprise-managed-settings",
+        "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition"
+      ],
+      "titles": [
+        "和歌山市長選、新人の尾崎氏が初当選——現職を含む5人を破り市政刷新へ",
+        "熊本被災地で便乗犯罪が相次ぐ——空き巣・詐欺業者が被災者を狙う、警察が特別警戒",
+        "AIモデルの「暴走」相次ぐ——自律的攻撃行動に米国が危機感、規制議論が再燃",
+        "ニューヨーク・自由の女神島付近で船が転覆——母親と乳児が死亡、船長を逮捕",
+        "不同意性交の認知件数が増加傾向——法改正から2年、相談窓口の浸透が背景か",
+        "Pull Requestの58%をAIが承認——SHEが「人間不要レビュー」の判定基準を設計・公開",
+        "LLM Wikiパターンを標準化する「OKF」——Google Cloud発の知識フォーマット仕様がAIエージェント設計を変える",
+        "デジタル庁から個人情報150人分が漏えい——手順書の記載ミスが原因、委託先への誤送付",
+        "Claude Opus 5 System Prompt Reveals How Anthropic Handles Post-Training Knowledge Gaps",
+        "GitHub Introduces MCP Allowlists in Enterprise Managed Settings — Admins Can Now Control Which MCP Servers Copilot Can Run",
+        "The Tragedy of the Commons, AI Edition — How Uncoordinated LLM Crawlers Are Collapsing the Open Web"
+      ]
+    },
     {
       "run_at": "2026-08-10T05:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-10T15:00:00+09:00",
+  "last_run_at": "2026-08-10T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-10T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/b6d8b60958ae6cac26da80201cbaeddfbe03fc43",
+        "https://news.yahoo.co.jp/articles/3b8296801e421750837bc8c9fe88af154587d979",
+        "https://news.yahoo.co.jp/articles/5d5fe2e48ad518321b5dbd060eddba474e01327d",
+        "https://news.yahoo.co.jp/articles/6dc3632e768a5bcfcdfe693102cbcc7aa145de62",
+        "https://news.yahoo.co.jp/articles/d16839a9b58183329eeec4728ef2e8eb7a65c597",
+        "https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro",
+        "https://zenn.dev/ncdc/articles/56d60cb79319b2",
+        "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
+        "https://www.docker.com/products/docker-sandboxes/",
+        "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/",
+        "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available"
+      ],
+      "titles": [
+        "台風15号（チャンホン）、11日に関東甲信へ接近・上陸の恐れ——「極めて異例の進路」でお盆に直撃か",
+        "熊本地震：被災者生活再建支援法を適用——全壊世帯に最大300万円の支援金",
+        "新潟の海水浴場で親子3人が波にのまれ、中学生と小学生の兄弟2人が死亡",
+        "愛知・大治町長が「不法侵入疑惑」で辞職——議会が全会一致で不信任案可決",
+        "千葉・いすみ市の女性殺害事件で長女を逮捕——母親を殺害した容疑",
+        "Claude CodeにAnthropic公式「Security Guidance Plugin」を導入——AI書いたコードをAIがリアルタイムで査定",
+        "Claude CodeのSkill設計で「それっぽいだけ」の説明を根絶——具体例と出力形式の強制で解決",
+        "AIエージェントの「Skills」が業界横断で標準化——Vercel主導、VS Code・Cursor・Kiro・Copilotなど8社対応、Claude Codeは未参加",
+        "Docker Sandboxes: Disposable Isolated microVMs for AI Agents Running Unattended",
+        "GitHub Models Is Now Retired — The Economics of Free LLM API Access in CI/CD Didn't Work",
+        "GitHub Copilot Code Review Effort Levels Now Generally Available — Choose How Deep the Bot Digs"
+      ]
+    },
     {
       "run_at": "2026-08-10T15:00:00+09:00",
       "urls": [

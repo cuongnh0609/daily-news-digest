@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-10T20:00:00+09:00",
+  "last_run_at": "2026-08-11T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-11T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026081000454&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081000476&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081000878&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081000642&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081000598&g=int&m=rss",
+        "https://zenn.dev/saikoseiko/articles/0e70e6dcd9ee7f",
+        "https://zenn.dev/akira_papa/articles/9a1be91ac478a1",
+        "https://zenn.dev/horizon_it00/articles/ai-coding-agent-3-comparison",
+        "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+        "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+        "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/"
+      ],
+      "titles": [
+        "熊本地震、発生２週間——死者３９人・住宅被害２万棟超、断水は今も３万戸に及ぶ",
+        "腸内細菌の毒素「コリバクチン」、日本人の大腸がんの約半数に関与——大阪大・東大が発表",
+        "南米コロンビアでＭ７．４の地震——建物倒壊・複数の負傷者、エクアドルやベネズエラでも揺れ",
+        "入管庁、強制退去対象の外国人情報を自治体に提供開始——氏名・住所・国籍を毎月通知",
+        "ウクライナ軍の無人機攻撃、ロシア中部で１３人死亡——タタルスタンの製油所を標的か",
+        "AIエージェントとAI連携システムは別物——「自律性」という名の誤解と責任設計の本質",
+        "AIエージェントに毎回の前提を教えるファイル「AGENTS.md」——Codex向け設定の最初の一歩",
+        "Claude Code・Antigravity CLI・Codex CLI——３大AIコーディングエージェントを比較する",
+        "Meta Releases Muse Glimmer — Open-Weights 30B Agentic Model Runs Locally on Consumer Hardware",
+        "GitHub Copilot Impact Dashboard Gets ROI Section — Model Passive vs. Agent-First Developer Cohorts",
+        "How I Use LLMs to Learn Complex Topics — Gamified Simulations Beat Passive Reading"
+      ]
+    },
     {
       "run_at": "2026-08-10T20:00:00+09:00",
       "urls": [
@@ -98,7 +127,7 @@
         "https://news.yahoo.co.jp/pickup/6591131?source=rss",
         "https://zenn.dev/amu_lab/articles/agent-skills-repos-comparison-2026",
         "https://zenn.dev/nuresen/articles/better-harness-agent-work-loop",
-        "https://www.itmedia.co.jp/news/article/2608/07/2000000456/",
+        "https://www.itmedia.co.jp/news/article/2608/08/2000000456/",
         "https://openchamber.dev/",
         "https://www.latent.space/p/ainews-amd-buys-taalas",
         "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/"

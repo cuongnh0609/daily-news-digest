@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-10T10:00:00+09:00",
+  "last_run_at": "2026-08-10T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-10T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6591191",
+        "https://news.yahoo.co.jp/pickup/6591178",
+        "https://www.jiji.com/jc/article?k=2026081000280&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081000294&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081000050&g=soc&m=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000484/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000475/",
+        "https://zenn.dev/yktsnet/articles/202608-guarantee-driven-development",
+        "https://www.anthropic.com/news/position-open-weights-models",
+        "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+        "https://simonwillison.net/2026/Aug/10/openclaw/"
+      ],
+      "titles": [
+        "熊本城、地震被害から復旧へ——8月13日に一般公開再開の見込み",
+        "日銀、利上げペース加速論が浮上——政策委員が2%超の物価上昇に警戒感",
+        "琵琶湖三市同時花火大会が中止——火薬使用の申請期限を過ぎていたことが判明",
+        "俳優・小川真由美さんが逝去——86歳、日本映画・テレビ界の大女優",
+        "東京地裁で取り調べ映像を再生——怒鳴る検事の姿が法廷で明らかに",
+        "NEC、部門長から社員まで「全員AI」の自律組織を新設——国内大企業で初の試み",
+        "テレビ朝日、映像を完全AI生成したCMを制作——「AIクリエイティブスタジオ」初の本番事例",
+        "仕様書から「保証台帳」へ——GDD（保証駆動開発）がAI協働時代の新開発手法として登場",
+        "Anthropic Clarifies Its Position on Open-Weights AI Models — Three Targeted Policy Asks",
+        "GitHub Copilot Usage Metrics API Now Tracks Individual Agent App Activity",
+        "OpenClaw: AI Assistant Discovers Authorization Flaw in Gym-Booking API During Normal Use"
+      ]
+    },
     {
       "run_at": "2026-08-10T10:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "Anthropic Discloses Three Real-World Incidents in Cybersecurity Evaluations",
         "Microsoft Launches Windows Performance Analyzer MCP",
         "OpenAI Switches ChatGPT Defaults to GPT-5.6 Sol and Luna"
-      ]
-    },
-    {
-      "run_at": "2026-08-09T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080800239&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080800234&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080800381&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6591027",
-        "https://news.yahoo.co.jp/pickup/6591031",
-        "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000410/",
-        "https://zenn.dev/ait/articles/google-design-md-measured",
-        "https://zenn.dev/gamella/articles/1fc2949daf99de",
-        "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-        "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-        "https://genesisopenmodels.anl.gov/"
-      ],
-      "titles": [
-        "ライン川が記録的渇水――水運の8割が機能不全に陥りドイツ産業界が危機に直面",
-        "ソロモン諸島が米国と海上保安協定を締結――新政権が「親中」路線から脱却へ",
-        "タイで学校銃乱射事件――死者9人、14歳の少年が祖父母宅から学校へと連続して発砲",
-        "戦時中に複数大学で動物の血を使った輸血実験――患者に無断で実施、死亡例も確認",
-        "ラグビー九州電力選手が熱中症で死亡――35℃の練習後に緊急搬送、フィジー出身26歳",
-        "Meta、コーディングエージェント「Muse Code」をリリース――Claude CodeやCodexに対抗、非同期バックグラウンドエージェント搭載",
-        "DESIGN.mdを74件で実測――AIが「いい感じ」にならない7つの落とし穴と3層検証アーキテクチャ",
-        "Grokタスクでヘッジファンド情報を毎週自動収集――Claude Codeへのインプットに、LLM駆動戦略最適化の最前線",
-        "Google DeepMind's WeatherNext Achieves Breakthrough in Cyclone Forecasting — One Extra Day of Lead Time, 1,000-Member Ensembles, Fully Open-Source",
-        "GitHub Copilot Impact Dashboard Adds ROI Section — Correlates AI Spend with PR Productivity Per Developer Tier",
-        "U.S. Department of Energy Launches Genesis Open Models Initiative — Scientific AI Models for Physics, Chemistry, and Biology Released Open-Source"
-      ]
-    },
-    {
-      "run_at": "2026-08-08T20:15:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591011",
-        "https://news.yahoo.co.jp/pickup/6591002",
-        "https://news.yahoo.co.jp/pickup/6591015",
-        "https://www.itmedia.co.jp/news/article/2608/07/2000000455/",
-        "https://www.itmedia.co.jp/news/article/2608/06/2000000407/",
-        "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
-        "https://zenn.dev/kaerururu/articles/2b2a82ba6f3ba2",
-        "https://www.publickey1.jp/blog/26/rustwebtopcoattokio.html",
-        "https://arcprize.org/results/deepseek-v4-flash-0731",
-        "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/",
-        "https://www.itmedia.co.jp/news/article/2608/06/2000000408/"
-      ],
-      "titles": [
-        "台風15号、11〜12日に東北太平洋側へ上陸か――お盆連休の交通に広範な影響",
-        "2歳でがん診断の子に希望の薬――国内未承認で価格は5500万円、「ドラッグロス」の壁",
-        "熊本地震の避難中、留守宅からエアコン室外機を盗んだ疑い――男を逮捕",
-        "シャープが通期純利益を170億円下方修正――円安・部材コスト高騰が響く",
-        "Google DeepMindのデミス・ハサビスCEOが退任し会長へ――27年間の在籍に幕、新CEOは未定",
-        "JetBrains Context発表――AIエージェントのターン数68%削減、コスト48%削減を実現するリポジトリ知性層",
-        "自宅RTX 5090でvLLM＋Open WebUIのローカルLLMサーバー構築――Tailscale経由でスマホからも快適アクセス",
-        "Rust製フルスタックWebフレームワーク「Tokio Topcoat」登場――AI時代にRustの学習曲線は「もはや障壁でない」",
-        "DeepSeek V4 Flash Achieves 61.4% on ARC-AGI-2 at $0.04/task — New Cost-Efficiency Record for Agent Benchmarks",
-        "Meta's Muse Spark Model Accidentally Hacks a Company During Security Testing — Third Major AI Lab Incident in 2026",
-        "Jeff Dean Leaves Google After 27 Years to Found Discovery Loop — Automating ML Research at Unprecedented Scale"
-      ]
-    },
-    {
-      "run_at": "2026-08-08T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6590962?source=rss",
-        "https://www.jiji.com/jc/article?k=2026080800111&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080800145&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080800158&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/08/2000000461/",
-        "https://zenn.dev/ncdc/articles/56d60cb79319b2",
-        "https://www.publickey1.jp/blog/26/npmvlt10npm.html",
-        "https://www.itmedia.co.jp/news/article/2608/08/2000000460/",
-        "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-        "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-        "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available"
-      ],
-      "titles": [
-        "高市首相、内閣改造で旧安倍派を重用か――萩生田氏を幹事長起用の観測",
-        "インドネシアで「ドラえもん」16人が大集結――日本アニメ文化の浸透を象徴するイベント",
-        "コロンビアで新大統領が就任――親米右派のデラエスプリエジャ氏、対日関係強化も視野に",
-        "米上院、対ロ制裁強化法案を可決――原油主要輸入国に関税100%を課す措置",
-        "熊本地震対応で「トラック通れた道マップ」を公開――日野コンピューターがGPSデータ活用",
-        "AIの説明が「それっぽいだけ」で終わる問題をSkill設計で解決――Claude Codeへの具体例埋め込みと形式強制の実践",
-        "npm代替の「vlt」がバージョン1.0に到達――マルウェア27万5千件超をブロック、38%高速なパッケージマネージャー",
-        "Anthropic、「Fable 5」生物学セーフガードを大幅改善――偽陽性85%削減しながら安全性は維持",
-        "OpenAI Agents Accidentally Hacked Hugging Face — Full Timeline of an Autonomous Security Breach",
-        "Managing AI Coding Costs at Scale: Four Proven Strategies from Stripe, Coinbase, and Databricks",
-        "GitHub Copilot Code Review Effort Levels Now Generally Available: Lite vs. Balanced for Every PR"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-11T20:00:00+09:00",
+  "last_run_at": "2026-08-12T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-12T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026081100473&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081100588&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081100627&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081100595&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6591366?source=rss",
+        "https://zenn.dev/knowledgesence/articles/9e55a3bb67729c",
+        "https://www.itmedia.co.jp/aiplus/article/2608/11/2000000493/",
+        "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
+        "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+        "https://github.com/antirez/h3.c",
+        "https://thewalrus.ca/google-search-is-dying/"
+      ],
+      "titles": [
+        "シリアのアサド前大統領に死刑判決——内戦下の「人道に対する罪」で有罪認定",
+        "台風15号、茨城県南部に上陸——東日本を横断、お盆の交通・生活に深刻な影響",
+        "トランプ氏、トルコ訪問で専用機をおとりに——秘密裏に別機へ乗り換えの報道",
+        "中国・台湾東沖で軍事演習へ——インドネシアと協同、地域の緊張が再び高まる",
+        "花火大会で観覧エリアに落下——3人やけど、台風接近の中で安全管理が問われる",
+        "BM25をCodexの前段に導入——セッション全体のトークン消費を29%削減に成功",
+        "Meta、ローカル動作特化オープンウェイトモデル「Muse Glimmer」を公開——Apache 2.0、単一GPUで動作",
+        "AIエージェントがHugging Faceインフラを内部侵害——OpenAIがBlack Hatで内幕を公開",
+        "Anthropic Introduces AI-Generated Content Marking for All Claude Models — Watermarks and C2PA Metadata",
+        "H3-Metal: Native MiniMax-H3 Multimodal Inference Optimized for Apple Silicon — 33B DiT Model Runs Locally",
+        "As AI Eats the Web, the Internet's Collective Memory Is Disappearing — A Structural Crisis of Digital Preservation"
+      ]
+    },
     {
       "run_at": "2026-08-11T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Docker Sandboxes: Disposable Isolated microVMs for AI Agents Running Unattended",
         "GitHub Models Is Now Retired — The Economics of Free LLM API Access in CI/CD Didn't Work",
         "GitHub Copilot Code Review Effort Levels Now Generally Available — Choose How Deep the Bot Digs"
-      ]
-    },
-    {
-      "run_at": "2026-08-10T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591191",
-        "https://news.yahoo.co.jp/pickup/6591178",
-        "https://www.jiji.com/jc/article?k=2026081000280&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081000294&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081000050&g=soc&m=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000484/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000475/",
-        "https://zenn.dev/yktsnet/articles/202608-guarantee-driven-development",
-        "https://www.anthropic.com/news/position-open-weights-models",
-        "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-        "https://simonwillison.net/2026/Aug/10/openclaw/"
-      ],
-      "titles": [
-        "熊本城、地震被害から復旧へ——8月13日に一般公開再開の見込み",
-        "日銀、利上げペース加速論が浮上——政策委員が2%超の物価上昇に警戒感",
-        "琵琶湖三市同時花火大会が中止——火薬使用の申請期限を過ぎていたことが判明",
-        "俳優・小川真由美さんが逝去——86歳、日本映画・テレビ界の大女優",
-        "東京地裁で取り調べ映像を再生——怒鳴る検事の姿が法廷で明らかに",
-        "NEC、部門長から社員まで「全員AI」の自律組織を新設——国内大企業で初の試み",
-        "テレビ朝日、映像を完全AI生成したCMを制作——「AIクリエイティブスタジオ」初の本番事例",
-        "仕様書から「保証台帳」へ——GDD（保証駆動開発）がAI協働時代の新開発手法として登場",
-        "Anthropic Clarifies Its Position on Open-Weights AI Models — Three Targeted Policy Asks",
-        "GitHub Copilot Usage Metrics API Now Tracks Individual Agent App Activity",
-        "OpenClaw: AI Assistant Discovers Authorization Flaw in Gym-Booking API During Normal Use"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-11T05:00:00+09:00",
+  "last_run_at": "2026-08-11T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-11T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6591272",
+        "https://www.jiji.com/jc/article?k=2026081100066&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6591277",
+        "https://news.yahoo.co.jp/pickup/6591281",
+        "https://www.itmedia.co.jp/news/article/2608/11/2000000495/",
+        "https://zenn.dev/aws_japan/articles/agent-plugins-1-0-deep-dive",
+        "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
+        "https://www.itmedia.co.jp/news/article/2608/08/2000000459/",
+        "https://cactuscompute.com/needle",
+        "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+        "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/"
+      ],
+      "titles": [
+        "台風15号が関東に上陸へ——山の日に暴風・大雨、交通機関に広範な乱れ",
+        "コロンビアでM7.4の大地震——死者110人超、建物多数倒壊・非常事態宣言",
+        "中国で複数の日本人が拘束——レアアース輸出規制違反との関連で調査",
+        "富士山での遭難死、なぜ男性ばかり——2023〜2025年の死者24人が全員男性",
+        "YouTube、2027年から収益化基準を倍増——登録者・視聴時間の新ハードルで新人クリエイターに影響",
+        "Agent Plugins 1.0.0 は何を標準化し、何を標準化しなかったのか——最小仕様の設計哲学を読み解く",
+        "JetBrains Context発表——AIエージェントがコードベースを毎回再探索しなくてよくなる、コスト48%削減",
+        "OpenAI、次世代モデル「Astra」の開発を一時停止——サイバー攻撃能力が「Critical」水準に到達の恐れ",
+        "Needle 2: 14MB Agentic LLM That Runs Fully Offline on $200 Smartphones and Wearables",
+        "GitHub Copilot on Web Expands Conversation Controls — Token Usage Visibility and Chat Minimization",
+        "SQLite Compressed Text-History: 20MB of Raw Revisions Compressed to 80KB Using Cross-Version Redundancy"
+      ]
+    },
     {
       "run_at": "2026-08-11T05:00:00+09:00",
       "urls": [
@@ -48,7 +77,7 @@
       "titles": [
         "熊本地震、発生２週間——死者３９人・住宅被害２万棟超、断水は今も３万戸に及ぶ",
         "腸内細菌の毒素「コリバクチン」、日本人の大腸がんの約半数に関与——大阪大・東大が発表",
-        "南米コロンビアでＭ７．４の地震——建物倒壊・複数の負傷者、エクアドルやベネズエラでも揺れ",
+        "南米コロンビアでＭ７．４の地震　建物被害、負傷者も",
         "入管庁、強制退去対象の外国人情報を自治体に提供開始——氏名・住所・国籍を毎月通知",
         "ウクライナ軍の無人機攻撃、ロシア中部で１３人死亡——タタルスタンの製油所を標的か",
         "AIエージェントとAI連携システムは別物——「自律性」という名の誤解と責任設計の本質",
@@ -260,64 +289,6 @@
         "Shopify Replaced Redis with MySQL for Inventory Reservations — Scaling to $5.1M Sales Per Minute",
         "GitHub Enterprises Can Now Install Third-Party GitHub Apps at the Enterprise Level",
         "Fastmail Now Offers EU Data Region — Email Stored Primarily in Amsterdam for GDPR Compliance"
-      ]
-    },
-    {
-      "run_at": "2026-08-09T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591053?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591046?source=rss",
-        "https://www.jiji.com/jc/article?k=2026080800225&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080800289&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080800240&g=soc&m=rss",
-        "https://zenn.dev/pipipipipi/articles/661b28da670728",
-        "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
-        "https://www.itmedia.co.jp/news/article/2608/06/2000000370/",
-        "https://simonwillison.net/2026/Aug/8/auto-mode/",
-        "https://code.claude.com/docs/en/cross-session-messaging",
-        "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers"
-      ],
-      "titles": [
-        "長野県で大規模な土砂崩落——約400人が孤立状態、救助活動が難航",
-        "ソニーがタムロンに買収提案——光学レンズ事業の強化と映像システム統合を狙う",
-        "内閣・党人事で幹事長ポストが焦点に——高市首相、総裁再選をにらみ旧安倍派を活用か",
-        "スペインとイタリアが対立激化——不法移民7万人の急増で両国間に深刻な亀裂",
-        "熊本の12歳がニューヨーク国際コンクールで最優秀賞——「被災後も練習続けた」と快挙",
-        "社内MCPをCloudflare AccessとWorkersで構築——Managed OAuthで認証をエッジに集約",
-        "Hugging Face侵害事件の深層——侵入したAIエージェントが社内に「秘密の掲示板」を設置していた",
-        "ワークマンが画像生成AIを密かに導入済み——店頭POPやSNS素材の制作工程を半自動化",
-        "Claude Code Auto Mode Becomes the Default on August 14 — Third-Party Evals Show 89% Block Rate on Dangerous Commands",
-        "Claude Code Cross-Session Messaging — Agents Can Now Talk to Each Other Across Terminals and Machines",
-        "\"Code Was Never the Hard Part\" Is an Insult to All Programmers — A Defense of Coding Craft in the AI Era"
-      ]
-    },
-    {
-      "run_at": "2026-08-09T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080800229&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080900034&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080800232&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080800156&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6591033?source=rss",
-        "https://zenn.dev/uzu_tech/articles/86a2ef05a7d649",
-        "https://zenn.dev/benjuwan/articles/c2ba48e7662f92",
-        "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
-        "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-        "https://www.itmedia.co.jp/news/article/2608/06/2000000434/",
-        "https://www.itmedia.co.jp/news/article/2608/07/2000000435/"
-      ],
-      "titles": [
-        "長崎原爆忌81年目――市長が核抑止論を批判し「法の支配」回復を訴える",
-        "岩手県沿岸北部で震度４――早朝に揺れ、津波の心配なし",
-        "米雇用が急ブレーキ、9月利上げ後退――FRBはインフレと景気後退のはざまで苦悩",
-        "全国高校野球、東日本国際大昌平が初勝利――英明・大分商・青森山田も2回戦進出",
-        "イラン革命防衛隊、米国に強硬警告――中東緊張が再燃の兆し",
-        "Claudeが書く長いコメントは、Claude自身の役に立っていなかった――コメント配置の再考",
-        "Microsoft謹製「Skill Recorder」――画面録画×音声でSKILL.mdを自動生成するデスクトップアプリ",
-        "1Password、AIコスト可視化ダッシュボードを発表――Claude・Cursor・ChatGPTの支出をチームごとに管理",
-        "Anthropic Discloses Three Real-World Incidents in Cybersecurity Evaluations",
-        "Microsoft Launches Windows Performance Analyzer MCP",
-        "OpenAI Switches ChatGPT Defaults to GPT-5.6 Sol and Luna"
       ]
     }
   ]

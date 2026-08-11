@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-11T15:00:00+09:00",
+  "last_run_at": "2026-08-11T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-11T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6591344?source=rss",
+        "https://news.yahoo.co.jp/pickup/6591340?source=rss",
+        "https://news.yahoo.co.jp/pickup/6591350?source=rss",
+        "https://news.yahoo.co.jp/pickup/6591347?source=rss",
+        "https://news.yahoo.co.jp/pickup/6591341?source=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2608/11/2000000494/",
+        "https://www.itmedia.co.jp/news/article/2608/10/2000000481/",
+        "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
+        "https://simonwillison.net/2026/Aug/8/auto-mode/",
+        "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+        "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3"
+      ],
+      "titles": [
+        "「理想の母親」を演じ続けた果てに——SNSが生んだ「完璧ママ」プレッシャーで追い詰められる女性たち",
+        "家族で体験ダイビング中に溺水——和歌山・串本町の海で49歳女性が死亡、体験ダイビングの安全管理に疑問",
+        "半蔵門駅でアスベスト含有素材を発見——東京メトロ半蔵門線が始発から運転見合わせ、午後7時20分に全線再開",
+        "佐藤輝明の電光掲示板直撃弾で賞金100万円——東京ドームで推定146m・打球速度180km/hの特大24号2ラン",
+        "根尾昂、2軍戦で1死も取れず7失点——投手転向後の壁に直面、「再起」への道のりは険しく",
+        "ザッカーバーグ、「超知能の一社集中」に警鐘——MetaのAIオープン戦略とパワーバランスへの危機感を語る",
+        "避難所でAIナビ「イマココナビ」が16万人超を支援——熊本地震でAIが物資・避難者情報をリアルタイム整理",
+        "WindowsパフォーマンスをAIが解析——Microsoft、「WPA MCP」プレビューでトレースログの読み解きを自動化",
+        "Claude Code Auto Mode Becomes Default — Blocks 89% of Harmful Actions vs. 13.6% by Human Reviewers",
+        "OpenAI Training Agents Breached Hugging Face Infrastructure — Two-Month Lateral Movement via SSRF and Zero-Days",
+        "GitHub Copilot Weekly — /worktree for Isolated Workspaces, /btw for Side Chats, and On-Device Multilingual Dictation"
+      ]
+    },
     {
       "run_at": "2026-08-11T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Clarifies Its Position on Open-Weights AI Models — Three Targeted Policy Asks",
         "GitHub Copilot Usage Metrics API Now Tracks Individual Agent App Activity",
         "OpenClaw: AI Assistant Discovers Authorization Flaw in Gym-Booking API During Normal Use"
-      ]
-    },
-    {
-      "run_at": "2026-08-10T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080900355&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080900225&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080900242&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081000070&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6591146?source=rss",
-        "https://zenn.dev/she_techblog/articles/937836550dfdf3",
-        "https://zenn.dev/finatext/articles/2ea88e4b1c2e5b",
-        "https://www.itmedia.co.jp/news/article/2608/10/2000000467/",
-        "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/",
-        "https://github.blog/changelog/2026-08-06-mcp-allowlists-in-enterprise-managed-settings",
-        "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition"
-      ],
-      "titles": [
-        "和歌山市長選、新人の尾崎氏が初当選——現職を含む5人を破り市政刷新へ",
-        "熊本被災地で便乗犯罪が相次ぐ——空き巣・詐欺業者が被災者を狙う、警察が特別警戒",
-        "AIモデルの「暴走」相次ぐ——自律的攻撃行動に米国が危機感、規制議論が再燃",
-        "ニューヨーク・自由の女神島付近で船が転覆——母親と乳児が死亡、船長を逮捕",
-        "不同意性交の認知件数が増加傾向——法改正から2年、相談窓口の浸透が背景か",
-        "Pull Requestの58%をAIが承認——SHEが「人間不要レビュー」の判定基準を設計・公開",
-        "LLM Wikiパターンを標準化する「OKF」——Google Cloud発の知識フォーマット仕様がAIエージェント設計を変える",
-        "デジタル庁から個人情報150人分が漏えい——手順書の記載ミスが原因、委託先への誤送付",
-        "Claude Opus 5 System Prompt Reveals How Anthropic Handles Post-Training Knowledge Gaps",
-        "GitHub Introduces MCP Allowlists in Enterprise Managed Settings — Admins Can Now Control Which MCP Servers Copilot Can Run",
-        "The Tragedy of the Commons, AI Edition — How Uncoordinated LLM Crawlers Are Collapsing the Open Web"
-      ]
-    },
-    {
-      "run_at": "2026-08-10T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026080900283&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080900358&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080900156&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6591135?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591131?source=rss",
-        "https://zenn.dev/amu_lab/articles/agent-skills-repos-comparison-2026",
-        "https://zenn.dev/nuresen/articles/better-harness-agent-work-loop",
-        "https://www.itmedia.co.jp/news/article/2608/08/2000000456/",
-        "https://openchamber.dev/",
-        "https://www.latent.space/p/ainews-amd-buys-taalas",
-        "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/"
-      ],
-      "titles": [
-        "長野県知事選、現職・阿部守一氏が5選を果たす——投票率は過去最低水準",
-        "イラン最高指導者ハメネイ師、大統領と会談——健康不安の払拭が狙いか",
-        "中国の7月消費者物価、0.5%上昇——デフレ圧力なお継続",
-        "イオン、台風避難中に店内へ自己判断で戻った客も——安全確認の課題に",
-        "孫が運転する車にはねられ高齢女性が死亡——高齢ドライバー問題に再び注目",
-        "【2026年最新】Agent Skillsコレクションを整理する——google・addyosmani・mattpocockの違いと選び方",
-        "Claude Codeの使い方をAI自身に監査させ、修正プロンプトまで自動生成する「better-harness」",
-        "就活での生成AI利用、学生のほぼ全員が経験——法務省が「声」の無断AI利用に民事責任指針",
-        "OpenChamber: A Privacy-First Agentic Development Environment Running on OpenCode SDK",
-        "AMD Acquires Taalas — Custom Silicon Designed Around the Model Signals Inference Inflection Point",
-        "The Tokenpocalypse Is Here: Non-Engineers Are the Biggest AI Cost Driver, and PDFs Are the Culprit"
       ]
     }
   ]

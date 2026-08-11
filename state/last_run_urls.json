@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-11T10:00:00+09:00",
+  "last_run_at": "2026-08-11T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-11T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026081100246&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081100243&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081100278&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081000662&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/11/2000000496/",
+        "https://zenn.dev/tokium_dev/articles/gui-agent-zero-extra-cost",
+        "https://zenn.dev/tomu_coelia/articles/claude-code-loop-engineering",
+        "https://zenn.dev/nikokobo/articles/7a399b93c8d471",
+        "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+        "http://danluu.com/pl-tokens/",
+        "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs"
+      ],
+      "titles": [
+        "台風15号、東北・関東に接近――茨城か千葉に上陸か、暴風大雨に厳重警戒",
+        "H3ロケット9号機の打ち上げ成功――みちびき後継機を予定軌道に投入",
+        "イオンモール熊本爆発――従業員への「一時再入館」を認めていたと発表",
+        "韓国、株価急落で尹大統領の支持率が急低下――若年層の離脱が顕著",
+        "OpenAI、サイバー防御「Daybreak」を2階層に拡張――特化型「GPT-5.6-Cyber」も投入",
+        "CLI上のClaude CodeでComputer Useを再現する――追加課金ゼロ、441行のGUIエージェント",
+        "動かないループが4件あった――Claude Codeのループ設計に入れた5つの制約",
+        "CLAUDE.mdとSkillsの置き場を4種類に分けた基準――80本に増えて壊れたことから学んだ設計",
+        "Meta Releases Muse Glimmer — Open-Weights 30B Agentic Model Designed for Always-On Local Workflows",
+        "What's the Best Programming Language for Coding Agents? — Mainstream Wins, Niche Languages Collapse on Real Tasks",
+        "Exploring Claude/GPT Knowledge Cutoffs — Models Share Pre-Training Runs Across Versions, Sometimes Self-Misidentify"
+      ]
+    },
     {
       "run_at": "2026-08-11T10:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "OpenChamber: A Privacy-First Agentic Development Environment Running on OpenCode SDK",
         "AMD Acquires Taalas — Custom Silicon Designed Around the Model Signals Inference Inflection Point",
         "The Tokenpocalypse Is Here: Non-Engineers Are the Biggest AI Cost Driver, and PDFs Are the Culprit"
-      ]
-    },
-    {
-      "run_at": "2026-08-10T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591129?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591133?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591137?source=rss",
-        "https://www.jiji.com/jc/article?k=2026080900306&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6591134?source=rss",
-        "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
-        "https://zenn.dev/gsy0911/articles/a4dc76f0639576",
-        "https://zenn.dev/yuichirominato/articles/dc8cf3915f1c6f",
-        "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
-        "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
-        "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
-      ],
-      "titles": [
-        "台風15号、列島を横断する恐れ——お盆期間の交通・帰省に広範な影響",
-        "ガザ和平工程表、ネタニヤフ首相が拒否——ハマスは「履行準備あり」と対立",
-        "長野県知事選、現職・阿部守一氏が5選——投票率は過去最低の40.53%",
-        "カナダで山火事が急拡大、非常事態宣言——2万人超が避難、空路での救出も",
-        "JR東海「夜行」新幹線、乗客の4割が女性——お盆需要で予約率も好調",
-        "Agent Plugins 1.0.0 発表——異なるAIエージェント間でスキルとMCPサーバ設定を共通化",
-        "Raspberry Pi 5でClaude Codeを常時稼働させる——NixOSで再現可能なエージェント基盤を構築",
-        "経費精算アプリもExcelも捨てる——Claude Desktop＋MCPでマネーフォワードAPI連携を完全自動化",
-        "Agent Plugins 1.0.0: Cross-Vendor AI Agent Interoperability Standard Launches with Industry Backing",
-        "CSS: The Bomb Inside Your Inbox — Critical Webmail Vulnerabilities Allow Account Takeover via Crafted Emails",
-        "Anthropic Improves Fable 5 Biology Safeguards — 85% Reduction in False Positives While Maintaining Safety"
-      ]
-    },
-    {
-      "run_at": "2026-08-09T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591117?source=rss",
-        "https://www.jiji.com/jc/article?k=2026080900233&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6591107?source=rss",
-        "https://www.jiji.com/jc/article?k=2026080900175&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080900138&g=pol&m=rss",
-        "https://zenn.dev/skova_digital/articles/dac77bc5fbe17f",
-        "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
-        "https://www.publickey1.jp/blog/26/kubernetesaikubeconcloudnativecon_japan_2026.html",
-        "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
-        "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
-        "https://www.anthropic.com/news/claude-opus-5"
-      ],
-      "titles": [
-        "張本美和、WTTチャンピオンズ横浜で初優勝――前年覇者の陳幸同を下す",
-        "長野・安曇野で土石流、橋が流出——390人が一時孤立、けが人なし",
-        "台湾、長崎原爆式典で席次問題——「大使級の待遇受けず」と抗議",
-        "北朝鮮、ロシアへ最大5万人を追加派兵か——ゼレンスキー氏が韓国に協力要請",
-        "高市首相、内閣改造の説明を回避——「今は熊本地震対応が最優先」",
-        "AIエージェントの「ループ」を10種類に分類——検出しきい値の設計が根本から変わる",
-        "Claude Codeにクロスセッションメッセージング機能追加——エージェント同士がmacOS/Linuxで直接通信",
-        "KubernetesはAIを動かすプラットフォームへ——KubeCon Japan 2026が横浜で開幕",
-        "Zawinski's Law of MultiAgents: Every Agent Expands Until It Can Talk to Other Agents",
-        "Turn One Giant AI-Generated Pull Request Into a Reviewable Stack",
-        "Introducing Claude Opus 5: Step-Change Improvement for Long-Running Agents and Professional Work"
-      ]
-    },
-    {
-      "run_at": "2026-08-09T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591081?source=rss",
-        "https://www.jiji.com/jc/article?k=2026080900087&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026080600962&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/09/2000000464/",
-        "https://www.jiji.com/jc/article?k=2026080900105&g=spo&m=rss",
-        "https://zenn.dev/tetsu_don/articles/e40b95dfc726ac",
-        "https://www.publickey1.jp/blog/26/superlogical.html",
-        "https://zenn.dev/xtone/articles/masshiro-ai-playtest",
-        "https://shopify.engineering/scaling-inventory-reservations",
-        "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-        "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/"
-      ],
-      "titles": [
-        "長崎原爆の日——被爆81年、被爆者代表が「核なき世界」への誓いを新たに",
-        "バイデン前米大統領、骨への転移で「激しい痛み」——次男ハンター氏がBBCで明かす",
-        "ドイツ6月熱波、1週間で9600人死亡——冷房インフラ不足が被害を拡大",
-        "X（旧Twitter）、クリエイター収益プログラムを刷新——「オリジナルコンテンツ報酬制度」へ移行",
-        "高校野球・花巻東が継投で接戦制す——大会2回戦で勝利を収める",
-        "Claude Codeで「ループエンジニアリング」を実践——Maker-Checkerパターンで本番バグを自律検出",
-        "HashiCorp共同創業者ハシモト氏、新会社「Superlogical」設立——AIエージェント時代の「全仕事用マルチプレクサ」へ",
-        "自作パズルゲームをAIに8000回プレイさせたら、ゲームバランスの根本的な欠陥が発覚した",
-        "Shopify Replaced Redis with MySQL for Inventory Reservations — Scaling to $5.1M Sales Per Minute",
-        "GitHub Enterprises Can Now Install Third-Party GitHub Apps at the Enterprise Level",
-        "Fastmail Now Offers EU Data Region — Email Stored Primarily in Amsterdam for GDPR Compliance"
       ]
     }
   ]

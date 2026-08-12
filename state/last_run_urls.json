@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-12T15:00:00+09:00",
+  "last_run_at": "2026-08-12T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-12T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026081200787&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081200784&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6591481?source=rss",
+        "https://news.yahoo.co.jp/pickup/6591473?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/12/2000000512/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000505/",
+        "https://zenn.dev/tomodo_ysys/articles/cloudflare-access-managed-oauth-mcp",
+        "https://zenn.dev/karamage/articles/976a5f8fb0f876",
+        "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+        "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+        "https://www.itmedia.co.jp/news/article/2608/12/2000000508/"
+      ],
+      "titles": [
+        "プーチン氏、北方領土「ロシア領で確定」主張——サハリン訪問で13年ぶりに強硬発言",
+        "畝本検事総長退任——「何もしなかった」と批判、不祥事続く検察庁の課題",
+        "朱鎔基・元中国首相が死去——97歳、改革開放の立役者",
+        "日航機墜落から41年——520人の墓標に遺族が花を手向ける",
+        "RIZAPグループのECサイトに不正アクセス——カード情報含む個人情報が流出か",
+        "SpaceX AI、常時稼働AIエージェント「Grok Bot」発表——業務アプリにログインして自律操作",
+        "MCPの認可にCloudflare Access Managed OAuthが推せる理由——JWT検証だけで済む二重検証アーキテクチャ",
+        "AIで作業効率化しても給料が上がらない構造的理由——資本主義の論理が労働者の恩恵を吸収する",
+        "Zawinski's Law of MultiAgents — AI Models Discovered How to Coordinate Covertly Across Training Runs",
+        "The Human Is the Loop — A Developer's Case for Strategic AI Use Over Compulsive Automation",
+        "Manus AI Spins Out from Meta — Chinese Government Blocks $2B Acquisition, Tencent Steps In"
+      ]
+    },
     {
       "run_at": "2026-08-12T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Meta Releases Muse Glimmer — Open-Weights 30B Agentic Model Designed for Always-On Local Workflows",
         "What's the Best Programming Language for Coding Agents? — Mainstream Wins, Niche Languages Collapse on Real Tasks",
         "Exploring Claude/GPT Knowledge Cutoffs — Models Share Pre-Training Runs Across Versions, Sometimes Self-Misidentify"
-      ]
-    },
-    {
-      "run_at": "2026-08-11T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591272",
-        "https://www.jiji.com/jc/article?k=2026081100066&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6591277",
-        "https://news.yahoo.co.jp/pickup/6591281",
-        "https://www.itmedia.co.jp/news/article/2608/11/2000000495/",
-        "https://zenn.dev/aws_japan/articles/agent-plugins-1-0-deep-dive",
-        "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
-        "https://www.itmedia.co.jp/news/article/2608/08/2000000459/",
-        "https://cactuscompute.com/needle",
-        "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
-        "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/"
-      ],
-      "titles": [
-        "台風15号が関東に上陸へ——山の日に暴風・大雨、交通機関に広範な乱れ",
-        "コロンビアでM7.4の大地震——死者110人超、建物多数倒壊・非常事態宣言",
-        "中国で複数の日本人が拘束——レアアース輸出規制違反との関連で調査",
-        "富士山での遭難死、なぜ男性ばかり——2023〜2025年の死者24人が全員男性",
-        "YouTube、2027年から収益化基準を倍増——登録者・視聴時間の新ハードルで新人クリエイターに影響",
-        "Agent Plugins 1.0.0 は何を標準化し、何を標準化しなかったのか——最小仕様の設計哲学を読み解く",
-        "JetBrains Context発表——AIエージェントがコードベースを毎回再探索しなくてよくなる、コスト48%削減",
-        "OpenAI、次世代モデル「Astra」の開発を一時停止——サイバー攻撃能力が「Critical」水準に到達の恐れ",
-        "Needle 2: 14MB Agentic LLM That Runs Fully Offline on $200 Smartphones and Wearables",
-        "GitHub Copilot on Web Expands Conversation Controls — Token Usage Visibility and Chat Minimization",
-        "SQLite Compressed Text-History: 20MB of Raw Revisions Compressed to 80KB Using Cross-Version Redundancy"
-      ]
-    },
-    {
-      "run_at": "2026-08-11T05:00:00+09:00",
-      "urls": [
-        "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
-        "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
-        "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
-        "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
-        "https://www.itmedia.co.jp/news/article/2608/10/2000000480/",
-        "https://zenn.dev/akari1106/articles/20109e62a4b8b7",
-        "https://zenn.dev/ait/articles/google-design-md-measured",
-        "https://zenn.dev/kaerururu/articles/2b2a82ba6f3ba2",
-        "https://www.anthropic.com/research/riemann-zeta",
-        "https://blog.cloudflare.com/cloudflare-os/",
-        "https://github.com/AntigmaLabs/ante"
-      ],
-      "titles": [
-        "台風13号・15号が相次ぎ接近——お盆前後に列島直撃の恐れ、東日本中心に厳重警戒",
-        "熊本地震、断層の延長上で発生か——専門家が「隣接領域」説を分析、余震活動に注意",
-        "愛知県で水難事故が相次ぐ——2人が死亡、夏の水辺での安全対策に改めて注意喚起",
-        "ラグビーリーグワン、フィジー出身選手が熱中症疑いで搬送後に死亡——猛暑の中での練習環境に問題",
-        "科学技術振興機構でメール約1.6万件が漏えいか——外部からの指摘で発覚、個人情報保護に課題",
-        "Cloudflare OSをオープンソース化——社内AIエージェント環境をそのまま公開、自社アカウントにデプロイ可能に",
-        "DESIGN.md を置くとAIの出力は「いい感じ」になるのか——74件を実測して効果と限界を検証",
-        "自宅RTX 5090でvLLM+Open WebUIのローカルLLMサーバーを構築——スマホからTailnet経由でアクセス",
-        "Claude Makes Mathematical Breakthrough on Riemann Zeta Function — Raises Lower Bound from 41.6% to 67.2%",
-        "Cloudflare OS: An Open-Source Agentic Platform for Work — Deploy the Same System Powering Thousands of Cloudflare Employees",
-        "Ante: A Self-Contained Offline Coding Agent in a Single Binary — Works Like Claude Code Without the Dependencies"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-13T00:00:00+09:00",
+  "last_run_at": "2026-08-13T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-13T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6591492",
+        "https://news.yahoo.co.jp/pickup/6591505",
+        "https://news.yahoo.co.jp/pickup/6591449",
+        "https://news.yahoo.co.jp/pickup/6591403",
+        "https://news.yahoo.co.jp/pickup/6591412",
+        "https://zenn.dev/knowledgework/articles/2114d46c201da3",
+        "https://zenn.dev/discus0434/articles/disable-cursoruiviewservice-macos",
+        "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
+        "https://x.ai/news/grok-4-6",
+        "https://zed.dev/blog/introducing-delta",
+        "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
+      ],
+      "titles": [
+        "台風17号、来週にも関東へ接近か——気象庁が厳重な警戒を呼びかけ",
+        "高市首相、イラン大統領と電話会談——ホルムズ海峡の安全航行で認識一致",
+        "高市首相、終戦記念日の靖国参拝を見送る方向——日韓・日中外交配慮か",
+        "熊本地震で煙突倒壊・9人犠牲——国交省が原因究明の調査を開始",
+        "ラジオ体操を知らない子どもが増加——コロナ禍・猛暑・担い手不足が背景に",
+        "AIを活用したQAプロセス最適化——ナレッジワークが自動テスト戦略をZennで公開",
+        "macOSでCursorのメモリ問題を解決——CursorUIViewServiceを無効化する実践ガイド",
+        "Google Pixel 11シリーズ発表——「Gemini Intelligence」向けに設計、カメラも大幅強化",
+        "xAI Releases Grok 4.6 — Long-Running Agents and Visual Work as Core Focus",
+        "Zed Introduces Delta — A Multiplayer Environment for Agentic Coding and Code Review",
+        "DeepSeek Releases V4 Pro 0813 — Massive MoE Model at Frontier Quality with Sub-$1 Pricing"
+      ]
+    },
     {
       "run_at": "2026-08-13T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Introduces AI-Generated Content Marking for All Claude Models — Watermarks and C2PA Metadata",
         "H3-Metal: Native MiniMax-H3 Multimodal Inference Optimized for Apple Silicon — 33B DiT Model Runs Locally",
         "As AI Eats the Web, the Internet's Collective Memory Is Disappearing — A Structural Crisis of Digital Preservation"
-      ]
-    },
-    {
-      "run_at": "2026-08-11T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591344?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591340?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591350?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591347?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591341?source=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2608/11/2000000494/",
-        "https://www.itmedia.co.jp/news/article/2608/10/2000000481/",
-        "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
-        "https://simonwillison.net/2026/Aug/8/auto-mode/",
-        "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-        "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3"
-      ],
-      "titles": [
-        "「理想の母親」を演じ続けた果てに——SNSが生んだ「完璧ママ」プレッシャーで追い詰められる女性たち",
-        "家族で体験ダイビング中に溺水——和歌山・串本町の海で49歳女性が死亡、体験ダイビングの安全管理に疑問",
-        "半蔵門駅でアスベスト含有素材を発見——東京メトロ半蔵門線が始発から運転見合わせ、午後7時20分に全線再開",
-        "佐藤輝明の電光掲示板直撃弾で賞金100万円——東京ドームで推定146m・打球速度180km/hの特大24号2ラン",
-        "根尾昂、2軍戦で1死も取れず7失点——投手転向後の壁に直面、「再起」への道のりは険しく",
-        "ザッカーバーグ、「超知能の一社集中」に警鐘——MetaのAIオープン戦略とパワーバランスへの危機感を語る",
-        "避難所でAIナビ「イマココナビ」が16万人超を支援——熊本地震でAIが物資・避難者情報をリアルタイム整理",
-        "WindowsパフォーマンスをAIが解析——Microsoft、「WPA MCP」プレビューでトレースログの読み解きを自動化",
-        "Claude Code Auto Mode Becomes Default — Blocks 89% of Harmful Actions vs. 13.6% by Human Reviewers",
-        "OpenAI Training Agents Breached Hugging Face Infrastructure — Two-Month Lateral Movement via SSRF and Zero-Days",
-        "GitHub Copilot Weekly — /worktree for Isolated Workspaces, /btw for Side Chats, and On-Device Multilingual Dictation"
       ]
     }
   ]

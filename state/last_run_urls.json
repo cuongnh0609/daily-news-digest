@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-12T20:00:00+09:00",
+  "last_run_at": "2026-08-13T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-13T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026081200732&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081201024&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081201008&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6591497?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/12/2000000509/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news044.html",
+        "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
+        "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+        "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+        "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/"
+      ],
+      "titles": [
+        "高市首相、終戦記念日の靖国参拝を見送りへ――日韓・日中外交を優先",
+        "7月の米消費者物価3.4%上昇――2カ月連続で鈍化、FRBの利上げ停止観測が強まる",
+        "大韓航空がアシアナ吸収――12月に統合、230機・2万8千人のメガキャリア誕生",
+        "日航機墜落から41年――御巣鷹山で遺族が追悼、520人の記憶を次世代へ",
+        "デンマーク、高校でAI不正対策を強化――課題提出後の口頭試問を義務化",
+        "「Agent Plugins 1.0.0」発表――AIエージェント間でSkills・MCP設定を共通化する初の標準仕様",
+        "Gartner警告: 37兆円のSaaS支出が2030年までに「消える」――エージェンティックAIがUIを不要にする",
+        "JetBrains Context発表――AIが少ないトークンで深いコンテキストを取得し、コード生成品質を向上",
+        "AI Is Removing the Middle Class of Software Engineering",
+        "What Sort of Maths Are LLMs Good At? — OpenAI Solves 10 Unsolved Problems, But the Pattern Reveals Limits",
+        "Claude Opus 5 System Prompt Reveals U.S. Export Control Suspension — A Rare Window Into Real-Time AI Regulation"
+      ]
+    },
     {
       "run_at": "2026-08-12T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Claude Code Auto Mode Becomes Default — Blocks 89% of Harmful Actions vs. 13.6% by Human Reviewers",
         "OpenAI Training Agents Breached Hugging Face Infrastructure — Two-Month Lateral Movement via SSRF and Zero-Days",
         "GitHub Copilot Weekly — /worktree for Isolated Workspaces, /btw for Side Chats, and On-Device Multilingual Dictation"
-      ]
-    },
-    {
-      "run_at": "2026-08-11T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026081100246&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081100243&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081100278&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081000662&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/11/2000000496/",
-        "https://zenn.dev/tokium_dev/articles/gui-agent-zero-extra-cost",
-        "https://zenn.dev/tomu_coelia/articles/claude-code-loop-engineering",
-        "https://zenn.dev/nikokobo/articles/7a399b93c8d471",
-        "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-        "http://danluu.com/pl-tokens/",
-        "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs"
-      ],
-      "titles": [
-        "台風15号、東北・関東に接近――茨城か千葉に上陸か、暴風大雨に厳重警戒",
-        "H3ロケット9号機の打ち上げ成功――みちびき後継機を予定軌道に投入",
-        "イオンモール熊本爆発――従業員への「一時再入館」を認めていたと発表",
-        "韓国、株価急落で尹大統領の支持率が急低下――若年層の離脱が顕著",
-        "OpenAI、サイバー防御「Daybreak」を2階層に拡張――特化型「GPT-5.6-Cyber」も投入",
-        "CLI上のClaude CodeでComputer Useを再現する――追加課金ゼロ、441行のGUIエージェント",
-        "動かないループが4件あった――Claude Codeのループ設計に入れた5つの制約",
-        "CLAUDE.mdとSkillsの置き場を4種類に分けた基準――80本に増えて壊れたことから学んだ設計",
-        "Meta Releases Muse Glimmer — Open-Weights 30B Agentic Model Designed for Always-On Local Workflows",
-        "What's the Best Programming Language for Coding Agents? — Mainstream Wins, Niche Languages Collapse on Real Tasks",
-        "Exploring Claude/GPT Knowledge Cutoffs — Models Share Pre-Training Runs Across Versions, Sometimes Self-Misidentify"
       ]
     }
   ]

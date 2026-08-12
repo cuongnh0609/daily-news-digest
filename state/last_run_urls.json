@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-12T10:00:00+09:00",
+  "last_run_at": "2026-08-12T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-12T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026081200534&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081200511&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081200241&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081200234&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/12/2000000501/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000503/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000504/",
+        "https://zenn.dev/satoshi_tech/articles/20260811-zenn-article-cloud-agents",
+        "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+        "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+        "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/"
+      ],
+      "titles": [
+        "公明党元幹部・坂口力氏が死去——初代厚生労働相、ハンセン病控訴断念を主導した92年の生涯",
+        "靴下の中に200匹のトカゲ——羽田空港でメキシコ人男性が密輸未遂で逮捕",
+        "国家公務員一般職、女性合格者が46.9%に——過去2番目の高水準、多様性確保が着実に進む",
+        "米ウィスコンシン州知事予備選、急進左派候補ホン氏が民主党内の焦点に——「ミシガン以来の試金石」",
+        "ソニーとTSMCが熊本に合弁会社設立——2029年スマホ向けイメージセンサー量産、総投資7470億円",
+        "NVIDIAが30B規模の常時稼働エージェント向けオープンモデル「Nemotron 3.5 Lightning」を公開——MoEで推論コストを大幅削減",
+        "ChatGPTデスクトップアプリにLinux版が登場——Ubuntu・Fedora対応、「MacBookキャンセルしていい」とOpenAI幹部",
+        "クラウドコーディングエージェント実践レポート2026年8月版——Cursor Cloudとローカル離席の境界線を引く",
+        "MAI-Code-1.1-Flash Available in GitHub Copilot — 73% Cheaper, Native Vision, and a 0.25× Premium Multiplier",
+        "GitHub Copilot for JetBrains Gets Persistent Memory and Ollama Integration — Plus Enterprise MCP Controls",
+        "There Are No Lossless Transformations of Natural-Language Text — Why Every AI Rewrite Changes Meaning"
+      ]
+    },
     {
       "run_at": "2026-08-12T10:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Claude Makes Mathematical Breakthrough on Riemann Zeta Function — Raises Lower Bound from 41.6% to 67.2%",
         "Cloudflare OS: An Open-Source Agentic Platform for Work — Deploy the Same System Powering Thousands of Cloudflare Employees",
         "Ante: A Self-Contained Offline Coding Agent in a Single Binary — Works Like Claude Code Without the Dependencies"
-      ]
-    },
-    {
-      "run_at": "2026-08-11T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026081000454&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081000476&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081000878&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081000642&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081000598&g=int&m=rss",
-        "https://zenn.dev/saikoseiko/articles/0e70e6dcd9ee7f",
-        "https://zenn.dev/akira_papa/articles/9a1be91ac478a1",
-        "https://zenn.dev/horizon_it00/articles/ai-coding-agent-3-comparison",
-        "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-        "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-        "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/"
-      ],
-      "titles": [
-        "熊本地震、発生２週間——死者３９人・住宅被害２万棟超、断水は今も３万戸に及ぶ",
-        "腸内細菌の毒素「コリバクチン」、日本人の大腸がんの約半数に関与——大阪大・東大が発表",
-        "南米コロンビアでＭ７．４の地震　建物被害、負傷者も",
-        "入管庁、強制退去対象の外国人情報を自治体に提供開始——氏名・住所・国籍を毎月通知",
-        "ウクライナ軍の無人機攻撃、ロシア中部で１３人死亡——タタルスタンの製油所を標的か",
-        "AIエージェントとAI連携システムは別物——「自律性」という名の誤解と責任設計の本質",
-        "AIエージェントに毎回の前提を教えるファイル「AGENTS.md」——Codex向け設定の最初の一歩",
-        "Claude Code・Antigravity CLI・Codex CLI——３大AIコーディングエージェントを比較する",
-        "Meta Releases Muse Glimmer — Open-Weights 30B Agentic Model Runs Locally on Consumer Hardware",
-        "GitHub Copilot Impact Dashboard Gets ROI Section — Model Passive vs. Agent-First Developer Cohorts",
-        "How I Use LLMs to Learn Complex Topics — Gamified Simulations Beat Passive Reading"
-      ]
-    },
-    {
-      "run_at": "2026-08-10T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/articles/b6d8b60958ae6cac26da80201cbaeddfbe03fc43",
-        "https://news.yahoo.co.jp/articles/3b8296801e421750837bc8c9fe88af154587d979",
-        "https://news.yahoo.co.jp/articles/5d5fe2e48ad518321b5dbd060eddba474e01327d",
-        "https://news.yahoo.co.jp/articles/6dc3632e768a5bcfcdfe693102cbcc7aa145de62",
-        "https://news.yahoo.co.jp/articles/d16839a9b58183329eeec4728ef2e8eb7a65c597",
-        "https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro",
-        "https://zenn.dev/ncdc/articles/56d60cb79319b2",
-        "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
-        "https://www.docker.com/products/docker-sandboxes/",
-        "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/",
-        "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available"
-      ],
-      "titles": [
-        "台風15号（チャンホン）、11日に関東甲信へ接近・上陸の恐れ——「極めて異例の進路」でお盆に直撃か",
-        "熊本地震：被災者生活再建支援法を適用——全壊世帯に最大300万円の支援金",
-        "新潟の海水浴場で親子3人が波にのまれ、中学生と小学生の兄弟2人が死亡",
-        "愛知・大治町長が「不法侵入疑惑」で辞職——議会が全会一致で不信任案可決",
-        "千葉・いすみ市の女性殺害事件で長女を逮捕——母親を殺害した容疑",
-        "Claude CodeにAnthropic公式「Security Guidance Plugin」を導入——AI書いたコードをAIがリアルタイムで査定",
-        "Claude CodeのSkill設計で「それっぽいだけ」の説明を根絶——具体例と出力形式の強制で解決",
-        "AIエージェントの「Skills」が業界横断で標準化——Vercel主導、VS Code・Cursor・Kiro・Copilotなど8社対応、Claude Codeは未参加",
-        "Docker Sandboxes: Disposable Isolated microVMs for AI Agents Running Unattended",
-        "GitHub Models Is Now Retired — The Economics of Free LLM API Access in CI/CD Didn't Work",
-        "GitHub Copilot Code Review Effort Levels Now Generally Available — Choose How Deep the Bot Digs"
       ]
     }
   ]

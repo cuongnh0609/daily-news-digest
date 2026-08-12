@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-12T05:00:00+09:00",
+  "last_run_at": "2026-08-12T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-12T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026081200185&g=obt&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081200152&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081200131&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081200155&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081100314&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news044.html",
+        "https://zenn.dev/singularity/articles/ever-better-pm2",
+        "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+        "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+        "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/"
+      ],
+      "titles": [
+        "奥田碩氏が死去——93歳、トヨタ社長・経団連会長を歴任した財界の重鎮",
+        "北朝鮮が弾道ミサイルを発射——日本のEEZ外に落下、緊張が再び高まる",
+        "ゼレンスキー氏、「米国への和平提案」に言及——侵攻終結への協議が活発化か",
+        "レバノン議会、死刑を廃止——無期懲役が最高刑に、中東では異例の判断",
+        "美容医療の低年齢化が進む——まぶた整形が急増、親主導の受診も課題に",
+        "GeminiアプリのMAUが10億人を突破——Googleの14番目の「億超え」プロダクトに",
+        "37兆円規模のSaaS支出が2030年までに消える——エージェントAIがUI不要の時代を作るとGartnerが予測",
+        "1日500コミットを可能にする品質ガードツール「Ever-Better」——Claude CodeとESLintを組み合わせた新しいAI開発の律し方",
+        "Mojo 1.0 Released — A Stable Foundation for Python-Compatible Systems Programming",
+        "GitHub Copilot Behind a MitM Proxy — Researchers Expose Plaintext Session Storage and Context Leakage",
+        "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard — Open Agentic Models with Intelligent Model Routing"
+      ]
+    },
     {
       "run_at": "2026-08-12T05:00:00+09:00",
       "urls": [

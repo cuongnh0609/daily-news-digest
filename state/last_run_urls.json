@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-13T20:00:00+09:00",
+  "last_run_at": "2026-08-14T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-14T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6591632",
+        "https://www.jiji.com/jc/article?k=2026081300699&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081300707&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081301111&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/13/2000000531/",
+        "https://zenn.dev/nozomi720/articles/claude_code_hooks_feedback",
+        "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000533/",
+        "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
+        "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
+        "https://github.com/fellowgeek/mcp-memory",
+        "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html"
+      ],
+      "titles": [
+        "千葉県に大雨特別警報——線状降水帯が直撃、土砂崩れ・浸水・人的被害が相次ぐ",
+        "秋篠宮さま、皇室典範改正問題にコメント——皇位継承論議に新局面",
+        "内閣支持率が48.4%で横ばい——予算委員会縮小に約4割が否定的",
+        "米国、日本経由の中国製品「関税回避」を批判——サプライチェーン迂回問題が浮上",
+        "東京ガス子会社、顧客情報2万件入りPCを紛失——飲酒後の管理不備が発覚",
+        "Claude Codeに「同じ指摘を二度させない」仕組みをhookで構築——47ルールを自動蓄積・段階的強制へ",
+        "DeepSeek、API料金を最大12倍に値上げ——8月17日からピーク時料金も導入",
+        "Google Cloud「CodeMender」プレビュー公開——AIエージェントが脆弱性を自律発見・検証・修正",
+        "Anthropic Introduces the Conceptual Reasoning Index — Claude Opus 5 Leads at 73.6/91, Safety Research Milestone",
+        "MCP Memory — Persistent Agent Memory via Google's OKF and SQLite FTS5, Sub-20ms Retrieval",
+        "Microsoft Previews Windows Performance Analyzer MCP — AI Diagnoses App Slowness via GitHub Copilot CLI"
+      ]
+    },
     {
       "run_at": "2026-08-13T20:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "MAI-Code-1.1-Flash Available in GitHub Copilot — 73% Cheaper, Native Vision, and a 0.25× Premium Multiplier",
         "GitHub Copilot for JetBrains Gets Persistent Memory and Ollama Integration — Plus Enterprise MCP Controls",
         "There Are No Lossless Transformations of Natural-Language Text — Why Every AI Rewrite Changes Meaning"
-      ]
-    },
-    {
-      "run_at": "2026-08-12T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026081200185&g=obt&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081200152&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081200131&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081200155&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081100314&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news044.html",
-        "https://zenn.dev/singularity/articles/ever-better-pm2",
-        "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-        "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-        "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/"
-      ],
-      "titles": [
-        "奥田碩氏が死去——93歳、トヨタ社長・経団連会長を歴任した財界の重鎮",
-        "北朝鮮が弾道ミサイルを発射——日本のEEZ外に落下、緊張が再び高まる",
-        "ゼレンスキー氏、「米国への和平提案」に言及——侵攻終結への協議が活発化か",
-        "レバノン議会、死刑を廃止——無期懲役が最高刑に、中東では異例の判断",
-        "美容医療の低年齢化が進む——まぶた整形が急増、親主導の受診も課題に",
-        "GeminiアプリのMAUが10億人を突破——Googleの14番目の「億超え」プロダクトに",
-        "37兆円規模のSaaS支出が2030年までに消える——エージェントAIがUI不要の時代を作るとGartnerが予測",
-        "1日500コミットを可能にする品質ガードツール「Ever-Better」——Claude CodeとESLintを組み合わせた新しいAI開発の律し方",
-        "Mojo 1.0 Released — A Stable Foundation for Python-Compatible Systems Programming",
-        "GitHub Copilot Behind a MitM Proxy — Researchers Expose Plaintext Session Storage and Context Leakage",
-        "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard — Open Agentic Models with Intelligent Model Routing"
-      ]
-    },
-    {
-      "run_at": "2026-08-12T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591361?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591365?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591374?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/10/2000000491/",
-        "https://www.itmedia.co.jp/news/article/2608/11/2000000474/",
-        "https://www.anthropic.com/news/claude-sonnet-5",
-        "https://www.publickey1.jp/blog/26/superlogical.html",
-        "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000484/",
-        "https://www.anthropic.com/news/claude-sonnet-5",
-        "https://stolen-thoughts.com/",
-        "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/"
-      ],
-      "titles": [
-        "台風15号が上陸後も大雨続く——12日（水）も全国各地で警戒続ける",
-        "イオンモール熊本爆発事故——会社が遺族への補償方針を発表",
-        "砂浜に遺体発見——近くで22歳男性が行方不明、台風余波で水難事故相次ぐ",
-        "警察庁、トクリュウ上位者のスマホ通信を遠隔取得へ——有識者検討会が初会合",
-        "子ども教育でのAI利用、保護者の動機は「学力向上」より「乗り遅れ恐怖」——米シカゴ大調査",
-        "Anthropic、Claude Sonnet 5を発表——最もエージェント的なSonnetモデル、コーディング・ツール使用で大幅強化",
-        "ミッチェル・ハシモト氏が新会社「Superlogical」設立——AIエージェント・開発者・インフラをつなぐマルチプレクサを開発へ",
-        "NEC、「全員AI組織」構想を発表——AIマネージャーがAI社員を生成・指揮する新たな働き方モデル",
-        "Anthropic Releases Claude Sonnet 5 — Most Agentic Sonnet Yet, Near-Opus Performance for Coding and Tool Use",
-        "Stealing Reasoning Traces from Proprietary LLM APIs — Research Recovers Hidden Thinking Tokens from Frontier Models",
-        "Why Go Is an Ideal Language for AI-Assisted Software Engineering — Google Makes the Case for Readability at Scale"
-      ]
-    },
-    {
-      "run_at": "2026-08-12T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026081100473&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081100588&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081100627&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081100595&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6591366?source=rss",
-        "https://zenn.dev/knowledgesence/articles/9e55a3bb67729c",
-        "https://www.itmedia.co.jp/aiplus/article/2608/11/2000000493/",
-        "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
-        "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-        "https://github.com/antirez/h3.c",
-        "https://thewalrus.ca/google-search-is-dying/"
-      ],
-      "titles": [
-        "シリアのアサド前大統領に死刑判決——内戦下の「人道に対する罪」で有罪認定",
-        "台風15号、茨城県南部に上陸——東日本を横断、お盆の交通・生活に深刻な影響",
-        "トランプ氏、トルコ訪問で専用機をおとりに——秘密裏に別機へ乗り換えの報道",
-        "中国・台湾東沖で軍事演習へ——インドネシアと協同、地域の緊張が再び高まる",
-        "花火大会で観覧エリアに落下——3人やけど、台風接近の中で安全管理が問われる",
-        "BM25をCodexの前段に導入——セッション全体のトークン消費を29%削減に成功",
-        "Meta、ローカル動作特化オープンウェイトモデル「Muse Glimmer」を公開——Apache 2.0、単一GPUで動作",
-        "AIエージェントがHugging Faceインフラを内部侵害——OpenAIがBlack Hatで内幕を公開",
-        "Anthropic Introduces AI-Generated Content Marking for All Claude Models — Watermarks and C2PA Metadata",
-        "H3-Metal: Native MiniMax-H3 Multimodal Inference Optimized for Apple Silicon — 33B DiT Model Runs Locally",
-        "As AI Eats the Web, the Internet's Collective Memory Is Disappearing — A Structural Crisis of Digital Preservation"
       ]
     }
   ]

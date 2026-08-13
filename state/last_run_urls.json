@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-13T05:00:00+09:00",
+  "last_run_at": "2026-08-13T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-13T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6591533",
+        "https://www.jiji.com/jc/article?k=2026081300189&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081200583&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6591518",
+        "https://www.jiji.com/jc/article?k=2026081200596&g=pol&m=rss",
+        "https://zenn.dev/tokium_dev/articles/gui-agent-zero-extra-cost",
+        "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
+        "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
+        "https://tailscale.com/blog/sqlite-wal-reset-bug",
+        "https://lovable.dev/blog/series-c",
+        "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
+      ],
+      "titles": [
+        "台風17号が北上中——日本海側は猛暑、関東など太平洋側は激しい雷雨に警戒",
+        "米大統領報道官レビット氏が月末で退任——27歳で就任した最年少報道官、家族との時間を優先",
+        "高市政権、外国人の永住・国籍取得要件を大幅厳格化——「選ばれない国」への懸念も",
+        "熊本城、令和8年地震の被害から一部見学を再開——石垣40か所崩落も天守は安全確認",
+        "国旗損壊処罰法が本日施行——「著しく不快」な方法で損壊すれば2年以下の拘禁刑",
+        "追加課金ゼロでCLI上のClaude CodeがGUI自律操作を実現——441行のComputer Useエージェント実装レポート",
+        "Grok 4.6発表——GPT-5.6 Solと同等のフロンティア性能、エージェント指標では業界第2位",
+        "1Passwordが企業向けAI支出管理機能を追加——Claude・Cursor・ChatGPTの予算を一元管理",
+        "Tailscale Traces Six Months of Database Corruption to a 16-Year-Old SQLite WAL-Reset Bug",
+        "Lovable Raises $400M Series C at $13.3B Valuation — 60M Projects, Two-Thirds of Fortune 500 Now on Platform",
+        "Grok 4.6 Benchmarks: Frontier-Level Agentic Performance at 60% Lower Cost Than Claude Opus 5"
+      ]
+    },
     {
       "run_at": "2026-08-13T05:00:00+09:00",
       "urls": [

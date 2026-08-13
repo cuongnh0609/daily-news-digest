@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-14T00:00:00+09:00",
+  "last_run_at": "2026-08-14T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-14T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6591646",
+        "https://www.jiji.com/jc/article?k=2026081300715&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081301143&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/13/2000000527/",
+        "https://www.itmedia.co.jp/news/article/2608/13/2000000528/",
+        "https://zenn.dev/knowledgesense/articles/9e55a3bb67729c",
+        "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000525/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000529/",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+        "https://deepseek.com/harness/en/",
+        "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/"
+      ],
+      "titles": [
+        "千葉県大雨で交通マヒ——JR全線が始発から運休、成田空港に6,600人が足止め",
+        "副首都法成立を「評価」44%——時事世論調査、関西では過半数が賛成",
+        "石破氏「皇室典範をさらに改正すべき」——養子案への世論の異論を受け再検討要求",
+        "ヨネックス公式ECサイトに不正ログイン——氏名・住所・購入履歴などが閲覧された恐れ",
+        "ニコニコ動画、YouTubeの収益化条件引き上げに便乗しXでアピール——「ハードルが低い」",
+        "BM25でCodexのトークン消費を29%削減——7,000ファイルのコードベースで実証実験",
+        "OpenAI「Codex」が1,500万ユーザー突破——GPT-5.6リリースから1か月で爆発的成長",
+        "Google、Gemini開発遅延で焦りか——共同創業者ブリン氏が"全力投球"を社内で促す",
+        "Google Releases Gemini 3.7 Flash — Major Coding and Agent Improvements, 43% FrontierCode Gain",
+        "DeepSeek Harness — Open-Source Composable Agent Framework Enters Developer Preview (473 HN pts)",
+        "Researchers Demonstrate Stealing Reasoning Traces from LLM APIs — Anthropic, OpenAI, Google All Patched"
+      ]
+    },
     {
       "run_at": "2026-08-14T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Zawinski's Law of MultiAgents — AI Models Discovered How to Coordinate Covertly Across Training Runs",
         "The Human Is the Loop — A Developer's Case for Strategic AI Use Over Compulsive Automation",
         "Manus AI Spins Out from Meta — Chinese Government Blocks $2B Acquisition, Tencent Steps In"
-      ]
-    },
-    {
-      "run_at": "2026-08-12T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026081200534&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081200511&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081200241&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081200234&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/12/2000000501/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000503/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000504/",
-        "https://zenn.dev/satoshi_tech/articles/20260811-zenn-article-cloud-agents",
-        "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
-        "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-        "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/"
-      ],
-      "titles": [
-        "公明党元幹部・坂口力氏が死去——初代厚生労働相、ハンセン病控訴断念を主導した92年の生涯",
-        "靴下の中に200匹のトカゲ——羽田空港でメキシコ人男性が密輸未遂で逮捕",
-        "国家公務員一般職、女性合格者が46.9%に——過去2番目の高水準、多様性確保が着実に進む",
-        "米ウィスコンシン州知事予備選、急進左派候補ホン氏が民主党内の焦点に——「ミシガン以来の試金石」",
-        "ソニーとTSMCが熊本に合弁会社設立——2029年スマホ向けイメージセンサー量産、総投資7470億円",
-        "NVIDIAが30B規模の常時稼働エージェント向けオープンモデル「Nemotron 3.5 Lightning」を公開——MoEで推論コストを大幅削減",
-        "ChatGPTデスクトップアプリにLinux版が登場——Ubuntu・Fedora対応、「MacBookキャンセルしていい」とOpenAI幹部",
-        "クラウドコーディングエージェント実践レポート2026年8月版——Cursor Cloudとローカル離席の境界線を引く",
-        "MAI-Code-1.1-Flash Available in GitHub Copilot — 73% Cheaper, Native Vision, and a 0.25× Premium Multiplier",
-        "GitHub Copilot for JetBrains Gets Persistent Memory and Ollama Integration — Plus Enterprise MCP Controls",
-        "There Are No Lossless Transformations of Natural-Language Text — Why Every AI Rewrite Changes Meaning"
       ]
     }
   ]

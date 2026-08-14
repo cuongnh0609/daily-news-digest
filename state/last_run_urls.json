@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-15T00:00:00+09:00",
+  "last_run_at": "2026-08-15T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-15T05:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/12/2000000501/",
+        "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
+        "https://news.yahoo.co.jp/pickup/6591756?source=rss",
+        "https://www.jiji.com/jc/article?k=2026081301143&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/12/2000000509/",
+        "https://zenn.dev/aws_japan/articles/kiro-cli-2-17-cloud-sessions",
+        "https://zenn.dev/komlock_lab/articles/claude-code-vs-codex-cli-2026",
+        "https://zenn.dev/shirochan/articles/5ef71489b97a32",
+        "https://www.anthropic.com/news/claude-text-watermark",
+        "https://www.mixedbread.com/blog/toast-1",
+        "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
+      ],
+      "titles": [
+        "ソニーとTSMC、熊本に合弁新会社を設立——7470億円を拠出し2029年にスマホ向けセンサー量産開始",
+        "GeminiアプリのMAUが10億人を突破——Googleで14番目の「10億ユーザークラブ」入り",
+        "関東・東北、15日にかけて再び激しい雨の恐れ——千葉の被災地に二重の試練",
+        "高市首相、終戦記念日の靖国参拝を見送りへ——日韓・日中関係への配慮か",
+        "デンマーク、AI不正対策で高校課程に「口頭試問」を義務化——課題提出後に口頭確認",
+        "ラップトップを閉じてもエージェントは働き続ける——Kiro CLI 2.17「Cloud Sessions」でAI開発がローカルを離れた",
+        "Claude CodeとCodex CLI、2026年8月時点での実力差は——Terminal-Bench 89%台で並ぶも使い勝手に違い",
+        "Anthropic公式「claude-security」プラグインで6フェーズ多段エージェントによるリポジトリ脆弱性スキャン",
+        "How Claude's Text Watermark Works — Anthropic Deploys SynthID-Text Globally, API Detection Coming",
+        "Toast 1 — Mixedbread's Agentic Search Matches Frontier LLMs at 10× Lower Cost and 12× Faster Speed",
+        "Google HEIR: Open-Source Homomorphic Encryption Compiler Makes Private AI Inference Practical"
+      ]
+    },
     {
       "run_at": "2026-08-15T00:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "Mass Vulnerability Scans Impersonating AI Bots — Attackers Spoof ClaudeBot, GPTBot to Target Developer Credential Paths",
         "Flutter 3.47 — Standalone Design System Packages, Impeller Goes Default on Desktop, iOS Minimum Bumped to 15",
         "Discovered Materials (YC P26) — AI Agents Find 500+ Viable Semiconductor Materials, But Only 1 Has a Plausible Synthesis Path"
-      ]
-    },
-    {
-      "run_at": "2026-08-13T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026081300576&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6591564?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591577?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591566?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591581?source=rss",
-        "https://zenn.dev/hellorusk/articles/3328866ca9e922",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news002.html",
-        "https://www.itmedia.co.jp/business/articles/2608/13/news025.html",
-        "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-        "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-        "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/"
-      ],
-      "titles": [
-        "プーチン大統領が択捉島を初訪問——日本政府が「固有の領土」と強く抗議",
-        "秋篠宮さまが皇室典範改正巡りコメント——皇位継承問題に新たな注目",
-        "闇バイトに応募して渡米した邦人男性を在米日本大使館が保護",
-        "米国外初のGoogle直営店「Google Store 表参道」が開業——AIデモも充実",
-        "母親を助けようと海に飛び込んだ18歳男性が遺体で発見——台風余波による水難",
-        "Claudeがテキストに電子透かしを埋め込み開始——EU AI法対応のウォーターマーキング技術を解説",
-        "メルカリが「Claude Code全社展開」の実践事例を公開——エンジニア全員がAI駆動開発へ移行",
-        "NEC・日立・富士通がAnthropicと相次ぎ協業——「全員AI組織」構想で日本企業が激変",
-        "Agent Plugins 1.0 Now Available in VS Code, GitHub Copilot CLI, and Copilot App — Build Once, Run Everywhere",
-        "Qwen3.8-2.4T: Alibaba Releases a 2.4 Trillion Parameter MoE Model — Frontier Quality at Open-Weights Scale",
-        "GitHub Models Is Now Retired — What Developers Using the Unified LLM API Need to Know"
-      ]
-    },
-    {
-      "run_at": "2026-08-13T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591533",
-        "https://www.jiji.com/jc/article?k=2026081300189&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081200583&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6591518",
-        "https://www.jiji.com/jc/article?k=2026081200596&g=pol&m=rss",
-        "https://zenn.dev/tokium_dev/articles/gui-agent-zero-extra-cost",
-        "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
-        "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
-        "https://tailscale.com/blog/sqlite-wal-reset-bug",
-        "https://lovable.dev/blog/series-c",
-        "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
-      ],
-      "titles": [
-        "台風17号が北上中——日本海側は猛暑、関東など太平洋側は激しい雷雨に警戒",
-        "米大統領報道官レビット氏が月末で退任——27歳で就任した最年少報道官、家族との時間を優先",
-        "高市政権、外国人の永住・国籍取得要件を大幅厳格化——「選ばれない国」への懸念も",
-        "熊本城、令和8年地震の被害から一部見学を再開——石垣40か所崩落も天守は安全確認",
-        "国旗損壊処罰法が本日施行——「著しく不快」な方法で損壊すれば2年以下の拘禁刑",
-        "追加課金ゼロでCLI上のClaude CodeがGUI自律操作を実現——441行のComputer Useエージェント実装レポート",
-        "Grok 4.6発表——GPT-5.6 Solと同等のフロンティア性能、エージェント指標では業界第2位",
-        "1Passwordが企業向けAI支出管理機能を追加——Claude・Cursor・ChatGPTの予算を一元管理",
-        "Tailscale Traces Six Months of Database Corruption to a 16-Year-Old SQLite WAL-Reset Bug",
-        "Lovable Raises $400M Series C at $13.3B Valuation — 60M Projects, Two-Thirds of Fortune 500 Now on Platform",
-        "Grok 4.6 Benchmarks: Frontier-Level Agentic Performance at 60% Lower Cost Than Claude Opus 5"
-      ]
-    },
-    {
-      "run_at": "2026-08-13T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591492",
-        "https://news.yahoo.co.jp/pickup/6591505",
-        "https://news.yahoo.co.jp/pickup/6591449",
-        "https://news.yahoo.co.jp/pickup/6591403",
-        "https://news.yahoo.co.jp/pickup/6591412",
-        "https://zenn.dev/knowledgework/articles/2114d46c201da3",
-        "https://zenn.dev/discus0434/articles/disable-cursoruiviewservice-macos",
-        "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
-        "https://x.ai/news/grok-4-6",
-        "https://zed.dev/blog/introducing-delta",
-        "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
-      ],
-      "titles": [
-        "台風17号、来週にも関東へ接近か——気象庁が厳重な警戒を呼びかけ",
-        "高市首相、イラン大統領と電話会談——ホルムズ海峡の安全航行で認識一致",
-        "高市首相、終戦記念日の靖国参拝を見送る方向——日韓・日中外交配慮か",
-        "熊本地震で煙突倒壊・9人犠牲——国交省が原因究明の調査を開始",
-        "ラジオ体操を知らない子どもが増加——コロナ禍・猛暑・担い手不足が背景に",
-        "AIを活用したQAプロセス最適化——ナレッジワークが自動テスト戦略をZennで公開",
-        "macOSでCursorのメモリ問題を解決——CursorUIViewServiceを無効化する実践ガイド",
-        "Google Pixel 11シリーズ発表——「Gemini Intelligence」向けに設計、カメラも大幅強化",
-        "xAI Releases Grok 4.6 — Long-Running Agents and Visual Work as Core Focus",
-        "Zed Introduces Delta — A Multiplayer Environment for Agentic Coding and Code Review",
-        "DeepSeek Releases V4 Pro 0813 — Massive MoE Model at Frontier Quality with Sub-$1 Pricing"
       ]
     }
   ]

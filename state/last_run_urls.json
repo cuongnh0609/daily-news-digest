@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-14T20:00:00+09:00",
+  "last_run_at": "2026-08-15T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-15T00:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/14/2000000551/",
+        "https://www.jiji.com/jc/article?k=2026081400955&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/14/2000000543/",
+        "https://news.yahoo.co.jp/pickup/6591750?source=rss",
+        "https://www.jiji.com/jc/article?k=2026081400892&g=int&m=rss",
+        "https://zenn.dev/moca/articles/0922ad2922896f",
+        "https://zenn.dev/tarako_ai/articles/ai-task-shirei",
+        "https://zenn.dev/akari_chan/articles/381a0430ae0221",
+        "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+        "https://docs.mistral.ai/models/ocr-4-1",
+        "https://atproto.com/blog/introducing-bluesky-protocol-services"
+      ],
+      "titles": [
+        "ニチレイ、サイバー攻撃で従業員の個人情報が流出した可能性——7月の不正アクセスが発覚",
+        "日本政府、ロシアに対抗策を本格検討——制裁強化・大使帰国も選択肢に",
+        "千葉豪雨、東電の変電所装置も水没——停電2万軒超が続き復旧長期化の見通し",
+        "エルニーニョが「非常に強い」状態に発達する恐れ——気象庁が長期予報で警戒呼びかけ",
+        "英国右派政党の党首ファラージ氏が補欠選挙で勝利——「最もばかげた補選」と自嘲",
+        "AIに実装させる前に仕様書で何を決めているか——Spec-Driven AI開発の実践知を整理する",
+        "Claude Codeで複数プロジェクトを捌く設計——「モードファイル」と「司令塔ファイル」のアーキテクチャ",
+        "MCPのToolを増やしたらAgentが迷い始めた——「使えるTool」を増やす前に確認すべき5項目",
+        "Why Does Opus 5 Feel Worse to Work With? — Benchmark Optimization vs. Real-World Collaboration",
+        "Mistral OCR 4.1 — Paragraph-Level Bounding Boxes, Confidence Scores, and Annotation API",
+        "Bluesky Protocol Services: Jetstream v2 with Network Replay, Go/TypeScript SDKs, and Rebuilt TypeScript SDK"
+      ]
+    },
     {
       "run_at": "2026-08-14T20:00:00+09:00",
       "urls": [

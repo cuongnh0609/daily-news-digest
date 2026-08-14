@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-14T10:01:00+09:00",
+  "last_run_at": "2026-08-14T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-14T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6591693",
+        "https://www.jiji.com/jc/article?k=2026081400148&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081300692&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/14/2000000541/",
+        "https://www.itmedia.co.jp/news/article/2608/14/2000000540/",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news043.html",
+        "https://zenn.dev/iwatsukayura/articles/google-go-ai",
+        "https://zenn.dev/murasanlab/books/dcf7ed4826a797",
+        "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
+        "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+        "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
+      ],
+      "titles": [
+        "千葉豪雨、死者7人・行方不明1人——気象庁が「令和8年8月千葉豪雨」と命名、自衛隊が帰宅困難者を支援",
+        "ロシア、北方領土巡る日本の抗議を「無駄話」と一蹴——プーチン訪問に強硬な反論",
+        "特攻隊、陸・海軍6,371人が戦死——終戦の10カ月前に開始、最初の出撃から81年",
+        "千葉県豪雨から一夜、2万軒超で停電が続く——避難者2,260人、変電所の浸水も",
+        "3DS「ポケモンバンク」が13年の歴史に幕——過去作のポケモンを現行作へ引き継ぐ最終機会は終了",
+        "南海電鉄×日立、量子アニーリングで乗務員スケジューリングを「数か月→1週間」に圧縮——2027年度から全線展開へ",
+        "AI時代にGoが最適な言語である理由——コードを「書く」から「読み・検証する」時代へのパラダイムシフト",
+        "自宅サーバーではじめるローカルLLM入門——OllamaとGemma 4でプライベートAI環境を構築する実践ガイド",
+        "Gemini 3.7 Flash Now Available in GitHub Copilot — Agentic Coding and Web Dev Performance Improved",
+        "GitHub Copilot for JetBrains Gets Persistent Memory and Ollama BYOK Support — Agent Context Survives Between Sessions",
+        "GPT-5.6 Sol Ultrafast via Cerebras: 750 Tokens/sec at Frontier Quality — 11× Faster Than Competitors on PhD-Level Benchmarks"
+      ]
+    },
     {
       "run_at": "2026-08-14T10:01:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "xAI Releases Grok 4.6 — Long-Running Agents and Visual Work as Core Focus",
         "Zed Introduces Delta — A Multiplayer Environment for Agentic Coding and Code Review",
         "DeepSeek Releases V4 Pro 0813 — Massive MoE Model at Frontier Quality with Sub-$1 Pricing"
-      ]
-    },
-    {
-      "run_at": "2026-08-13T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026081200732&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081201024&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081201008&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6591497?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/12/2000000509/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news044.html",
-        "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
-        "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-        "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-        "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/"
-      ],
-      "titles": [
-        "高市首相、終戦記念日の靖国参拝を見送りへ――日韓・日中外交を優先",
-        "7月の米消費者物価3.4%上昇――2カ月連続で鈍化、FRBの利上げ停止観測が強まる",
-        "大韓航空がアシアナ吸収――12月に統合、230機・2万8千人のメガキャリア誕生",
-        "日航機墜落から41年――御巣鷹山で遺族が追悼、520人の記憶を次世代へ",
-        "デンマーク、高校でAI不正対策を強化――課題提出後の口頭試問を義務化",
-        "「Agent Plugins 1.0.0」発表――AIエージェント間でSkills・MCP設定を共通化する初の標準仕様",
-        "Gartner警告: 37兆円のSaaS支出が2030年までに「消える」――エージェンティックAIがUIを不要にする",
-        "JetBrains Context発表――AIが少ないトークンで深いコンテキストを取得し、コード生成品質を向上",
-        "AI Is Removing the Middle Class of Software Engineering",
-        "What Sort of Maths Are LLMs Good At? — OpenAI Solves 10 Unsolved Problems, But the Pattern Reveals Limits",
-        "Claude Opus 5 System Prompt Reveals U.S. Export Control Suspension — A Rare Window Into Real-Time AI Regulation"
-      ]
-    },
-    {
-      "run_at": "2026-08-12T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026081200787&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081200784&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6591481?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591473?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/12/2000000512/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000505/",
-        "https://zenn.dev/tomodo_ysys/articles/cloudflare-access-managed-oauth-mcp",
-        "https://zenn.dev/karamage/articles/976a5f8fb0f876",
-        "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
-        "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-        "https://www.itmedia.co.jp/news/article/2608/12/2000000508/"
-      ],
-      "titles": [
-        "プーチン氏、北方領土「ロシア領で確定」主張——サハリン訪問で13年ぶりに強硬発言",
-        "畝本検事総長退任——「何もしなかった」と批判、不祥事続く検察庁の課題",
-        "朱鎔基・元中国首相が死去——97歳、改革開放の立役者",
-        "日航機墜落から41年——520人の墓標に遺族が花を手向ける",
-        "RIZAPグループのECサイトに不正アクセス——カード情報含む個人情報が流出か",
-        "SpaceX AI、常時稼働AIエージェント「Grok Bot」発表——業務アプリにログインして自律操作",
-        "MCPの認可にCloudflare Access Managed OAuthが推せる理由——JWT検証だけで済む二重検証アーキテクチャ",
-        "AIで作業効率化しても給料が上がらない構造的理由——資本主義の論理が労働者の恩恵を吸収する",
-        "Zawinski's Law of MultiAgents — AI Models Discovered How to Coordinate Covertly Across Training Runs",
-        "The Human Is the Loop — A Developer's Case for Strategic AI Use Over Compulsive Automation",
-        "Manus AI Spins Out from Meta — Chinese Government Blocks $2B Acquisition, Tencent Steps In"
       ]
     }
   ]

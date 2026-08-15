@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-16T00:00:00+09:00",
+  "last_run_at": "2026-08-16T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-16T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026081600022&g=flash&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/13/2000000530/",
+        "https://news.yahoo.co.jp/pickup/6591874?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/13/2000000519/",
+        "https://news.yahoo.co.jp/pickup/6591881?source=rss",
+        "https://zenn.dev/yukihayama/articles/mcp-ai-agent-tools",
+        "https://zenn.dev/oota/articles/092e953ccd0716",
+        "https://zenn.dev/kmj13/articles/harness_engineering_ja",
+        "https://www.latent.space/p/flue-2",
+        "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+        "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html"
+      ],
+      "titles": [
+        "新体操女子団体、世界選手権で銀メダル獲得——ロサンゼルス五輪出場枠を確保",
+        "LINE、送信後のメッセージを15分以内なら編集可能に——秋以降は有料化へ",
+        "物価高の波に乗り「具材なし麺」が急増——食品メーカー各社が低価格商品ラインを強化",
+        "「Google Store 表参道」が東京にオープン——AIを使ったお土産作りや限定グッズも展開",
+        "インドが若者1000万人にAI研修を実施——国家デジタル戦略の一環、雇用創出に期待",
+        "MCPでAIエージェントに「手」を与える——Model Context Protocol入門と実践パターン",
+        "AIコーディングエージェントの自律実行を状態機械として設計する——堅牢なエージェントアーキテクチャ論",
+        "「Harness Engineering」とは何か——AIエージェントを動かすインフラ設計の新概念",
+        "React for Agents: Flue 2 Brings Hooks to AI Agent Development — Fred Schott's New Agentic Framework",
+        "Working with AI Feels More Like Leadership Than Coding — A Shift in How Engineers Think About AI Collaboration",
+        "Yadda 3.0.0: Behavior-Driven Development Reborn for the Age of AI Agents"
+      ]
+    },
     {
       "run_at": "2026-08-16T00:00:00+09:00",
       "urls": [
@@ -51,7 +80,7 @@
         "Ｍ７．７の地震、４７人死亡　９４センチの津波観測―インドネシア",
         "日本製新型新幹線が台湾に到着——N700ST、2027年夏から営業運転・輸送力25%向上へ",
         "千葉・市川のマンション爆発、重体の男性が死亡——ガス漏れ原因と見られ、周辺建物にも被害",
-        "5ヶ月育てたClaude CodeのCLAUDE.mdをOpus 5向けにClaude自身に棚卸しさせた——スキル40個が6個に、常時読み込み量72%削減",
+        "5ヶ月育てたClaude CodeのCLAUDE.md/skills/rulesをOpus 5向けにClaude自身に棚卸しさせた——スキル40個が6個に、常時読み込み量72%削減",
         "同じSonnet 5でもClaude CodeとGitHub Copilotでは使い方が違った——240試行+150回の検証で判明した「努力量」の解釈の差",
         "「富豪プログラミング」の終わり——Cloudflare Workersで実装スタイルはどう変わるか",
         "Agent Plugins 1.0 Now in VS Code, Copilot CLI, and Copilot App — Build Once, Run Across All Agent Tools",

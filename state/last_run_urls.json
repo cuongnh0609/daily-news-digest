@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-15T20:00:00+09:00",
+  "last_run_at": "2026-08-16T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-16T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026081500432&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081500410&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081500313&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081500280&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081500305&g=int&m=rss",
+        "https://zenn.dev/hako_hako/books/nexus-product-new-development",
+        "https://zenn.dev/nozomi720/articles/claude_code_hooks_feedback",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news002.html",
+        "https://www.anthropic.com/news/claude-opus-5",
+        "https://www.anthropic.com/news/hard-questions",
+        "https://sankalp.bearblog.dev/autoresearch/"
+      ],
+      "titles": [
+        "ロシア、択捉島周辺で軍事演習を通告——外務省が強く抗議",
+        "男子バスケット日本代表、韓国に快勝——八村塁が代表復帰戦で22得点",
+        "オーストラリア、世界最大521キロの金塊を鋳造——ギネス世界記録に認定",
+        "高市首相、終戦式典で「反省」を再び封印——初の式辞、戦争主体を曖昧に表現",
+        "米左派専門家「中国と共存し、関税収入を労働者重視の経済へ」——対中政策論争が加速",
+        "AIエージェントと進めるソフトウェア開発——Claude CodeとNexus Architectで仮説検証から実運用まで",
+        "Claude Codeに「同じ指摘を二度させない」仕組みをhookで構築——永続フィードバックループの実装",
+        "メルカリが明かす「Claude Code全社展開」の舞台裏——シャドーAI対策と権限設計を支える仕組み",
+        "Introducing Claude Opus 5 — Near-Fable Intelligence at Half the Cost, Optimized for Long-Running Agents",
+        "Anthropic \"Inviting Hard Questions\" — Public Transparency Initiative on AI's Impact on Jobs, Society, and Human Agency",
+        "Auto-Research with Codex: How I Achieved a 232× Faster GPU Kernel — Agentic Iterative Optimization Loop"
+      ]
+    },
     {
       "run_at": "2026-08-15T20:00:00+09:00",
       "urls": [
@@ -18,8 +47,8 @@
       ],
       "titles": [
         "被爆者93歳が終戦記念日に語る——顔の傷が刻んだ思春期の苦悩と、がんを経て生まれた使命感",
-        "高市首相、終戦記念日に靖国神社を遥拝——参拝は見送り、韓国と中国は批判的論評",
-        "インドネシア東部でM7.7の地震、38人死亡——94センチの津波を観測、余震に警戒続く",
+        "高市首相、靖国神社を遥拝　玉串料奉納、参拝は見送り",
+        "Ｍ７．７の地震、４７人死亡　９４センチの津波観測―インドネシア",
         "日本製新型新幹線が台湾に到着——N700ST、2027年夏から営業運転・輸送力25%向上へ",
         "千葉・市川のマンション爆発、重体の男性が死亡——ガス漏れ原因と見られ、周辺建物にも被害",
         "5ヶ月育てたClaude CodeのCLAUDE.mdをOpus 5向けにClaude自身に棚卸しさせた——スキル40個が6個に、常時読み込み量72%削減",
@@ -202,35 +231,6 @@
         "Gemini 3.7 Flash Now Available in GitHub Copilot — Agentic Coding and Web Dev Performance Improved",
         "GitHub Copilot for JetBrains Gets Persistent Memory and Ollama BYOK Support — Agent Context Survives Between Sessions",
         "GPT-5.6 Sol Ultrafast via Cerebras: 750 Tokens/sec at Frontier Quality — 11× Faster Than Competitors on PhD-Level Benchmarks"
-      ]
-    },
-    {
-      "run_at": "2026-08-14T10:01:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591663",
-        "https://news.yahoo.co.jp/pickup/6591665",
-        "https://news.yahoo.co.jp/pickup/6591659",
-        "https://www.itmedia.co.jp/news/article/2608/14/2000000537/",
-        "https://www.itmedia.co.jp/news/article/2608/14/2000000535/",
-        "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
-        "https://zenn.dev/yoshipon_tech/articles/a51bbfcc068c1f",
-        "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
-        "https://www.codewithbullet.com",
-        "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck"
-      ],
-      "titles": [
-        "千葉県豪雨、死者4人に——自衛隊が帰宅困難者4千人を輸送、成田空港は7千人滞留",
-        "関東・東北、夕方から再び雨脚強まる——千葉の被災地に追い打ちの懸念",
-        "米国務省「北方領土は日本の主権下にある」——プーチン訪問に対し公式声明",
-        "Instagram、10年ぶりにワードマークを刷新——太く簡潔な筆記体でブランド刷新",
-        "トランプ大統領、民間企業によるサイバー攻撃作戦を認める覚書に署名",
-        "AIエージェント同士が「縄張り争い」——Anthropicがマルチエージェント実験でマルウェア生成・和解まで記録",
-        "Google、「Gemini 3.7 Flash」をリリース——コーディング・エージェント特化、年内は半額提供",
-        "曖昧に使っていたAI用語を整理する——モデル・LLM・MCP・トークンの階層を一から理解",
-        "Anthropic's Multi-Agent Experiments: AI Agents Generate Malware Against Each Other — and Sometimes Make Peace",
-        "Bullet (YC S26): New Coding Agent Hits 95.8% on SWE-Bench Verified with Model Routing and Parallel Execution",
-        "Understanding Is the New Bottleneck — Geoffrey Litt on Why Human Comprehension Still Matters in the AI Coding Era"
       ]
     }
   ]

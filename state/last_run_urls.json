@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-15T15:00:00+09:00",
+  "last_run_at": "2026-08-15T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-15T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6591857?source=rss",
+        "https://www.jiji.com/jc/article?k=2026081500335&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081500208&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081500387&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6591834?source=rss",
+        "https://zenn.dev/koki_n22/articles/986f61d16989cb",
+        "https://zenn.dev/nnakapa/articles/lab-35-claude-copilot-sonnet5-qcd",
+        "https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming",
+        "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+        "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+        "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10"
+      ],
+      "titles": [
+        "被爆者93歳が終戦記念日に語る——顔の傷が刻んだ思春期の苦悩と、がんを経て生まれた使命感",
+        "高市首相、終戦記念日に靖国神社を遥拝——参拝は見送り、韓国と中国は批判的論評",
+        "インドネシア東部でM7.7の地震、38人死亡——94センチの津波を観測、余震に警戒続く",
+        "日本製新型新幹線が台湾に到着——N700ST、2027年夏から営業運転・輸送力25%向上へ",
+        "千葉・市川のマンション爆発、重体の男性が死亡——ガス漏れ原因と見られ、周辺建物にも被害",
+        "5ヶ月育てたClaude CodeのCLAUDE.mdをOpus 5向けにClaude自身に棚卸しさせた——スキル40個が6個に、常時読み込み量72%削減",
+        "同じSonnet 5でもClaude CodeとGitHub Copilotでは使い方が違った——240試行+150回の検証で判明した「努力量」の解釈の差",
+        "「富豪プログラミング」の終わり——Cloudflare Workersで実装スタイルはどう変わるか",
+        "Agent Plugins 1.0 Now in VS Code, Copilot CLI, and Copilot App — Build Once, Run Across All Agent Tools",
+        "DeepSeek V4 Pro 0813 Drops on OpenRouter — 1.7T Parameter Model with Open Weights on Hugging Face",
+        "GitHub Copilot Weekly: Kimi K3 Rolls Out, MAI-Code-1.1-Flash Gets Vision, CLI Gains /tasks and /rewind"
+      ]
+    },
     {
       "run_at": "2026-08-15T15:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "Anthropic's Multi-Agent Experiments: AI Agents Generate Malware Against Each Other — and Sometimes Make Peace",
         "Bullet (YC S26): New Coding Agent Hits 95.8% on SWE-Bench Verified with Model Routing and Parallel Execution",
         "Understanding Is the New Bottleneck — Geoffrey Litt on Why Human Comprehension Still Matters in the AI Coding Era"
-      ]
-    },
-    {
-      "run_at": "2026-08-14T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591646",
-        "https://www.jiji.com/jc/article?k=2026081300715&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081301143&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/13/2000000527/",
-        "https://www.itmedia.co.jp/news/article/2608/13/2000000528/",
-        "https://zenn.dev/knowledgesense/articles/9e55a3bb67729c",
-        "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000525/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000529/",
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-        "https://deepseek.com/harness/en/",
-        "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/"
-      ],
-      "titles": [
-        "千葉県大雨で交通マヒ——JR全線が始発から運休、成田空港に6,600人が足止め",
-        "副首都法成立を「評価」44%——時事世論調査、関西では過半数が賛成",
-        "石破氏「皇室典範をさらに改正すべき」——養子案への世論の異論を受け再検討要求",
-        "ヨネックス公式ECサイトに不正ログイン——氏名・住所・購入履歴などが閲覧された恐れ",
-        "ニコニコ動画、YouTubeの収益化条件引き上げに便乗しXでアピール——「ハードルが低い」",
-        "BM25でCodexのトークン消費を29%削減——7,000ファイルのコードベースで実証実験",
-        "OpenAI「Codex」が1,500万ユーザー突破——GPT-5.6リリースから1か月で爆発的成長",
-        "Google、Gemini開発遅延で焦りか——共同創業者ブリン氏が"全力投球"を社内で促す",
-        "Google Releases Gemini 3.7 Flash — Major Coding and Agent Improvements, 43% FrontierCode Gain",
-        "DeepSeek Harness — Open-Source Composable Agent Framework Enters Developer Preview (473 HN pts)",
-        "Researchers Demonstrate Stealing Reasoning Traces from LLM APIs — Anthropic, OpenAI, Google All Patched"
-      ]
-    },
-    {
-      "run_at": "2026-08-14T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591632",
-        "https://www.jiji.com/jc/article?k=2026081300699&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081300707&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081301111&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/13/2000000531/",
-        "https://zenn.dev/nozomi720/articles/claude_code_hooks_feedback",
-        "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000533/",
-        "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
-        "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
-        "https://github.com/fellowgeek/mcp-memory",
-        "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html"
-      ],
-      "titles": [
-        "千葉県に大雨特別警報——線状降水帯が直撃、土砂崩れ・浸水・人的被害が相次ぐ",
-        "秋篠宮さま、皇室典範改正問題にコメント——皇位継承論議に新局面",
-        "内閣支持率が48.4%で横ばい——予算委員会縮小に約4割が否定的",
-        "米国、日本経由の中国製品「関税回避」を批判——サプライチェーン迂回問題が浮上",
-        "東京ガス子会社、顧客情報2万件入りPCを紛失——飲酒後の管理不備が発覚",
-        "Claude Codeに「同じ指摘を二度させない」仕組みをhookで構築——47ルールを自動蓄積・段階的強制へ",
-        "DeepSeek、API料金を最大12倍に値上げ——8月17日からピーク時料金も導入",
-        "Google Cloud「CodeMender」プレビュー公開——AIエージェントが脆弱性を自律発見・検証・修正",
-        "Anthropic Introduces the Conceptual Reasoning Index — Claude Opus 5 Leads at 73.6/91, Safety Research Milestone",
-        "MCP Memory — Persistent Agent Memory via Google's OKF and SQLite FTS5, Sub-20ms Retrieval",
-        "Microsoft Previews Windows Performance Analyzer MCP — AI Diagnoses App Slowness via GitHub Copilot CLI"
-      ]
-    },
-    {
-      "run_at": "2026-08-13T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591616",
-        "https://news.yahoo.co.jp/pickup/6591568",
-        "https://news.yahoo.co.jp/pickup/6591608",
-        "https://www.itmedia.co.jp/news/article/2608/13/2000000532/",
-        "https://www.itmedia.co.jp/news/article/2608/13/2000000530/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000511/",
-        "https://zenn.dev/hako_hako/books/nexus-product-new-development",
-        "https://zenn.dev/estie/articles/64b80da2fbf175",
-        "https://knownagents.com/insights",
-        "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-        "https://discoveredmaterials.com/research/"
-      ],
-      "titles": [
-        "千葉県北西部に大雨特別警報——線状降水帯が直撃、1時間110ミリの猛烈な雨",
-        "TDL「スペース・マウンテン」が新名称に——2027年春、1000億円投じてトゥモローランドを全面刷新",
-        "遊泳禁止時間帯に波に流された40代男性が死亡——千葉・九十九里浜で水難事故",
-        "ドコモ・バイクシェア、全国全エリアで再開——全面停止から9日ぶり、9月に「NOLL」へ刷新",
-        "LINEが送信後15分以内のメッセージ編集機能を発表——秋以降はLYPプレミアム特典に",
-        "Claudeが約60体のサブエージェントを連携させリーマン予想で新発見——Anthropicが数学研究へのAI活用を報告",
-        "「AIエージェントと進めるソフトウェア開発」——Claude CodeとNexus Architectで壁打ちから実装まで全工程を実践した53,000字の記録",
-        "同じRust製なのになぜ速度差が大きいのか——BiomeとOxlintのアーキテクチャ比較",
-        "Mass Vulnerability Scans Impersonating AI Bots — Attackers Spoof ClaudeBot, GPTBot to Target Developer Credential Paths",
-        "Flutter 3.47 — Standalone Design System Packages, Impeller Goes Default on Desktop, iOS Minimum Bumped to 15",
-        "Discovered Materials (YC P26) — AI Agents Find 500+ Viable Semiconductor Materials, But Only 1 Has a Plausible Synthesis Path"
       ]
     }
   ]

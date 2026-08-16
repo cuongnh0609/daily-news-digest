@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-16T10:00:00+09:00",
+  "last_run_at": "2026-08-16T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-16T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026081500315&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081600105&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081600102&g=spo&m=rss",
+        "https://news.yahoo.co.jp/pickup/6591945?source=rss",
+        "https://news.yahoo.co.jp/pickup/6591929?source=rss",
+        "https://zenn.dev/tkou15/articles/email-verification-protocol",
+        "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
+        "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
+        "https://www.anthropic.com/research/multiagent-systems",
+        "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+        "https://simonwillison.net/2026/Aug/15/cors-chat/"
+      ],
+      "titles": [
+        "金価格が55年で160倍に——「ニクソン・ショック」の遺産と揺らぐドル体制",
+        "自民党・小林鷹之氏が靖国神社を参拝——終戦記念日翌日の行動に注目",
+        "全国高校野球・有明と花巻東が8強入り——激戦続く甲子園2026夏",
+        "釣り竿を取り戻そうと池に飛び込んだ少年が溺死——夏の水難事故が続く",
+        "プロテインの価格高騰が止まらず——原材料費・物流費の上昇が直撃",
+        "メール確認コードを不要にする新Web標準「EVP」——WICGが仕様公開、ブラウザとメールが連携",
+        "Claudeの\"見えない透かし\"——AnthropicがSynthID-Textの仕組みを詳細説明、EU AI Act準拠",
+        "xAIが「Grok 4.6」を発表——エージェント用途に特化、多段階推論を大幅強化",
+        "Patterns and Problems in Multiagent Systems — Anthropic Publishes Research on Agent Collusion, Coordination Failure, and Sabotage",
+        "Software Engineering Fundamentals Matter More Than Ever in the AI Era",
+        "CORS Chat: Simon Willison Builds a Browser-Native LLM Chat Tool with GPT-5.6-Sol — Progressive SVG Rendering While Tokens Stream"
+      ]
+    },
     {
       "run_at": "2026-08-16T10:00:00+09:00",
       "urls": [
@@ -231,64 +260,6 @@
         "Why Does Opus 5 Feel Worse to Work With? — Benchmark Optimization vs. Real-World Collaboration",
         "Mistral OCR 4.1 — Paragraph-Level Bounding Boxes, Confidence Scores, and Annotation API",
         "Bluesky Protocol Services: Jetstream v2 with Network Replay, Go/TypeScript SDKs, and Rebuilt TypeScript SDK"
-      ]
-    },
-    {
-      "run_at": "2026-08-14T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591715",
-        "https://news.yahoo.co.jp/pickup/6591731",
-        "https://news.yahoo.co.jp/pickup/6591735",
-        "https://news.yahoo.co.jp/pickup/6591730",
-        "https://www.itmedia.co.jp/news/article/2608/14/2000000550/",
-        "https://zenn.dev/karamage/articles/976a5f8fb0f876",
-        "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000545/",
-        "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-        "https://z.ai/blog/glm-5.3",
-        "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot"
-      ],
-      "titles": [
-        "「初任給月額100万円」に応募1300人——霞ヶ関キャピタル、すでに10人が内定",
-        "日本一高い観覧車「オオサカホイール」落雷被害から8か月超も運営停止が続く",
-        "千葉豪雨で放置車両が1,200台超の見通し——県が災害対策基本法に基づき移動開始",
-        "関東・東北、15日にかけて激しい雨の恐れ——千葉の被災地に再び警戒",
-        "「浸水した家電・車は電源を入れないで」——経産省が豪雨被災者に火災防止の緊急注意喚起",
-        "AIで作業効率が3倍になっても給料が増えない理由——「赤の女王効果」と資本主義の構造を考える",
-        "ChatGPTがMac上のPC操作を自動記録、AIのコンテキストとして活用可能に——プライバシー設計も同時公開",
-        "GPT-5.6 Sol「Ultrafastモード」実装——Cerebrasチップで毎秒750トークン・品質損なわず14倍高速",
-        "Anthropic Overhauls Fable 5's Biology Safeguards — 85% Reduction in False Positives While Maintaining Security",
-        "GLM-5.3: Zhipu AI Releases Frontier Coding Model with Emergent Cyber Capabilities — 538 HN Points",
-        "GitHub Copilot Gets MAI-Code-1.1-Flash — Microsoft's Coding Model with Vision Support at 73% Lower Cost"
-      ]
-    },
-    {
-      "run_at": "2026-08-14T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591693",
-        "https://www.jiji.com/jc/article?k=2026081400148&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081300692&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/14/2000000541/",
-        "https://www.itmedia.co.jp/news/article/2608/14/2000000540/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news043.html",
-        "https://zenn.dev/iwatsukayura/articles/google-go-ai",
-        "https://zenn.dev/murasanlab/books/dcf7ed4826a797",
-        "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
-        "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-        "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
-      ],
-      "titles": [
-        "千葉豪雨、死者7人・行方不明1人——気象庁が「令和8年8月千葉豪雨」と命名、自衛隊が帰宅困難者を支援",
-        "ロシア、北方領土巡る日本の抗議を「無駄話」と一蹴——プーチン訪問に強硬な反論",
-        "特攻隊、陸・海軍6,371人が戦死——終戦の10カ月前に開始、最初の出撃から81年",
-        "千葉県豪雨から一夜、2万軒超で停電が続く——避難者2,260人、変電所の浸水も",
-        "3DS「ポケモンバンク」が13年の歴史に幕——過去作のポケモンを現行作へ引き継ぐ最終機会は終了",
-        "南海電鉄×日立、量子アニーリングで乗務員スケジューリングを「数か月→1週間」に圧縮——2027年度から全線展開へ",
-        "AI時代にGoが最適な言語である理由——コードを「書く」から「読み・検証する」時代へのパラダイムシフト",
-        "自宅サーバーではじめるローカルLLM入門——OllamaとGemma 4でプライベートAI環境を構築する実践ガイド",
-        "Gemini 3.7 Flash Now Available in GitHub Copilot — Agentic Coding and Web Dev Performance Improved",
-        "GitHub Copilot for JetBrains Gets Persistent Memory and Ollama BYOK Support — Agent Context Survives Between Sessions",
-        "GPT-5.6 Sol Ultrafast via Cerebras: 750 Tokens/sec at Frontier Quality — 11× Faster Than Competitors on PhD-Level Benchmarks"
       ]
     }
   ]

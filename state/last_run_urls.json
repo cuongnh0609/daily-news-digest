@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-16T15:00:00+09:00",
+  "last_run_at": "2026-08-16T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-16T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6591973?source=rss",
+        "https://news.yahoo.co.jp/pickup/6591974?source=rss",
+        "https://news.yahoo.co.jp/pickup/6591966?source=rss",
+        "https://www.jiji.com/jc/article?k=2026081600178&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081200583&g=pol&m=rss",
+        "https://zenn.dev/egu777/articles/cursor-cloud-agents-mifos",
+        "https://zenn.dev/dx_junkyard/articles/5808807eeef8e8",
+        "https://zenn.dev/tejunya/articles/a047_ninchi-teki-fusai",
+        "https://www.anthropic.com/news/position-open-weights-models",
+        "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+        "https://duckdb.org/2026/07/31/asynchronous-io"
+      ],
+      "titles": [
+        "千葉など関東で17日から猛暑再来——豪雨復旧作業中の熱中症リスクに警戒",
+        "インドネシア・フロレス島でM7.7の地震——死者51人、家屋1300棟超が倒壊",
+        "オーストラリア、ワーキングホリデービザの受け入れを抑制——極右台頭を受け移民政策を見直し",
+        "トランプ大統領、金正恩氏との2ショット写真をSNSに投稿——「仲良し」とコメント、対話再開を示唆",
+        "高市政権、外国人永住許可を厳格化——「選ばれる国」か「閉じる国」か、論争が加速",
+        "「worktreesは死んだ。クラウドエージェントこそ未来」——47万行のレガシーJavaで複数エージェントの限界を検証",
+        "AIシステムの行き着く先は「進化型パイプライン」——LLMと固定処理を行き来する設計論",
+        "認知的負債——AIが速く書いたコードの請求書は頭の中に届く",
+        "Anthropic's Position on Open-Weights AI Models — Chip Controls Over Bans, Safety Testing for All",
+        "Anthropic Tightens Fable 5's Biology Safeguards — 85% Fewer False Positives, Smarter Dual-Use Classifier",
+        "DuckDB v2.0 Async I/O: 3× Faster Parquet on S3, 20× Faster CSV — Remote Data Processing Gets Network-Saturating Speed"
+      ]
+    },
     {
       "run_at": "2026-08-16T15:00:00+09:00",
       "urls": [

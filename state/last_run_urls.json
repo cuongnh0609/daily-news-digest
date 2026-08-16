@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-17T00:00:00+09:00",
+  "last_run_at": "2026-08-17T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-17T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592005?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592006?source=rss",
+        "https://www.jiji.com/jc/article?k=2026081600180&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081600266&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081600196&g=int&m=rss",
+        "https://zenn.dev/iwatsukayura/articles/google-go-ai",
+        "https://zenn.dev/hellorusk/articles/3328866ca9e922",
+        "https://zenn.dev/nabettu/articles/a964f988e7cc75",
+        "https://www.anthropic.com/news/claude-text-watermark",
+        "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+        "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/"
+      ],
+      "titles": [
+        "福岡でマンホールの蓋が吹き飛ぶ事故——ゴキブリ駆除作業が引き金か",
+        "OpenAIで経営幹部が相次ぎ退社——IPO前夜の「危険信号」と市場が懸念",
+        "風船爆弾を製造した95歳女性が証言——「勝てると信じて作り続けた」戦後81年",
+        "森保監督が熊本被災地を訪問、有明高校が甲子園で8強入り——スポーツが被災者を励ます",
+        "ブラジル大統領選、告示期限に現職左派と右派の前大統領長男が激突",
+        "なぜAI時代にGoが最適な言語なのか——コードを「書く」から「検証する」時代へ",
+        "ClaudeのテキストにAIが電子透かしを埋め込む仕組みとは——SynthID-Textの技術解説",
+        "Next.js + Cloudflare Workers + Turso本番運用で踏んだ罠——月$5 SaaSの実戦ノウハウ",
+        "How Claude's Text Watermark Works — Anthropic Explains SynthID-Text Integration",
+        "GitHub Copilot for JetBrains Gets Persistent Memory and Ollama BYOK Support",
+        "Don't Classify. Hallucinate! — A Better Way to Tag Content at Scale Using LLM + Embeddings"
+      ]
+    },
     {
       "run_at": "2026-08-17T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Agent Plugins 1.0 Now in VS Code, Copilot CLI, and Copilot App — Build Once, Run Across All Agent Tools",
         "DeepSeek V4 Pro 0813 Drops on OpenRouter — 1.7T Parameter Model with Open Weights on Hugging Face",
         "GitHub Copilot Weekly: Kimi K3 Rolls Out, MAI-Code-1.1-Flash Gets Vision, CLI Gains /tasks and /rewind"
-      ]
-    },
-    {
-      "run_at": "2026-08-15T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591814?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591816?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591818?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591811?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591802?source=rss",
-        "https://zenn.dev/takeshi_teshima/articles/bae79b2f0f97be",
-        "https://www.itmedia.co.jp/business/articles/2608/14/news053.html",
-        "https://www.publickey1.jp/blog/26/superlogical.html",
-        "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-        "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-        "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/"
-      ],
-      "titles": [
-        "閣僚らの靖国参拝に中国が強烈抗議——終戦81年、首相は玉串料を奉納のみ",
-        "トランプ大統領のウクライナ和平仲介、立場が二転三転——対イラン情勢も複雑化",
-        "関東・近畿で局地的な雨雲が発達——千葉の軟弱地盤に土砂災害の警戒続く",
-        "智弁和歌山、延長11回タイブレークを制し8強入り——甲子園夏の大会2026",
-        "ベルギーの民家の壁から900万ユーロ相当の金貨・金塊——改修工事中に偶然発見",
-        "概念設計がコードの命運を左右する——ドメイン駆動設計の本質を実例で解説",
-        "創業155年の老舗梅干し店、Claudeで業務ツールを自作——「チャット＋コピペ」で現場DXを実現",
-        "ミッチェル・ハシモト氏が新会社「Superlogical」を設立——「あらゆる仕事のマルチプレクサ」を開発へ",
-        "Anthropic Discloses Three Real-World Incidents from Cybersecurity Evaluations — Claude Models Breached Live Systems",
-        "Grok 4.6 Now in GitHub Copilot — xAI's Reasoning Model Targets Long-Horizon Agentic Coding Tasks",
-        "There Are No Lossless Transformations of Natural-Language Text — Why AI Rewrites Always Lose Information"
       ]
     }
   ]

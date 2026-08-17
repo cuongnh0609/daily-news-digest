@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-18T00:00:00+09:00",
+  "last_run_at": "2026-08-18T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-18T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592117?source=rss",
+        "https://www.jiji.com/jc/article?k=2026081700678&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081700139&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/17/2000000570/",
+        "https://www.itmedia.co.jp/news/article/2608/17/2000000569/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000533/",
+        "https://zenn.dev/aun_phonogram/articles/3f8c1a7b5d902e",
+        "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+        "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/"
+      ],
+      "titles": [
+        "豪雨で車が浸水 金銭負担が心配",
+        "福岡県議会議長が辞意　金銭授受疑惑、勧告案は採決されず",
+        "イスラエル首相やハマス指導者と会談　ガザ工程表で調整―トランプ氏娘婿",
+        "中国のCGアニメ「牛来」、\"AI生成よりひどい\"と話題で逆にヒット　興収は一気に350倍以上に",
+        "縦読み漫画アプリ「comico」サービス終了へ　13年の歴史に幕",
+        "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に　Mac版デスクトップアプリで提供",
+        "中国DeepSeek、API料金を「最大12倍」に値上げ　ピーク時価格も導入　8月17日から",
+        "Codexを効率よく使う方法（ChatGPT + GitHub）",
+        "AI-Generated GitHub Copilot Autofix Allowed Compromise of Snowflake's Jira",
+        "Amazon Is Destroying Rare Books to Train AI Models",
+        "Qwen3.8-27B Released Under Apache 2.0 — Open Weights Model Matches Claude Opus 4.6 on Some Benchmarks"
+      ]
+    },
     {
       "run_at": "2026-08-18T00:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Introducing Claude Sonnet 5 — Most Agentic Sonnet Yet, Near Opus 4.8 Performance at Lower Cost",
         "GitHub OAuth Apps Get Multiple Redirect URIs, Token Refresh, and Wildcard Matching",
         "Claude System Prompts Now Public — Anthropic Releases Core Prompts for Claude.ai and Mobile Apps"
-      ]
-    },
-    {
-      "run_at": "2026-08-16T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591973?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591974?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591966?source=rss",
-        "https://www.jiji.com/jc/article?k=2026081600178&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081200583&g=pol&m=rss",
-        "https://zenn.dev/egu777/articles/cursor-cloud-agents-mifos",
-        "https://zenn.dev/dx_junkyard/articles/5808807eeef8e8",
-        "https://zenn.dev/tejunya/articles/a047_ninchi-teki-fusai",
-        "https://www.anthropic.com/news/position-open-weights-models",
-        "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-        "https://duckdb.org/2026/07/31/asynchronous-io"
-      ],
-      "titles": [
-        "千葉など関東で17日から猛暑再来——豪雨復旧作業中の熱中症リスクに警戒",
-        "インドネシア・フロレス島でM7.7の地震——死者51人、家屋1300棟超が倒壊",
-        "オーストラリア、ワーキングホリデービザの受け入れを抑制——極右台頭を受け移民政策を見直し",
-        "トランプ大統領、金正恩氏との2ショット写真をSNSに投稿——「仲良し」とコメント、対話再開を示唆",
-        "高市政権、外国人永住許可を厳格化——「選ばれる国」か「閉じる国」か、論争が加速",
-        "「worktreesは死んだ。クラウドエージェントこそ未来」——47万行のレガシーJavaで複数エージェントの限界を検証",
-        "AIシステムの行き着く先は「進化型パイプライン」——LLMと固定処理を行き来する設計論",
-        "認知的負債——AIが速く書いたコードの請求書は頭の中に届く",
-        "Anthropic's Position on Open-Weights AI Models — Chip Controls Over Bans, Safety Testing for All",
-        "Anthropic Tightens Fable 5's Biology Safeguards — 85% Fewer False Positives, Smarter Dual-Use Classifier",
-        "DuckDB v2.0 Async I/O: 3× Faster Parquet on S3, 20× Faster CSV — Remote Data Processing Gets Network-Saturating Speed"
-      ]
-    },
-    {
-      "run_at": "2026-08-16T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026081500315&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081600105&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081600102&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6591945?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591929?source=rss",
-        "https://zenn.dev/tkou15/articles/email-verification-protocol",
-        "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
-        "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
-        "https://www.anthropic.com/research/multiagent-systems",
-        "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-        "https://simonwillison.net/2026/Aug/15/cors-chat/"
-      ],
-      "titles": [
-        "金価格が55年で160倍に——「ニクソン・ショック」の遺産と揺らぐドル体制",
-        "自民党・小林鷹之氏が靖国神社を参拝——終戦記念日翌日の行動に注目",
-        "全国高校野球・有明と花巻東が8強入り——激戦続く甲子園2026夏",
-        "釣り竿を取り戻そうと池に飛び込んだ少年が溺れ死——夏の水難事故が続く",
-        "プロテインの価格高騰が止まらず——原材料費・物流費の上昇が直撃",
-        "メール確認コードを不要にする新Web標準「EVP」——WICGが仕様公開、ブラウザとメールが連携",
-        "Claudeの\"見えない透かし\"——AnthropicがSynthID-Textの仕組みを詳細説明、EU AI Act準拠",
-        "xAIが「Grok 4.6」を発表——エージェント用途に特化、多段階推論を大幅強化",
-        "Patterns and Problems in Multiagent Systems — Anthropic Publishes Research on Agent Collusion, Coordination Failure, and Sabotage",
-        "Software Engineering Fundamentals Matter More Than Ever in the AI Era",
-        "CORS Chat: Simon Willison Builds a Browser-Native LLM Chat Tool with GPT-5.6-Sol — Progressive SVG Rendering While Tokens Stream"
-      ]
-    },
-    {
-      "run_at": "2026-08-16T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591898?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591899?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591901?source=rss",
-        "https://news.yahoo.co.jp/pickup/6591888?source=rss",
-        "https://www.jiji.com/jc/article?k=2026081500424&g=pol&m=rss",
-        "https://zenn.dev/naokik/articles/4c87c4ce7553b3",
-        "https://zenn.dev/saltmu/articles/c05853bb7eeb49",
-        "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
-        "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-        "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-        "https://simonwillison.net/2026/Aug/13/llm-gemini/"
-      ],
-      "titles": [
-        "お盆明けの熱中症リスクに警戒——暑熱順化がリセット、18日以降に猛暑が再来",
-        "プーチン大統領、北方領土・択捉島を初訪問——日本は強く抗議、米国も日本支持を表明",
-        "MLB史上初、デビュー戦で3打席連続本塁打——カージナルスのバエス選手が歴史的快挙",
-        "東京で行方不明の英国籍12歳少女が保護——ネットカフェに滞在、家族と合流",
-        "高市首相、支持率低下で保守層の離反を警戒——靖国遥拝に「姑息」「パフォーマンス」と野党批判",
-        "AIエージェント3体に1週間アプリを自律開発させた実験——評価指標の設計が失敗の温床に",
-        "AIに1つのPRを最後まで任せきる開発設計——Issue・Skill・CI・テストを組み合わせた6要素アーキテクチャ",
-        "AIエージェント同士が「縄張り争い」——Anthropicの実験で自己複製マルウェア投入や資源独占が発生",
-        "Agent Plugins 1.0 Generally Available in VS Code, Copilot CLI, and Copilot App — Build Once, Run Everywhere",
-        "AI Has Access to a Vastly Larger Working Memory Than the Human Brain — Why LLMs Excel at Mathematics",
-        "llm-gemini 0.33 Released — Gemini 3.7 Flash Support, Reasoning Traces, Server-Side Tools, New Embeddings"
       ]
     }
   ]

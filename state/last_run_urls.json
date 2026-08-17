@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-17T15:00:00+09:00",
+  "last_run_at": "2026-08-17T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-17T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592098?source=rss",
+        "https://www.jiji.com/jc/article?k=2026081700763&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081700547&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/17/2000000568/",
+        "https://www.jiji.com/jc/article?k=2026081700684&g=soc&m=rss",
+        "https://zenn.dev/aws_japan/articles/agentcore-async-long-running-patterns",
+        "https://zenn.dev/mm_ai/articles/codex-agent-orchestration",
+        "https://zenn.dev/yamada_ai_dev/articles/review-harness-not-run",
+        "https://vectoral.com/blog/who-are-the-token-brokers",
+        "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+        "https://simonwillison.net/2026/Aug/16/dario-amodei/"
+      ],
+      "titles": [
+        "熊本地震被災地へ月内に支援パッケージ——政府が復旧加速へ",
+        "高市首相が病院に6時間滞在——「手などの検査」と官邸説明",
+        "江戸の古書から髪を採取し食生活を解明——龍谷大など、当時の食文化を科学的に再現",
+        "楽天、撃墜ドローン開発の独ヘルシングと提携——防衛省への納入支援へ",
+        "生成AIで駐車標章を偽造——「駐車代を浮かしたかった」男を書類送検",
+        "Amazon Bedrock AgentCore Runtimeで実現する非同期・長期実行エージェント——HealthyBusy制御とタイムアウト設計の実装論",
+        "CodexのマルチエージェントV2を試す——並列実行でトークン削減、モデル分担設計の実践レポート",
+        "レビュー機構を作ったのに、自分の成果物に回さなかった——Claude Codeによる自動レビュー設計の落とし穴",
+        "The AI Credit Resale Economy — Shadow Markets Where Brokers Flip API Tokens at 30–80% Discount",
+        "GitHub Copilot Weekly Releases (Aug 10) — Kimi K3, MAI-Code-1.1-Flash, Agent Plugins 1.0, and Major CLI/App Upgrades",
+        "Dario Amodei: Only Actually Curing Cancer Will Restore Trust in AI — The Case Against Marketing Your Way to Credibility"
+      ]
+    },
     {
       "run_at": "2026-08-17T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Agent Plugins 1.0 Generally Available in VS Code, Copilot CLI, and Copilot App — Build Once, Run Everywhere",
         "AI Has Access to a Vastly Larger Working Memory Than the Human Brain — Why LLMs Excel at Mathematics",
         "llm-gemini 0.33 Released — Gemini 3.7 Flash Support, Reasoning Traces, Server-Side Tools, New Embeddings"
-      ]
-    },
-    {
-      "run_at": "2026-08-16T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026081600022&g=flash&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/13/2000000530/",
-        "https://news.yahoo.co.jp/pickup/6591874?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/13/2000000519/",
-        "https://news.yahoo.co.jp/pickup/6591881?source=rss",
-        "https://zenn.dev/yukihayama/articles/mcp-ai-agent-tools",
-        "https://zenn.dev/oota/articles/092e953ccd0716",
-        "https://zenn.dev/kmj13/articles/harness_engineering_ja",
-        "https://www.latent.space/p/flue-2",
-        "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-        "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html"
-      ],
-      "titles": [
-        "新体操女子団体、世界選手権で銀メダル獲得——ロサンゼルス五輪出場枠を確保",
-        "LINE、送信後のメッセージを15分以内なら編集可能に——秋以降は有料化へ",
-        "物価高の波に乗り「具材なし麺」が急増——食品メーカー各社が低価格商品ラインを強化",
-        "「Google Store 表参道」が東京にオープン——AIを使ったお土産作りや限定グッズも展開",
-        "インドが若者1000万人にAI研修を実施——国家デジタル戦略の一環、雇用創出に期待",
-        "MCPでAIエージェントに「手」を与える——Model Context Protocol入門と実践パターン",
-        "AIコーディングエージェントの自律実行を状態機械として設計する——堅牢なエージェントアーキテクチャ論",
-        "「Harness Engineering」とは何か——AIエージェントを動かすインフラ設計の新概念",
-        "React for Agents: Flue 2 Brings Hooks to AI Agent Development — Fred Schott's New Agentic Framework",
-        "Working with AI Feels More Like Leadership Than Coding — A Shift in How Engineers Think About AI Collaboration",
-        "Yadda 3.0.0: Behavior-Driven Development Reborn for the Age of AI Agents"
-      ]
-    },
-    {
-      "run_at": "2026-08-16T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026081500432&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081500410&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081500313&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081500280&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081500305&g=int&m=rss",
-        "https://zenn.dev/hako_hako/books/nexus-product-new-development",
-        "https://zenn.dev/nozomi720/articles/claude_code_hooks_feedback",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news002.html",
-        "https://www.anthropic.com/news/claude-opus-5",
-        "https://www.anthropic.com/news/hard-questions",
-        "https://sankalp.bearblog.dev/autoresearch/"
-      ],
-      "titles": [
-        "ロシア、択捉島周辺で軍事演習を通告——外務省が強く抗議",
-        "男子バスケット日本代表、韓国に快勝——八村塁が代表復帰戦で22得点",
-        "オーストラリア、世界最大521キロの金塊を鋳造——ギネス世界記録に認定",
-        "高市首相、終戦式典で「反省」を再び封印——初の式辞、戦争主体を曖昧に表現",
-        "米左派専門家「中国と共存し、関税収入を労働者重視の経済へ」——対中政策論争が加速",
-        "AIエージェントと進めるソフトウェア開発——Claude CodeとNexus Architectで仮説検証から実運用まで",
-        "Claude Codeに「同じ指摘を二度させない」仕組みをhookで構築——永続フィードバックループの実装",
-        "メルカリが明かす「Claude Code全社展開」の舞台裏——シャドーAI対策と権限設計を支える仕組み",
-        "Introducing Claude Opus 5 — Near-Fable Intelligence at Half the Cost, Optimized for Long-Running Agents",
-        "Anthropic \"Inviting Hard Questions\" — Public Transparency Initiative on AI's Impact on Jobs, Society, and Human Agency",
-        "Auto-Research with Codex: How I Achieved a 232× Faster GPU Kernel — Agentic Iterative Optimization Loop"
       ]
     }
   ]

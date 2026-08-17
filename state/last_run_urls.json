@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-17T05:00:00+09:00",
+  "last_run_at": "2026-08-17T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-17T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592026?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592023?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592013?source=rss",
+        "https://www.jiji.com/jc/article?k=2026081700090&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081600206&g=pol&m=rss",
+        "https://zenn.dev/aws_japan/articles/2b62886aa8735e",
+        "https://zenn.dev/tacyan/articles/75d3ead8130533",
+        "https://zenn.dev/untactit/articles/716f28f02022ed",
+        "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+        "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+        "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
+      ],
+      "titles": [
+        "4〜6月期の実質GDP、年率1.1%増——3四半期連続のプラス成長を達成",
+        "千葉豪雨の放置車両2500台超——撤去の見通しいまだ立たず、復旧作業に影響",
+        "石綿除去に「免許制」を——先進国で日本だけ未導入、専門家が制度整備を求める",
+        "トランプ氏、米韓合同軍事演習の「大幅縮小」を指示——金正恩氏との良好関係を強調",
+        "高市首相の内閣改造、麻生派の処遇が焦点——蜜月に変化？再選戦略の行方",
+        "AIエージェントの「認可疲れ」を解消する——OAuth 2.0トークン交換でSSOを実現する実装論",
+        "AIエージェント64体を同一リポジトリに並列投入——57/64のマージが衝突、ゼロにした設計論",
+        "AGENTS.mdで統一したはずが——ノートPC1台に111個のAGENTS.md、中身は19種類だけという現実",
+        "Models Are Getting Dumber on Purpose — The Case for Separating Facts from Reasoning in LLMs",
+        "Stripe Clinches $7B+ Deal to Acquire OpenRouter — AI API Aggregator Joins Payments Giant",
+        "Qwen 3.8 27B Is Excellent — But It Defaults to Wildly Overthinking Every Request"
+      ]
+    },
     {
       "run_at": "2026-08-17T05:00:00+09:00",
       "urls": [
@@ -107,7 +136,7 @@
         "金価格が55年で160倍に——「ニクソン・ショック」の遺産と揺らぐドル体制",
         "自民党・小林鷹之氏が靖国神社を参拝——終戦記念日翌日の行動に注目",
         "全国高校野球・有明と花巻東が8強入り——激戦続く甲子園2026夏",
-        "釣り竿を取り戻そうと池に飛び込んだ少年が溺死——夏の水難事故が続く",
+        "釣り竿を取り戻そうと池に飛び込んだ少年が溺れ死——夏の水難事故が続く",
         "プロテインの価格高騰が止まらず——原材料費・物流費の上昇が直撃",
         "メール確認コードを不要にする新Web標準「EVP」——WICGが仕様公開、ブラウザとメールが連携",
         "Claudeの\"見えない透かし\"——AnthropicがSynthID-Textの仕組みを詳細説明、EU AI Act準拠",
@@ -202,35 +231,6 @@
         "Introducing Claude Opus 5 — Near-Fable Intelligence at Half the Cost, Optimized for Long-Running Agents",
         "Anthropic \"Inviting Hard Questions\" — Public Transparency Initiative on AI's Impact on Jobs, Society, and Human Agency",
         "Auto-Research with Codex: How I Achieved a 232× Faster GPU Kernel — Agentic Iterative Optimization Loop"
-      ]
-    },
-    {
-      "run_at": "2026-08-15T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591857?source=rss",
-        "https://www.jiji.com/jc/article?k=2026081500335&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081500208&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081500387&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6591834?source=rss",
-        "https://zenn.dev/koki_n22/articles/986f61d16989cb",
-        "https://zenn.dev/nnakapa/articles/lab-35-claude-copilot-sonnet5-qcd",
-        "https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming",
-        "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-        "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
-        "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10"
-      ],
-      "titles": [
-        "被爆者93歳が終戦記念日に語る——顔の傷が刻んだ思春期の苦悩と、がんを経て生まれた使命感",
-        "高市首相、靖国神社を遥拝　玉串料奉納、参拝は見送り",
-        "Ｍ７．７の地震、４７人死亡　９４センチの津波観測―インドネシア",
-        "日本製新型新幹線が台湾に到着——N700ST、2027年夏から営業運転・輸送力25%向上へ",
-        "千葉・市川のマンション爆発、重体の男性が死亡——ガス漏れ原因と見られ、周辺建物にも被害",
-        "5ヶ月育てたClaude CodeのCLAUDE.md/skills/rulesをOpus 5向けにClaude自身に棚卸しさせた——スキル40個が6個に、常時読み込み量72%削減",
-        "同じSonnet 5でもClaude CodeとGitHub Copilotでは使い方が違った——240試行+150回の検証で判明した「努力量」の解釈の差",
-        "「富豪プログラミング」の終わり——Cloudflare Workersで実装スタイルはどう変わるか",
-        "Agent Plugins 1.0 Now in VS Code, Copilot CLI, and Copilot App — Build Once, Run Across All Agent Tools",
-        "DeepSeek V4 Pro 0813 Drops on OpenRouter — 1.7T Parameter Model with Open Weights on Hugging Face",
-        "GitHub Copilot Weekly: Kimi K3 Rolls Out, MAI-Code-1.1-Flash Gets Vision, CLI Gains /tasks and /rewind"
       ]
     }
   ]

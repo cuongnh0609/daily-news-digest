@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-18T15:00:00+09:00",
+  "last_run_at": "2026-08-18T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-18T20:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/18/2000000603/",
+        "https://www.jiji.com/jc/article?k=2026081800841&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6592208?source=rss",
+        "https://www.jiji.com/jc/article?k=2026081800803&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/17/2000000561/",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news055.html",
+        "https://zenn.dev/ito/articles/6b042aa27d65bc",
+        "https://zenn.dev/koki_n22/articles/986f61d16989cb",
+        "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+        "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+        "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/"
+      ],
+      "titles": [
+        "LINE Creditに業務改善命令、システム不備で過剰貸付け、貸金業法違反が判明",
+        "政府、AI事業者に学習データの開示を促す指針案——知財保護の基本方針を提示",
+        "ANAとJALが羽田—岡山線でダイヤ調整を発表——国の指針に基づく初の協調事例",
+        "在留外国人向け日本語学習支援制度の検討開始——政府が有識者ワーキングループを設置",
+        "千葉豪雨、浸水被害の半数超がハザードマップ想定外——内水氾濫が原因と判明",
+        "GoogleがAIエージェント開発の実践ガイドを無料公開——基礎からMCP・Agent2Agentまで5冊を網羅",
+        "AIエージェントはなぜテストを握り潰すのか——報酬エンジニアリングで「評価者を欺く」行動を防ぐ",
+        "5ヶ月育てたClaude CodeのCLAUDE.mdをOpus 5向けに棚卸し——スキル40個→6個、「読まれていた」は35%だけだった",
+        "Anthropic Discloses Three Real-World Security Incidents During Cybersecurity Evaluations",
+        "Qwen 3.8 27B Scores 52 on Intelligence Index — Matches GPT-5.6 Luna Despite Being a Fraction of Its Size",
+        "Stealing Reasoning Traces from Proprietary LLM APIs — Cross-Model Key Reuse Enabled Jailbreaks"
+      ]
+    },
     {
       "run_at": "2026-08-18T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "How Anthropic Contains Claude Across Products — Security Architecture for Agentic Deployments",
         "Sleeper Agents and How to Tame Them — Researchers Train a Backdoored LLM Using GRPO in One Day",
         "Grok 4.6 Now Available in GitHub Copilot — xAI's Agent-Optimized Model Joins the Copilot Roster"
-      ]
-    },
-    {
-      "run_at": "2026-08-17T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592026?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592023?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592013?source=rss",
-        "https://www.jiji.com/jc/article?k=2026081700090&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081600206&g=pol&m=rss",
-        "https://zenn.dev/aws_japan/articles/2b62886aa8735e",
-        "https://zenn.dev/tacyan/articles/75d3ead8130533",
-        "https://zenn.dev/untactit/articles/716f28f02022ed",
-        "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-        "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-        "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
-      ],
-      "titles": [
-        "4〜6月期の実質GDP、年率1.1%増——3四半期連続のプラス成長を達成",
-        "千葉豪雨の放置車両2500台超——撤去の見通しいまだ立たず、復旧作業に影響",
-        "石綿除去に「免許制」を——先進国で日本だけ未導入、専門家が制度整備を求める",
-        "トランプ氏、米韓合同軍事演習の「大幅縮小」を指示——金正恩氏との良好関係を強調",
-        "高市首相の内閣改造、麻生派の処遇が焦点——蜜月に変化？再選戦略の行方",
-        "AIエージェントの「認可疲れ」を解消する——OAuth 2.0トークン交換でSSOを実現する実装論",
-        "AIエージェント64体を同一リポジトリに並列投入——57/64のマージが衝突、ゼロにした設計論",
-        "AGENTS.mdで統一したはずが——ノートPC1台に111個のAGENTS.md、中身は19種類だけという現実",
-        "Models Are Getting Dumber on Purpose — The Case for Separating Facts from Reasoning in LLMs",
-        "Stripe Clinches $7B+ Deal to Acquire OpenRouter — AI API Aggregator Joins Payments Giant",
-        "Qwen 3.8 27B Is Excellent — But It Defaults to Wildly Overthinking Every Request"
-      ]
-    },
-    {
-      "run_at": "2026-08-17T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592005?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592006?source=rss",
-        "https://www.jiji.com/jc/article?k=2026081600180&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081600266&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081600196&g=int&m=rss",
-        "https://zenn.dev/iwatsukayura/articles/google-go-ai",
-        "https://zenn.dev/hellorusk/articles/3328866ca9e922",
-        "https://zenn.dev/nabettu/articles/a964f988e7cc75",
-        "https://www.anthropic.com/news/claude-text-watermark",
-        "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-        "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/"
-      ],
-      "titles": [
-        "福岡でマンホールの蓋が吹き飛ぶ事故——ゴキブリ駆除作業が引き金か",
-        "OpenAIで経営幹部が相次ぎ退社——IPO前夜の「危険信号」と市場が懸念",
-        "風船爆弾を製造した95歳女性が証言——「勝てると信じて作り続けた」戦後81年",
-        "森保監督が熊本被災地を訪問、有明高校が甲子園で8強入り——スポーツが被災者を励ます",
-        "ブラジル大統領選、告示期限に現職左派と右派の前大統領長男が激突",
-        "なぜAI時代にGoが最適な言語なのか——コードを「書く」から「検証する」時代へ",
-        "ClaudeのテキストにAIが電子透かしを埋め込む仕組みとは——SynthID-Textの技術解説",
-        "Next.js + Cloudflare Workers + Turso本番運用で踏んだ罠——月$5 SaaSの実戦ノウハウ",
-        "How Claude's Text Watermark Works — Anthropic Explains SynthID-Text Integration",
-        "GitHub Copilot for JetBrains Gets Persistent Memory and Ollama BYOK Support",
-        "Don't Classify. Hallucinate! — A Better Way to Tag Content at Scale Using LLM + Embeddings"
-      ]
-    },
-    {
-      "run_at": "2026-08-17T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6591993?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592001?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592002?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592000?source=rss",
-        "https://www.jiji.com/jc/article?k=2026081600199&g=soc&m=rss",
-        "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
-        "https://www.publickey1.jp/blog/26/zeddeltaai.html",
-        "https://www.itmedia.co.jp/news/article/2608/12/2000000508/",
-        "https://www.anthropic.com/news/claude-sonnet-5",
-        "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-        "https://platform.claude.com/docs/en/release-notes/system-prompts"
-      ],
-      "titles": [
-        "逆走台風と千葉豪雨——なぜこれほどの被害が起きたのか",
-        "米イラン覚書の期限迫る——ホルムズ海峡開放の見通し立たず",
-        "ウクライナ軍、ドローン600機をロシア首都周辺に向け発射",
-        "BBQ中に川へ流された20代女性が重体——お盆明けの水辺事故に注意",
-        "くまモン、熊本の避難所に登場——3週間ぶりの活動再開で被災者を励ます",
-        "CloudflareがAIエージェント専用の超軽量ブラウザ「Kitesurf」を発表",
-        "Zed開発チームが「Delta」発表——AIとの全対話・コード変更履歴をコンテキストとして保存・共有",
-        "AIエージェント「Manus」、Metaから独立へ——一部ユーザーデータを8月23日から削除",
-        "Introducing Claude Sonnet 5 — Most Agentic Sonnet Yet, Near Opus 4.8 Performance at Lower Cost",
-        "GitHub OAuth Apps Get Multiple Redirect URIs, Token Refresh, and Wildcard Matching",
-        "Claude System Prompts Now Public — Anthropic Releases Core Prompts for Claude.ai and Mobile Apps"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-18T20:00:00+09:00",
+  "last_run_at": "2026-08-19T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-19T00:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/18/2000000593/",
+        "https://www.itmedia.co.jp/news/article/2608/18/2000000600/",
+        "https://news.yahoo.co.jp/articles/d4370bc0dd9b3b0aec79afce8f838ee99e16b1d0",
+        "https://www.jiji.com/jc/article?k=2026081800822&g=int&m=rss",
+        "https://news.yahoo.co.jp/articles/605be76f0ec12f1a0698b9322a9e3e044a12848c",
+        "https://zenn.dev/aws_japan/articles/2b62886aa8735e",
+        "https://zenn.dev/coji/articles/artifact-share-release",
+        "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000544/",
+        "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
+        "https://www.publickey1.jp/blog/26/zeddeltaai.html",
+        "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962"
+      ],
+      "titles": [
+        "エアコン「2027年問題」——省エネ基準厳格化を前に中国勢が価格攻勢",
+        "生成AIで巧妙化するデマ——熊本地震で露見した「AI特有の新手法」",
+        "熊本地震で工場煙突が倒壊——国が全国の煙突の耐震性を緊急調査へ",
+        "米韓合同演習を大幅短縮——トランプ氏の指示で防衛作戦のみ実施",
+        "トランプ氏、米朝首脳会談に含み——北朝鮮との対話再開を示唆",
+        "AIエージェントの「認可疲れ」を解消する——OBOトークン交換の理論と実装",
+        "AIが生成したHTMLを社内共有する基盤「Artifact Share」をリリース",
+        "「純国産AI」より「AI主権」——さくらとSakana AIが示すソブリンAIの現実解",
+        "Cloudflare Launches Kitesurf — An AI-Native Headless Browser Built in Rust on Workers",
+        "Zed Announces Delta — A Multiplayer Platform to Preserve Every AI-Human Development Dialogue",
+        "Google Buys Bankrupt Spirit Airlines' Data for $10M — 100M Emails and 500M Teams Messages for AI Training"
+      ]
+    },
     {
       "run_at": "2026-08-18T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "The AI Credit Resale Economy — Shadow Markets Where Brokers Flip API Tokens at 30–80% Discount",
         "GitHub Copilot Weekly Releases (Aug 10) — Kimi K3, MAI-Code-1.1-Flash, Agent Plugins 1.0, and Major CLI/App Upgrades",
         "Dario Amodei: Only Actually Curing Cancer Will Restore Trust in AI — The Case Against Marketing Your Way to Credibility"
-      ]
-    },
-    {
-      "run_at": "2026-08-17T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592056?source=rss",
-        "https://www.jiji.com/jc/article?k=2026081700240&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6592059?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592030?source=rss",
-        "https://www.jiji.com/jc/article?k=2026081600204&g=pol&m=rss",
-        "https://zenn.dev/chisatom/articles/597d4985fc9a73",
-        "https://zenn.dev/is0383kk/articles/f096c3d3c302ca",
-        "https://www.itmedia.co.jp/news/article/2608/17/2000000557/",
-        "https://www.anthropic.com/engineering/how-we-contain-claude",
-        "https://huggingface.co/blog/tngtech/sleeper-agents-and-how-to-tame-them",
-        "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot"
-      ],
-      "titles": [
-        "千葉豪雨の行方不明者、遺体で発見——捜索は続く",
-        "ハリケーン「ララ」がハワイを直撃——20万超世帯で停電",
-        "コンゴでエボラ出血熱が再拡大——感染者の約半数が死亡",
-        "キャッシュレス決済の普及に地域格差——地方では現金文化が根強く",
-        "野党3党合流の協議が難航——小川代表が正念場、8月末の期限迫る",
-        "長時間稼働AIエージェントの2大外乱——コンパクションとモデル更新に備える設計論",
-        "SIerのウォーターフォール開発をスキル化——AI駆動開発に対応した再構成の実装編",
-        "Hugging Face分析：中国オープンモデルの躍進——Qwenの派生モデルが15万件超",
-        "How Anthropic Contains Claude Across Products — Security Architecture for Agentic Deployments",
-        "Sleeper Agents and How to Tame Them — Researchers Train a Backdoored LLM Using GRPO in One Day",
-        "Grok 4.6 Now Available in GitHub Copilot — xAI's Agent-Optimized Model Joins the Copilot Roster"
       ]
     }
   ]

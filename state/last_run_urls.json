@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-19T20:00:00+09:00",
+  "last_run_at": "2026-08-20T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-20T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592335?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592327?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/19/2000000632/",
+        "https://www.itmedia.co.jp/news/article/2608/19/2000000631/",
+        "https://www.itmedia.co.jp/news/article/2608/19/2000000625/",
+        "https://zenn.dev/green_tea/articles/a994964786cb4f",
+        "https://zenn.dev/xtm_blog/articles/b9993fe1d72b17",
+        "https://zenn.dev/moshjp/articles/39972d023f0440",
+        "https://www.anthropic.com/news/claude-opus-5",
+        "https://www.cerebras.ai/cs4",
+        "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html"
+      ],
+      "titles": [
+        "JR九州の熊本地震被害額、2016年を超える恐れ——九州新幹線の復旧に長期化の見通し",
+        "宮崎・病院駐車場で車が患者の列に突入——70代女性が死亡、高齢ドライバー事故が再び焦点に",
+        "立憲民主党員が生成AI画像で架空女性になりすまし政治投稿——Xアカウントは凍結",
+        "香川の私鉄「ことでん」、券売機をほぼ廃止——地方鉄道初のWebアプリ型デジタル切符に移行",
+        "学生向けPC販売サイトに不正アクセス——16万5千人の個人情報が漏えい、明大など多数の大学に影響",
+        "Claude Codeに「見せない」技術——機密データを5層防御でAIから隔離する実践アーキテクチャ",
+        "YAML 1枚で開発エージェントチームを立ち上げる——「Docker Agent」が実現するサンドボックス付き自律開発基盤",
+        "コーディングエージェントのUI品質をデザインシステムで底上げする——Storybook・Linter・Agent Skillの三位一体アプローチ",
+        "Anthropic Launches Claude Opus 5 — Frontier Intelligence at Half the Cost of Fable 5",
+        "Cerebras CS-4 Delivers 30× Faster AI Inference Than GPUs — Wafer-Scale Architecture Hits 1,000+ Tokens/sec on Trillion-Parameter Models",
+        "Docker VMM Enters Public Beta — A First-Party Hypervisor for Containers Promising Faster I/O and Returns Idle Memory to the Host"
+      ]
+    },
     {
       "run_at": "2026-08-19T20:00:00+09:00",
       "urls": [
@@ -202,122 +231,6 @@
         "Agent Plugins 1.0 Is Now Open Standard Across GitHub Copilot, VS Code, Cursor, and ChatGPT",
         "GPT-5.6 Sol Pricing Slashed 50% on OpenRouter — AI API Cost Landscape Shifts Again",
         "Israel Reportedly Created a Fake Think Tank to Feed Disinformation Into AI Chatbots"
-      ]
-    },
-    {
-      "run_at": "2026-08-18T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592125?source=rss",
-        "https://www.jiji.com/jc/article?k=2026081800154&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081800122&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081800145&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081800158&g=int&m=rss",
-        "https://zenn.dev/bamboo_nova/articles/ee2fbc5daf4f45",
-        "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000575/",
-        "https://zenn.dev/dev_commune/articles/acb91817341f8f",
-        "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
-        "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-        "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
-      ],
-      "titles": [
-        "18日九州や山陰など35℃超 対策を",
-        "正恩氏との「対話」言及　トランプ氏、韓国に改めて不満",
-        "日本大使は「18日出頭」　北方領土訪問抗議で―ロシア外務省",
-        "ヘイデン・パネッティーアさん死去　米ドラマ「ヒーローズ」俳優、36歳",
-        "米30年債利回り、19年ぶり高水準　原油高や日本の金利上昇波及",
-        "Claude Code の hook で作る「書いたら直る」ループ — 日本語明晰化プラグインを題材に",
-        "Cursor、コードホスティング機能「Origin」の初期βを提供開始　GitHubとの双方向同期に対応",
-        "Webサービスのスクショ付きガイドブックをPlaywright + LLMで自動生成・更新できるようにした",
-        "A Preview of DuckDB v2.0",
-        "Improving Fable 5's Biology Safeguards",
-        "AI;DR (AI; Didn't Read)"
-      ]
-    },
-    {
-      "run_at": "2026-08-18T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592117?source=rss",
-        "https://www.jiji.com/jc/article?k=2026081700678&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081700139&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/17/2000000570/",
-        "https://www.itmedia.co.jp/news/article/2608/17/2000000569/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000533/",
-        "https://zenn.dev/aun_phonogram/articles/3f8c1a7b5d902e",
-        "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-        "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/"
-      ],
-      "titles": [
-        "豪雨で車が浸水 金銭負担が心配",
-        "福岡県議会議長が辞意　金銭授受疑惑、勧告案は採決されず",
-        "イスラエル首相やハマス指導者と会談　ガザ工程表で調整―トランプ氏娘婿",
-        "中国のCGアニメ「牛来」、\"AI生成よりひどい\"と話題で逆にヒット　興収は一気に350倍以上に",
-        "縦読み漫画アプリ「comico」サービス終了へ　13年の歴史に幕",
-        "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に　Mac版デスクトップアプリで提供",
-        "中国DeepSeek、API料金を「最大12倍」に値上げ　ピーク時価格も導入　8月17日から",
-        "Codexを効率よく使う方法（ChatGPT + GitHub）",
-        "AI-Generated GitHub Copilot Autofix Allowed Compromise of Snowflake's Jira",
-        "Amazon Is Destroying Rare Books to Train AI Models",
-        "Qwen3.8-27B Released Under Apache 2.0 — Open Weights Model Matches Claude Opus 4.6 on Some Benchmarks"
-      ]
-    },
-    {
-      "run_at": "2026-08-18T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592118?source=rss",
-        "https://www.jiji.com/jc/article?k=2026081700912&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081700886&g=spo&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/17/2000000563/",
-        "https://news.yahoo.co.jp/pickup/6592116?source=rss",
-        "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
-        "https://www.publickey1.jp/blog/26/pythonmojo10.html",
-        "https://zenn.dev/hako_hako/books/nexus-product-new-development",
-        "https://blog.roboflow.com/openai-gpt-5-6/",
-        "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-        "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot"
-      ],
-      "titles": [
-        "熊本地震3週間「関連死」防ぐには",
-        "ロシア外相、北方領土訪問への抗議受け日本大使に出頭要請",
-        "渡辺元智さん死去81歳 横浜高元監督 甲子園5回制覇",
-        "さくらのレンタルサーバに不正アクセス583アカウントで個人情報漏えいのおそれ",
-        "東急世田谷線で踏切が開いたまま電車通過——安全装置の誤作動か",
-        "VS Code 1.133リリース ClaudeとCopilotの混在利用が可能に プロンプト固定スクロールも追加",
-        "Mojo言語バージョン1.0到達 AI時代のシステム言語 コンパイラもOSS化へ",
-        "AIエージェントとともに進めるソフトウェア開発——Claude Codeで製品開発の全工程を担わせる実践事例",
-        "GPT-5.6 Sol Is OpenAI's Best Vision Model Yet — Detection Performance Jumps 3× for Agentic Use Cases",
-        "Daring Fireball: Anthropic's Text Watermark Is a Perversion of Writing — Word Choices Degraded for Detection",
-        "Gemini 3.7 Flash Now in GitHub Copilot — Google's Fast Model Joins the Multi-Model Roster"
-      ]
-    },
-    {
-      "run_at": "2026-08-17T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592098?source=rss",
-        "https://www.jiji.com/jc/article?k=2026081700763&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081700547&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/17/2000000568/",
-        "https://www.jiji.com/jc/article?k=2026081700684&g=soc&m=rss",
-        "https://zenn.dev/aws_japan/articles/agentcore-async-long-running-patterns",
-        "https://zenn.dev/mm_ai/articles/codex-agent-orchestration",
-        "https://zenn.dev/yamada_ai_dev/articles/review-harness-not-run",
-        "https://vectoral.com/blog/who-are-the-token-brokers",
-        "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
-        "https://simonwillison.net/2026/Aug/16/dario-amodei/"
-      ],
-      "titles": [
-        "熊本地震被災地へ月内に支援パッケージ——政府が復旧加速へ",
-        "高市首相が病院に6時間滞在——「手などの検査」と官邸説明",
-        "江戸の古書から髪を採取し食生活を解明——龍谷大など、当時の食文化を科学的に再現",
-        "楽天、撃墜ドローン開発の独ヘルシングと提携——防衛省への納入支援へ",
-        "生成AIで駐車標章を偽造——「駐車代を浮かしたかった」男を書類送検",
-        "Amazon Bedrock AgentCore Runtimeで実現する非同期・長期実行エージェント——HealthyBusy制御とタイムアウト設計の実装論",
-        "CodexのマルチエージェントV2を試す——並列実行でトークン削減、モデル分担設計の実践レポート",
-        "レビュー機構を作ったのに、自分の成果物に回さなかった——Claude Codeによる自動レビュー設計の落とし穴",
-        "The AI Credit Resale Economy — Shadow Markets Where Brokers Flip API Tokens at 30–80% Discount",
-        "GitHub Copilot Weekly Releases (Aug 10) — Kimi K3, MAI-Code-1.1-Flash, Agent Plugins 1.0, and Major CLI/App Upgrades",
-        "Dario Amodei: Only Actually Curing Cancer Will Restore Trust in AI — The Case Against Marketing Your Way to Credibility"
       ]
     }
   ]

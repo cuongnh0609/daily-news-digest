@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-20T00:00:00+09:00",
+  "last_run_at": "2026-08-20T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-20T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592341?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592328?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592327?source=rss",
+        "https://www.jiji.com/jc/article?k=2026081901065&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026081901110&g=int&m=rss",
+        "https://zenn.dev/finatext/articles/0d1e6dd99ec34d",
+        "https://zenn.dev/bamboo_nova/articles/ee2fbc5daf4f45",
+        "https://zenn.dev/dev_commune/articles/acb91817341f8f",
+        "https://ornith.ai/ornith_1_5.html",
+        "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+        "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/"
+      ],
+      "titles": [
+        "千葉市の豪雨被害、幹線道路の放置車両の撤去が完了——復旧作業が本格化",
+        "立憲系落選議員らが新政治団体「ゴリラ」を設立——衆参16人が参加意向を表明",
+        "宮崎の病院駐車場で車が患者の列に突入、70代女性が死亡——高齢ドライバー事故が再び問題に",
+        "厚生労働省、時間外労働の上限を月45時間に明文化——新ガイドラインで「働き方改革」を加速",
+        "米国のICC所長制裁に日本政府が「遺憾」を表明——国際社会との連携姿勢を鮮明に",
+        "DMARCレポートをClaude Codeで解析しp=rejectへ到達——フィナテキストが3000件の認証失敗を自動分類した実践記録",
+        "Claude Codeのhookで「書いたら直る」自動フィードバックループを構築——日本語明晰化を題材にした実装パターン",
+        "PlaywrightとLLMでWebサービスのスクショ付きガイドブックを自動生成・更新——ドキュメント陳腐化問題をAIで解決",
+        "Ornith-1.5: AI Model That Writes Its Own Training Curriculum — Self-Scaffolding Reaches Claude Opus 4.8 Level",
+        "OpenRouter Joins Stripe — AI Model Marketplace Processing 10T Tokens/Day Acquired for Infrastructure Scale",
+        "Extensible Software in the Age of LLMs — The Case for AI-Generated User Extensions Running in Isolated Sandboxes"
+      ]
+    },
     {
       "run_at": "2026-08-20T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Discloses Three Real-World Security Incidents During Cybersecurity Evaluations",
         "Qwen 3.8 27B Scores 52 on Intelligence Index — Matches GPT-5.6 Luna Despite Being a Fraction of Its Size",
         "Stealing Reasoning Traces from Proprietary LLM APIs — Cross-Model Key Reuse Enabled Jailbreaks"
-      ]
-    },
-    {
-      "run_at": "2026-08-18T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592161",
-        "https://news.yahoo.co.jp/pickup/6592172",
-        "https://news.yahoo.co.jp/pickup/6592173",
-        "https://www.jiji.com/jc/article?k=2026081800435&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081800089&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
-        "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
-        "https://zenn.dev/dev_jp/articles/da537a095f13da",
-        "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-        "https://openrouter.ai/openai/gpt-5.6-sol",
-        "https://responsiblestatecraft.org/israel-influence-chatgpt/"
-      ],
-      "titles": [
-        "千葉豪雨、死者が11人に、市原市での新たな確認で増加続く",
-        "航空自衛隊F-15が那覇空港で緊急停止、B滑走路を一時閉鎖",
-        "フィットネス業界の倒産が過去最多ペース、前払い会員への返金リスクが拡大",
-        "大谷翔平、今季2度目の1試合2本塁打——通算29号で30本塁打まであと1本",
-        "護衛艦「もがみ型」の輸出で日豪防衛相が連携を確認、防衛協力が新段階へ",
-        "AIエージェント同士が\"縄張り争い\"、マルウェアまで作成——AnthropicがマルチエージェントAI実験の結果を公開",
-        "「Agent Plugins 1.0.0」発表——AWS・Microsoft・OpenAI・Googleが支援する業界標準でMCPとスキルが共通化",
-        "お金がないけどAIコーディングしたい——スペック駆動+BDD+テスト駆動でトークン節約しながら開発する実践法",
-        "Agent Plugins 1.0 Is Now Open Standard Across GitHub Copilot, VS Code, Cursor, and ChatGPT",
-        "GPT-5.6 Sol Pricing Slashed 50% on OpenRouter — AI API Cost Landscape Shifts Again",
-        "Israel Reportedly Created a Fake Think Tank to Feed Disinformation Into AI Chatbots"
       ]
     }
   ]

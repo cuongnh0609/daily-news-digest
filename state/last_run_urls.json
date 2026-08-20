@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-21T00:00:00+09:00",
+  "last_run_at": "2026-08-21T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-21T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592465?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592472?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592466?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/20/2000000664/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000627/",
+        "https://zenn.dev/aishift/articles/78612006a494ca",
+        "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000626/",
+        "https://www.publickey1.jp/blog/26/fluter_347uiwebassembly.html",
+        "https://www.anthropic.com/news/claude-text-watermark",
+        "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+        "https://cursor.com/blog/git-at-any-scale"
+      ],
+      "titles": [
+        "東武日光線で作業員4人が特急列車に接触し死亡——見張りの「退避完了」合図直後に惨事",
+        "鳥取・大山でパンと鶏レバーが約40kgも不法投棄——専門家が「クマ誘引」の意図を警戒",
+        "東京都「Tokyo Map」公開——防災・暑さ対策・Wi-Fiを重ねて表示できる統合型地図サービス",
+        "タクシー大手エムケイ、EV充電設備にバナジウムイオン電池を国内初導入——発火リスク低・電気代も削減",
+        "ChatGPTの反論で「道徳的判断」の3割超が覆ることを神戸大が実証——高齢者ほど説得されやすい傾向",
+        "YANS2026参加報告——LLM評価・マルチモーダル・AIエージェント評価が研究の三本柱に浮上",
+        "国立情報学研究所、国産オープンLLM「LLM-jp-4 33B」を公開——Dense型・Apache 2.0・全評価で前バージョンを上回る",
+        "Flutter 3.47正式リリース——UIライブラリが独立パッケージ化、WebAssemblyがデフォルトに向けた大型アップデート",
+        "Anthropic Deploys SynthID-Text Watermarking Across All Claude Outputs — EU AI Act Compliance, Zero Latency Overhead",
+        "GitHub's 7-Hour, 47-Minute Outage on August 17: Infrastructure Scaling Failure Cascades Into Authentication Collapse",
+        "Cursor's \"Continuity\" Architecture: How to Host Git at Petabyte Scale Using S3 as Source of Truth"
+      ]
+    },
     {
       "run_at": "2026-08-21T00:00:00+09:00",
       "urls": [

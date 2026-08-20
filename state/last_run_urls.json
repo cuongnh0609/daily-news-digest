@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-20T05:00:00+09:00",
+  "last_run_at": "2026-08-20T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-20T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592366?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592358?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592359?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592362?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/20/2000000634/",
+        "https://zenn.dev/tsukulink/articles/2026-08-workspace-studio-support-bot",
+        "https://zenn.dev/aun_phonogram/articles/3f8c1a7b5d902e",
+        "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000638/",
+        "https://fx.sh",
+        "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+        "https://github.com/anthropics/claude-code/issues/6235"
+      ],
+      "titles": [
+        "厚労省、残業指導を「月45時間一律」から「健康確保」重視の柔軟方針へ転換",
+        "ウクライナ軍、鹵獲したロシア製ドローンを研究・改良——暗闇を突く無人機作戦が加速",
+        "赤穂市、非正規職員130人を雇い止めへ——財政難を理由に来年3月末で契約打ち切り",
+        "ヘンリー王子夫妻、英国への拠点移転を計画——子どもたちは9月から英国で就学へ",
+        "Google、大学生向けに「Google AI Plus」を1年間無料提供——Geminiアプリに学習特化機能も追加",
+        "Google Workspace StudioとGemini Notebookで社内問い合わせBot構築——ノーコードで非エンジニアも引き継ぎ可能な設計",
+        "ChatGPTとCodexのクォータを役割分担——調査・計画はChatGPT、実装はCodexで効率最大化",
+        "OpenAI、ZDRを維持したまま悪用パターンを検知——「Private Safety Processing」で暗号化シグナルのみ分析",
+        "fx: Vercel Labs Releases a Tiny Native Coding Agent Written in Zig — 6 MB, Microsecond Cold Starts, WebAssembly-Ready",
+        "smolmachines/smolvm: Firecracker-Based Hardware-Isolated Sandbox for Untrusted Python and JavaScript Code",
+        "AGENTS.md Spec Gains Traction — GitHub Issue Requests Official Claude Code Support for Agent Specification Files"
+      ]
+    },
     {
       "run_at": "2026-08-20T05:00:00+09:00",
       "urls": [

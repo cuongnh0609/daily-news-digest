@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-20T15:00:00+09:00",
+  "last_run_at": "2026-08-20T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-20T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592438?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592424?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/20/2000000661/",
+        "https://www.itmedia.co.jp/news/article/2608/20/2000000657/",
+        "https://www.itmedia.co.jp/news/article/2608/20/2000000654/",
+        "https://zenn.dev/ito/articles/6b042aa27d65bc",
+        "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
+        "https://www.itmedia.co.jp/enterprise/articles/2608/20/news022.html",
+        "https://github.com/onecli/onecli",
+        "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+        "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends"
+      ],
+      "titles": [
+        "北朝鮮、約10発のミサイルを発射——韓国軍が確認、日本海への落下を想定",
+        "クールジャパン機構、廃止へ——経産省が方針決定、官民連携の「失敗例」として総括",
+        "JAXA、火星衛星探査機「MMX」を10月に打ち上げ——フォボスの試料回収を目指す世界初ミッション",
+        "大阪万博の関係者情報が漏えいか——再委託先のMicrosoft 365に不正アクセス",
+        "楽天、攻撃型ドローン販売報道に「事実と相違ない」と認める——国内販売窓口として導入支援",
+        "AIエージェントはなぜテストを握り潰すのか——報酬エンジニアリングで「本当の品質」を引き出す",
+        "VS Code 1.133正式リリース——ClaudeとCopilotの混在、プロンプト固定スクロール、HTML自動リロードを追加",
+        "AIコストの逆説——モデル料金は下がるのに総コストが上昇する「AIコスト・パラドクス」の構造",
+        "OneCLI (YC S26): Open-Source Sandboxed Agent Harness for Teams — Per-Employee Agents with Centralized Policy",
+        "Unsloth Dynamic 3.0 GGUFs: Smarter Quantization for Agentic and Multilingual LLM Workloads",
+        "GitHub Launches Organization-Level Code Quality Trend Tracking — Dashboard for Security Debt and Test Coverage"
+      ]
+    },
     {
       "run_at": "2026-08-20T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "TurboVec: Rust-Based Vector Index Beats FAISS by 3.4× — TurboQuant Compression Fits 10M Docs in 4 GB",
         "DDR5 Memory Prices Climb 500% in 12 Months — 128 GB Kit Now $3,399, 10× the All-Time Low",
         "Simon Willison Adds MP4 Export to Markdown-SVG Renderer — Animated SVGs Now Convertible to Video via ffmpeg.wasm"
-      ]
-    },
-    {
-      "run_at": "2026-08-19T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592250?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592247?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/19/2000000606/",
-        "https://www.itmedia.co.jp/news/article/2608/19/2000000588/",
-        "https://www.itmedia.co.jp/news/article/2608/19/2000000583/",
-        "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
-        "https://www.publickey1.jp/blog/26/dockerfileocicloud_native_buildpackscncf.html",
-        "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000560/",
-        "https://www.itmedia.co.jp/news/article/2608/19/2000000605/",
-        "https://cursor.com/changelog/origin-code-hosting",
-        "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/"
-      ],
-      "titles": [
-        "日経平均株価、一時2100円超の急落——中東情勢と長期金利上昇が重なり売り殺到",
-        "泊原発構内でサイロから作業員が転落死——北海道電力が再稼働準備中に安全管理が問われる",
-        "OpenAIが「ChatGPT for Teens」を発表——宿題丸投げ検知と自傷・摂食障害保護機能を搭載",
-        "電動キックボード事故、脳損傷リスクはバイクの3.45倍——英国研究でヘルメット着用率わずか5.9%",
-        "「害悪すぎる」と批判殺到——AIが自動でかける営業電話が消費者の強い反感を招く",
-        "CursorがAIエージェント時代向けGitホスティング「Origin」を発表——GitHubの代替インフラ構築へ",
-        "Dockerfileなしでコンテナをビルド——「Cloud Native Buildpacks」がCNCF卒業プロジェクトに昇格",
-        "注目職種「FDE」の実像——OpenAI現役2人が語るForward Deployed Engineerの仕事",
-        "OpenAI Pauses Frontier AI Reinforcement Learning — Safety Overhaul After Hugging Face Breach and Astra Cybercapability Concerns",
-        "Cursor Launches Origin — An Agent-Native Git Forge to Replace GitHub for Agentic Workflows",
-        "Mojo🔥 Goes Apache 2.0 Open Source — GPU-Native Language Finally Delivers on 2023 Promise"
-      ]
-    },
-    {
-      "run_at": "2026-08-19T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592227?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/18/2000000596/",
-        "https://www.itmedia.co.jp/news/article/2608/18/2000000587/",
-        "https://www.jiji.com/jc/article?k=2026081900071&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081800566&g=int&m=rss",
-        "https://www.publickey1.jp/blog/26/googleaiheirai.html",
-        "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000441/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000571/",
-        "https://www.anthropic.com/news/claude-text-watermark",
-        "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-        "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot"
-      ],
-      "titles": [
-        "群馬で沢登り中の女性、行方不明から8日ぶりに救助——鉄砲水に流され山中で生存",
-        "通販生活、楽天市場から撤退——ヘルシング提携報道を受け「企業理念に反する」と判断",
-        "災害便乗「〇〇Pay詐欺」に国民生活センターが注意喚起——熊本地震被災者を狙う新手口",
-        "米、ICC赤根所長に制裁を発動——国際刑事裁判所の独立性めぐり国際社会が反発",
-        "コロンビア地震から1週間——死者289人・負傷者4100人超、政治利用批判も浮上",
-        "GoogleがAIコンパイラ「HEIR」を発表——完全準同型暗号でデータを復号せずAI推論が可能に",
-        "PFNが「国産AI」をゼロから開発する理由——フルスクラッチの利点と国家安全保障への意識",
-        "マネーフォワードがAIトークン管理サービスを無料提供開始——ChatGPT・Claude等の利用量・コストを一元管理",
-        "How Claude's Invisible Text Watermark Works — Anthropic Explains the SynthID-Text Implementation",
-        "Claude Code Weekly Limit Promotion Ends Today — Pro/Max/Team Users Revert to Standard Limits After Aug 19",
-        "Grok 4.6 Arrives in GitHub Copilot — xAI's Reasoning Model Targets Long-Horizon Agentic Coding Tasks"
-      ]
-    },
-    {
-      "run_at": "2026-08-19T00:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2608/18/2000000593/",
-        "https://www.itmedia.co.jp/news/article/2608/18/2000000600/",
-        "https://news.yahoo.co.jp/articles/d4370bc0dd9b3b0aec79afce8f838ee99e16b1d0",
-        "https://www.jiji.com/jc/article?k=2026081800822&g=int&m=rss",
-        "https://news.yahoo.co.jp/articles/605be76f0ec12f1a0698b9322a9e3e044a12848c",
-        "https://zenn.dev/aws_japan/articles/2b62886aa8735e",
-        "https://zenn.dev/coji/articles/artifact-share-release",
-        "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000544/",
-        "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
-        "https://www.publickey1.jp/blog/26/zeddeltaai.html",
-        "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962"
-      ],
-      "titles": [
-        "エアコン「2027年問題」——省エネ基準厳格化を前に中国勢が価格攻勢",
-        "生成AIで巧妙化するデマ——熊本地震で露見した「AI特有の新手法」",
-        "熊本地震で工場煙突が倒壊——国が全国の煙突の耐震性を緊急調査へ",
-        "米韓合同演習を大幅短縮——トランプ氏の指示で防衛作戦のみ実施",
-        "トランプ氏、米朝首脳会談に含み——北朝鮮との対話再開を示唆",
-        "AIエージェントの「認可疲れ」を解消する——OBOトークン交換の理論と実装",
-        "AIが生成したHTMLを社内共有する基盤「Artifact Share」をリリース",
-        "「純国産AI」より「AI主権」——さくらとSakana AIが示すソブリンAIの現実解",
-        "Cloudflare Launches Kitesurf — An AI-Native Headless Browser Built in Rust on Workers",
-        "Zed Announces Delta — A Multiplayer Platform to Preserve Every AI-Human Development Dialogue",
-        "Google Buys Bankrupt Spirit Airlines' Data for $10M — 100M Emails and 500M Teams Messages for AI Training"
       ]
     }
   ]

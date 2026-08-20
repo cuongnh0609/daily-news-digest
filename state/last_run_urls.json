@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-20T20:00:00+09:00",
+  "last_run_at": "2026-08-21T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-21T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592469?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592471?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592470?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592460?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592439?source=rss",
+        "https://zenn.dev/yujif/articles/90696ac3f098e2",
+        "https://zenn.dev/mizchi/articles/quint-application-modeling",
+        "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
+        "https://arxiv.org/abs/2608.00146",
+        "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+        "https://franciscotrindade.me/blog/the-kids-are-really-alright/"
+      ],
+      "titles": [
+        "総務省、赤字続く郵便事業の縮小を視野に検討開始——ポスト削減・配達回数引き下げも選択肢に",
+        "2026年産新米、前年比で大幅値下がりの見通し——JAの概算金が相次いで決定",
+        "中国、沖縄の帰属を巡り「疑義」提示——高市首相の台湾発言や日比海洋交渉が背景に",
+        "千葉豪雨、農業被害が約19億円に——発生から1週間、「農業県」への深刻な打撃が明らかに",
+        "富士山6合目で1人でいた7歳を救助——保護者と離れ迷子状態、安全確認後に引き渡し",
+        "首掛け型ウェアラブル THINKLET と OpenAI Realtime API で「目の前を一緒に見ながら相談できる相方」AIエージェントを構築",
+        "時相論理の形式仕様言語「Quint」で denoland/celld の二重 writer バグを発見——Spec-Driven なバグハント実践",
+        "AIエージェント時代のGitホスティング「Origin」をCursorが発表——コマンドライン操作・GitHub同期・Cursor統合をセットで提供",
+        "DiffusionGemma: Google's Diffusion-Based Language Model Matches Autoregressive Quality While Enabling Parallel Token Generation",
+        "Malicious Rust Crate \"arrayref\" Distributes Build-Time Payload via Typosquatted proc-macro1 — Supply Chain Attack Hits Rust Ecosystem",
+        "AI Didn't Erase the Junior Engineer's Value — It Increased It: The Case for Human Judgment in the Age of Coding Agents"
+      ]
+    },
     {
       "run_at": "2026-08-20T20:00:00+09:00",
       "urls": [
@@ -76,7 +105,7 @@
       ],
       "titles": [
         "厚労省、残業指導を「月45時間一律」から「健康確保」重視の柔軟方針へ転換",
-        "ウクライナ軍、鹵獲したロシア製ドローンを研究・改良——暗闇を突く無人機作戦が加速",
+        "ウクライナ軍、鹵獲したロシア製ドローンを研究・改良——暗闘を突く無人機作戦が加速",
         "赤穂市、非正規職員130人を雇い止めへ——財政難を理由に来年3月末で契約打ち切り",
         "ヘンリー王子夫妻、英国への拠点移転を計画——子どもたちは9月から英国で就学へ",
         "Google、大学生向けに「Google AI Plus」を1年間無料提供——Geminiアプリに学習特化機能も追加",

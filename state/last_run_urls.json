@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-22T00:00:00+09:00",
+  "last_run_at": "2026-08-22T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-22T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592589?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/20/2000000643/",
+        "https://www.itmedia.co.jp/news/article/2608/21/2000000682/",
+        "https://www.itmedia.co.jp/news/article/2608/19/2000000629/",
+        "https://news.yahoo.co.jp/pickup/6592572?source=rss",
+        "https://zenn.dev/green_tea/articles/a994964786cb4f",
+        "https://zenn.dev/dev_commune/articles/acb91817341f8f",
+        "https://www.publickey1.jp/blog/26/dockerfileocicloud_native_buildpackscncf.html",
+        "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+        "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+        "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/"
+      ],
+      "titles": [
+        "埼玉で1時間100ミリ超の猛烈な雨——道路が冠水し車水没の通報が相次ぐ",
+        "中国動画「bilibili」がグローバル版アプリを公開——日本でもAndroidから配信開始",
+        "SNSの偽画像を見破るAI企業「Spectee」——熊本県庁やテレビ局も採用する危機情報システム",
+        "さくらインターネット、別システムでも不正アクセス——136万アカウントの情報漏えいの恐れ",
+        "「睡眠美容」クリニックに専門家が警鐘——向精神薬の処方で依存リスクも",
+        "Claude Codeに見せない技術——機密データを扱いつつAIに入力できない情報を安全に分析する5層設計",
+        "PlaywrightとLLMでWebサービスの操作ガイドブックを自動生成——スクショ付き手順書が常に最新に",
+        "Cloud Native BuildpacksがCNCFの卒業プロジェクトに昇格——Dockerfileなしで本番対応コンテナを自動ビルド",
+        "Building an Almost Fully Self-Hosted, Sandboxed Agentic Software Factory",
+        "GitHub Copilot Comes to Slack — Agentic Coding Sessions Directly in Team Chat",
+        "smolvm 1.8.3: Hardware-Isolated Sandbox for Running Untrusted Python and JavaScript — 50ms Warm Execution"
+      ]
+    },
     {
       "run_at": "2026-08-22T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "OneCLI (YC S26): Open-Source Sandboxed Agent Harness for Teams — Per-Employee Agents with Centralized Policy",
         "Unsloth Dynamic 3.0 GGUFs: Smarter Quantization for Agentic and Multilingual LLM Workloads",
         "GitHub Launches Organization-Level Code Quality Trend Tracking — Dashboard for Security Debt and Test Coverage"
-      ]
-    },
-    {
-      "run_at": "2026-08-20T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/articles/9296b510d3114f7a5820bc9ec76a5250a286532e",
-        "https://news.yahoo.co.jp/articles/2bb97c897e48481b23874947fbe9f9e4c61e5c00",
-        "https://news.yahoo.co.jp/articles/ea406bf9307f915724d9953f1164c63fc63057ec",
-        "https://www.jiji.com/jc/article?k=2026081900946&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/20/2000000582/",
-        "https://zenn.dev/pksha/articles/e5c8f9b2a41d73",
-        "https://monoist.itmedia.co.jp/mn/articles/2608/20/news021.html",
-        "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000641/",
-        "https://www.itmedia.co.jp/news/article/2608/20/2000000639/",
-        "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
-        "https://www.itmedia.co.jp/news/article/2608/20/2000000640/"
-      ],
-      "titles": [
-        "台風18号（ソウデル）が発達しながら北上——週明けにも「非常に強い勢力」で日本に接近か",
-        "熊本イオンモール爆発事故——外部委員会が設置され安全対策の本格調査が始動",
-        "成田空港Aルートが一時閉鎖——マレーシア機エンジントラブルで着陸後に誘導路で停止",
-        "最低賃金、17県で目安額を上回る引き上げ——上乗せ幅は縮小傾向、地域間競争が緩和へ",
-        "日本とカナダの宇宙産業協力——ispaceとMHIが国産ロケットで月輸送の産業化を目指す",
-        "デザイナーがCursorでデザインシステムをハンドコーディング——AI駆動開発の「教育的」活用で3週間22コンポーネントを実現",
-        "PTCがCADプラットフォーム「Onshape」にMCPサーバーを統合——自然言語でFeatureScriptコードを生成し設計者の敷居を下げる",
-        "日本のAI活用、生産性向上を実感は世界平均より24ポイント低い57%——アクセンチュア調査が示す「AI格差」の実態",
-        "Stripe Acquires OpenRouter for ~$7.5B — AI Model Gateway Processing 10 Trillion Tokens/Day Becomes Core Payment Infrastructure",
-        "Coding Agents and Conceptual Integrity: The Winchester Mystery House Problem — Simon Willison on the Hidden Cost of Agentic Development",
-        "Amazon Prime Air Expands to 500 US Cities — Sixfold Scale-Up Targets 30-Minute Drone Delivery for Tens of Millions"
       ]
     }
   ]

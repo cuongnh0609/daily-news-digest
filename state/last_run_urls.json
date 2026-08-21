@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-21T05:00:00+09:00",
+  "last_run_at": "2026-08-21T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-21T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/649554be626368bb642939d14cb8567fd1810d2e",
+        "https://news.yahoo.co.jp/articles/6cd40664861897ca78371806d5fd6f038515465a",
+        "https://www.jiji.com/jc/article?k=2026082000651&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082000660&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/21/2000000669/",
+        "https://zenn.dev/mkj/articles/aad5698672aef3",
+        "https://www.itmedia.co.jp/news/article/2608/21/2000000667/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000666/",
+        "https://www.danielvaughn.dev/posts/huzzah/",
+        "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+        "https://www.publickey1.jp/blog/26/pythonmojowindows.html"
+      ],
+      "titles": [
+        "台風18号（ソウデル）が沖縄本島に接近へ——中心気圧925hPa・最大瞬間風速70m/s予想",
+        "千葉豪雨の住宅浸水被害が3500軒超に拡大——知事が現地視察、車両撤去も完了",
+        "北朝鮮・金与正氏が「日本をせん滅する」と威嚇——ロシアは北方領土周辺でミサイル演習",
+        "非核三原則の「持ち込ませず」見直し論議——有識者が語る課題と論点",
+        "macOS版ChatGPTがApple「メッセージ」と連携——会話検索・下書き・送信に対応",
+        "AI Agentに社内知識をオンボーディングする——SkillsとEvalの設計で正答率96%を達成",
+        "SlackがAIコーディングエージェントとの協働プラットフォーム「Slack Code」を発表——Claude・Devin・Copilotに対応",
+        "「Fable禁止」で仕事が止まった日本企業——脱・単一AIモデル依存の戦略とは",
+        "Huzzah: A Pseudocode-First AI Coding Paradigm — Persistent Intent Files Replace Imperative Prompts",
+        "ChatGPT Search Now Routes 16–17% of Queries Through site: Operator After GPT-5.6 Sol Update",
+        "Mojo Language Goes Open Source Under Apache 2.0 — Compiler, Toolchain, and MAX Library Released at ModCon 2026"
+      ]
+    },
     {
       "run_at": "2026-08-21T05:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Anthropic Launches Claude Opus 5 — Frontier Intelligence at Half the Cost of Fable 5",
         "Cerebras CS-4 Delivers 30× Faster AI Inference Than GPUs — Wafer-Scale Architecture Hits 1,000+ Tokens/sec on Trillion-Parameter Models",
         "Docker VMM Enters Public Beta — A First-Party Hypervisor for Containers Promising Faster I/O and Returns Idle Memory to the Host"
-      ]
-    },
-    {
-      "run_at": "2026-08-19T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592323",
-        "https://news.yahoo.co.jp/pickup/6592317",
-        "https://news.yahoo.co.jp/pickup/6592312",
-        "https://www.jiji.com/jc/article?k=2026081900678&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/19/2000000629/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000626/",
-        "https://zenn.dev/nrs/articles/b920540a64e1a1",
-        "https://zenn.dev/exwzd/articles/20260813-dogwood-agent-policy",
-        "https://linear.app/data",
-        "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-        "https://twitter.com/kuberwastaken/status/2089377982536388964"
-      ],
-      "titles": [
-        "20日、日本海側で大雨のおそれ——気象庁が警戒呼びかけ",
-        "7月の訪日外客が過去最多の344万人——インバウンド需要が加速",
-        "電車遅延競争で7人逮捕——意図的な遅延を競うSNSトレンドが問題に",
-        "踏切に車を置き電車と衝突させた疑い——埼玉で男を殺人未遂で逮捕",
-        "さくらインターネット、販売管理システムへの不正アクセスで最大136万アカウントの情報漏えい",
-        "国立情報学研究所がオープンソースの日本語LLM「LLM-jp-4 33B」を公開——全4評価でv3を上回る",
-        "ローカルLLMの組み合わせが単独フロンティアAIを超えた実例——レート制限と依存脱却の現実解",
-        "AWSのAIエージェント向け新ポリシー言語「Dogwood」を試す——ツール使用制御と時間ポリシーの実装",
-        "Linear's Data Report: AI Agents Now Author Half of All Issues — Dev Teams Triple PR Output",
-        "GitHub Copilot for JetBrains Gets Enterprise Managed Settings — MCP Server Access and Permission Modes Now Admin-Controlled",
-        "Claude Writes a macOS Printer Driver for an HP Windows-Only Device — Agentic AI Tackles Low-Level System Code"
-      ]
-    },
-    {
-      "run_at": "2026-08-19T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592272?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592284?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592280?source=rss",
-        "https://www.jiji.com/jc/article?k=2026081900275&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081900441&g=int&m=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000611/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news047.html",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news042.html",
-        "https://github.com/RyanCodrai/turbovec",
-        "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-        "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/"
-      ],
-      "titles": [
-        "女優・岸恵子さん、93歳で死去——「君の名は」「細雪」の名優、老衰により逝去",
-        "フードデリバリー「menu」が9月30日でサービス終了——競争激化でKDDI子会社が撤退",
-        "千葉豪雨で放置車2500台——所有者が名乗り出るか懸念、死者13人・浸水2300棟超",
-        "竹中工務店元所長を背任容疑で逮捕——大阪万博工事費を水増し請求、1369万円の損害",
-        "トランプ氏、カナダへの50%関税発動を3日間延期——文書最終確定を条件に合意",
-        "Claude Codeの週次制限枠50%増キャンペーンが8月31日まで延長——Anthropic「恒久化したいが容量が逼迫」",
-        "6割のエンジニアが「AI格差」を実感——AI活用スキルで仕事や評価に差が生まれている現実",
-        "JetBrainsが「原始人語でAIに指示するとトークン65%削減」を実測——実際は平均8.5%削減にとどまる",
-        "TurboVec: Rust-Based Vector Index Beats FAISS by 3.4× — TurboQuant Compression Fits 10M Docs in 4 GB",
-        "DDR5 Memory Prices Climb 500% in 12 Months — 128 GB Kit Now $3,399, 10× the All-Time Low",
-        "Simon Willison Adds MP4 Export to Markdown-SVG Renderer — Animated SVGs Now Convertible to Video via ffmpeg.wasm"
       ]
     }
   ]

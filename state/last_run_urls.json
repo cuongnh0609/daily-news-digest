@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-21T15:00:00+09:00",
+  "last_run_at": "2026-08-21T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-21T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026082100505&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082100314&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082100811&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6592556?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592574?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/21/2000000688/",
+        "https://www.publickey1.jp/blog/26/zeddeltaai.html",
+        "https://zenn.dev/exwzd/articles/20260813-dogwood-agent-policy",
+        "https://openrouter.ai/stealth/ox-alpha",
+        "https://www.itmedia.co.jp/news/article/2608/19/2000000605/",
+        "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/"
+      ],
+      "titles": [
+        "東武特急接触死亡事故、列車見張り員ら任意聴取——栃木県警が業務上過失致死で特捜班を設置",
+        "大阪パチンコ店放火5人殺害事件で死刑執行——高市政権下での初執行、法相が命令",
+        "内閣改造、9月中下旬で調整——木原官房長官の続投が有力視される",
+        "育児サービス利用に税優遇措置——政府、少子化対策の新施策を方針決定",
+        "韓国で「親日派スキャナー」アプリが拡大——歴史的人物の子孫を追跡、日韓関係に波紋",
+        "AnthropicがIPO申請書類を8月末にも公開へ——調達規模はSpaceX過去最大に匹敵か",
+        "Zed開発チームが「Delta」発表——人間とAIの全対話・コード変更履歴をDeltaDBで保存・共有",
+        "AWSの新ポリシー言語「Dogwood」を試す——AIエージェント向け細粒度アクセス制御の新パラダイム",
+        "Ox Alpha: Anonymous Stealth Reasoning Model Drops Free on OpenRouter — Claude Code is Its Biggest Consumer",
+        "OpenAI Pauses Some Frontier RL Training Runs to Strengthen Safety Evaluations",
+        "Bun 1.4's New WebView API: Simon Willison Demos a shot-scraper-Style JSON Extractor in Pure JavaScript"
+      ]
+    },
     {
       "run_at": "2026-08-21T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Stripe Acquires OpenRouter for ~$7.5B — AI Model Gateway Processing 10 Trillion Tokens/Day Becomes Core Payment Infrastructure",
         "Coding Agents and Conceptual Integrity: The Winchester Mystery House Problem — Simon Willison on the Hidden Cost of Agentic Development",
         "Amazon Prime Air Expands to 500 US Cities — Sixfold Scale-Up Targets 30-Minute Drone Delivery for Tens of Millions"
-      ]
-    },
-    {
-      "run_at": "2026-08-20T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592366?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592358?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592359?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592362?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/20/2000000634/",
-        "https://zenn.dev/tsukulink/articles/2026-08-workspace-studio-support-bot",
-        "https://zenn.dev/aun_phonogram/articles/3f8c1a7b5d902e",
-        "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000638/",
-        "https://fx.sh",
-        "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-        "https://github.com/anthropics/claude-code/issues/6235"
-      ],
-      "titles": [
-        "厚労省、残業指導を「月45時間一律」から「健康確保」重視の柔軟方針へ転換",
-        "ウクライナ軍、鹵獲したロシア製ドローンを研究・改良——暗闘を突く無人機作戦が加速",
-        "赤穂市、非正規職員130人を雇い止めへ——財政難を理由に来年3月末で契約打ち切り",
-        "ヘンリー王子夫妻、英国への拠点移転を計画——子どもたちは9月から英国で就学へ",
-        "Google、大学生向けに「Google AI Plus」を1年間無料提供——Geminiアプリに学習特化機能も追加",
-        "Google Workspace StudioとGemini Notebookで社内問い合わせBot構築——ノーコードで非エンジニアも引き継ぎ可能な設計",
-        "ChatGPTとCodexのクォータを役割分担——調査・計画はChatGPT、実装はCodexで効率最大化",
-        "OpenAI、ZDRを維持したまま悪用パターンを検知——「Private Safety Processing」で暗号化シグナルのみ分析",
-        "fx: Vercel Labs Releases a Tiny Native Coding Agent Written in Zig — 6 MB, Microsecond Cold Starts, WebAssembly-Ready",
-        "smolmachines/smolvm: Firecracker-Based Hardware-Isolated Sandbox for Untrusted Python and JavaScript Code",
-        "AGENTS.md Spec Gains Traction — GitHub Issue Requests Official Claude Code Support for Agent Specification Files"
-      ]
-    },
-    {
-      "run_at": "2026-08-20T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592341?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592328?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592327?source=rss",
-        "https://www.jiji.com/jc/article?k=2026081901065&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026081901110&g=int&m=rss",
-        "https://zenn.dev/finatext/articles/0d1e6dd99ec34d",
-        "https://zenn.dev/bamboo_nova/articles/ee2fbc5daf4f45",
-        "https://zenn.dev/dev_commune/articles/acb91817341f8f",
-        "https://ornith.ai/ornith_1_5.html",
-        "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-        "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/"
-      ],
-      "titles": [
-        "千葉市の豪雨被害、幹線道路の放置車両の撤去が完了——復旧作業が本格化",
-        "立憲系落選議員らが新政治団体「ゴリラ」を設立——衆参16人が参加意向を表明",
-        "宮崎の病院駐車場で車が患者の列に突入、70代女性が死亡——高齢ドライバー事故が再び問題に",
-        "厚生労働省、時間外労働の上限を月45時間に明文化——新ガイドラインで「働き方改革」を加速",
-        "米国のICC所長制裁に日本政府が「遺憾」を表明——国際社会との連携姿勢を鮮明に",
-        "DMARCレポートをClaude Codeで解析しp=rejectへ到達——フィナテキストが3000件の認証失敗を自動分類した実践記録",
-        "Claude Codeのhookで「書いたら直る」自動フィードバックループを構築——日本語明晰化を題材にした実装パターン",
-        "PlaywrightとLLMでWebサービスのスクショ付きガイドブックを自動生成・更新——ドキュメント陳腐化問題をAIで解決",
-        "Ornith-1.5: AI Model That Writes Its Own Training Curriculum — Self-Scaffolding Reaches Claude Opus 4.8 Level",
-        "OpenRouter Joins Stripe — AI Model Marketplace Processing 10T Tokens/Day Acquired for Infrastructure Scale",
-        "Extensible Software in the Age of LLMs — The Case for AI-Generated User Extensions Running in Isolated Sandboxes"
-      ]
-    },
-    {
-      "run_at": "2026-08-20T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592335?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592327?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/19/2000000632/",
-        "https://www.itmedia.co.jp/news/article/2608/19/2000000631/",
-        "https://www.itmedia.co.jp/news/article/2608/19/2000000625/",
-        "https://zenn.dev/green_tea/articles/a994964786cb4f",
-        "https://zenn.dev/xtm_blog/articles/b9993fe1d72b17",
-        "https://zenn.dev/moshjp/articles/39972d023f0440",
-        "https://www.anthropic.com/news/claude-opus-5",
-        "https://www.cerebras.ai/cs4",
-        "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html"
-      ],
-      "titles": [
-        "JR九州の熊本地震被害額、2016年を超える恐れ——九州新幹線の復旧に長期化の見通し",
-        "宮崎・病院駐車場で車が患者の列に突入——70代女性が死亡、高齢ドライバー事故が再び焦点に",
-        "立憲民主党員が生成AI画像で架空女性になりすまし政治投稿——Xアカウントは凍結",
-        "香川の私鉄「ことでん」、券売機をほぼ廃止——地方鉄道初のWebアプリ型デジタル切符に移行",
-        "学生向けPC販売サイトに不正アクセス——16万5千人の個人情報が漏えい、明大など多数の大学に影響",
-        "Claude Codeに「見せない」技術——機密データを5層防御でAIから隔離する実践アーキテクチャ",
-        "YAML 1枚で開発エージェントチームを立ち上げる——「Docker Agent」が実現するサンドボックス付き自律開発基盤",
-        "コーディングエージェントのUI品質をデザインシステムで底上げする——Storybook・Linter・Agent Skillの三位一体アプローチ",
-        "Anthropic Launches Claude Opus 5 — Frontier Intelligence at Half the Cost of Fable 5",
-        "Cerebras CS-4 Delivers 30× Faster AI Inference Than GPUs — Wafer-Scale Architecture Hits 1,000+ Tokens/sec on Trillion-Parameter Models",
-        "Docker VMM Enters Public Beta — A First-Party Hypervisor for Containers Promising Faster I/O and Returns Idle Memory to the Host"
       ]
     }
   ]

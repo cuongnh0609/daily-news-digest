@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-23T00:00:00+09:00",
+  "last_run_at": "2026-08-23T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-23T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592717?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592718?source=rss",
+        "https://www.jiji.com/jc/article?k=2026082200419&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082200359&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082200294&g=pol&m=rss",
+        "https://zenn.dev/ito/articles/6b042aa27d65bc",
+        "https://zenn.dev/watany/articles/8809b00df25dab",
+        "https://www.itmedia.co.jp/news/article/2608/21/2000000667/",
+        "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+        "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+        "https://simonwillison.net/2026/Aug/22/llm/"
+      ],
+      "titles": [
+        "茨城・埼玉・千葉・東京で震度5弱——早朝の地震で停電・水道管破裂などの被害",
+        "滋賀の化学工場で作業員2人が死亡——密閉容器内での酸欠事故か",
+        "Jリーグ「ピースマッチ」広島が川崎と引き分け——原爆忌を悼む特別試合で3連勝ならず",
+        "コンゴでエボラ熱が再拡大——ワクチン1万6000回分が現地到着、封じ込め急ぐ",
+        "「九州応援割」で熊本地震の復興を後押し——木原官房長官が観光需要喚起策を発表",
+        "AIエージェントはなぜテストを握り潰すのか——報酬エンジニアリングという本質的な解決策",
+        "発信力の増幅機としてのLLM——「AI民主化」の裏に潜む階級固定化のリスク",
+        "Slack、AIと人間が協働する「Slack Code」を発表——Claude・Devin・Copilotが「コードチャンネル」で連携",
+        "MCP Publishes Updated Roadmap: Five Priority Areas Including Agent Identity, HTTP-Native Transport, and Progressive Tool Discovery",
+        "Simon Willison: The Real Skill with Coding Agents Is Confident Verification, Not Line-by-Line Code Review",
+        "llm 0.33 Released: Template Combination, Per-Call Embedding Keys, and Reasoning Summary Options"
+      ]
+    },
     {
       "run_at": "2026-08-23T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Ox Alpha: Anonymous Stealth Reasoning Model Drops Free on OpenRouter — Claude Code is Its Biggest Consumer",
         "OpenAI Pauses Some Frontier RL Training Runs to Strengthen Safety Evaluations",
         "Bun 1.4's New WebView API: Simon Willison Demos a shot-scraper-Style JSON Extractor in Pure JavaScript"
-      ]
-    },
-    {
-      "run_at": "2026-08-21T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592527?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592528?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592529?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592526?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/21/2000000677/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000672/",
-        "https://zenn.dev/nrs/articles/b920540a64e1a1",
-        "https://www.publickey1.jp/blog/26/googleaiheirai.html",
-        "https://arxiv.org/abs/2504.09762",
-        "https://github.com/zachahn/vomit",
-        "https://www.igalia.com/2026/08/19/Linux-72-Released.html"
-      ],
-      "titles": [
-        "台風18号、26日ごろ沖縄接近のおそれ——東海〜九州は28日ごろまで猛暑継続",
-        "高市首相が9月中下旬に内閣改造——総裁選の「ライバル4人」の処遇が焦点に",
-        "千葉豪雨、片付け作業中の感染症リスクに警告——浸水3500軒超、マスク着用を",
-        "登校中の小学生11人がハチに刺され搬送——広島・庄原市、巣の早期駆除が課題に",
-        "2.5次元アイドル「いれいす」事務所で不正アクセス——最大17万人の個人情報が漏えいか",
-        "AnthropicがClaude公式学習プラットフォーム「Claude Academy」を無料公開——Code・Coworkなどサービスごとに解説",
-        "ローカルLLM編成が単独フロンティアAIを超えた——TAKTによるマルチエージェント検証で1/7コスト・半分時間で高品質",
-        "GoogleがAIモデル向け完全準同型暗号コンパイラ「HEIR」を発表——暗号化データを復号せずに推論を実行",
-        "ICML 2026: Stop Anthropomorphizing LLM Intermediate Tokens as \"Reasoning\" — A Position Paper",
-        "Vomit: Open-Source Tool to Post-Process Claude Output with a Local LLM — Cuts Verbose Tokens, Fully Local",
-        "Linux 7.2 Released — Second Busiest Cycle Ever with Cache-Aware CPU Scheduling, GPU Fair Policy, and a 14-Year-Old Bug Fix"
       ]
     }
   ]

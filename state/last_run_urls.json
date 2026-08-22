@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-22T05:00:00+09:00",
+  "last_run_at": "2026-08-22T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-22T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026082200162&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082100864&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6592603?source=rss",
+        "https://www.jiji.com/jc/article?k=2026082200192&g=spo&m=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000679/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
+        "https://zenn.dev/jiritsuworks/articles/claude-code-subagent-patterns",
+        "https://zenn.dev/acntechjp/articles/zenn-local-ai-agent-claude-code-ollama",
+        "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+        "https://api-docs.deepseek.com/guides/vision/",
+        "https://zenn.dev/hoshiorange/articles/29-log-distillation-prior-art-survey"
+      ],
+      "titles": [
+        "ウクライナ東部で商業施設にドローン攻撃、15人が死亡——過去最悪規模の民間被害か",
+        "ICC対応巡り高市外相に「弱腰」批判——ロシア制裁問題で与野党から圧力",
+        "若年層でうつ病の影響が顕在化——専門家が警告、SNS利用との関係も指摘",
+        "北口榛花が今季初優勝——陸上ダイヤモンドリーグで圧巻の投てき",
+        "中国AI「Kimi」が日本市場に進出——無料プランで先行キャンペーン、有料展開も視野に",
+        "Anthropic、最上位モデル「ミュトス 5」を脆弱性スキャンに開放——Claude SecurityでEnterprise顧客が利用可能に",
+        "Claude Codeのサブエージェント設計パターン7選——並列リサーチから部署制運営まで実践まとめ",
+        "ローカルLLMでAIエージェントは今どうなってる？——OpenClawの脆弱性危機とOllamaでClaude Codeをローカル動作させる検証",
+        "GitHub Copilot Canvases: Making Agentic Workflows Visible, Steerable, and Cost-Efficient",
+        "DeepSeek-V4-Flash-Vision-Exp: Multimodal Vision Model Launches Free on API with Anthropic-Compatible Endpoint",
+        "Three Critical Gaps in AI Long-Term Memory: A Developer's Survey of mem0, Letta, and the Research Literature"
+      ]
+    },
     {
       "run_at": "2026-08-22T05:00:00+09:00",
       "urls": [

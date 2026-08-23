@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-23T20:00:00+09:00",
+  "last_run_at": "2026-08-24T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-24T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592818?source=rss",
+        "https://www.jiji.com/jc/article?k=2026082300262&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082300280&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082300179&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6592807?source=rss",
+        "https://zenn.dev/green_tea/articles/a994964786cb4f",
+        "https://zenn.dev/cureapp/articles/c1e963064d05fd",
+        "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
+        "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+        "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+        "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html"
+      ],
+      "titles": [
+        "ホルムズ・バベルマンデブ海峡の安定確保へ——外相が中東歴訪を終え、首脳外交を求める声が広まる",
+        "中国、人型ロボットの実用化へ官民総動員——上半期出荷台数で世界の97%超を占める",
+        "山口茜、世界バドミントン選手権で連覇ならず——奈良岡功大も準優勝に終わる",
+        "ガザで「毎晩30〜40人を殺害」——イスラエル閣僚発言が国際社会に波紋を広げる",
+        "豪雨で愛車を失った人々の悲痛な声——千葉豪雨から数週間、廃車か修理かで揺れる被災者",
+        "Claude Codeに見せられないデータをどう分析するか——5層のセキュリティ設計で実現する安全なAI活用",
+        "Claudeのメモリを棚卸しする——陳腐化した記憶がAIの判断を狂わせる、月次レビューの設計",
+        "「Bun 1.4」正式リリース——ZigからRustへの書き直しでCPU使用率5分の1・起動4.8ms・正規表現281倍高速化",
+        "GitHub Copilot Arrives in Slack with Full Agentic Capabilities — Code Channels Enable Async Multi-Team Dev",
+        "Qwen 3.8 27B Completes Reverse Engineering Job in 30 Minutes Locally — Consumer GPU Now Matches Frontier Tasks",
+        "Docker VMM Public Beta: A New High-Performance Hypervisor Built Specifically for Containers"
+      ]
+    },
     {
       "run_at": "2026-08-23T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "GitHub Copilot Brings Shared Agentic Work to Microsoft Teams",
         "Stop Making TUIs — AI Coding Agents Have Flipped the GUI Development Calculus",
         "AI Boosted Homework Scores — Then Exam Scores Dropped: Study Reveals Learning vs. Performance Tradeoff"
-      ]
-    },
-    {
-      "run_at": "2026-08-22T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082200162&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082100864&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6592603?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082200192&g=spo&m=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000679/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
-        "https://zenn.dev/jiritsuworks/articles/claude-code-subagent-patterns",
-        "https://zenn.dev/acntechjp/articles/zenn-local-ai-agent-claude-code-ollama",
-        "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
-        "https://api-docs.deepseek.com/guides/vision/",
-        "https://zenn.dev/hoshiorange/articles/29-log-distillation-prior-art-survey"
-      ],
-      "titles": [
-        "ウクライナ東部で商業施設にドローン攻撃、15人が死亡——過去最悪規模の民間被害か",
-        "ICC対応巡り高市外相に「弱腰」批判——ロシア制裁問題で与野党から圧力",
-        "若年層でうつ病の影響が顕在化——専門家が警告、SNS利用との関係も指摘",
-        "北口榛花が今季初優勝——陸上ダイヤモンドリーグで圧巻の投てき",
-        "中国AI「Kimi」が日本市場に進出——無料プランで先行キャンペーン、有料展開も視野に",
-        "Anthropic、最上位モデル「ミュトス 5」を脆弱性スキャンに開放——Claude SecurityでEnterprise顧客が利用可能に",
-        "Claude Codeのサブエージェント設計パターン7選——並列リサーチから部署制運営まで実践まとめ",
-        "ローカルLLMでAIエージェントは今どうなってる？——OpenClawの脆弱性危機とOllamaでClaude Codeをローカル動作させる検証",
-        "GitHub Copilot Canvases: Making Agentic Workflows Visible, Steerable, and Cost-Efficient",
-        "DeepSeek-V4-Flash-Vision-Exp: Multimodal Vision Model Launches Free on API with Anthropic-Compatible Endpoint",
-        "Three Critical Gaps in AI Long-Term Memory: A Developer's Survey of mem0, Letta, and the Research Literature"
       ]
     }
   ]

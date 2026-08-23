@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-24T00:00:00+09:00",
+  "last_run_at": "2026-08-24T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-24T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592798?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592819?source=rss",
+        "https://www.jiji.com/jc/article?k=2026082300212&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6592805?source=rss",
+        "https://www.jiji.com/jc/article?k=2026082300224&g=soc&m=rss",
+        "https://zenn.dev/moshjp/articles/39972d023f0440",
+        "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
+        "https://www.publickey1.jp/blog/26/fluter_347uiwebassembly.html",
+        "https://hister.org/",
+        "https://earendil.com/posts/what-is-a-harness/",
+        "https://malisper.me/jit-compiling-code-in-5-us/"
+      ],
+      "titles": [
+        "東武日光線で作業員4人死亡——事故前に列車3本が通過、安全管理の盲点が浮かぶ",
+        "熊本地震から再出発——400年の伝統「高田焼」窯元が断水の中で制作を再開",
+        "人型ロボットが100メートル走で「9秒32」——北京の世界大会でウサイン・ボルトの記録を超える",
+        "戸建てを売って団地へ——コンパクト化と共同体回帰で注目される公営住宅の新潮流",
+        "シベリア抑留80年——東京で追悼の集い、体験者が「全体像の解明を」と訴える",
+        "コーディングエージェントが実装するUIの品質を上げる——デザインシステムとAgent Skillsの組み合わせ",
+        "AnthropicがClaudeの最上位モデル「ミュトス5」を脆弱性スキャンに開放——「Claude Security」でEnterprise顧客が利用可能に",
+        "「Flutter 3.47」正式リリース——UIライブラリが独立分離、WebAssemblyがデフォルト出力へ",
+        "Hister: A Private, Self-Hosted Full-Content Search Index You Actually Own",
+        "What Is an Agent Harness? — Open-Source Tools Redefine How AI Models Operate in the Real World",
+        "JIT Compiling Code in 5 Microseconds — A Deep Dive into Sub-Millisecond Native Code Generation"
+      ]
+    },
     {
       "run_at": "2026-08-24T00:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "How Claude's Text Watermark Works — Anthropic Implements SynthID-Text for EU AI Act Compliance",
         "Munder Difflin: Open-Source Multi-Agent Harness Runs an Office of Your AI Clones",
         "Mojo Goes Open Source — Python-Like Systems Language v1.0 Releases Compiler, Targets GPU-Agnostic AI Inference"
-      ]
-    },
-    {
-      "run_at": "2026-08-22T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592692?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592674?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082200285&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6592622?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082200273&g=int&m=rss",
-        "https://zenn.dev/dx_junkyard/articles/6a468db4d425fc",
-        "https://zenn.dev/sorapenguin/articles/ai-agent-qa-story-2026-08",
-        "https://zenn.dev/chimao222/articles/ai-dev-vscode-agent-host-20260821",
-        "https://cymerys.com/w/im-becoming-ai-blind",
-        "https://danluu.com/perf-opt/",
-        "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/"
-      ],
-      "titles": [
-        "東京・埼玉を猛烈な雨が直撃——マンホールから水が噴出し複数地点で浸水被害",
-        "国連女性差別撤廃委員会が皇室典範と夫婦別姓を批判——「家父長制的規範が女性を劣位に置く」",
-        "高市首相「オバケよりゴキブリの方が怖い」——首相公邸での暮らしを初めて公に語る",
-        "新幹線の通路で「折りたたみ椅子」が物議——JR東日本が公式見解を示す",
-        "米国防総省、米軍準機関紙「スターズ・アンド・ストライプス」の編集長らを解雇——独立性への懸念高まる",
-        "従来のAIモダナイゼーションの限界——「Probe Agent」が目指すパイプライン進化型アーキテクチャ",
-        "「動く」と「解ける」は別物——AIエージェントに150問解かせて見つけた本当のバグたち",
-        "VS Code 1.134の「Agent Host」——複数ウィンドウから同一エージェントセッションに接続できる新設計",
-        "I'm Becoming AI-Blind: Low-Effort AI Content Has Pre-Trained Our Brains to Ignore It",
-        "There's No Reason for Software to Be Slow Anymore — AI Coding Agents Democratize Performance Engineering",
-        "How Nari Labs Made a Text-to-Speech Model Respond in Sub-50ms — A Deep Dive into Streaming Inference Engineering"
-      ]
-    },
-    {
-      "run_at": "2026-08-22T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082200265&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082200217&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6592650?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592642?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592651?source=rss",
-        "https://zenn.dev/mika_and_coco/articles/claude-code-diary-14-git-team",
-        "https://zenn.dev/specsense/articles/00122f738901db",
-        "https://zenn.dev/tejunya/articles/a037_bunmyaku-bunri-review",
-        "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
-        "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
-        "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning"
-      ],
-      "titles": [
-        "米・カナダ貿易交渉が決裂、50%追加関税を即日発動",
-        "智弁和歌山が全国高校野球で5年ぶり優勝——手術乗り越えた主将が涙",
-        "国民民主党代表選が告示——政権との距離が最大の争点に",
-        "千葉豪雨の被災車両を巡りトラブル相次ぐ——廃棄・修理の判断で混乱",
-        "原爆「包帯の少女」の証言映像、初めて一般公開へ——広島の記憶を次世代に",
-        "ゼロから始めるClaude Code #14——Gitチーム開発にAIを組み込む実践ガイド",
-        "毎週AIエージェントにBTOパソコン約1,000機種を調査させる——SpecSenseの本番エージェント設計",
-        "同じ文脈は同じ間違いを見逃す——AIレビューを別セッションに分離する設計",
-        "GitHub Copilot Brings Shared Agentic Work to Microsoft Teams",
-        "Stop Making TUIs — AI Coding Agents Have Flipped the GUI Development Calculus",
-        "AI Boosted Homework Scores — Then Exam Scores Dropped: Study Reveals Learning vs. Performance Tradeoff"
       ]
     }
   ]

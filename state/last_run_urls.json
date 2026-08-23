@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-23T05:00:00+09:00",
+  "last_run_at": "2026-08-23T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-23T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592737?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592730?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592724?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592731?source=rss",
+        "https://www.jiji.com/jc/article?k=2026082300108&g=int&m=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2608/23/2000000700/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000672/",
+        "https://www.publickey1.jp/blog/26/googleaiheirai.html",
+        "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+        "https://www.lambda-symbolics.com/autolith",
+        "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
+      ],
+      "titles": [
+        "東武建設に家宅捜索——線路作業員4人死亡事故で業務上過失致死の疑い",
+        "台風20号が八重山地方に接近——線状降水帯発生のおそれ、沖縄に3つの台風が同時接近",
+        "フィギュアスケートのりくりゅうペア、オリンピック制覇後に婚約を発表",
+        "モバイルバッテリーの発火事故が相次ぐ——政府が8月中に規制強化策を発表へ",
+        "カナダ、米国の関税措置に対抗——来月から報復関税を発動へ",
+        "OpenAI、「GPT-5.6 Sol」のAPI料金を大幅値下げ——入力20%・出力33%安く",
+        "Anthropic、Claudeの使い方を無料で学べる「Claude Academy」を公開——Claude Codeも対応",
+        "Google、暗号化データを復号せずにAI推論できる「HEIR」コンパイラを発表",
+        "A Week Using Codex More Than Claude: What Each Coding Agent Actually Does Well",
+        "Autolith: A Common Lisp Programming Agent with a Live Runtime",
+        "Why Your Local LLM Feels Dumber Than It Is: KV Cache Quantization and Inference Pipeline Divergence"
+      ]
+    },
     {
       "run_at": "2026-08-23T05:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-23T15:00:00+09:00",
+  "last_run_at": "2026-08-23T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-23T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592789?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592778?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592747?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592792?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592793?source=rss",
+        "https://zenn.dev/mizchi/articles/quint-application-modeling",
+        "https://zenn.dev/nrs/articles/b920540a64e1a1",
+        "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000666/",
+        "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+        "https://www.anthropic.com/news/position-open-weights-models",
+        "https://simonwillison.net/2026/Aug/22/linus-torvalds/"
+      ],
+      "titles": [
+        "熊本地震ボランティアへの「支援者支援」——猛暑下で活動する人々を守る取り組みが全国に広まる",
+        "「怠けじゃない」——文字が書けない学習障害の高校生が合理的配慮を求めて立ち上がる",
+        "文科省が科研費を倍増要求——4552億円、過去最大規模で「新技術立国」の基盤を強化",
+        "横浜市議が市長を「異常な発達障害者」とX投稿——障害者差別表現として識者が強く批判",
+        "ソニーが中国TCLと合弁「BRAVIA」設立——世界2位パネルメーカーと組む戦略的背景とは",
+        "時相論理仕様言語Quintで分散システムの二重ライターバグを発見——形式検証とRustテストで確認",
+        "ローカルLLM編成がフロンティアAIを超えた日——TAKTで検証、DeepSeek配置がGPT-5.6を上回る",
+        "「Fable禁止」で業務が止まったあの18日間——日本企業が取るべき「脱・単一AIモデル」戦略",
+        "Anthropic Slashes Fable 5 Biology False Positives by 85% — Legitimate Healthcare and Research Queries Now Unblocked",
+        "Anthropic CEO Dario Amodei: We Don't Support Banning Open-Weights Models — Three Targeted Measures Instead",
+        "Linus Torvalds Used AI to Crack a 'Debug Session from Hell' — Then Had to Keep Pushing When It Wanted to Quit"
+      ]
+    },
     {
       "run_at": "2026-08-23T15:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "GitHub Copilot Canvases: Making Agentic Workflows Visible, Steerable, and Cost-Efficient",
         "DeepSeek-V4-Flash-Vision-Exp: Multimodal Vision Model Launches Free on API with Anthropic-Compatible Endpoint",
         "Three Critical Gaps in AI Long-Term Memory: A Developer's Survey of mem0, Letta, and the Research Literature"
-      ]
-    },
-    {
-      "run_at": "2026-08-22T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592589?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/20/2000000643/",
-        "https://www.itmedia.co.jp/news/article/2608/21/2000000682/",
-        "https://www.itmedia.co.jp/news/article/2608/19/2000000629/",
-        "https://news.yahoo.co.jp/pickup/6592572?source=rss",
-        "https://zenn.dev/green_tea/articles/a994964786cb4f",
-        "https://zenn.dev/dev_commune/articles/acb91817341f8f",
-        "https://www.publickey1.jp/blog/26/dockerfileocicloud_native_buildpackscncf.html",
-        "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-        "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
-        "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/"
-      ],
-      "titles": [
-        "埼玉で1時間100ミリ超の猛烈な雨——道路が冠水し車水没の通報が相次ぐ",
-        "中国動画「bilibili」がグローバル版アプリを公開——日本でもAndroidから配信開始",
-        "SNSの偽画像を見破るAI企業「Spectee」——熊本県庁やテレビ局も採用する危機情報システム",
-        "さくらインターネット、別システムでも不正アクセス——136万アカウントの情報漏えいの恐れ",
-        "「睡眠美容」クリニックに専門家が警鐘——向精神薬の処方で依存リスクも",
-        "Claude Codeに見せない技術——機密データを扱いつつAIに入力できない情報を安全に分析する5層設計",
-        "PlaywrightとLLMでWebサービスの操作ガイドブックを自動生成——スクショ付き手順書が常に最新に",
-        "Cloud Native BuildpacksがCNCFの卒業プロジェクトに昇格——Dockerfileなしで本番対応コンテナを自動ビルド",
-        "Building an Almost Fully Self-Hosted, Sandboxed Agentic Software Factory",
-        "GitHub Copilot Comes to Slack — Agentic Coding Sessions Directly in Team Chat",
-        "smolvm 1.8.3: Hardware-Isolated Sandbox for Running Untrusted Python and JavaScript — 50ms Warm Execution"
-      ]
-    },
-    {
-      "run_at": "2026-08-22T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082100904&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082101007&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/21/2000000695/",
-        "https://www.itmedia.co.jp/news/article/2608/21/2000000696/",
-        "https://news.yahoo.co.jp/pickup/6592596?source=rss",
-        "https://zenn.dev/cureapp/articles/c1e963064d05fd",
-        "https://zenn.dev/rb_engineering/articles/f5e5fa60ae0d96",
-        "https://zenn.dev/moshjp/articles/39972d023f0440",
-        "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
-        "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html",
-        "https://annas-archive.pk/blog/physical-destruction.html"
-      ],
-      "titles": [
-        "国民民主党代表選が22日に告示——玉木氏と橋本氏が激突、世代交代が最大争点に",
-        "沖縄・名護市で在沖米海兵隊員が車内で死亡——拳銃使用の自殺の可能性、県警が捜査",
-        "法務省、Netflixリアリティ番組「ラヴ上等」とのタイアップを中止——「火をつけた」発言が炎上のきっかけに",
-        "経産省、「ものがたり大国5カ年計画」を発表——2033年に日本発IP海外売上20兆円を目指す",
-        "西・東日本で急な雷雨と大雨に警戒——埼玉では車が水没する被害、8月下旬も不安定な天気続く",
-        "Claudeのメモリを棚卸しする——実態と乖離した「嘘メモリ」をどう整理するか",
-        "「やったのはAIだけど、バグがあったら俺の責任」——Code w/ Claude in Tokyo 2026参加レポート",
-        "コーディングエージェントが実装するUIの品質を上げる——FigmaとStorybookとAgent Skillを繋ぐ設計",
-        "What Happens When the Cost of Intelligence Drops 100x",
-        "Docker VMM Goes Public Beta — A New High-Performance Hypervisor Built Specifically for Containers",
-        "AI Companies Are Destroying Physical Books to Build Training Data — Anna's Archive Launches Emergency Digitization Drive"
-      ]
-    },
-    {
-      "run_at": "2026-08-21T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082100505&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082100314&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082100811&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6592556?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592574?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/21/2000000688/",
-        "https://www.publickey1.jp/blog/26/zeddeltaai.html",
-        "https://zenn.dev/exwzd/articles/20260813-dogwood-agent-policy",
-        "https://openrouter.ai/stealth/ox-alpha",
-        "https://www.itmedia.co.jp/news/article/2608/19/2000000605/",
-        "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/"
-      ],
-      "titles": [
-        "東武特急接触死亡事故、列車見張り員ら任意聴取——栃木県警が業務上過失致死で特捜班を設置",
-        "大阪パチンコ店放火5人殺害事件で死刑執行——高市政権下での初執行、法相が命令",
-        "内閣改造、9月中下旬で調整——木原官房長官の続投が有力視される",
-        "育児サービス利用に税優遇措置——政府、少子化対策の新施策を方針決定",
-        "韓国で「親日派スキャナー」アプリが拡大——歴史的人物の子孫を追跡、日韓関係に波紋",
-        "AnthropicがIPO申請書類を8月末にも公開へ——調達規模はSpaceX過去最大に匹敵か",
-        "Zed開発チームが「Delta」発表——人間とAIの全対話・コード変更履歴をDeltaDBで保存・共有",
-        "AWSの新ポリシー言語「Dogwood」を試す——AIエージェント向け細粒度アクセス制御の新パラダイム",
-        "Ox Alpha: Anonymous Stealth Reasoning Model Drops Free on OpenRouter — Claude Code is Its Biggest Consumer",
-        "OpenAI Pauses Some Frontier RL Training Runs to Strengthen Safety Evaluations",
-        "Bun 1.4's New WebView API: Simon Willison Demos a shot-scraper-Style JSON Extractor in Pure JavaScript"
       ]
     }
   ]

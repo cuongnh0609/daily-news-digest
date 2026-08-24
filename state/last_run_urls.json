@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-24T15:00:00+09:00",
+  "last_run_at": "2026-08-24T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-24T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592886?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592910?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592902?source=rss",
+        "https://www.jiji.com/jc/article?k=2026082400537&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082400730&g=int&m=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000723/",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news049.html",
+        "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
+        "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
+        "https://securelist.com/android-head-unit-malware/121106/",
+        "https://simonwillison.net/2026/Aug/21/stop-making-tuis/"
+      ],
+      "titles": [
+        "ギニアでごみ山が崩落、少なくとも30人死亡——豪雨後に急傾斜が崩壊",
+        "プルデンシャル生命、自粛期間中に不祥事か——社内調査で複数の不正行為が浮上",
+        "クマと車が衝突か——北海道で運転手の男性が死亡、道路に大型クマの痕跡",
+        "中国、月面探査機の年内打ち上げを断念——基地建設計画に影響の恐れ",
+        "中国でテスラなど427万台超を一斉リコール——リコール件数は過去最大級",
+        "なぜいま30Bクラスのオープンモデルが"熱い"のか——「27BパラメータでOpus 4.6超え」の衝撃",
+        "ChatGPT・Gemini・Claude Sonnet 5のAPIはどれが最速？ — 「遅延」と「遅滞」の違いで見えてくること",
+        "「Visual Studio Code 1.133」正式リリース——ClaudeとCopilotを同一セッションで混在使用可能に",
+        "Kitesurf: Cloudflare's AI-Only Headless Browser Runs on Workers — No Tabs, No Extensions, 3–7× Lighter Than Chromium",
+        "Android Malware Infects Automotive Head Units via Firmware Update Channel — MoYu Group's BADBOX Botnet Expands to Cars",
+        "Stop Making TUIs — AI Coding Agents Have Made Native GUI Development Trivial, Says Thomas Ptacek"
+      ]
+    },
     {
       "run_at": "2026-08-24T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "OzBrain: A Shared Knowledge Brain That All Your AI Agents Can Read and Write",
         "ATProto Spaces Alpha: AT Protocol Gets Non-Public, Access-Controlled Data Layers",
         "NanoGPT Speedrun Frontier: Prime Intellect Benchmarks 18 Frontier Models on Autonomous AI Training Optimization"
-      ]
-    },
-    {
-      "run_at": "2026-08-23T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592737?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592730?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592724?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592731?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082300108&g=int&m=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2608/23/2000000700/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000672/",
-        "https://www.publickey1.jp/blog/26/googleaiheirai.html",
-        "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-        "https://www.lambda-symbolics.com/autolith",
-        "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
-      ],
-      "titles": [
-        "東武建設に家宅捜索——線路作業員4人死亡事故で業務上過失致死の疑い",
-        "台風20号が八重山地方に接近——線状降水帯発生のおそれ、沖縄に3つの台風が同時接近",
-        "フィギュアスケートのりくりゅうペア、オリンピック制覇後に婚約を発表",
-        "モバイルバッテリーの発火事故が相次ぐ——政府が8月中に規制強化策を発表へ",
-        "カナダ、米国の関税措置に対抗——来月から報復関税を発動へ",
-        "OpenAI、「GPT-5.6 Sol」のAPI料金を大幅値下げ——入力20%・出力33%安く",
-        "Anthropic、Claudeの使い方を無料で学べる「Claude Academy」を公開——Claude Codeも対応",
-        "Google、暗号化データを復号せずにAI推論できる「HEIR」コンパイラを発表",
-        "A Week Using Codex More Than Claude: What Each Coding Agent Actually Does Well",
-        "Autolith: A Common Lisp Programming Agent with a Live Runtime",
-        "Why Your Local LLM Feels Dumber Than It Is: KV Cache Quantization and Inference Pipeline Divergence"
-      ]
-    },
-    {
-      "run_at": "2026-08-23T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592717?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592718?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082200419&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082200359&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082200294&g=pol&m=rss",
-        "https://zenn.dev/ito/articles/6b042aa27d65bc",
-        "https://zenn.dev/watany/articles/8809b00df25dab",
-        "https://www.itmedia.co.jp/news/article/2608/21/2000000667/",
-        "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-        "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-        "https://simonwillison.net/2026/Aug/22/llm/"
-      ],
-      "titles": [
-        "茨城・埼玉・千葉・東京で震度5弱——早朝の地震で停電・水道管破裂などの被害",
-        "滋賀の化学工場で作業員2人が死亡——密閉容器内での酸欠事故か",
-        "Jリーグ「ピースマッチ」広島が川崎と引き分け——原爆忌を悼む特別試合で3連勝ならず",
-        "コンゴでエボラ熱が再拡大——ワクチン1万6000回分が現地到着、封じ込め急ぐ",
-        "「九州応援割」で熊本地震の復興を後押し——木原官房長官が観光需要喚起策を発表",
-        "AIエージェントはなぜテストを握り潰すのか——報酬エンジニアリングという本質的な解決策",
-        "発信力の増幅機としてのLLM——「AI民主化」の裏に潜む階級固定化のリスク",
-        "Slack、AIと人間が協働する「Slack Code」を発表——Claude・Devin・Copilotが「コードチャンネル」で連携",
-        "MCP Publishes Updated Roadmap: Five Priority Areas Including Agent Identity, HTTP-Native Transport, and Progressive Tool Discovery",
-        "Simon Willison: The Real Skill with Coding Agents Is Confident Verification, Not Line-by-Line Code Review",
-        "llm 0.33 Released: Template Combination, Per-Call Embedding Keys, and Reasoning Summary Options"
-      ]
-    },
-    {
-      "run_at": "2026-08-23T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592714?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592709?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592704?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082200293&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6592706?source=rss",
-        "https://zenn.dev/mkj/articles/aad5698672aef3",
-        "https://zenn.dev/factory_dx_eng/articles/ai-productivity-team-divide",
-        "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
-        "https://www.anthropic.com/news/claude-text-watermark",
-        "https://munderdiffl.in/",
-        "https://www.publickey1.jp/blog/26/pythonmojowindows.html"
-      ],
-      "titles": [
-        "関東南部を豪雨が直撃——東京駅近くで道路に穴、練馬の白子川が氾濫",
-        "東武スペーシアX、現場200m手前で警笛を鳴らしていた——除草作業員4人死亡事故の新事実",
-        "介護現場のカスタマーハラスメント深刻化——殺人事件を機に10月から全事業者に対策義務",
-        "米中ハイテク摩擦が激化——首脳会談前に人型ロボット輸入禁止・追加関税の応酬",
-        "衆院比例に「サンラグ式」導入案が浮上——小政党優遇で野党取り込み狙うか",
-        "AI Agentに社内知識をオンボーディングする——SkillsとEvalで実現する96%正解率の設計",
-        "AIで生産性3倍になった私たちが、チームを置き去りにした話——組織分断の構造と処方箋",
-        "CursorがAIエージェント時代のGitホスティング「Origin」を発表——GitHub大量アクセス問題への対応策か",
-        "How Claude's Text Watermark Works — Anthropic Implements SynthID-Text for EU AI Act Compliance",
-        "Munder Difflin: Open-Source Multi-Agent Harness Runs an Office of Your AI Clones",
-        "Mojo Goes Open Source — Python-Like Systems Language v1.0 Releases Compiler, Targets GPU-Agnostic AI Inference"
       ]
     }
   ]

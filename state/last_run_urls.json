@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-24T20:00:00+09:00",
+  "last_run_at": "2026-08-25T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-25T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6592929?source=rss",
+        "https://news.yahoo.co.jp/pickup/6592942?source=rss",
+        "https://www.jiji.com/jc/article?k=2026082400872&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082400906&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082400856&g=soc&m=rss",
+        "https://zenn.dev/katsumata/articles/014affaeb272d00aeae6",
+        "https://zenn.dev/mkj/articles/aad5698672aef3",
+        "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000711/",
+        "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+        "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/"
+      ],
+      "titles": [
+        "超党派議連、ICC制裁めぐり米政権を強く非難——「最も強い言葉で非難する」声明を採択",
+        "損保ジャパン、自動車保険料を来年1月から平均5%値上げ——修理費高騰が主因",
+        "多摩川河口付近で船が座礁——10人乗船、2人が重傷、海上保安庁が救助",
+        "米、イランと取引する第三国への制裁を大幅拡大——戦闘終結への圧力を一段と強化",
+        "政府、生物・化学テロ対策の専門家会議を設置——年内に行動計画を策定へ",
+        "デザイナーが主導する仕様駆動型デザインシステム——Figma MCP × Claude Codeでコンポーネント生成を自動化",
+        "AI Agentに社内知識をオンボーディングする——SkillsとEvalの設計で正解率96%を達成",
+        "Sakana AI、防衛省の情報分析業務をAIで支援——自衛隊指揮統制システム高度化に続く第2弾",
+        "New MCP Roadmap: Agentic Messaging, HTTP-Native Transport, and Agent Identity Standards",
+        "Why Your Local LLM Feels Dumber Than It Is — Quantization, Attention Backends, and KV Cache Are the Culprits",
+        "Your Executable Is a SQLite Database — A New Technique for Packaging Binaries as Queryable Databases"
+      ]
+    },
     {
       "run_at": "2026-08-24T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Slashes Fable 5 Biology False Positives by 85% — Legitimate Healthcare and Research Queries Now Unblocked",
         "Anthropic CEO Dario Amodei: We Don't Support Banning Open-Weights Models — Three Targeted Measures Instead",
         "Linus Torvalds Used AI to Crack a 'Debug Session from Hell' — Then Had to Keep Pushing When It Wanted to Quit"
-      ]
-    },
-    {
-      "run_at": "2026-08-23T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592763?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592755?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592736?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082200289&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6592764?source=rss",
-        "https://zenn.dev/holy_fox/articles/53b82eed45f956",
-        "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000684/",
-        "https://www.itmedia.co.jp/news/article/2608/23/2000000701/",
-        "https://ozbrain.com",
-        "https://atproto.com/blog/atproto-spaces-alpha",
-        "https://www.primeintellect.ai/research/nanogpt-speedrun"
-      ],
-      "titles": [
-        "関東から九州にかけて厳しい残暑——8月末まで猛暑日が続く見通し",
-        "都内老人ホームが利用料を月10万円から30万円に3倍値上げ——社長「価格競争の結果」",
-        "沖縄県知事選、自民党が県政奪還へ総力戦——9月13日投開票、幹部を大量投入",
-        "マンションのオートロック、「共連れ」で突破される危険——専門家「過信は禁物」神戸事件1年",
-        "「息子を殺した男との糸を絶やせない」——被害者の父が語る、加害者と向き合い続ける理由",
-        "RTX 5090でFreeTokenを試す——35B未満は不要、120B超のMoEモデルでは話が変わる",
-        "エイベックス松浦会長「AIで仕事が楽になると思ってたら真逆だった」——note更新の苦労を告白",
-        "TikTok、児童プライバシー訴訟で4億ドルの和解——COPPA違反で米司法省と歴史的合意",
-        "OzBrain: A Shared Knowledge Brain That All Your AI Agents Can Read and Write",
-        "ATProto Spaces Alpha: AT Protocol Gets Non-Public, Access-Controlled Data Layers",
-        "NanoGPT Speedrun Frontier: Prime Intellect Benchmarks 18 Frontier Models on Autonomous AI Training Optimization"
       ]
     }
   ]

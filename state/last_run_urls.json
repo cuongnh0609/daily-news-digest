@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-25T20:00:00+09:00",
+  "last_run_at": "2026-08-26T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-26T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026082500775&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082500918&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082500901&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082500977&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/25/2000000766/",
+        "https://zenn.dev/uehaj/articles/claude-code-supervisor-agent-view",
+        "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000767/",
+        "https://www.publickey1.jp/blog/26/nextjs_163turbopack90ssr22typescript_7.html",
+        "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+        "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html",
+        "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next"
+      ],
+      "titles": [
+        "ICC制裁「日本の立場と相いれず」——高市首相、「弱腰」批判に正面から反論",
+        "３党合流、中・立に先送り論——公明から「議員引き揚げ」の声も",
+        "下地幹郎氏、沖縄知事選への不出馬を表明——自民との協定が背景に",
+        "防衛装備庁、テラドローンと迎撃ドローン「Terra B1」の量産契約を正式締結",
+        "中野ブロードウェイの時計店で約2億円の窃盗被害——犯人は逃走中",
+        "ターミナルを閉じてもClaude Codeが動き続ける仕組み——supervisorデーモンとAgent View徹底解説",
+        "政府、AI事業者向け「知財保護ルール」を策定——開示・説明義務の「準拠か説明か」原則を採用",
+        "Next.js 16.3正式リリース——Turbopackのメモリ最大90%削減・SSR 22%高速化・TypeScript 7対応",
+        "Headlong: A Micro-Harness for Persistent, Always-On AI Agents (Laude Institute / MIT)",
+        "Docker VMM Public Beta: Docker's Own Hypervisor Replaces Hyper-V on Windows, Targets Default in October 2026",
+        "Qwen 3.8-Flash-Next: Alibaba's 125B MoE Model Tops HN Front Page — Efficiency vs. Scale in the Open-Weights Race"
+      ]
+    },
     {
       "run_at": "2026-08-25T20:00:00+09:00",
       "urls": [

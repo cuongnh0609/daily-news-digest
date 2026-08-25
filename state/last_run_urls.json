@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-25T15:00:00+09:00",
+  "last_run_at": "2026-08-25T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-25T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026082500825&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082500632&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082500582&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6593033?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/25/2000000759/",
+        "https://zenn.dev/demia/articles/6c1291f0dae964",
+        "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000748/",
+        "https://www.itmedia.co.jp/news/article/2608/25/2000000737/",
+        "https://simonwillison.net/2026/Aug/22/llm/",
+        "https://github.com/dragthelake/ambient-context",
+        "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/"
+      ],
+      "titles": [
+        "ガソリン補助金を継続——高市首相が1リットル170円水準の維持を指示",
+        "中国産白菜にホルマリン漬け疑惑——日本も情報収集に乗り出す",
+        "デスバレーで仏人観光客が熱射病で死亡——47℃の猛暑、車が砂地にはまる",
+        "宅配業者へのカスハラ被害が深刻——厚労省調査で「4割超が経験」",
+        "東京23区の「駅空白地帯」地図が話題——練馬・江戸川区に赤色集中",
+        "AIエージェント向けReactコンポーネントライブラリ「DeMiA UI」——className禁止設計でエージェントの再現性を高める",
+        "謎の高性能AIモデル「Ox Alpha」がOpenRouterに登場——48時間で推論量8%獲得、正体はGLM-5.3か",
+        "三重県庁、私物USBメモリ3789個を一斉廃棄——全体の3割が私物、情報管理の盲点を是正",
+        "llm 0.33 Released — OpenAI v3.x Compatibility, Multi-Template Merging, and Reasoning Summaries",
+        "Ambient Context — macOS App Captures Your Work as Markdown for LLM Agents, No Screenshots",
+        "ChatGPT Search Now Deploys the site: Operator at Scale — Implications for Web Publishers and SEO"
+      ]
+    },
     {
       "run_at": "2026-08-25T15:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "Zed Launches Delta — A Multiplayer AI Collaboration Tool That Records Every Prompt, Edit, and Context",
         "GitHub Copilot Brings Shared Agentic Sessions to Microsoft Teams — Any Team Member Can Guide the AI",
         "Anthropic's Fable 5 Struggles to Attract Users as Model Economics Force Developers to Opus — Simon Willison Reports"
-      ]
-    },
-    {
-      "run_at": "2026-08-24T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592798?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592819?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082300212&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6592805?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082300224&g=soc&m=rss",
-        "https://zenn.dev/moshjp/articles/39972d023f0440",
-        "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
-        "https://www.publickey1.jp/blog/26/fluter_347uiwebassembly.html",
-        "https://hister.org/",
-        "https://earendil.com/posts/what-is-a-harness/",
-        "https://malisper.me/jit-compiling-code-in-5-us/"
-      ],
-      "titles": [
-        "東武日光線で作業員4人死亡——事故前に列車3本が通過、安全管理の盲点が浮かぶ",
-        "熊本地震から再出発——400年の伝統「高田焼」窯元が断水の中で制作を再開",
-        "人型ロボットが100メートル走で「9秒32」——北京の世界大会でウサイン・ボルトの記録を超える",
-        "戸建てを売って団地へ——コンパクト化と共同体回帰で注目される公営住宅の新潮流",
-        "シベリア抑留80年——東京で追悼の集い、体験者が「全体像の解明を」と訴える",
-        "コーディングエージェントが実装するUIの品質を上げる——デザインシステムとAgent Skillsの組み合わせ",
-        "AnthropicがClaudeの最上位モデル「ミュトス5」を脆弱性スキャンに開放——「Claude Security」でEnterprise顧客が利用可能に",
-        "「Flutter 3.47」正式リリース——UIライブラリが独立分離、WebAssemblyがデフォルト出力へ",
-        "Hister: A Private, Self-Hosted Full-Content Search Index You Actually Own",
-        "What Is an Agent Harness? — Open-Source Tools Redefine How AI Models Operate in the Real World",
-        "JIT Compiling Code in 5 Microseconds — A Deep Dive into Sub-Millisecond Native Code Generation"
-      ]
-    },
-    {
-      "run_at": "2026-08-24T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592818?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082300262&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082300280&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082300179&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6592807?source=rss",
-        "https://zenn.dev/green_tea/articles/a994964786cb4f",
-        "https://zenn.dev/cureapp/articles/c1e963064d05fd",
-        "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
-        "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
-        "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-        "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html"
-      ],
-      "titles": [
-        "ホルムズ・バベルマンデブ海峡の安定確保へ——外相が中東歴訪を終え、首脳外交を求める声が広まる",
-        "中国、人型ロボットの実用化へ官民総動員——上半期出荷台数で世界の97%超を占める",
-        "山口茜、世界バドミントン選手権で連覇ならず——奈良岡功大も準優勝に終わる",
-        "ガザで「毎晩30〜40人を殺害」——イスラエル閣僚発言が国際社会に波紋を広げる",
-        "豪雨で愛車を失った人々の悲痛な声——千葉豪雨から数週間、廃車か修理かで揺れる被災者",
-        "Claude Codeに見せられないデータをどう分析するか——5層のセキュリティ設計で実現する安全なAI活用",
-        "Claudeのメモリを棚卸しする——陳腐化した記憶がAIの判断を狂わせる、月次レビューの設計",
-        "「Bun 1.4」正式リリース——ZigからRustへの書き直しでCPU使用率5分の1・起動4.8ms・正規表現281倍高速化",
-        "GitHub Copilot Arrives in Slack with Full Agentic Capabilities — Code Channels Enable Async Multi-Team Dev",
-        "Qwen 3.8 27B Completes Reverse Engineering Job in 30 Minutes Locally — Consumer GPU Now Matches Frontier Tasks",
-        "Docker VMM Public Beta: A New High-Performance Hypervisor Built Specifically for Containers"
-      ]
-    },
-    {
-      "run_at": "2026-08-23T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592789?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592778?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592747?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592792?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592793?source=rss",
-        "https://zenn.dev/mizchi/articles/quint-application-modeling",
-        "https://zenn.dev/nrs/articles/b920540a64e1a1",
-        "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000666/",
-        "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-        "https://www.anthropic.com/news/position-open-weights-models",
-        "https://simonwillison.net/2026/Aug/22/linus-torvalds/"
-      ],
-      "titles": [
-        "熊本地震ボランティアへの「支援者支援」——猛暑下で活動する人々を守る取り組みが全国に広まる",
-        "「怠けじゃない」——文字が書けない学習障害の高校生が合理的配慮を求めて立ち上がる",
-        "文科省が科研費を倍増要求——4552億円、過去最大規模で「新技術立国」の基盤を強化",
-        "横浜市議が市長を「異常な発達障害者」とX投稿——障害者差別表現として識者が強く批判",
-        "ソニーが中国TCLと合弁「BRAVIA」設立——世界2位パネルメーカーと組む戦略的背景とは",
-        "時相論理仕様言語Quintで分散システムの二重ライターバグを発見——形式検証とRustテストで確認",
-        "ローカルLLM編成がフロンティアAIを超えた日——TAKTで検証、DeepSeek配置がGPT-5.6を上回る",
-        "「Fable禁止」で業務が止まったあの18日間——日本企業が取るべき「脱・単一AIモデル」戦略",
-        "Anthropic Slashes Fable 5 Biology False Positives by 85% — Legitimate Healthcare and Research Queries Now Unblocked",
-        "Anthropic CEO Dario Amodei: We Don't Support Banning Open-Weights Models — Three Targeted Measures Instead",
-        "Linus Torvalds Used AI to Crack a 'Debug Session from Hell' — Then Had to Keep Pushing When It Wanted to Quit"
       ]
     }
   ]

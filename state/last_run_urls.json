@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-25T10:00:00+09:00",
+  "last_run_at": "2026-08-25T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-25T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026082500332&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082500494&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6593007",
+        "https://www.jiji.com/jc/article?k=2026082500312&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/25/2000000732/",
+        "https://zenn.dev/t_hayashi/articles/20ec8fbebbeabb",
+        "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000744/",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news055.html",
+        "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+        "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+        "https://surya.website/rling-qwen-to-paint-with-code"
+      ],
+      "titles": [
+        "在留手続きの手数料、10月から大幅引き上げ——永住許可申請は10倍の20万円に",
+        "高市首相「沖縄知事選は政権の試金石」——与野党が候補者調整を本格化",
+        "高校2年生が死亡——車で追われ集団暴行か、神奈川県警が捜査",
+        "米大統領がスペースX株を取得——利益相反の指摘で議会が調査を要求",
+        "新「マイナアプリ」が本日スタート——「デジタル認証アプリ」と統合、パスポート申請もiPhoneで完結",
+        "「お前のループエンジニアリングは間違っている」——Claude Codeで実践するエージェント自動化の4原則",
+        "ChatGPT Plusの5時間制限が8月25日から復活——WorkとCodexが対象、Proは数ヶ月免除",
+        "中国AIが性能ランキングで米国モデルに対し3倍のリード——オープンソース勢が「コスト効率」で逆転",
+        "llm-anthropic 0.27 Released: Compatibility with Anthropic Python SDK v1.0.0 and httpx2 Migration",
+        "Thomson Reuters Launches \"Thomson\" — Its Own $40M Proprietary Frontier Model Trained on Legal Data",
+        "Training AI to Paint with Code via RL: How Surya Narreddi Built a Reward-Shaped Code-Generation Artist"
+      ]
+    },
     {
       "run_at": "2026-08-25T10:00:00+09:00",
       "urls": [
@@ -165,7 +194,7 @@
         "福岡県議会議長が議員辞職へ——不透明な資金疑惑が引き金に",
         "ウクライナ侵攻4年半——長期化する消耗戦、和平への道筋見えず",
         "外国人観光客のレンタカー事故が急増——左側通行・標識の壁に衝突相次ぐ",
-        "フランスの熱波で溺死者が300人超——記録的猛暑が夏の水辺に悲劇をもたらす",
+        "フランスの熱波で溺死者が300人超——記録的猛暑が夏の水辺に悲痛をもたらす",
         "「うるう時間」2027年5月導入へ——うるう秒廃止で情報システムの混乱防止",
         "家族で使うAIエージェントをDiscordで運用する——マルチエージェント家庭内オーケストレーション実践",
         "「Slack Code」登場——Claude CodeやDevinがSlack内でチームと協働してコーディング",

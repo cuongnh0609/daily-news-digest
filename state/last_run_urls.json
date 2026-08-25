@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-26T00:00:00+09:00",
+  "last_run_at": "2026-08-26T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-26T05:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/26/2000000777/",
+        "https://news.yahoo.co.jp/pickup/6593076",
+        "https://news.yahoo.co.jp/pickup/6593079",
+        "https://www.itmedia.co.jp/news/article/2608/25/2000000735/",
+        "https://news.yahoo.co.jp/pickup/6593064",
+        "https://zenn.dev/akuroiwa/books/dev-note-spec-craft",
+        "https://zenn.dev/nanashi_os/articles/ea0e82d4961d56",
+        "https://zenn.dev/hampen2929/articles/20260825-ai-team-what-changed",
+        "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+        "https://www.anthropic.com/news/wellbeing-research-grants",
+        "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
+      ],
+      "titles": [
+        "Apple、2nmチップ「M6」搭載の新型Mac miniを発表——AIパフォーマンスが大幅向上",
+        "政府、食料品消費税減税に伴う農家収入減を補填する給付金制度を方針決定",
+        "山形・鶴岡市で車が崖下200メートルに転落——男性運転手が死亡",
+        "pixivFANBOX、無断転載コンテンツのGoogle検索削除申請をクリエイターに代わり代行へ",
+        "路上にパン39kg「点々と投棄」——環境大臣が強く非難",
+        "spec-craft開発ノート——Obsidian × spec-kitでAIエージェントと実践する仕様駆動開発",
+        "LLMエージェントの暴走を生物免疫機構で自律制御——T細胞モデルとトルクリミッターによるGuardrailをLangGraphで実装",
+        "AIエージェントを「チーム」にしたら開発はどう変わったか——知識永続化・役割分離・段階的委任の実践報告",
+        "OpenAI's Jalapeño ASIC Outperforms Nvidia Blackwell on Inference Efficiency",
+        "Anthropic Launches $5M AI Wellbeing Research Grant Program",
+        "Apple M6 and M5 Ultra: First 2nm Chips Bring 2x AI Performance and 512 GB Unified Memory for Mac Studio"
+      ]
+    },
     {
       "run_at": "2026-08-26T00:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Kitesurf: Cloudflare's AI-Only Headless Browser Runs on Workers — No Tabs, No Extensions, 3–7× Lighter Than Chromium",
         "Android Malware Infects Automotive Head Units via Firmware Update Channel — MoYu Group's BADBOX Botnet Expands to Cars",
         "Stop Making TUIs — AI Coding Agents Have Made Native GUI Development Trivial, Says Thomas Ptacek"
-      ]
-    },
-    {
-      "run_at": "2026-08-24T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592859?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082400331&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6592878?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082400403&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6592879?source=rss",
-        "https://zenn.dev/marvelousu/articles/windows-mcp-vs-computer-use",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news048.html",
-        "https://www.itmedia.co.jp/enterprise/articles/2608/24/news075.html",
-        "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000703/",
-        "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-        "https://simonwillison.net/2026/Aug/23/drew-breunig/"
-      ],
-      "titles": [
-        "猛暑日が相次ぐ——西日本を中心に危険な暑さ、九州では40℃近くに達する地域も",
-        "台風18号が沖縄本島に接近——中心気圧940hPa、暴風・高波に厳重警戒",
-        "千葉市が豪雨時に避難警報レベルを誤って配信——「緊急安全確保」を「避難指示」に引き下げ",
-        "綿貫民輔元衆院議長が死去——享年99歳、郵政民営化に反対した重鎮",
-        "厚労省、がん患者題材の映画とタイアップで批判殺到——「配慮欠けていた」と謝罪",
-        "Claude CodeのデスクトップAI操作——computer-useより「Windows-MCP」が効率的な理由",
-        "生成AIの品質を「AIで測る」——「LLM as a Judge」を機能させる3つの要素",
-        "AIエージェント活用を阻む「予算の壁」——コスト可視化ツールで打開できるか",
-        "OpenAI Resets All Paid Codex Usage Quotas — Three Consumption Bug Patterns Identified, Fix Coming Next Week",
-        "Fast and Hard Code — How AI Agents Are Democratizing Systems Programming and Reshaping Language Choices",
-        "Fable's Price Tag Restores the Value of Prompt Optimization — AI Model Economics Hit an Inflection Point"
-      ]
-    },
-    {
-      "run_at": "2026-08-24T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592847?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592836?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592839?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592842?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592835?source=rss",
-        "https://zenn.dev/kimushun1101/articles/family-ai-agents-on-discord",
-        "https://www.publickey1.jp/blog/26/slackaislack_code.html",
-        "https://www.itmedia.co.jp/enterprise/articles/2608/24/news010.html",
-        "https://www.publickey1.jp/blog/26/zeddeltaai.html",
-        "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
-        "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/"
-      ],
-      "titles": [
-        "福岡県議会議長が議員辞職へ——不透明な資金疑惑が引き金に",
-        "ウクライナ侵攻4年半——長期化する消耗戦、和平への道筋見えず",
-        "外国人観光客のレンタカー事故が急増——左側通行・標識の壁に衝突相次ぐ",
-        "フランスの熱波で溺死者が300人超——記録的猛暑が夏の水辺に悲痛をもたらす",
-        "「うるう時間」2027年5月導入へ——うるう秒廃止で情報システムの混乱防止",
-        "家族で使うAIエージェントをDiscordで運用する——マルチエージェント家庭内オーケストレーション実践",
-        "「Slack Code」登場——Claude CodeやDevinがSlack内でチームと協働してコーディング",
-        "「非エンジニアに役立つか」でツールの価値が決まる——1時間で作ったツールがGitHub史上最速成長",
-        "Zed Launches Delta — A Multiplayer AI Collaboration Tool That Records Every Prompt, Edit, and Context",
-        "GitHub Copilot Brings Shared Agentic Sessions to Microsoft Teams — Any Team Member Can Guide the AI",
-        "Anthropic's Fable 5 Struggles to Attract Users as Model Economics Force Developers to Opus — Simon Willison Reports"
       ]
     }
   ]

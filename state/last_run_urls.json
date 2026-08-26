@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-26T20:00:00+09:00",
+  "last_run_at": "2026-08-27T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-27T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6593197?source=rss",
+        "https://news.yahoo.co.jp/pickup/6593189?source=rss",
+        "https://news.yahoo.co.jp/pickup/6593196?source=rss",
+        "https://news.yahoo.co.jp/pickup/6593182?source=rss",
+        "https://www.jiji.com/jc/article?k=2026082600265&g=soc&m=rss",
+        "https://www.publickey1.jp/blog/26/mcpaihttp.html",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news044.html",
+        "https://zenn.dev/eggletric/articles/4ea81df765fb66",
+        "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+        "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+        "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think"
+      ],
+      "titles": [
+        "ネパールで大規模洪水——観光客約380人が行方不明、外国人含む死者22人に",
+        "生活道路の法定速度、9月1日から30km/hへ引き下げ",
+        "学校版カスハラ対策指針、国が初策定へ",
+        "ICC制裁問題、赤根前所長が日本に「最大限の努力」要請",
+        "太陽光パネル購入補助を廃止——環境省、次世代型・ペロブスカイト太陽電池の普及に重点移行",
+        "MCPの新ロードマップ公開——AIエージェント対応・HTTP統一・アイデンティティ管理が3大柱に",
+        "企業のデュアルAI採用が標準化——Oktaデータ分析でAnthropicとOpenAIの並用が加速",
+        "AIは回せば回すほど凄いのか——「常時稼働」という設計の敗北",
+        "Anthropic Improves Fable 5's Biology Safeguards — 85% Reduction in False Positives",
+        "Anthropic's July Revenue Hits $65B Annualized — But Fable 5 Usage Lags at 8% as Opus 4.8 Dominates",
+        "RAG Is Simpler Than You Think: Six Recipes from Full-Text Search to Full Pre-Embedding"
+      ]
+    },
     {
       "run_at": "2026-08-26T20:00:00+09:00",
       "urls": [
@@ -180,7 +209,7 @@
       "urls": [
         "https://www.jiji.com/jc/article?k=2026082500332&g=soc&m=rss",
         "https://www.jiji.com/jc/article?k=2026082500494&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593007",
+        "https://news.yahoo.co.jp/pickup/6592967",
         "https://www.jiji.com/jc/article?k=2026082500312&g=int&m=rss",
         "https://www.itmedia.co.jp/news/article/2608/25/2000000732/",
         "https://zenn.dev/t_hayashi/articles/20ec8fbebbeabb",
@@ -202,64 +231,6 @@
         "llm-anthropic 0.27 Released: Compatibility with Anthropic Python SDK v1.0.0 and httpx2 Migration",
         "Thomson Reuters Launches \"Thomson\" — Its Own $40M Proprietary Frontier Model Trained on Legal Data",
         "Training AI to Paint with Code via RL: How Surya Narreddi Built a Reward-Shaped Code-Generation Artist"
-      ]
-    },
-    {
-      "run_at": "2026-08-25T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592967",
-        "https://news.yahoo.co.jp/pickup/6592970",
-        "https://www.jiji.com/jc/article?k=2026082500193&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082500202&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6592971",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news041.html",
-        "https://www.publickey1.jp/blog/26/googleaiheirai.html",
-        "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
-        "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-        "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
-        "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
-      ],
-      "titles": [
-        "経産省、事業再編を促す税優遇制度の新設を2027年度税制改正に要望へ",
-        "米、イランに対する「経済的総攻撃」を発動——デジタル資産・航空など5分野を新たに制裁対象へ",
-        "ウクライナ支援有志連合、防空強化を最優先に——米「パトリオット」代替を探り10月に合同演習",
-        "高市首相、キーウ有志会合でオンライン参加——対ロ制裁・ウクライナ支援を継続する意思を表明",
-        "売春防止法改正案——「買う側」の勧誘行為規制を焦点に、法務省有識者会議が報告書案を提示",
-        "建設業でのClaude有料活用が急増——AI導入率が5ヶ月で43%から68%超へ、次の壁は「現場での実務運用」",
-        "Google、AIモデルを完全準同型暗号に対応させるコンパイラ「HEIR」を発表——復号なしに暗号データを直接処理",
-        "CursorがAIエージェント時代向けGitホスティング「Origin」を発表——GitHubが不安定化する中、エージェント専用設計で対抗",
-        "LLMs Could Control Host Machines by Exploiting Vulnerabilities in Inference Engines Like vLLM and SGLang",
-        "Microsoft Releases Agent Lightning v1.0 — A Skill for Systematically Optimizing AI Agents Across Accuracy, Cost, and Latency",
-        "AI Coding Will Prevent the Development of Genuine Programming Expertise — A Structural Warning for the Industry"
-      ]
-    },
-    {
-      "run_at": "2026-08-25T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082500076&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6592948",
-        "https://news.yahoo.co.jp/pickup/6592940",
-        "https://www.itmedia.co.jp/news/article/2608/24/2000000728/",
-        "https://www.itmedia.co.jp/news/article/2608/19/2000000629/",
-        "https://zenn.dev/tribeau/articles/d7cd180e53f719",
-        "https://www.itmedia.co.jp/news/article/2608/21/2000000688/",
-        "https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html",
-        "https://www.anthropic.com/news/claude-text-watermark",
-        "https://developers.openai.com/api/docs/pricing",
-        "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/"
-      ],
-      "titles": [
-        "米、シリアのテロ支援国家指定を解除——再建支援とイラン排除を同時に狙う外交戦略",
-        "トランプ大統領、カナダ製自動車への関税を現行の2倍に引き上げると表明",
-        "中国産白菜に発がん性物質の疑い——当局が輸入品を対象に調査を開始",
-        "消費者庁、「ダークパターン」規制へ——特商法改正を視野に中間取りまとめ案を公表",
-        "さくらインターネット、別システムでも不正アクセス判明——136万アカウントに漏洩の恐れ",
-        "AIでイベントカタログ279件を自動生成——4層検証戦略でAIの「幻覚」を排除し実装品質も向上",
-        "Anthropic、8月末にもIPO申請書類を公開か——調達額はSpaceX過去最大に匹敵との報道",
-        "DuckDB 2.0 Preview——VARIANT型・非同期I/O・Trigger対応で分散・本番ワークロードへの適用範囲が拡大",
-        "How Claude's Text Watermark Works — Anthropic Embeds Invisible AI-Content Markers Compliant with the EU AI Act",
-        "OpenAI Cuts GPT-5.6 Sol API Prices with Promotional Rates Through November 2026",
-        "Beyond Line-by-Line: Simon Willison on Why Verification Strategy Is the Core Skill for Working with Coding Agents"
       ]
     }
   ]

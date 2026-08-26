@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-26T10:02:00+09:00",
+  "last_run_at": "2026-08-26T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-26T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6593134?source=rss",
+        "https://news.yahoo.co.jp/pickup/6593129?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/26/2000000805/",
+        "https://www.itmedia.co.jp/news/article/2608/26/2000000799/",
+        "https://www.itmedia.co.jp/news/article/2608/24/2000000718/",
+        "https://zenn.dev/runathicku/articles/dca8dfca353067",
+        "https://zenn.dev/waribashi/articles/agent-harness-01-overview",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news040.html",
+        "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+        "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+        "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1"
+      ],
+      "titles": [
+        "博多区で40.4℃ 福岡市初の酷暑日",
+        "同志社大学・理事長ら辞任 沖縄・ヘノコ視察事故で責任明確化",
+        "「nanacoクレジットカード」誕生 日本初ATMで現金還元",
+        "セブン×ヤマト「セルフ発送機」10秒でフリマ荷物をレジなし発送",
+        "「うるう秒」2027年に廃止へ 誤差1時間まで容認",
+        "Claude Codeを会社に配る前に、hooksで止めるべき操作を全部書く",
+        "コーディングエージェント7実装のソースを全部読んだ",
+        "「AIエージェントを本番運用中」日本が最下位 スキル不足とデータ品質が壁",
+        "Anthropic Discloses Three Real-World Security Incidents from AI Cybersecurity Evaluations",
+        "GitHub Copilot Brings Shared Agentic Work to Microsoft Teams",
+        "Firefox 157 Will Ship JPEG XL by Default on All Platforms"
+      ]
+    },
     {
       "run_at": "2026-08-26T10:02:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "How Claude's Text Watermark Works — Anthropic Embeds Invisible AI-Content Markers Compliant with the EU AI Act",
         "OpenAI Cuts GPT-5.6 Sol API Prices with Promotional Rates Through November 2026",
         "Beyond Line-by-Line: Simon Willison on Why Verification Strategy Is the Core Skill for Working with Coding Agents"
-      ]
-    },
-    {
-      "run_at": "2026-08-25T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592929?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592942?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082400872&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082400906&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082400856&g=soc&m=rss",
-        "https://zenn.dev/katsumata/articles/014affaeb272d00aeae6",
-        "https://zenn.dev/mkj/articles/aad5698672aef3",
-        "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000711/",
-        "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-        "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-        "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/"
-      ],
-      "titles": [
-        "超党派議連、ICC制裁めぐり米政権を強く非難——「最も強い言葉で非難する」声明を採択",
-        "損保ジャパン、自動車保険料を来年1月から平均5%値上げ——修理費高騰が主因",
-        "多摩川河口付近で船が座礁——10人乗船、2人が重傷、海上保安庁が救助",
-        "米、イランと取引する第三国への制裁を大幅拡大——戦闘終結への圧力を一段と強化",
-        "政府、生物・化学テロ対策の専門家会議を設置——年内に行動計画を策定へ",
-        "デザイナーが主導する仕様駆動型デザインシステム——Figma MCP × Claude Codeでコンポーネント生成を自動化",
-        "AI Agentに社内知識をオンボーディングする——SkillsとEvalの設計で正解率96%を達成",
-        "Sakana AI、防衛省の情報分析業務をAIで支援——自衛隊指揮統制システム高度化に続く第2弾",
-        "New MCP Roadmap: Agentic Messaging, HTTP-Native Transport, and Agent Identity Standards",
-        "Why Your Local LLM Feels Dumber Than It Is — Quantization, Attention Backends, and KV Cache Are the Culprits",
-        "Your Executable Is a SQLite Database — A New Technique for Packaging Binaries as Queryable Databases"
-      ]
-    },
-    {
-      "run_at": "2026-08-24T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6592886?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592910?source=rss",
-        "https://news.yahoo.co.jp/pickup/6592902?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082400537&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082400730&g=int&m=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000723/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news049.html",
-        "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
-        "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
-        "https://securelist.com/android-head-unit-malware/121106/",
-        "https://simonwillison.net/2026/Aug/21/stop-making-tuis/"
-      ],
-      "titles": [
-        "ギニアでごみ山が崩落、少なくとも30人死亡——豪雨後に急傾斜が崩壊",
-        "プルデンシャル生命、自粛期間中に不祥事か——社内調査で複数の不正行為が浮上",
-        "クマと車が衝突か——北海道で運転手の男性が死亡、道路に大型クマの痕跡",
-        "中国、月面探査機の年内打ち上げを断念——基地建設計画に影響の恐れ",
-        "中国でテスラなど427万台超を一斉リコール——リコール件数は過去最大級",
-        "なぜいま30Bクラスのオープンモデルが"熱い"のか——「27BパラメータでOpus 4.6超え」の衝撃",
-        "ChatGPT・Gemini・Claude Sonnet 5のAPIはどれが最速？ — 「遅延」と「遅滞」の違いで見えてくること",
-        "「Visual Studio Code 1.133」正式リリース——ClaudeとCopilotを同一セッションで混在使用可能に",
-        "Kitesurf: Cloudflare's AI-Only Headless Browser Runs on Workers — No Tabs, No Extensions, 3–7× Lighter Than Chromium",
-        "Android Malware Infects Automotive Head Units via Firmware Update Channel — MoYu Group's BADBOX Botnet Expands to Cars",
-        "Stop Making TUIs — AI Coding Agents Have Made Native GUI Development Trivial, Says Thomas Ptacek"
       ]
     }
   ]

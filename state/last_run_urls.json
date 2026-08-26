@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-27T00:00:00+09:00",
+  "last_run_at": "2026-08-27T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-27T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026082601037&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082600164&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082601127&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6593195?source=rss",
+        "https://www.jiji.com/jc/article?k=2026082600745&g=int&m=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2608/26/2000000788/",
+        "https://www.itmedia.co.jp/aiplus/article/2608/26/2000000786/",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news010.html",
+        "https://www.anthropic.com/news/claude-text-watermark",
+        "https://cursor.com/blog/joining-spacex",
+        "https://z.ai/blog/glm-5.3-flash"
+      ],
+      "titles": [
+        "ヘンリー王子一家が帰国——英移住6年ぶりに王室との関係に動きか",
+        "トランプ氏「ホルムズ海峡の機雷をすべて除去」——イランへの直接攻撃は当面なしと示唆",
+        "米GDP改定値、4〜6月期は1.5%増——速報値から変わらず、インフレは前年比3.7%",
+        "ファミリーマートが制服をTシャツ化——小売業界初、涼しさと動きやすさを優先",
+        "OpenAI、ChatGPTで親ロシアのSNS工作を確認——アカウント停止処分に",
+        "ChatGPT Workがログイン必要サイトに対応——AIエージェントが認証後サイトを自律操作",
+        "M5 Ultra×4台でデータセンター級帯域幅4.8TB/s——巨大LLMをローカル実行の新地平",
+        "米企業のAPI利用、実は58%が中国モデル——コスト優位性でDeepSeek・Qwen・GLMが席巻",
+        "How Claude's Text Watermark Works — Anthropic Implements SynthID for EU AI Act Compliance",
+        "Cursor Acquired by SpaceX — World's Largest GPU Fleet Now Powers AI Coding Assistant",
+        "GLM-5.3-Flash Tops Hacker News — Zhipu AI's Fastest Model Rivals GPT-5 on Coding at Fraction of Cost"
+      ]
+    },
     {
       "run_at": "2026-08-27T00:00:00+09:00",
       "urls": [
@@ -108,7 +137,7 @@
         "ドリー・パートンさん死去——グラミー11回受賞、「オールウェイズ・ラブ・ユー」の生みの親",
         "韓国、対北朝鮮で「蚊帳の外」を懸念——米朝交渉の進展で苦渋の選択迫られる",
         "避難生活での障害者の苦悩——実態把握が困難、民間支援も追いつかず",
-        "Apple、Mac Studio新型を発表——M5 Ultraで最大4.3倍のAI性能、512GBメモリも選択可能に",
+        "Apple、Mac Studio新型を発表——M5 UltraでAI性能は最大4.3倍、512GBメモリも選択可能に",
         "敵対的検証をLLMコードレビューで試すと何が起きるのか——Reviewer × Critic 2エージェント方式の実験報告",
         "家族で使うAIエージェントのDiscord運用——AnthropicのMax規約を守りながら複数人で共有する設計",
         "「Slack Code」登場——AIエージェントがSlackの会話を把握してコーディング・ドキュメント作成を代行",
@@ -202,35 +231,6 @@
         "llm 0.33 Released — OpenAI v3.x Compatibility, Multi-Template Merging, and Reasoning Summaries",
         "Ambient Context — macOS App Captures Your Work as Markdown for LLM Agents, No Screenshots",
         "ChatGPT Search Now Deploys the site: Operator at Scale — Implications for Web Publishers and SEO"
-      ]
-    },
-    {
-      "run_at": "2026-08-25T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082500332&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082500494&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6592967",
-        "https://www.jiji.com/jc/article?k=2026082500312&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/25/2000000732/",
-        "https://zenn.dev/t_hayashi/articles/20ec8fbebbeabb",
-        "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000744/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news055.html",
-        "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
-        "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
-        "https://surya.website/rling-qwen-to-paint-with-code"
-      ],
-      "titles": [
-        "在留手続きの手数料、10月から大幅引き上げ——永住許可申請は10倍の20万円に",
-        "高市首相「沖縄知事選は政権の試金石」——与野党が候補者調整を本格化",
-        "高校2年生が死亡——車で追われ集団暴行か、神奈川県警が捜査",
-        "米大統領がスペースX株を取得——利益相反の指摘で議会が調査を要求",
-        "新「マイナアプリ」が本日スタート——「デジタル認証アプリ」と統合、パスポート申請もiPhoneで完結",
-        "「お前のループエンジニアリングは間違っている」——Claude Codeで実践するエージェント自動化の4原則",
-        "ChatGPT Plusの5時間制限が8月25日から復活——WorkとCodexが対象、Proは数ヶ月免除",
-        "中国AIが性能ランキングで米国モデルに対し3倍のリード——オープンソース勢が「コスト効率」で逆転",
-        "llm-anthropic 0.27 Released: Compatibility with Anthropic Python SDK v1.0.0 and httpx2 Migration",
-        "Thomson Reuters Launches \"Thomson\" — Its Own $40M Proprietary Frontier Model Trained on Legal Data",
-        "Training AI to Paint with Code via RL: How Surya Narreddi Built a Reward-Shaped Code-Generation Artist"
       ]
     }
   ]

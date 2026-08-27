@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-28T00:00:00+09:00",
+  "last_run_at": "2026-08-28T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-28T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026082700653&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082700703&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082700510&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6593325?source=rss",
+        "https://www.jiji.com/jc/article?k=2026082700075&g=pol&m=rss",
+        "https://zenn.dev/aiagate/articles/harness-is-not-the-stable",
+        "https://zenn.dev/shimo4228/articles/judge-degrades-into-reviewer",
+        "https://www.publickey1.jp/blog/26/slackaislack_code.html",
+        "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+        "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+        "https://calv.info/small-models-have-arrived"
+      ],
+      "titles": [
+        "熊本地震から1カ月——課題山積、日常回復は遠く、4万2000棟超が被害",
+        "イスラエル、イラン再攻撃も視野か——米と溝広がる、強硬派主導で対決継続",
+        "立憲民主党、3党の早期合流を見送りへ——地方組織の反対が壁に",
+        "広域豪雨が続く——28日も大雨予想、都市部でも浸水被害の恐れ",
+        "沖縄知事選が告示——現職と新人の一騎打ち、自民12年ぶり奪還狙う",
+        "「ハーネスを組め」のハーネスは、もう馬具ではない——AIエンジニアリング用語の再定義",
+        "KPIは改善していた——それでも自作のLLM judgeを捨てた理由",
+        "Slack上の開発チームの会話をAIエージェントが把握してコーディング——「Slack Code」登場",
+        "Anthropic Previews Model Hardware Standard — MCP for Physical Lab Devices",
+        "Gemini Omni 1.1 Flash: Google's Studio-Quality Video Model Now Open to Developers",
+        "Small Models Have Arrived — Cost Drop Makes Consumer AI Products Viable"
+      ]
+    },
     {
       "run_at": "2026-08-28T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Improves Fable 5's Biology Safeguards — 85% Reduction in False Positives",
         "Anthropic's July Revenue Hits $65B Annualized — But Fable 5 Usage Lags at 8% as Opus 4.8 Dominates",
         "RAG Is Simpler Than You Think: Six Recipes from Full-Text Search to Full Pre-Embedding"
-      ]
-    },
-    {
-      "run_at": "2026-08-26T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6593175?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593160?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593163?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/26/2000000820/",
-        "https://www.itmedia.co.jp/news/article/2608/26/2000000811/",
-        "https://zenn.dev/motowo/articles/loop-engineering-practice-guide-3",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news044.html",
-        "https://zenn.dev/sutokei/articles/ea0baaa82dbfef",
-        "https://simonwillison.net/2026/Aug/26/paul-dix/",
-        "https://github.com/runetes/maiao",
-        "https://www.publickey1.jp/blog/26/fluter_347uiwebassembly.html"
-      ],
-      "titles": [
-        "備蓄米買い戻しへ 農水省最終調整",
-        "イラン、トランプ大統領の息子への殺害予告を示唆",
-        "左右の足間違え手術、患者側と和解",
-        "韓国SK Hynix、宮城県に半導体工場の計画浮上",
-        "「ホロライブ」カードゲームの公式サイトに不正アクセスの痕跡",
-        "ループエンジニアリング実践ガイド (3/3) AIレビューの限界と本番化の境界",
-        "企業のAIエージェント移行が加速——OktaデータでAnthropicが急成長",
-        "AIエージェントがDiscordに誤送信した日——「読むだけのつもりの実行」が外部送信になる",
-        "Paul Dix: AI Wrote 1M LOC for Bun, Then Refined It for Months Until It Worked",
-        "Maiao: Gerrit-Style Stacked Code Review for GitHub, GitLab, Gitea",
-        "Flutter 3.47: UI Libraries Decoupled from Framework, WebAssembly Becomes Default Output Target"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-27T20:00:00+09:00",
+  "last_run_at": "2026-08-28T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-28T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026082701107&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082701192&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6593331?source=rss",
+        "https://news.yahoo.co.jp/pickup/6593336?source=rss",
+        "https://www.jiji.com/jc/article?k=2026082701139&g=pol&m=rss",
+        "https://zenn.dev/hideki_tamae/articles/agent-concepts-map",
+        "https://zenn.dev/nrs/articles/93424504f49ce6",
+        "https://www.publickey1.jp/blog/26/nextjs_163turbopack90ssr22typescript_7.html",
+        "https://www.anthropic.com/news/position-open-weights-models",
+        "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
+        "https://www.clerky.com/blog/clerky-is-joining-stripe"
+      ],
+      "titles": [
+        "北海道大でフッ化水素酸事故——院生1人死亡、救助者2人が軽傷",
+        "ネパール土石流——死者359人に拡大、行方不明1400人超、氷河崩壊が原因か",
+        "立憲民主党、3野党の早期合流を見送りへ——地方組織の反対が壁に",
+        "日本発の旅客機にマレーシアで遺体——ランディングギア内に人体発見",
+        "高市首相、障害者団体の手紙を受け取り防衛強化を擁護——「守らなければ命は守れない」",
+        "Agent・Orchestration・Harness・Loop・Context・Evals——6つの概念を1つの具体例で整理する",
+        "開発をシフトレフトせよ——形式手法でAIと事前に合意する「TAKT」アプローチ",
+        "Next.js 16.3正式版リリース——Turbopackメモリ90%減、SSR 22%高速化、TypeScript 7対応",
+        "Anthropic's Position on Open-Weights AI Models — Targeted Restrictions Over Broad Bans",
+        "The Harness Is the Thing — Why AI Agent Workflow Design Matters More Than Model Choice",
+        "Stripe Acquires Clerky — Legal Infrastructure for Startups Joins Payments Giant"
+      ]
+    },
     {
       "run_at": "2026-08-27T20:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Paul Dix: AI Wrote 1M LOC for Bun, Then Refined It for Months Until It Worked",
         "Maiao: Gerrit-Style Stacked Code Review for GitHub, GitLab, Gitea",
         "Flutter 3.47: UI Libraries Decoupled from Framework, WebAssembly Becomes Default Output Target"
-      ]
-    },
-    {
-      "run_at": "2026-08-26T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6593134?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593129?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/26/2000000805/",
-        "https://www.itmedia.co.jp/news/article/2608/26/2000000799/",
-        "https://www.itmedia.co.jp/news/article/2608/24/2000000718/",
-        "https://zenn.dev/runathicku/articles/dca8dfca353067",
-        "https://zenn.dev/waribashi/articles/agent-harness-01-overview",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news040.html",
-        "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-        "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
-        "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1"
-      ],
-      "titles": [
-        "博多区で40.4℃ 福岡市初の酷暑日",
-        "同志社大学・理事長ら辞任 沖縄・ヘノコ視察事故で責任明確化",
-        "「nanacoクレジットカード」誕生 日本初ATMで現金還元",
-        "セブン×ヤマト「セルフ発送機」10秒でフリマ荷物をレジなし発送",
-        "「うるう秒」2027年に廃止へ 誤差1時間まで容認",
-        "Claude Codeを会社に配る前に、hooksで止めるべき操作を全部書く",
-        "コーディングエージェント7実装のソースを全部読んだ",
-        "「AIエージェントを本番運用中」日本が最下位 スキル不足とデータ品質が壁",
-        "Anthropic Discloses Three Real-World Security Incidents from AI Cybersecurity Evaluations",
-        "GitHub Copilot Brings Shared Agentic Work to Microsoft Teams",
-        "Firefox 157 Will Ship JPEG XL by Default on All Platforms"
-      ]
-    },
-    {
-      "run_at": "2026-08-26T10:02:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082600006&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082600203&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082500776&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082500594&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/26/2000000778/",
-        "https://zenn.dev/knowledgesense/articles/0cb441713c9fee",
-        "https://zenn.dev/kimushun1101/articles/family-ai-agents-on-discord",
-        "https://www.publickey1.jp/blog/26/slackaislack_code.html",
-        "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-        "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
-        "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/"
-      ],
-      "titles": [
-        "CIA長官がロシアを電撃訪問——ウクライナ和平交渉の行方が焦点に",
-        "ドリー・パートンさん死去——グラミー11回受賞、「オールウェイズ・ラブ・ユー」の生みの親",
-        "韓国、対北朝鮮で「蚊帳の外」を懸念——米朝交渉の進展で苦渋の選択迫られる",
-        "避難生活での障害者の苦悩——実態把握が困難、民間支援も追いつかず",
-        "Apple、Mac Studio新型を発表——M5 UltraでAI性能は最大4.3倍、512GBメモリも選択可能に",
-        "敵対的検証をLLMコードレビューで試すと何が起きるのか——Reviewer × Critic 2エージェント方式の実験報告",
-        "家族で使うAIエージェントのDiscord運用——AnthropicのMax規約を守りながら複数人で共有する設計",
-        "「Slack Code」登場——AIエージェントがSlackの会話を把握してコーディング・ドキュメント作成を代行",
-        "GitHub Copilot App Customize Tab Is Generally Available — MCP Servers, Plugins, Skills, and Canvases in One Hub",
-        "Bun 1.4 Released: Rewritten from Zig to Rust Using Claude Code — 5× Less CPU, 50% Faster Startup, 281× Faster Regex",
-        "EVE Online Begins Migration from Stackless Python 2.7 to Python 3 — 2.4 Million Lines of Code, 20,000 Manual Fix Points"
       ]
     }
   ]

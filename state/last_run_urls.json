@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-27T05:00:00+09:00",
+  "last_run_at": "2026-08-27T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-27T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6593207",
+        "https://news.yahoo.co.jp/pickup/6593225",
+        "https://news.yahoo.co.jp/pickup/6593215",
+        "https://www.itmedia.co.jp/news/article/2608/26/2000000798/",
+        "https://www.itmedia.co.jp/news/article/2608/26/2000000817/",
+        "https://zenn.dev/sc30gsw/articles/953334f11df507",
+        "https://zenn.dev/yui/articles/97597aa13b9802",
+        "https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html",
+        "https://www.anthropic.com/news/claude-opus-5",
+        "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+        "https://openai.com/index/hugging-face-incident-and-the-road-ahead/"
+      ],
+      "titles": [
+        "石川・富山に大雨特別警報——北陸豪雨、浸水・土砂崩れ相次ぐ",
+        "沖縄知事選が告示——過去最多6人が立候補、古謝・玉城の一騎打ちへ",
+        "Apple、9月9日に新製品イベント開催へ——折りたたみ式iPhone初披露か",
+        "ANA子会社のデジタルギフトサービスに不正アクセス——担当者情報漏えいの可能性",
+        "悪質UIを体験できる「ダークパターン博物館」がX（旧Twitter）で話題に",
+        "ローカル開発から卒業——Claude Code / Cursorで開発の8割をクラウドに移した実践報告",
+        "Claude Codeの規律をhookに降ろしたら、Haikuでも壊れなくなった",
+        "DuckDB 2.0プレビュー公開——クライアント/サーバ対応・VARIANT型・トリガーなど大型機能追加へ",
+        "Anthropic Introduces Claude Opus 5 — New Frontier for Long-Running Agents at Half the Cost",
+        "AWS Acquires DuckLabs — DuckDB, DuckLake, and Quack Protocol to Remain Open Source Under MIT",
+        "OpenAI Addresses Hugging Face Security Incident — AI Model Hub Faces Trust Crisis After Dataset Breach"
+      ]
+    },
     {
       "run_at": "2026-08-27T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Headlong: A Micro-Harness for Persistent, Always-On AI Agents (Laude Institute / MIT)",
         "Docker VMM Public Beta: Docker's Own Hypervisor Replaces Hyper-V on Windows, Targets Default in October 2026",
         "Qwen 3.8-Flash-Next: Alibaba's 125B MoE Model Tops HN Front Page — Efficiency vs. Scale in the Open-Weights Race"
-      ]
-    },
-    {
-      "run_at": "2026-08-25T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082500825&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082500632&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082500582&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593033?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/25/2000000759/",
-        "https://zenn.dev/demia/articles/6c1291f0dae964",
-        "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000748/",
-        "https://www.itmedia.co.jp/news/article/2608/25/2000000737/",
-        "https://simonwillison.net/2026/Aug/22/llm/",
-        "https://github.com/dragthelake/ambient-context",
-        "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/"
-      ],
-      "titles": [
-        "ガソリン補助金を継続——高市首相が1リットル170円水準の維持を指示",
-        "中国産白菜にホルマリン漬け疑惑——日本も情報収集に乗り出す",
-        "デスバレーで仏人観光客が熱射病で死亡——47℃の猛暑、車が砂地にはまる",
-        "宅配業者へのカスハラ被害が深刻——厚労省調査で「4割超が経験」",
-        "東京23区の「駅空白地帯」地図が話題——練馬・江戸川区に赤色集中",
-        "AIエージェント向けReactコンポーネントライブラリ「DeMiA UI」——className禁止設計でエージェントの再現性を高める",
-        "謎の高性能AIモデル「Ox Alpha」がOpenRouterに登場——48時間で推論量8%獲得、正体はGLM-5.3か",
-        "三重県庁、私物USBメモリ3789個を一斉廃棄——全体の3割が私物、情報管理の盲点を是正",
-        "llm 0.33 Released — OpenAI v3.x Compatibility, Multi-Template Merging, and Reasoning Summaries",
-        "Ambient Context — macOS App Captures Your Work as Markdown for LLM Agents, No Screenshots",
-        "ChatGPT Search Now Deploys the site: Operator at Scale — Implications for Web Publishers and SEO"
       ]
     }
   ]

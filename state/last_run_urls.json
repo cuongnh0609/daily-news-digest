@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-27T10:00:00+09:00",
+  "last_run_at": "2026-08-27T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-27T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6593262",
+        "https://www.jiji.com/jc/article?k=2026082700455&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6593275",
+        "https://news.yahoo.co.jp/pickup/6593276",
+        "https://news.yahoo.co.jp/pickup/6593269",
+        "https://www.itmedia.co.jp/news/article/2608/27/2000000831/",
+        "https://zenn.dev/uguisu_blog/articles/c553bcbf119ce4",
+        "https://zenn.dev/ceres_tech_blog/articles/8cb3ce7bc4c937",
+        "https://www.itmedia.co.jp/news/article/2608/27/2000000837/",
+        "https://github.com/SenteLabsAI/OpenExecutive",
+        "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"
+      ],
+      "titles": [
+        "北陸豪雨が深刻化——石川・富山で河川氾濫・集落孤立が相次ぐ、28日にかけ最大警戒",
+        "草間彌生さんが死去——97歳、水玉とカボチャで世界に轟いた前衛芸術の巨星",
+        "浜岡原発の廃炉工事で不適切な費用請求——中部電力が書き換え14件以上を公表",
+        "北陸豪雨で厳重警戒続く——28日も200ミリ超の降水予想、避難指示が拡大",
+        "ビル・ゲイツ氏がAI時代に警鐘——「激動の時代」到来、人類の判断が分岐点に",
+        "MCPの新ロードマップ公開——AIエージェント対応・HTTP統一・アイデンティティ管理が3大柱に",
+        "AIエージェントは夜に夢を見て記憶を整理する——Perplexity Brainの設計と最小実装",
+        "AI10並列で開発したら事故りかけた——git worktreeで並列AI開発を安全に制御する実践ガイド",
+        "NVIDIA Agrees to Acquire Hugging Face for $13 Billion — AI Model Hub's Future Under Semiconductor Giant",
+        "OpenExecutive: Open-Source AI CEO Built After Company Fired Devs to Make Room for AI",
+        "Bill Gates: A Turbulent AI Era Is Here — Critical Choices Humanity Must Make Now"
+      ]
+    },
     {
       "run_at": "2026-08-27T10:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "GitHub Copilot App Customize Tab Is Generally Available — MCP Servers, Plugins, Skills, and Canvases in One Hub",
         "Bun 1.4 Released: Rewritten from Zig to Rust Using Claude Code — 5× Less CPU, 50% Faster Startup, 281× Faster Regex",
         "EVE Online Begins Migration from Stackless Python 2.7 to Python 3 — 2.4 Million Lines of Code, 20,000 Manual Fix Points"
-      ]
-    },
-    {
-      "run_at": "2026-08-26T05:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2608/26/2000000777/",
-        "https://news.yahoo.co.jp/pickup/6593076",
-        "https://news.yahoo.co.jp/pickup/6593079",
-        "https://www.itmedia.co.jp/news/article/2608/25/2000000735/",
-        "https://news.yahoo.co.jp/pickup/6593064",
-        "https://zenn.dev/akuroiwa/books/dev-note-spec-craft",
-        "https://zenn.dev/nanashi_os/articles/ea0e82d4961d56",
-        "https://zenn.dev/hampen2929/articles/20260825-ai-team-what-changed",
-        "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-        "https://www.anthropic.com/news/wellbeing-research-grants",
-        "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
-      ],
-      "titles": [
-        "Apple、2nmチップ「M6」搭載の新型Mac miniを発表——AIパフォーマンスが大幅向上",
-        "政府、食料品消費税減税に伴う農家収入減を補填する給付金制度を方針決定",
-        "山形・鶴岡市で車が崖下200メートルに転落——男性運転手が死亡",
-        "pixivFANBOX、無断転載コンテンツのGoogle検索削除申請をクリエイターに代わり代行へ",
-        "路上にパン39kg「点々と投棄」——環境大臣が強く非難",
-        "spec-craft開発ノート——Obsidian × spec-kitでAIエージェントと実践する仕様駆動開発",
-        "LLMエージェントの暴走を生物免疫機構で自律制御——T細胞モデルとトルクリミッターによるGuardrailをLangGraphで実装",
-        "AIエージェントを「チーム」にしたら開発はどう変わったか——知識永続化・役割分離・段階的委任の実践報告",
-        "OpenAI's Jalapeño ASIC Outperforms Nvidia Blackwell on Inference Efficiency",
-        "Anthropic Launches $5M AI Wellbeing Research Grant Program",
-        "Apple M6 and M5 Ultra: First 2nm Chips Bring 2x AI Performance and 512 GB Unified Memory for Mac Studio"
-      ]
-    },
-    {
-      "run_at": "2026-08-26T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082500775&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082500918&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082500901&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082500977&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/25/2000000766/",
-        "https://zenn.dev/uehaj/articles/claude-code-supervisor-agent-view",
-        "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000767/",
-        "https://www.publickey1.jp/blog/26/nextjs_163turbopack90ssr22typescript_7.html",
-        "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-        "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html",
-        "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next"
-      ],
-      "titles": [
-        "ICC制裁「日本の立場と相いれず」——高市首相、「弱腰」批判に正面から反論",
-        "３党合流、中・立に先送り論——公明から「議員引き揚げ」の声も",
-        "下地幹郎氏、沖縄知事選への不出馬を表明——自民との協定が背景に",
-        "防衛装備庁、テラドローンと迎撃ドローン「Terra B1」の量産契約を正式締結",
-        "中野ブロードウェイの時計店で約2億円の窃盗被害——犯人は逃走中",
-        "ターミナルを閉じてもClaude Codeが動き続ける仕組み——supervisorデーモンとAgent View徹底解説",
-        "政府、AI事業者向け「知財保護ルール」を策定——開示・説明義務の「準拠か説明か」原則を採用",
-        "Next.js 16.3正式リリース——Turbopackのメモリ最大90%削減・SSR 22%高速化・TypeScript 7対応",
-        "Headlong: A Micro-Harness for Persistent, Always-On AI Agents (Laude Institute / MIT)",
-        "Docker VMM Public Beta: Docker's Own Hypervisor Replaces Hyper-V on Windows, Targets Default in October 2026",
-        "Qwen 3.8-Flash-Next: Alibaba's 125B MoE Model Tops HN Front Page — Efficiency vs. Scale in the Open-Weights Race"
       ]
     }
   ]

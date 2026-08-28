@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-28T20:00:00+09:00",
+  "last_run_at": "2026-08-29T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-29T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026082801080&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082800889&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082800778&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6593449?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/28/2000000910/",
+        "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
+        "https://zenn.dev/estie/articles/a6d1e78e8e41d5",
+        "https://zenn.dev/highreso/articles/9d74b825b83e8f",
+        "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
+        "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+        "https://github.com/openai/openai-python/blob/main/httpx2.md"
+      ],
+      "titles": [
+        "中国、軍制服組トップの張又侠・中央軍事委副主席を解任——規律違反で調査",
+        "ネパール洪水でせき止め湖が形成——決壊すれば下流に壊滅的被害の恐れ",
+        "パワハラ認定で主要会派が見切り——横浜市長が辞意を表明、市政混乱が続く",
+        "熊本地震の断水がほぼ解消——被災地で日常回復へ前進、復興課題は山積",
+        "警察官にウェアラブルカメラを全国配備へ——試行運用で有用性確認、透明性向上に期待",
+        "AIに丸投げしないで理解するためのAI開発手法——「仕様理解」を中心に据えた7ステップ開発フロー",
+        "ICFPC 2026で人間とAIが共闘——267チーム中14位、AIコストは換算で約84万円に",
+        "30B級ローカルLLMを現場で比較——Muse Glimmer-30BがQwen3.8を上回る結果に",
+        "GitHub Copilot: Major Policy and Billing Changes Coming September–October 2026",
+        "Pentagon's Blacklisting of Anthropic Ruled Unlawful — US Federal Judge Blocks Defense Contractor Ban",
+        "OpenAI Migrates Python SDK to httpx2 — Breaking Change Requiring Manual Upgrade for All Users"
+      ]
+    },
     {
       "run_at": "2026-08-28T20:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "NVIDIA Agrees to Acquire Hugging Face for $13 Billion — AI Model Hub's Future Under Semiconductor Giant",
         "OpenExecutive: Open-Source AI CEO Built After Company Fired Devs to Make Room for AI",
         "Bill Gates: A Turbulent AI Era Is Here — Critical Choices Humanity Must Make Now"
-      ]
-    },
-    {
-      "run_at": "2026-08-27T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6593207",
-        "https://news.yahoo.co.jp/pickup/6593225",
-        "https://news.yahoo.co.jp/pickup/6593215",
-        "https://www.itmedia.co.jp/news/article/2608/26/2000000798/",
-        "https://www.itmedia.co.jp/news/article/2608/26/2000000817/",
-        "https://zenn.dev/sc30gsw/articles/953334f11df507",
-        "https://zenn.dev/yui/articles/97597aa13b9802",
-        "https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html",
-        "https://www.anthropic.com/news/claude-opus-5",
-        "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-        "https://openai.com/index/hugging-face-incident-and-the-road-ahead/"
-      ],
-      "titles": [
-        "石川・富山に大雨特別警報——北陸豪雨、浸水・土砂崩れ相次ぐ",
-        "沖縄知事選が告示——過去最多6人が立候補、古謝・玉城の一騎打ちへ",
-        "Apple、9月9日に新製品イベント開催へ——折りたたみ式iPhone初披露か",
-        "ANA子会社のデジタルギフトサービスに不正アクセス——担当者情報漏えいの可能性",
-        "悪質UIを体験できる「ダークパターン博物館」がX（旧Twitter）で話題に",
-        "ローカル開発から卒業——Claude Code / Cursorで開発の8割をクラウドに移した実践報告",
-        "Claude Codeの規律をhookに降ろしたら、Haikuでも壊れなくなった",
-        "DuckDB 2.0プレビュー公開——クライアント/サーバ対応・VARIANT型・トリガーなど大型機能追加へ",
-        "Anthropic Introduces Claude Opus 5 — New Frontier for Long-Running Agents at Half the Cost",
-        "AWS Acquires DuckLabs — DuckDB, DuckLake, and Quack Protocol to Remain Open Source Under MIT",
-        "OpenAI Addresses Hugging Face Security Incident — AI Model Hub Faces Trust Crisis After Dataset Breach"
-      ]
-    },
-    {
-      "run_at": "2026-08-27T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082601037&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082600164&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082601127&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593195?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082600745&g=int&m=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2608/26/2000000788/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/26/2000000786/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news010.html",
-        "https://www.anthropic.com/news/claude-text-watermark",
-        "https://cursor.com/blog/joining-spacex",
-        "https://z.ai/blog/glm-5.3-flash"
-      ],
-      "titles": [
-        "ヘンリー王子一家が帰国——英移住6年ぶりに王室との関係に動きか",
-        "トランプ氏「ホルムズ海峡の機雷をすべて除去」——イランへの直接攻撃は当面なしと示唆",
-        "米GDP改定値、4〜6月期は1.5%増——速報値から変わらず、インフレは前年比3.7%",
-        "ファミリーマートが制服をTシャツ化——小売業界初、涼しさと動きやすさを優先",
-        "OpenAI、ChatGPTで親ロシアのSNS工作を確認——アカウント停止処分に",
-        "ChatGPT Workがログイン必要サイトに対応——AIエージェントが認証後サイトを自律操作",
-        "M5 Ultra×4台でデータセンター級帯域幅4.8TB/s——巨大LLMをローカル実行の新地平",
-        "米企業のAPI利用、実は58%が中国モデル——コスト優位性でDeepSeek・Qwen・GLMが席巻",
-        "How Claude's Text Watermark Works — Anthropic Implements SynthID for EU AI Act Compliance",
-        "Cursor Acquired by SpaceX — World's Largest GPU Fleet Now Powers AI Coding Assistant",
-        "GLM-5.3-Flash Tops Hacker News — Zhipu AI's Fastest Model Rivals GPT-5 on Coding at Fraction of Cost"
-      ]
-    },
-    {
-      "run_at": "2026-08-27T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6593197?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593189?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593196?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593182?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082600265&g=soc&m=rss",
-        "https://www.publickey1.jp/blog/26/mcpaihttp.html",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news044.html",
-        "https://zenn.dev/eggletric/articles/4ea81df765fb66",
-        "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-        "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-        "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think"
-      ],
-      "titles": [
-        "ネパールで大規模洪水——観光客約380人が行方不明、外国人含む死者22人に",
-        "生活道路の法定速度、9月1日から30km/hへ引き下げ",
-        "学校版カスハラ対策指針、国が初策定へ",
-        "ICC制裁問題、赤根前所長が日本に「最大限の努力」要請",
-        "太陽光パネル購入補助を廃止——環境省、次世代型・ペロブスカイト太陽電池の普及に重点移行",
-        "MCPの新ロードマップ公開——AIエージェント対応・HTTP統一・アイデンティティ管理が3大柱に",
-        "企業のデュアルAI採用が標準化——Oktaデータ分析でAnthropicとOpenAIの並用が加速",
-        "AIは回せば回すほど凄いのか——「常時稼働」という設計の敗北",
-        "Anthropic Improves Fable 5's Biology Safeguards — 85% Reduction in False Positives",
-        "Anthropic's July Revenue Hits $65B Annualized — But Fable 5 Usage Lags at 8% as Opus 4.8 Dominates",
-        "RAG Is Simpler Than You Think: Six Recipes from Full-Text Search to Full Pre-Embedding"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-28T05:00:00+09:00",
+  "last_run_at": "2026-08-28T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-28T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026082800247&g=flash&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082800184&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082800185&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6593351?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/28/2000000879/",
+        "https://zenn.dev/rhosokawa/articles/d0a958c17c2820",
+        "https://zenn.dev/t_hayashi/articles/20ec8fbebbeabb",
+        "https://zenn.dev/knowledgesense/articles/0cb441713c9fee",
+        "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+        "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/"
+      ],
+      "titles": [
+        "横浜市長が辞職意向を固める——パワハラ問題で市政継続が困難に",
+        "トランプ大統領、オンタリオ湖を「アメリカ湖」に改称——カナダと新たな摩擦",
+        "ネパール・中国の土石流、死者390人超——行方不明2000人近く、捜索が急務",
+        "熊本地震から1カ月——今も約2500人が避難、暑さの中で支援が急務",
+        "キオクシアとSanDisk、日本に約5兆円投資——フラッシュメモリ増産でAI需要に対応",
+        "並行開発に「Orca」がめちゃ便利——4セッション以上ならAgent IDEが最適解",
+        "お前のループエンジニアリングは間違っている——エージェント自律化の5つの落とし穴",
+        "敵対的検証をLLMコードレビューに導入——F1スコア3ポイント向上、トークンは4.5倍",
+        "Security Vulnerability Found in Claude Code Opus 5 Auto Mode — Prompt Injection Bypasses Safety Classifier",
+        "GitHub Copilot Code Review: No More 300-File Limit, Plus Resolution Feedback Loop",
+        "Google Launches Gemini 3.5 Transcribe — Most Precise Speech-to-Text Yet, with Real-Time Streaming API"
+      ]
+    },
     {
       "run_at": "2026-08-28T05:00:00+09:00",
       "urls": [

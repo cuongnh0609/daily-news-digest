@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-29T00:00:00+09:00",
+  "last_run_at": "2026-08-29T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-29T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6593460?source=rss",
+        "https://www.jiji.com/jc/article?k=2026082800701&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082801068&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2608/28/2000000908/",
+        "https://news.yahoo.co.jp/pickup/6593457?source=rss",
+        "https://zenn.dev/sc30gsw/articles/953334f11df507",
+        "https://zenn.dev/eggletric/articles/4ea81df765fb66",
+        "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html",
+        "https://www.anthropic.com/news/claude-text-watermark",
+        "https://huggingface.co/zai-org/GLM-5.3",
+        "https://www.itmedia.co.jp/news/article/2608/28/2000000901/"
+      ],
+      "titles": [
+        "米FRB、9月の利上げ観測が急浮上——パウエル議長が「インフレはまだ高すぎる」と発言",
+        "イオン爆発事故から1カ月——7人死亡の刑事責任追及へ、遺族「苦しいまま」",
+        "高市政権、なりわい再建に軸足——熊本地震1カ月、復興支援の方向性が明確に",
+        "トレファク子会社に不正アクセス——13万人超の顧客情報が流出か",
+        "ネパール洪水の行方不明邦人に小学生も——大阪在住の家族の消息不明が続く",
+        "ローカル開発をやめてクラウドエージェントへ——Claude Code・Cursorでコードの8割をクラウドに移した実践報告",
+        "AIは「常時稼働」すべきではない——「回せば回すほど凄い」という設計思想の敗北",
+        "DuckDBの開発元DuckLabsがAWSの子会社に——オープンソース・MITライセンスは維持",
+        "Anthropic Deploys Invisible Text Watermark Across All Claude Outputs",
+        "GLM-5.3: Z.ai Releases Open-Weight 753B Model with Top-Tier Coding and Cybersecurity Performance",
+        "Hugging Face Unveils Microduck — A $399 Open-Source Duck-Shaped Robot"
+      ]
+    },
     {
       "run_at": "2026-08-29T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Lovable CTO: The Future of SaaS Is Apps That Agents Can Use — MCP Servers Replace Traditional UI",
         "Hot Chips 2026: OpenAI's Jalapeño Custom Chip Delivers 1.9× Efficiency — Agent Harness Quality Trumps Model Choice",
         "GitHub Copilot Global Model Policy Now Generally Available — Enterprises Control AI Model Access Org-Wide"
-      ]
-    },
-    {
-      "run_at": "2026-08-27T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6593262",
-        "https://www.jiji.com/jc/article?k=2026082700455&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593275",
-        "https://news.yahoo.co.jp/pickup/6593276",
-        "https://news.yahoo.co.jp/pickup/6593269",
-        "https://www.itmedia.co.jp/news/article/2608/27/2000000831/",
-        "https://zenn.dev/uguisu_blog/articles/c553bcbf119ce4",
-        "https://zenn.dev/ceres_tech_blog/articles/8cb3ce7bc4c937",
-        "https://www.itmedia.co.jp/news/article/2608/27/2000000837/",
-        "https://github.com/SenteLabsAI/OpenExecutive",
-        "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"
-      ],
-      "titles": [
-        "北陸豪雨が深刻化——石川・富山で河川氾濫・集落孤立が相次ぐ、28日にかけ最大警戒",
-        "草間彌生さんが死去——97歳、水玉とカボチャで世界に轟いた前衛芸術の巨星",
-        "浜岡原発の廃炉工事で不適切な費用請求——中部電力が書き換え14件以上を公表",
-        "北陸豪雨で厳重警戒続く——28日も200ミリ超の降水予想、避難指示が拡大",
-        "ビル・ゲイツ氏がAI時代に警鐘——「激動の時代」到来、人類の判断が分岐点に",
-        "MCPの新ロードマップ公開——AIエージェント対応・HTTP統一・アイデンティティ管理が3大柱に",
-        "AIエージェントは夜に夢を見て記憶を整理する——Perplexity Brainの設計と最小実装",
-        "AI10並列で開発したら事故りかけた——git worktreeで並列AI開発を安全に制御する実践ガイド",
-        "NVIDIA Agrees to Acquire Hugging Face for $13 Billion — AI Model Hub's Future Under Semiconductor Giant",
-        "OpenExecutive: Open-Source AI CEO Built After Company Fired Devs to Make Room for AI",
-        "Bill Gates: A Turbulent AI Era Is Here — Critical Choices Humanity Must Make Now"
       ]
     }
   ]

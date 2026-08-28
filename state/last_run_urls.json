@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-28T10:00:00+09:00",
+  "last_run_at": "2026-08-28T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-28T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026082800156&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6593399?source=rss",
+        "https://news.yahoo.co.jp/pickup/6593396?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/28/2000000883/",
+        "https://news.yahoo.co.jp/pickup/6593393?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/28/2000000897/",
+        "https://zenn.dev/lincwell_inc/articles/79092d88245748",
+        "https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval",
+        "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+        "https://www.anthropic.com/news/expanding-support-for-scientists",
+        "https://github.com/experientiallabs/experiential"
+      ],
+      "titles": [
+        "横浜市長、パワハラ問題で辞職へ――市政継続が困難と判断",
+        "インフルエンザが全国で流行入り――厚労省が警戒呼びかけ",
+        "トランプ大統領、太平洋の名称変更を示唆――外交的波紋広がる",
+        "「週刊ダイヤモンド」が紙版を終了――114年の歴史に幕、完全デジタル化へ",
+        "USJ、大規模拡張の方向で調整――新エリア追加で世界最大級へ",
+        "Anthropic、物理機器をAIが制御するための共通規格「MHS」を発表――ラボ機器をMCPで操作可能に",
+        "Claude Codeの承認待ちを光で知らせる「Clawd」を自作――M5Atom LiteとWebhookで実現",
+        "MacBook Pro 128GBでローカルLLMがついに実用水準に――Qwen3.8 Flash Next実測レポート",
+        "Judge Rules Trump Administration's Blacklisting of Anthropic Was Illegal",
+        "Anthropic Expands Claude for Scientists: 10,000 Free Seats and $50K Research Credits",
+        "Experiential: Open Model Gateway That Turns Production Traffic Into Custom Optimized Routers"
+      ]
+    },
     {
       "run_at": "2026-08-28T10:00:00+09:00",
       "urls": [

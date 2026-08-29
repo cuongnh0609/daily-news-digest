@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-29T05:00:00+09:00",
+  "last_run_at": "2026-08-29T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-29T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026082900102&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082800802&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082800902&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082800662&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082900097&g=int&m=rss",
+        "https://zenn.dev/safie_inc/articles/ee72b837e4a5f1",
+        "https://www.publickey1.jp/blog/26/mcpaihttp.html",
+        "https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751",
+        "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+        "https://www.itmedia.co.jp/news/article/2608/27/2000000837/",
+        "https://arxiv.org/abs/2608.23691"
+      ],
+      "titles": [
+        "ネパール・中国の土石流、死者580人超に拡大——行方不明は2400人以上、二次災害の懸念も",
+        "相次ぐ首長のハラスメント問題——強すぎる権限と資質への厳しい視線、横浜市長辞意を受けて",
+        "中国、イラン問題への深入りを避ける方針——対米関係の安定化を最優先に",
+        "アイスランドでEU加盟交渉再開の是非を問う国民投票——北欧の外交政策に注目",
+        "中国BYD、2四半期連続で減益——国内EV市場の不振が業績を直撃",
+        "「Enterで送信」は滅びよ——AIツールのIME誤爆を修飾キー必須化で根絶した実録",
+        "MCPの新ロードマップ公開——AIエージェント対応・HTTP通信統一・エージェント独立アイデンティティが柱",
+        "ローカルAWSエミュレーター「Floci」でTerraformを検証——LocalStack不要、68サービス対応の軽量代替",
+        "AI Agents Can Now Exploit Security Vulnerabilities Within Minutes of a Patch Rumor",
+        "NVIDIA in Talks to Acquire Hugging Face for ~$13 Billion — Vertical AI Stack Consolidation",
+        "Autonomous Multi-Agent System Discovers Novel Mathematics in an Open-World Environment"
+      ]
+    },
     {
       "run_at": "2026-08-29T05:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Previews Model Hardware Standard — MCP for Physical Lab Devices",
         "Gemini Omni 1.1 Flash: Google's Studio-Quality Video Model Now Open to Developers",
         "Small Models Have Arrived — Cost Drop Makes Consumer AI Products Viable"
-      ]
-    },
-    {
-      "run_at": "2026-08-28T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082701107&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082701192&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593331?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593336?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082701139&g=pol&m=rss",
-        "https://zenn.dev/hideki_tamae/articles/agent-concepts-map",
-        "https://zenn.dev/nrs/articles/93424504f49ce6",
-        "https://www.publickey1.jp/blog/26/nextjs_163turbopack90ssr22typescript_7.html",
-        "https://www.anthropic.com/news/position-open-weights-models",
-        "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
-        "https://www.clerky.com/blog/clerky-is-joining-stripe"
-      ],
-      "titles": [
-        "北海道大でフッ化水素酸事故——院生1人死亡、救助者2人が軽傷",
-        "ネパール土石流——死者359人に拡大、行方不明1400人超、氷河崩壊が原因か",
-        "立憲民主党、3野党の早期合流を見送りへ——地方組織の反対が壁に",
-        "日本発の旅客機にマレーシアで遺体——ランディングギア内に人体発見",
-        "高市首相、障害者団体の手紙を受け取り防衛強化を擁護——「守らなければ命は守れない」",
-        "Agent・Orchestration・Harness・Loop・Context・Evals——6つの概念を1つの具体例で整理する",
-        "開発をシフトレフトせよ——形式手法でAIと事前に合意する「TAKT」アプローチ",
-        "Next.js 16.3正式版リリース——Turbopackメモリ90%減、SSR 22%高速化、TypeScript 7対応",
-        "Anthropic's Position on Open-Weights AI Models — Targeted Restrictions Over Broad Bans",
-        "The Harness Is the Thing — Why AI Agent Workflow Design Matters More Than Model Choice",
-        "Stripe Acquires Clerky — Legal Infrastructure for Startups Joins Payments Giant"
-      ]
-    },
-    {
-      "run_at": "2026-08-27T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082700099&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593320",
-        "https://news.yahoo.co.jp/pickup/6593319",
-        "https://www.itmedia.co.jp/news/article/2608/27/2000000868/",
-        "https://www.itmedia.co.jp/news/article/2608/27/2000000866/",
-        "https://zenn.dev/yamada_ai_dev/articles/design-spec-before-implementation",
-        "https://zenn.dev/hidetzu/articles/konjaku-context-engineering",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/27/news046.html",
-        "https://www.latent.space/p/lovable-future-of-saas",
-        "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
-        "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available"
-      ],
-      "titles": [
-        "ネパール大規模土石流——死者270人超、行方不明1300人以上、邦人5人の消息不明",
-        "秋田県に線状降水帯の恐れ——沿岸・内陸で道路冠水、数分で急変する豪雨",
-        "イオン、期間限定で145品目を値下げ——物価高対策で「トップバリュ」9月から実施",
-        "トヨタ、2028年にAI自動運転車を量販車に搭載——E2Eとルールベースを組み合わせたハイブリッド方式",
-        "NASA・FRBなど米政府機関にサイバー攻撃——中国国家安全省関係企業が2018年から関与",
-        "実装の前に design-spec.md を書く——AIに投げる前に「何を確定させるか」がSpec-Driven開発の核心",
-        "CLAUDE.mdに全部書くのをやめた——Context Engineeringは実運用で「情報の配置と整合性」が全てだった",
-        "2035年、AI推論の電力需要は2GWから46GWへ——コード生成が全体の半分超を占める時代へ",
-        "Lovable CTO: The Future of SaaS Is Apps That Agents Can Use — MCP Servers Replace Traditional UI",
-        "Hot Chips 2026: OpenAI's Jalapeño Custom Chip Delivers 1.9× Efficiency — Agent Harness Quality Trumps Model Choice",
-        "GitHub Copilot Global Model Policy Now Generally Available — Enterprises Control AI Model Access Org-Wide"
       ]
     }
   ]

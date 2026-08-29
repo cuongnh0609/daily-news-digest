@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-29T20:00:00+09:00",
+  "last_run_at": "2026-08-30T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-30T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026082900287&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082900306&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082900268&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6593554?source=rss",
+        "https://news.yahoo.co.jp/pickup/6593558?source=rss",
+        "https://zenn.dev/yuninaka/articles/agentic-loop-static-guardrails",
+        "https://zenn.dev/uguisu_blog/articles/f2286418e86de0",
+        "https://zenn.dev/shimpeiws/articles/21d4a57e12457b",
+        "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+        "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+        "https://lwn.net/Articles/1091231/"
+      ],
+      "titles": [
+        "ネパール洪水、せき止め湖の水位が上昇——被災地で再び大雨の予報",
+        "福岡県議選、日本維新の会が定数削減・報酬カットを公約",
+        "米アラスカ州上院選、同姓同名の候補者が登場——共和党が誤投票を強く警戒",
+        "海水浴場で3人が溺死——14歳の少年、友人救助しようとして命を落としたか",
+        "熊本地震から1カ月——避難生活続く被災者それぞれの現実",
+        "なぜAgentic Loopに「静的ガードレール」が必要なのか——トークン肥大化の正体と止まれる設計の価値",
+        "CursorからClaude Code・Codexへ移行できるか——設定の可搬性をOpenAIのモデル提供終了を機に実測",
+        "全行レビューをやめられるか——コーディングエージェントとの開発フロー2026夏",
+        "OpenAI Ends Model Access for Cursor After SpaceX Acquisition — Developers Face Immediate Tool Migration",
+        "Htmx 4.0 Released — Hypermedia-First Framework Gets Major Overhaul with New Extension System",
+        "Debian Votes to Allow Responsible Use of Generative AI in Package Maintenance and Development"
+      ]
+    },
     {
       "run_at": "2026-08-29T20:00:00+09:00",
       "urls": [

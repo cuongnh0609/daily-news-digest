@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-30T00:00:00+09:00",
+  "last_run_at": "2026-08-30T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-30T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6593577?source=rss",
+        "https://www.jiji.com/jc/article?k=2026082900345&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026083000007&g=flash&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082900318&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082900415&g=spo&m=rss",
+        "https://zenn.dev/tokium_dev/articles/claude-md-keeps-growing",
+        "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
+        "https://www.itmedia.co.jp/news/article/2608/27/2000000866/",
+        "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+        "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+        "https://github.com/vllm-project/vllm/releases/tag/v0.28.0"
+      ],
+      "titles": [
+        "福井県に大雨特別警報レベル5——明け方に1ヶ月分超の降水量、即時避難を呼びかけ",
+        "ロシア軍の攻撃でウクライナに37人死亡——倉庫で大規模爆発、弾薬保管か",
+        "茨城県で震度4の揺れ——早朝に発生、震源は県南部の深さ約50キロ",
+        "女子バレー、タイに1-3で敗れ五輪出場権を逃す——アジア選手権準決勝",
+        "町田FW小川、欧州から3年ぶりのJ復帰——フェースガード着用で水戸戦に途中出場",
+        "肥大化し続けるCLAUDE.md——Hookによる自動サイズ監視で87行から378行への膨張を防いだ実録",
+        "GitHub Copilot週次アップデート——SlackとTeamsへのエージェント統合、Rust製CLIバックエンドで性能改善",
+        "NASA・FRBなど米政府機関に中国系ハッカー集団が不正アクセス——米司法省が大規模サイバー攻撃を公表",
+        "Warp Builds Self-Improving Agents on Claude — Skills-Based Feedback Loop Powers 10M Sessions",
+        "Qwen3.8-Flash-Next: MoE Architecture Preview for Qwen4 — 125B Parameters, Only 6B Active",
+        "vLLM v0.28.0: Rust Frontend, Kimi-K3 Optimizations, and Prefix Caching Enabled by Default"
+      ]
+    },
     {
       "run_at": "2026-08-30T00:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "GitHub Copilot: Major Policy and Billing Changes Coming September–October 2026",
         "Pentagon's Blacklisting of Anthropic Ruled Unlawful — US Federal Judge Blocks Defense Contractor Ban",
         "OpenAI Migrates Python SDK to httpx2 — Breaking Change Requiring Manual Upgrade for All Users"
-      ]
-    },
-    {
-      "run_at": "2026-08-28T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082800800&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082800158&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082800670&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/28/2000000928/",
-        "https://www.itmedia.co.jp/news/article/2608/28/2000000922/",
-        "https://zenn.dev/miogawa/articles/1170543905ebe0",
-        "https://zenn.dev/elith/articles/609498a4109ad2",
-        "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
-        "https://www.anthropic.com/news/wellbeing-research-grants",
-        "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
-        "https://simonwillison.net/2026/Aug/24/llm-anthropic/"
-      ],
-      "titles": [
-        "ノルウェー国王ハラルド5世が死去——欧州最高齢の君主、89歳で",
-        "3党合流が白紙に——公明・中立の党首会談で「中道への組織的合流はしない」と確認",
-        "近畿地方でM6.8以上の地震が30年以内に起きる確率が50〜60%——地震調査委が公表",
-        "パナソニック、CO2削減目標を大幅下方修正——3145万トンから550万トンへ、エアコン事業拡大が響く",
-        "イエローハット、最大180万人分の情報漏えいか——作業予約システムへの不正アクセスを確認",
-        "「AIの民主化」をやめたい——エージェント時代に専門家と非専門家の生産性差は「1対1000」に",
-        "Kaggler流のプロダクト開発入門——生成AIセキュリティプロダクトを2週間で社内運用まで実現",
-        "CursorがAIエージェント時代のGitホスティング「Origin」を発表——エージェント規模のアクセスに対応した新インフラ",
-        "Anthropic Commits $5M to Independent AI Wellbeing Research — Open-Source Evaluation Grants for Clinicians and Psychologists",
-        "Cursor Launches 'Origin' — AI-Native Git Hosting Designed for Agent-Scale Traffic That Could Overwhelm GitHub",
-        "llm-anthropic 0.27: Simon Willison Uses Fable 5 in Claude Code to Migrate the Plugin to anthropic v1.0.0 with httpx2"
-      ]
-    },
-    {
-      "run_at": "2026-08-28T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082800156&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593399?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593396?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/28/2000000883/",
-        "https://news.yahoo.co.jp/pickup/6593393?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/28/2000000897/",
-        "https://zenn.dev/lincwell_inc/articles/79092d88245748",
-        "https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval",
-        "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-        "https://www.anthropic.com/news/expanding-support-for-scientists",
-        "https://github.com/experientiallabs/experiential"
-      ],
-      "titles": [
-        "横浜市長、パワハラ問題で辞職へ――市政継続が困難と判断",
-        "インフルエンザが全国で流行入り――厚労省が警戒呼びかけ",
-        "トランプ大統領、太平洋の名称変更を示唆――外交的波紋広がる",
-        "「週刊ダイヤモンド」が紙版を終了――114年の歴史に幕、完全デジタル化へ",
-        "USJ、大規模拡張の方向で調整――新エリア追加で世界最大級へ",
-        "Anthropic、物理機器をAIが制御するための共通規格「MHS」を発表――ラボ機器をMCPで操作可能に",
-        "Claude Codeの承認待ちを光で知らせる「Clawd」を自作――M5Atom LiteとWebhookで実現",
-        "MacBook Pro 128GBでローカルLLMがついに実用水準に――Qwen3.8 Flash Next実測レポート",
-        "Judge Rules Trump Administration's Blacklisting of Anthropic Was Illegal",
-        "Anthropic Expands Claude for Scientists: 10,000 Free Seats and $50K Research Credits",
-        "Experiential: Open Model Gateway That Turns Production Traffic Into Custom Optimized Routers"
-      ]
-    },
-    {
-      "run_at": "2026-08-28T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082800247&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082800184&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082800185&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593351?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/28/2000000879/",
-        "https://zenn.dev/rhosokawa/articles/d0a958c17c2820",
-        "https://zenn.dev/t_hayashi/articles/20ec8fbebbeabb",
-        "https://zenn.dev/knowledgesense/articles/0cb441713c9fee",
-        "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
-        "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/"
-      ],
-      "titles": [
-        "横浜市長が辞職意向を固める——パワハラ問題で市政継続が困難に",
-        "トランプ大統領、オンタリオ湖を「アメリカ湖」に改称——カナダと新たな摩擦",
-        "ネパール・中国の土石流、死者390人超——行方不明2000人近く、捜索が急務",
-        "熊本地震から1カ月——今も約2500人が避難、暑さの中で支援が急務",
-        "キオクシアとSanDisk、日本に約5兆円投資——フラッシュメモリ増産でAI需要に対応",
-        "並行開発に「Orca」がめちゃ便利——4セッション以上ならAgent IDEが最適解",
-        "お前のループエンジニアリングは間違っている——エージェント自律化の5つの落とし穴",
-        "敵対的検証をLLMコードレビューに導入——F1スコア3ポイント向上、トークンは4.5倍",
-        "Security Vulnerability Found in Claude Code Opus 5 Auto Mode — Prompt Injection Bypasses Safety Classifier",
-        "GitHub Copilot Code Review: No More 300-File Limit, Plus Resolution Feedback Loop",
-        "Google Launches Gemini 3.5 Transcribe — Most Precise Speech-to-Text Yet, with Real-Time Streaming API"
-      ]
-    },
-    {
-      "run_at": "2026-08-28T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082700653&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082700703&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082700510&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593325?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082700075&g=pol&m=rss",
-        "https://zenn.dev/aiagate/articles/harness-is-not-the-stable",
-        "https://zenn.dev/shimo4228/articles/judge-degrades-into-reviewer",
-        "https://www.publickey1.jp/blog/26/slackaislack_code.html",
-        "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-        "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-        "https://calv.info/small-models-have-arrived"
-      ],
-      "titles": [
-        "熊本地震から1カ月——課題山積、日常回復は遠く、4万2000棟超が被害",
-        "イスラエル、イラン再攻撃も視野か——米と溝広がる、強硬派主導で対決継続",
-        "立憲民主党、3党の早期合流を見送りへ——地方組織の反対が壁に",
-        "広域豪雨が続く——28日も大雨予想、都市部でも浸水被害の恐れ",
-        "沖縄知事選が告示——現職と新人の一騎打ち、自民12年ぶり奪還狙う",
-        "「ハーネスを組め」のハーネスは、もう馬具ではない——AIエンジニアリング用語の再定義",
-        "KPIは改善していた——それでも自作のLLM judgeを捨てた理由",
-        "Slack上の開発チームの会話をAIエージェントが把握してコーディング——「Slack Code」登場",
-        "Anthropic Previews Model Hardware Standard — MCP for Physical Lab Devices",
-        "Gemini Omni 1.1 Flash: Google's Studio-Quality Video Model Now Open to Developers",
-        "Small Models Have Arrived — Cost Drop Makes Consumer AI Products Viable"
       ]
     }
   ]

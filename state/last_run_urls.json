@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-29T15:00:00+09:00",
+  "last_run_at": "2026-08-29T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-29T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026082900296&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082900264&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082900101&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082900277&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026082900308&g=soc&m=rss",
+        "https://zenn.dev/loglass/articles/3f8a2c91d4e7b5",
+        "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
+        "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000876/",
+        "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+        "https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html",
+        "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html"
+      ],
+      "titles": [
+        "東武特急事故、中継見張り員「配置前に作業開始」——4人死亡、捜査本格化",
+        "米同時テロ主犯格の供述、軍事法廷が証拠採用を拒否——拷問による信頼性に疑問",
+        "インドネシア大規模デモ、プラボウォ政権に逆風——汚職と政策への不満が爆発",
+        "錦織圭「ろうそくの火が消えた」——全米オープン1回戦敗退で現役引退へ",
+        "天皇陛下、ノルウェー国王ハラルド5世の死去に弔電——欧州最高齢の君主が89歳で崩御",
+        "AIプロダクト新規事業を1年間立ち上げて見えてきたこと——PMFまでの道のりと現実",
+        "Visual Studio Code 1.133正式リリース——ClaudeとCopilotを同一ワークスペースで混在使用可能に",
+        "OpenAI・Anthropic・Google等118組織がAIサイバー防衛の「集団行動」を呼びかけ——共同声明を公開",
+        "How to Evaluate LLMs Before Production — Lessons from GitHub's Secret Scanning Team",
+        "DuckDB 2.0 Preview: Client/Server Mode, VARIANT Type, Triggers, and Async I/O Coming This Autumn",
+        "Bun 1.4 Released: Full Rust Rewrite Brings 281x Regex Speed, 80% CPU Drop, Playwright and Vitest Support"
+      ]
+    },
     {
       "run_at": "2026-08-29T15:00:00+09:00",
       "urls": [

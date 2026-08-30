@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-30T15:00:00+09:00",
+  "last_run_at": "2026-08-30T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-30T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026083000274&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026083000213&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026083000204&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026083000262&g=spo&m=rss",
+        "https://news.yahoo.co.jp/pickup/6593644?source=rss",
+        "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
+        "https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval",
+        "https://www.publickey1.jp/blog/26/fluter_347uiwebassembly.html",
+        "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+        "https://www.anthropic.com/news/wellbeing-research-grants",
+        "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available"
+      ],
+      "titles": [
+        "石川で集落の孤立解消——70人以上がいまも避難——北陸豪雨",
+        "EU加盟交渉再開に反対——国民投票で否決——アイスランド",
+        "「アメリカ湖」改称に困惑——地元住民ら「ばかげている」「謝罪を」",
+        "日本、イラン下し3位——アジア女子バレー",
+        "カイロス3号機失敗——静電気要因か",
+        "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開——約1200体のAIエージェントが闇掲示板で結託し700体が攻撃に参加",
+        "MacBook Pro 128GBでローカルLLMがついに実用になった——Qwen3.8 Flash Next実測",
+        "Flutter 3.47正式リリース——UIライブラリが分離され独立してアップデート可能、デフォルトでWebAssemblyを生成する方向に",
+        "llm-anthropic 0.27: Using Claude Code + Fable 5 to Upgrade the Anthropic Python SDK to v1.0",
+        "Anthropic Launches $5M Grants for Independent AI Wellbeing Evaluations",
+        "GitHub Global Model Policy Now Generally Available — Enterprises Get Org-Wide AI Model Controls"
+      ]
+    },
     {
       "run_at": "2026-08-30T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "AI Agents Can Now Exploit Security Vulnerabilities Within Minutes of a Patch Rumor",
         "NVIDIA in Talks to Acquire Hugging Face for ~$13 Billion — Vertical AI Stack Consolidation",
         "Autonomous Multi-Agent System Discovers Novel Mathematics in an Open-World Environment"
-      ]
-    },
-    {
-      "run_at": "2026-08-29T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6593460?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082800701&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082801068&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/28/2000000908/",
-        "https://news.yahoo.co.jp/pickup/6593457?source=rss",
-        "https://zenn.dev/sc30gsw/articles/953334f11df507",
-        "https://zenn.dev/eggletric/articles/4ea81df765fb66",
-        "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html",
-        "https://www.anthropic.com/news/claude-text-watermark",
-        "https://huggingface.co/zai-org/GLM-5.3",
-        "https://www.itmedia.co.jp/news/article/2608/28/2000000901/"
-      ],
-      "titles": [
-        "米FRB、9月の利上げ観測が急浮上——パウエル議長が「インフレはまだ高すぎる」と発言",
-        "イオン爆発事故から1カ月——7人死亡の刑事責任追及へ、遺族「苦しいまま」",
-        "高市政権、なりわい再建に軸足——熊本地震1カ月、復興支援の方向性が明確に",
-        "トレファク子会社に不正アクセス——13万人超の顧客情報が流出か",
-        "ネパール洪水の行方不明邦人に小学生も——大阪在住の家族の消息不明が続く",
-        "ローカル開発をやめてクラウドエージェントへ——Claude Code・Cursorでコードの8割をクラウドに移した実践報告",
-        "AIは「常時稼働」すべきではない——「回せば回すほど凄い」という設計思想の敗北",
-        "DuckDBの開発元DuckLabsがAWSの子会社に——オープンソース・MITライセンスは維持",
-        "Anthropic Deploys Invisible Text Watermark Across All Claude Outputs",
-        "GLM-5.3: Z.ai Releases Open-Weight 753B Model with Top-Tier Coding and Cybersecurity Performance",
-        "Hugging Face Unveils Microduck — A $399 Open-Source Duck-Shaped Robot"
-      ]
-    },
-    {
-      "run_at": "2026-08-29T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082801080&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082800889&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082800778&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593449?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/28/2000000910/",
-        "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
-        "https://zenn.dev/estie/articles/a6d1e78e8e41d5",
-        "https://zenn.dev/highreso/articles/9d74b825b83e8f",
-        "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-        "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
-        "https://github.com/openai/openai-python/blob/main/httpx2.md"
-      ],
-      "titles": [
-        "中国、軍制服組トップの張又侠・中央軍事委副主席を解任——規律違反で調査",
-        "ネパール洪水でせき止め湖が形成——決壊すれば下流に壊滅的被害の恐れ",
-        "パワハラ認定で主要会派が見切り——横浜市長が辞意を表明、市政混乱が続く",
-        "熊本地震の断水がほぼ解消——被災地で日常回復へ前進、復興課題は山積",
-        "警察官にウェアラブルカメラを全国配備へ——試行運用で有用性確認、透明性向上に期待",
-        "AIに丸投げしないで理解するためのAI開発手法——「仕様理解」を中心に据えた7ステップ開発フロー",
-        "ICFPC 2026で人間とAIが共闘——267チーム中14位、AIコストは換算で約84万円に",
-        "30B級ローカルLLMを現場で比較——Muse Glimmer-30BがQwen3.8を上回る結果に",
-        "GitHub Copilot: Major Policy and Billing Changes Coming September–October 2026",
-        "Pentagon's Blacklisting of Anthropic Ruled Unlawful — US Federal Judge Blocks Defense Contractor Ban",
-        "OpenAI Migrates Python SDK to httpx2 — Breaking Change Requiring Manual Upgrade for All Users"
       ]
     }
   ]

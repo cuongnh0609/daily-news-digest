@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-31T00:00:00+09:00",
+  "last_run_at": "2026-08-31T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-31T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026083000313&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6593688?source=rss",
+        "https://news.yahoo.co.jp/pickup/6593670?source=rss",
+        "https://news.yahoo.co.jp/pickup/6593674?source=rss",
+        "https://www.jiji.com/jc/article?k=2026083000089&g=soc&m=rss",
+        "https://zenn.dev/lincwell_inc/articles/79092d88245748",
+        "https://zenn.dev/sc30gsw/articles/953334f11df507",
+        "https://zenn.dev/eggletric/articles/4ea81df765fb66",
+        "https://www.anthropic.com/news/claude-text-watermark",
+        "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html",
+        "https://github.blog/changelog/2026-08-27-github-classroom-deprecated"
+      ],
+      "titles": [
+        "土石流背景に気候変動　専門家「継続的努力で阻止を」―ネパール・中国で洪水",
+        "WEST.藤井流星と小瀧望が脱退へ",
+        "高校無償化で私立人気 公立は苦境",
+        "Jアラートで偽警報可能 識者指摘",
+        "避難所の外の被災者見守り　車中泊や軒先、「早期対応を」―支援団体・熊本地震",
+        "Claude Codeの承認待ちを見逃さないために、光るClawd を机に置いた",
+        "ローカルでの開発やめませんか？Claude Code / Cursorで開発の8割をクラウドに移した話",
+        "AIは回せば回すほど凄いのか ―「常時稼働」という設計の敗北",
+        "How Claude's Text Watermark Works",
+        "DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持",
+        "GitHub Classroom deprecated"
+      ]
+    },
     {
       "run_at": "2026-08-31T00:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "How to Evaluate LLMs Before Production — Lessons from GitHub's Secret Scanning Team",
         "DuckDB 2.0 Preview: Client/Server Mode, VARIANT Type, Triggers, and Async I/O Coming This Autumn",
         "Bun 1.4 Released: Full Rust Rewrite Brings 281x Regex Speed, 80% CPU Drop, Playwright and Vitest Support"
-      ]
-    },
-    {
-      "run_at": "2026-08-29T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082900210&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082900202&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082900217&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082900171&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/27/2000000868/",
-        "https://eetimes.itmedia.co.jp/ee/articles/2608/28/news088.html",
-        "https://www.publickey1.jp/blog/26/nextjs_163turbopack90ssr22typescript_7.html",
-        "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000919/",
-        "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/",
-        "https://pwning.systems/posts/llm-memory-program-analysis/",
-        "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2"
-      ],
-      "titles": [
-        "サンドウィッチマン・伊達みきおさん、脳梗塞で緊急入院——当面活動を休止",
-        "トランプ大統領、ベネズエラ原油の２割を「支配」——米が合意を一方的に表明",
-        "瀬立モニカ、パラ・カヌーで銅メダル獲得——日本勢が躍動",
-        "ネパール洪水——つかめぬ消息、遺族「災害さえなければ」",
-        "トヨタ、2028年に自動運転AI搭載車を市場投入——E2Eとルール規定の融合方式",
-        "「半導体はAIが設計、人間は監督に」——次世代EDAツールが描くチップ設計の未来",
-        "Next.js 16.3正式リリース——Turbopackのメモリ90%減、SSR 22%高速化、TypeScript 7統合",
-        "チームみらい安野氏、高市首相に「AI家庭教師」——政策立案にAIを実演",
-        "OpenAI Terminates Cursor Partnership Following SpaceX Acquisition",
-        "I Accidentally Turned LLM Memory into Program Analysis — The Lemmalog Experiment",
-        "GitHub Copilot in Visual Studio August Update: Org-Level Agents, Thinking Effort Controls, Git Code Review"
-      ]
-    },
-    {
-      "run_at": "2026-08-29T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082900102&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082800802&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082800902&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082800662&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082900097&g=int&m=rss",
-        "https://zenn.dev/safie_inc/articles/ee72b837e4a5f1",
-        "https://www.publickey1.jp/blog/26/mcpaihttp.html",
-        "https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751",
-        "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
-        "https://www.itmedia.co.jp/news/article/2608/27/2000000837/",
-        "https://arxiv.org/abs/2608.23691"
-      ],
-      "titles": [
-        "ネパール・中国の土石流、死者580人超に拡大——行方不明は2400人以上、二次災害の懸念も",
-        "相次ぐ首長のハラスメント問題——強すぎる権限と資質への厳しい視線、横浜市長辞意を受けて",
-        "中国、イラン問題への深入りを避ける方針——対米関係の安定化を最優先に",
-        "アイスランドでEU加盟交渉再開の是非を問う国民投票——北欧の外交政策に注目",
-        "中国BYD、2四半期連続で減益——国内EV市場の不振が業績を直撃",
-        "「Enterで送信」は滅びよ——AIツールのIME誤爆を修飾キー必須化で根絶した実録",
-        "MCPの新ロードマップ公開——AIエージェント対応・HTTP通信統一・エージェント独立アイデンティティが柱",
-        "ローカルAWSエミュレーター「Floci」でTerraformを検証——LocalStack不要、68サービス対応の軽量代替",
-        "AI Agents Can Now Exploit Security Vulnerabilities Within Minutes of a Patch Rumor",
-        "NVIDIA in Talks to Acquire Hugging Face for ~$13 Billion — Vertical AI Stack Consolidation",
-        "Autonomous Multi-Agent System Discovers Novel Mathematics in an Open-World Environment"
       ]
     }
   ]

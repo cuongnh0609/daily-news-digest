@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-31T20:00:00+09:00",
+  "last_run_at": "2026-09-01T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-01T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6593788",
+        "https://news.yahoo.co.jp/pickup/6593784",
+        "https://news.yahoo.co.jp/pickup/6593780",
+        "https://news.yahoo.co.jp/pickup/6593791",
+        "https://news.yahoo.co.jp/pickup/6593793",
+        "https://www.itmedia.co.jp/news/article/2608/31/2000000973/",
+        "https://www.itmedia.co.jp/news/article/2608/31/2000000986/",
+        "https://zenn.dev/kimuson/articles/compare-ai-subscription-20260818",
+        "https://calpaterson.com/memoryfields.html",
+        "https://www.publickey1.jp/blog/26/dhhlinux_osomarchy_quattroaiosaios.html",
+        "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names"
+      ],
+      "titles": [
+        "信組不祥事が相次ぐ中、金融庁が全国規模の検査体制を拡充へ",
+        "障害者雇用「代行」の実態が明らかに——厚労省、法整備を検討へ",
+        "住宅ローン変動金利、三菱UFJと三井住友が9月から引き上げ",
+        "バレー女子が帰国、石川主将が謝罪——「五輪の切符は必ず取る」",
+        "和菓子店主が死亡、妻も重傷——「トクリュウ」関与の疑いで捜査",
+        "AIで行政DXを一人で完成——待機児童問題に挑む「園えらびの手がかり」の技術挑戦",
+        "次期学習指導要領案——小中学校に「情報」を教科化、英語授業でのAI活用を初めて明記",
+        "個人向けCoding Agentサブスク徹底比較——OpenAIが最大43倍のトークン圧縮効果で最高コスパ",
+        "Memoryfields: A Portable File Format Standard for Agent Long-Term Memory",
+        "Omarchy Quattro: DHH's AI-Native Linux OS Integrates Claude, Codex, and Gemini Directly at System Level",
+        "P99 0ms* Autocomplete for 240 Million Domain Names — A Systems Engineering Deep Dive"
+      ]
+    },
     {
       "run_at": "2026-08-31T20:00:00+09:00",
       "urls": [
@@ -202,122 +231,6 @@
         "Anthropic Expands Free Claude Access for Scientists Worldwide — 10,000 Research Seats Available",
         "Tencent Releases Hy4 Preview: 770B Parameter MoE LLM with 1M Token Context Window",
         "GitHub Copilot Code Review Gets Major Upgrade: Larger PRs, Bot PRs, and Resolution Feedback"
-      ]
-    },
-    {
-      "run_at": "2026-08-30T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026083000130&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026083000099&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082900251&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082900254&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082900261&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2608/28/2000000897/",
-        "https://www.publickey1.jp/blog/26/slackaislack_code.html",
-        "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
-        "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-        "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
-        "https://coldtake.dev/blog/domain-driven-agents"
-      ],
-      "titles": [
-        "大谷翔平の投手復帰が白紙に——左膝と右上腕二頭筋の回復遅れ、登板時期は未定",
-        "ネパール土石流、死者682人・行方不明3000人超——水力発電所付近で救助が難航",
-        "「法の支配」が問われる局面——高市首相、ICC制裁問題で米国の出方に注目",
-        "質問主意書が衆院で9割減——野党大敗が国会の行政監視機能を直撃",
-        "アジアのエネルギー需給逼迫——米イラン戦闘半年、「脱ホルムズ」の模索が本格化",
-        "Anthropic、物理機器を制御する共通規格「MHS」を発表——AIエージェントが実験室・工場の複数機器を並列操作",
-        "「Slack Code」登場——AIエージェントがチームの会話を把握しながらコーディング・ドキュメント作成を自動化",
-        "OpenAI、Cursorへのモデル提供を11月12日に終了——SpaceXによる買収が引き金",
-        "Anthropic Launches Model Hardware Standard (MHS) — AI Agents to Control Physical Lab Equipment via Unified Protocol",
-        "Breaking Claude Code Opus 5 Auto Mode — Security Researcher Demonstrates 80% Attack Success Rate Against Agentic Safety",
-        "Domain-Driven Agents: Applying DDD Principles to Give LLMs Structural Clarity in Brownfield Codebases"
-      ]
-    },
-    {
-      "run_at": "2026-08-30T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6593577?source=rss",
-        "https://www.jiji.com/jc/article?k=2026082900345&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026083000007&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082900318&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082900415&g=spo&m=rss",
-        "https://zenn.dev/tokium_dev/articles/claude-md-keeps-growing",
-        "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-        "https://www.itmedia.co.jp/news/article/2608/27/2000000866/",
-        "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-        "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
-        "https://github.com/vllm-project/vllm/releases/tag/v0.28.0"
-      ],
-      "titles": [
-        "福井県に大雨特別警報レベル5——明け方に1ヶ月分超の降水量、即時避難を呼びかけ",
-        "ロシア軍の攻撃でウクライナに37人死亡——倉庫で大規模爆発、弾薬保管か",
-        "茨城県で震度4の揺れ——早朝に発生、震源は県南部の深さ約50キロ",
-        "女子バレー、タイに1-3で敗れ五輪出場権を逃す——アジア選手権準決勝",
-        "町田FW小川、欧州から3年ぶりのJ復帰——フェースガード着用で水戸戦に途中出場",
-        "肥大化し続けるCLAUDE.md——Hookによる自動サイズ監視で87行から378行への膨張を防いだ実録",
-        "GitHub Copilot週次アップデート——SlackとTeamsへのエージェント統合、Rust製CLIバックエンドで性能改善",
-        "NASA・FRBなど米政府機関に中国系ハッカー集団が不正アクセス——米司法省が大規模サイバー攻撃を公表",
-        "Warp Builds Self-Improving Agents on Claude — Skills-Based Feedback Loop Powers 10M Sessions",
-        "Qwen3.8-Flash-Next: MoE Architecture Preview for Qwen4 — 125B Parameters, Only 6B Active",
-        "vLLM v0.28.0: Rust Frontend, Kimi-K3 Optimizations, and Prefix Caching Enabled by Default"
-      ]
-    },
-    {
-      "run_at": "2026-08-30T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082900287&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082900306&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082900268&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593554?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593558?source=rss",
-        "https://zenn.dev/yuninaka/articles/agentic-loop-static-guardrails",
-        "https://zenn.dev/uguisu_blog/articles/f2286418e86de0",
-        "https://zenn.dev/shimpeiws/articles/21d4a57e12457b",
-        "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-        "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-        "https://lwn.net/Articles/1091231/"
-      ],
-      "titles": [
-        "ネパール洪水、せき止め湖の水位が上昇——被災地で再び大雨の予報",
-        "福岡県議選、日本維新の会が定数削減・報酬カットを公約",
-        "米アラスカ州上院選、同姓同名の候補者が登場——共和党が誤投票を強く警戒",
-        "海水浴場で3人が溺死——14歳の少年、友人救助しようとして命を落としたか",
-        "熊本地震から1カ月——避難生活続く被災者それぞれの現実",
-        "なぜAgentic Loopに「静的ガードレール」が必要なのか——トークン肥大化の正体と止まれる設計の価値",
-        "CursorからClaude Code・Codexへ移行できるか——設定の可搬性をOpenAIのモデル提供終了を機に実測",
-        "全行レビューをやめられるか——コーディングエージェントとの開発フロー2026夏",
-        "OpenAI Ends Model Access for Cursor After SpaceX Acquisition — Developers Face Immediate Tool Migration",
-        "Htmx 4.0 Released — Hypermedia-First Framework Gets Major Overhaul with New Extension System",
-        "Debian Votes to Allow Responsible Use of Generative AI in Package Maintenance and Development"
-      ]
-    },
-    {
-      "run_at": "2026-08-29T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026082900296&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082900264&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082900101&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082900277&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026082900308&g=soc&m=rss",
-        "https://zenn.dev/loglass/articles/3f8a2c91d4e7b5",
-        "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
-        "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000876/",
-        "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
-        "https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html",
-        "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html"
-      ],
-      "titles": [
-        "東武特急事故、中継見張り員「配置前に作業開始」——4人死亡、捜査本格化",
-        "米同時テロ主犯格の供述、軍事法廷が証拠採用を拒否——拷問による信頼性に疑問",
-        "インドネシア大規模デモ、プラボウォ政権に逆風——汚職と政策への不満が爆発",
-        "錦織圭「ろうそくの火が消えた」——全米オープン1回戦敗退で現役引退へ",
-        "天皇陛下、ノルウェー国王ハラルド5世の死去に弔電——欧州最高齢の君主が89歳で崩御",
-        "AIプロダクト新規事業を1年間立ち上げて見えてきたこと——PMFまでの道のりと現実",
-        "Visual Studio Code 1.133正式リリース——ClaudeとCopilotを同一ワークスペースで混在使用可能に",
-        "OpenAI・Anthropic・Google等118組織がAIサイバー防衛の「集団行動」を呼びかけ——共同声明を公開",
-        "How to Evaluate LLMs Before Production — Lessons from GitHub's Secret Scanning Team",
-        "DuckDB 2.0 Preview: Client/Server Mode, VARIANT Type, Triggers, and Async I/O Coming This Autumn",
-        "Bun 1.4 Released: Full Rust Rewrite Brings 281x Regex Speed, 80% CPU Drop, Playwright and Vitest Support"
       ]
     }
   ]

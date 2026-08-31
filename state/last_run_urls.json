@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-08-31T15:00:00+09:00",
+  "last_run_at": "2026-08-31T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-08-31T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6593768",
+        "https://www.jiji.com/jc/article?k=2026083100801&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6593761",
+        "https://news.yahoo.co.jp/pickup/6593765",
+        "https://news.yahoo.co.jp/pickup/6593769",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news039.html",
+        "https://www.itmedia.co.jp/news/article/2608/31/2000000865/",
+        "https://zenn.dev/holy_fox/articles/04887ff8177b87",
+        "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+        "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+        "https://www.latent.space/p/ainews-openai-shuts-off-cursor"
+      ],
+      "titles": [
+        "概算要求143兆円前後の見通し——防衛・社会保障が押し上げ",
+        "防衛費8.9兆円、過去最大の概算要求——GDP比2%目標を継続",
+        "俳優・水谷八重子さん死去——昭和・平成を彩った舞台女優、享年84",
+        "ホンダ・日産、次世代車載OSを共同開発へ——ソフト定義車両で米中に対抗",
+        "6人死亡事故、被告「気が緩んだ」——危険運転致死傷罪の審理が続く",
+        "ビル・ゲイツ「AIはソフト開発を根本的に変える」——「Human Reserved」という新概念を提唱",
+        "研修医の44%がAI生成の架空疾患名を信用——医療現場でのAIハルシネーション問題が深刻化",
+        "RTX 5090 + RAM 128GBでQwen3.8-Flash-NextをローカルLLMとして実用化——48 tok/sを達成",
+        "How to Build a Diffusion Language Model — The Practical Guide to Non-Autoregressive Text Generation",
+        "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails — A Real-World Agentic Failure Case",
+        "OpenAI Shuts Off Cursor After SpaceX Acquisition — Developers Scramble for Alternatives"
+      ]
+    },
     {
       "run_at": "2026-08-31T15:00:00+09:00",
       "urls": [

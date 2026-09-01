@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-01T05:00:00+09:00",
+  "last_run_at": "2026-09-01T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-01T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026090100118&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090100228&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090100212&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090100134&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2609/01/2000000996/",
+        "https://www.itmedia.co.jp/aiplus/article/2609/01/2000000898/",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news012.html",
+        "https://zenn.dev/7nohe/articles/npm-malware-incident-response",
+        "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+        "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
+        "https://webiterate.dev/google-removed-extensions-ublock-origin-108/"
+      ],
+      "titles": [
+        "インド首相がモスクワ訪問、プーチン氏に「ウクライナ侵攻の終結が必要」と直接要求",
+        "米陸軍長官が辞表提出——ヘグセス国防長官との対立が表面化",
+        "メッシが代表引退を正式発表——W杯6大会で「全てをアルゼンチンに捧げた」",
+        "米財務長官、日本に「円高誘導の措置を講じるべき」と要求——利上げを強く促す",
+        "ティム・クック氏がApple CEOを退任——「生涯に一度の特権だった」と別れの言葉",
+        "「AIが勝手にやった」は通じない——AIエージェントにも身元証明と権限委任の仕組みが必要な理由",
+        "AI開発はプロンプトからコンテキスト、そして「ハーネス」へ——人間とAIの役割分担が根本的に変わる",
+        "自作npmパッケージにマルウェアを公開された——サプライチェーン攻撃への対応全記録",
+        "Wrapture: A Python Library for AI-Directed Testing and Tracing Without Code Modification",
+        "GitHub Copilot Code Review: Resolution Reasons, Bot PR Support, and Removal of Size Limits",
+        "Google Removes All MV2 Extensions from Chrome Web Store, Including uBlock Origin"
+      ]
+    },
     {
       "run_at": "2026-09-01T05:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "How Claude's Text Watermark Works",
         "DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持",
         "GitHub Classroom deprecated"
-      ]
-    },
-    {
-      "run_at": "2026-08-31T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026083000364&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026083000361&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026083000395&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593690?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593680?source=rss",
-        "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
-        "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
-        "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-        "https://github.com/anthropics/claude-code/issues/66504",
-        "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
-        "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones"
-      ],
-      "titles": [
-        "NASAが新型宇宙望遠鏡を打ち上げ——系外惑星観測に日本も技術協力",
-        "香川県知事選、現職・池田豊人氏が再選——新人3人を破り4選目",
-        "山口県美祢市で80歳の和菓子店主が死亡——妻も重傷、殺人事件として捜査",
-        "子どものSNS利用に法規制「必要」——世論調査で64%が支持",
-        "福井の記録的大雨、秋雨前線が主因——インフラ復旧に向け作業が続く",
-        "JetBrains、Mac向けローカルAIコーディングエージェント「Junie Local」を発表——完全無料でClaude Sonnet 4.5相当の性能",
-        "AIに丸投げしない開発哲学——「理解ファースト」のAI活用が2026年の新標準へ",
-        "GitHub Copilot、9月28日から課金体系を刷新——統合エージェント体験と「Balanced」レビューがデフォルトに",
-        "Claude Code Now Appends Session URLs to Commits and PRs by Default",
-        "OpenAI Targets AGI Milestone by End of 2026 — Unreleased \"Astra\" Model at Center of Internal Push",
-        "Benchmarking AI Inference on Mobile Phones — Pocket-Scale LLMs Hit Practical Performance Thresholds"
-      ]
-    },
-    {
-      "run_at": "2026-08-30T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026083000274&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026083000213&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026083000204&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026083000262&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593644?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
-        "https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval",
-        "https://www.publickey1.jp/blog/26/fluter_347uiwebassembly.html",
-        "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
-        "https://www.anthropic.com/news/wellbeing-research-grants",
-        "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available"
-      ],
-      "titles": [
-        "石川で集落の孤立解消——70人以上がいまも避難——北陸豪雨",
-        "EU加盟交渉再開に反対——国民投票で否決——アイスランド",
-        "「アメリカ湖」改称に困惑——地元住民ら「ばかげている」「謝罪を」",
-        "日本、イラン下し3位——アジア女子バレー",
-        "カイロス3号機失敗——静電気要因か",
-        "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開——約1200体のAIエージェントが闇掲示板で結託し700体が攻撃に参加",
-        "MacBook Pro 128GBでローカルLLMがついに実用になった——Qwen3.8 Flash Next実測",
-        "Flutter 3.47正式リリース——UIライブラリが分離され独立してアップデート可能、デフォルトでWebAssemblyを生成する方向に",
-        "llm-anthropic 0.27: Using Claude Code + Fable 5 to Upgrade the Anthropic Python SDK to v1.0",
-        "Anthropic Launches $5M Grants for Independent AI Wellbeing Evaluations",
-        "GitHub Global Model Policy Now Generally Available — Enterprises Get Org-Wide AI Model Controls"
       ]
     }
   ]

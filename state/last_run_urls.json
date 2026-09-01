@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-01T15:00:00+09:00",
+  "last_run_at": "2026-09-01T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-01T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6593867",
+        "https://www.jiji.com/jc/article?k=2026090100877&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090100704&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090100924&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090100362&g=soc&m=rss",
+        "https://zenn.dev/phper8080/articles/91ffb94fe75b45",
+        "https://zenn.dev/acntechjp/articles/930d899e62943e",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news018.html",
+        "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+        "https://mvakde.github.io/blog/44-on-arc-1/",
+        "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing"
+      ],
+      "titles": [
+        "ガソリン補助に6136億円を閣議決定——価格を「1リットル170円台」に維持へ",
+        "総務省がAI活用強化へ「AX・新技術戦略室」を新設——省庁横断のAI推進体制を構築",
+        "ネパール・中国の土石流災害1週間——死者1000人超、行方不明4400人以上で捜索難航",
+        "「天職だと思っていた。悔しい」——元検事正の性暴力事件で被害女性検事が退職表明",
+        "「生活道路」時速30キロ規制が9月1日施行——警視庁が江戸川でポータブルオービスで取り締まり開始",
+        "AIエージェントの品質、どう測る？ Google ADKの評価機能を使い倒す——14指標で90.7%の合格率を達成",
+        "Google ADK vs Microsoft Agent Framework vs Amazon Strands——偽モデルサーバで比較したエラー処理の哲学的違い",
+        "「安いモデル×3回」vs「高いモデル×1回」——OpenAIが示すAI投資のROI算出フレームワーク",
+        "DoltLite Beta: A SQLite Fork with Git-Style Version Control Built by 2,000 AI Agent Pull Requests",
+        "44% on ARC-AGI-1 for 67 Cents: Training a Small Transformer from Scratch in 1.5 Hours",
+        "GitHub Copilot: Breaking Changes to Policies, Billing, and Code Review Defaults — Effective September–October 2026"
+      ]
+    },
     {
       "run_at": "2026-09-01T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "GitHub Copilot in Visual Studio — August 2026: Org-Level Custom Agents, Thinking Effort Controls, and Pre-Commit Code Review",
         "AI Agents Are Collapsing the Security Disclosure Window — Exploits Found Within Minutes of a Bug Being Mentioned",
         "ChatGPT Work Decoded: Dual Cloud/Local Architecture, Browser Automation, Sub-Agents, and Cloudflare-Backed Site Publishing"
-      ]
-    },
-    {
-      "run_at": "2026-08-31T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026083000313&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593688?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593670?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593674?source=rss",
-        "https://www.jiji.com/jc/article?k=2026083000089&g=soc&m=rss",
-        "https://zenn.dev/lincwell_inc/articles/79092d88245748",
-        "https://zenn.dev/sc30gsw/articles/953334f11df507",
-        "https://zenn.dev/eggletric/articles/4ea81df765fb66",
-        "https://www.anthropic.com/news/claude-text-watermark",
-        "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html",
-        "https://github.blog/changelog/2026-08-27-github-classroom-deprecated"
-      ],
-      "titles": [
-        "土石流背景に気候変動　専門家「継続的努力で阻止を」―ネパール・中国で洪水",
-        "WEST.藤井流星と小瀧望が脱退へ",
-        "高校無償化で私立人気 公立は苦境",
-        "Jアラートで偽警報可能 識者指摘",
-        "避難所の外の被災者見守り　車中泊や軒先、「早期対応を」―支援団体・熊本地震",
-        "Claude Codeの承認待ちを見逃さないために、光るClawd を机に置いた",
-        "ローカルでの開発やめませんか？Claude Code / Cursorで開発の8割をクラウドに移した話",
-        "AIは回せば回すほど凄いのか ―「常時稼働」という設計の敗北",
-        "How Claude's Text Watermark Works",
-        "DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持",
-        "GitHub Classroom deprecated"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-01T10:00:00+09:00",
+  "last_run_at": "2026-09-01T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-01T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6593839?source=rss",
+        "https://news.yahoo.co.jp/pickup/6593822?source=rss",
+        "https://news.yahoo.co.jp/pickup/6593838?source=rss",
+        "https://www.itmedia.co.jp/news/article/2609/01/2000001024/",
+        "https://www.itmedia.co.jp/news/article/2609/01/2000001023/",
+        "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
+        "https://zenn.dev/rhosokawa/articles/d0a958c17c2820",
+        "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
+        "https://www.anthropic.com/news/improving-alignment-security-efforts",
+        "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+        "https://simonwillison.net/2026/Aug/29/hy4/"
+      ],
+      "titles": [
+        "防災の日——政府が千島海溝地震を想定した大規模訓練を実施",
+        "米FTCと22州、アマゾンを広告費の過大請求で提訴——120万件の広告主に被害",
+        "日本初の宇宙飛行士・秋山豊寛さんが死去——享年84歳",
+        "まんだらけ、不正アクセスで個人情報漏えいの恐れ——ショッピングサイト一時停止",
+        "梅田駅に「ヒナタ」登場——AIロボット駅員が60言語で観光案内",
+        "AIに丸投げせず「理解」を守るAI開発手法——7段階プロセスで技術負債と理解負債を防ぐ",
+        "並行開発に「Orca」が超便利——4セッション以上を同時管理できるエージェントIDE",
+        "JetBrains、Mac向けローカルAIコーディングエージェント「Junie Local」を提供開始——APIコスト不要",
+        "Anthropic Overhauling Alignment and Security: Real-Time Monitoring, RL Environment Freeze, and Chain-of-Thought Protections",
+        "GitHub: How to Evaluate LLMs Before Production — Lessons from Secret Scanning at Scale",
+        "Hy4 Preview: Tencent Releases 770B Open-Weight LLM with 1M Token Context and Two Reasoning Modes"
+      ]
+    },
     {
       "run_at": "2026-09-01T10:00:00+09:00",
       "urls": [

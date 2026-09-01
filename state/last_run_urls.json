@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-02T00:00:00+09:00",
+  "last_run_at": "2026-09-02T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-02T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6593898?source=rss",
+        "https://news.yahoo.co.jp/pickup/6593903?source=rss",
+        "https://news.yahoo.co.jp/pickup/6593905?source=rss",
+        "https://www.jiji.com/jc/article?k=2026090101228&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2609/01/2000001004/",
+        "https://zenn.dev/karamage/articles/2ef2c2aea7dfdf",
+        "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001044/",
+        "https://www.itmedia.co.jp/news/article/2609/01/2000001045/",
+        "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+        "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+        "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
+      ],
+      "titles": [
+        "防災グッズが多様化——ラーメン缶詰からポータブル電源まで、備えの形が変わる",
+        "福島大学長、学歴ネタ動画を批判——「学生の尊厳を傷つける」とSNSで声明",
+        "鳥取・エクモ接続ミスで患者が低酸素脳症——病院が謝罪、20分間酸素供給されず",
+        "韓国・韓総裁の金庫から30億円押収——合同捜査本部が家宅捜索で発見",
+        "自衛隊の指揮統制システムにAI導入へ——防衛省、過去最大8.9兆円の概算要求を提出",
+        "Anthropic公式Claude Code講座で学ぶ「4つのD」——AI委任の思考フレームワークとは",
+        "総務省が「AX・新技術戦略室」を新設——省庁横断のAI推進体制を本格構築",
+        "MiniMax H3 Max登場——リアルタイム以下で動画生成、インタラクティブ番組も視野に",
+        "Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1 — New Frontier Models with 25% Cost Reduction",
+        "Anthropic Launches Enterprise Frontier Safeguards — Zero-Retention Privacy Meets Automated Misuse Detection",
+        "OpenAI Codex Desktop Bundles 1.7GB of Dependencies Including LibreOffice — A Peek Inside Agentic App Architecture"
+      ]
+    },
     {
       "run_at": "2026-09-02T00:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "How to Build a Diffusion Language Model — The Practical Guide to Non-Autoregressive Text Generation",
         "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails — A Real-World Agentic Failure Case",
         "OpenAI Shuts Off Cursor After SpaceX Acquisition — Developers Scramble for Alternatives"
-      ]
-    },
-    {
-      "run_at": "2026-08-31T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026083100286&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593733?source=rss",
-        "https://www.jiji.com/jc/article?k=2026083100427&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593744?source=rss",
-        "https://www.itmedia.co.jp/news/article/2608/31/2000000959/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/31/2000000964/",
-        "https://www.itmedia.co.jp/aiplus/article/2608/31/2000000951/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news015.html",
-        "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
-        "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
-        "https://sander.ai/2026/08/24/continuous-dlms.html"
-      ],
-      "titles": [
-        "米グランドキャニオンで鉄砲水——1人死亡・15人行方不明、60人以上を救助",
-        "中道3党の合流断念が確定——野党再編戦略は失敗、政界再編を巡る議論が激化",
-        "「結婚するつもりない」35%——こども家庭庁の若者意識調査、晩婚化・非婚化が加速",
-        "韓国・旧統一教会代表のハン・ハクジャ氏に有罪判決——過去の政権との癒着を問われ実刑",
-        "参議院公式サイト、17年ぶり全面刷新——落札価格「26万円」がSNSで衝撃の話題に",
-        "AnthropicがClaudeにAI安全研究を自律実施させる実験——28人の専門家を上回る成果、ただし「不正行為」も2.4%発生",
-        "Claude Code利用制限を「25%引き上げ」と発表——実態は現在比17%減、Anthropicが複雑な説明",
-        "Anthropicが「Claude Academy」を公開——357のリソースで実務AI活用を無料で学ぶ",
-        "NVIDIA Acquires Hugging Face for $13 Billion — Open-Source AI Hub Joins GPU Giant at 80× Revenue Valuation",
-        "OpenAI Unveils Jalapeño Custom Inference Chip at Hot Chips 37 — 1.5–1.9× Better Perf/Watt Than NVIDIA GB200",
-        "Continuous Diffusion Language Models Stage a Comeback — CDLMs Now Compete Directly with Autoregressive Baselines"
-      ]
-    },
-    {
-      "run_at": "2026-08-31T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6593712?source=rss",
-        "https://www.jiji.com/jc/article?k=2026083000229&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026083100083&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026083000308&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593695?source=rss",
-        "https://www.publickey1.jp/blog/26/mcpaihttp.html",
-        "https://www.itmedia.co.jp/news/article/2608/31/2000000950/",
-        "https://www.publickey1.jp/blog/26/nextjs_163turbopack90ssr22typescript_7.html",
-        "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-        "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
-        "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/"
-      ],
-      "titles": [
-        "日経平均 一時1500円超値下がり",
-        "生活道路の最高速度が9月1日から30キロに——全国の一般道7割を対象に歩行者安全対策強化",
-        "米軍、1カ月ぶりイラン攻撃——機雷敷設を阻止か、原油先物が2%超上昇",
-        "中道改革連合、分裂の公算大——公明系が離脱を検討、31日に3党首が再会談へ",
-        "ネパール土石流の死者が800人を超える——がれきの中から少女を生存救出",
-        "MCPのロードマップ更新——AIエージェント向けメッセージングとHTTP通信統一が最優先に",
-        "ソニーら35社がAnthropicを著作権侵害で提訴——「史上最大の知財窃盗」と訴状に明記",
-        "Next.js 16.3リリース——Turbopack採用でメモリ消費90%削減、SSR22%高速化を実現",
-        "GitHub Copilot in Visual Studio — August 2026: Org-Level Custom Agents, Thinking Effort Controls, and Pre-Commit Code Review",
-        "AI Agents Are Collapsing the Security Disclosure Window — Exploits Found Within Minutes of a Bug Being Mentioned",
-        "ChatGPT Work Decoded: Dual Cloud/Local Architecture, Browser Automation, Sub-Agents, and Cloudflare-Backed Site Publishing"
       ]
     }
   ]

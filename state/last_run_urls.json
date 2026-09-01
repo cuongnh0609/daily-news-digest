@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-01T20:00:00+09:00",
+  "last_run_at": "2026-09-02T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-02T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6593915",
+        "https://www.jiji.com/jc/article?k=2026090101143&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090101145&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090101058&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6593916",
+        "https://zenn.dev/coji/articles/artifactshare-preview-claude-codex-cursor",
+        "https://www.publickey1.jp/blog/26/vs_codeairubber_duck.html",
+        "https://www.publickey1.jp/blog/26/airedshiftdwhamazon_redshiftagent_toolkit_for_aws.html",
+        "https://www.anthropic.com/news/expanding-support-for-scientists",
+        "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html",
+        "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype"
+      ],
+      "titles": [
+        "防災庁を今年11月に創設へ——南海トラフ・首都直下地震に備え「事前防災」を強化",
+        "「みんなで大家さん」事業停止・許可取り消し——投資家に虚偽説明、大阪・東京が同時処分",
+        "英スターマー前首相が下院議員を辞職——「国際問題に専念する」と表明",
+        "沖縄・北谷町のホテル火災、米国人旅行者を殺人未遂・放火容疑で逮捕",
+        "フラット35の9月金利、3.46%に上昇——2017年10月以来の最高水準",
+        "会話セッションを妨害せず外部イベントでClaude Code / Codex / Cursorを動かすCLI設計",
+        "VS Codeに「Rubber Duck」実験機能——別のAIエージェントがセカンドオピニオンを提供",
+        "Amazon RedshiftがAgent Toolkit for AWSと統合——AIエージェントが自然言語でDWH構築・集計分析を実行",
+        "Anthropic Expands Claude Access for Scientists: 10,000 Free Subscriptions, $50K Credits, and Claude Science Workbench",
+        "DuckLabs Acquired by AWS: DuckDB Joins Amazon While Preserving MIT Open-Source License",
+        "EFF to Courts: Don't Rewrite Copyright Law Over AI Hype — Fair Use and the VCR Precedent"
+      ]
+    },
     {
       "run_at": "2026-09-01T20:00:00+09:00",
       "urls": [

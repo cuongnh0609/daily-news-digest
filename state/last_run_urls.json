@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-02T10:00:00+09:00",
+  "last_run_at": "2026-09-02T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-02T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/0303508f377ac2ccdeabc9918e6c88515a9c1152",
+        "https://www.jiji.com/jc/article?k=2026090200597&g=soc&m=rss",
+        "https://news.yahoo.co.jp/articles/914c2601832881bc18cbed444146332e9975b0b7",
+        "https://www.jiji.com/jc/article?k=2026090200517&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2609/02/2000001066/",
+        "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
+        "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001068/",
+        "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001056/",
+        "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+        "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+        "https://www.itmedia.co.jp/news/article/2609/02/2000001062/"
+      ],
+      "titles": [
+        "青森に線状降水帯が発生——双子台風が日本列島を挟み込む異例の気象",
+        "漫画家・車田正美氏の会社で46億円超の横領被害——元経理担当者が長年にわたって不正送金",
+        "高市首相「変化を恐れない」——防衛力強化でAI・無人機を重点項目に指定、概算要求に反映へ",
+        "ベセント財務長官が片山財務相に不満——円高・利上げ要求をめぐり日米間に摩擦",
+        "dカード、dポイント還元率を1%から0.5%に引き下げ——利用なしは年会費も発生へ",
+        "AnthropicとSalesforceが「Claudeforce」で統合——AIエージェントがSalesforceデータを直接操作",
+        "フェイ・フェイ・リー率いるWorld Labsが「Atlas」を発表——3D空間を理解するマルチモーダルAI",
+        "Claude Fable 5.1リリースに伴いAnthropicが利用制限を刷新——時間・週次の上限を大幅緩和",
+        "Paint.NET's 180K-Line Claude-Written Direct2D Port — What \"Vibe Coded at Scale\" Really Looks Like",
+        "The Efficient Frontier of LLM Inference — A Framework for Latency-Throughput Optimization",
+        "Meta's \"Muse Voice Transcribe\" — Real-Time Multi-Speaker Recognition Across 20+ Languages"
+      ]
+    },
     {
       "run_at": "2026-09-02T10:00:00+09:00",
       "urls": [
@@ -144,122 +173,6 @@
         "Anthropic Overhauling Alignment and Security: Real-Time Monitoring, RL Environment Freeze, and Chain-of-Thought Protections",
         "GitHub: How to Evaluate LLMs Before Production — Lessons from Secret Scanning at Scale",
         "Hy4 Preview: Tencent Releases 770B Open-Weight LLM with 1M Token Context and Two Reasoning Modes"
-      ]
-    },
-    {
-      "run_at": "2026-09-01T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026090100118&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090100228&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090100212&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090100134&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2609/01/2000000996/",
-        "https://www.itmedia.co.jp/aiplus/article/2609/01/2000000898/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news012.html",
-        "https://zenn.dev/7nohe/articles/npm-malware-incident-response",
-        "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
-        "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
-        "https://webiterate.dev/google-removed-extensions-ublock-origin-108/"
-      ],
-      "titles": [
-        "インド首相がモスクワ訪問、プーチン氏に「ウクライナ侵攻の終結が必要」と直接要求",
-        "米陸軍長官が辞表提出——ヘグセス国防長官との対立が表面化",
-        "メッシが代表引退を正式発表——W杯6大会で「全てをアルゼンチンに捧げた」",
-        "米財務長官、日本に「円高誘導の措置を講じるべき」と要求——利上げを強く促す",
-        "ティム・クック氏がApple CEOを退任——「生涯に一度の特権だった」と別れの言葉",
-        "「AIが勝手にやった」は通じない——AIエージェントにも身元証明と権限委任の仕組みが必要な理由",
-        "AI開発はプロンプトからコンテキスト、そして「ハーネス」へ——人間とAIの役割分担が根本的に変わる",
-        "自作npmパッケージにマルウェアを公開された——サプライチェーン攻撃への対応全記録",
-        "Wrapture: A Python Library for AI-Directed Testing and Tracing Without Code Modification",
-        "GitHub Copilot Code Review: Resolution Reasons, Bot PR Support, and Removal of Size Limits",
-        "Google Removes All MV2 Extensions from Chrome Web Store, Including uBlock Origin"
-      ]
-    },
-    {
-      "run_at": "2026-09-01T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026083101033&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026083100564&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026083100955&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026083100776&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026083100916&g=spo&m=rss",
-        "https://zenn.dev/kawarimidoll/articles/d3f1a7542de71a",
-        "https://zenn.dev/tokium_dev/articles/claude-md-keeps-growing",
-        "https://www.publickey1.jp/blog/26/slackaislack_code.html",
-        "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-        "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
-        "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases"
-      ],
-      "titles": [
-        "トランプ大統領、イランの攻撃に対して「必ず報復する」と強硬発言",
-        "習近平・プーチン首脳会談、中ロ協力「順調に発展」と結束を誇示",
-        "サブスク解約妨害、消費者庁が規制へ——動画配信サービスなど対象に法整備を検討",
-        "ライトノベル表紙絵を「無断使用」——イラストレーターが出版社を著作権侵害で提訴",
-        "バスケ男子W杯予選、日本がカタールに123-70で快勝——八村が最多30得点をマーク",
-        "Claude Code設定の最新版——自律運用・通知・サンドボックスまで個人環境を徹底チューニング",
-        "肥大化し続けるCLAUDE.md——フック監視で7日間の増加率を181%から1.2%に激減させた手法",
-        "SlackにAI開発エージェントが参加——「Slack Code」がClaude、Devin、Copilotなどを統合サポート",
-        "Anthropic Previews Model Hardware Standard (MHS) — A Universal Protocol for AI Agents to Control Physical Devices",
-        "Breaking Claude Code Opus 5 Auto Mode — 80% Success Rate Prompt Injection via Confused Environment Attack",
-        "GitHub Copilot in VS Code — August 2026: Agent Sessions, Multi-Chat Layout, Token Visibility, and In-Browser Annotation"
-      ]
-    },
-    {
-      "run_at": "2026-09-01T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6593788",
-        "https://news.yahoo.co.jp/pickup/6593784",
-        "https://news.yahoo.co.jp/pickup/6593780",
-        "https://news.yahoo.co.jp/pickup/6593791",
-        "https://news.yahoo.co.jp/pickup/6593793",
-        "https://www.itmedia.co.jp/news/article/2608/31/2000000973/",
-        "https://www.itmedia.co.jp/news/article/2608/31/2000000986/",
-        "https://zenn.dev/kimuson/articles/compare-ai-subscription-20260818",
-        "https://calpaterson.com/memoryfields.html",
-        "https://www.publickey1.jp/blog/26/dhhlinux_osomarchy_quattroaiosaios.html",
-        "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names"
-      ],
-      "titles": [
-        "信組不祥事が相次ぐ中、金融庁が全国規模の検査体制を拡充へ",
-        "障害者雇用「代行」の実態が明らかに——厚労省、法整備を検討へ",
-        "住宅ローン変動金利、三菱UFJと三井住友が9月から引き上げ",
-        "バレー女子が帰国、石川主将が謝罪——「五輪の切符は必ず取る」",
-        "和菓子店主が死亡、妻も重傷——「トクリュウ」関与の疑いで捜査",
-        "AIで行政DXを一人で完成——待機児童問題に挑む「園えらびの手がかり」の技術挑戦",
-        "次期学習指導要領案——小中学校に「情報」を教科化、英語授業でのAI活用を初めて明記",
-        "個人向けCoding Agentサブスク徹底比較——OpenAIが最大43倍のトークン圧縮効果で最高コスパ",
-        "Memoryfields: A Portable File Format Standard for Agent Long-Term Memory",
-        "Omarchy Quattro: DHH's AI-Native Linux OS Integrates Claude, Codex, and Gemini Directly at System Level",
-        "P99 0ms* Autocomplete for 240 Million Domain Names — A Systems Engineering Deep Dive"
-      ]
-    },
-    {
-      "run_at": "2026-08-31T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6593768",
-        "https://www.jiji.com/jc/article?k=2026083100801&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593761",
-        "https://news.yahoo.co.jp/pickup/6593765",
-        "https://news.yahoo.co.jp/pickup/6593769",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news039.html",
-        "https://www.itmedia.co.jp/news/article/2608/31/2000000865/",
-        "https://zenn.dev/holy_fox/articles/04887ff8177b87",
-        "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-        "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
-        "https://www.latent.space/p/ainews-openai-shuts-off-cursor"
-      ],
-      "titles": [
-        "概算要求143兆円前後の見通し——防衛・社会保障が押し上げ",
-        "防衛費8.9兆円、過去最大の概算要求——GDP比2%目標を継続",
-        "俳優・水谷八重子さん死去——昭和・平成を彩った舞台女優、享年84",
-        "ホンダ・日産、次世代車載OSを共同開発へ——ソフト定義車両で米中に対抗",
-        "6人死亡事故、被告「気が緩んだ」——危険運転致死傷罪の審理が続く",
-        "ビル・ゲイツ「AIはソフト開発を根本的に変える」——「Human Reserved」という新概念を提唱",
-        "研修医の44%がAI生成の架空疾患名を信用——医療現場でのAIハルシネーション問題が深刻化",
-        "RTX 5090 + RAM 128GBでQwen3.8-Flash-NextをローカルLLMとして実用化——48 tok/sを達成",
-        "How to Build a Diffusion Language Model — The Practical Guide to Non-Autoregressive Text Generation",
-        "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails — A Real-World Agentic Failure Case",
-        "OpenAI Shuts Off Cursor After SpaceX Acquisition — Developers Scramble for Alternatives"
       ]
     }
   ]

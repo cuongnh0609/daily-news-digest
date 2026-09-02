@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-02T05:00:00+09:00",
+  "last_run_at": "2026-09-02T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-02T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6593943?source=rss",
+        "https://www.jiji.com/jc/article?k=2026090200212&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6593937?source=rss",
+        "https://news.yahoo.co.jp/pickup/6593931?source=rss",
+        "https://www.jiji.com/jc/article?k=2026090100882&g=pol&m=rss",
+        "https://zenn.dev/atamaplus/articles/6be03483c0110b",
+        "https://zenn.dev/aws_japan/articles/agent-registry-kiro-governance",
+        "https://zenn.dev/knowledgesense/articles/ad123283bdea26",
+        "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
+        "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+        "https://github.com/carloslfu/slotstream"
+      ],
+      "titles": [
+        "菅原由勢、イタリア・セリエAのカリアリへ期限付き移籍——購入オプション付きで約10億円",
+        "プーチン大統領「関係悪化の全責任は日本にある」——北方領土訪問への批判に強硬反論",
+        "日本郵便の取材回答に総務省が介入か——内部チャットに「答えすぎ」と官僚コメント",
+        "SBエナジーが米国でIPO申請——OpenAI・NVIDIAも出資、AI電力需要を追い風に約1兆円調達へ",
+        "沖縄知事選——稲嶺元知事「辺野古反対は60%超」、基地負担論争が再び焦点に",
+        "Claude Code routineで定額自動化——PRレビューとエラー調査をサブスク内で回す実例",
+        "AWS Agent Registry × Kiro for Enterprise——野良MCPを統制する企業向けガバナンス設計",
+        "Google提唱「SKILL.state」——型付き構造化状態でエージェントのコンテキストを6.17Mから120Kトークンに圧縮",
+        "Claude Fable 5.1 Is Now Generally Available in GitHub Copilot — Autonomous Coding for Pro+ and Above",
+        "GitHub Copilot Code Review Can Now Approve Pull Requests — Counts Toward Branch Protection Requirements",
+        "Slotstream: Run a 104GB Mixture-of-Experts LLM on a 48GB Mac via Expert Offloading from SSD"
+      ]
+    },
     {
       "run_at": "2026-09-02T05:00:00+09:00",
       "urls": [

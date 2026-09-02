@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-02T20:00:00+09:00",
+  "last_run_at": "2026-09-03T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-03T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6594034",
+        "https://news.yahoo.co.jp/pickup/6594027",
+        "https://news.yahoo.co.jp/pickup/6594031",
+        "https://news.yahoo.co.jp/pickup/6594025",
+        "https://news.yahoo.co.jp/pickup/6594000",
+        "https://zenn.dev/yukibjj/articles/te-bench-agent-model-cost-quality",
+        "https://zenn.dev/ryok/articles/agent-swarm-silence-diversity",
+        "https://zenn.dev/pepabo/articles/minne-ai-native-org-2026",
+        "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+        "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+        "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero"
+      ],
+      "titles": [
+        "青森県・鰺ヶ沢町で1時間に約90mmの記録的大雨——土砂災害の危険が高まる",
+        "上皇さまの葬儀、大幅縮小を検討——国民生活への影響を最小限にとのご意向反映",
+        "東京MKオーナーのパワハラ問題——会社側が記者会見、謝罪と改善策を表明",
+        "「アニマルカフェ」に国が初の実態調査——動物福祉と感染症リスク管理に課題",
+        "夏休み明けの子どもたちへ——フリースクール・オンライン・図書館など「学校以外の居場所」が広がる",
+        "「te bench」公開——自分のAPIキーでAIエージェントのコストと品質を実測するCLIツール",
+        "1200体のAIは誰ひとり密告しなかった——群れの沈黙と、多様性という防御",
+        "minneがAI前提の開発組織へ——PRの83%を人間の介入なしでマージ、職能越境が進む",
+        "Anthropic's Model Hardware Standard: Claude Can Now Operate Physical Lab Equipment via MCP",
+        "Three Sites Generated 215,000+ \"Best Software\" Pages to Game AI Recommendations — Perplexity Cites Them",
+        "Specialized AI Security Finds 6 curl CVEs Where OpenAI and Anthropic Found Zero"
+      ]
+    },
     {
       "run_at": "2026-09-02T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "DoltLite Beta: A SQLite Fork with Git-Style Version Control Built by 2,000 AI Agent Pull Requests",
         "44% on ARC-AGI-1 for 67 Cents: Training a Small Transformer from Scratch in 1.5 Hours",
         "GitHub Copilot: Breaking Changes to Policies, Billing, and Code Review Defaults — Effective September–October 2026"
-      ]
-    },
-    {
-      "run_at": "2026-09-01T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6593839?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593822?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593838?source=rss",
-        "https://www.itmedia.co.jp/news/article/2609/01/2000001024/",
-        "https://www.itmedia.co.jp/news/article/2609/01/2000001023/",
-        "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
-        "https://zenn.dev/rhosokawa/articles/d0a958c17c2820",
-        "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
-        "https://www.anthropic.com/news/improving-alignment-security-efforts",
-        "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
-        "https://simonwillison.net/2026/Aug/29/hy4/"
-      ],
-      "titles": [
-        "防災の日——政府が千島海溝地震を想定した大規模訓練を実施",
-        "米FTCと22州、アマゾンを広告費の過大請求で提訴——120万件の広告主に被害",
-        "日本初の宇宙飛行士・秋山豊寛さんが死去——享年84歳",
-        "まんだらけ、不正アクセスで個人情報漏えいの恐れ——ショッピングサイト一時停止",
-        "梅田駅に「ヒナタ」登場——AIロボット駅員が60言語で観光案内",
-        "AIに丸投げせず「理解」を守るAI開発手法——7段階プロセスで技術負債と理解負債を防ぐ",
-        "並行開発に「Orca」が超便利——4セッション以上を同時管理できるエージェントIDE",
-        "JetBrains、Mac向けローカルAIコーディングエージェント「Junie Local」を提供開始——APIコスト不要",
-        "Anthropic Overhauling Alignment and Security: Real-Time Monitoring, RL Environment Freeze, and Chain-of-Thought Protections",
-        "GitHub: How to Evaluate LLMs Before Production — Lessons from Secret Scanning at Scale",
-        "Hy4 Preview: Tencent Releases 770B Open-Weight LLM with 1M Token Context and Two Reasoning Modes"
       ]
     }
   ]

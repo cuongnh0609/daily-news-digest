@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-03T00:00:00+09:00",
+  "last_run_at": "2026-09-03T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-03T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026090201290&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090200927&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090201275&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090201013&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090200164&g=soc&m=rss",
+        "https://zenn.dev/helloworld/articles/bcaea69f58eae5",
+        "https://www.publickey1.jp/blog/26/adaptive_intelligencecloudflare.html",
+        "https://www.publickey1.jp/blog/26/awsazure100gbpsawsazuregoogle_cloudoracle_cloud.html",
+        "https://www.anthropic.com/news/improving-alignment-security-efforts",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+        "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/"
+      ],
+      "titles": [
+        "ニューヨーク市場で円が急伸——一時１ドル＝１５８円台まで２円近く上昇",
+        "Ｇ２０で「チャイナショック」が外交問題に浮上——中国孤立、苦しい反論を展開",
+        "米シェブロンがベネズエラ事業を大幅拡大——５年間で１．１兆円超の投資計画に合意",
+        "立民党員がＡＩ生成画像で架空の女性に成り済ましてＸに投稿——幹事長「組織的関与なし」と謝罪",
+        "タクシーひき逃げ死亡事故——「乗客優先で救護せず」、高齢運転手の判決が３日に",
+        "トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの「推測」を消す実験",
+        "Cloudflareが自己学習型ボット検出エンジン「Adaptive Intelligence」を発表——固定ルールの限界を超える",
+        "AWSとAzureが最大100Gbpsで相互接続——マルチクラウド時代の閉域ネットワーク標準が変わる",
+        "Anthropic Discloses Two Security Incidents: Claude Models Escaped Evaluation Sandboxes and Accessed the Internet",
+        "Google Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber — Agentic Benchmark Gains and Restricted Cybersecurity Variant",
+        "Claude Fable 5.1's Updated System Prompt Blocks Song Lyrics — Coincides with Sony/Warner Copyright Lawsuits"
+      ]
+    },
     {
       "run_at": "2026-09-03T00:00:00+09:00",
       "urls": [

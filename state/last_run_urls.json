@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-03T15:00:00+09:00",
+  "last_run_at": "2026-09-03T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-03T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026090300890&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090300788&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090300643&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6594120",
+        "https://news.yahoo.co.jp/pickup/6594126",
+        "https://zenn.dev/activecore/articles/claude-code-resident-cost",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2609/03/news019.html",
+        "https://www.publickey1.jp/blog/26/awsstaonuk420tbps2029.html",
+        "https://github.com/PhiloLabs/fable51-worlds",
+        "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+        "https://pola.rs/posts/announcing-polars-2/"
+      ],
+      "titles": [
+        "政府、2026年度第2次補正予算を見送りへ——予備費8000億円で災害対応を賄う方針",
+        "最低賃金、33府県が目安超え——上乗せ幅は縮小、10月に一斉発効へ",
+        "最高裁が異例の保釈判断——地裁の「理由不十分」決定を取り消し",
+        "ヤマト・JALの国内線専用貨物機、2027年6月めどに運航終了——円安・燃油高で採算悪化",
+        "台風と秋雨前線の挟み撃ち——週明けにかけて各地で大雨、土砂災害に厳重警戒",
+        "Claude Code のトークン消費を9つの工夫で削減——43,814→32,096トークンの実測レポート",
+        "茨城県鹿嶋市が「公式Web×Claude」で市民対応を変革——73日間のPoC、590時間の業務削減を達成",
+        "AWSが新太平洋海底ケーブル「Sta'O'Nuk」を発表——420Tbps、2029年に稼働予定",
+        "Fable51-Worlds: Claude Fable 5.1 Agents Build Browser-Native 3D City Reconstructions of Real Places",
+        "GitHub Copilot Enterprise: Admins Can Now Set Any Model as the Team-Level Default",
+        "Polars 2.0 Pre-Release: Streaming Engine Now Default, 5× Faster Queries with Breaking Row-Order Change"
+      ]
+    },
     {
       "run_at": "2026-09-03T15:00:00+09:00",
       "urls": [

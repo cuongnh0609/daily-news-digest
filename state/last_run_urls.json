@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-03T20:00:00+09:00",
+  "last_run_at": "2026-09-04T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-04T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6594140",
+        "https://news.yahoo.co.jp/pickup/6594134",
+        "https://news.yahoo.co.jp/pickup/6594133",
+        "https://www.itmedia.co.jp/news/article/2609/03/2000001106/",
+        "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001150/",
+        "https://zenn.dev/miogawa/articles/09bed306fc615a",
+        "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001101/",
+        "https://zenn.dev/mybest_dev/articles/2cd71bc64ad380",
+        "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+        "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+        "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0"
+      ],
+      "titles": [
+        "九州・東海で記録的大雨の恐れ——線状降水帯発生も視野、土砂災害に厳重警戒",
+        "大阪・あべちか地下街で強盗殺人未遂——容疑者を逮捕、白昼の繁華街に衝撃",
+        "麻布十番まつりの食中毒、サルモネラ菌を検出——屋台の衛生管理に問題か",
+        "UberとウェイブがロンドンでUK初の自動運転配車を開始——年内に東京でも展開へ",
+        "NVIDIAがHugging Face買収に合意——約2兆円、オープンAIエコシステム強化へ",
+        "AIエージェント時代にデータサイエンティストは生き残れるのか——役割変容と新たな価値創出",
+        "Meta「Muse Spark 1.3」登場——エージェント機能とコーディング性能を大幅強化、DeepSWEで他社を上回る",
+        "ECSデプロイパイプラインをGitHub ActionsとEcspressoに移行——実践ガイドと得られた知見",
+        "NVIDIA to Acquire Hugging Face for $12.9B — AI Infrastructure Meets Open-Weight Model Hub",
+        "GitHub Copilot Content Exclusions Now GA in App and CLI — Agentic Workflows Can Finally Respect Sensitive File Policies",
+        "Audacity 4.0 Released — Open-Source Audio Editor Gains Non-Destructive Editing and Real-Time Effects"
+      ]
+    },
     {
       "run_at": "2026-09-03T20:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Claude Fable 5.1 Is Now Generally Available in GitHub Copilot — Autonomous Coding for Pro+ and Above",
         "GitHub Copilot Code Review Can Now Approve Pull Requests — Counts Toward Branch Protection Requirements",
         "Slotstream: Run a 104GB Mixture-of-Experts LLM on a 48GB Mac via Expert Offloading from SSD"
-      ]
-    },
-    {
-      "run_at": "2026-09-02T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6593898?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593903?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593905?source=rss",
-        "https://www.jiji.com/jc/article?k=2026090101228&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2609/01/2000001004/",
-        "https://zenn.dev/karamage/articles/2ef2c2aea7dfdf",
-        "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001044/",
-        "https://www.itmedia.co.jp/news/article/2609/01/2000001045/",
-        "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-        "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
-      ],
-      "titles": [
-        "防災グッズが多様化——ラーメン缶詰からポータブル電源まで、備えの形が変わる",
-        "福島大学長、学歴ネタ動画を批判——「学生の尊厳を傷つける」とSNSで声明",
-        "鳥取・エクモ接続ミスで患者が低酸素脳症——病院が謝罪、20分間酸素供給されず",
-        "韓国・韓総裁の金庫から30億円押収——合同捜査本部が家宅捜索で発見",
-        "自衛隊の指揮統制システムにAI導入へ——防衛省、過去最大8.9兆円の概算要求を提出",
-        "Anthropic公式Claude Code講座で学ぶ「4つのD」——AI委任の思考フレームワークとは",
-        "総務省が「AX・新技術戦略室」を新設——省庁横断のAI推進体制を本格構築",
-        "MiniMax H3 Max登場——リアルタイム以下で動画生成、インタラクティブ番組も視野に",
-        "Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1 — New Frontier Models with 25% Cost Reduction",
-        "Anthropic Launches Enterprise Frontier Safeguards — Zero-Retention Privacy Meets Automated Misuse Detection",
-        "OpenAI Codex Desktop Bundles 1.7GB of Dependencies Including LibreOffice — A Peek Inside Agentic App Architecture"
-      ]
-    },
-    {
-      "run_at": "2026-09-02T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6593915",
-        "https://www.jiji.com/jc/article?k=2026090101143&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090101145&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090101058&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593916",
-        "https://zenn.dev/coji/articles/artifactshare-preview-claude-codex-cursor",
-        "https://www.publickey1.jp/blog/26/vs_codeairubber_duck.html",
-        "https://www.publickey1.jp/blog/26/airedshiftdwhamazon_redshiftagent_toolkit_for_aws.html",
-        "https://www.anthropic.com/news/expanding-support-for-scientists",
-        "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html",
-        "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype"
-      ],
-      "titles": [
-        "防災庁を今年11月に創設へ——南海トラフ・首都直下地震に備え「事前防災」を強化",
-        "「みんなで大家さん」事業停止・許可取り消し——投資家に虚偽説明、大阪・東京が同時処分",
-        "英スターマー前首相が下院議員を辞職——「国際問題に専念する」と表明",
-        "沖縄・北谷町のホテル火災、米国人旅行者を殺人未遂・放火容疑で逮捕",
-        "フラット35の9月金利、3.46%に上昇——2017年10月以来の最高水準",
-        "会話セッションを妨害せず外部イベントでClaude Code / Codex / Cursorを動かすCLI設計",
-        "VS Codeに「Rubber Duck」実験機能——別のAIエージェントがセカンドオピニオンを提供",
-        "Amazon RedshiftがAgent Toolkit for AWSと統合——AIエージェントが自然言語でDWH構築・集計分析を実行",
-        "Anthropic Expands Claude Access for Scientists: 10,000 Free Subscriptions, $50K Credits, and Claude Science Workbench",
-        "DuckLabs Acquired by AWS: DuckDB Joins Amazon While Preserving MIT Open-Source License",
-        "EFF to Courts: Don't Rewrite Copyright Law Over AI Hype — Fair Use and the VCR Precedent"
       ]
     }
   ]

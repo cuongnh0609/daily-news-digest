@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-04T10:00:00+09:00",
+  "last_run_at": "2026-09-04T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-04T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6594203",
+        "https://news.yahoo.co.jp/pickup/6594184",
+        "https://news.yahoo.co.jp/pickup/6594194",
+        "https://www.itmedia.co.jp/news/article/2609/04/2000001157/",
+        "https://www.itmedia.co.jp/news/article/2609/04/2000001161/",
+        "https://zenn.dev/atamaplus/articles/6be03483c0110b",
+        "https://zenn.dev/coji/articles/artifactshare-preview-claude-codex-cursor",
+        "https://www.itmedia.co.jp/news/article/2609/04/2000001167/",
+        "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+        "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+        "https://neil.fraser.name/news/2026/09/03/"
+      ],
+      "titles": [
+        "北陸大雨を激甚災害に指定へ——高市首相が表明、被災自治体の復旧費を国が重点支援",
+        "米共和党議員がヘグセス国防長官の解任を要求——就任19カ月で4つ星将軍が半減、人事混乱が深刻化",
+        "少子化なのに子供服が売れる逆説——インバウンドと「1人への集中投資」が市場を支える",
+        "35年越しの暗号難題「RSA-260」がついに解読——量子コンピュータなし、現行RSA-2048には影響なし",
+        "RIZAP社員が顧客の健康情報を無断で私用AIに入力——要配慮個人情報の流出、24時間以内に削除確認",
+        "Claude Code のroutine機能でPRレビューからエラー調査まで自動化——定額運用で実現する8種の業務改善",
+        "会話セッションを邪魔せずにClaude Code・Codex・Cursorを外部イベントで動かすCLI——軽量設計でエージェントの常駐不要",
+        "ELYZAの「業務AIをAIで作成する」特許に「新規性なし」と炎上——謝罪後も批判収まらず、AI特許の範囲に議論",
+        "GitHub Copilot Deprecates Gemini 3.5/3.6, Kimi K2.7 Code, and Claude Opus 4.7 — Migration Required Before October 2",
+        "Gemini 3.8 Flash Is Now Available in GitHub Copilot — Strong Agentic Coding Performance with Introductory Pricing Until Year-End",
+        "ICANN Approves Verisign's Plan to Terminate All Third-Level .name Domains — 22,000 Holders Face Involuntary Loss of Prepaid Domains"
+      ]
+    },
     {
       "run_at": "2026-09-04T10:00:00+09:00",
       "urls": [

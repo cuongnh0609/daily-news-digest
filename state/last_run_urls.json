@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-04T00:00:00+09:00",
+  "last_run_at": "2026-09-04T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-04T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026090400217&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090300981&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090400137&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2609/03/2000001104/",
+        "https://news.yahoo.co.jp/pickup/6594166?source=rss",
+        "https://zenn.dev/nexta_/articles/d0b88ea83ee861",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news003.html",
+        "https://www.publickey1.jp/blog/26/vs_codeairubber_duck.html",
+        "https://www.itmedia.co.jp/news/article/2609/04/2000001153/",
+        "https://armature.tech/blog/which-tools-coding-agents-install",
+        "https://zed.dev/blog/agentic-xanadu"
+      ],
+      "titles": [
+        "独VW、世界で5万人を追加削減へ——4工場の用途転換にも合意、EVシフトの誤算が直撃",
+        "高市首相、鈴木幹事長の続投を調整——麻生・木原氏も留任、9月改造で政権基盤を固める",
+        "「はなのかみ方」研究でイグ・ノーベル賞——旭川医科大の故・海野教授、鼻をかむ最適メカニズムを解明",
+        "ファミリーマート、POSレジを全面刷新——1台でセルフ・有人を切り替え、レジ業務を2割削減へ",
+        "米中間選挙、共和党の牙城で異例の接戦——下院の過半数維持めぐり両党が最終盤の争い",
+        "シャドーAIエージェントはログがないと止められない——TrendAI Spark 2026 仙台から見えたガバナンスの急所",
+        "なぜAI企業は「ソフトウェアエンジニア」と呼ばなくなったのか——「MTS」称号が示す役職の未来",
+        "VS Codeに「Rubber Duck」機能が実験的追加——別AIエージェントがコードの第2の目になる",
+        "OpenAI Releases GPT-6 Astra — First Model Rated \"Critical\" for Cybersecurity, 100% on ExploitBench",
+        "Which Tools Do Claude, Codex, and Cursor Actually Choose? — 17,000-Run Study Reveals Surprising Gaps",
+        "Zed's Agentic Xanadu — How AI Agents Finally Realize Ted Nelson's 60-Year-Old Hypertext Dream"
+      ]
+    },
     {
       "run_at": "2026-09-04T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Paint.NET's 180K-Line Claude-Written Direct2D Port — What \"Vibe Coded at Scale\" Really Looks Like",
         "The Efficient Frontier of LLM Inference — A Framework for Latency-Throughput Optimization",
         "Meta's \"Muse Voice Transcribe\" — Real-Time Multi-Speaker Recognition Across 20+ Languages"
-      ]
-    },
-    {
-      "run_at": "2026-09-02T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6593943?source=rss",
-        "https://www.jiji.com/jc/article?k=2026090200212&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6593937?source=rss",
-        "https://news.yahoo.co.jp/pickup/6593931?source=rss",
-        "https://www.jiji.com/jc/article?k=2026090100882&g=pol&m=rss",
-        "https://zenn.dev/atamaplus/articles/6be03483c0110b",
-        "https://zenn.dev/aws_japan/articles/agent-registry-kiro-governance",
-        "https://zenn.dev/knowledgesense/articles/ad123283bdea26",
-        "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
-        "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
-        "https://github.com/carloslfu/slotstream"
-      ],
-      "titles": [
-        "菅原由勢、イタリア・セリエAのカリアリへ期限付き移籍——購入オプション付きで約10億円",
-        "プーチン大統領「関係悪化の全責任は日本にある」——北方領土訪問への批判に強硬反論",
-        "日本郵便の取材回答に総務省が介入か——内部チャットに「答えすぎ」と官僚コメント",
-        "SBエナジーが米国でIPO申請——OpenAI・NVIDIAも出資、AI電力需要を追い風に約1兆円調達へ",
-        "沖縄知事選——稲嶺元知事「辺野古反対は60%超」、基地負担論争が再び焦点に",
-        "Claude Code routineで定額自動化——PRレビューとエラー調査をサブスク内で回す実例",
-        "AWS Agent Registry × Kiro for Enterprise——野良MCPを統制する企業向けガバナンス設計",
-        "Google提唱「SKILL.state」——型付き構造化状態でエージェントのコンテキストを6.17Mから120Kトークンに圧縮",
-        "Claude Fable 5.1 Is Now Generally Available in GitHub Copilot — Autonomous Coding for Pro+ and Above",
-        "GitHub Copilot Code Review Can Now Approve Pull Requests — Counts Toward Branch Protection Requirements",
-        "Slotstream: Run a 104GB Mixture-of-Experts LLM on a 48GB Mac via Expert Offloading from SSD"
       ]
     }
   ]

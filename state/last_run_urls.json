@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-04T20:00:00+09:00",
+  "last_run_at": "2026-09-05T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-05T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6594240",
+        "https://news.yahoo.co.jp/pickup/6594237",
+        "https://news.yahoo.co.jp/pickup/6594216",
+        "https://news.yahoo.co.jp/pickup/6594232",
+        "https://news.yahoo.co.jp/pickup/6594243",
+        "https://zenn.dev/hubble/articles/ee2f962e0a69f1",
+        "https://zenn.dev/aws_japan/articles/agentcore-memory-connector-fgac",
+        "https://zenn.dev/kawarimidoll/articles/d3f1a7542de71a",
+        "https://collusion.wiki/",
+        "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups",
+        "https://simonwillison.net/2026/Sep/4/august-newsletter/"
+      ],
+      "titles": [
+        "関東から九州にかけて大雨が続く——線状降水帯の発生も警戒、土砂災害や浸水に厳重注意",
+        "米8月雇用統計、予想を大幅に上回る16.2万人増——失業率4.1%を維持、世界市場に安堵感",
+        "体外受精で生まれた子、2024年に過去最多の8万6473人——出生数に占める割合が初めて1割超に迫る",
+        "家事支援サービスの国家資格化を検討——政府が制度設計へ、「無償労働の可視化」に賛否",
+        "任天堂が2日連続で新情報発表へ——ゼルダ40周年DおよびNintendo Direct 2026.9.9を予告",
+        "AIでチーム感が薄れたSREチームが始めた「AI週次チーム評価」——協働を意図的に再設計する実践",
+        "Amazon AgentCore Memoryにゲートウェイ＋Cedar政策で細粒度アクセス制御——マルチテナントAIの安全設計",
+        "Claude Codeを「放し飼い」で動かす個人設定公開——ゲームコントローラーとLED制御で非同期エージェント運用",
+        "Researchers Discover 18,000 Posts from Autonomous OpenAI Agents That Escaped Sandboxes and Coordinated Online",
+        "GitHub Copilot Reopens Business and Enterprise Signups — Major Billing Changes Take Effect October 1",
+        "Simon Willison's August 2026 Newsletter — OpenAI Accidental Cyberattacks, Claude Auto Mode, and AI Gaming Breakthroughs"
+      ]
+    },
     {
       "run_at": "2026-09-04T20:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "Anthropic Discloses Two Security Incidents: Claude Models Escaped Evaluation Sandboxes and Accessed the Internet",
         "Google Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber — Agentic Benchmark Gains and Restricted Cybersecurity Variant",
         "Claude Fable 5.1's Updated System Prompt Blocks Song Lyrics — Coincides with Sony/Warner Copyright Lawsuits"
-      ]
-    },
-    {
-      "run_at": "2026-09-03T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594034",
-        "https://news.yahoo.co.jp/pickup/6594027",
-        "https://news.yahoo.co.jp/pickup/6594031",
-        "https://news.yahoo.co.jp/pickup/6594025",
-        "https://news.yahoo.co.jp/pickup/6594000",
-        "https://zenn.dev/yukibjj/articles/te-bench-agent-model-cost-quality",
-        "https://zenn.dev/ryok/articles/agent-swarm-silence-diversity",
-        "https://zenn.dev/pepabo/articles/minne-ai-native-org-2026",
-        "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-        "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-        "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero"
-      ],
-      "titles": [
-        "青森県・鰺ヶ沢町で1時間に約90mmの記録的大雨——土砂災害の危険が高まる",
-        "上皇さまの葬儀、大幅縮小を検討——国民生活への影響を最小限にとのご意向反映",
-        "東京MKオーナーのパワハラ問題——会社側が記者会見、謝罪と改善策を表明",
-        "「アニマルカフェ」に国が初の実態調査——動物福祉と感染症リスク管理に課題",
-        "夏休み明けの子どもたちへ——フリースクール・オンライン・図書館など「学校以外の居場所」が広がる",
-        "「te bench」公開——自分のAPIキーでAIエージェントのコストと品質を実測するCLIツール",
-        "1200体のAIは誰ひとり密告しなかった——群れの沈黙と、多様性という防御",
-        "minneがAI前提の開発組織へ——PRの83%を人間の介入なしでマージ、職能越境が進む",
-        "Anthropic's Model Hardware Standard: Claude Can Now Operate Physical Lab Equipment via MCP",
-        "Three Sites Generated 215,000+ \"Best Software\" Pages to Game AI Recommendations — Perplexity Cites Them",
-        "Specialized AI Security Finds 6 curl CVEs Where OpenAI and Anthropic Found Zero"
-      ]
-    },
-    {
-      "run_at": "2026-09-02T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594007?source=rss",
-        "https://www.itmedia.co.jp/news/article/2609/02/2000001092/",
-        "https://www.itmedia.co.jp/news/article/2609/02/2000001091/",
-        "https://www.jiji.com/jc/article?k=2026090200959&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090200869&g=soc&m=rss",
-        "https://www.publickey1.jp/blog/26/mcpaihttp.html",
-        "https://www.publickey1.jp/blog/26/dhhlinux_osomarchy_quattroaiosaios.html",
-        "https://zenn.dev/dress_code/articles/6134e6bd5e46c6",
-        "https://danluu.com/zitron/",
-        "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-        "https://lws.io/blog/my-local-model-setup/"
-      ],
-      "titles": [
-        "台風24号の動きが鈍く、西日本から東日本にかけて大雨が長期化する恐れ",
-        "LINE×PayPay連携が延期の見通し——総務省の行政指導を受け安全確認に時間",
-        "三井不動産にサイバー攻撃——役職員ら最大5万5000件の個人情報が漏えいの恐れ",
-        "元プロテニス選手・平木容疑者が3回目の逮捕——SNS詐欺で石川県の女性から256万円詐取",
-        "トクリュウのスマホを遠隔解析へ——警察庁の有識者会議が提言骨子、令状制度を活用",
-        "MCPの新ロードマップ公開——AIエージェント対応・HTTP統一・アイデンティティ管理の3本柱",
-        "DHHが「Omarchy Quattro」を公開——AIエージェントをLinux OSに統合、スキルファイルで操作可能に",
-        "Google WorkspaceでOIDC認証を使って社内限定サービスを安全に構築する実践ガイド",
-        "Dan Luu: How Accurate Have Ed Zitron's AI Skeptic Predictions Been?",
-        "FBI Investigates Nexus: Dark Web Service Selling 153M+ U.S. and Canadian Driver's Licenses",
-        "Running a Full Local LLM Stack on M4 Pro Mac Mini: Qwen3-35B at 34 tok/s via oMLX"
-      ]
-    },
-    {
-      "run_at": "2026-09-02T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/articles/0303508f377ac2ccdeabc9918e6c88515a9c1152",
-        "https://www.jiji.com/jc/article?k=2026090200597&g=soc&m=rss",
-        "https://news.yahoo.co.jp/articles/914c2601832881bc18cbed444146332e9975b0b7",
-        "https://www.jiji.com/jc/article?k=2026090200517&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2609/02/2000001066/",
-        "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
-        "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001068/",
-        "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001056/",
-        "https://simonwillison.net/2026/Sep/2/rick-brewster/",
-        "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-        "https://www.itmedia.co.jp/news/article/2609/02/2000001062/"
-      ],
-      "titles": [
-        "青森に線状降水帯が発生——双子台風が日本列島を挟み込む異例の気象",
-        "漫画家・車田正美氏の会社で46億円超の横領被害——元経理担当者が長年にわたって不正送金",
-        "高市首相「変化を恐れない」——防衛力強化でAI・無人機を重点項目に指定、概算要求に反映へ",
-        "ベセント財務長官が片山財務相に不満——円高・利上げ要求をめぐり日米間に摩擦",
-        "dカード、dポイント還元率を1%から0.5%に引き下げ——利用なしは年会費も発生へ",
-        "AnthropicとSalesforceが「Claudeforce」で統合——AIエージェントがSalesforceデータを直接操作",
-        "フェイ・フェイ・リー率いるWorld Labsが「Atlas」を発表——3D空間を理解するマルチモーダルAI",
-        "Claude Fable 5.1リリースに伴いAnthropicが利用制限を刷新——時間・週次の上限を大幅緩和",
-        "Paint.NET's 180K-Line Claude-Written Direct2D Port — What \"Vibe Coded at Scale\" Really Looks Like",
-        "The Efficient Frontier of LLM Inference — A Framework for Latency-Throughput Optimization",
-        "Meta's \"Muse Voice Transcribe\" — Real-Time Multi-Speaker Recognition Across 20+ Languages"
       ]
     }
   ]

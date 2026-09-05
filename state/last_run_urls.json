@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-05T20:00:00+09:00",
+  "last_run_at": "2026-09-06T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-06T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/513b53c3fbdda9c2ac35c0fb61677e76dd880beb",
+        "https://news.yahoo.co.jp/articles/25ebace510debdc8d7734c1b8159d1fcb6d2949e",
+        "https://news.yahoo.co.jp/articles/80615268e56670ead3b5cfc776d497f69e9b7279",
+        "https://news.yahoo.co.jp/articles/20823ce33873099c0c3648e228249103bcfdc866",
+        "https://news.yahoo.co.jp/pickup/6594361",
+        "https://techtarget.itmedia.co.jp/tt/article/2609/05/2000001183/",
+        "https://techtarget.itmedia.co.jp/tt/article/2609/05/2000001181/",
+        "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202608",
+        "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+        "https://www.anthropic.com/news/claude-text-watermark",
+        "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
+      ],
+      "titles": [
+        "関東、6〜7日にかけて警報級大雨のおそれ——交通機関の乱れに注意",
+        "高市首相、改正皇室典範は「皇族数確保が目的」——女性天皇論争に反論",
+        "内閣改造で小泉防衛相の留任を調整——安保3文書改定へ継続性を重視",
+        "小沢一郎氏、立民・中道の「解党的出直し」を主張——野党再編めぐる発言が波紋",
+        "ロシアに「菊の紋章破壊」の記念碑——高市首相が撤去を正式要請",
+        "NVIDIAが約2兆円でHugging Faceを買収——オープンAIエコシステムの囲い込み懸念と開放性の約束",
+        "AIを配るだけでは組織が空転——GitLabが明かす「フェデレーテッド型」AI人材育成モデル",
+        "Web標準動向2026年8月版——XSLT廃止の動き、CSS Mixins刷新、Iterator.prototype.join がStage 4へ",
+        "CVE-2026-85046: Actively Exploited Sandbox RCE Hits All Chromium Versions — Patch Immediately",
+        "Anthropic Explains How Claude's Invisible Text Watermark Works — EU AI Act Compliance via SynthID-Text",
+        "AI Handles Incidents, Engineers Lose Touch With Their Systems — The Automation Paradox in On-Call"
+      ]
+    },
     {
       "run_at": "2026-09-05T20:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Anthropic Launches Enterprise Frontier Safeguards — Zero Data Retention Meets Misuse Detection",
         "GitHub CLI Linux Package Signing Key Expires September 5 — Action Required for APT/RPM Users",
         "The Asteroid Hitting Frontend Web Development — Why AI Agents Are Making Web Fundamentals Irrelevant"
-      ]
-    },
-    {
-      "run_at": "2026-09-04T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594203",
-        "https://news.yahoo.co.jp/pickup/6594184",
-        "https://news.yahoo.co.jp/pickup/6594194",
-        "https://www.itmedia.co.jp/news/article/2609/04/2000001157/",
-        "https://www.itmedia.co.jp/news/article/2609/04/2000001161/",
-        "https://zenn.dev/atamaplus/articles/6be03483c0110b",
-        "https://zenn.dev/coji/articles/artifactshare-preview-claude-codex-cursor",
-        "https://www.itmedia.co.jp/news/article/2609/04/2000001167/",
-        "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
-        "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-        "https://neil.fraser.name/news/2026/09/03/"
-      ],
-      "titles": [
-        "北陸大雨を激甚災害に指定へ——高市首相が表明、被災自治体の復旧費を国が重点支援",
-        "米共和党議員がヘグセス国防長官の解任を要求——就任19カ月で4つ星将軍が半減、人事混乱が深刻化",
-        "少子化なのに子供服が売れる逆説——インバウンドと「1人への集中投資」が市場を支える",
-        "35年越しの暗号難題「RSA-260」がついに解読——量子コンピュータなし、現行RSA-2048には影響なし",
-        "RIZAP社員が顧客の健康情報を無断で私用AIに入力——要配慮個人情報の流出、24時間以内に削除確認",
-        "Claude Code のroutine機能でPRレビューからエラー調査まで自動化——定額運用で実現する8種の業務改善",
-        "会話セッションを邪魔せずにClaude Code・Codex・Cursorを外部イベントで動かすCLI——軽量設計でエージェントの常駐不要",
-        "ELYZAの「業務AIをAIで作成する」特許に「新規性なし」と炎上——謝罪後も批判収まらず、AI特許の範囲に議論",
-        "GitHub Copilot Deprecates Gemini 3.5/3.6, Kimi K2.7 Code, and Claude Opus 4.7 — Migration Required Before October 2",
-        "Gemini 3.8 Flash Is Now Available in GitHub Copilot — Strong Agentic Coding Performance with Introductory Pricing Until Year-End",
-        "ICANN Approves Verisign's Plan to Terminate All Third-Level .name Domains — 22,000 Holders Face Involuntary Loss of Prepaid Domains"
-      ]
-    },
-    {
-      "run_at": "2026-09-04T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026090400217&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090300981&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090400137&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2609/04/2000001104/",
-        "https://news.yahoo.co.jp/pickup/6594166?source=rss",
-        "https://zenn.dev/nexta_/articles/d0b88ea83ee861",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news003.html",
-        "https://www.publickey1.jp/blog/26/vs_codeairubber_duck.html",
-        "https://www.itmedia.co.jp/news/article/2609/04/2000001153/",
-        "https://armature.tech/blog/which-tools-coding-agents-install",
-        "https://zed.dev/blog/agentic-xanadu"
-      ],
-      "titles": [
-        "独VW、世界で5万人を追加削減へ——4工場の用途転換にも合意、EVシフトの誤算が直撃",
-        "高市首相、鈴木幹事長の続投を調整——麻生・木原氏も留任、9月改造で政権基盤を固める",
-        "「はなのかみ方」研究でイグ・ノーベル賞——旭川医科大の故・海野教授、鼻をかむ最適メカニズムを解明",
-        "ファミリーマート、POSレジを全面刷新——1台でセルフ・有人を切り替え、レジ業務を2割削減へ",
-        "米中間選挙、共和党の牙城で異例の接戦——下院の過半数維持めぐり両党が最終盤の争い",
-        "シャドーAIエージェントはログがないと止められない——TrendAI Spark 2026 仙台から見えたガバナンスの急所",
-        "なぜAI企業は「ソフトウェアエンジニア」と呼ばなくなったのか——「MTS」称号が示す役職の未来",
-        "VS Codeに「Rubber Duck」機能が実験的追加——別AIエージェントがコードの第2の目になる",
-        "OpenAI Releases GPT-6 Astra — First Model Rated \"Critical\" for Cybersecurity, 100% on ExploitBench",
-        "Which Tools Do Claude, Codex, and Cursor Actually Choose? — 17,000-Run Study Reveals Surprising Gaps",
-        "Zed's Agentic Xanadu — How AI Agents Finally Realize Ted Nelson's 60-Year-Old Hypertext Dream"
-      ]
-    },
-    {
-      "run_at": "2026-09-04T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594140",
-        "https://news.yahoo.co.jp/pickup/6594134",
-        "https://news.yahoo.co.jp/pickup/6594133",
-        "https://www.itmedia.co.jp/news/article/2609/03/2000001106/",
-        "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001150/",
-        "https://zenn.dev/miogawa/articles/09bed306fc615a",
-        "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001101/",
-        "https://zenn.dev/mybest_dev/articles/2cd71bc64ad380",
-        "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-        "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-        "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0"
-      ],
-      "titles": [
-        "九州・東海で記録的大雨の恐れ——線状降水帯発生も視野、土砂災害に厳重警戒",
-        "大阪・あべちか地下街で強盗殺人未遂——容疑者を逮捕、白昼の繁華街に衝撃",
-        "麻布十番まつりの食中毒、サルモネラ菌を検出——屋台の衛生管理に問題か",
-        "UberとウェイブがロンドンでUK初の自動運転配車を開始——年内に東京でも展開へ",
-        "NVIDIAがHugging Face買収に合意——約2兆円、オープンAIエコシステム強化へ",
-        "AIエージェント時代にデータサイエンティストは生き残れるのか——役割変容と新たな価値創出",
-        "Meta「Muse Spark 1.3」登場——エージェント機能とコーディング性能を大幅強化、DeepSWEで他社を上回る",
-        "ECSデプロイパイプラインをGitHub ActionsとEcspressoに移行——実践ガイドと得られた知見",
-        "NVIDIA to Acquire Hugging Face for $12.9B — AI Infrastructure Meets Open-Weight Model Hub",
-        "GitHub Copilot Content Exclusions Now GA in App and CLI — Agentic Workflows Can Finally Respect Sensitive File Policies",
-        "Audacity 4.0 Released — Open-Source Audio Editor Gains Non-Destructive Editing and Real-Time Effects"
       ]
     }
   ]

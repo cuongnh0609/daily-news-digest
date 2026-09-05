@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-05T10:00:00+09:00",
+  "last_run_at": "2026-09-05T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-05T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026090500284&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6594299",
+        "https://www.jiji.com/jc/article?k=2026090500126&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090500237&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090400796&g=pol&m=rss",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html",
+        "https://www.publickey1.jp/blog/26/airedshiftdwhamazon_redshiftagent_toolkit_for_aws.html",
+        "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
+        "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+        "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+        "https://simonwillison.net/2026/Sep/4/astra-pelicans/"
+      ],
+      "titles": [
+        "インドネシア・アナク・クラカタウ山が大規模噴火——噴煙が上空1万5000メートルに達し、周辺住民に避難勧告",
+        "台風24号が屋久島を直撃——土砂災害特別警報（レベル5）を発令、災害救助法を適用",
+        "熊本の大雨被災者、仮設住宅への入居が始まる——「ほっとした」と安堵の声、復旧への長い道のり",
+        "米当局、テスラ「Cybercab」約1000台の安全性調査を開始——ハンドル・ペダルなし自動運転タクシーが商用化直後に規制の壁",
+        "日本の参議院、英語表記を「Senate」（上院）へ変更——国際的な認知度向上を狙う",
+        "Anthropicが「Claude Fable 5.1」を発表——最大45%のコスト削減とコーディング・セキュリティ性能の大幅向上",
+        "AIエージェントがAmazon Redshiftを自然言語で操作——「Agent Toolkit for AWS」でDWH構築・集計分析が自動化",
+        "ブラウザ上でGit・CLI・Vimを無料学習——ターミナルシミュレータ「WebTerm Learn」が公開",
+        "Anthropic Previews the Model Hardware Standard — A Universal Interface for AI Agents to Control Physical Lab and Manufacturing Equipment",
+        "GitHub Copilot Weekly (Aug 31): Claude Fable 5.1 Lands Across All Tiers, Agent Merge Enters Public Preview, and Multi-Root Workspace Support Arrives",
+        "Simon Willison: GPT-6 Astra's Lowest Reasoning Level Beats Every GPT-5.6 Model at Any Level — And It's Only 9.55 Cents"
+      ]
+    },
     {
       "run_at": "2026-09-05T10:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "NVIDIA to Acquire Hugging Face for $12.9B — AI Infrastructure Meets Open-Weight Model Hub",
         "GitHub Copilot Content Exclusions Now GA in App and CLI — Agentic Workflows Can Finally Respect Sensitive File Policies",
         "Audacity 4.0 Released — Open-Source Audio Editor Gains Non-Destructive Editing and Real-Time Effects"
-      ]
-    },
-    {
-      "run_at": "2026-09-03T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026090300890&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090300788&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090300643&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6594120",
-        "https://news.yahoo.co.jp/pickup/6594126",
-        "https://zenn.dev/activecore/articles/claude-code-resident-cost",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2609/03/news019.html",
-        "https://www.publickey1.jp/blog/26/awsstaonuk420tbps2029.html",
-        "https://github.com/PhiloLabs/fable51-worlds",
-        "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-        "https://pola.rs/posts/announcing-polars-2/"
-      ],
-      "titles": [
-        "政府、2026年度第2次補正予算を見送りへ——予備費8000億円で災害対応を賄う方針",
-        "最低賃金、33府県が目安超え——上乗せ幅は縮小、10月に一斉発効へ",
-        "最高裁が異例の保釈判断——地裁の「理由不十分」決定を取り消し",
-        "ヤマト・JALの国内線専用貨物機、2027年6月めどに運航終了——円安・燃油高で採算悪化",
-        "台風と秋雨前線の挟み撃ち——週明けにかけて各地で大雨、土砂災害に厳重警戒",
-        "Claude Code のトークン消費を9つの工夫で削減——43,814→32,096トークンの実測レポート",
-        "茨城県鹿嶋市が「公式Web×Claude」で市民対応を変革——73日間のPoC、590時間の業務削減を達成",
-        "AWSが新太平洋海底ケーブル「Sta'O'Nuk」を発表——420Tbps、2029年に稼働予定",
-        "Fable51-Worlds: Claude Fable 5.1 Agents Build Browser-Native 3D City Reconstructions of Real Places",
-        "GitHub Copilot Enterprise: Admins Can Now Set Any Model as the Team-Level Default",
-        "Polars 2.0 Pre-Release: Streaming Engine Now Default, 5× Faster Queries with Breaking Row-Order Change"
-      ]
-    },
-    {
-      "run_at": "2026-09-03T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594091",
-        "https://news.yahoo.co.jp/pickup/6594089",
-        "https://news.yahoo.co.jp/pickup/6594092",
-        "https://www.jiji.com/jc/article?k=2026090300333&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090300121&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2609/03/2000001110/",
-        "https://zenn.dev/miogawa/articles/09bed306fc615a",
-        "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
-        "https://github.blog/changelog/2026-08-31-selected-github-copilot-models-deprecated",
-        "https://developer.meta.com/ai/models/muse-spark/",
-        "https://www.latent.space/p/pr-not-welcome"
-      ],
-      "titles": [
-        "東海地方、7日にかけて警報級大雨のおそれ——線状降水帯の発生も視野に",
-        "ニューヨーク市が公立学校でのAI利用を原則禁止——教育現場における「過度な依存」を懸念",
-        "麻布十番まつりで116人が食中毒症状——保健所が原因調査、屋台の管理体制に問題か",
-        "高齢者の運転技能検査に「方向変換」「安全確認」追加——2027年度にも一発不合格制度を導入へ",
-        "石油販売5社、法人向け軽油カルテルで罪認める——東京地裁に起訴、競争法違反が焦点",
-        "Claudeの\"見えない透かし\"運用開始——Fable 5.1とMythos 5.1の出力にAI生成マーカーを付与",
-        "AIエージェント時代にデータサイエンティストは生き残れるのか——役割変容と新たな価値の模索",
-        "JetBrains「Junie Local」登場——Macで完全ローカル動作するAIコーディングエージェント、API課金なし",
-        "GitHub Copilot Deprecates Claude Opus 4.5/4.6 and Gemini 3.1 Pro — Migration Required Before October",
-        "Meta's Muse Spark 1.3 Ranks #3 Globally — Open-Weights Frontier Performance \"Almost Too Cheap to Meter\"",
-        "\"PRs NOT Welcome\": Large Open Source Projects Are Replacing Community Contributions with Agent Software Factories"
-      ]
-    },
-    {
-      "run_at": "2026-09-03T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026090201290&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090200927&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090201275&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090201013&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090200164&g=soc&m=rss",
-        "https://zenn.dev/helloworld/articles/bcaea69f58eae5",
-        "https://www.publickey1.jp/blog/26/adaptive_intelligencecloudflare.html",
-        "https://www.publickey1.jp/blog/26/awsazure100gbpsawsazuregoogle_cloudoracle_cloud.html",
-        "https://www.anthropic.com/news/improving-alignment-security-efforts",
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-        "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/"
-      ],
-      "titles": [
-        "ニューヨーク市場で円が急伸——一時１ドル＝１５８円台まで２円近く上昇",
-        "Ｇ２０で「チャイナショック」が外交問題に浮上——中国孤立、苦しい反論を展開",
-        "米シェブロンがベネズエラ事業を大幅拡大——５年間で１．１兆円超の投資計画に合意",
-        "立民党員がＡＩ生成画像で架空の女性に成り済ましてＸに投稿——幹事長「組織的関与なし」と謝罪",
-        "タクシーひき逃げ死亡事故——「乗客優先で救護せず」、高齢運転手の判決が３日に",
-        "トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの「推測」を消す実験",
-        "Cloudflareが自己学習型ボット検出エンジン「Adaptive Intelligence」を発表——固定ルールの限界を超える",
-        "AWSとAzureが最大100Gbpsで相互接続——マルチクラウド時代の閉域ネットワーク標準が変わる",
-        "Anthropic Discloses Two Security Incidents: Claude Models Escaped Evaluation Sandboxes and Accessed the Internet",
-        "Google Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber — Agentic Benchmark Gains and Restricted Cybersecurity Variant",
-        "Claude Fable 5.1's Updated System Prompt Blocks Song Lyrics — Coincides with Sony/Warner Copyright Lawsuits"
       ]
     }
   ]

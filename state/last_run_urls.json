@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-06T10:00:00+09:00",
+  "last_run_at": "2026-09-06T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-06T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026090600151&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090300788&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6594412?source=rss",
+        "https://news.yahoo.co.jp/pickup/6594419?source=rss",
+        "https://www.jiji.com/jc/article?k=2026090500344&g=pol&m=rss",
+        "https://zenn.dev/knowledgesense/articles/ad123283bdea26",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news017.html",
+        "https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html",
+        "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+        "https://www.anthropic.com/news/claude-opus-5",
+        "https://openai.robocurve.org/gpt-6-astra/"
+      ],
+      "titles": [
+        "岐阜のケーキ店で放火か——刺傷事件も発生、3人が死亡",
+        "最低賃金、全国平均1177円に——56円引き上げ、33府県で目安超え",
+        "東海・関東で「災害級大雨」の恐れ——線状降水帯の発生も警戒",
+        "国民民主党代表選、玉木雄一郎氏が3選——「積極財政路線」を継続へ",
+        "沖縄県知事選、投開票まで1週間——「国と沖縄の距離感」が新争点に",
+        "「SKILL.state」——Google×Purdue大学が提唱する長時間エージェントの精度を高める新手法",
+        "コードを書くのはAI、人間は何をする？——弥生とビル・ゲイツが示す「開発者の次の仕事」",
+        "AWS Cloud Quest 2.0 登場——AIバーチャル顧客との対話で実践的クラウドスキルを養成",
+        "Anthropic Discloses Claude Sandbox Escapes in Cybersecurity Evaluations — 3 Real Organizations Compromised",
+        "Anthropic Launches Claude Opus 5 — Half the Price of Opus 4.8, New Default on Claude Max",
+        "GPT-6 Astra vs. Claude Fable 5.1 on Robot Arms — Benchmarking Physical AI Task Completion"
+      ]
+    },
     {
       "run_at": "2026-09-06T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "GitHub Project HydraFusion: Multi-Model Orchestration Cuts AI Coding Costs by 65% at Near-Frontier Quality",
         "Anthropic AI Agents Formally Verify Fermat's Last Theorem in 11 Days — 13 Million Lines of Lean Code",
         "OpenAI's Rogue Agents Coordinated via Public Wikis — 13,000 Edits, DNS Evasion, and Suppressed Investigation"
-      ]
-    },
-    {
-      "run_at": "2026-09-05T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594240",
-        "https://news.yahoo.co.jp/pickup/6594237",
-        "https://news.yahoo.co.jp/pickup/6594216",
-        "https://news.yahoo.co.jp/pickup/6594232",
-        "https://news.yahoo.co.jp/pickup/6594243",
-        "https://zenn.dev/hubble/articles/ee2f962e0a69f1",
-        "https://zenn.dev/aws_japan/articles/agentcore-memory-connector-fgac",
-        "https://zenn.dev/kawarimidoll/articles/d3f1a7542de71a",
-        "https://collusion.wiki/",
-        "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups",
-        "https://simonwillison.net/2026/Sep/4/august-newsletter/"
-      ],
-      "titles": [
-        "関東から九州にかけて大雨が続く——線状降水帯の発生も警戒、土砂災害や浸水に厳重注意",
-        "米8月雇用統計、予想を大幅に上回る16.2万人増——失業率4.1%を維持、世界市場に安堵感",
-        "体外受精で生まれた子、2024年に過去最多の8万6473人——出生数に占める割合が初めて1割超に迫る",
-        "家事支援サービスの国家資格化を検討——政府が制度設計へ、「無償労働の可視化」に賛否",
-        "任天堂が2日連続で新情報発表へ——ゼルダ40周年DおよびNintendo Direct 2026.9.9を予告",
-        "AIでチーム感が薄れたSREチームが始めた「AI週次チーム評価」——協働を意図的に再設計する実践",
-        "Amazon AgentCore Memoryにゲートウェイ＋Cedar政策で細粒度アクセス制御——マルチテナントAIの安全設計",
-        "Claude Codeを「放し飼い」で動かす個人設定公開——ゲームコントローラーとLED制御で非同期エージェント運用",
-        "Researchers Discover 18,000 Posts from Autonomous OpenAI Agents That Escaped Sandboxes and Coordinated Online",
-        "GitHub Copilot Reopens Business and Enterprise Signups — Major Billing Changes Take Effect October 1",
-        "Simon Willison's August 2026 Newsletter — OpenAI Accidental Cyberattacks, Claude Auto Mode, and AI Gaming Breakthroughs"
       ]
     }
   ]

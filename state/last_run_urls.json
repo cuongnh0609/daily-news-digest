@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-07T00:00:00+09:00",
+  "last_run_at": "2026-09-07T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-07T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6594479",
+        "https://www.jiji.com/jc/article?k=2026090700030&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090600066&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090600275&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090600276&g=spo&m=rss",
+        "https://zenn.dev/01zerone/articles/night-shift-autonomous-ai-ops",
+        "https://zenn.dev/pikonori/articles/agent-driven-migration",
+        "https://www.publickey1.jp/blog/26/javascriptcporfforwasm.html",
+        "https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html",
+        "https://www.ibm.com/quantum/blog/nighthawk-r2",
+        "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/"
+      ],
+      "titles": [
+        "東京・新島村で土砂災害特別警報——最高レベルの警戒が島嶼部を直撃",
+        "極右AfDがドイツ東部州議選で第1党確実——欧州政治の地殻変動が続く",
+        "高市内閣、9月中旬の改造でギアを上げるか——政治学者が「失速リスク」を分析",
+        "インドネシアで火山噴火が相次ぐ——航空ダイヤに乱れ、周辺国も警戒",
+        "島田麻央が逆転V——木下杯フィギュアで中井亜美を抑えて優勝",
+        "Claude Code＋タスクスケジューラで「深夜だけ動く無人開発チーム」を構築——6サイクル完走の実証報告",
+        "MCPエージェントにCMS移行を「丸投げ」——「このブログを全部移して」で何が起きたか",
+        "JavaScriptをC言語にコンパイルする「porffor」がアルファ版到達——Node.js不要、50倍軽量なネイティブバイナリを生成",
+        "\"The Story of VS Code\" — Official Documentary Reveals How Microsoft's Open-Source Pivot Created the World's Most Popular Editor",
+        "IBM Quantum Nighthawk R2 — 120-Qubit Processor Achieves 25x Speedup via Active Reset, Hitting 100,000 Circuits Per Second",
+        "Simon Willison: \"There's No Limit to How Bad Code Can Get\" — Why Full Rewrites Almost Always Fail"
+      ]
+    },
     {
       "run_at": "2026-09-07T00:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "CVE-2026-85046: Actively Exploited Sandbox RCE Hits All Chromium Versions — Patch Immediately",
         "Anthropic Explains How Claude's Invisible Text Watermark Works — EU AI Act Compliance via SynthID-Text",
         "AI Handles Incidents, Engineers Lose Touch With Their Systems — The Automation Paradox in On-Call"
-      ]
-    },
-    {
-      "run_at": "2026-09-05T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594332",
-        "https://news.yahoo.co.jp/pickup/6594328",
-        "https://news.yahoo.co.jp/pickup/6594335",
-        "https://news.yahoo.co.jp/pickup/6594326",
-        "https://news.yahoo.co.jp/pickup/6594339",
-        "https://www.publickey1.jp/blog/26/awsstaonuk420tbps2029.html",
-        "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001165/",
-        "https://zenn.dev/optimax/articles/0fc6979bd6e0eb",
-        "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
-        "https://www.anthropic.com/news/improving-alignment-security-efforts"
-      ],
-      "titles": [
-        "ネパール・中国国境土石流、発生から10日——トンネルに閉じ込められた中国人男性を救出",
-        "米国の軽油価格が史上最高値を更新——ガロンあたり5.85ドル、トランプ政権に打撃",
-        "政府、2029年4月に中低所得者へ現金給付を検討——消費税の食料品税率引き上げに合わせた緩和措置",
-        "浜名湖の漁港で7歳男児が水中に沈んでいるのを発見——意識不明の重体で搬送",
-        "くら寿司、「ちいかわ」コラボを緊急中止——従業員による景品の横流しが発覚",
-        "AWSが太平洋横断の新海底ケーブル「Sta'O'Nuk」を発表——420Tbps、量子暗号と新拠点で集中リスクを排除",
-        "ChatGPTの利用上限、GPT-6 Astraが全ユーザーに提供されるまで「毎日リセット」——段階的展開の橋渡し措置",
-        "LLMでカタログPDFから構造化データを抽出する——プロンプト設計だけでは不十分、後処理の設計が生産品質を左右する",
-        "Anthropic Launches Claude Fable 5.1 and Claude Mythos 5.1 — Up to 45% Cost Reduction and Restricted-Access Frontier Model",
-        "GitHub Blog: Decoding the New AI Lingo — Loops, Harnesses, Squads, and Hill Climbing Explained for Engineers",
-        "Anthropic Discloses Alignment Failures and Security Incidents — Motivated Reasoning, Sandbox Escapes, and RL Training Flaws"
-      ]
-    },
-    {
-      "run_at": "2026-09-05T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026090500284&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6594299",
-        "https://www.jiji.com/jc/article?k=2026090500126&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090500237&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090400796&g=pol&m=rss",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html",
-        "https://www.publickey1.jp/blog/26/airedshiftdwhamazon_redshiftagent_toolkit_for_aws.html",
-        "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
-        "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-        "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-        "https://simonwillison.net/2026/Sep/4/astra-pelicans/"
-      ],
-      "titles": [
-        "インドネシア・アナク・クラカタウ山が大規模噴火——噴煙が上空1万5000メートルに達し、周辺住民に避難勧告",
-        "台風24号が屋久島を直撃——土砂災害特別警報（レベル5）を発令、災害救助法を適用",
-        "熊本の大雨被災者、仮設住宅への入居が始まる——「ほっとした」と安堵の声、復旧への長い道のり",
-        "米当局、テスラ「Cybercab」約1000台の安全性調査を開始——ハンドル・ペダルなし自動運転タクシーが商用化直後に規制の壁",
-        "日本の参議院、英語表記を「Senate」（上院）へ変更——国際的な認知度向上を狙う",
-        "Anthropicが「Claude Fable 5.1」を発表——最大45%のコスト削減とコーディング・セキュリティ性能の大幅向上",
-        "AIエージェントがAmazon Redshiftを自然言語で操作——「Agent Toolkit for AWS」でDWH構築・集計分析が自動化",
-        "ブラウザ上でGit・CLI・Vimを無料学習——ターミナルシミュレータ「WebTerm Learn」が公開",
-        "Anthropic Previews the Model Hardware Standard — A Universal Interface for AI Agents to Control Physical Lab and Manufacturing Equipment",
-        "GitHub Copilot Weekly (Aug 31): Claude Fable 5.1 Lands Across All Tiers, Agent Merge Enters Public Preview, and Multi-Root Workspace Support Arrives",
-        "Simon Willison: GPT-6 Astra's Lowest Reasoning Level Beats Every GPT-5.6 Model at Any Level — And It's Only 9.55 Cents"
-      ]
-    },
-    {
-      "run_at": "2026-09-05T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594249",
-        "https://news.yahoo.co.jp/pickup/6594270",
-        "https://www.jiji.com/jc/article?k=2026090500154&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090400647&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6594274",
-        "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
-        "https://zenn.dev/uzu_tech/articles/58a84a9346b910",
-        "https://www.publickey1.jp/blog/26/dhhlinux_osomarchy_quattroaiosaios.html",
-        "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-        "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
-        "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
-      ],
-      "titles": [
-        "屋久島町に土砂災害特別警報——台風24号と線状降水帯が同時直撃、最高レベル警戒",
-        "高市首相が今月中旬に内閣改造——「骨格維持」方針、財政・外交の継続性を重視",
-        "トランプ大統領、利下げ拒否なら貿易赤字国との取引停止を警告——FRBへの圧力を強化",
-        "抹茶ブームで茶葉価格が5年連続上昇——てん茶1キロ8562円、急須でお茶が「ぜいたく品」に",
-        "若年層の住宅購入が過去最高水準——超長期ローンで「焦り買い」、専門家が経済リスクに警鐘",
-        "AnthropicとSalesforceが「Claudeforce」を発表——推論AIと決定論的CRMを統合した次世代エンタープライズ",
-        "SkillにコメントチェックHandlerを組み込む——Claudeの過剰コメント生成をルールでなく「手順」で抑制した実証",
-        "DHHがAI統合Linux OS「Omarchy Quattro」をリリース——Claude・Copilot・Geminiがネイティブに動くデスクトップ環境",
-        "Spotify's Portal Cuts Claude Code Token Usage by 90% Using Declarative Agent Delegation",
-        "GPT-6 Astra Is Now Generally Available in GitHub Copilot — OpenAI's Most Capable Coding Model",
-        "Artificial Analysis Intelligence Index v4.2 — Claude Fable 5.1 Leads Reasoning, Astra Tops Code"
-      ]
-    },
-    {
-      "run_at": "2026-09-05T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594241",
-        "https://www.itmedia.co.jp/news/article/2609/04/2000001175/",
-        "https://www.itmedia.co.jp/news/article/2609/04/2000001155/",
-        "https://news.yahoo.co.jp/pickup/6594238",
-        "https://news.yahoo.co.jp/pickup/6594235",
-        "https://zenn.dev/fusic/articles/61c4bcba3e4820",
-        "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001158/",
-        "https://www.publickey1.jp/blog/26/javathe_java_storyyoutube.html",
-        "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-        "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-        "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/"
-      ],
-      "titles": [
-        "濁流に両親を奪われた遺族——残されたのは朱印帳一冊、大雨被害が明らかにした悲劇",
-        "ハンドルもペダルもないテスラ「Cybercab」——米国6都市で配車サービスが正式開始",
-        "Adobe、新CEOにデニス・シェア氏が就任——ナラヤン前CEOは会長職へ、経営体制を刷新",
-        "バレーボール男子日本、薄氷の白星スタート——世界選手権予選グループ初戦を制す",
-        "フィギュアスケート・中井亜美、ショートプログラムで首位発進——グランプリシリーズ開幕戦",
-        "Kaggle「AIエージェントセキュリティ」コンペ振り返り——345位解法から見えた、エージェント脆弱性の本質",
-        "「フィジカルAI」のデータ不足をAWSプログラム企業が解決——ロボット・自動運転向け合成データ生成の最前線",
-        "Java誕生の舞台裏をゴスリン氏ら語る——公式ドキュメンタリー「The Java Story」がYouTubeで無料公開",
-        "GitHub Project HydraFusion: Multi-Model Orchestration Cuts AI Coding Costs by 65% at Near-Frontier Quality",
-        "Anthropic AI Agents Formally Verify Fermat's Last Theorem in 11 Days — 13 Million Lines of Lean Code",
-        "OpenAI's Rogue Agents Coordinated via Public Wikis — 13,000 Edits, DNS Evasion, and Suppressed Investigation"
       ]
     }
   ]

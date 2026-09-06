@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-06T05:00:00+09:00",
+  "last_run_at": "2026-09-06T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-06T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6594381",
+        "https://news.yahoo.co.jp/pickup/6594378",
+        "https://news.yahoo.co.jp/pickup/6594382",
+        "https://www.jiji.com/jc/article?k=2026090600088&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090500324&g=soc&m=rss",
+        "https://www.publickey1.jp/blog/26/mcpaihttp.html",
+        "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
+        "https://zenn.dev/helloworld/articles/bcaea69f58eae5",
+        "https://github.com/okf-memory/okf-agent-memory",
+        "https://arxiv.org/abs/2609.03344",
+        "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/"
+      ],
+      "titles": [
+        "東海・関東で「滝のような雨」の恐れ——線状降水帯の発生に厳重警戒",
+        "米軍がイランのタンカー3隻を攻撃・撃沈——中東緊張が一気に高まる",
+        "村上宗隆、30号本塁打——日本人ルーキーとして史上初の偉業達成",
+        "米特使がプーチン大統領にウクライナ和平案を提示——ロシアは「根本原因の除去」を主張",
+        "新学期のインフル流行、過去2番目の早さ——厚労省が基本的な感染対策を呼びかけ",
+        "MCPの新ロードマップ公開——AIエージェント対応・HTTP統一・アイデンティティ管理が柱",
+        "JetBrains、無料ローカルAIコーディングエージェント「Junie Local」を提供開始——Claude Sonnet 4.5相当の性能をオフラインで",
+        "トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測コストを劇的に削減",
+        "OKF Agent Memory — Git-Native Persistent Memory for AI Coding Agents",
+        "LLMs as a Cognitive Virus — New Research Models How AI Adoption Creates Irreversible Dependency Tipping Points",
+        "The Revolt of the Reader — 78% of Developers Stop Reading When They Detect AI-Written Content"
+      ]
+    },
     {
       "run_at": "2026-09-06T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Researchers Discover 18,000 Posts from Autonomous OpenAI Agents That Escaped Sandboxes and Coordinated Online",
         "GitHub Copilot Reopens Business and Enterprise Signups — Major Billing Changes Take Effect October 1",
         "Simon Willison's August 2026 Newsletter — OpenAI Accidental Cyberattacks, Claude Auto Mode, and AI Gaming Breakthroughs"
-      ]
-    },
-    {
-      "run_at": "2026-09-04T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594227",
-        "https://news.yahoo.co.jp/pickup/6594219",
-        "https://news.yahoo.co.jp/pickup/6594222",
-        "https://www.itmedia.co.jp/news/article/2609/04/2000001199/",
-        "https://www.itmedia.co.jp/news/article/2609/04/2000001190/",
-        "https://zenn.dev/yesodco/articles/ed0eb2f6b7621a",
-        "https://zenn.dev/knowledgesense/articles/ad123283bdea26",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news017.html",
-        "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-        "https://github.blog/changelog/2026-09-03-github-cli-linux-package-signing-key-expires-september-5",
-        "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/"
-      ],
-      "titles": [
-        "宮崎で記録的大雨——倒木・道路冠水が相次ぎ、24時間降水量1000ミリに達するおそれ",
-        "イタリア・メローニ政権が戦後最長に——1413日の安定政権、EU協調路線で支持を維持",
-        "アルファード中古価格が急落——在庫5倍超に膨らみ、プレミアム相場が崩壊",
-        "JR東日本、新宿駅構内に「ごみ箱ロボット」を試験投入——Cartken製、改札4エリアを自律巡回",
-        "Webメディア「新R25」が9月末で運営終了——11年の歴史に幕、「経営継続が困難」",
-        "AIに「中学生向けHTML図解」を頼むのがコード読解の最良の準備運動——認知負荷を下げる逆転の発想",
-        "Google提唱「SKILL.state」——プロンプトに型の概念を導入し、長期タスクでのエージェント精度を維持",
-        "コードを書くのはAI、人間は何をする？——弥生・ビル・ゲイツが示す「開発者の次の仕事」",
-        "Anthropic Launches Enterprise Frontier Safeguards — Zero Data Retention Meets Misuse Detection",
-        "GitHub CLI Linux Package Signing Key Expires September 5 — Action Required for APT/RPM Users",
-        "The Asteroid Hitting Frontend Web Development — Why AI Agents Are Making Web Fundamentals Irrelevant"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-07T20:00:00+09:00",
+  "last_run_at": "2026-09-08T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-08T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6594581",
+        "https://www.jiji.com/jc/article?k=2026090700321&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090700321&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090600151&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6594560",
+        "https://zenn.dev/activecore/articles/claude-plans-cursor-builds",
+        "https://zenn.dev/numarn/articles/mcp-everything-server-features-handson",
+        "https://news.yahoo.co.jp/pickup/6594531",
+        "https://www.anthropic.com/engineering",
+        "https://github.blog/changelog/feed/",
+        "https://simonwillison.net/atom/everything/"
+      ],
+      "titles": [
+        "景気拡大期、戦後最長超えの公算大——内閣府が7月基調判断を維持",
+        "信越化学の半導体材料に中国が反ダンピング「保証金」——素材調達リスクが浮上",
+        "イラン「韓国軍派遣なら深刻な結果」——ホルムズ海峡に制限区域を設定、中東緊張が高まる",
+        "面接不採用者をトクリュウに紹介——建設会社代表を再逮捕、広島県警",
+        "警察庁、緊急通報向けAIシステム開発へ——119・110番の音声認識と自動振り分けを実証実験",
+        "Claude Codeは計画・レビューに残し、実装は安いモデルへ渡す——コスト最適化の新ワークフロー",
+        "MCPサーバーへの「名乗り方」が返答数を左右する——機能開示の挙動を実測した検証報告",
+        "OpenAI、AIエージェントが常時起動するとどこが壊れるか——安全課題を正式開示、「自発的減速」を提言",
+        "Anthropic Engineering: How We Contain Claude Across Products — Agent Containment at Scale",
+        "VS Code 1.136: Agent Merge Goes Public Preview — Autonomous Conflict Resolution Without Human Intervention",
+        "OpenAI Announces Recursive Self-Improvement Research — RSI Technology Reaches Internal Milestone"
+      ]
+    },
     {
       "run_at": "2026-09-07T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Discloses Claude Sandbox Escapes in Cybersecurity Evaluations — 3 Real Organizations Compromised",
         "Anthropic Launches Claude Opus 5 — Half the Price of Opus 4.8, New Default on Claude Max",
         "GPT-6 Astra vs. Claude Fable 5.1 on Robot Arms — Benchmarking Physical AI Task Completion"
-      ]
-    },
-    {
-      "run_at": "2026-09-06T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594381",
-        "https://news.yahoo.co.jp/pickup/6594378",
-        "https://news.yahoo.co.jp/pickup/6594382",
-        "https://www.jiji.com/jc/article?k=2026090600088&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090500324&g=soc&m=rss",
-        "https://www.publickey1.jp/blog/26/mcpaihttp.html",
-        "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
-        "https://zenn.dev/helloworld/articles/bcaea69f58eae5",
-        "https://github.com/okf-memory/okf-agent-memory",
-        "https://arxiv.org/abs/2609.03344",
-        "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/"
-      ],
-      "titles": [
-        "東海・関東で「滝のような雨」の恐れ——線状降水帯の発生に厳重警戒",
-        "米軍がイランのタンカー3隻を攻撃・撃沈——中東緊張が一気に高まる",
-        "村上宗隆、30号本塁打——日本人ルーキーとして史上初の偉業達成",
-        "米特使がプーチン大統領にウクライナ和平案を提示——ロシアは「根本原因の除去」を主張",
-        "新学期のインフル流行、過去2番目の早さ——厚労省が基本的な感染対策を呼びかけ",
-        "MCPの新ロードマップ公開——AIエージェント対応・HTTP統一・アイデンティティ管理が柱",
-        "JetBrains、無料ローカルAIコーディングエージェント「Junie Local」を提供開始——Claude Sonnet 4.5相当の性能をオフラインで",
-        "トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測コストを劇的に削減",
-        "OKF Agent Memory — Git-Native Persistent Memory for AI Coding Agents",
-        "LLMs as a Cognitive Virus — New Research Models How AI Adoption Creates Irreversible Dependency Tipping Points",
-        "The Revolt of the Reader — 78% of Developers Stop Reading When They Detect AI-Written Content"
       ]
     }
   ]

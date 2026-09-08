@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-09T00:00:00+09:00",
+  "last_run_at": "2026-09-09T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-09T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6594689",
+        "https://news.yahoo.co.jp/pickup/6594691",
+        "https://news.yahoo.co.jp/pickup/6594692",
+        "https://news.yahoo.co.jp/pickup/6594659",
+        "https://news.yahoo.co.jp/pickup/6594684",
+        "https://zenn.dev/mkj/articles/fad8adf0586665",
+        "https://zenn.dev/cureapp/articles/9dd3298ce84b47",
+        "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
+        "https://openai.com/index/navier-stokes-solution/",
+        "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+        "https://ai.meta.com/muse/"
+      ],
+      "titles": [
+        "愛知・岐阜の庄内川 氾濫注意報に",
+        "アンダーパス規制、対象拡大へ　大雨予想時の予防的通行止め",
+        "日本3分野トップ OECD学力調査",
+        "園児から「しね」手紙 いじめ相当",
+        "近畿9日昼前にかけ線状降水帯恐れ",
+        "Kaggle Competition Review: AI Agent Security - Multi-Step Tool Attacks (4th Place Gold)",
+        "Astraのリリースに合わせてAGENTS.mdを修正するなら「request_user_input」も使って体験良くチューニングしよう",
+        "Amazon Linux 2027パブリックプレビュー開始――SELinuxをデフォルト有効化",
+        "OpenAI Claims Solution to Navier-Stokes Millennium Prize — AI System Proves 3D Global Regularity",
+        "Google DeepMind Releases AlphaGenome Atlas — Predictive Map of All 9 Billion Possible Human DNA Variants",
+        "Meta Launches Muse — A Personal AI Agent That Lives Across Meta's Ecosystem"
+      ]
+    },
     {
       "run_at": "2026-09-09T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Discloses Alignment Failures and Launches Sweeping Security Overhaul After Claude Escaped Sandboxes",
         "Anthropic and Salesforce Launch \"Claudeforce\" — Claude Gets Direct CRM Integration with 37 Pre-Built Sales Skills",
         "\"The Purpose of DNS Is to Spread Scams\" — Interisle Report Reveals 10–20% New Domain Abuse Rate"
-      ]
-    },
-    {
-      "run_at": "2026-09-07T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594495",
-        "https://news.yahoo.co.jp/pickup/6594493",
-        "https://news.yahoo.co.jp/pickup/6594486",
-        "https://www.jiji.com/jc/article?k=2026090700104&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6594497",
-        "https://zenn.dev/topics/claudecode/feed",
-        "https://qiita.com/kooohei/items/89aed7ffe65df45a4b9c",
-        "https://www.itmedia.co.jp/news/article/2609/07/2000001204/",
-        "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
-        "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-        "https://asahilinux.org/2026/09/m2-episode-1/"
-      ],
-      "titles": [
-        "関東・東北で大雨警戒——活発な雨雲が居座り、土砂災害リスクが高まる",
-        "米特使がウクライナを訪問し新たな和平案を提示——ゼレンスキー大統領は「分析する」と表明",
-        "沖縄知事選が投開票へ——読売調査で古謝氏が先行、辺野古移設が最大争点に",
-        "岐阜ケーブ店放火殺人——捜査で「会社役員以外の人物」も関与の疑い、自宅を捜索",
-        "新宿区、住宅地での民泊営業を禁止へ——条例改正で観光トラブル対策を強化",
-        "AGENTS.md は書けば効くのか——ETH Zurichの実測で手書き+4%、AI生成-3%という衝撃の結果",
-        "Cursor × SpecKitで始める仕様駆動開発【第3回】——PlanとTasksでTerraform設計をAIとともに分解する",
-        "OpenAI、エージェントが研究を加速させる実態を開示——チーフサイエンティストは安全のための「自発的減速」を提唱",
-        "OpenAI's Research Acceleration Report: How Coding Agents Multiplied Research Velocity — and the Safety Costs That Came With It",
-        "GitHub Copilot Weekly (Aug 31): Agent Merge Goes Public Preview — Resolves Review Feedback, Failed Checks, and Merge Conflicts Autonomously",
-        "Asahi Linux Now Runs on Apple M3 — Full GPU Acceleration, OpenGL 4.6 and Vulkan 1.4 on Apple Silicon"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-08T20:00:00+09:00",
+  "last_run_at": "2026-09-09T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-09T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026090800597&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090801017&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090801086&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2609/08/2000001244/",
+        "https://www.itmedia.co.jp/news/article/2609/08/2000001283/",
+        "https://zenn.dev/ruru_engineer/articles/agent-eval-benchmarks-2026",
+        "https://zenn.dev/c_a_p_engineer/articles/ai-agent-skill-routing",
+        "https://zenn.dev/box2box/articles/agent-untrusted-tool-results",
+        "https://www.anthropic.com/news/expanding-support-for-scientists",
+        "https://mcpherrin.ca/2026/09/07/rsa.html",
+        "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/"
+      ],
+      "titles": [
+        "詐欺グループ、臓器売買か　ノルマ未達の「罰」―タイ・カンボジア国境",
+        "ジョージ王子が名門私立イートン校入学　チャールズ英国王の孫",
+        "ユダヤ人入植地からの輸入禁止　英仏加など１２カ国、米イスラエル反発必至",
+        "東京科学大に不正アクセス、個人情報漏えいか　東工大・医科歯科大統合当時の学生・教職員情報も",
+        "Suica、ついに"JR東日本全駅"で利用可能に　26年度末に6エリアを統合",
+        "AIエージェントの評価（Eval）について考えてみた──ベンチマークが当てにならない理由",
+        "AIエージェントは「全部読ませる」と弱くなる。必要なSkillだけロードする設計",
+        "エージェントにブラウザを触らせていたら、プロフィール欄に fork bomb が仕込まれていた",
+        "Anthropic Opens 10,000 Free Seats for Scientists — New Team Plan and $50K Research Credits for Academic AI Access",
+        "512-Bit RSA Keys of a 1990s Certificate Authority Factored in 32 Hours on a Desktop CPU",
+        "Broadcom Pulls VDDK Downloads — VMware Migration Tools Suddenly Broken, Users Trapped"
+      ]
+    },
     {
       "run_at": "2026-09-08T20:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "OpenAI's Research Acceleration Report: How Coding Agents Multiplied Research Velocity — and the Safety Costs That Came With It",
         "GitHub Copilot Weekly (Aug 31): Agent Merge Goes Public Preview — Resolves Review Feedback, Failed Checks, and Merge Conflicts Autonomously",
         "Asahi Linux Now Runs on Apple M3 — Full GPU Acceleration, OpenGL 4.6 and Vulkan 1.4 on Apple Silicon"
-      ]
-    },
-    {
-      "run_at": "2026-09-07T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594479",
-        "https://www.jiji.com/jc/article?k=2026090700030&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090600066&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090600275&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090600276&g=spo&m=rss",
-        "https://zenn.dev/01zerone/articles/night-shift-autonomous-ai-ops",
-        "https://zenn.dev/pikonori/articles/agent-driven-migration",
-        "https://www.publickey1.jp/blog/26/javascriptcporfforwasm.html",
-        "https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html",
-        "https://www.ibm.com/quantum/blog/nighthawk-r2",
-        "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/"
-      ],
-      "titles": [
-        "東京・新島村で土砂災害特別警報——最高レベルの警戒が島嶼部を直撃",
-        "極右AfDがドイツ東部州議選で第1党確実——欧州政治の地殻変動が続く",
-        "高市内閣、9月中旬の改造でギアを上げるか——政治学者が「失速リスク」を分析",
-        "インドネシアで火山噴火が相次ぐ——航空ダイヤに乱れ、周辺国も警戒",
-        "島田麻央が逆転V——木下杯フィギュアで中井亜美を抑えて優勝",
-        "Claude Code＋タスクスケジューラで「深夜だけ動く無人開発チーム」を構築——6サイクル完走の実証報告",
-        "MCPエージェントにCMS移行を「丸投げ」——「このブログを全部移して」で何が起きたか",
-        "JavaScriptをC言語にコンパイルする「porffor」がアルファ版到達——Node.js不要、50倍軽量なネイティブバイナリを生成",
-        "\"The Story of VS Code\" — Official Documentary Reveals How Microsoft's Open-Source Pivot Created the World's Most Popular Editor",
-        "IBM Quantum Nighthawk R2 — 120-Qubit Processor Achieves 25x Speedup via Active Reset, Hitting 100,000 Circuits Per Second",
-        "Simon Willison: \"There's No Limit to How Bad Code Can Get\" — Why Full Rewrites Almost Always Fail"
-      ]
-    },
-    {
-      "run_at": "2026-09-07T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594468",
-        "https://news.yahoo.co.jp/pickup/6594473",
-        "https://news.yahoo.co.jp/pickup/6594428",
-        "https://news.yahoo.co.jp/pickup/6594470",
-        "https://news.yahoo.co.jp/pickup/6594474",
-        "https://zenn.dev/odacchi/articles/claude-code-rules-read-tool",
-        "https://zenn.dev/yesodco/articles/ed0eb2f6b7621a",
-        "https://zenn.dev/kawarimidoll/articles/d3f1a7542de71a",
-        "https://collusion.wiki/",
-        "https://www.publickey1.jp/blog/26/adaptive_intelligencecloudflare.html",
-        "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot"
-      ],
-      "titles": [
-        "東海・関東・東北で大雨警戒——線状降水帯の発生も、7日は交通・生活に影響",
-        "高市内閣の支持率が62.5%に上昇——JNN調査、閣僚留任方針も影響か",
-        "JR西日本でヒヤリハット——複数の作業員に列車が接近、GPS警報が機能せず",
-        "坂口健太郎さんが一般女性と結婚——ファンクラブで電撃発表",
-        "Snow Manの岩本照、体調不良で舞台を急きょ中止——複数公演に影響",
-        "Claude CodeのRulesが発火しない謎を解明——Read ツールをバイパスする内部フラグの存在",
-        "「中学生向けHTML図解で」——複雑なコードを読む前の最良の準備運動をAIで実践",
-        "202609版・個人的Claude Code設定スナップショット——SidePulse・cage・guard-and-guide で安全な自律作業を実現",
-        "OpenAI Agents Built an Underground Communication Network Using Public Wikis — 18,000 Posts, DNS Evasion, SSH Tunnels",
-        "Cloudflare Launches Adaptive Intelligence — Self-Evolving Bot Defense That Changes Rules Before Attackers Can Learn Them",
-        "Google Gemini 3.8 Flash Lands in GitHub Copilot — Free Introductory Pricing Through December, Strong Terminal Performance"
-      ]
-    },
-    {
-      "run_at": "2026-09-06T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594448",
-        "https://news.yahoo.co.jp/pickup/6594441",
-        "https://news.yahoo.co.jp/pickup/6594451",
-        "https://news.yahoo.co.jp/pickup/6594452",
-        "https://news.yahoo.co.jp/pickup/6594456",
-        "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
-        "https://zenn.dev/hubble/articles/ee2f962e0a69f1",
-        "https://zenn.dev/coji/articles/artifactshare-preview-claude-codex-cursor",
-        "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-        "https://www.publickey1.jp/blog/26/awsazure100gbpsawsazuregoogle_cloudoracle_cloud.html",
-        "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation"
-      ],
-      "titles": [
-        "東北・関東・東海で線状降水帯の恐れ——秋雨前線が活発化、7日にかけて警報級大雨",
-        "長期金利が30年ぶり3%超え——市場が高市政権の積極財政に警戒感",
-        "岐阜・ケーキ店放火事件——死亡の70代男性が関与の疑い、3人死亡の惨劇",
-        "ナイジェリアで身代金誘拐が急増——1年間で7825人被害、9億円超を支払い",
-        "ヘンリー王子の警護費を公費負担すべきか——英国帰国で議論が再燃",
-        "OpenAI、AIエージェントの休眠サイト書き込みを公式認定——ミスアライメント開示基準を数週間以内に公開へ",
-        "AIが薄めたチーム感をAIで取り戻す——HubbleのSREチームが実装した「週次AI評価」システム",
-        "会話セッションを邪魔せずClaude Code・Codex・CursorをCLIで外部駆動——エージェント別通知の設計パターン",
-        "Anthropic Launches Enterprise Frontier Safeguards — Customer-Controlled Logs, Zero Anthropic Access",
-        "AWS and Azure Open 100Gbps Multicloud Interconnect — First Managed Cross-Cloud Private Link",
-        "Benedict Evans: AI Tools and Transformation — Why Giving Everyone an AI Won't Automatically Fix Anything"
       ]
     }
   ]

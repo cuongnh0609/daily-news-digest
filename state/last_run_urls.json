@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-08T10:00:00+09:00",
+  "last_run_at": "2026-09-08T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-08T15:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/08/2000001250/",
+        "https://www.jiji.com/jc/article?k=2026090800352&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090800353&g=flash&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090800490&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090800347&g=soc&m=rss",
+        "https://zenn.dev/cscloud_blog/articles/csc-claude-code-study-session-09",
+        "https://zenn.dev/agdexai/articles/ai-agent-sandboxing-code-execution-2026",
+        "https://zenn.dev/softbank/articles/6dcfe10d29a021",
+        "https://danluu.com/agentic-testing/",
+        "https://www.itmedia.co.jp/news/article/2609/08/2000001256/",
+        "https://deepmind.google/science/weathernext/"
+      ],
+      "titles": [
+        "NECが量子コンピュータの実機開発を中止——30年来の先駆者がソフト・サービスへ転換",
+        "自民党役員人事「首相一任」——16日にも実施か、党内調整が本格化",
+        "円が一時152円台まで上昇——約半年ぶりの円高水準、日米金利差縮小が背景",
+        "グレート義太夫さん死去——享年67歳、「たけし軍団」で長年活躍",
+        "岐阜・ケーキ店放火殺人——会社役員は後から合流か、凶器の刃物も押収",
+        "Claude Codeのサブエージェントとエージェントチームで並列処理——第9回社内勉強会が資料公開",
+        "AIエージェントの安全なコード実行環境を徹底比較——E2B・Modal・Docker+gVisor・WebContainers【2026年版】",
+        "「人間だけを前提にしたWeb」は変わっていく——AIエージェント時代のデジタルアイデンティティー設計",
+        "How Well Do AI Agents Actually Use Testing Techniques? — Dan Luu's 80-Run Study Finds Worse Results When Prompted to Use Formal Methods",
+        "ChatGPT Work Learns Your Writing Style From Gmail and Slack — Personalized AI Voice Now Available to All Paid Subscribers",
+        "DeepMind Releases WeatherNext 3 — AI Weather Forecasting Now Matches Ensemble NWP at Fraction of Compute Cost"
+      ]
+    },
     {
       "run_at": "2026-09-08T10:00:00+09:00",
       "urls": [

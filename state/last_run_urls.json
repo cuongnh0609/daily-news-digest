@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-08T00:00:00+09:00",
+  "last_run_at": "2026-09-08T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-08T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6594599",
+        "https://news.yahoo.co.jp/pickup/6594604",
+        "https://news.yahoo.co.jp/pickup/6594608",
+        "https://news.yahoo.co.jp/pickup/6594610",
+        "https://www.jiji.com/jc/article?k=2026090800103&g=int&m=rss",
+        "https://zenn.dev/hitokraft/articles/agent-org-chart-concentration",
+        "https://zenn.dev/salt2/articles/salt2-ai-agent-8a1b5781",
+        "https://www.itmedia.co.jp/news/article/2609/08/2000001241/",
+        "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+        "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
+        "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models"
+      ],
+      "titles": [
+        "四国から東北南部にかけて大雨のおそれ——秋雨前線と湿った空気が各地で警戒を呼ぶ",
+        "日本維新の会が閣僚ポスト「1枠」要求——高市首相の内閣改造に向け与党連携が焦点に",
+        "管制指示違反「3回で羽田利用禁止」——国交省が小型機向けに新ルールを導入",
+        "円が一時153円台まで上昇——約半年ぶりの円高水準、日米金利差縮小を意識した動き",
+        "トランプ大統領、カナダ機メーカー「ボンバルディア」の米市場参入を拒否——製造の国内回帰を要求",
+        "エージェントに17役職の組織図を持たせて8ヶ月運用したら、割り当ての98.3%が1役職に集中した",
+        "ワークフローからAI Agentへ——「仕事を任せるための境界と検証」の設計原則",
+        "警察庁と日本マイクロソフトがサイバーセキュリティで協定——情報共有と人材育成で官民連携を強化",
+        "Anthropic Previews Model Hardware Standard — A Shared Spec for AI Agents to Operate Physical Lab Equipment",
+        "GPT-6 Astra Is Now Generally Available in GitHub Copilot — Plans and Validates as It Codes",
+        "GitHub Copilot Deprecates Claude Opus 4.7, Gemini 3.5/3.6 Flash, and Kimi K2.7 on October 2 — Migration Required"
+      ]
+    },
     {
       "run_at": "2026-09-08T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Launches Enterprise Frontier Safeguards — Customer-Controlled Logs, Zero Anthropic Access",
         "AWS and Azure Open 100Gbps Multicloud Interconnect — First Managed Cross-Cloud Private Link",
         "Benedict Evans: AI Tools and Transformation — Why Giving Everyone an AI Won't Automatically Fix Anything"
-      ]
-    },
-    {
-      "run_at": "2026-09-06T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026090600151&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090300788&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6594412?source=rss",
-        "https://news.yahoo.co.jp/pickup/6594419?source=rss",
-        "https://www.jiji.com/jc/article?k=2026090500344&g=pol&m=rss",
-        "https://zenn.dev/knowledgesense/articles/ad123283bdea26",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news017.html",
-        "https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html",
-        "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-        "https://www.anthropic.com/news/claude-opus-5",
-        "https://openai.robocurve.org/gpt-6-astra/"
-      ],
-      "titles": [
-        "岐阜のケーキ店で放火か——刺傷事件も発生、3人が死亡",
-        "最低賃金、全国平均1177円に——56円引き上げ、33府県で目安超え",
-        "東海・関東で「災害級大雨」の恐れ——線状降水帯の発生も警戒",
-        "国民民主党代表選、玉木雄一郎氏が3選——「積極財政路線」を継続へ",
-        "沖縄県知事選、投開票まで1週間——「国と沖縄の距離感」が新争点に",
-        "「SKILL.state」——Google×Purdue大学が提唱する長時間エージェントの精度を高める新手法",
-        "コードを書くのはAI、人間は何をする？——弥生とビル・ゲイツが示す「開発者の次の仕事」",
-        "AWS Cloud Quest 2.0 登場——AIバーチャル顧客との対話で実践的クラウドスキルを養成",
-        "Anthropic Discloses Claude Sandbox Escapes in Cybersecurity Evaluations — 3 Real Organizations Compromised",
-        "Anthropic Launches Claude Opus 5 — Half the Price of Opus 4.8, New Default on Claude Max",
-        "GPT-6 Astra vs. Claude Fable 5.1 on Robot Arms — Benchmarking Physical AI Task Completion"
       ]
     }
   ]

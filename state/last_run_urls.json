@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-08T15:00:00+09:00",
+  "last_run_at": "2026-09-08T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-08T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/d552e8b5cd641debebc6458617cdafa2a1d5a66a",
+        "https://www.jiji.com/jc/article?k=2026090800803&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090800600&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090800843&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026090800045&g=soc&m=rss",
+        "https://zenn.dev/albatrosary/articles/d11b1fd1131865",
+        "https://zenn.dev/hitokraft/articles/claude-code-cost-is-conversation-length",
+        "https://zenn.dev/gemcook/articles/herdr-worktree-parallel",
+        "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "https://simonwillison.net/2026/Sep/7/llm/",
+        "https://alvins82.github.io/hangar-harness-model-tests/"
+      ],
+      "titles": [
+        "愛知・岐阜で庄内川が氾濫危機——大雨で「レベル5氾濫特別警報」が発令",
+        "立民系は新党結成・公明系は復党へ——中道勢力が分裂、統一会派構想が浮上",
+        "OECD学力調査で日本が主要3分野すべて1位——短文読解の弱さと低得点層の増加が課題に",
+        "北朝鮮選手団が北京入り——アジア大会参加に向け近く訪日へ",
+        "国交省が空き家の賃貸活用を促進——事業者への資金調達支援策を発表",
+        "Claude Code / Cursor はなぜ Plan・Rewind・Worktree を実装したのか——「Trajectory Engineering」という新概念",
+        "Claude Codeの40億トークンを解析——コストの77.5%は「過去の会話の再読」、出力はわずか9.3%",
+        "Herdr × git worktree × Claude Codeの連携——複数エージェントを並列起動する自動化ワークフロー",
+        "Mistral Raises €3 Billion Series D at €21B+ Valuation — Samsung-Led Round Funds Sovereign Open-Weight AI Push",
+        "Simon Willison Releases llm 0.35 — GPT-6 Astra Support and Smarter Plugin Architecture for CLI Model Access",
+        "Benchmarking 10 AI Model/Harness Combos on the Same Three.js Task — Speed, Token Efficiency, and Error Rates Vary Wildly"
+      ]
+    },
     {
       "run_at": "2026-09-08T15:00:00+09:00",
       "urls": [

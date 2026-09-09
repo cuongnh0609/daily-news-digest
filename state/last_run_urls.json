@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-10T00:00:00+09:00",
+  "last_run_at": "2026-09-10T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-10T05:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/10/2000001335/",
+        "https://www.itmedia.co.jp/news/article/2609/10/2000001336/",
+        "https://news.yahoo.co.jp/pickup/6594758",
+        "https://www.itmedia.co.jp/news/article/2609/10/2000001339/",
+        "https://news.yahoo.co.jp/pickup/6594796",
+        "https://zenn.dev/lincwell_inc/articles/fddaae539e6e9c",
+        "https://www.publickey1.jp/blog/26/awsamazon_quick.html",
+        "https://zenn.dev/nakurei/articles/generate-trust-not-tests",
+        "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+        "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+        "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging"
+      ],
+      "titles": [
+        "「iPhone Duo」発表　Apple初の折りたたみスマホ　36万4800円から",
+        "iPhone 18シリーズ発表、今年はPro・Pro Maxのみ　なんと\"無印\"なし　価格は21万9800円から",
+        "丸亀製麺の運営会社に勧告　不当減額1.4億円超　公取委",
+        "「AirPods 5」登場　ノイキャン性能向上、従来比でノイズを50％除去　2万3800円から",
+        "星のカービィ新作 ニンダイまとめ、2027年春発売",
+        "モブプロにAIを加えたら人間には疲れる仕事だけが残ったので、AI前提の役割分担を模索している",
+        "AWS、自然言語でデータ分析アプリを構築可能に、「Amazon Quick」に新機能",
+        "テストを生成するな、信頼を生成しろ",
+        "Anthropic Launches Enterprise Frontier Safeguards — Zero Data Retention with Active Misuse Detection",
+        "GPT-6 Astra, Looped Transformers, and Hidden Reasoning — What the Architecture Actually Means",
+        "GitHub Advanced Security Now Blocks PRs with Exposed Secrets from Merging"
+      ]
+    },
     {
       "run_at": "2026-09-10T00:00:00+09:00",
       "urls": [
@@ -202,122 +231,6 @@
         "Mistral Raises €3 Billion Series D at €21B+ Valuation — Samsung-Led Round Funds Sovereign Open-Weight AI Push",
         "Simon Willison Releases llm 0.35 — GPT-6 Astra Support and Smarter Plugin Architecture for CLI Model Access",
         "Benchmarking 10 AI Model/Harness Combos on the Same Three.js Task — Speed, Token Efficiency, and Error Rates Vary Wildly"
-      ]
-    },
-    {
-      "run_at": "2026-09-08T15:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2609/08/2000001250/",
-        "https://www.jiji.com/jc/article?k=2026090800352&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090800353&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090800490&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090800347&g=soc&m=rss",
-        "https://zenn.dev/cscloud_blog/articles/csc-claude-code-study-session-09",
-        "https://zenn.dev/agdexai/articles/ai-agent-sandboxing-code-execution-2026",
-        "https://zenn.dev/softbank/articles/6dcfe10d29a021",
-        "https://danluu.com/agentic-testing/",
-        "https://www.itmedia.co.jp/news/article/2609/08/2000001256/",
-        "https://deepmind.google/science/weathernext/"
-      ],
-      "titles": [
-        "NECが量子コンピュータの実機開発を中止——30年来の先駆者がソフト・サービスへ転換",
-        "自民党役員人事「首相一任」——16日にも実施か、党内調整が本格化",
-        "円が一時152円台まで上昇——約半年ぶりの円高水準、日米金利差縮小が背景",
-        "グレート義太夫さん死去——享年67歳、「たけし軍団」で長年活躍",
-        "岐阜・ケーキ店放火殺人——会社役員は後から合流か、凶器の刃物も押収",
-        "Claude Codeのサブエージェントとエージェントチームで並列処理——第9回社内勉強会が資料公開",
-        "AIエージェントの安全なコード実行環境を徹底比較——E2B・Modal・Docker+gVisor・WebContainers【2026年版】",
-        "「人間だけを前提にしたWeb」は変わっていく——AIエージェント時代のデジタルアイデンティティー設計",
-        "How Well Do AI Agents Actually Use Testing Techniques? — Dan Luu's 80-Run Study Finds Worse Results When Prompted to Use Formal Methods",
-        "ChatGPT Work Learns Your Writing Style From Gmail and Slack — Personalized AI Voice Now Available to All Paid Subscribers",
-        "DeepMind Releases WeatherNext 3 — AI Weather Forecasting Now Matches Ensemble NWP at Fraction of Compute Cost"
-      ]
-    },
-    {
-      "run_at": "2026-09-08T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594599",
-        "https://news.yahoo.co.jp/pickup/6594604",
-        "https://news.yahoo.co.jp/pickup/6594608",
-        "https://news.yahoo.co.jp/pickup/6594610",
-        "https://www.jiji.com/jc/article?k=2026090800103&g=int&m=rss",
-        "https://zenn.dev/hitokraft/articles/agent-org-chart-concentration",
-        "https://zenn.dev/salt2/articles/salt2-ai-agent-8a1b5781",
-        "https://www.itmedia.co.jp/news/article/2609/08/2000001241/",
-        "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-        "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
-        "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models"
-      ],
-      "titles": [
-        "四国から東北南部にかけて大雨のおそれ——秋雨前線と湿った空気が各地で警戒を呼ぶ",
-        "日本維新の会が閣僚ポスト「1枠」要求——高市首相の内閣改造に向け与党連携が焦点に",
-        "管制指示違反「3回で羽田利用禁止」——国交省が小型機向けに新ルールを導入",
-        "円が一時153円台まで上昇——約半年ぶりの円高水準、日米金利差縮小を意識した動き",
-        "トランプ大統領、カナダ機メーカー「ボンバルディア」の米市場参入を拒否——製造の国内回帰を要求",
-        "エージェントに17役職の組織図を持たせて8ヶ月運用したら、割り当ての98.3%が1役職に集中した",
-        "ワークフローからAI Agentへ——「仕事を任せるための境界と検証」の設計原則",
-        "警察庁と日本マイクロソフトがサイバーセキュリティで協定——情報共有と人材育成で官民連携を強化",
-        "Anthropic Previews Model Hardware Standard — A Shared Spec for AI Agents to Operate Physical Lab Equipment",
-        "GPT-6 Astra Is Now Generally Available in GitHub Copilot — Plans and Validates as It Codes",
-        "GitHub Copilot Deprecates Claude Opus 4.7, Gemini 3.5/3.6 Flash, and Kimi K2.7 on October 2 — Migration Required"
-      ]
-    },
-    {
-      "run_at": "2026-09-08T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594581",
-        "https://www.jiji.com/jc/article?k=2026090700321&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090700321&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090600151&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6594560",
-        "https://zenn.dev/activecore/articles/claude-plans-cursor-builds",
-        "https://zenn.dev/numarn/articles/mcp-everything-server-features-handson",
-        "https://news.yahoo.co.jp/pickup/6594531",
-        "https://www.anthropic.com/engineering",
-        "https://github.blog/changelog/feed/",
-        "https://simonwillison.net/atom/everything/"
-      ],
-      "titles": [
-        "景気拡大期、戦後最長超えの公算大——内閣府が7月基調判断を維持",
-        "信越化学の半導体材料に中国が反ダンピング「保証金」——素材調達リスクが浮上",
-        "イラン「韓国軍派遣なら深刻な結果」——ホルムズ海峡に制限区域を設定、中東緊張が高まる",
-        "面接不採用者をトクリュウに紹介——建設会社代表を再逮捕、広島県警",
-        "警察庁、緊急通報向けAIシステム開発へ——119・110番の音声認識と自動振り分けを実証実験",
-        "Claude Codeは計画・レビューに残し、実装は安いモデルへ渡す——コスト最適化の新ワークフロー",
-        "MCPサーバーへの「名乗り方」が返答数を左右する——機能開示の挙動を実測した検証報告",
-        "OpenAI、AIエージェントが常時起動するとどこが壊れるか——安全課題を正式開示、「自発的減速」を提言",
-        "Anthropic Engineering: How We Contain Claude Across Products — Agent Containment at Scale",
-        "VS Code 1.136: Agent Merge Goes Public Preview — Autonomous Conflict Resolution Without Human Intervention",
-        "OpenAI Announces Recursive Self-Improvement Research — RSI Technology Reaches Internal Milestone"
-      ]
-    },
-    {
-      "run_at": "2026-09-07T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594570",
-        "https://news.yahoo.co.jp/pickup/6594571",
-        "https://news.yahoo.co.jp/pickup/6594569",
-        "https://news.yahoo.co.jp/pickup/6594568",
-        "https://news.yahoo.co.jp/pickup/6594563",
-        "https://zenn.dev/turing_motors/articles/4178a603322b8e",
-        "https://zenn.dev/uzu_tech/articles/58a84a9346b910",
-        "https://www.publickey1.jp/blog/26/airedshiftdwhamazon_redshiftagent_toolkit_for_aws.html",
-        "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-        "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/"
-      ],
-      "titles": [
-        "伊豆諸島に土砂災害特別警報——台風と秋雨前線が重なり各地で深刻な被害",
-        "再び浸水——千葉のラーメン店、9月に入って2度目の水害に見舞われる",
-        "千葉市、保育所の一律休園方針を朝に撤回——保護者・施設に混乱広がる",
-        "6歳男児が3日間行方不明——山形・酒田市で大規模捜索続く",
-        "イオン、トップバリュ「1000円ジーンズ」を9月8日から発売——物価高騰に対抗した超低価格戦略",
-        "ルービックキューブを一撃で解く専用LLM「CUBE ZERO」を作った——自己学習で99.83%の成功率を達成",
-        "ルールよりSkillに書く——Claude Codeの過剰コメント問題をワークフロー埋め込みで解決した実践報告",
-        "AWSがAIエージェントによるAmazon Redshiftの自律操作を可能に——DWH構築・分析をNLで指示",
-        "Anthropic Launches Claude Fable 5.1 & Mythos 5.1 — 75% Cache Cost Cut, 2.5× Science Acceleration",
-        "Speculative Decoding in vLLM Now Runs on AMD GPUs — Up to 2.87× Throughput With DFlash on MI300X",
-        "Switzerland Replaces Microsoft on 3,000 Government Computers — LibreOffice and Open Source Stack"
       ]
     }
   ]

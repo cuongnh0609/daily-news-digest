@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-09T15:00:00+09:00",
+  "last_run_at": "2026-09-09T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-09T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6594772",
+        "https://news.yahoo.co.jp/pickup/6594763",
+        "https://news.yahoo.co.jp/pickup/6594750",
+        "https://www.itmedia.co.jp/news/article/2609/09/2000001330/",
+        "https://www.itmedia.co.jp/news/article/2609/09/2000001306/",
+        "https://zenn.dev/ml_bear/articles/e5cc1047cba176",
+        "https://zenn.dev/goat_eat_any/articles/claude-code-desktop-app",
+        "https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html",
+        "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+        "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+        "https://openai.com/index/codex-quantum-computing-experiments/"
+      ],
+      "titles": [
+        "東海・関東で夜にかけて非常に激しい雨のおそれ——線状降水帯の発生も警戒",
+        "神奈川・城ヶ島で小学生男児が海に流され行方不明——岩場で遊泳中に事故",
+        "能登地震の関連死、新たに3人認定——累計犠牲者は758人に",
+        "富士通、ダイヤモンドスピン量子コンピューター試作機を世界初開発——デルフト工科大との共同研究",
+        "PayPayがマルウェアによる遠隔操作で不正送金のリスクを警告——公式ストア以外のアプリに注意",
+        "LLMのトークン効率化で気をつけたいこと——キャッシュ管理からバッチ処理まで実践的まとめ",
+        "Claude Code Desktop、格段に使いやすくなった20の新機能——ペイン自由配置からPR作成まで",
+        "EVE Onlineが240万行のPython 2.7コードをPython 3へ移行——16年稼働のゲームエンジンを刷新",
+        "OpenAI Releases ChatGPT Images 2.5 — Dual-Model API with Precision and Speed Variants",
+        "Benchmarking Qwen3.8 27B Quantizations — 4-bit Holds Up, 1-bit Collapses to Random Guessing",
+        "How GPT-5.6 Sol Helps Run Quantum Computing Experiments — OpenAI's AI-for-Science Push"
+      ]
+    },
     {
       "run_at": "2026-09-09T15:00:00+09:00",
       "urls": [

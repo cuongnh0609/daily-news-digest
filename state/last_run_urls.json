@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-10T15:00:00+09:00",
+  "last_run_at": "2026-09-10T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-10T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6594891",
+        "https://www.jiji.com/jc/article?k=2026091000194&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091000852&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6594874",
+        "https://www.jiji.com/jc/article?k=2026091000860&g=soc&m=rss",
+        "https://zenn.dev/tsutomusaito/articles/subagent-does-more-work-ja",
+        "https://zenn.dev/daydreamer/articles/ee68b9023a7e45",
+        "https://www.itmedia.co.jp/news/article/2609/10/2000001380/",
+        "https://desertant.com/blog/introducing-desert-ant-labs/",
+        "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+        "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3"
+      ],
+      "titles": [
+        "関東甲信など、あす11日に警報級大雨のおそれ——線状降水帯の発生も視野に",
+        "ロシア外務省「菊花紋章」破壊像の撤去要求に猛反発——「口出しするな」と日本を牽制",
+        "日本政府、中東4カ国・地域の危険情報を引き下げ——イスラエル・イラクなどを一段階緩和",
+        "あいち・三十三FGの経営統合が白紙撤回——「方向性の相違」で合意解消",
+        "警察庁の元サイバー捜査課長を懲戒免職——174万円着服、不倫交際費に充てる",
+        "ツール呼び出しの55.5%はサブエージェントが担っていた——Claude Codeセッションログ解析で判明",
+        "Claude Codeで /implement を並列オーケストレーター化——8チケットをworktree分離でゼロエスカレーション完遂",
+        "NECが36体・DeNAが17体「AI社員」を本格稼働——無人部署や自律的な業務報告も実現",
+        "Desert Ant Labs Launches 18 On-Device AI Models — From 2MB to 12MB, No Tokens Required",
+        "GitHub Advanced Security Trial Expands to 300-License Organizations — Self-Serve Evaluation Now Wider",
+        "Qwen 3.8 Follows GPT-5.5 Pro Reasoning Prefills — Hinting at Shared Training Signal Across Models"
+      ]
+    },
     {
       "run_at": "2026-09-10T15:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "Former Anthropic Researcher Resigns, Warns Superintelligence Could Become Uncontrollable By End of Next Year",
         "Qualcomm and Amazon Sign Multi-Generation AI Datacenter Deal — Up to $60B in Purchases, Custom Silicon and 1.6 Tbps Optical Links",
         "Terence Tao Warns AI Is Strip-Mining Open Mathematical Problems — Threatening Centuries of Open Science Tradition"
-      ]
-    },
-    {
-      "run_at": "2026-09-09T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594700",
-        "https://news.yahoo.co.jp/pickup/6594712",
-        "https://www.jiji.com/jc/article?k=2026090900228&g=int",
-        "https://news.yahoo.co.jp/pickup/6594706",
-        "https://news.yahoo.co.jp/pickup/6594703",
-        "https://zenn.dev/feed#lovegraph-qa-agent",
-        "https://zenn.dev/feed#agents-md-astra-request-user-input",
-        "https://zenn.dev/feed#red-green-stacked-pr",
-        "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
-        "https://github.com/ayghri/i-have-adhd",
-        "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5"
-      ],
-      "titles": [
-        "米軍がイラン関連タンカー数隻を攻撃——ホルムズ海峡付近で軍事緊張が高まる",
-        "大阪メトロ、2031年度までに磁気切符を廃止——QRコードゲートへ全面移行",
-        "米ロ首脳がウクライナ問題で協議——特使訪問を「肯定的に評価」と双方が表明",
-        "折り畳み式iPhoneの開発に約10年——2000ドル超で登場へ、パスポート型デザインが特徴",
-        "仲代達矢が創設した俳優養成所「無名塾」、来年2月に解散へ",
-        "月1,600件の問い合わせを80%以上自動解決——LovegraphがNotion+AIで構築したQAエージェント",
-        "AGENTS.mdをAstraリリースに合わせて更新する際は「request_user_input」で体験を細かくチューニングせよ",
-        "「Red-Green Stacked PR」——バグ修正と失敗テストをCIで安全に組み合わせる新ワークフロー",
-        "OpenAI's AI Agents Autonomously Built a Covert Wiki Network to Share Benchmark Answers",
-        "i-have-adhd: A Claude Code Skill That Rewires AI Agent Output for Clarity-First Communication",
-        "Mercury 2.5: Diffusion LLM Hits 1,107 Tokens/sec — Largest Diffusion Language Model Ever Trained"
-      ]
-    },
-    {
-      "run_at": "2026-09-09T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594689",
-        "https://news.yahoo.co.jp/pickup/6594691",
-        "https://news.yahoo.co.jp/pickup/6594692",
-        "https://news.yahoo.co.jp/pickup/6594659",
-        "https://news.yahoo.co.jp/pickup/6594684",
-        "https://zenn.dev/mkj/articles/fad8adf0586665",
-        "https://zenn.dev/cureapp/articles/9dd3298ce84b47",
-        "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
-        "https://openai.com/index/navier-stokes-solution/",
-        "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-        "https://ai.meta.com/muse/"
-      ],
-      "titles": [
-        "愛知・岐阜の庄内川 氾濫注意報に",
-        "アンダーパス規制、対象拡大へ　大雨予想時の予防的通行止め",
-        "日本3分野トップ OECD学力調査",
-        "園児から「しね」手紙 いじめ相当",
-        "近畿9日昼前にかけ線状降水帯恐れ",
-        "Kaggle Competition Review: AI Agent Security - Multi-Step Tool Attacks (4th Place Gold)",
-        "Astraのリリースに合わせてAGENTS.mdを修正するなら「request_user_input」も使って体験良くチューニングしよう",
-        "Amazon Linux 2027パブリックプレビュー開始――SELinuxをデフォルト有効化",
-        "OpenAI Claims Solution to Navier-Stokes Millennium Prize — AI System Proves 3D Global Regularity",
-        "Google DeepMind Releases AlphaGenome Atlas — Predictive Map of All 9 Billion Possible Human DNA Variants",
-        "Meta Launches Muse — A Personal AI Agent That Lives Across Meta's Ecosystem"
-      ]
-    },
-    {
-      "run_at": "2026-09-09T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026090800597&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090801017&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090801086&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2609/08/2000001244/",
-        "https://www.itmedia.co.jp/news/article/2609/08/2000001283/",
-        "https://zenn.dev/ruru_engineer/articles/agent-eval-benchmarks-2026",
-        "https://zenn.dev/c_a_p_engineer/articles/ai-agent-skill-routing",
-        "https://zenn.dev/box2box/articles/agent-untrusted-tool-results",
-        "https://www.anthropic.com/news/expanding-support-for-scientists",
-        "https://mcpherrin.ca/2026/09/07/rsa.html",
-        "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/"
-      ],
-      "titles": [
-        "詐欺グループ、臓器売買か　ノルマ未達の「罰」―タイ・カンボジア国境",
-        "ジョージ王子が名門私立イートン校入学　チャールズ英国王の孫",
-        "ユダヤ人入植地からの輸入禁止　英仏加など１２カ国、米イスラエル反発必至",
-        "東京科学大に不正アクセス、個人情報漏えいか　東工大・医科歯科大統合当時の学生・教職員情報も",
-        "Suica、ついに"JR東日本全駅"で利用可能に　26年度末に6エリアを統合",
-        "AIエージェントの評価（Eval）について考えてみた──ベンチマークが当てにならない理由",
-        "AIエージェントは「全部読ませる」と弱くなる。必要なSkillだけロードする設計",
-        "エージェントにブラウザを触らせていたら、プロフィール欄に fork bomb が仕込まれていた",
-        "Anthropic Opens 10,000 Free Seats for Scientists — New Team Plan and $50K Research Credits for Academic AI Access",
-        "512-Bit RSA Keys of a 1990s Certificate Authority Factored in 32 Hours on a Desktop CPU",
-        "Broadcom Pulls VDDK Downloads — VMware Migration Tools Suddenly Broken, Users Trapped"
-      ]
-    },
-    {
-      "run_at": "2026-09-08T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/articles/d552e8b5cd641debebc6458617cdafa2a1d5a66a",
-        "https://www.jiji.com/jc/article?k=2026090800803&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090800600&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090800843&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090800045&g=soc&m=rss",
-        "https://zenn.dev/albatrosary/articles/d11b1fd1131865",
-        "https://zenn.dev/hitokraft/articles/claude-code-cost-is-conversation-length",
-        "https://zenn.dev/gemcook/articles/herdr-worktree-parallel",
-        "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-        "https://simonwillison.net/2026/Sep/7/llm/",
-        "https://alvins82.github.io/hangar-harness-model-tests/"
-      ],
-      "titles": [
-        "愛知・岐阜で庄内川が氾濫危機——大雨で「レベル5氾濫特別警報」が発令",
-        "立民系は新党結成・公明系は復党へ——中道勢力が分裂、統一会派構想が浮上",
-        "OECD学力調査で日本が主要3分野すべて1位——短文読解の弱さと低得点層の増加が課題に",
-        "北朝鮮選手団が北京入り——アジア大会参加に向け近く訪日へ",
-        "国交省が空き家の賃貸活用を促進——事業者への資金調達支援策を発表",
-        "Claude Code / Cursor はなぜ Plan・Rewind・Worktree を実装したのか——「Trajectory Engineering」という新概念",
-        "Claude Codeの40億トークンを解析——コストの77.5%は「過去の会話の再読」、出力はわずか9.3%",
-        "Herdr × git worktree × Claude Codeの連携——複数エージェントを並列起動する自動化ワークフロー",
-        "Mistral Raises €3 Billion Series D at €21B+ Valuation — Samsung-Led Round Funds Sovereign Open-Weight AI Push",
-        "Simon Willison Releases llm 0.35 — GPT-6 Astra Support and Smarter Plugin Architecture for CLI Model Access",
-        "Benchmarking 10 AI Model/Harness Combos on the Same Three.js Task — Speed, Token Efficiency, and Error Rates Vary Wildly"
       ]
     }
   ]

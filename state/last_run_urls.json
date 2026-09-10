@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-11T00:00:00+09:00",
+  "last_run_at": "2026-09-11T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-11T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6594907",
+        "https://news.yahoo.co.jp/pickup/6594875",
+        "https://news.yahoo.co.jp/pickup/6594901",
+        "https://www.jiji.com/jc/article?k=2026091100004&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091001202&g=int&m=rss",
+        "https://zenn.dev/peoplex_blog/articles/65768c769de4b0",
+        "https://zenn.dev/gemcook/articles/herdr-worktree-parallel",
+        "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
+        "https://cognition.com/blog/swe-2",
+        "https://www.anthropic.com/threat-intelligence-report-september-2026",
+        "https://magic.dev/blog/pretraining"
+      ],
+      "titles": [
+        "富士山の閉山期に登山届の義務化を検討——未届け救助にはペナルティーも",
+        "鳥貴族、全品均一を390円から410円に値上げ——原材料費・人件費の高騰が直撃",
+        "【超RIZIN.5】朝倉未来、「レジェンド」青木真也に159秒でTKO勝利——大阪ドームが沸く",
+        "紀子さまが還暦——皇室典範改正は「事実として受け止め」",
+        "米国がNATO加盟国にICC脱退を要求——「誰が味方か注視している」と大使が発言",
+        "GPT-6 Astraはいつ「待ち」、いつ次の指示を受け入れるのか——async tool callingとmid-turn steeringを実測",
+        "Herdr × git worktree × Claude Codeの三角形——並行開発を自動化するターミナル統合の実践",
+        "Amazon Linux 2027 パブリックプレビュー公開——SELinuxがデフォルト有効",
+        "Cognition Launches SWE-2: 50% on FrontierCode 1.1, 64% Cheaper Than Rivals",
+        "Anthropic September 2026 Threat Intelligence Report: State-Sponsored Groups Using AI for Cyberattacks",
+        "Magic AI Achieves >10x More Compute-Efficient Pretraining — Matches DeepSeek V4 Pro with 50x Fewer FLOPs"
+      ]
+    },
     {
       "run_at": "2026-09-11T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "OpenAI Releases ChatGPT Images 2.5 — Dual-Model API with Precision and Speed Variants",
         "Benchmarking Qwen3.8 27B Quantizations — 4-bit Holds Up, 1-bit Collapses to Random Guessing",
         "How GPT-5.6 Sol Helps Run Quantum Computing Experiments — OpenAI's AI-for-Science Push"
-      ]
-    },
-    {
-      "run_at": "2026-09-09T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594742",
-        "https://www.jiji.com/jc/article?k=2026090900543&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090900330&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090900285&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026090900326&g=int&m=rss",
-        "https://zenn.dev/tellernovel_inc/articles/57b223dd4b8f5d",
-        "https://zenn.dev/coji/articles/solo-software-factory-without-reading-code",
-        "https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html",
-        "https://www.itmedia.co.jp/news/article/2609/09/2000001309/",
-        "https://www.itmedia.co.jp/news/article/2609/09/2000001314/",
-        "https://simonwillison.net/2026/Sep/9/terence-tao/"
-      ],
-      "titles": [
-        "名古屋で車200台が浸水——秋雨前線と湿った空気で西日本から東北まで大雨が続く",
-        "中道勢力が分裂——立民系は新党結成、公明系は復党へ、統一会派構想も浮上",
-        "山口の地酒「天美」がロンドンの国際品評会でチャンピオン獲得——山口県初の快挙",
-        "スミソニアン協会トップが辞任——展示内容を巡りトランプ政権と対立、歴史ある組織に激震",
-        "米運輸長官がフォードの対中「依存」を異例の公開批判——製造の国内回帰を強く要求",
-        "モバイルアプリ開発でもエージェントループを回す——React Nativeで計画・実装・検証・PRをAIが自律実行",
-        "1人で25万行を「コードを読まずに」管理する——AIエージェントが主体の自動運用ソフトウェアファクトリー実践記",
-        "HTMX 4.0正式リリース——内部実装をXHRからfetchに刷新、Streaming HTMLと属性の子要素継承廃止が目玉",
-        "Former Anthropic Researcher Resigns, Warns Superintelligence Could Become Uncontrollable By End of Next Year",
-        "Qualcomm and Amazon Sign Multi-Generation AI Datacenter Deal — Up to $60B in Purchases, Custom Silicon and 1.6 Tbps Optical Links",
-        "Terence Tao Warns AI Is Strip-Mining Open Mathematical Problems — Threatening Centuries of Open Science Tradition"
       ]
     }
   ]

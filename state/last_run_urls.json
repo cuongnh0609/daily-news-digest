@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-10T20:00:00+09:00",
+  "last_run_at": "2026-09-11T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-11T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6594906",
+        "https://news.yahoo.co.jp/pickup/6594903",
+        "https://news.yahoo.co.jp/pickup/6594883",
+        "https://www.jiji.com/jc/article?k=2026091001161&g=flash&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091001186&g=soc&m=rss",
+        "https://zenn.dev/xtm_blog/articles/689d035440c0ae",
+        "https://zenn.dev/syarihu/articles/8cd121cf9bbc39",
+        "https://www.publickey1.jp/blog/26/net_11netaot.html",
+        "https://www.anthropic.com/engineering/how-we-contain-claude",
+        "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+        "https://simonwillison.net/2026/Sep/7/creepy-crawlies/"
+      ],
+      "titles": [
+        "関東など、11日の通勤時間帯に激しい雷雨のおそれ——秋雨前線が北上",
+        "欧州中央銀行が2会合ぶりに0.25%の利上げ——インフレ再燃への警戒を強める",
+        "中国が日本製半導体材料に最大99.2%の暫定関税——日中摩擦が製造業全体に波及するおそれ",
+        "NY原油先物が1バレル100ドルの大台を突破——中東情勢の緊迫化で3カ月半ぶり",
+        "水星が半径10キロ以上縮んでいた——北海道大が地表の「しわ」を新手法で解析",
+        "なぜエージェントハーネスで開発パイプラインを作っているのか——Markdown仕様書からPRまで自動生成する試み",
+        "常駐ハブと作業ワーカーで複数タスクを並行完走——Rustで実装したMCPサーバー「agent-adjutant」の設計",
+        ".NET 11 Release Candidate 1が登場——ネイティブ非同期処理強化とAoTコンパイラ改善、11月の正式リリースへ",
+        "How We Contain Claude Across Products — Anthropic's Three-Layer Blast Radius Defense",
+        "GitHub Copilot Gets Enterprise-Managed Sandboxing in JetBrains IDEs",
+        "Simon Willison: Abusive AI Crawlers Are Consuming Server Budgets — And Ignoring robots.txt"
+      ]
+    },
     {
       "run_at": "2026-09-10T20:00:00+09:00",
       "urls": [

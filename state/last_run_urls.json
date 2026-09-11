@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-11T20:00:00+09:00",
+  "last_run_at": "2026-09-12T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-12T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026091101155&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091100804&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091100966&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091101100&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091100688&g=int&m=rss",
+        "https://zenn.dev/socialplus/articles/f5d9e28470eb99",
+        "https://zenn.dev/ml_bear/articles/e5cc1047cba176",
+        "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001400/",
+        "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
+        "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+        "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md"
+      ],
+      "titles": [
+        "森本レオさん死去、享年83歳——日本映画・テレビ界を代表する名優が逝く",
+        "官房長官が岸田前首相に謝罪——人事アンケート提出を暴露した発言をめぐり",
+        "外国籍への生活保護認めず——最高裁が初判断、「違憲」反対意見も",
+        "ロシア、高市首相を「非友好的」と批判——首脳会談開催にも否定的な姿勢",
+        "米同時多発テロから25年——各地で追悼式典、関連死も初めて対象に",
+        "Agent Skill は「振る舞い」と「ナレッジ」を分けて設計する——Claude Agentの設計原則",
+        "LLMのトークン効率化で押さえるべきポイント——キャッシュ管理から批量処理まで",
+        "NECが「AIだけの部署」の実態を公開——AI社員同士で1on1、ストレスチェックも実施",
+        "GitHub Copilot Gets Enterprise-Managed Permissions for Agent Operations",
+        "OpenAI Releases ChatGPT Images 2.5 — Multi-Turn Editing, Precise Instruction Following",
+        "Forgejo ≤16.0.3 Critical RCE Vulnerability — Immediate Upgrade Required"
+      ]
+    },
     {
       "run_at": "2026-09-11T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Desert Ant Labs Launches 18 On-Device AI Models — From 2MB to 12MB, No Tokens Required",
         "GitHub Advanced Security Trial Expands to 300-License Organizations — Self-Serve Evaluation Now Wider",
         "Qwen 3.8 Follows GPT-5.5 Pro Reasoning Prefills — Hinting at Shared Training Signal Across Models"
-      ]
-    },
-    {
-      "run_at": "2026-09-10T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594855",
-        "https://news.yahoo.co.jp/pickup/6594853",
-        "https://www.jiji.com/jc/article?k=2026091000359&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091000494&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2609/10/2000001360/",
-        "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
-        "https://www.publickey1.jp/blog/26/airedshiftdwhamazon_redshiftagent_toolkit_for_aws.html",
-        "https://zenn.dev/koher/articles/code-first-3d-modeling",
-        "https://www.anthropic.com/news",
-        "https://www.publickey1.jp/blog/26/awsstaonuk420tbps2029.html",
-        "https://hugovergnes.github.io/little-lm-3-8b/"
-      ],
-      "titles": [
-        "フィリピン沖でフェリー火災——死者5人、行方不明87人",
-        "神奈川・三浦で小学生男児が波にさらわれ死亡——岩場での水難事故",
-        "昨年の自傷・自殺未遂、搬送4.3万人——若年女性で増加傾向が顕著",
-        "トランプ氏「中間選挙で勝利なら成人に5000ドル支給」——異例の共和党大会で発表",
-        "さくらインターネット、不正アクセスでハッシュ化されていない初期パスワード漏えいの可能性",
-        "AnthropicとSalesforceが「Claudeforce」発表——ClaudeにCRM機能を統合、37の営業スキルを搭載",
-        "AIエージェントがAmazon Redshiftを自律操作——Agent Toolkit for AWSとのMCP統合でDWH構築が自然言語で可能に",
-        "Astra時代のコードファースト3Dモデリング——SwiftライブラリでAIが3Dモデルをコードで生成・反復改善",
-        "Anthropic Releases Claude Fable 5.1 and Mythos 5.1 — 75% Cache Read Price Cut, Major Agentic Coding Gains",
-        "AWS Announces Sta'O'Nuk Transpacific Cable — 420 Tbps Capacity, New Landing Sites to Cut Concentration Risk",
-        "Training a 3.8B LLM to 0.384 CORE for $998 — Indie Researcher Hits State-of-Art on Tiny Budget"
       ]
     }
   ]

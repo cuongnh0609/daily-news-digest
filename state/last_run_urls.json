@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-11T15:00:00+09:00",
+  "last_run_at": "2026-09-11T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-11T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026091100453&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6594969",
+        "https://www.jiji.com/jc/article?k=2026091100712&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091100951&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2609/11/2000001424/",
+        "https://zenn.dev/imaimai17468/articles/4fe1531b71929b",
+        "https://www.itmedia.co.jp/news/article/2609/11/2000001409/",
+        "https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html",
+        "https://simonwillison.net/2026/Sep/11/datasette-security/",
+        "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+        "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+      ],
+      "titles": [
+        "デジタル庁の運用システムに不正アクセス——24.6万件の個人情報が漏えいした可能性",
+        "未婚者の3割超が「子どもを望まない」——少子化対策に新たな課題",
+        "立民系新党、来週にも発足——「民主」含む党名で野党再編が本格化",
+        "性犯罪者の仮釈放にGPS装着——法務省が2027年度から試行へ",
+        "テスラの自動運転タクシー「サイバーキャブ」が東京・青山に出現——ハンドルもペダルも持たない未来車",
+        "良いAIの行動、メモ——設計原則から文章作法まで、実践的ガイドラインをまとめた",
+        "AI生成の偽造領収書、企業側での検知は困難——経費精算の新たな不正リスクが浮上",
+        "HTMX 4.0正式リリース——XHRからFetch APIへ刷新、ストリーミングHTMLとモーフィングスワップに対応",
+        "Datasette 1.0a39 Security Release — Claude Fable 5.1 and GPT-6 Astra Assist Multi-Week AI-Driven Security Audit",
+        "GitHub Actions Cache Mode: Least-Privilege Cache Access Control to Counter Cache Poisoning",
+        "Anthropic Previews Model Hardware Standard — Claude Agents Can Now Orchestrate Physical Lab Equipment via MCP"
+      ]
+    },
     {
       "run_at": "2026-09-11T15:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "Anthropic Releases Claude Fable 5.1 and Mythos 5.1 — 75% Cache Read Price Cut, Major Agentic Coding Gains",
         "AWS Announces Sta'O'Nuk Transpacific Cable — 420 Tbps Capacity, New Landing Sites to Cut Concentration Risk",
         "Training a 3.8B LLM to 0.384 CORE for $998 — Indie Researcher Hits State-of-Art on Tiny Budget"
-      ]
-    },
-    {
-      "run_at": "2026-09-10T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594820",
-        "https://www.itmedia.co.jp/news/article/2609/10/2000001346/",
-        "https://news.yahoo.co.jp/pickup/6594808",
-        "https://www.itmedia.co.jp/news/article/2609/10/2000001342/",
-        "https://www.jiji.com/jc/article?k=2026090900971&g=pol&m=rss",
-        "https://zenn.dev/hatose/articles/ebc0dd996b2cbd",
-        "https://zenn.dev/socialplus/articles/dc1ceeb1e42edc",
-        "https://www.itmedia.co.jp/news/article/2609/10/2000001345/",
-        "https://simonwillison.net/2026/Sep/10/calif-research/",
-        "https://www.anthropic.com/institute/econ-scenarios",
-        "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations"
-      ],
-      "titles": [
-        "張本勲さん死去——プロ野球史上初の3000安打達成、辛口解説者としても活躍",
-        "「Claude」不正アクセス事件、4件目が判明——Anthropicが「アライメント失敗」と評価を修正",
-        "沖縄知事選でデマが拡散——AI生成の偽ポスターや誤引用、91%が県外からの投稿",
-        "Anthropic研究者2人が「AIが人類を滅ぼしかねない」と公開警告——超知能の暴走リスクに言及",
-        "内閣改造で外交・安保路線を継続——米中にらみ、3文書の実行を重視",
-        "Amazon Bedrockの費用が上限超過したら自動でアクセス遮断——AWS Budgets Actionsで「青天井」を防ぐ",
-        "Cluster AutoscalerからKarpenterへ移行して分かったこと——運用の複雑さと柔軟性のトレードオフ",
-        "Google、フィンランドに過去最大2.3兆円投資——AIデータセンター拡張と原子力電力調達を発表",
-        "AI-Accelerated Malware: Calif Research Builds Zero-Click WeChat Worm in Under Two Weeks",
-        "Anthropic Institute Publishes AI Economic Scenarios — From \"Internet-Like\" to 32% Annual GDP Growth",
-        "GitHub Copilot Gets Enterprise-Level Agent Permission Controls — Shell, Files, and Network Domains"
-      ]
-    },
-    {
-      "run_at": "2026-09-10T05:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2609/10/2000001335/",
-        "https://www.itmedia.co.jp/news/article/2609/10/2000001336/",
-        "https://news.yahoo.co.jp/pickup/6594758",
-        "https://www.itmedia.co.jp/news/article/2609/10/2000001339/",
-        "https://news.yahoo.co.jp/pickup/6594796",
-        "https://zenn.dev/lincwell_inc/articles/fddaae539e6e9c",
-        "https://www.publickey1.jp/blog/26/awsamazon_quick.html",
-        "https://zenn.dev/nakurei/articles/generate-trust-not-tests",
-        "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-        "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-        "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging"
-      ],
-      "titles": [
-        "「iPhone Duo」発表　Apple初の折りたたみスマホ　36万4800円から",
-        "iPhone 18シリーズ発表、今年はPro・Pro Maxのみ　なんと\"無印\"なし　価格は21万9800円から",
-        "丸亀製麺の運営会社に勧告　不当減額1.4億円超　公取委",
-        "「AirPods 5」登場　ノイキャン性能向上、従来比でノイズを50％除去　2万3800円から",
-        "星のカービィ新作 ニンダイまとめ、2027年春発売",
-        "モブプロにAIを加えたら人間には疲れる仕事だけが残ったので、AI前提の役割分担を模索している",
-        "AWS、自然言語でデータ分析アプリを構築可能に、「Amazon Quick」に新機能",
-        "テストを生成するな、信頼を生成しろ",
-        "Anthropic Launches Enterprise Frontier Safeguards — Zero Data Retention with Active Misuse Detection",
-        "GPT-6 Astra, Looped Transformers, and Hidden Reasoning — What the Architecture Actually Means",
-        "GitHub Advanced Security Now Blocks PRs with Exposed Secrets from Merging"
-      ]
-    },
-    {
-      "run_at": "2026-09-10T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026090901146&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6594785",
-        "https://news.yahoo.co.jp/pickup/6594779",
-        "https://news.yahoo.co.jp/pickup/6594767",
-        "https://www.jiji.com/jc/article?k=2026090901067&g=int&m=rss",
-        "https://zenn.dev/socialplus/articles/f5d9e28470eb99",
-        "https://zenn.dev/container_cms/articles/7d4426c7cbd710",
-        "https://www.publickey1.jp/blog/26/awsaiawsnx_plugin_for_aws_10.html",
-        "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
-        "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
-        "https://news.ycombinator.com/item?id=43950000"
-      ],
-      "titles": [
-        "米ラスカー賞に日本人4人——睡眠研究の柳沢正史氏ら、基礎・臨床でダブル受賞",
-        "ニデック不正会計問題——株主28人が東京地裁に提訴、約6600万円の損賠請求",
-        "ネパール土石流のがれき220万トン以上——UNDPが試算、日本に支援要請",
-        "北大院生がフッ化水素酸を浴び死亡——管理不備が判明、札幌市が大学を指導",
-        "ノルウェー前国王の国葬に秋篠宮ご夫妻参列——「国民の祖父」に各国首脳が別れ",
-        "Agent Skillは「振る舞い」と「ナレッジ」を分けて設計する——単一責任の原則をAIエージェントに適用",
-        "コードレビューを一人に背負わせるのをやめた——Claude Codeのサブエージェントで観点ごとに分業",
-        "AWS、AIがフルスタックアプリのコードをセキュリティ・可観測性まで一括生成——「Nx Plugin for AWS 1.0」をOSSで公開",
-        "GitHub Copilot: Remediate Up to 25 Code Quality Findings in One Agentic Action",
-        "Simon Willison: OpenAI's Navier-Stokes \"Win\" Exposes a Dangerous AI Research Race Pattern",
-        "DeepSeek Launches V4.1 Flash — Cheaper and More Capable than V4 Pro at Comparable Tasks"
-      ]
-    },
-    {
-      "run_at": "2026-09-09T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594772",
-        "https://news.yahoo.co.jp/pickup/6594763",
-        "https://news.yahoo.co.jp/pickup/6594750",
-        "https://www.itmedia.co.jp/news/article/2609/09/2000001330/",
-        "https://www.itmedia.co.jp/news/article/2609/09/2000001306/",
-        "https://zenn.dev/ml_bear/articles/e5cc1047cba176",
-        "https://zenn.dev/goat_eat_any/articles/claude-code-desktop-app",
-        "https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html",
-        "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
-        "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-        "https://openai.com/index/codex-quantum-computing-experiments/"
-      ],
-      "titles": [
-        "東海・関東で夜にかけて非常に激しい雨のおそれ——線状降水帯の発生も警戒",
-        "神奈川・城ヶ島で小学生男児が海に流され行方不明——岩場で遊泳中に事故",
-        "能登地震の関連死、新たに3人認定——累計犠牲者は758人に",
-        "富士通、ダイヤモンドスピン量子コンピューター試作機を世界初開発——デルフト工科大との共同研究",
-        "PayPayがマルウェアによる遠隔操作で不正送金のリスクを警告——公式ストア以外のアプリに注意",
-        "LLMのトークン効率化で気をつけたいこと——キャッシュ管理からバッチ処理まで実践的まとめ",
-        "Claude Code Desktop、格段に使いやすくなった20の新機能——ペイン自由配置からPR作成まで",
-        "EVE Onlineが240万行のPython 2.7コードをPython 3へ移行——16年稼働のゲームエンジンを刷新",
-        "OpenAI Releases ChatGPT Images 2.5 — Dual-Model API with Precision and Speed Variants",
-        "Benchmarking Qwen3.8 27B Quantizations — 4-bit Holds Up, 1-bit Collapses to Random Guessing",
-        "How GPT-5.6 Sol Helps Run Quantum Computing Experiments — OpenAI's AI-for-Science Push"
       ]
     }
   ]

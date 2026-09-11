@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-11T10:00:00+09:00",
+  "last_run_at": "2026-09-11T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-11T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6594949",
+        "https://news.yahoo.co.jp/pickup/6594950",
+        "https://news.yahoo.co.jp/pickup/6594952",
+        "https://news.yahoo.co.jp/pickup/6594936",
+        "https://news.yahoo.co.jp/pickup/6594945",
+        "https://zenn.dev/loglass/articles/7c140c6689d8c2",
+        "https://zenn.dev/tkada/articles/d0c31e6533fb62",
+        "https://zenn.dev/coji/articles/solo-software-factory-without-reading-code",
+        "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+        "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+        "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated"
+      ],
+      "titles": [
+        "秋雨前線が居座る——13〜14日にかけ真夏日地点が再び増加の見通し",
+        "OpenAI、最先端AI開発のペースを緩める検討——アルトマンCEOが社内に方針示す",
+        "「一生結婚するつもりない」が初めて2割を突破——少子化対策に影",
+        "富士山遭難救助の有料化はなぜ難しいのか——法制度と縦割り行政が課題",
+        "神奈川・相模原で高校2年生が死亡——10代少年4人を傷害容疑で逮捕",
+        "DuckDBがメモリ超過GROUP BYをどう処理するか——2段階パーティション戦略の実測解析",
+        "GPT-6 AstraとUnityで20分でゲームを完成——AI自律開発が「仕様書→動くゲーム」を実現",
+        "コードを一行も読まずに25万行のサービスを運用——仕様レビューループで1144 PR達成",
+        "Rust Is Now Tier-1 Language at Microsoft — Paved Path from Local Dev to Production",
+        "GitHub Releases REST APIs for AI Scan for Pull Requests — Org-Wide Security Automation Now Available",
+        "GitHub Deprecates MAI-Code-1-Flash Across All Copilot Experiences — Migrate to MAI-Code-1.1-Flash Now"
+      ]
+    },
     {
       "run_at": "2026-09-11T10:00:00+09:00",
       "urls": [

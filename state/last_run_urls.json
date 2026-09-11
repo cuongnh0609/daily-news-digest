@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-12T00:00:00+09:00",
+  "last_run_at": "2026-09-12T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-12T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026091101211&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091100671&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091100687&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091101030&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091101081&g=soc&m=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001405/",
+        "https://zenn.dev/nakurei/articles/generate-trust-not-tests",
+        "https://www.publickey1.jp/blog/26/awsaiawsnx_plugin_for_aws_10.html",
+        "https://www.langchain.com/blog/organizing-context-in-a-multi-agent-harness",
+        "https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents",
+        "https://www.anthropic.com/news/enterprise-frontier-safeguards"
+      ],
+      "titles": [
+        "岐阜のケーキ店放火殺人——女性店主も死亡し犠牲者は計4人に",
+        "予定子ども数が初めて2人を下回る——金銭的負担と両立困難が理想を阻む",
+        "インド首相、プーチン大統領に「平和への取り組みを支援」と伝達",
+        "在日中国大使館がビザ料金を7倍に引き上げ——日本側の値上げに対抗",
+        "東京大学が特任教授を停職2カ月——利害関係者からの接待が調査で発覚",
+        "Sakana AI「Fugu Ultra v2・Fugu Max」発表——DeepSWEで最先端モデル超えと主張",
+        "テストを生成するな、信頼を生成しろ——AIコーディングと品質保証の本質論",
+        "AWS「Nx Plugin for AWS 1.0」OSS公開——AIがセキュリティ・インフラまで一気通貫で生成",
+        "LangChain Deep Agents: Organizing Context in a Multi-Agent Harness",
+        "LangChain Connections: Per-Caller OAuth Identity for Production AI Agents",
+        "Anthropic Launches Enterprise Frontier Safeguards — Zero Data Retention Meets Automated Misuse Detection"
+      ]
+    },
     {
       "run_at": "2026-09-12T00:00:00+09:00",
       "urls": [

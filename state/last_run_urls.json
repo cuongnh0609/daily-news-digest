@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-11T05:00:00+09:00",
+  "last_run_at": "2026-09-11T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-11T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6594924",
+        "https://www.jiji.com/jc/article?k=2026091001055&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6594918",
+        "https://www.jiji.com/jc/article?k=2026091100203&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091001008&g=pol&m=rss",
+        "https://zenn.dev/tellernovel_inc/articles/57b223dd4b8f5d",
+        "https://zenn.dev/mediba/articles/7d0d7d70678546",
+        "https://www.itmedia.co.jp/news/article/2609/11/2000001392/",
+        "https://developers.openai.com/api/docs/guides/agents-api/overview",
+        "https://www.itmedia.co.jp/news/article/2609/09/2000001294/",
+        "https://simonwillison.net/2026/Sep/10/shopify-react-native/"
+      ],
+      "titles": [
+        "日経平均、一時2000円超の急落——中東情勢と原油高が市場を直撃",
+        "高市首相、内閣改造で「復興・防災」一本化とデジタル・AI担当を兼務へ",
+        "維新が初の閣内協力へ、馬場前代表か藤田共同代表で人選調整",
+        "米当局が900億円規模の円買い介入——ECB総裁が異例の公表",
+        "自民「入閣待機組」に焦り——安倍チルドレン6期生、49人が未だ未入閣",
+        "モバイル開発でエージェントループを回す——React Nativeで仕様策定からPR提出まで完全自動化",
+        "Nuxt.jsからNext.jsへ——Claude Codeによるハーネスエンジニアリングと「理解負債」の問題",
+        "OpenAI、金融機関向け「ChatGPT for Financial Services」——GPT-6 AstraでOfficeQA 69.9%を達成",
+        "OpenAI Launches Agents API — Managed Orchestration Platform with MCP, Durable Sessions, and Multi-Agent Delegation",
+        "Meta Launches Muse: Personal AI Agent with Secure VM Isolation and Sentinel Oversight for Autonomous Task Execution",
+        "Shopify Abandons React Native for Swift and Kotlin — AI Agents Made Cross-Platform Code Sharing Obsolete"
+      ]
+    },
     {
       "run_at": "2026-09-11T05:00:00+09:00",
       "urls": [

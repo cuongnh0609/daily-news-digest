@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-13T00:00:00+09:00",
+  "last_run_at": "2026-09-13T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-13T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6595098",
+        "https://news.yahoo.co.jp/pickup/6595097",
+        "https://news.yahoo.co.jp/pickup/6595093",
+        "https://www.jiji.com/jc/article?k=2026091200302&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6595086",
+        "https://zenn.dev/maronsan/articles/nenpi-residency-cost",
+        "https://zenn.dev/menmen_ailab/articles/bc7813e20eb66e",
+        "https://zenn.dev/xtm_blog/articles/689d035440c0ae",
+        "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+        "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+        "https://www.latent.space/p/forward-deployed-engineer-best-practices"
+      ],
+      "titles": [
+        "対米投資第3弾、次世代原発の建設が有力候補に浮上",
+        "米利上げ観測が再び高まる——インフレ指標の高止まりで市場が警戒",
+        "「時給100円」ブラックインターン問題が表面化——学生が無償に近い形で搾取される実態",
+        "BRICS首脳がイラン情勢に「最大限の自制」求める共同宣言を採択",
+        "元櫻坂46・渡辺梨加が第1子妊娠を発表——ファンに感謝のメッセージ",
+        "Claude Codeの請求の8割は「居座り続けた出力」だった——トークン効率化の盲点を解剖",
+        "AIエージェントに「社内用語禁止」を守らせる——設定ファイルより「送信直前チェック」が効いた",
+        "なぜエージェントハーネスで開発パイプラインを作っているのか——仕様書→コードの自動化と人間レビューの限界",
+        "DeepSeek v4.1-Flash: Novel 763B Causal Encoder-Decoder Architecture Marks Return of the Whale",
+        "Nvidia Is the Central Bank of AI — The Economist on Compute Power as Reserve Currency",
+        "The Rise of the Forward Deployed Engineer — Embedding Software Engineers Inside Customer Teams"
+      ]
+    },
     {
       "run_at": "2026-09-13T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Datasette 1.0a39 Security Release — Claude Fable 5.1 and GPT-6 Astra Assist Multi-Week AI-Driven Security Audit",
         "GitHub Actions Cache Mode: Least-Privilege Cache Access Control to Counter Cache Poisoning",
         "Anthropic Previews Model Hardware Standard — Claude Agents Can Now Orchestrate Physical Lab Equipment via MCP"
-      ]
-    },
-    {
-      "run_at": "2026-09-11T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594949",
-        "https://news.yahoo.co.jp/pickup/6594950",
-        "https://news.yahoo.co.jp/pickup/6594952",
-        "https://news.yahoo.co.jp/pickup/6594936",
-        "https://news.yahoo.co.jp/pickup/6594945",
-        "https://zenn.dev/loglass/articles/7c140c6689d8c2",
-        "https://zenn.dev/tkada/articles/d0c31e6533fb62",
-        "https://zenn.dev/coji/articles/solo-software-factory-without-reading-code",
-        "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-        "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-        "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated"
-      ],
-      "titles": [
-        "秋雨前線が居座る——13〜14日にかけ真夏日地点が再び増加の見通し",
-        "OpenAI、最先端AI開発のペースを緩める検討——アルトマンCEOが社内に方針示す",
-        "「一生結婚するつもりない」が初めて2割を突破——少子化対策に影",
-        "富士山遭難救助の有料化はなぜ難しいのか——法制度と縦割り行政が課題",
-        "神奈川・相模原で高校2年生が死亡——10代少年4人を傷害容疑で逮捕",
-        "DuckDBがメモリ超過GROUP BYをどう処理するか——2段階パーティション戦略の実測解析",
-        "GPT-6 AstraとUnityで20分でゲームを完成——AI自律開発が「仕様書→動くゲーム」を実現",
-        "コードを一行も読まずに25万行のサービスを運用——仕様レビューループで1144 PR達成",
-        "Rust Is Now Tier-1 Language at Microsoft — Paved Path from Local Dev to Production",
-        "GitHub Releases REST APIs for AI Scan for Pull Requests — Org-Wide Security Automation Now Available",
-        "GitHub Deprecates MAI-Code-1-Flash Across All Copilot Experiences — Migrate to MAI-Code-1.1-Flash Now"
       ]
     }
   ]

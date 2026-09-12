@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-12T15:00:00+09:00",
+  "last_run_at": "2026-09-12T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-12T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6595082",
+        "https://news.yahoo.co.jp/pickup/6595084",
+        "https://news.yahoo.co.jp/pickup/6595081",
+        "https://www.jiji.com/jc/article?k=2026091200328&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091200286&g=pol&m=rss",
+        "https://zenn.dev/citras/articles/agents-md-what-to-write",
+        "https://zenn.dev/stdmo/articles/claude-code-10-agents-youtube-docu",
+        "https://zenn.dev/tsutomusaito/articles/edit-tool-rework-rate-ja",
+        "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+        "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+        "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001402/"
+      ],
+      "titles": [
+        "陸上競技大会で集団食中毒か——23人が病院へ搬送、原因調査中",
+        "海水浴場で男性2人が溺れる——19歳が重体、1人は意識回復",
+        "大阪市のゴミ処理がひっ迫——施設老朽化と人口増で対応に限界",
+        "ハマス奇襲の警告を黙殺したか——イスラエル首相、総選挙前に政治的逆風",
+        "沖縄知事選、13日に投開票——辺野古移設と経済政策が最大争点",
+        "AGENTS.mdに書くべきは「リポジトリを読んでも分からないこと」だけ——最短のファイルが最も効果的",
+        "Claude Codeサブエージェント10人でYouTube動画を5本制作——TTS辞書131項目のうち有効は10項目",
+        "Claude CodeのEditツール成功率は99.0%——だがその半数は「自分が直前に書いた文字列」の書き直しだった",
+        "GitHub Copilot Weekly Releases Sept 7: Jira Integration, HydraFusion Routing, Recurring Agent Tasks",
+        "So You Want to Use OpenRouter? — Inconsistent Provider Behavior Undermines Model Reliability",
+        "Japan's Physical AI Data Factory: 35 Humanoid Robots Generating Training Data to Counter Labor Shortage"
+      ]
+    },
     {
       "run_at": "2026-09-12T15:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "Rust Is Now Tier-1 Language at Microsoft — Paved Path from Local Dev to Production",
         "GitHub Releases REST APIs for AI Scan for Pull Requests — Org-Wide Security Automation Now Available",
         "GitHub Deprecates MAI-Code-1-Flash Across All Copilot Experiences — Migrate to MAI-Code-1.1-Flash Now"
-      ]
-    },
-    {
-      "run_at": "2026-09-11T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594924",
-        "https://www.jiji.com/jc/article?k=2026091001055&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6594918",
-        "https://www.jiji.com/jc/article?k=2026091100203&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091001008&g=pol&m=rss",
-        "https://zenn.dev/tellernovel_inc/articles/57b223dd4b8f5d",
-        "https://zenn.dev/mediba/articles/7d0d7d70678546",
-        "https://www.itmedia.co.jp/news/article/2609/11/2000001392/",
-        "https://developers.openai.com/api/docs/guides/agents-api/overview",
-        "https://www.itmedia.co.jp/news/article/2609/09/2000001294/",
-        "https://simonwillison.net/2026/Sep/10/shopify-react-native/"
-      ],
-      "titles": [
-        "日経平均、一時2000円超の急落——中東情勢と原油高が市場を直撃",
-        "高市首相、内閣改造で「復興・防災」一本化とデジタル・AI担当を兼務へ",
-        "維新が初の閣内協力へ、馬場前代表か藤田共同代表で人選調整",
-        "米当局が900億円規模の円買い介入——ECB総裁が異例の公表",
-        "自民「入閣待機組」に焦り——安倍チルドレン6期生、49人が未だ未入閣",
-        "モバイル開発でエージェントループを回す——React Nativeで仕様策定からPR提出まで完全自動化",
-        "Nuxt.jsからNext.jsへ——Claude Codeによるハーネスエンジニアリングと「理解負債」の問題",
-        "OpenAI、金融機関向け「ChatGPT for Financial Services」——GPT-6 AstraでOfficeQA 69.9%を達成",
-        "OpenAI Launches Agents API — Managed Orchestration Platform with MCP, Durable Sessions, and Multi-Agent Delegation",
-        "Meta Launches Muse: Personal AI Agent with Secure VM Isolation and Sentinel Oversight for Autonomous Task Execution",
-        "Shopify Abandons React Native for Swift and Kotlin — AI Agents Made Cross-Platform Code Sharing Obsolete"
-      ]
-    },
-    {
-      "run_at": "2026-09-11T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594907",
-        "https://news.yahoo.co.jp/pickup/6594875",
-        "https://news.yahoo.co.jp/pickup/6594901",
-        "https://www.jiji.com/jc/article?k=2026091100004&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091001202&g=int&m=rss",
-        "https://zenn.dev/peoplex_blog/articles/65768c769de4b0",
-        "https://zenn.dev/gemcook/articles/herdr-worktree-parallel",
-        "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
-        "https://cognition.com/blog/swe-2",
-        "https://www.anthropic.com/threat-intelligence-report-september-2026",
-        "https://magic.dev/blog/pretraining"
-      ],
-      "titles": [
-        "富士山の閉山期に登山届の義務化を検討——未届け救助にはペナルティーも",
-        "鳥貴族、全品均一を390円から410円に値上げ——原材料費・人件費の高騰が直撃",
-        "【超RIZIN.5】朝倉未来、「レジェンド」青木真也に159秒でTKO勝利——大阪ドームが沸く",
-        "紀子さまが還暦——皇室典範改正は「事実として受け止め」",
-        "米国がNATO加盟国にICC脱退を要求——「誰が味方か注視している」と大使が発言",
-        "GPT-6 Astraはいつ「待ち」、いつ次の指示を受け入れるのか——async tool callingとmid-turn steeringを実測",
-        "Herdr × git worktree × Claude Codeの三角形——並行開発を自動化するターミナル統合の実践",
-        "Amazon Linux 2027 パブリックプレビュー公開——SELinuxがデフォルト有効",
-        "Cognition Launches SWE-2: 50% on FrontierCode 1.1, 64% Cheaper Than Rivals",
-        "Anthropic September 2026 Threat Intelligence Report: State-Sponsored Groups Using AI for Cyberattacks",
-        "Magic AI Achieves >10x More Compute-Efficient Pretraining — Matches DeepSeek V4 Pro with 50x Fewer FLOPs"
-      ]
-    },
-    {
-      "run_at": "2026-09-11T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594906",
-        "https://news.yahoo.co.jp/pickup/6594903",
-        "https://news.yahoo.co.jp/pickup/6594883",
-        "https://www.jiji.com/jc/article?k=2026091001161&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091001186&g=soc&m=rss",
-        "https://zenn.dev/xtm_blog/articles/689d035440c0ae",
-        "https://zenn.dev/syarihu/articles/8cd121cf9bbc39",
-        "https://www.publickey1.jp/blog/26/net_11netaot.html",
-        "https://www.anthropic.com/engineering/how-we-contain-claude",
-        "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-        "https://simonwillison.net/2026/Sep/7/creepy-crawlies/"
-      ],
-      "titles": [
-        "関東など、11日の通勤時間帯に激しい雷雨のおそれ——秋雨前線が北上",
-        "欧州中央銀行が2会合ぶりに0.25%の利上げ——インフレ再燃への警戒を強める",
-        "中国が日本製半導体材料に最大99.2%の暫定関税——日中摩擦が製造業全体に波及するおそれ",
-        "NY原油先物が1バレル100ドルの大台を突破——中東情勢の緊迫化で3カ月半ぶり",
-        "水星が半径10キロ以上縮んでいた——北海道大が地表の「しわ」を新手法で解析",
-        "なぜエージェントハーネスで開発パイプラインを作っているのか——Markdown仕様書からPRまで自動生成する試み",
-        "常駐ハブと作業ワーカーで複数タスクを並行完走——Rustで実装したMCPサーバー「agent-adjutant」の設計",
-        ".NET 11 Release Candidate 1が登場——ネイティブ非同期処理強化とAoTコンパイラ改善、11月の正式リリースへ",
-        "How We Contain Claude Across Products — Anthropic's Three-Layer Blast Radius Defense",
-        "GitHub Copilot Gets Enterprise-Managed Sandboxing in JetBrains IDEs",
-        "Simon Willison: Abusive AI Crawlers Are Consuming Server Budgets — And Ignoring robots.txt"
-      ]
-    },
-    {
-      "run_at": "2026-09-10T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6594891",
-        "https://www.jiji.com/jc/article?k=2026091000194&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091000852&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6594874",
-        "https://www.jiji.com/jc/article?k=2026091000860&g=soc&m=rss",
-        "https://zenn.dev/tsutomusaito/articles/subagent-does-more-work-ja",
-        "https://zenn.dev/daydreamer/articles/ee68b9023a7e45",
-        "https://www.itmedia.co.jp/news/article/2609/10/2000001380/",
-        "https://desertant.com/blog/introducing-desert-ant-labs/",
-        "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
-        "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3"
-      ],
-      "titles": [
-        "関東甲信など、あす11日に警報級大雨のおそれ——線状降水帯の発生も視野に",
-        "ロシア外務省「菊花紋章」破壊像の撤去要求に猛反発——「口出しするな」と日本を牽制",
-        "日本政府、中東4カ国・地域の危険情報を引き下げ——イスラエル・イラクなどを一段階緩和",
-        "あいち・三十三FGの経営統合が白紙撤回——「方向性の相違」で合意解消",
-        "警察庁の元サイバー捜査課長を懲戒免職——174万円着服、不倫交際費に充てる",
-        "ツール呼び出しの55.5%はサブエージェントが担っていた——Claude Codeセッションログ解析で判明",
-        "Claude Codeで /implement を並列オーケストレーター化——8チケットをworktree分離でゼロエスカレーション完遂",
-        "NECが36体・DeNAが17体「AI社員」を本格稼働——無人部署や自律的な業務報告も実現",
-        "Desert Ant Labs Launches 18 On-Device AI Models — From 2MB to 12MB, No Tokens Required",
-        "GitHub Advanced Security Trial Expands to 300-License Organizations — Self-Serve Evaluation Now Wider",
-        "Qwen 3.8 Follows GPT-5.5 Pro Reasoning Prefills — Hinting at Shared Training Signal Across Models"
       ]
     }
   ]

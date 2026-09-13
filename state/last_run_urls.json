@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-13T05:00:00+09:00",
+  "last_run_at": "2026-09-13T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-13T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026091300147&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091300118&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091300142&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091200492&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091200299&g=int&m=rss",
+        "https://zenn.dev/peoplex_blog/articles/65768c769de4b0",
+        "https://zenn.dev/gemcook/articles/herdr-worktree-parallel",
+        "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
+        "https://withspecific.com/benchmarks/real-swe",
+        "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+        "https://simonwillison.net/2026/Sep/12/astra-running-routes/"
+      ],
+      "titles": [
+        "沖縄知事選が投票日を迎える——辺野古移設と経済振興が最大争点、全国的な注目も集まる",
+        "ベネチア映画祭で是枝・塚本・三池監督が受賞——最高賞はデンマーク作品に",
+        "北口榛花が68m92の日本新記録——ブダペストのアルティメット選手権で優勝",
+        "フーシ派が米国への不介入を要請——トランプ大統領が対話の可能性に言及",
+        "AI開発で米国の「囲い込み」戦略が揺らぐ——中国の猛追と蒸留問題が浮上",
+        "GPT-6 Astraのasync tool callingとmid-turn steeringを実測——名前通りに動かない2機能の真相",
+        "Herdr × git worktree × Claude Codeの相性が抜群——並列エージェント開発の新ワークフロー",
+        "AnthropicのアモデイCEOがAI開発の「ペース調整」を訴える——アルトマン氏・マスク氏も賛同",
+        "Real-SWE: Benchmarking AI Coding Agents on Private, Real-World Enterprise Codebases",
+        "GitHub Releases AI Scan for Pull Request APIs — Programmatic Security Rollout for Enterprises",
+        "GPT-6 Astra Generates Running Routes via OSM — But Code Auditability Remains a Blind Spot"
+      ]
+    },
     {
       "run_at": "2026-09-13T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "GitHub Copilot Gets Enterprise-Managed Permissions for Agent Operations",
         "OpenAI Releases ChatGPT Images 2.5 — Multi-Turn Editing, Precise Instruction Following",
         "Forgejo ≤16.0.3 Critical RCE Vulnerability — Immediate Upgrade Required"
-      ]
-    },
-    {
-      "run_at": "2026-09-11T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091100453&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6594969",
-        "https://www.jiji.com/jc/article?k=2026091100712&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091100951&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2609/11/2000001424/",
-        "https://zenn.dev/imaimai17468/articles/4fe1531b71929b",
-        "https://www.itmedia.co.jp/news/article/2609/11/2000001409/",
-        "https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html",
-        "https://simonwillison.net/2026/Sep/11/datasette-security/",
-        "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
-        "https://www.anthropic.com/news/model-hardware-standard-research-preview"
-      ],
-      "titles": [
-        "デジタル庁の運用システムに不正アクセス——24.6万件の個人情報が漏えいした可能性",
-        "未婚者の3割超が「子どもを望まない」——少子化対策に新たな課題",
-        "立民系新党、来週にも発足——「民主」含む党名で野党再編が本格化",
-        "性犯罪者の仮釈放にGPS装着——法務省が2027年度から試行へ",
-        "テスラの自動運転タクシー「サイバーキャブ」が東京・青山に出現——ハンドルもペダルも持たない未来車",
-        "良いAIの行動、メモ——設計原則から文章作法まで、実践的ガイドラインをまとめた",
-        "AI生成の偽造領収書、企業側での検知は困難——経費精算の新たな不正リスクが浮上",
-        "HTMX 4.0正式リリース——XHRからFetch APIへ刷新、ストリーミングHTMLとモーフィングスワップに対応",
-        "Datasette 1.0a39 Security Release — Claude Fable 5.1 and GPT-6 Astra Assist Multi-Week AI-Driven Security Audit",
-        "GitHub Actions Cache Mode: Least-Privilege Cache Access Control to Counter Cache Poisoning",
-        "Anthropic Previews Model Hardware Standard — Claude Agents Can Now Orchestrate Physical Lab Equipment via MCP"
       ]
     }
   ]

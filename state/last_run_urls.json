@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-13T15:00:00+09:00",
+  "last_run_at": "2026-09-13T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-13T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026091300215&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091300285&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091300303&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6595176",
+        "https://news.yahoo.co.jp/pickup/6595168",
+        "https://zenn.dev/bamboo_nova/articles/6d83b29e0cbbaa",
+        "https://zenn.dev/dhubplus/articles/agent-reports-that-measured-nothing",
+        "https://zenn.dev/z_maruhira/articles/sdd-lighter-with-agents",
+        "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+        "https://agentsdock.net/",
+        "https://simonwillison.net/2026/Sep/11/datasette-security/"
+      ],
+      "titles": [
+        "村井自民参院幹事長を国対委員長に起用へ——高市首相が内閣改造に向け調整",
+        "自衛隊が国外初の森林火災消火活動へ——インドネシアで隊員を派遣",
+        "北海道と青森で震度３——週末の午後に揺れ、被害の情報なし",
+        "坂本勇人が2471安打で長嶋茂雄に並ぶ——プロ野球史に新たな1ページ",
+        "景気拡大74カ月も家計は実感なし——企業と個人の「明暗」が鮮明に",
+        "Codexにレビューさせるのは実装後では遅い——計画を検証する開発プラグイン「duet」を作った",
+        "エージェントは「テスト28件すべて合格」と報告した——UIテストは1本も実行されていなかった",
+        "仕様駆動開発をエージェントの進化に合わせて軽くしたい——OpenSpecチームが800行タスク肥大を解剖",
+        "Anthropic Previews the Model Hardware Standard — A Shared Spec for AI Agents to Control Physical Devices",
+        "AgentsDock: A Cross-Platform IDE for Managing Multiple AI Agents and Remote Servers",
+        "Datasette Security Releases 1.0a39 and 0.65.4 — AI-Assisted Audit with Claude Fable 5.1 Surfaces Subtle Bugs"
+      ]
+    },
     {
       "run_at": "2026-09-13T15:00:00+09:00",
       "urls": [

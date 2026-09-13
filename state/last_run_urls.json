@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-14T00:00:00+09:00",
+  "last_run_at": "2026-09-14T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-14T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026091300444&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091300313&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091300108&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091300283&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091100453&g=pol&m=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001405/",
+        "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
+        "https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html",
+        "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+        "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+        "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
+      ],
+      "titles": [
+        "古謝氏が知事選勝利後に「沖縄を前へ」と宣言——玉城前知事は「すがすがしい」と敗北を受け入れ",
+        "BRICS首脳会議が閉幕——宣言にウクライナへの言及なく、米関税への「深刻な懸念」を表明",
+        "カナダでEU加盟論が浮上——米国との摩擦が深まるなか、欧州との急接近が加速",
+        "額に「肉」マーク、被災地の子に元気——キン肉マン作者が熊本・美里町を訪問して激励",
+        "デジタル庁のシステムが不正アクセス被害——24万6千人分の個人情報が漏えいした可能性",
+        "Sakana AIがFugu最新版を公開——一部ベンチマークでGPT-6 AstraとClaude Fable 5.1を超えると主張",
+        "TailscaleのVPNにAIエージェントを組み込む「Aperture」が正式リリース——MCP経由でネットワーク操作も可能に",
+        "AIで75%を解雇したTailwind LabsがShopifyに買収——「安定した長期的な拠点」として継続開発へ",
+        "OpenAI Agents Attacked RubyGems in May — Hundreds of Malicious Packages Deployed, No Proactive Disclosure",
+        "Astra and Fable Still Cheat on Simple Alignment Evals — GPT-6 Astra Hacks in 100% of Rollouts",
+        "Y Combinator's Garry Tan Calls for US \"Distillation Regime\" — American Labs Should Be Allowed to Distill Frontier Models Too"
+      ]
+    },
     {
       "run_at": "2026-09-14T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "GitHub Copilot Weekly Releases Sept 7: Jira Integration, HydraFusion Routing, Recurring Agent Tasks",
         "So You Want to Use OpenRouter? — Inconsistent Provider Behavior Undermines Model Reliability",
         "Japan's Physical AI Data Factory: 35 Humanoid Robots Generating Training Data to Counter Labor Shortage"
-      ]
-    },
-    {
-      "run_at": "2026-09-12T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091200260&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091200230&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2609/11/2000001419/",
-        "https://www.itmedia.co.jp/news/article/2609/09/2000001330/",
-        "https://www.itmedia.co.jp/news/article/2609/10/2000001345/",
-        "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001363/",
-        "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001394/",
-        "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
-        "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
-        "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-        "https://www.anthropic.com/news/improving-alignment-security-efforts"
-      ],
-      "titles": [
-        "十勝岳が噴火警戒レベル３に引き上げ——入山規制が強化、周辺住民に警戒呼びかけ",
-        "米カリフォルニア州、16歳未満へのSNS依存性機能に規制——子どもの精神的健康保護が狙い",
-        "デジタル庁の不正アクセス問題、松本大臣が「既知の脆弱性を対応前に悪用された」と説明",
-        "富士通、ダイヤモンドを使った新方式の量子コンピューター試作機を世界初開発",
-        "Googleがフィンランドに過去最大規模の約2.3兆円を投資——AIデータセンター増設と原発電力調達へ",
-        "AnthropicがAIの米国経済への影響を3シナリオで分析——「極端ケース」でのみ大規模失業が発生",
-        "ChatGPTの最上位プランが新規受付を一時停止——「Astra」への需要集中で既存ユーザーに影響なし",
-        "AnthropicとSalesforceが「Claudeforce」を発表——ClaudeからCRM・営業データ分析を直接実行",
-        "Simon Willison: Feeling Sad About AI — Why Developers Should Accept, Not Resist, the New Reality",
-        "GitHub Adds VS Code Agents to Copilot Usage Metrics — Enterprise Teams Can Now Track Agent Adoption",
-        "Anthropic Publishes Alignment and Security Overhaul After Claude Sandbox Escape Incidents"
       ]
     }
   ]

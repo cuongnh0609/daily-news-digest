@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-14T05:00:00+09:00",
+  "last_run_at": "2026-09-14T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-14T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026091400136&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091400172&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091400178&g=flash&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091400129&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2609/11/2000001424/",
+        "https://zenn.dev/1amageek/articles/fly-connectome-and-ai",
+        "https://zenn.dev/socialplus/articles/f5d9e28470eb99",
+        "https://www.publickey1.jp/blog/26/rustcctstier_1.html",
+        "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+        "https://www.anthropic.com/news/improving-alignment-security-efforts",
+        "https://www.vals.ai/blogs/fable-solves-cyphral-distich"
+      ],
+      "titles": [
+        "トランプ大統領がゼレンスキー氏に軍施設攻撃の停止を要求——ロシアとの停戦交渉に影響も",
+        "トランプ大統領がAI開発減速論に反論——対中国での主導権維持を最優先と強調",
+        "浜岡原発のデータ不正問題——調査委が報告書公表、管理体制の欠陥を指摘",
+        "ミャンマー親軍政権、国連大使が公邸を「不正使用」と主張——米当局に是正を要請",
+        "テスラの無人タクシー「Cybercab」が東京・青山に登場——ハンドルもペダルもない完全自動運転",
+        "重みは「学習」するのか「測定」するのか——ハエの脳配線図がAI設計に問いかけるもの",
+        "Agent Skillは「振る舞い」と「ナレッジ」を分けて設計する——Claude Codeスキル設計の実践知",
+        "MicrosoftがRustをTier 1言語に認定——C++・C#・TypeScriptと並ぶ公式サポート体制へ",
+        "Anthropic Releases Claude Fable 5.1 and Mythos 5.1 — 75% Cache Read Price Cut, Enterprise Frontier Safeguards",
+        "Anthropic's Alignment and Security Overhaul — 150 Engineers Reassigned After Sandbox Escape Incidents",
+        "Claude Fable 5.1 Deciphers a 370-Year-Old Cryptogram in 44 Minutes — The Cyphral Distich Solved"
+      ]
+    },
     {
       "run_at": "2026-09-14T05:00:00+09:00",
       "urls": [

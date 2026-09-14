@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-14T15:00:00+09:00",
+  "last_run_at": "2026-09-14T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-14T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026091400591&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091400117&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091400612&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091400870&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=20260914049351a&g=afp&m=rss",
+        "https://zenn.dev/k_motoki/articles/ef60bbbc0ad7ec",
+        "https://monoist.itmedia.co.jp/mn/articles/2609/14/news041.html",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2609/14/news037.html",
+        "https://www.langchain.com/blog/paid-media-agent",
+        "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+        "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics"
+      ],
+      "titles": [
+        "ロシアが国際列車を無人機で攻撃——元英首相ジョンソン氏ら間一髪で難を逃れる",
+        "浜岡原発のデータ不正で調査報告書公表——管理体制の根本的欠陥を指摘",
+        "北京がドローン所持を全面禁止——11月15日から、違反者の機体は当局が回収",
+        "東日本大震災の無償住宅めぐる訴訟——最高裁が被災者の上告を棄却、約820万円の支払い確定",
+        "セリーヌ・ディオンさんがパリで感動の復帰ライブ——6年ぶりの舞台、スタンディングオベーション",
+        "ローカルLLMコードレビューの続報——沈黙の失敗を解剖、5つのバグを修正して再設計",
+        "日立がHMAXに「AIオーケストレーション技術」を発表——複数エージェントで部門間サプライチェーンを自動調整",
+        "GitHubが「AI時代の10用語」を整理——FDE・ハーネス・オープンウェイトなど現場で飛び交う言葉を解説",
+        "How LangChain Built a Production Paid Media Agent — A Deep-Dive into Multi-Agent Architecture for Real Business Workflows",
+        "commit-rewriter 0.1 — Simon Willison Releases AI-Assisted Git History Cleanup Tool for Publishing Private Repo Commits",
+        "GitHub Adds VS Code Agents Window to Copilot Usage Metrics — Enterprise Teams Can Now Track Agent Adoption Separately"
+      ]
+    },
     {
       "run_at": "2026-09-14T15:00:00+09:00",
       "urls": [

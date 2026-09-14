@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-15T00:00:00+09:00",
+  "last_run_at": "2026-09-15T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-15T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026091401108&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091401025&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6595293?source=rss",
+        "https://news.yahoo.co.jp/pickup/6595303?source=rss",
+        "https://www.jiji.com/jc/article?k=2026091400799&g=int&m=rss",
+        "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
+        "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
+        "https://zenn.dev/aws_japan/articles/lambda-90-minutes-timeout",
+        "https://www.anthropic.com/threat-intelligence-report-september-2026",
+        "https://andonlabs.com/blog/why-we-built-pion",
+        "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit"
+      ],
+      "titles": [
+        "米長期金利が5%を突破——3年ぶりの水準、原油高とインフレ懸念が引き金",
+        "フーシ派がサウジアラビアの空軍基地を攻撃——空爆への報復と主張、紅海の緊張さらに高まる",
+        "タイが日本人へのビザなし滞在期間を60日から30日に短縮——9月15日から適用",
+        "女優・中村ゆりさんが死去——直腸がんで44歳、「YURIMARI」のMARIが悼む",
+        "フィリピン南部バンサモロ自治区で初の議会選——60年の紛争を経て、真の自治へ",
+        "GitHub CopilotのAI自動モデル選択でコスト・品質のバランスを3段階設定——「Efficiency」「Balance」「Intelligence」で用途別に最適化",
+        "AI開発の「減速論」は現実的か——業界リーダーが第三者監視を訴え、加速競争への警鐘",
+        "AWS LambdaのタイムアウトがついにMaximum 90分に——Lambda Managed Instances活用で長時間処理が現実的に",
+        "Anthropic's September 2026 Threat Intelligence Report — AI Misuse by State Actors and Criminals Is Industrializing",
+        "Pion by Andon Labs — An Autonomous Agent Platform That Runs Real Businesses End-to-End",
+        "Why ML Research Agents Don't Overfit: The Compression Principle Behind Generalizable AI Strategies"
+      ]
+    },
     {
       "run_at": "2026-09-15T00:00:00+09:00",
       "urls": [

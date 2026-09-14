@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-14T20:00:00+09:00",
+  "last_run_at": "2026-09-15T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-15T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026091400124&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091400923&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091400912&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091400985&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6595298?source=rss",
+        "https://www.publickey1.jp/blog/26/anthropicmcpmcpagntconmcpcon_japan_2026.html",
+        "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
+        "https://zenn.dev/ml_bear/articles/e5cc1047cba176",
+        "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+        "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
+        "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/"
+      ],
+      "titles": [
+        "沖縄知事選で古謝氏が大差で初当選——自民系が12年ぶりに県政を奪還、出口調査では前回玉城票の3割が流出",
+        "中国が米AI開発減速論を「冷戦の戦術」と批判——「対立をあおる行為」と強く反発",
+        "なでしこジャパン、名古屋アジア大会で8得点圧勝発進——タイを完封し首位通過へ視界良好",
+        "ウクライナ検事総長を汚職関与疑惑で解任へ——本人は否定も、議会が手続き開始",
+        "光通信がレオパレス21にTOBを実施——取得価格は約1000億円規模、不動産事業の強化が狙い",
+        "AnthropicのMCP共同作者が東京で基調講演——今後12カ月の3大注力領域「長期タスク・Skills over MCP・エージェント認可」を語る",
+        "Linux Foundation傘下のAgentic AI FoundationがAgent Router 1.1を公開——OpenAI・Anthropic・Bedrockなど10以上のAPIを単一エンドポイントに統合",
+        "LLMトークン効率化で気をつけたいこと——キャッシュ設計・モデル選択・ツール整理の3層アプローチ",
+        "Apple's Siri Can Be Swapped Out for Claude or ChatGPT at the System Level, iOS 27 Code Shows",
+        "Temporal Raises $550M Series E at $12.55B Valuation — Durable Execution Becomes the Infrastructure Layer for Long-Running AI Agents",
+        "Simon Willison: \"So You Want to Use OpenRouter?\" — A Practical Guide to Provider Inconsistency and How to Tame It"
+      ]
+    },
     {
       "run_at": "2026-09-14T20:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "Anthropic Previews the Model Hardware Standard — A Shared Spec for AI Agents to Control Physical Devices",
         "AgentsDock: A Cross-Platform IDE for Managing Multiple AI Agents and Remote Servers",
         "Datasette Security Releases 1.0a39 and 0.65.4 — AI-Assisted Audit with Claude Fable 5.1 Surfaces Subtle Bugs"
-      ]
-    },
-    {
-      "run_at": "2026-09-13T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091300147&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091300173&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091200287&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091200101&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2609/10/2000001335/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2609/13/news005.html",
-        "https://zenn.dev/mediba/articles/7d0d7d70678546",
-        "https://zenn.dev/dress_code/articles/5dd5de5020d9ef",
-        "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-        "https://eiln.github.io/posts/ane-dma.html",
-        "https://lucumr.pocoo.org/2026/9/12/pdoom/"
-      ],
-      "titles": [
-        "沖縄知事選が投票中——辺野古移設をめぐる激戦、高市政権にも影響か",
-        "北口榛花が68m92の日本新記録を樹立——パリ五輪後の完全復活を証明",
-        "対ロシア外交で守勢に立つ日本——プーチン択捉訪問1カ月、有効な対抗策なく",
-        "解体した中道改革連合、交付金11億円を受領へ——「身勝手」と批判相次ぐ",
-        "「iPhone Duo」と「iPhone 18」が発表——折りたたみスマホと超高価格帯が話題に",
-        "AIコーディングのROIは14%しか確認されていない——トークン浪費対策とAIコスト管理の全体像",
-        "Claude CodeでNuxt→Next移行——「理解負債」という新概念が問う人間のコード理解責任",
-        "テスト実行時間を6割削減——Vitest + NestJS環境での体系的パフォーマンス改善レポート",
-        "Why Are AI Agents Lying, Cheating and Coordinating? — Yoshua Bengio's Warning on Emergent Misalignment",
-        "Getting 50 GB/s Back from the Apple Neural Engine — Reverse-Engineered DMA Bug Triples LLM Inference Speed",
-        "P(doom) and the Open-Source Case — Why AI \"Pacing\" Concentrates Risk Rather Than Distributing It"
-      ]
-    },
-    {
-      "run_at": "2026-09-13T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091300147&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091300118&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091300142&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091200492&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091200299&g=int&m=rss",
-        "https://zenn.dev/peoplex_blog/articles/65768c769de4b0",
-        "https://zenn.dev/gemcook/articles/herdr-worktree-parallel",
-        "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
-        "https://withspecific.com/benchmarks/real-swe",
-        "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-        "https://simonwillison.net/2026/Sep/12/astra-running-routes/"
-      ],
-      "titles": [
-        "沖縄知事選が投票日を迎える——辺野古移設と経済振興が最大争点、全国的な注目も集まる",
-        "ベネチア映画祭で是枝・塚本・三池監督が受賞——最高賞はデンマーク作品に",
-        "北口榛花が68m92の日本新記録——ブダペストのアルティメット選手権で優勝",
-        "フーシ派が米国への不介入を要請——トランプ大統領が対話の可能性に言及",
-        "AI開発で米国の「囲い込み」戦略が揺らぐ——中国の猛追と蒸留問題が浮上",
-        "GPT-6 Astraのasync tool callingとmid-turn steeringを実測——名前通りに動かない2機能の真相",
-        "Herdr × git worktree × Claude Codeの相性が抜群——並列エージェント開発の新ワークフロー",
-        "AnthropicのアモデイCEOがAI開発の「ペース調整」を訴える——アルトマン氏・マスク氏も賛同",
-        "Real-SWE: Benchmarking AI Coding Agents on Private, Real-World Enterprise Codebases",
-        "GitHub Releases AI Scan for Pull Request APIs — Programmatic Security Rollout for Enterprises",
-        "GPT-6 Astra Generates Running Routes via OSM — But Code Auditability Remains a Blind Spot"
-      ]
-    },
-    {
-      "run_at": "2026-09-13T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6595098",
-        "https://news.yahoo.co.jp/pickup/6595097",
-        "https://news.yahoo.co.jp/pickup/6595093",
-        "https://www.jiji.com/jc/article?k=2026091200302&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6595086",
-        "https://zenn.dev/maronsan/articles/nenpi-residency-cost",
-        "https://zenn.dev/menmen_ailab/articles/bc7813e20eb66e",
-        "https://zenn.dev/xtm_blog/articles/689d035440c0ae",
-        "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
-        "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-        "https://www.latent.space/p/forward-deployed-engineer-best-practices"
-      ],
-      "titles": [
-        "対米投資第3弾、次世代原発の建設が有力候補に浮上",
-        "米利上げ観測が再び高まる——インフレ指標の高止まりで市場が警戒",
-        "「時給100円」ブラックインターン問題が表面化——学生が無償に近い形で搾取される実態",
-        "BRICS首脳がイラン情勢に「最大限の自制」求める共同宣言を採択",
-        "元櫻坂46・渡辺梨加が第1子妊娠を発表——ファンに感謝のメッセージ",
-        "Claude Codeの請求の8割は「居座り続けた出力」だった——トークン効率化の盲点を解剖",
-        "AIエージェントに「社内用語禁止」を守らせる——設定ファイルより「送信直前チェック」が効いた",
-        "なぜエージェントハーネスで開発パイプラインを作っているのか——仕様書→コードの自動化と人間レビューの限界",
-        "DeepSeek v4.1-Flash: Novel 763B Causal Encoder-Decoder Architecture Marks Return of the Whale",
-        "Nvidia Is the Central Bank of AI — The Economist on Compute Power as Reserve Currency",
-        "The Rise of the Forward Deployed Engineer — Embedding Software Engineers Inside Customer Teams"
-      ]
-    },
-    {
-      "run_at": "2026-09-13T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091200458&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091200308&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091200294&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091200402&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6595083",
-        "https://zenn.dev/tsutomusaito/articles/subagent-does-more-work-ja",
-        "https://zenn.dev/tashikani/articles/openai-agents-api-2026",
-        "https://zenn.dev/ytka/articles/a5347bdd6bf505",
-        "https://darioamodei.com/post/we-must-pace-the-frontier",
-        "https://www.anthropic.com/threat-intelligence-report-september-2026",
-        "https://www.publickey1.jp/blog/26/net_11netaot.html"
-      ],
-      "titles": [
-        "北朝鮮体育相、名古屋アジア大会に合わせ来日へ――現職閣僚として約8年ぶり",
-        "習近平主席が7年ぶりにインド訪問――モディ首相と会談、両国関係の正常化を模索",
-        "米FRBが3年ぶりの利上げへ――インフレ再燃で15・16日に政策決定会合",
-        "バレーボール男子日本代表が決勝進出――韓国を下し、五輪出場権獲得へあと1勝",
-        "MUFGが富裕層囲い込みを本格化――預金3000万円超の顧客にアメックスプラチナを永年無料提供",
-        "ツール呼び出しの55.5%はサブエージェントが出していた――画面に見えているのは半分以下だった",
-        "OpenAIが「Codexの頭脳」を全開発者に開放――新API「Agents API」で長時間稼働エージェントが誰でも作れる時代へ",
-        "コーディングエージェントの時代におけるレビューのあり方とは――大量のAI生成コードを人間はどう扱うか",
-        "Dario Amodei: We Must Pace the Frontier — A Framework for Safe AI Development Without Halting Progress",
-        "Anthropic Threat Intelligence Report: AI Now Democratizes State-Level Cyberattacks for Individual Actors",
-        ".NET 11 Release Candidate: Async-Native Runtime, Unlimited Processors, AOT Speed Jump"
       ]
     }
   ]

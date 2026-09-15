@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-15T20:00:00+09:00",
+  "last_run_at": "2026-09-16T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-16T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026091501111&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091501138&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6595403?source=rss",
+        "https://news.yahoo.co.jp/pickup/6595405?source=rss",
+        "https://www.jiji.com/jc/article?k=2026091501057&g=int&m=rss",
+        "https://zenn.dev/tsutomusaito/articles/subagent-report-verification-ja",
+        "https://zenn.dev/aws_japan/articles/kiro-crew-0-6-control-plane",
+        "https://zenn.dev/2_daiki_ando/articles/53c34e071b5d69",
+        "https://www.anthropic.com/news/claude-fable-and-mythos-5-1",
+        "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
+        "https://www.publickey1.jp/blog/26/rustcctstier_1.html"
+      ],
+      "titles": [
+        "外国人による土地取得データを政府が初公表——転売目的30%、中国・香港系が半数超",
+        "米国防総省監察官報告——イラン作戦で深刻な弾薬不足、330億ドル超の消耗が明らかに",
+        "シルバーウィーク前に台風接近の恐れ——16日にかけ全国的に雨が強まる予報",
+        "鳥取・県立中央病院でECMO付け替えミス——70代男性が死亡、酸素供給が約20分停止",
+        "東京出身のヒロ・ムライ監督がエミー賞コメディ部門監督賞を受賞——アジア系として史上初",
+        "サブエージェントは3,093件のツール結果を読み、親には1件も渡さない——委任の検証不能性を定量化",
+        "Kiro Crew 0.6.0 がエージェントのコントロールプレーンへ——実行先・バックエンド・ワーカーを自由に選択",
+        "仕様と実装を同じ言葉で書く——責務を機械的に突合し、AIと共に検証し続けるフロントエンド開発",
+        "Anthropic Introduces Claude Fable 5.1 and Claude Mythos 5.1 — Most Advanced Models for Coding and Scientific Research",
+        "Tailscale Aperture Goes GA — AI Gateway for VPN Networks with MCP Proxying and Agent-Controlled Network Operations",
+        "Microsoft Elevates Rust to Tier 1 Language Alongside C++, C#, and TypeScript with Custom Windows-Native Compiler Backend"
+      ]
+    },
     {
       "run_at": "2026-09-15T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "How LangChain Built a Production Paid Media Agent — A Deep-Dive into Multi-Agent Architecture for Real Business Workflows",
         "commit-rewriter 0.1 — Simon Willison Releases AI-Assisted Git History Cleanup Tool for Publishing Private Repo Commits",
         "GitHub Adds VS Code Agents Window to Copilot Usage Metrics — Enterprise Teams Can Now Track Agent Adoption Separately"
-      ]
-    },
-    {
-      "run_at": "2026-09-14T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091400490&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6595258?source=rss",
-        "https://www.jiji.com/jc/article?k=2026091400209&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091400332&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6595256?source=rss",
-        "https://zenn.dev/shimpeiws/articles/a12aed38b9d8ea",
-        "https://zenn.dev/cyberbose/articles/enterprise-view",
-        "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-        "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-        "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-        "https://www.interconnects.ai/p/open-source-ai-reading-list"
-      ],
-      "titles": [
-        "松原のぶえさんが死去——昭和を代表する演歌歌手、享年73",
-        "浜岡原発が再稼働申請を取り下げ——中部電力、データ不正問題で対応を迫られる",
-        "スウェーデン総選挙で左派野党がリード——極右は失速、政権交代の可能性浮上",
-        "高市首相、内閣改造で維新幹事長の入閣を調整——村井氏を国対委員長に起用へ",
-        "ロマンスカーとコンバインが衝突——踏切事故で列車が緊急停車、乗客に怪我なし",
-        "AIエージェントを「隔離して測る」——yuurei、Claude CodeとCodexの実行環境を分離するCLIツール",
-        "エンプラおじさんが語るAI駆動開発の現在地——生産性向上とインシデント増加の「明暗」",
-        "GitHub Copilotのコードレビューが大幅強化——自動解決・アンサンブル分析で高severity検出が47%増",
-        "Reverse-Engineering Claude Web's MicroVM: Anthropic's Hidden Antspace Platform Uncovered",
-        "GitHub Copilot Code Review Gets Ensemble AI and Auto-Resolution — High-Severity Bug Detection Jumps 47%",
-        "The Definitive Open-Source AI Reading List — Chinese Labs, Distillation Debates, and the 4-6 Month Frontier Gap"
       ]
     }
   ]

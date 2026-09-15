@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-16T00:00:00+09:00",
+  "last_run_at": "2026-09-16T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-16T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6595421",
+        "https://news.yahoo.co.jp/pickup/6595407",
+        "https://www.jiji.com/jc/article?k=2026091500944&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6595415",
+        "https://news.yahoo.co.jp/pickup/6595422",
+        "https://zenn.dev/tomatomerde/articles/semantic-conflicts-outside-code",
+        "https://zenn.dev/1amageek/articles/agent-sandbox-environment",
+        "https://zenn.dev/gemcook/articles/try-skillspector-agent-skills-security",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+        "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+        "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster"
+      ],
+      "titles": [
+        "墜落推定の無人機 空自「任務中」——航空自衛隊グローバルホークが鳥取沖に消失",
+        "マンションで5歳死亡 転落経緯は——東京北区の高層マンションでベランダから",
+        "陸自のマルウエア感染USB、隊員が持ち込み　入手経緯不明、調査結果公表",
+        "森衆院議長がウクライナ議会で演説——ロシアの蛮行「対岸の火事ではない」",
+        "福岡県議がパリで1人20万円の公費夕食——知事が第三者委設置を表明",
+        "Claude Codeを複数同時に動かすなら、CLAUDE.mdにこの2つを貼っておく——並列エージェントの競合を防ぐgit同期パターン",
+        "エージェントの実力を引き出す、サンドボックスの設計——コマンドブロックリストではなくカーネル境界で制御する",
+        "NVIDIAが公開したSkillSpectorでClaude agent skillsの安全性を試してみた——静的解析でプロンプトインジェクションを検出",
+        "Google Launches Gemini 3.8 Live and 3.8 Live Extended Thinking — Real-Time Voice AI with Simultaneous Reasoning",
+        "GitHub Copilot Code Review Gets Auto-Resolution and Shell Tool Access — 47% More High-Severity Findings at Lower Cost",
+        "America's Driver's License Breach Is a National Security Disaster — 153M Records, Including Government Officials, Leaked via IDScan"
+      ]
+    },
     {
       "run_at": "2026-09-16T00:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-15T05:00:00+09:00",
+  "last_run_at": "2026-09-15T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-15T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026091500107&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091500172&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6595322?source=rss",
+        "https://news.yahoo.co.jp/pickup/6595324?source=rss",
+        "https://www.jiji.com/jc/article?k=2026091500139&g=int&m=rss",
+        "https://zenn.dev/activecore/articles/claude-code-mention-to-task",
+        "https://zenn.dev/takuyaauto/articles/dc7d74857273d7",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news013.html",
+        "https://kn.itmedia.co.jp/kn/article/2609/15/2000001459/",
+        "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+        "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/"
+      ],
+      "titles": [
+        "ロ・ウクライナ、エネルギー施設への攻撃停止で「同意」——トランプ氏が発表、双方が条件付き支持",
+        "米長期金利が一時5%超え——原油高と利上げ観測が重なり、3年ぶりの高水準",
+        "マンション浸水、地下設備が弱点に——千葉の豪雨で13棟が停電・断水、復旧費用は1棟2000万円規模",
+        "山形・酒田の6歳男児が行方不明10日——公園が最後の目撃地点、捜索続く",
+        "タイ選管、上院議員選挙の不正疑惑で現職26人の職務停止申し立てへ——最高裁が受理すれば即時効力",
+        "Claude Codeのhookは外部通知で動かない——Slack・Backlog・Linearのメンション検知を2段階ポーリングで解決した話",
+        "Claude Code×Playwright MCPで実ブラウザを自動操作するときの罠12個と対処——日本語入力・React/ProseMirrorエディタ・Chrome拡張まで網羅",
+        ".envのAPIキーがAIエージェントを「内通者」に変える——MCP 53%が認証情報をハードコード、組織のセキュリティ設計を根本から問い直す",
+        "Google GTIG: Attackers Shift from 'Stealing AI' to 'Running AI' — Autonomous Multi-Agent Attack Frameworks Now Deployed in the Wild",
+        "GitHub AI Scan for Pull Request APIs Now in Public Preview — Programmatic Control of AI-Powered Security Scanning at Scale",
+        "Notes on Migrating 35kb Preprompts from Claude/OpenAI to Self-Hosted Ollama — Context Exhaustion, Prompt Architecture, and the Hidden Cost of Big-Context APIs"
+      ]
+    },
     {
       "run_at": "2026-09-15T05:00:00+09:00",
       "urls": [

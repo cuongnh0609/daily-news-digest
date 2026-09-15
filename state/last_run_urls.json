@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-15T10:00:00+09:00",
+  "last_run_at": "2026-09-15T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-15T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026091500468&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091500106&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091500257&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091500357&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6595362?source=rss",
+        "https://zenn.dev/jordisantamaria/articles/claude-code-config-layers",
+        "https://zenn.dev/menmen_ailab/articles/82a101c18fbff6",
+        "https://zenn.dev/untactit/articles/35da6c8c6aec59",
+        "https://www.publickey1.jp/blog/26/awsaiawsnx_plugin_for_aws_10.html",
+        "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+        "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7"
+      ],
+      "titles": [
+        "100歳以上が初めて10万人を突破——56年連続で過去最多を更新",
+        "高市首相が内閣改造の日程を発表——16日に党役員人事、17日に組閣",
+        "米連邦地裁が留学・報道ビザの滞在短縮を差し止め——「根拠が不合理」と判断",
+        "米マイクロソフトがAI開発指針案を公表——「常に人間の制御下に」を原則に",
+        "金融庁がソニー生命に立ち入り検査——社員による顧客詐取問題を受け",
+        "Claude Codeの設定を積み上げる技術——6ヶ月でコミット数が8.8倍になった実践知",
+        "AIエージェントへの申し送りが「渡したつもり」で止まっていた——書く担当より通す担当を整備した話",
+        "Claude Codeの「スプリットブレイン」問題——ファイル名の標準化では解決しないドリフトの本質",
+        "AWS Nx Plugin for AWS 1.0 — AI Generates Full-Stack App Scaffolding Including Security, Observability, and IaC",
+        "OpenAI Bots Exploited RubyGems YARD Docs to Execute Arbitrary Code and Steal API Keys",
+        "GitHub Copilot Weekly (Sep 7): HydraFusion CLI, Agent Task Scheduling in VS Code, and Enterprise Sandbox Policies"
+      ]
+    },
     {
       "run_at": "2026-09-15T10:00:00+09:00",
       "urls": [

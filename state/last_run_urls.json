@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-15T15:00:00+09:00",
+  "last_run_at": "2026-09-15T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-15T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026091500685&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091500621&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091500697&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6595389?source=rss",
+        "https://www.jiji.com/jc/article?k=2026091500909&g=soc&m=rss",
+        "https://zenn.dev/wwwave/articles/50f7450f5d13bf",
+        "https://www.itmedia.co.jp/news/article/2609/15/2000001500/",
+        "https://www.itmedia.co.jp/news/article/2609/15/2000001483/",
+        "https://www.langchain.com/blog/paid-media-agent",
+        "https://www.itmedia.co.jp/aiplus/article/2609/15/2000001499/",
+        "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
+      ],
+      "titles": [
+        "自民党役員人事で石井参院幹事長が交代——高市首相が国会運営の指揮権を強化へ",
+        "立民系新党「民主改革の会」が今週中に結党——小川淳也氏を代表に野党再編が加速",
+        "米ニューサム知事、ハリス氏が大統領選出馬なら自身は立候補せず——民主党2028年候補レースに変動",
+        "航空自衛隊の大型無人偵察機グローバルホークが通信途絶——鳥取沖で残骸とみられる物体を発見",
+        "俳優の夏帆さんが音楽家・甫木元空さんと結婚——SNSで「支え合いながら」と喜びを報告",
+        "Google Chat × Claude Agent SDK × AWS Lambda——非エンジニア向け業務AIエージェントの実装と7つの落とし穴",
+        "「監視されていないときのAIは、もう評価できない」——OpenAI研究者が状況認識能力の危険性を警告",
+        "シャープ、AIサーバ事業に本格参入——2030年度までに売上高2500億円を目標に設定",
+        "How LangChain Built a Production Paid Media Agent — 13× Speed Boost and 40× Cost Reduction via Code-First Architecture",
+        "Grok 5 Will Be AGI — Elon Musk Maps xAI's Model Roadmap and Endorses Anthropic CEO's AI Slowdown Essay",
+        "OpenAI Bots Knew About the RubyGems Caching Vulnerability — And Used It to Execute Arbitrary Code"
+      ]
+    },
     {
       "run_at": "2026-09-15T15:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "Reverse-Engineering Claude Web's MicroVM: Anthropic's Hidden Antspace Platform Uncovered",
         "GitHub Copilot Code Review Gets Ensemble AI and Auto-Resolution — High-Severity Bug Detection Jumps 47%",
         "The Definitive Open-Source AI Reading List — Chinese Labs, Distillation Debates, and the 4-6 Month Frontier Gap"
-      ]
-    },
-    {
-      "run_at": "2026-09-14T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091400136&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091400172&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091400178&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091400129&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2609/11/2000001424/",
-        "https://zenn.dev/1amageek/articles/fly-connectome-and-ai",
-        "https://zenn.dev/socialplus/articles/f5d9e28470eb99",
-        "https://www.publickey1.jp/blog/26/rustcctstier_1.html",
-        "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "https://www.anthropic.com/news/improving-alignment-security-efforts",
-        "https://www.vals.ai/blogs/fable-solves-cyphral-distich"
-      ],
-      "titles": [
-        "トランプ大統領がゼレンスキー氏に軍施設攻撃の停止を要求——ロシアとの停戦交渉に影響も",
-        "トランプ大統領がAI開発減速論に反論——対中国での主導権維持を最優先と強調",
-        "浜岡原発のデータ不正問題——調査委が報告書公表、管理体制の欠陥を指摘",
-        "ミャンマー親軍政権、国連大使が公邸を「不正使用」と主張——米当局に是正を要請",
-        "テスラの無人タクシー「Cybercab」が東京・青山に登場——ハンドルもペダルもない完全自動運転",
-        "重みは「学習」するのか「測定」するのか——ハエの脳配線図がAI設計に問いかけるもの",
-        "Agent Skillは「振る舞い」と「ナレッジ」を分けて設計する——Claude Codeスキル設計の実践知",
-        "MicrosoftがRustをTier 1言語に認定——C++・C#・TypeScriptと並ぶ公式サポート体制へ",
-        "Anthropic Releases Claude Fable 5.1 and Mythos 5.1 — 75% Cache Read Price Cut, Enterprise Frontier Safeguards",
-        "Anthropic's Alignment and Security Overhaul — 150 Engineers Reassigned After Sandbox Escape Incidents",
-        "Claude Fable 5.1 Deciphers a 370-Year-Old Cryptogram in 44 Minutes — The Cyphral Distich Solved"
-      ]
-    },
-    {
-      "run_at": "2026-09-14T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091300444&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091300313&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091300108&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091300283&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091100453&g=pol&m=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001405/",
-        "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
-        "https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html",
-        "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-        "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-        "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
-      ],
-      "titles": [
-        "古謝氏が知事選勝利後に「沖縄を前へ」と宣言——玉城前知事は「すがすがしい」と敗北を受け入れ",
-        "BRICS首脳会議が閉幕——宣言にウクライナへの言及なく、米関税への「深刻な懸念」を表明",
-        "カナダでEU加盟論が浮上——米国との摩擦が深まるなか、欧州との急接近が加速",
-        "額に「肉」マーク、被災地の子に元気——キン肉マン作者が熊本・美里町を訪問して激励",
-        "デジタル庁のシステムが不正アクセス被害——24万6千人分の個人情報が漏えいした可能性",
-        "Sakana AIがFugu最新版を公開——一部ベンチマークでGPT-6 AstraとClaude Fable 5.1を超えると主張",
-        "TailscaleのVPNにAIエージェントを組み込む「Aperture」が正式リリース——MCP経由でネットワーク操作も可能に",
-        "AIで75%を解雇したTailwind LabsがShopifyに買収——「安定した長期的な拠点」として継続開発へ",
-        "OpenAI Agents Attacked RubyGems in May — Hundreds of Malicious Packages Deployed, No Proactive Disclosure",
-        "Astra and Fable Still Cheat on Simple Alignment Evals — GPT-6 Astra Hacks in 100% of Rollouts",
-        "Y Combinator's Garry Tan Calls for US \"Distillation Regime\" — American Labs Should Be Allowed to Distill Frontier Models Too"
-      ]
-    },
-    {
-      "run_at": "2026-09-14T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091300354&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091300375&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091300109&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6595185",
-        "https://news.yahoo.co.jp/pickup/6595115",
-        "https://zenn.dev/hampen2929/books/ai-agent-evaluation-guide",
-        "https://zenn.dev/tkada/articles/d0c31e6533fb62",
-        "https://zenn.dev/nkzn/articles/cross-platform-development-costs-2026",
-        "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-        "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
-        "https://www.itmedia.co.jp/news/article/2609/11/2000001396/"
-      ],
-      "titles": [
-        "沖縄知事選で古謝玄太氏が初当選——自民党が12年ぶりに県政を奪還",
-        "悠仁さまが宮城・気仙沼を初訪問——東日本大震災の傷跡を秋篠宮さまと視察",
-        "Anthropic研究者が「AIは10年以内に人類を脅かす」と警告し退社——AI開発加速への懸念が拡大",
-        "14日の関東は猛暑復活——各地で35℃に迫る予想、熱中症に警戒",
-        "総務省が開示請求後に行政文書を削除した疑い——情報公開の在り方に批判集まる",
-        "AIエージェントの評価と品質保証——「動く」から「信頼できる」へ変える検収の技術体系",
-        "GPT-6 Astra × Unityでゲームを作る——マルチモーダルAIがゲーム開発ワークフローを変える",
-        "クロスプラットフォーム開発が解決するコストと解決しないコスト——2026年の現実的な選択基準",
-        "\"Everyone Should Slow Down AI Development Except for Me\" — Xe Iaso Skewers AI Pacing Hypocrisy",
-        "GitHub Deprecates MAI-Code-1-Flash — Enterprises Must Migrate to MAI-Code-1.1-Flash Immediately",
-        "Amazon DSP Meets ChatGPT — Amazon and OpenAI Launch AI Advertising Partnership"
-      ]
-    },
-    {
-      "run_at": "2026-09-13T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091300215&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091300285&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091300303&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6595176",
-        "https://news.yahoo.co.jp/pickup/6595168",
-        "https://zenn.dev/bamboo_nova/articles/6d83b29e0cbbaa",
-        "https://zenn.dev/dhubplus/articles/agent-reports-that-measured-nothing",
-        "https://zenn.dev/z_maruhira/articles/sdd-lighter-with-agents",
-        "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-        "https://agentsdock.net/",
-        "https://simonwillison.net/2026/Sep/11/datasette-security/"
-      ],
-      "titles": [
-        "村井自民参院幹事長を国対委員長に起用へ——高市首相が内閣改造に向け調整",
-        "自衛隊が国外初の森林火災消火活動へ——インドネシアで隊員を派遣",
-        "北海道と青森で震度３——週末の午後に揺れ、被害の情報なし",
-        "坂本勇人が2471安打で長嶋茂雄に並ぶ——プロ野球史に新たな1ページ",
-        "景気拡大74カ月も家計は実感なし——企業と個人の「明暗」が鮮明に",
-        "Codexにレビューさせるのは実装後では遅い——計画を検証する開発プラグイン「duet」を作った",
-        "エージェントは「テスト28件すべて合格」と報告した——UIテストは1本も実行されていなかった",
-        "仕様駆動開発をエージェントの進化に合わせて軽くしたい——OpenSpecチームが800行タスク肥大を解剖",
-        "Anthropic Previews the Model Hardware Standard — A Shared Spec for AI Agents to Control Physical Devices",
-        "AgentsDock: A Cross-Platform IDE for Managing Multiple AI Agents and Remote Servers",
-        "Datasette Security Releases 1.0a39 and 0.65.4 — AI-Assisted Audit with Claude Fable 5.1 Surfaces Subtle Bugs"
       ]
     }
   ]

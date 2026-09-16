@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-16T20:00:00+09:00",
+  "last_run_at": "2026-09-17T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-17T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6595529",
+        "https://news.yahoo.co.jp/pickup/6595520",
+        "https://news.yahoo.co.jp/pickup/6595522",
+        "https://news.yahoo.co.jp/pickup/6595521",
+        "https://news.yahoo.co.jp/pickup/6595526",
+        "https://zenn.dev/sactechnologies/articles/d990489b0e759d",
+        "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
+        "https://zenn.dev/vesslabs/articles/36cc6d6ade0976",
+        "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+        "https://mistral.ai/news/mistral-x-mozilla/",
+        "https://security.apple.com/blog/apple-reference-image/"
+      ],
+      "titles": [
+        "台風25号が発生、シルバーウィークに北上しながら発達か",
+        "よど号ハイジャック事件の赤木志郎容疑者が北朝鮮で死亡か",
+        "フィジーがHIV急拡大で非常事態宣言——成人60人に1人が感染",
+        "メルカリ株が1カ月で約3割急落——ポケモンカード規制が引き金に",
+        "画像共有サービス「Gyazo」に不正アクセス——2362万件の利用者情報が流出",
+        "Claude Codeのフックは「静かに死ぬ」——117本を監査したら12本が一度も呼ばれていなかった",
+        "DevinがmacOS仮想環境を提供開始——物理Mac不要でiOSアプリ開発からTestFlight配信まで",
+        "Claude CodeのOpenTelemetryで何が計測できるのか——トークン数・コスト・ツール呼び出しを可視化する",
+        "GitHub AI Scan Drops CodeQL Prerequisite — AI-Powered Security Scanning Now Available Broadly",
+        "Mistral and Mozilla Partner to Bring Open, Private, Multilingual AI Into Firefox",
+        "Apple Reference Image: Cryptographically Verified Photography to Counter AI-Generated Fakes"
+      ]
+    },
     {
       "run_at": "2026-09-16T20:00:00+09:00",
       "urls": [
@@ -173,151 +202,6 @@
         "How LangChain Built a Production Paid Media Agent — 13× Speed Boost and 40× Cost Reduction via Code-First Architecture",
         "Grok 5 Will Be AGI — Elon Musk Maps xAI's Model Roadmap and Endorses Anthropic CEO's AI Slowdown Essay",
         "OpenAI Bots Knew About the RubyGems Caching Vulnerability — And Used It to Execute Arbitrary Code"
-      ]
-    },
-    {
-      "run_at": "2026-09-15T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091500468&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091500106&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091500257&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091500357&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6595362?source=rss",
-        "https://zenn.dev/jordisantamaria/articles/claude-code-config-layers",
-        "https://zenn.dev/menmen_ailab/articles/82a101c18fbff6",
-        "https://zenn.dev/untactit/articles/35da6c8c6aec59",
-        "https://www.publickey1.jp/blog/26/awsaiawsnx_plugin_for_aws_10.html",
-        "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-        "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7"
-      ],
-      "titles": [
-        "100歳以上が初めて10万人を突破——56年連続で過去最多を更新",
-        "高市首相が内閣改造の日程を発表——16日に党役員人事、17日に組閣",
-        "米連邦地裁が留学・報道ビザの滞在短縮を差し止め——「根拠が不合理」と判断",
-        "米マイクロソフトがAI開発指針案を公表——「常に人間の制御下に」を原則に",
-        "金融庁がソニー生命に立ち入り検査——社員による顧客詐取問題を受け",
-        "Claude Codeの設定を積み上げる技術——6ヶ月でコミット数が8.8倍になった実践知",
-        "AIエージェントへの申し送りが「渡したつもり」で止まっていた——書く担当より通す担当を整備した話",
-        "Claude Codeの「スプリットブレイン」問題——ファイル名の標準化では解決しないドリフトの本質",
-        "AWS Nx Plugin for AWS 1.0 — AI Generates Full-Stack App Scaffolding Including Security, Observability, and IaC",
-        "OpenAI Bots Exploited RubyGems YARD Docs to Execute Arbitrary Code and Steal API Keys",
-        "GitHub Copilot Weekly (Sep 7): HydraFusion CLI, Agent Task Scheduling in VS Code, and Enterprise Sandbox Policies"
-      ]
-    },
-    {
-      "run_at": "2026-09-15T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091500107&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091500172&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6595322?source=rss",
-        "https://news.yahoo.co.jp/pickup/6595324?source=rss",
-        "https://www.jiji.com/jc/article?k=2026091500139&g=int&m=rss",
-        "https://zenn.dev/activecore/articles/claude-code-mention-to-task",
-        "https://zenn.dev/takuyaauto/articles/dc7d74857273d7",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news013.html",
-        "https://kn.itmedia.co.jp/kn/article/2609/15/2000001459/",
-        "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-        "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/"
-      ],
-      "titles": [
-        "ロ・ウクライナ、エネルギー施設への攻撃停止で「同意」——トランプ氏が発表、双方が条件付き支持",
-        "米長期金利が一時5%超え——原油高と利上げ観測が重なり、3年ぶりの高水準",
-        "マンション浸水、地下設備が弱点に——千葉の豪雨で13棟が停電・断水、復旧費用は1棟2000万円規模",
-        "山形・酒田の6歳男児が行方不明10日——公園が最後の目撃地点、捜索続く",
-        "タイ選管、上院議員選挙の不正疑惑で現職26人の職務停止申し立てへ——最高裁が受理すれば即時効力",
-        "Claude Codeのhookは外部通知で動かない——Slack・Backlog・Linearのメンション検知を2段階ポーリングで解決した話",
-        "Claude Code×Playwright MCPで実ブラウザを自動操作するときの罠12個と対処——日本語入力・React/ProseMirrorエディタ・Chrome拡張まで網羅",
-        ".envのAPIキーがAIエージェントを「内通者」に変える——MCP 53%が認証情報をハードコード、組織のセキュリティ設計を根本から問い直す",
-        "Google GTIG: Attackers Shift from 'Stealing AI' to 'Running AI' — Autonomous Multi-Agent Attack Frameworks Now Deployed in the Wild",
-        "GitHub AI Scan for Pull Request APIs Now in Public Preview — Programmatic Control of AI-Powered Security Scanning at Scale",
-        "Notes on Migrating 35kb Preprompts from Claude/OpenAI to Self-Hosted Ollama — Context Exhaustion, Prompt Architecture, and the Hidden Cost of Big-Context APIs"
-      ]
-    },
-    {
-      "run_at": "2026-09-15T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091401108&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091401025&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6595293?source=rss",
-        "https://news.yahoo.co.jp/pickup/6595303?source=rss",
-        "https://www.jiji.com/jc/article?k=2026091400799&g=int&m=rss",
-        "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
-        "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
-        "https://zenn.dev/aws_japan/articles/lambda-90-minutes-timeout",
-        "https://www.anthropic.com/threat-intelligence-report-september-2026",
-        "https://andonlabs.com/blog/why-we-built-pion",
-        "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit"
-      ],
-      "titles": [
-        "米長期金利が5%を突破——3年ぶりの水準、原油高とインフレ懸念が引き金",
-        "フーシ派がサウジアラビアの空軍基地を攻撃——空爆への報復と主張、紅海の緊張さらに高まる",
-        "タイが日本人へのビザなし滞在期間を60日から30日に短縮——9月15日から適用",
-        "女優・中村ゆりさんが死去——直腸がんで44歳、「YURIMARI」のMARIが悼む",
-        "フィリピン南部バンサモロ自治区で初の議会選——60年の紛争を経て、真の自治へ",
-        "GitHub CopilotのAI自動モデル選択でコスト・品質のバランスを3段階設定——「Efficiency」「Balance」「Intelligence」で用途別に最適化",
-        "AI開発の「減速論」は現実的か——業界リーダーが第三者監視を訴え、加速競争への警鐘",
-        "AWS LambdaのタイムアウトがついにMaximum 90分に——Lambda Managed Instances活用で長時間処理が現実的に",
-        "Anthropic's September 2026 Threat Intelligence Report — AI Misuse by State Actors and Criminals Is Industrializing",
-        "Pion by Andon Labs — An Autonomous Agent Platform That Runs Real Businesses End-to-End",
-        "Why ML Research Agents Don't Overfit: The Compression Principle Behind Generalizable AI Strategies"
-      ]
-    },
-    {
-      "run_at": "2026-09-15T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091400124&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091400923&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091400912&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091400985&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6595298?source=rss",
-        "https://www.publickey1.jp/blog/26/anthropicmcpmcpagntconmcpcon_japan_2026.html",
-        "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
-        "https://zenn.dev/ml_bear/articles/e5cc1047cba176",
-        "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-        "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
-        "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/"
-      ],
-      "titles": [
-        "沖縄知事選で古謝氏が大差で初当選——自民系が12年ぶりに県政を奪還、出口調査では前回玉城票の3割が流出",
-        "中国が米AI開発減速論を「冷戦の戦術」と批判——「対立をあおる行為」と強く反発",
-        "なでしこジャパン、名古屋アジア大会で8得点圧勝発進——タイを完封し首位通過へ視界良好",
-        "ウクライナ検事総長を汚職関与疑惑で解任へ——本人は否定も、議会が手続き開始",
-        "光通信がレオパレス21にTOBを実施——取得価格は約1000億円規模、不動産事業の強化が狙い",
-        "AnthropicのMCP共同作者が東京で基調講演——今後12カ月の3大注力領域「長期タスク・Skills over MCP・エージェント認可」を語る",
-        "Linux Foundation傘下のAgentic AI FoundationがAgent Router 1.1を公開——OpenAI・Anthropic・Bedrockなど10以上のAPIを単一エンドポイントに統合",
-        "LLMトークン効率化で気をつけたいこと——キャッシュ設計・モデル選択・ツール整理の3層アプローチ",
-        "Apple's Siri Can Be Swapped Out for Claude or ChatGPT at the System Level, iOS 27 Code Shows",
-        "Temporal Raises $550M Series E at $12.55B Valuation — Durable Execution Becomes the Infrastructure Layer for Long-Running AI Agents",
-        "Simon Willison: \"So You Want to Use OpenRouter?\" — A Practical Guide to Provider Inconsistency and How to Tame It"
-      ]
-    },
-    {
-      "run_at": "2026-09-14T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091400591&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091400117&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091400612&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091400870&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=20260914049351a&g=afp&m=rss",
-        "https://zenn.dev/k_motoki/articles/ef60bbbc0ad7ec",
-        "https://monoist.itmedia.co.jp/mn/articles/2609/14/news041.html",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2609/14/news037.html",
-        "https://www.langchain.com/blog/paid-media-agent",
-        "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
-        "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics"
-      ],
-      "titles": [
-        "ロシアが国際列車を無人機で攻撃——元英首相ジョンソン氏ら間一髪で難を逃れる",
-        "浜岡原発のデータ不正で調査報告書公表——管理体制の根本的欠陥を指摘",
-        "北京がドローン所持を全面禁止——11月15日から、違反者の機体は当局が回収",
-        "東日本大震災の無償住宅めぐる訴訟——最高裁が被災者の上告を棄却、約820万円の支払い確定",
-        "セリーヌ・ディオンさんがパリで感動の復帰ライブ——6年ぶりの舞台、スタンディングオベーション",
-        "ローカルLLMコードレビューの続報——沈黙の失敗を解剖、5つのバグを修正して再設計",
-        "日立がHMAXに「AIオーケストレーション技術」を発表——複数エージェントで部門間サプライチェーンを自動調整",
-        "GitHubが「AI時代の10用語」を整理——FDE・ハーネス・オープンウェイトなど現場で飛び交う言葉を解説",
-        "How LangChain Built a Production Paid Media Agent — A Deep-Dive into Multi-Agent Architecture for Real Business Workflows",
-        "commit-rewriter 0.1 — Simon Willison Releases AI-Assisted Git History Cleanup Tool for Publishing Private Repo Commits",
-        "GitHub Adds VS Code Agents Window to Copilot Usage Metrics — Enterprise Teams Can Now Track Agent Adoption Separately"
       ]
     }
   ]

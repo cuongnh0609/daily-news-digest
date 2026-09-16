@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-16T05:00:00+09:00",
+  "last_run_at": "2026-09-16T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-16T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6595434",
+        "https://news.yahoo.co.jp/pickup/6595432",
+        "https://news.yahoo.co.jp/pickup/6595442",
+        "https://www.jiji.com/jc/article?k=2026091600195&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091600224&g=int&m=rss",
+        "https://zenn.dev/vitaly_iva/articles/myc-local-memory-for-coding-agents",
+        "https://zenn.dev/orca_forge/articles/parallel-claude-code-sessions-teamwork",
+        "https://zenn.dev/yukihayama/articles/mcp-tool-design",
+        "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+        "https://simonwillison.net/2026/Sep/15/gemini-live/",
+        "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations"
+      ],
+      "titles": [
+        "東海・関東甲信で警報級の大雨おそれ — 前線南下で広範囲に影響",
+        "NTTドコモ、34万人分の個人情報をアマゾン日本法人に無断提供 — 設定ミスが原因",
+        "陸上自衛隊の個人情報収集問題 — 8月も「違法」と公益通報が相次ぐ",
+        "イスラエル・アラブ諸国・米国が異例の秘密軍事会議 — イラン対応で連携強化か",
+        "米中が週末に閣僚級協議へ — 首脳会談前にイラン制裁と貿易で最終調整",
+        "Claude Code が「決めたこと」を忘れない — 完全ローカル・APIキー不要のエージェント記憶レイヤー「myc」",
+        "Claude Codeを4セッション並列で運用したら「チーム開発」になった — 衝突事故を防ぐ7つのレシピ",
+        "MCPサーバーのツール設計 — AIに渡す「道具」の粒度と4つの設計原則",
+        "TypeSafe AI Launches Jev — A System One Model That Thinks in Types, Not Tokens",
+        "Simon Willison Builds Browser UI for Gemini 3.8 Live — Real-Time Voice AI with Parallel Thinking in Under 100 Lines",
+        "GitHub Advanced Security Gets Enterprise-Wide Enforcement — Org Admins Can No Longer Override Security Configs"
+      ]
+    },
     {
       "run_at": "2026-09-16T05:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-17T00:00:00+09:00",
+  "last_run_at": "2026-09-17T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-17T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026091700083&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091600667&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2609/16/2000001562/",
+        "https://www.itmedia.co.jp/news/article/2609/16/2000001559/",
+        "https://www.jiji.com/jc/article?k=2026091700002&g=int&m=rss",
+        "https://zenn.dev/hampen2929/books/ai-dev-team-guide",
+        "https://zenn.dev/nrs/articles/9ba91aea587bf5",
+        "https://www.publickey1.jp/blog/26/anthropicmcpmcpagntconmcpcon_japan_2026.html",
+        "https://claude.com/blog/cowork-is-now-claude",
+        "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
+        "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection"
+      ],
+      "titles": [
+        "米FRB、3年ぶりに利上げ——0.25%引き上げ、インフレ長期化を警戒",
+        "第2次高市改造内閣が17日発足——維新が初めて閣内協力へ",
+        "Salesforceで大規模障害——国内企業に「業務あきらめた」の悲鳴",
+        "NTTを名乗る電話からニセ警察へ——巧妙化する特殊詐欺、被害4割が「本物と信じた」",
+        "ヒト脳オルガノイドをマウスに移植して機能——米大学が世界初の成果",
+        "AI開発チームの作り方——マルチエージェント開発組織の設計と運用を体系化",
+        "バイブコーディングでGUIが壊れていく理由——設計パターンで構造を守る「魔法の言葉」",
+        "AnthropicのMCP共同著者がAGNTConで語る——毎月5億ダウンロードと「MCPタスク」構想",
+        "Anthropic Unifies Cowork and Chat into One Claude — Docs, Slides, and Long-Running Tasks Now Built In",
+        "Linux Foundation Standardizes \"Agent Router\" — One API Endpoint for All AI Vendors Including MCP Gateway",
+        "GitHub Copilot Adds Cost/Quality Tiers to Auto Model Selection — Three Optimization Modes for Every Budget"
+      ]
+    },
     {
       "run_at": "2026-09-17T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Introduces Claude Fable 5.1 and Claude Mythos 5.1 — Most Advanced Models for Coding and Scientific Research",
         "Tailscale Aperture Goes GA — AI Gateway for VPN Networks with MCP Proxying and Agent-Controlled Network Operations",
         "Microsoft Elevates Rust to Tier 1 Language Alongside C++, C#, and TypeScript with Custom Windows-Native Compiler Backend"
-      ]
-    },
-    {
-      "run_at": "2026-09-15T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091500685&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091500621&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091500697&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6595389?source=rss",
-        "https://www.jiji.com/jc/article?k=2026091500909&g=soc&m=rss",
-        "https://zenn.dev/wwwave/articles/50f7450f5d13bf",
-        "https://www.itmedia.co.jp/news/article/2609/15/2000001500/",
-        "https://www.itmedia.co.jp/news/article/2609/15/2000001483/",
-        "https://www.langchain.com/blog/paid-media-agent",
-        "https://www.itmedia.co.jp/aiplus/article/2609/15/2000001499/",
-        "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
-      ],
-      "titles": [
-        "自民党役員人事で石井参院幹事長が交代——高市首相が国会運営の指揮権を強化へ",
-        "立民系新党「民主改革の会」が今週中に結党——小川淳也氏を代表に野党再編が加速",
-        "米ニューサム知事、ハリス氏が大統領選出馬なら自身は立候補せず——民主党2028年候補レースに変動",
-        "航空自衛隊の大型無人偵察機グローバルホークが通信途絶——鳥取沖で残骸とみられる物体を発見",
-        "俳優の夏帆さんが音楽家・甫木元空さんと結婚——SNSで「支え合いながら」と喜びを報告",
-        "Google Chat × Claude Agent SDK × AWS Lambda——非エンジニア向け業務AIエージェントの実装と7つの落とし穴",
-        "「監視されていないときのAIは、もう評価できない」——OpenAI研究者が状況認識能力の危険性を警告",
-        "シャープ、AIサーバ事業に本格参入——2030年度までに売上高2500億円を目標に設定",
-        "How LangChain Built a Production Paid Media Agent — 13× Speed Boost and 40× Cost Reduction via Code-First Architecture",
-        "Grok 5 Will Be AGI — Elon Musk Maps xAI's Model Roadmap and Endorses Anthropic CEO's AI Slowdown Essay",
-        "OpenAI Bots Knew About the RubyGems Caching Vulnerability — And Used It to Execute Arbitrary Code"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-18T05:00:00+09:00",
+  "last_run_at": "2026-09-18T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-18T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6595660",
+        "https://www.jiji.com/jc/article?k=2026091800120&g=int",
+        "https://www.jiji.com/jc/article?k=2026091800192&g=int",
+        "https://www.jiji.com/jc/article?k=2026091800117&g=soc",
+        "https://www.itmedia.co.jp/news/article/2609/18/2000001600/",
+        "https://zenn.dev/sprix_it/articles/db685b8fd6bffe",
+        "https://zenn.dev/jtechjapan_pub/articles/deepseek-v41-vs-flash-next-m4max",
+        "https://www.publickey1.jp/blog/26/javaai.html",
+        "https://www.anthropic.com/research/measurements-for-ai-development",
+        "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+        "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/"
+      ],
+      "titles": [
+        "iPhone 18 Pro発売——21万9800円から、前モデル比4万円高の「過去最高価格」",
+        "習近平が23日に訪米——トランプが空軍基地で異例の出迎え、首脳会談は24日",
+        "トランプ政権、新関税発表を米中首脳会談後まで先送り——対立回避を優先",
+        "九州新幹線が52日ぶりに全線運行再開——熊本〜新水俣間が復旧、速度制限つきで通常9割",
+        "英チャールズ国王、AI首脳に「実存的危険」を警告——NVIDIA・OpenAI・Anthropic幹部らが集結",
+        "Claude Codeで18ヶ月かけて磨いたAI駆動開発フロー——人間の判断ポイントを2箇所に絞る",
+        "128GBのMacでDeepSeek V4.1 Flashを試したが、実開発にはFlash Next + oMLXを選択",
+        "OracleがJavaセキュリティパッチを月次提供へ——AIが脆弱性発見を加速させたことを理由に",
+        "Anthropic Publishes AI Development Pace Metrics — Claude Now Leads 26% of Internal R&D Work",
+        "GitHub Copilot Usage Metrics API Now Tracks Agentic CLI Customizations — MCP, Skills, Custom Agents",
+        "OpenAI Discloses Self-Generated Prompt Injections in Compaction Summaries During RL Training"
+      ]
+    },
     {
       "run_at": "2026-09-18T05:00:00+09:00",
       "urls": [
@@ -185,7 +214,7 @@
         "https://news.yahoo.co.jp/pickup/6595526",
         "https://zenn.dev/sactechnologies/articles/d990489b0e759d",
         "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
-        "https://zenn.dev/vesslabs/articles/36cc6d6ade0976",
+        "https://zenn.dev/vesslabs/articles/36cc6ade0976",
         "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
         "https://mistral.ai/news/mistral-x-mozilla/",
         "https://security.apple.com/blog/apple-reference-image/"
@@ -202,93 +231,6 @@
         "GitHub AI Scan Drops CodeQL Prerequisite — AI-Powered Security Scanning Now Available Broadly",
         "Mistral and Mozilla Partner to Bring Open, Private, Multilingual AI Into Firefox",
         "Apple Reference Image: Cryptographically Verified Photography to Counter AI-Generated Fakes"
-      ]
-    },
-    {
-      "run_at": "2026-09-16T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6595512",
-        "https://news.yahoo.co.jp/pickup/6595510",
-        "https://news.yahoo.co.jp/pickup/6595505",
-        "https://news.yahoo.co.jp/pickup/6595509",
-        "https://news.yahoo.co.jp/pickup/6595501",
-        "https://zenn.dev/yskms/articles/cbba4a752a9f07",
-        "https://zenn.dev/tenkei/articles/9f8921926bb003",
-        "https://www.itmedia.co.jp/news/article/2609/16/2000001551/",
-        "https://www.anthropic.com/news/improving-alignment-security-efforts",
-        "https://mnoukhov.github.io/posts/ngu/",
-        "https://dank.systems/posts/2026-09-15-ai-bear.html"
-      ],
-      "titles": [
-        "NHK会長、職員の飲酒問題受けガイドライン策定を検討――「業界慣行も見直す覚悟」",
-        "辺野古沖転覆事故から半年、運航団体が遺族に謝罪声明を公表",
-        "ジェンダーギャップ指数、日本は145カ国中117位――高市首相就任もG7最下位変わらず",
-        "10年前の性的暴行事件で52歳男を再逮捕――別件捜査から浮上した疑惑",
-        "赤い羽根募金でさらに7000万円の使途不明金――累計2億5000万円に拡大",
-        "AIに「誓わせる」のをやめて権限を剥奪した話――Claude Codeのパーミッション設計で本質的な制御を取り戻す",
-        "1日の開発フローをClaude Skillにしたら、想像以上に快適だった――GitHub IssueからPRまで全自動化の実践",
-        "DaVinci Resolve 21.1でAIエージェントが動画を自動編集――MCPサーバー経由でClaude/ChatGPTと連携",
-        "Anthropic Discloses Claude Sandbox Escapes and Redirects 150 Engineers to Security",
-        "Never Give Up (NGU): Solving the Matthew Effect in RL Training — Hard Problems Get More Compute, Not Less",
-        "Why I'm Still Bearish on LLMs After Navier-Stokes — The Specification Problem No One Talks About"
-      ]
-    },
-    {
-      "run_at": "2026-09-16T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091600359&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6595477?source=rss",
-        "https://news.yahoo.co.jp/pickup/6595490?source=rss",
-        "https://www.jiji.com/jc/article?k=2026091600102&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6595481?source=rss",
-        "https://zenn.dev/ruru_engineer/articles/ai-agent-framework-vs-harness-2026",
-        "https://zenn.dev/flagxs/articles/7a9178c94cc27b",
-        "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
-        "https://spectrum.ieee.org/inference-hardware-revolution",
-        "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-        "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions"
-      ],
-      "titles": [
-        "韓国地裁、北朝鮮に50億円の賠償命令――南北連絡事務所爆破で初の国家賠償判決",
-        "関東・東海で局地的な雷雨に注意――前線の影響で9月中旬に強雨のリスク",
-        "米ロサンゼルスでテレビ局のヘリコプターが墜落――乗員3人が死亡",
-        "自民党執行部が発足――高市首相、麻生・鈴木両氏続投で総裁選へ安定重視",
-        "産休中の京都・八幡市長が女児を出産――現職首長が産休取得、注目集まる",
-        "AIエージェントの「フレームワーク」と「ハーネス」はどう違うのか――LangGraph vs OpenHands に見る設計哲学の分岐点",
-        "Claude Code Meetup Japan #7 参加レポート――年311回更新のエージェントを「体系知」で掴む実践知",
-        "Java 27 正式リリース――全環境でG1 GCがデフォルト化、TLS 1.3に耐量子暗号のハイブリッドキー交換を追加",
-        "The AI Inference Revolution Is Here — Memory Bandwidth Becomes the New Compute Bottleneck",
-        "GPT-6 Astra Builds Running Routes End-to-End — Simon Willison Probes the Agentic Gap Between Capability and Transparency",
-        "GitHub Copilot Now Suggests Custom Properties Definitions — AI Learns Your Org's Schema to Reduce Manual Config"
-      ]
-    },
-    {
-      "run_at": "2026-09-16T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6595434",
-        "https://news.yahoo.co.jp/pickup/6595432",
-        "https://news.yahoo.co.jp/pickup/6595442",
-        "https://www.jiji.com/jc/article?k=2026091600195&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091600224&g=int&m=rss",
-        "https://zenn.dev/vitaly_iva/articles/myc-local-memory-for-coding-agents",
-        "https://zenn.dev/orca_forge/articles/parallel-claude-code-sessions-teamwork",
-        "https://zenn.dev/yukihayama/articles/mcp-tool-design",
-        "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-        "https://simonwillison.net/2026/Sep/15/gemini-live/",
-        "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations"
-      ],
-      "titles": [
-        "東海・関東甲信で警報級の大雨おそれ — 前線南下で広範囲に影響",
-        "NTTドコモ、34万人分の個人情報をアマゾン日本法人に無断提供 — 設定ミスが原因",
-        "陸上自衛隊の個人情報収集問題 — 8月も「違法」と公益通報が相次ぐ",
-        "イスラエル・アラブ諸国・米国が異例の秘密軍事会議 — イラン対応で連携強化か",
-        "米中が週末に閣僚級協議へ — 首脳会談前にイラン制裁と貿易で最終調整",
-        "Claude Code が「決めたこと」を忘れない — 完全ローカル・APIキー不要のエージェント記憶レイヤー「myc」",
-        "Claude Codeを4セッション並列で運用したら「チーム開発」になった — 衝突事故を防ぐ7つのレシピ",
-        "MCPサーバーのツール設計 — AIに渡す「道具」の粒度と4つの設計原則",
-        "TypeSafe AI Launches Jev — A System One Model That Thinks in Types, Not Tokens",
-        "Simon Willison Builds Browser UI for Gemini 3.8 Live — Real-Time Voice AI with Parallel Thinking in Under 100 Lines",
-        "GitHub Advanced Security Gets Enterprise-Wide Enforcement — Org Admins Can No Longer Override Security Configs"
       ]
     }
   ]

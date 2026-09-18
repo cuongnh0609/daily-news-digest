@@ -1,13 +1,42 @@
 {
-  "last_run_at": "2026-09-18T10:00:00+09:00",
+  "last_run_at": "2026-09-18T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-18T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026091800531&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091800096&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091800525&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/article/2609/18/2000001618/",
+        "https://news.yahoo.co.jp/pickup/6595695?source=rss",
+        "https://zenn.dev/watany/articles/36e11a20ce3743",
+        "https://zenn.dev/pksha/articles/5a1dc6470019d6",
+        "https://zenn.dev/tenkei/articles/9f8921926bb003",
+        "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
+        "https://bend-lang.com/",
+        "https://www.itmedia.co.jp/news/article/2609/18/2000001599/"
+      ],
+      "titles": [
+        "高市首相、国連総会でトランプ大統領と首脳会談を調整——米中会談前に日本の立場を伝達へ",
+        "高市改造内閣が本格始動——副大臣・政務官を決定、臨時国会は10月5日に召集へ",
+        "副業詐欺グループのトップ2人を逮捕——全国1,000人超から15億円詐取、暗号資産で送金",
+        "ゲーム開発者の生成AI活用が8割超に——CESA初調査、毎日使用が63%、版権問題が最大の障壁",
+        "ガソリン補助金が10月から拡大——物価対策として政府が再強化、財源確保が課題に",
+        "Jevでハーネスエンジニアリング——決定論的判定モデルがAIエージェントのガードレールを変える",
+        "AIネイティブなデータ分析基盤「Laplace」をMCPで構築——1人・1ヶ月・月1,200ドルで29名が活用",
+        "1日の開発フローをスキル化してみたら快適すぎた——Claude CodeとCodexのクロスレビューが鍵",
+        "Tailscale Aperture Goes GA: AI Agents Now Operate Inside Your VPN Without Distributing API Keys",
+        "Bend: A Programming Language That Makes Merging AI-Generated Bugs Mathematically Impossible",
+        "NVIDIA, Google, and Emerald AI Launch AI Energy Management Alliance — 25% Peak Power Reduction Demonstrated"
+      ]
+    },
     {
       "run_at": "2026-09-18T10:00:00+09:00",
       "urls": [
         "https://news.yahoo.co.jp/pickup/6595660",
-        "https://www.jiji.com/jc/article?k=2026091800120&g=int",
-        "https://www.jiji.com/jc/article?k=2026091800192&g=int",
-        "https://www.jiji.com/jc/article?k=2026091800117&g=soc",
+        "https://www.jiji.com/jc/article?k=2026091800120&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091800192&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091800117&g=soc&m=rss",
         "https://www.itmedia.co.jp/news/article/2609/18/2000001600/",
         "https://zenn.dev/sprix_it/articles/db685b8fd6bffe",
         "https://zenn.dev/jtechjapan_pub/articles/deepseek-v41-vs-flash-next-m4max",

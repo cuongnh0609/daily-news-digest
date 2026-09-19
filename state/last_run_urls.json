@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-19T05:00:00+09:00",
+  "last_run_at": "2026-09-19T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-19T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6595783?source=rss",
+        "https://news.yahoo.co.jp/pickup/6595776?source=rss",
+        "https://news.yahoo.co.jp/pickup/6595779?source=rss",
+        "https://www.itmedia.co.jp/news/article/2609/18/2000001648/",
+        "https://www.jiji.com/jc/article?k=2026091900182&g=int&m=rss",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news040.html",
+        "https://code.claude.com/docs/en/changelog",
+        "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
+        "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+        "https://www.anthropic.com/news/accenture-embedded-evaluation",
+        "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience"
+      ],
+      "titles": [
+        "台風25号、21日に関東へ最接近か——シルバーウィーク直撃の恐れ",
+        "内閣支持率が59%に上昇——読売調査、高市内閣が浮揚の兆し",
+        "患者に劇薬の鎮静剤を無断投与——病院が医師を解雇、医療倫理に厳しい目",
+        "ニチレイ、サイバー攻撃で5万件超の個人情報漏えいを確認",
+        "米・グリーンランド防衛協定を締結へ——トランプ大統領が「安保上の管理権」を確保",
+        "AIへの「念のためプロンプト」はもう逆効果——Claudeのトークンを浪費する6つのアンチパターン",
+        "Claude Code 2.1.277 リリース——AGENTS.md対応、Claude appsゲートウェイ統合など大型アップデート",
+        "「Java 27」正式リリース——全環境でG1 GCがデフォルトに、耐量子暗号のハイブリッドキー交換も搭載",
+        "Gemini Autonomously Broke Into Three Real Companies During a Red-Team Exercise",
+        "Anthropic Partners with Accenture for Embedded AI Evaluation — $1B Commitment Over Five Years",
+        "GitHub Copilot Code Review Gets Smarter: Progress Tracking, Auto-Resolution, and Contextual Commit Messages"
+      ]
+    },
     {
       "run_at": "2026-09-19T05:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "OpenSpec Hits 68K Stars — A Spec-Driven Framework Keeping AI Coding Agents Aligned to Intent",
         "Training a 4B Model to Beat PostgreSQL's Query Optimizer by 81% Using RL and Agent Harness",
         "Breaking the 1.58-bit Barrier for Ternary LLMs — A New Compression Milestone for On-Device Inference"
-      ]
-    },
-    {
-      "run_at": "2026-09-17T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6595556",
-        "https://www.jiji.com/jc/article?k=2026091700172&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091700066&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2609/17/2000001567/",
-        "https://news.yahoo.co.jp/pickup/6595539",
-        "https://zenn.dev/knowledgesense/articles/9adf1e9b17ffd6",
-        "https://zenn.dev/sonicmoov/articles/57a9c2d0d281b5",
-        "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-        "https://arxiv.org/abs/2609.14858",
-        "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-        "https://institute.deepmind.com/"
-      ],
-      "titles": [
-        "第2次高市改造内閣が発足——党内から「派閥無視」の不満も",
-        "ドゥテルテ前フィリピン大統領、ICC初出廷——弁護側の延期請求は却下",
-        "ティラノサウルスの体温は人間並みの36.3度——UCLA研究で初の推定",
-        "ムラウチドットコムから顧客情報約771万件が漏えい——7月の不正アクセスが原因",
-        "戦後最長の景気拡大か——統計は好調でも「実感が乏しい」声が多数",
-        "SKILL.mdを良くする技術——「自己進化エージェント」でAIの一貫性ギャップを埋める",
-        "GherkinとSkillsでエージェントがブラウザを自律操作——E2Eテスト全自動化の実践",
-        "GitHub Copilot 予算増加リクエストがGA——チームメンバーが設定画面から直接申請可能に",
-        "Dream-RSI: Recursive Self-Improvement for AI Agents via Evolving Replay Simulators",
-        "NVIDIA Introduces CUDA Rust: Two Tracks for Native GPU Kernel Development",
-        "Google DeepMind Launches the DeepMind Institute — An AGI Ideas Platform by Frontier Researchers"
-      ]
-    },
-    {
-      "run_at": "2026-09-17T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091700083&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091600667&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2609/16/2000001562/",
-        "https://www.itmedia.co.jp/news/article/2609/16/2000001559/",
-        "https://www.jiji.com/jc/article?k=2026091700002&g=int&m=rss",
-        "https://zenn.dev/hampen2929/books/ai-dev-team-guide",
-        "https://zenn.dev/nrs/articles/9ba91aea587bf5",
-        "https://www.publickey1.jp/blog/26/anthropicmcpmcpagntconmcpcon_japan_2026.html",
-        "https://claude.com/blog/cowork-is-now-claude",
-        "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
-        "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection"
-      ],
-      "titles": [
-        "米FRB、3年ぶりに利上げ——0.25%引き上げ、インフレ長期化を警戒",
-        "第2次高市改造内閣が17日発足——維新が初めて閣内協力へ",
-        "Salesforceで大規模障害——国内企業に「業務あきらめた」の悲鳴",
-        "NTTを名乗る電話からニセ警察へ——巧妙化する特殊詐欺、被害4割が「本物と信じた」",
-        "ヒト脳オルガノイドをマウスに移植して機能——米大学が世界初の成果",
-        "AI開発チームの作り方——マルチエージェント開発組織の設計と運用を体系化",
-        "バイブコーディングでGUIが壊れていく理由——設計パターンで構造を守る「魔法の言葉」",
-        "AnthropicのMCP共同著者がAGNTConで語る——毎月5億ダウンロードと「MCPタスク」構想",
-        "Anthropic Unifies Cowork and Chat into One Claude — Docs, Slides, and Long-Running Tasks Now Built In",
-        "Linux Foundation Standardizes \"Agent Router\" — One API Endpoint for All AI Vendors Including MCP Gateway",
-        "GitHub Copilot Adds Cost/Quality Tiers to Auto Model Selection — Three Optimization Modes for Every Budget"
-      ]
-    },
-    {
-      "run_at": "2026-09-17T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6595529",
-        "https://news.yahoo.co.jp/pickup/6595520",
-        "https://news.yahoo.co.jp/pickup/6595522",
-        "https://news.yahoo.co.jp/pickup/6595521",
-        "https://news.yahoo.co.jp/pickup/6595526",
-        "https://zenn.dev/sactechnologies/articles/d990489b0e759d",
-        "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
-        "https://zenn.dev/vesslabs/articles/36cc6ade0976",
-        "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-        "https://mistral.ai/news/mistral-x-mozilla/",
-        "https://security.apple.com/blog/apple-reference-image/"
-      ],
-      "titles": [
-        "台風25号が発生、シルバーウィークに北上しながら発達か",
-        "よど号ハイジャック事件の赤木志郎容疑者が北朝鮮で死亡か",
-        "フィジーがHIV急拡大で非常事態宣言——成人60人に1人が感染",
-        "メルカリ株が1カ月で約3割急落——ポケモンカード規制が引き金に",
-        "画像共有サービス「Gyazo」に不正アクセス——2362万件の利用者情報が流出",
-        "Claude Codeのフックは「静かに死ぬ」——117本を監査したら12本が一度も呼ばれていなかった",
-        "DevinがmacOS仮想環境を提供開始——物理Mac不要でiOSアプリ開発からTestFlight配信まで",
-        "Claude CodeのOpenTelemetryで何が計測できるのか——トークン数・コスト・ツール呼び出しを可視化する",
-        "GitHub AI Scan Drops CodeQL Prerequisite — AI-Powered Security Scanning Now Available Broadly",
-        "Mistral and Mozilla Partner to Bring Open, Private, Multilingual AI Into Firefox",
-        "Apple Reference Image: Cryptographically Verified Photography to Counter AI-Generated Fakes"
       ]
     }
   ]

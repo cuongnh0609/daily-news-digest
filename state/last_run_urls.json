@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-20T00:00:00+09:00",
+  "last_run_at": "2026-09-20T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-20T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6595854?source=rss",
+        "https://news.yahoo.co.jp/pickup/6595851?source=rss",
+        "https://www.jiji.com/jc/article?k=2026091900268&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6595852?source=rss",
+        "https://www.itmedia.co.jp/news/article/2609/18/2000001637/",
+        "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
+        "https://zenn.dev/skmkzyk/books/github-copilot-app-guide",
+        "https://www.itmedia.co.jp/news/article/2609/18/2000001630/",
+        "https://simonwillison.net/2026/Sep/16/one-claude/",
+        "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+        "https://planetscale.com/blog/introducing-tin"
+      ],
+      "titles": [
+        "台風25号が「強い」勢力に発達——シルバーウィーク直撃の恐れ、本州接近は21日か",
+        "詐欺拠点か、マレーシアで日本人を拘束——当局が渡航歴・経緯を調査",
+        "中国調査船が沖縄・久場島沖のEEZから離脱——海中に「ワイヤー状物体」を投下",
+        "生後7日で腸の手術——520グラムで生まれた超未熟児、3時間の闘い",
+        "東急東横線にホーム監視AIを導入——乗務員のドア閉め操作をカメラで補助",
+        "既存LLMがCPUならJevはGPU——構造化データ出力専用モデルの実力と限界",
+        "GitHub Copilotアプリ完全攻略——設定・セッション・自動化・スラッシュコマンドを体系化",
+        "「上司に言いにくい」をAIが拾う——豊中市教委、匿名フィードバックアプリを1000人に展開",
+        "Claude Cowork and Chat Merge Into One Claude — Anthropic Unifies Its Product Into a Single General-Purpose Agent",
+        "GitHub Copilot Impact Dashboard Now Tracks Feature Engagement — MCP, Skills, and Custom Agents in Metrics API",
+        "PlanetScale Introduces TIN: 25× Faster Full-Text Search for Postgres Using ctid-Based Indexing"
+      ]
+    },
     {
       "run_at": "2026-09-20T00:00:00+09:00",
       "urls": [
@@ -196,70 +225,12 @@
         "トランプ政権、新関税発表を米中首脳会談後まで先送り——対立回避を優先",
         "九州新幹線が52日ぶりに全線運行再開——熊本〜新水俣間が復旧、速度制限つきで通常9割",
         "英チャールズ国王、AI首脳に「実存的危険」を警告——NVIDIA・OpenAI・Anthropic幹部らが集結",
-        "Claude Codeで18ヶ月かけて磨いたAI駆動開発フロー——人間の判断ポイントを2箇所に絞る",
+        "Claude Codeで18ヶ月かけて育ててきたAI駆動開発フロー——人間の判断ポイントを2箇所に絞る",
         "128GBのMacでDeepSeek V4.1 Flashを試したが、実開発にはFlash Next + oMLXを選択",
         "OracleがJavaセキュリティパッチを月次提供へ——AIが脆弱性発見を加速させたことを理由に",
         "Anthropic Publishes AI Development Pace Metrics — Claude Now Leads 26% of Internal R&D Work",
         "GitHub Copilot Usage Metrics API Now Tracks Agentic CLI Customizations — MCP, Skills, Custom Agents",
         "OpenAI Discloses Self-Generated Prompt Injections in Compaction Summaries During RL Training"
-      ]
-    },
-    {
-      "run_at": "2026-09-18T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6595625",
-        "https://www.itmedia.co.jp/news/article/2609/17/2000001571/",
-        "https://news.yahoo.co.jp/pickup/6595615",
-        "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001563/",
-        "https://www.itmedia.co.jp/news/article/2609/17/2000001581/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news030.html",
-        "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001584/",
-        "https://zenn.dev/ceres_tech_blog/articles/09aa8e17762d7e",
-        "https://www.anthropic.com/news/life-sciences-verification-program",
-        "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-        "https://mysetup.ai/"
-      ],
-      "titles": [
-        "SBIホールディングスがライブドアを完全子会社化——ミンカブから75億円で買収、「因縁超え」の業界再編",
-        "東京ゲームショウ2026が開幕——史上最長5日間、30万人来場を見込む過去最大規模",
-        "四国初の「コートヤード・バイ・マリオット高知」が2028年秋に開業へ——高知市中心部に14階建て約210室",
-        "三菱重工とPreferred Networksが100億円の資本業務提携——インフラ・防衛分野でミッションクリティカルAIを共同開発",
-        "人間の動きだけで学習するカクテルロボットAIが話題——早送りなしの映像に「過去最速」と反響",
-        "なぜ「Claude Code」で想定外のコストになるのか——トークン浪費を防ぐ4つの実践的ポイント",
-        "Cloudflareが「AIクロール選択拒否」機能を提供——検索インデックスはOK、AI学習だけを拒否できる新オプション",
-        "自動テストが0件の現場でAI開発速度を2倍に——「人間の確認工程を最小化」する実験的フローの記録",
-        "Anthropic Launches Life Sciences Verification Program — Verified Researchers Get Relaxed AI Safeguards for Biological Work",
-        "GitHub Actions Workflow Execution Protections Now Generally Available — Blocks \"Pwn Request\" Attacks from Fork Submissions",
-        "mysetup.ai — A Community Platform for Engineers to Share and Discover Real-World AI Development Setups"
-      ]
-    },
-    {
-      "run_at": "2026-09-18T00:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2609/17/2000001594/",
-        "https://www.itmedia.co.jp/news/article/2609/17/2000001583/",
-        "https://news.yahoo.co.jp/pickup/6595639?source=rss",
-        "https://news.yahoo.co.jp/pickup/6595640?source=rss",
-        "https://news.yahoo.co.jp/pickup/6595637?source=rss",
-        "https://zenn.dev/2_daiki_ando/articles/53c34e071b5d69",
-        "https://zenn.dev/rescuenow/articles/5aa26aebd7ae78",
-        "https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html",
-        "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-        "https://mimo.xiaomi.com/rl/",
-        "https://z.ai/blog/glm-built-its-inference-infrastructure"
-      ],
-      "titles": [
-        "デジタル相に古川俊治氏を起用——AI戦略やサイバー安全保障も担当、外科医・弁護士・MBAの異色経歴",
-        "「FF XIV」二次創作グッズを条件付き解禁——手作り・無償に限定、AI生成と3Dプリンタは禁止",
-        "台風25号が大型化しながら北上——シルバーウィーク前後、離れた地域でも高波・暴風に注意",
-        "中国企業への営業秘密流出疑いで元従業員を逮捕——日本のハイテク技術流出に改めて警戒",
-        "林芳正氏はなぜ閣外に——第2次高市改造内閣の人事戦略を読む",
-        "フロントエンドの仕様と実装を同じ言語で書く——責務の機械的突合でspec-driven開発を実現する",
-        "LLMにWikiを書かせて半年——「一番役に立った画面はLLMの文章を使っていなかった」という逆説",
-        "PlanetScale、PostgreSQLシャーディング自動化で1億1800万QPSを達成——新DBサービス「Neki」をプレビュー公開",
-        "Anthropic Releases Model Hardware Standard (MHS) — A Universal Driver for AI Agents to Control Physical Lab Equipment",
-        "Xiaomi Open-Sources Mimo 2.6 with Live Post-Training Dashboard — Real-Time RL Training Metrics Streaming to the Public",
-        "GLM Built Its Own Inference Infrastructure from Scratch — Why China's Leading AI Lab Ditched Third-Party GPU Cloud"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-20T05:00:00+09:00",
+  "last_run_at": "2026-09-20T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-20T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026092000093&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091900311&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026091900315&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6595856?source=rss",
+        "https://news.yahoo.co.jp/pickup/6595865?source=rss",
+        "https://kn.itmedia.co.jp/kn/article/2609/20/2000001661/",
+        "https://kn.itmedia.co.jp/kn/article/2609/20/2000001660/",
+        "https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html",
+        "https://www.anthropic.com/news/life-sciences-verification-program",
+        "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+        "https://huggingface.co/cua-ai/cua-s1-forms"
+      ],
+      "titles": [
+        "イランが米国に戦闘終結の条件を提示——賠償請求を外し、外交的軟化を示唆",
+        "米中間選挙の予備選が全州で終了——多数派争いが激化、トランプ支持候補が高勝率",
+        "自衛隊「南西シフト」を加速——沖縄新知事が保守派、高市政権が防衛強化へ布石",
+        "大型で強い台風25号が21日夜に関東最接近——長時間の豪雨で洪水・土砂崩れに警戒",
+        "ペット飼い主の高齢化で引き取り依頼が急増——動物愛護団体の半数が対応限界を訴え",
+        "AI攻撃は「調べて対応」では間に合わない——ゼットスケーラーがSOCをAIエージェント化",
+        "AIを入れても仕事は変わらない？——アビームとNotionが「企業知識 × AIエージェント」基盤を構築",
+        "PlanetScaleがPostgreSQLの自動シャーディングで1億1800万QPS達成——新DBサービス「Neki」をプレビュー公開",
+        "Anthropic Launches Life Sciences Verification Program — Verified Labs Get Claude Access With Tailored Biosecurity Guardrails",
+        "GitHub Actions Workflow Execution Protections Go GA — Policy-Based CI/CD Access Control With REST API and Audit Insights",
+        "CUA-S1 Forms: 706K-Parameter Model Achieves 99.7% Accuracy on GUI Form-Filling — Beats Jev API by 16 Points"
+      ]
+    },
     {
       "run_at": "2026-09-20T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Tailscale Aperture Goes GA: AI Agents Now Operate Inside Your VPN Without Distributing API Keys",
         "Bend: A Programming Language That Makes Merging AI-Generated Bugs Mathematically Impossible",
         "NVIDIA, Google, and Emerald AI Launch AI Energy Management Alliance — 25% Peak Power Reduction Demonstrated"
-      ]
-    },
-    {
-      "run_at": "2026-09-18T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6595660",
-        "https://www.jiji.com/jc/article?k=2026091800120&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091800192&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091800117&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2609/18/2000001600/",
-        "https://zenn.dev/sprix_it/articles/db685b8fd6bffe",
-        "https://zenn.dev/jtechjapan_pub/articles/deepseek-v41-vs-flash-next-m4max",
-        "https://www.publickey1.jp/blog/26/javaai.html",
-        "https://www.anthropic.com/research/measurements-for-ai-development",
-        "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-        "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/"
-      ],
-      "titles": [
-        "iPhone 18 Pro発売——21万9800円から、前モデル比4万円高の「過去最高価格」",
-        "習近平が23日に訪米——トランプが空軍基地で異例の出迎え、首脳会談は24日",
-        "トランプ政権、新関税発表を米中首脳会談後まで先送り——対立回避を優先",
-        "九州新幹線が52日ぶりに全線運行再開——熊本〜新水俣間が復旧、速度制限つきで通常9割",
-        "英チャールズ国王、AI首脳に「実存的危険」を警告——NVIDIA・OpenAI・Anthropic幹部らが集結",
-        "Claude Codeで18ヶ月かけて育ててきたAI駆動開発フロー——人間の判断ポイントを2箇所に絞る",
-        "128GBのMacでDeepSeek V4.1 Flashを試したが、実開発にはFlash Next + oMLXを選択",
-        "OracleがJavaセキュリティパッチを月次提供へ——AIが脆弱性発見を加速させたことを理由に",
-        "Anthropic Publishes AI Development Pace Metrics — Claude Now Leads 26% of Internal R&D Work",
-        "GitHub Copilot Usage Metrics API Now Tracks Agentic CLI Customizations — MCP, Skills, Custom Agents",
-        "OpenAI Discloses Self-Generated Prompt Injections in Compaction Summaries During RL Training"
       ]
     }
   ]

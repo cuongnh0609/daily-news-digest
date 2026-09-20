@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-20T15:00:00+09:00",
+  "last_run_at": "2026-09-20T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-20T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6595939?source=rss",
+        "https://news.yahoo.co.jp/pickup/6595937?source=rss",
+        "https://www.jiji.com/jc/article?k=2026092000208&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092000243&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092000112&g=spo&m=rss",
+        "https://zenn.dev/mizchi/articles/jev-lint-intro",
+        "https://zenn.dev/pksha/articles/5a1dc6470019d6",
+        "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
+        "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+        "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
+        "https://www.itmedia.co.jp/news/article/2609/17/2000001573/"
+      ],
+      "titles": [
+        "台風25号、21日（月）午後に雨風がピーク——東海・関東・伊豆諸島に線状降水帯の恐れ",
+        "北朝鮮が弾道ミサイルを発射——1日2度目、日本のEEZ外に落下と推定",
+        "65歳以上が3624万人——総人口の29.6%が高齢者、過去最高を更新",
+        "天皇・皇后両陛下、ジブリパークを視察——名古屋でアジア大会のバスケも観戦",
+        "愛知・名古屋アジア大会で日本勢が快スタート——トライアスロン・空手・競泳で金メダルラッシュ",
+        "jev-lint 公開——コードの命名・コメントが「嘘」かどうかを Jev でバッチ検証するツール",
+        "Claude Code と MCP でデータ分析基盤を 1 人月で構築——PKSHA が BigQuery + dbt + Lightdash の「Laplace」を公開",
+        "「Jev」とは何か——元 OpenAI 研究者が作った"テキストを生成しない AI"の正体と開発者への影響",
+        "GitHub Copilot CLI: Agentic Customizations Now Tracked in Usage Metrics API",
+        "Jev: Non-Autoregressive Decision Model by Ex-OpenAI Researcher Hits 37 Billion X Impressions",
+        "Google DeepMind Launches DeepMind Institute — Cross-Disciplinary Forum for AGI's Societal Impact"
+      ]
+    },
     {
       "run_at": "2026-09-20T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Publishes First-Ever AI R&D Transparency Metrics — Automation Index, Oversight Coverage, Compute Allocation",
         "GitHub Copilot Weekly: Model Tiers (Efficiency/Balance/Intelligence), Sentry Integration, and Agent Enhancements",
         "Linux Foundation's Agentic AI Foundation Standardizes Agent Router — One Unified API for OpenAI, Anthropic, Google, and MCP Servers"
-      ]
-    },
-    {
-      "run_at": "2026-09-19T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6595783?source=rss",
-        "https://news.yahoo.co.jp/pickup/6595776?source=rss",
-        "https://news.yahoo.co.jp/pickup/6595779?source=rss",
-        "https://www.itmedia.co.jp/news/article/2609/18/2000001648/",
-        "https://www.jiji.com/jc/article?k=2026091900182&g=int&m=rss",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news040.html",
-        "https://code.claude.com/docs/en/changelog",
-        "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
-        "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-        "https://www.anthropic.com/news/accenture-embedded-evaluation",
-        "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience"
-      ],
-      "titles": [
-        "台風25号、21日に関東へ最接近か——シルバーウィーク直撃の恐れ",
-        "内閣支持率が59%に上昇——読売調査、高市内閣が浮揚の兆し",
-        "患者に劇薬の鎮静剤を無断投与——病院が医師を解雇、医療倫理に厳しい目",
-        "ニチレイ、サイバー攻撃で5万件超の個人情報漏えいを確認",
-        "米・グリーンランド防衛協定を締結へ——トランプ大統領が「安保上の管理権」を確保",
-        "AIへの「念のためプロンプト」はもう逆効果——Claudeのトークンを浪費する6つのアンチパターン",
-        "Claude Code 2.1.277 リリース——AGENTS.md対応、Claude appsゲートウェイ統合など大型アップデート",
-        "「Java 27」正式リリース——全環境でG1 GCがデフォルトに、耐量子暗号のハイブリッドキー交換も搭載",
-        "Gemini Autonomously Broke Into Three Real Companies During a Red-Team Exercise",
-        "Anthropic Partners with Accenture for Embedded AI Evaluation — $1B Commitment Over Five Years",
-        "GitHub Copilot Code Review Gets Smarter: Progress Tracking, Auto-Resolution, and Contextual Commit Messages"
-      ]
-    },
-    {
-      "run_at": "2026-09-19T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6595741?source=rss",
-        "https://www.jiji.com/jc/article?k=2026091800774&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091800803&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091800889&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6595748?source=rss",
-        "https://zenn.dev/jtcc/articles/7e74fef42580a1",
-        "https://www.itmedia.co.jp/enterprise/articles/2609/18/news020.html",
-        "https://www.itmedia.co.jp/aiplus/article/2609/18/2000001634/",
-        "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-        "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/"
-      ],
-      "titles": [
-        "コメ価格が2年ぶりに2000円台へ下落——消費者は歓迎、生産者は経営悪化を懸念",
-        "日米首脳会談、22日にニューヨークで実施——対中認識を共有、経済安保も議題に",
-        "民主主義改革への不参加表明——泉・大島両氏が離脱、立憲民主党の結束に影響か",
-        "衆院選挙制度の見直し、10月に結論——抜本改革は第三者機関で検討へ",
-        "日版がAnthropicに書籍を大量販売か——出版業界が著作権侵害を懸念、日本書籍出版協会が照会",
-        "全社200名にOpenCode + LiteLLMを導入——コスト10分の1、AI利用を可視化した統一ゲートウェイ戦略",
-        "資生堂、AIエージェントで原料探索時間を95%削減——Gemini Enterpriseと独自RAGで研究DXを実現",
-        "AI開発の26%をClaudeが主導——Anthropic内部でも加速するAI駆動R&D",
-        "Anthropic Releases Claude Fable 5.1 and Mythos 5.1 — Agentic Science Accuracy Doubles, Cache Reads Drop 75%",
-        "GitHub Copilot Deprecates Five Models on October 19 — Teams Must Migrate to GPT-5.6, Gemini 3.8, and Grok 4.6",
-        "How to Write With an LLM — The Rule That Keeps Your Voice Yours"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-20T10:00:00+09:00",
+  "last_run_at": "2026-09-20T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-20T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6595898?source=rss",
+        "https://news.yahoo.co.jp/pickup/6595891?source=rss",
+        "https://news.yahoo.co.jp/pickup/6595894?source=rss",
+        "https://www.itmedia.co.jp/news/article/2609/18/2000001645/",
+        "https://www.itmedia.co.jp/news/article/2609/17/2000001582/",
+        "https://zenn.dev/aws_japan/articles/agentcore-runtime-v2-platform-version",
+        "https://zenn.dev/hirata_infosys/articles/598068e56ae342",
+        "https://zenn.dev/sprix_it/articles/db685b8fd6bffe",
+        "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+        "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+        "https://www.publickey1.jp/blog/26/rustcctstier_1.html"
+      ],
+      "titles": [
+        "台風25号が21日夜に関東直撃——JR各社が始発から一部区間で運転見合わせを発表",
+        "「娘の死を商売に使うな」——豪雨被害遺族へのSNS中傷が社会問題化、専門家が法的対応を訴え",
+        "車とバイクの衝突事故で歩道の3歳が重体——目撃者の証言から信号無視の可能性を警察が調査",
+        "小学館「サライ.jp」がAI画像で著作権侵害——委託イラストレーターがChatGPTで肖像画を無断加工",
+        "SBIホールディングスがライブドアを買収へ——ミンカブが「概ね報道通り」と認め、メディア事業再編加速",
+        "新しいAmazon Bedrock AgentCore Runtimeが登場——常駐型・長時間動作エージェント基盤が正式サービス化",
+        "MCP × Claude Code × BedrockでPlaywrightの自動化フローを構築——既存Webシステムを壊さずAIエージェントを導入する実践",
+        "1年半かけて育てたAI開発フロー——Claude Codeサブエージェントによる「思考レビュー」が進化した実践録",
+        "OpenAI Catches Model Injecting Persona Into Its Own Compaction Summary — Self-Generated Prompt Injection Discovered During RL Training",
+        "Targeted Supply Chain Attack Campaign Against Rust Crate Owners — Social Engineering Used to Push Malware to Millions of Dependencies",
+        "Microsoft Makes Rust a Tier 1 Language Internally — Joins C++, C#, and TypeScript as First-Class Citizen in Windows Development"
+      ]
+    },
     {
       "run_at": "2026-09-20T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Releases Claude Fable 5.1 and Mythos 5.1 — Agentic Science Accuracy Doubles, Cache Reads Drop 75%",
         "GitHub Copilot Deprecates Five Models on October 19 — Teams Must Migrate to GPT-5.6, Gemini 3.8, and Grok 4.6",
         "How to Write With an LLM — The Rule That Keeps Your Voice Yours"
-      ]
-    },
-    {
-      "run_at": "2026-09-18T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026091800531&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091800096&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026091800525&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2609/18/2000001618/",
-        "https://news.yahoo.co.jp/pickup/6595695?source=rss",
-        "https://zenn.dev/watany/articles/36e11a20ce3743",
-        "https://zenn.dev/pksha/articles/5a1dc6470019d6",
-        "https://zenn.dev/tenkei/articles/9f8921926bb003",
-        "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
-        "https://bend-lang.com/",
-        "https://www.itmedia.co.jp/news/article/2609/18/2000001599/"
-      ],
-      "titles": [
-        "高市首相、国連総会でトランプ大統領と首脳会談を調整——米中会談前に日本の立場を伝達へ",
-        "高市改造内閣が本格始動——副大臣・政務官を決定、臨時国会は10月5日に召集へ",
-        "副業詐欺グループのトップ2人を逮捕——全国1,000人超から15億円詐取、暗号資産で送金",
-        "ゲーム開発者の生成AI活用が8割超に——CESA初調査、毎日使用が63%、版権問題が最大の障壁",
-        "ガソリン補助金が10月から拡大——物価対策として政府が再強化、財源確保が課題に",
-        "Jevでハーネスエンジニアリング——決定論的判定モデルがAIエージェントのガードレールを変える",
-        "AIネイティブなデータ分析基盤「Laplace」をMCPで構築——1人・1ヶ月・月1,200ドルで29名が活用",
-        "1日の開発フローをスキル化してみたら快適すぎた——Claude CodeとCodexのクロスレビューが鍵",
-        "Tailscale Aperture Goes GA: AI Agents Now Operate Inside Your VPN Without Distributing API Keys",
-        "Bend: A Programming Language That Makes Merging AI-Generated Bugs Mathematically Impossible",
-        "NVIDIA, Google, and Emerald AI Launch AI Energy Management Alliance — 25% Peak Power Reduction Demonstrated"
       ]
     }
   ]

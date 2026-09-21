@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-21T20:00:00+09:00",
+  "last_run_at": "2026-09-22T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-22T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026092100511&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092100630&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092100225&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092100121&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092100483&g=spo&m=rss",
+        "https://zenn.dev/chot/articles/268804cd6694ab",
+        "https://zenn.dev/cybernetics/articles/71ea975d935414",
+        "https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html",
+        "https://github.com/BuilderIO/agent-native",
+        "https://github.com/jaredpalmer/kev/tree/main",
+        "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14"
+      ],
+      "titles": [
+        "中国軍制服組トップ・張又侠氏に党籍剥奪——「重大な規律違反」で習体制に衝撃",
+        "CNN・AP・ロイターがトランプ政権をホワイトハウス取材禁止で提訴",
+        "台風25号が関東を直撃——土砂災害で3人不明・1人重体、伊豆大島に特別警報",
+        "不法就労対策で国交省が入管庁調査に同行へ——来月から環境・農水省とも連携",
+        "アジア大会で運営トラブル相次ぐ——国歌ミス・席の空き・バス不在と混乱続く",
+        "WebMCPを試してみた——フロントエンドの必須AI技術になりそうな予感、操作時間が50%短縮",
+        "Jevを「確率モデルの部品」として見る——LLMとは別の推論モデルとして組み合わせる新視点",
+        "PlanetScaleがPostgreSQLシャーディング自動化DB「Neki」をプレビュー公開——1.18億QPSを達成",
+        "BuilderIO Releases Agent-Native: Open-Source Framework for Agent + UI Shared Action Layer",
+        "Kev: Open-Source Family of Jev-Inspired Decision Models Built on Qwen3.5 with LoRA Fine-Tuning",
+        "GitHub Copilot Weekly (Sep 14): Model Tiers, Auto-Resolve Reviews, VS Code Agents GA, Sentry Integration"
+      ]
+    },
     {
       "run_at": "2026-09-21T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "GitHub Copilot CLI: Agentic Customizations Now Tracked in Usage Metrics API",
         "Jev: Non-Autoregressive Decision Model by Ex-OpenAI Researcher Hits 37 Billion X Impressions",
         "Google DeepMind Launches DeepMind Institute — Cross-Disciplinary Forum for AGI's Societal Impact"
-      ]
-    },
-    {
-      "run_at": "2026-09-20T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6595898?source=rss",
-        "https://news.yahoo.co.jp/pickup/6595891?source=rss",
-        "https://news.yahoo.co.jp/pickup/6595894?source=rss",
-        "https://www.itmedia.co.jp/news/article/2609/18/2000001645/",
-        "https://www.itmedia.co.jp/news/article/2609/17/2000001582/",
-        "https://zenn.dev/aws_japan/articles/agentcore-runtime-v2-platform-version",
-        "https://zenn.dev/hirata_infosys/articles/598068e56ae342",
-        "https://zenn.dev/sprix_it/articles/db685b8fd6bffe",
-        "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
-        "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
-        "https://www.publickey1.jp/blog/26/rustcctstier_1.html"
-      ],
-      "titles": [
-        "台風25号が21日夜に関東直撃——JR各社が始発から一部区間で運転見合わせを発表",
-        "「娘の死を商売に使うな」——豪雨被害遺族へのSNS中傷が社会問題化、専門家が法的対応を訴え",
-        "車とバイクの衝突事故で歩道の3歳が重体——目撃者の証言から信号無視の可能性を警察が調査",
-        "小学館「サライ.jp」がAI画像で著作権侵害——委託イラストレーターがChatGPTで肖像画を無断加工",
-        "SBIホールディングスがライブドアを買収へ——ミンカブが「概ね報道通り」と認め、メディア事業再編加速",
-        "新しいAmazon Bedrock AgentCore Runtimeが登場——常駐型・長時間動作エージェント基盤が正式サービス化",
-        "MCP × Claude Code × BedrockでPlaywrightの自動化フローを構築——既存Webシステムを壊さずAIエージェントを導入する実践",
-        "1年半かけて育てたAI開発フロー——Claude Codeサブエージェントによる「思考レビュー」が進化した実践録",
-        "OpenAI Catches Model Injecting Persona Into Its Own Compaction Summary — Self-Generated Prompt Injection Discovered During RL Training",
-        "Targeted Supply Chain Attack Campaign Against Rust Crate Owners — Social Engineering Used to Push Malware to Millions of Dependencies",
-        "Microsoft Makes Rust a Tier 1 Language Internally — Joins C++, C#, and TypeScript as First-Class Citizen in Windows Development"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-22T10:00:00+09:00",
+  "last_run_at": "2026-09-22T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-22T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6596136",
+        "https://news.yahoo.co.jp/pickup/6596129",
+        "https://news.yahoo.co.jp/pickup/6596133",
+        "https://news.yahoo.co.jp/pickup/6596126",
+        "https://news.yahoo.co.jp/pickup/6596139",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2609/22/news009.html",
+        "https://kn.itmedia.co.jp/kn/article/2609/22/2000001658/",
+        "https://zenn.dev/tanakh/articles/c-code-in-rust",
+        "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+        "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+        "https://www.itmedia.co.jp/news/article/2609/22/2000001671/"
+      ],
+      "titles": [
+        "台風25号の浸水被害——千葉・佐倉市で住民が帰宅できず、成田空港でも4000人が一夜足止め",
+        "OpenAIが米国主導のAI安全基準策定を国連で提言——アルトマンCEO、安保理に出席へ",
+        "リトアニア首相「ロシアが攻撃すれば反撃する」——NATO東側の防衛姿勢が鮮明に",
+        "通学路の安全対策に「カラフル横断歩道」——赤・青・緑で視認性を高め交通事故を防ぐ",
+        "アジア大会の運営不手際が続出——組織委が公式サイトで反論声明、世論調査では66%が「全く期待しない」",
+        "AIエージェント「Devin」で製造シミュレーション開発工数を78.8%削減——キャタピラー社の実践事例が示す生産現場へのAI実装",
+        "Teams会議の録画をAIエージェントの「教材」に——ヘッドウォータースが業務知識を構造化するSaaS「SyncLect Agent Garden」を提供開始",
+        "C言語のコードをRustの中に直接書けるライブラリを個人開発——FFIの煩雑さを解消する新アプローチが話題に",
+        "dlab Open Source Week: Frontier AI on Consumer Hardware — 450 tok/s from a 35B Model at 1.5-bit, CliffCompaction Cuts Agent Costs 45%",
+        "Cloudflare Python Workers Now Generally Available — Python Becomes a First-Class Language on the Edge via WebAssembly + Pyodide",
+        "OpenAI Claims Internal Model Solved 100+ Unsolved Math Problems — Partners with Independent Advisory Group to Manage Academic Fallout"
+      ]
+    },
     {
       "run_at": "2026-09-22T10:00:00+09:00",
       "urls": [

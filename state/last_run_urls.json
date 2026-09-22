@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-23T00:00:00+09:00",
+  "last_run_at": "2026-09-23T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-23T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026092300155&g=pol",
+        "https://www.jiji.com/jc/article?k=2026092300142&g=pol",
+        "https://www.jiji.com/jc/article?k=2026092200315&g=pol",
+        "https://www.jiji.com/jc/article?k=2026092200350&g=soc",
+        "https://www.jiji.com/jc/article?k=2026092200187&g=soc",
+        "https://zenn.dev/jackojacko05/articles/08df79d47f4219",
+        "https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations",
+        "https://www.publickey1.jp/blog/26/rustcctstier_1.html",
+        "https://www.anthropic.com/claude-opus-5-5",
+        "https://minimaxir.com/2026/09/agentic-iteration/",
+        "https://simonwillison.net/2026/Sep/22/llm-typesafe/"
+      ],
+      "titles": [
+        "高市首相、国連演説でICC「一貫して支持」— 安保理改革も強く訴える",
+        "日米首脳会談——高市首相「同盟の強さを世界に示す」、対中認識でトランプ氏と一致",
+        "中国・習近平主席が3年ぶり訪米へ——24日にトランプ大統領と首脳会談",
+        "千葉・神奈川で記録的大雨——台風25号の余波続く、24市町村に災害救助法を適用",
+        "三井不動産、大英図書館を再開発へ——欧州最大規模の投資額で国際的注目",
+        "JevはBigQueryのAI関数コストを削減できるか？——同精度で41%安く、推論速度は2倍に",
+        "高速判断AIモデル「Jev」の活用事例とオープン実装を徹底まとめ",
+        "マイクロソフトがRustをTier 1言語に昇格——C++・C#・TypeScriptと同等の社内地位へ",
+        "Anthropic Releases Claude Opus 5.5 — 40% Cheaper, 30% Faster, Stronger Agentic Coding",
+        "Agentic Iteration: Writing Rust Code 2x–20x Faster by Asking AI Agents to Optimize It",
+        "Simon Willison Releases llm-typesafe — Jev Decision Model Support for the LLM CLI"
+      ]
+    },
     {
       "run_at": "2026-09-23T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Plans Three MCP Upgrades: Tasks, Skills, and Identity for Autonomous Agents",
         "\"Why MCP Was Always a Bad Idea\" — A Contrarian Take on the Limits of Tool Protocols",
         "Shopify Acquires Tailwind Labs After AI Slashes Documentation Traffic 40%"
-      ]
-    },
-    {
-      "run_at": "2026-09-21T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026092100248&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092100123&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092100127&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092100116&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092000178&g=int&m=rss",
-        "https://zenn.dev/canly/articles/7ac8cea14c20e8",
-        "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
-        "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
-        "https://www.itmedia.co.jp/news/article/2609/21/2000001666/",
-        "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-        "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/"
-      ],
-      "titles": [
-        "東京都大島町に土砂災害特別警報——台風25号が関東に接近し記録的大雨",
-        "ロシア下院選でプーチン与党が圧勝——憲法改正も単独で可能な議席数を確保へ",
-        "米中、AI事故の相互通報制度を協議——24日の首脳会談に向け最終調整",
-        "能登豪雨から2年——21人の犠牲者を悼む追悼式が石川県各地で開催",
-        "イスラエル総選挙が10月実施へ——ネタニヤフ首相の続投に暗雲、混戦模様",
-        "Claude Docs が登場——チャット延長線上でリアルタイム共同編集、Word/PDF/Notion へエクスポートも",
-        "Devinが仮想環境でmacOSを提供開始——Mac実機不要でiOSアプリの生成・テスト・TestFlightベータ公開まで完結",
-        "Java 27 正式リリース——全環境でG1 GCがデフォルトに、TLS 1.3用耐量子暗号も導入",
-        "Trump Announces AI Force — New Organization Modeled on Space Force, AI Czar to Be Named",
-        "Simon Willison Releases llm-keys-ui — Web UI for Secure API Key Management on Remote Machines",
-        "Terence Tao's Blog: Why Do We Still Need Human Mathematicians in the Age of AI?"
       ]
     }
   ]

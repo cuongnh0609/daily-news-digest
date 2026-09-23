@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-23T20:00:00+09:00",
+  "last_run_at": "2026-09-24T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-24T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6596315",
+        "https://news.yahoo.co.jp/pickup/6596313",
+        "https://news.yahoo.co.jp/pickup/6596308",
+        "https://news.yahoo.co.jp/pickup/6596301",
+        "https://www.jiji.com/jc/article?k=2026092300467&g=int&m=rss",
+        "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html",
+        "https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods",
+        "https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html",
+        "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+        "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+        "https://artificialanalysis.ai/models/claude-opus-5-5"
+      ],
+      "titles": [
+        "体操女子団体、アジア大会で銀メダル——杉原が涙の表彰台",
+        "印旛沼で堤防決壊のおそれ——台風25号の影響で排水が追いつかず",
+        "金利上昇を前に住宅の駆け込み購入が加速——固定・変動ともに先高観",
+        "中国、高市首相の国連演説に強く反発——台湾・南シナ海発言めぐり対立",
+        "ノーベル平和賞の有力候補にICC——「国際法の守護者」として注目集まる",
+        "Claude Code 2.1.277がAGENTS.mdをサポート——CLAUDE.mdなし環境での指示読み込みに対応",
+        "Claude Mods 入門——TypeScript関数でClaude Codeを自由にカスタマイズする",
+        "CloudflareのPython Workersが正式リリース——WebAssembly経由でエッジにPythonが到来",
+        "Claude Code Reads AGENTS.md Only When Telemetry Is On — Privacy-Conscious Users Hit Silent Feature Gate",
+        "Pentagon: Overreliance on AI Contributed to Missile Strike on Iranian School — 34 Children Killed",
+        "Independent Analysis: Claude Opus 5.5 Matches Claude Fable 5.1 at 40% Lower Cost — Reshaping the Value Tier"
+      ]
+    },
     {
       "run_at": "2026-09-23T20:00:00+09:00",
       "urls": [

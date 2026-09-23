@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-23T10:00:00+09:00",
+  "last_run_at": "2026-09-23T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-23T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6596238",
+        "https://news.yahoo.co.jp/pickup/6596246",
+        "https://news.yahoo.co.jp/pickup/6596244",
+        "https://news.yahoo.co.jp/pickup/6596250",
+        "https://news.yahoo.co.jp/pickup/6596243",
+        "https://zenn.dev/643866/articles/48eae6e7b845f8",
+        "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
+        "https://www.itmedia.co.jp/news/article/2609/21/2000001665/",
+        "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+        "https://github.blog/changelog/2026-09-22-security-improvements-for-ssh",
+        "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app"
+      ],
+      "titles": [
+        "5連休明け、全国でUターンラッシュ——高速道路や新幹線で混雑ピーク",
+        "JCOMで大規模通信障害——関東・関西の一部でネット・TV接続不能に",
+        "無人の軽トラック暴走——男性が下敷き、病院搬送後に死亡",
+        "バドミントン女子、アジア大会決勝へ——韓国に逆転勝ちで金メダル射程圏",
+        "台風被災の店主「疲れた」——1カ月余りで3度被災、中小商店に廃業の影",
+        "VS CodeとCursorを並列起動してマルチエージェント開発——並行作業で生産性を2〜5倍に",
+        "Devin、仮想macOS環境に対応——App Store開発・GUI自動化をAIエージェントが担う時代へ",
+        "GeminiがAI能力テスト中に実在企業3社に侵入——WSJ報道でGoogleが対応を説明",
+        "GitHub Copilot for JetBrains 1.18.0: Auto-Approval, Message Rewind, Org Skills & Codex Plan Mode",
+        "GitHub Hardens SSH Security: Post-Quantum Key Exchange, RSA 3072+ Minimum, Deprecating Weak Algorithms",
+        "OpenTelemetry Support Lands in GitHub Copilot App — Enterprise-Grade Observability for Agent Sessions"
+      ]
+    },
     {
       "run_at": "2026-09-23T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "xAI Releases Grok 4.7 — Reasoning-First Model Designed for Autonomous Multi-Step Agent Tasks",
         "Amazon Blocks Meta's Muse AI Shopping Agent — Platform War Over Agentic Access Begins",
         "HuggingFace: Your LLM Already Knows It's Wrong — Zero-Token Self-Correction at Inference Time"
-      ]
-    },
-    {
-      "run_at": "2026-09-22T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026092100511&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092100630&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092100225&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092100121&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092100483&g=spo&m=rss",
-        "https://zenn.dev/chot/articles/268804cd6694ab",
-        "https://zenn.dev/cybernetics/articles/71ea975d935414",
-        "https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html",
-        "https://github.com/BuilderIO/agent-native",
-        "https://github.com/jaredpalmer/kev/tree/main",
-        "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14"
-      ],
-      "titles": [
-        "中国軍制服組トップ・張又侠氏に党籍剥奪——「重大な規律違反」で習体制に衝撃",
-        "CNN・AP・ロイターがトランプ政権をホワイトハウス取材禁止で提訴",
-        "台風25号が関東を直撃——土砂災害で3人不明・1人重体、伊豆大島に特別警報",
-        "不法就労対策で国交省が入管庁調査に同行へ——来月から環境・農水省とも連携",
-        "アジア大会で運営トラブル相次ぐ——国歌ミス・席の空き・バス不在と混乱続く",
-        "WebMCPを試してみた——フロントエンドの必須AI技術になりそうな予感、操作時間が50%短縮",
-        "Jevを「確率モデルの部品」として見る——LLMとは別の推論モデルとして組み合わせる新視点",
-        "PlanetScaleがPostgreSQLシャーディング自動化DB「Neki」をプレビュー公開——1.18億QPSを達成",
-        "BuilderIO Releases Agent-Native: Open-Source Framework for Agent + UI Shared Action Layer",
-        "Kev: Open-Source Family of Jev-Inspired Decision Models Built on Qwen3.5 with LoRA Fine-Tuning",
-        "GitHub Copilot Weekly (Sep 14): Model Tiers, Auto-Resolve Reviews, VS Code Agents GA, Sentry Integration"
       ]
     }
   ]

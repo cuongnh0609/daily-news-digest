@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-23T05:00:00+09:00",
+  "last_run_at": "2026-09-23T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-23T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/043c474a71094d0635fb1418127ede9e1fb9dd0f",
+        "https://www.jiji.com/jc/article?k=2026092300186&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092300259&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092300189&g=int&m=rss",
+        "https://news.yahoo.co.jp/articles/b1e82233d014554d50fcc43ef901248269f4ebb4",
+        "https://zenn.dev/canly/articles/7ac8cea14c20e8",
+        "https://zenn.dev/pksha/articles/5a1dc6470019d6",
+        "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
+        "https://unreallabs.ai/blog/unreal-agent/",
+        "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+        "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp"
+      ],
+      "titles": [
+        "台風25号、死者9人に増加——神奈川・三浦で不明の女性が遺体で発見",
+        "高市首相、ゼレンスキー大統領と会談——就任後初、ウクライナ支援の継続を確認",
+        "サウジアラビア、ドローン攻撃で停止した原油パイプラインを再稼働",
+        "トランプ大統領、AIの国際規制に「拒否」——「超知能」は米国主導で管理と宣言",
+        "富士山の開山中遭難者が63人に——5人が死亡、強行登山への警告が続く",
+        "Claude Docs 登場——Slides・Design と統合、ネイティブ共同編集で「AI時代のGoogle Docs」に",
+        "AI ネイティブなデータ分析基盤「Laplace」をClaude Codeで1ヶ月で構築——MCP経由で自然言語クエリも実現",
+        "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」を公開——価格は前世代の半額以下、Anthropicとの価格戦争が激化",
+        "Unreal Agent: Open-Source Agentic Framework Achieves 40% Cost Savings via Async Tool Management",
+        "GPT-6 Sol/Luna vs Claude Opus 5.5: AI Pricing War Accelerates — Both Released Same Day With Deep Cuts",
+        "WordPress Critical RCE: Unauthenticated Path Traversal Vulnerability Affects Millions of Sites"
+      ]
+    },
     {
       "run_at": "2026-09-23T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "BuilderIO Releases Agent-Native: Open-Source Framework for Agent + UI Shared Action Layer",
         "Kev: Open-Source Family of Jev-Inspired Decision Models Built on Qwen3.5 with LoRA Fine-Tuning",
         "GitHub Copilot Weekly (Sep 14): Model Tiers, Auto-Resolve Reviews, VS Code Agents GA, Sentry Integration"
-      ]
-    },
-    {
-      "run_at": "2026-09-21T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6596052",
-        "https://www.jiji.com/jc/article?k=2026092100441&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092100374&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092100414&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092100432&g=int&m=rss",
-        "https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods",
-        "https://www.publickey1.jp/blog/26/anthropicmcpmcpagntconmcpcon_japan_2026.html",
-        "https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html",
-        "https://www.publickey1.jp/blog/26/anthropicmcpmcpagntconmcpcon_japan_2026.html",
-        "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-        "https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html"
-      ],
-      "titles": [
-        "神奈川県で土砂崩れが相次ぐ——台風25号の影響で2人が行方不明に",
-        "競泳・空手で金メダルラッシュ——愛知・名古屋アジア大会で日本勢が躍進",
-        "両親から虐待を受けた女児が死亡——傷害容疑で逮捕、千葉県警が捜査",
-        "プーチン政権与党が圧勝——ロシア下院選、355議席超獲得で単独改憲が現実に",
-        "豪州が2029年の国連安保理非常任理事国入りに立候補——日豪の安保協力に追い風",
-        "Claude Mods 入門——Function Hooksで Claude Code を深くカスタマイズする新プラグインシステム",
-        "AnthropicのMCP共同作者が来日——MCPConで語る「MCP Tasks」「Skills over MCP」の次なる展開",
-        "AIによるドキュメントトラフィック激減でエンジニア75%解雇——ShopifyがTailwind Labsを買収",
-        "Anthropic Plans Three MCP Upgrades: Tasks, Skills, and Identity for Autonomous Agents",
-        "\"Why MCP Was Always a Bad Idea\" — A Contrarian Take on the Limits of Tool Protocols",
-        "Shopify Acquires Tailwind Labs After AI Slashes Documentation Traffic 40%"
       ]
     }
   ]

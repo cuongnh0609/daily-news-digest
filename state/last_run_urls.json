@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-24T00:00:00+09:00",
+  "last_run_at": "2026-09-24T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-24T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/articles/ana-emergency-landing-narita-0924",
+        "https://news.yahoo.co.jp/pickup/ana-missing-child-island",
+        "https://news.yahoo.co.jp/articles/squeeze-harmful-substance-korea-2026",
+        "https://news.yahoo.co.jp/articles/japan-us-summit-analysis-0924",
+        "https://news.yahoo.co.jp/articles/italy-nuclear-2026-vote",
+        "https://zenn.dev/saitoko/articles/claude-code-quality-design",
+        "https://zenn.dev/kanfu_panda/articles/pdlc-multi-agent-88cycles",
+        "https://www.publickey1.jp/blog/26/aws_nx_plugin_for_aws_1_0.html",
+        "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+        "https://github.blog/changelog/2026-09-23-copilot-local-sandboxing"
+      ],
+      "titles": [
+        "ANAの国内線が成田空港に緊急着陸——乗客・乗員は滑走路上で脱出",
+        "行方不明の6歳とみられる遺体を離島で発見——身元確認を急ぐ",
+        "韓国製「スクイーズ」おもちゃから有害化学物質——消費者庁が輸入品に警告",
+        "日米首脳会談の成果を識者が検証——経済・安保の「達成度」で評価が割れる",
+        "イタリア議会、24年ぶりの原子力エネルギー推進を可決——エネルギー安保と脱炭素を両立へ",
+        "Claude Codeのアウトプット品質は「書く前に決まる」——5ヶ月で23項目に進化した設計ガイドライン",
+        "マルチエージェントPDLCで88サイクル・3機能を並行実装——実測データ付きの実践レポート",
+        "AWS Nx Pluginが正式リリース——AIでNxモノレポのAWSフルスタックを自動生成",
+        "Claude Discovers Novel Enzyme System with CRISPR-Like Repeats — First AI-Driven Biological Discovery by a Major Lab",
+        "Stripe Builds Knowledge AI Platform \"Kai\" — 83% Weekly Active Users, 39% More Deals Closed",
+        "GitHub Copilot Gets Local Sandboxing — Agent Sessions Now Restricted to Per-Project File & Network Access"
+      ]
+    },
     {
       "run_at": "2026-09-24T00:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "How Included Health Built Federated Agents for Healthcare Navigation with LangGraph",
         "GitHub Copilot Code Review Gets Major Overhaul — Smarter Progress Tracking, Auto-Resolve, Commit Message Gen",
         "Anthropic Partners with Accenture on Embedded AI Evaluation — Bringing Safety Evals Inside the Enterprise"
-      ]
-    },
-    {
-      "run_at": "2026-09-22T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6596171",
-        "https://news.yahoo.co.jp/pickup/6596148",
-        "https://news.yahoo.co.jp/pickup/6596173",
-        "https://news.yahoo.co.jp/pickup/6596164",
-        "https://news.yahoo.co.jp/pickup/6596170",
-        "https://zenn.dev/zephris/articles/5c34ece0877187",
-        "https://zenn.dev/watany/articles/36e11a20ce3743",
-        "https://www.itmedia.co.jp/news/article/2609/22/2000001667/",
-        "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
-        "https://huggingface.co/blog/quao627/your-inference-server-is-secretly-a-learner-reef",
-        "https://mimo.xiaomi.com/mimo-v2-6"
-      ],
-      "titles": [
-        "台風 千葉・神奈川で死者計6人、介護施設180人が孤立",
-        "日米 中国を念頭に連携強化確認へ——高市首相、国連総会でトランプ大統領と会談",
-        "飲酒運転の多重事故——巻き添えで3歳男児が死亡、福岡",
-        "博士号授与されず 学生が大学提訴——奈良女子大大学院生が約1700万円の損害賠償請求",
-        "アジア大会バレーボール女子決勝——日本対中国、金メダルをかけた激戦",
-        "ChatGPTにブラウザを操作させたら——自作Chrome拡張との境界線と、AIが超えられない壁",
-        "Jevでハーネスエンジニアリング——TypeSafe決定モデルをClaude Codeのガードレールと仕様確認に活用",
-        "Googleが「Googlebook」予約受付開始——899ドルからのAI統合デバイスが注目",
-        "GitHub Migrated 800K Lines of Copilot Runtime to Rust — Using Copilot Agents to Do It",
-        "Reef: Open-Source Infrastructure for Self-Improving Agents That Learn at Inference Time",
-        "Xiaomi Releases MiMo v2.6 — Reasoning Model Achieving Frontier Performance on Consumer Hardware"
-      ]
-    },
-    {
-      "run_at": "2026-09-22T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6596136",
-        "https://news.yahoo.co.jp/pickup/6596129",
-        "https://news.yahoo.co.jp/pickup/6596133",
-        "https://news.yahoo.co.jp/pickup/6596126",
-        "https://news.yahoo.co.jp/pickup/6596139",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2609/22/news009.html",
-        "https://kn.itmedia.co.jp/kn/article/2609/22/2000001658/",
-        "https://zenn.dev/tanakh/articles/c-code-in-rust",
-        "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-        "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
-        "https://www.itmedia.co.jp/news/article/2609/22/2000001671/"
-      ],
-      "titles": [
-        "台風25号の浸水被害——千葉・佐倉市で住民が帰宅できず、成田空港でも4000人が一夜足止め",
-        "OpenAIが米国主導のAI安全基準策定を国連で提言——アルトマンCEO、安保理に出席へ",
-        "リトアニア首相「ロシアが攻撃すれば反撃する」——NATO東側の防衛姿勢が鮮明に",
-        "通学路の安全対策に「カラフル横断歩道」——赤・青・緑で視認性を高め交通事故を防ぐ",
-        "アジア大会の運営不手際が続出——組織委が公式サイトで反論声明、世論調査では66%が「全く期待しない」",
-        "AIエージェント「Devin」で製造シミュレーション開発工数を78.8%削減——キャタピラー社の実践事例が示す生産現場へのAI実装",
-        "Teams会議の録画をAIエージェントの「教材」に——ヘッドウォータースが業務知識を構造化するSaaS「SyncLect Agent Garden」を提供開始",
-        "C言語のコードをRustの中に直接書けるライブラリを個人開発——FFIの煩雑さを解消する新アプローチが話題に",
-        "dlab Open Source Week: Frontier AI on Consumer Hardware — 450 tok/s from a 35B Model at 1.5-bit, CliffCompaction Cuts Agent Costs 45%",
-        "Cloudflare Python Workers Now Generally Available — Python Becomes a First-Class Language on the Edge via WebAssembly + Pyodide",
-        "OpenAI Claims Internal Model Solved 100+ Unsolved Math Problems — Partners with Independent Advisory Group to Manage Academic Fallout"
-      ]
-    },
-    {
-      "run_at": "2026-09-22T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6596089",
-        "https://news.yahoo.co.jp/pickup/6596100",
-        "https://news.yahoo.co.jp/pickup/6596091",
-        "https://news.yahoo.co.jp/pickup/6596090",
-        "https://news.yahoo.co.jp/pickup/6596094",
-        "https://zenn.dev/hirata_infosys/articles/598068e56ae342",
-        "https://zenn.dev/sprix_it/articles/db685b8fd6bffe",
-        "https://www.itmedia.co.jp/news/article/2609/22/2000001668/",
-        "https://simonwillison.net/2026/Sep/21/jev/",
-        "https://linear.app/now/ci-bottleneck-reworked",
-        "https://www.itmedia.co.jp/news/article/2609/17/2000001573/"
-      ],
-      "titles": [
-        "台風25号の爪痕残る関東——崖・増水した川への接近は厳禁",
-        "政府、重要資源の代替素材研究を強化——レアアース・ナフサの中国依存を脱却へ",
-        "副首都構想に6道府県・6政令市が意欲——政府は10月末までに指定要件を決定へ",
-        "コロナ自宅待機1年半で自死——大阪労働局が「職場いじめ」として労災認定",
-        "愛知県の婚活サイトで8年間にわたり599人の個人情報が閲覧可能な状態に——県が謝罪",
-        "MCP × Claude Code × Bedrockで勤怠管理を自動化——93.3%の成功率を30日間維持した実践報告",
-        "1年半かけて育てたAI開発フロー——仕様書駆動のマルチエージェント設計で「AIが中心になった」",
-        "SpaceXAI、「Grok 4.7」発表——コーディング向け最高性能モデル、GPT-5.6 Solの半額以下",
-        "Jev: A New Shape of LLM — \"System One\" Decision Models That Return Probabilities, Not Text",
-        "AI Coding Made CI a Bottleneck — How Linear Rebuilt Their Pipeline to Keep Up",
-        "Google DeepMind Launches DeepMind Institute — \"We Are Approaching AGI\""
       ]
     }
   ]

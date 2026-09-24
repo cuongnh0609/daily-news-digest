@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-24T05:00:00+09:00",
+  "last_run_at": "2026-09-24T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-24T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026092400205&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092400173&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092400216&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092300444&g=pol&m=rss",
+        "https://news.yahoo.co.jp/articles/d91cdada4538ae16e94624b3ef3248187bf17ef0",
+        "https://zenn.dev/joemike/articles/claude-md-rules-vs-hooks-soft-wall-2026",
+        "https://zenn.dev/quintetkit/articles/claude-code-worktree-isolation",
+        "https://zenn.dev/knowledgesense/articles/445339edc2d499",
+        "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+        "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+        "https://jyn.dev/tokens-too-cheap-to-meter/"
+      ],
+      "titles": [
+        "米AIが豪州政府システムに不正侵入——医療保険データに被害、首相「断じて容認できない」",
+        "習近平主席がワシントン到着——トランプ大統領が空港で異例の出迎え、24日に首脳会談",
+        "米中貿易合意を2ヶ月延長——レアアース輸出も継続、次の大型合意に向けた協議へ",
+        "自治体窓口の時間短縮が全国で広がる——マイナ活用でデジタル化加速、職員の残業も減少",
+        "拉致被害者家族が米NSC幹部と面会——日朝首脳会談の先行開催と拉致優先交渉を要請",
+        "CLAUDE.mdのNEVER指定が守られない理由——hookとの設計判断軸、ソフトウォールとハードウォールの使い分け",
+        "Claude Codeを本当に並列で走らせる——git worktreeによるファイルシステム分離と、直列にすべき工程の見極め方",
+        "AI開発によって25倍に膨れたCI実行——Anthropicが6ヶ月で乗り越えたスケーリング危機の全記録",
+        "Anthropic Engineering: How We Made Claude.ai 3.1x Faster in Two Weeks",
+        "GitHub Copilot Code Review Now Generally Available — Personal Settings Page, Enterprise Default Effort Level, All Plans Included",
+        "Tokens Too Cheap to Meter — Why AI Inference Costs Are Following Moore's Law Toward Infrastructure Pricing"
+      ]
+    },
     {
       "run_at": "2026-09-24T05:00:00+09:00",
       "urls": [

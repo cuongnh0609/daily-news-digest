@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-25T00:00:00+09:00",
+  "last_run_at": "2026-09-25T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-25T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026092400664&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092500106&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092401111&g=flash&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092400631&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6596412?source=rss",
+        "https://zenn.dev/nenene01/articles/spec-first-anchored-as-source",
+        "https://zenn.dev/a1yama/articles/claude-code-hook-deny-vs-prompt",
+        "https://www.itmedia.co.jp/enterprise/articles/2609/24/news050.html",
+        "https://www.anthropic.com/engineering/how-we-contain-claude",
+        "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
+        "https://github.com/devdotfast/whiteboard"
+      ],
+      "titles": [
+        "米中首脳会談が開幕——AIと貿易で歴史的な協議、習主席11年ぶりの国賓訪問",
+        "習主席、台湾問題「慎重に処理を」——ホワイトハウスでイランの平和実現も要求",
+        "日本がウルグアイに3―1で快勝——国際親善試合、森保ジャパンが連勝",
+        "トクリュウのスマホ遠隔解析へ——被害防止に向け法改正目指す、警察庁が提言",
+        "政府、米中首脳会談の動向を注視——貿易・安保への影響を慎重に分析",
+        "AI駆動開発で「仕様をどこでどこまで維持するか」を考える——spec-firstアプローチの実践論",
+        "CLAUDE.mdに書いても守られなかったので、7日分数えてからフックで拒否した",
+        "NECがAI自律組織を設立——AIエージェントが意思決定の一翼を担う新体制へ",
+        "Anthropic Engineering: How We Contain Claude Across Products",
+        "GitHub Copilot Now Supports OpenTelemetry — Full Observability for Agent Sessions",
+        "Show HN: Whiteboard (YC W26) — Open-Source IDE for Thoughtful Software Design"
+      ]
+    },
     {
       "run_at": "2026-09-25T00:00:00+09:00",
       "urls": [

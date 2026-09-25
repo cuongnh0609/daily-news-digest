@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-25T15:00:00+09:00",
+  "last_run_at": "2026-09-26T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-26T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026092600020&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092501063&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092501046&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6596559?source=rss",
+        "https://www.jiji.com/jc/article?k=2026092501213&g=int&m=rss",
+        "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html",
+        "https://zenn.dev/nwn/articles/e49154653ecea9",
+        "https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html",
+        "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+        "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+        "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+      ],
+      "titles": [
+        "習氏「今年あと２回会う機会がある」——APEC・G20でのトランプ再会を歓迎",
+        "日米首脳会談——トランプ「円安で貿易が難しい」、高市首相は円安容認せず",
+        "高市首相「日本はICC支持」——トランプ大統領に明言、脱退圧力に抗して",
+        "台風25号、死者12人・行方不明3人——全国で被害広がる",
+        "米中貿易合意を28日に公表——UST代表「交渉は前進している」",
+        "Claude CodeがAGENTS.mdに対応——CLAUDE.mdがない場合に自動読み込み、マルチエージェント環境を統一",
+        "Jevにゲームはやらせるな——LLMを蒸留して1000倍速の判定モデルを作る実験",
+        "CloudflareのPython Workersが正式サービスに——PythonでWebアプリ・DB接続・ストレージ操作をエッジで実行",
+        "Claude Opus 5.5, GPT-6 Sol & Luna: A New Price War in LLMs",
+        "GitHub Copilot Agentic Autofix Now Learns from Past Fixes via Copilot Memory",
+        "Claude Discovers a Novel Enzyme System with CRISPR-Like Repeats"
+      ]
+    },
     {
       "run_at": "2026-09-25T15:00:00+09:00",
       "urls": [

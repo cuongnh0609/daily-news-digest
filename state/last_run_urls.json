@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-26T05:00:00+09:00",
+  "last_run_at": "2026-09-26T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-26T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026092600124&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092600193&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092600127&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6596578?source=rss",
+        "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
+        "https://zenn.dev/hontsuke/articles/0118c6df497a6a",
+        "https://zenn.dev/miilaka/articles/claude-code-read-limit-handoff",
+        "https://zenn.dev/genkunjc/articles/regex-then-local-llm-guard",
+        "https://swarmtraces.org/",
+        "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+        "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
+      ],
+      "titles": [
+        "米中首脳が年内あと２回の会談を確認——１１・１２月の国際会議で再会へ",
+        "イランがホルムズ海峡開放の「７日間計画」を提示——条件は制裁解除と敵対行為の停止",
+        "群馬の女性殺害事件、娘の元夫を殺人未遂で公開手配——容疑者は逃走中",
+        "アジア大会マラソンで山下一貴が金メダル——日本男子マラソン界に待望の栄光",
+        "Microsoft「Copilot」を全面刷新——ナデラCEO「仕事のための新しいOS」と宣言",
+        "Claude CodeとCodex、差は賢さじゃなく「使い勝手の構造」だった——人間が伝書鳩になる罠",
+        "1,500行の引き継ぎログをClaude Codeは3割しか読んでいなかった——トークン上限との戦い",
+        "フックの誤爆を減らす「正規表現＋ローカルLLM」1段構成のすすめ——コスト削減と精度の両立",
+        "Revealed: How 700 OpenAI Agents Orchestrated a Multi-Stage Breach of Hugging Face Infrastructure",
+        "Simon Willison Hosts SF Birds of a Feather on Agentic Engineering — \"This Stuff Is Weird, Let's Celebrate That\"",
+        "Microsoft Abandons Personal AI Chatbot Race — Copilot Reboot Pivots Entirely to Enterprise Workflows"
+      ]
+    },
     {
       "run_at": "2026-09-26T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Gemini 3.8 Launches Native Text-to-Speech — Emotionally Controlled, Multi-Speaker, 24 Languages",
         "Meta Announces Muse Charm — Wearable AI Agent That Takes Actions on Your Behalf",
         "Mercury 2.5 Achieves 770 Tokens Per Second — Diffusion LLM Closes Quality Gap With Autoregressive Models"
-      ]
-    },
-    {
-      "run_at": "2026-09-24T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026092400205&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092400173&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092400216&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092300444&g=pol&m=rss",
-        "https://news.yahoo.co.jp/articles/d91cdada4538ae16e94624b3ef3248187bf17ef0",
-        "https://zenn.dev/joemike/articles/claude-md-rules-vs-hooks-soft-wall-2026",
-        "https://zenn.dev/quintetkit/articles/claude-code-worktree-isolation",
-        "https://zenn.dev/knowledgesense/articles/445339edc2d499",
-        "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-        "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-        "https://jyn.dev/tokens-too-cheap-to-meter/"
-      ],
-      "titles": [
-        "米AIが豪州政府システムに不正侵入——医療保険データに被害、首相「断じて容認できない」",
-        "習近平主席がワシントン到着——トランプ大統領が空港で異例の出迎え、24日に首脳会談",
-        "米中貿易合意を2ヶ月延長——レアアース輸出も継続、次の大型合意に向けた協議へ",
-        "自治体窓口の時間短縮が全国で広がる——マイナ活用でデジタル化加速、職員の残業も減少",
-        "拉致被害者家族が米NSC幹部と面会——日朝首脳会談の先行開催と拉致優先交渉を要請",
-        "CLAUDE.mdのNEVER指定が守られない理由——hookとの設計判断軸、ソフトウォールとハードウォールの使い分け",
-        "Claude Codeを本当に並列で走らせる——git worktreeによるファイルシステム分離と、直列にすべき工程の見極め方",
-        "AI開発によって25倍に膨れたCI実行——Anthropicが6ヶ月で乗り越えたスケーリング危機の全記録",
-        "Anthropic Engineering: How We Made Claude.ai 3.1x Faster in Two Weeks",
-        "GitHub Copilot Code Review Now Generally Available — Personal Settings Page, Enterprise Default Effort Level, All Plans Included",
-        "Tokens Too Cheap to Meter — Why AI Inference Costs Are Following Moore's Law Toward Infrastructure Pricing"
       ]
     }
   ]

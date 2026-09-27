@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-27T15:00:00+09:00",
+  "last_run_at": "2026-09-27T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-27T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026092700217&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092700194&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092700227&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092700142&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092700111&g=soc&m=rss",
+        "https://zenn.dev/kenichi_mishina/articles/93fe5c5a8d376d",
+        "https://zenn.dev/m16_llc/articles/claude-code-model-routing-fable-opus",
+        "https://zenn.dev/key60228/articles/d4f2591a42a876",
+        "https://arxiv.org/abs/2609.22978",
+        "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+        "https://simonwillison.net/2026/Sep/17/compaction-summaries/"
+      ],
+      "titles": [
+        "大の里、安青錦との相星決戦を制して秋場所6度目の優勝——大相撲頂点への独走続く",
+        "中村輪夢が自転車BMXフリースタイルで金メダル——アジア大会名古屋大会で日本の快進撃続く",
+        "サッカー日本代表、ベネズエラ戦へ大幅メンバー刷新——主力温存で若手・控えに出場機会",
+        "バンコクで記録的大雨——タイ政府が首都全域を災害地域に指定、緊急対応を急ぐ",
+        "17歳少年が包丁を準備し「殺すつもりだった」——殺人予備容疑で逮捕、石川県警",
+        "Light SDDの手順をCodexで回してみた——最後まで動いた、違いは「人に判断を求めるか」に出た",
+        "Claude Codeで判断役と実行役でモデルを分ける——Fable 5.1 × Opus 5のモデルルーティング設計",
+        "Platform Engineering Kaigi 2026 登壇資料まとめ——AIエージェント統合・IaCセキュリティ・抽象化設計が三本柱",
+        "DeepSeek Releases DSec: Sandbox Infrastructure Supporting 380,000 Concurrent Agent Environments for RL Training",
+        "ASML Reports Zero European Sales in 2026, Calls on EU to Create Semiconductor Demand",
+        "Simon Willison: Self-Generated Prompt Injections in Compaction Summaries — AI Agents Attacking Their Own Context"
+      ]
+    },
     {
       "run_at": "2026-09-27T15:00:00+09:00",
       "urls": [

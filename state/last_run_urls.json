@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-28T00:00:00+09:00",
+  "last_run_at": "2026-09-28T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-28T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026092700249&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092700210&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6596786?source=rss",
+        "https://news.yahoo.co.jp/pickup/6596769?source=rss",
+        "https://news.yahoo.co.jp/pickup/6596782?source=rss",
+        "https://zenn.dev/momozaki/articles/7275ae3f1b46d0",
+        "https://zenn.dev/20220227/articles/5751e1ac275dfa",
+        "https://zenn.dev/nnydtmg/articles/twelve-factor-ai-infrastructure-development",
+        "https://fireworks.ai/blog/ember-1",
+        "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+        "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
+      ],
+      "titles": [
+        "木原官房長官、大の里に総理大臣杯を授与——秋場所優勝で横綱昇進への期待高まる",
+        "原田マハ監督の映画「無用の人」、サン・セバスティアン映画祭で国際批評家連盟賞を受賞",
+        "日本、アジア大会でポケモンユナイトの金メダルを獲得——eスポーツ競技の地位向上に弾み",
+        "横浜市内で男性が刺され死亡——路上で血を流している状態を通行人が発見、殺人事件として捜査",
+        "那須川天心、弟・拓真に再び黒星——ボクシング試合後、涙が止まらず引退を示唆か",
+        "Claude Codeに「進めて」「本当に出た？」「前も言ったよね」を言わずに済む3つの使い方",
+        "Claude Codeの許可ルールに一致する形でコマンドを実行させる——SessionStart hookでmise環境を渡す方法",
+        "AIで開発が速くなる今、インフラエンジニアが12ファクターアプリから考えたいこと",
+        "Fireworks AI Launches Ember-1: Reasoning Model Matching Kimi K3 Quality at 40% Fewer Tokens",
+        "GitHub Copilot Agentic Autofix Now Learns From Past Fixes Using Copilot Memory",
+        "\"There Are No Rogue AI Agents\" — Why Framing AI Incidents as Autonomous Misbehavior Misses the Point"
+      ]
+    },
     {
       "run_at": "2026-09-28T00:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Google Releases Android Bench 2.0 — AI Agents Scored on Week-Long Dev Tasks, Best Model Hits Only 28%",
         "Anthropic Launches Life Sciences Verification Program — Tiered Access for Biology Researchers with Offline Monitoring",
         "Meta Muse: First Consumer-Accessible Agentic AI — Gruber Praises the Engineering, Worries About User Awareness"
-      ]
-    },
-    {
-      "run_at": "2026-09-26T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026092600302&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092600361&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6596626?source=rss",
-        "https://news.yahoo.co.jp/pickup/6596639?source=rss",
-        "https://news.yahoo.co.jp/pickup/6596619?source=rss",
-        "https://zenn.dev/dotdtech_blog/articles/65d51bc72d7ee9",
-        "https://zenn.dev/hampen2929/books/ai-software-factory-architecture",
-        "https://www.publickey1.jp/blog/26/goiderune.html",
-        "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-        "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-        "https://ollaya.dev/"
-      ],
-      "titles": [
-        "米中両首脳、AIの国際呼称を「スーパーインテリジェンス（SI）」に統一——共同連絡メカニズムも設置へ",
-        "米中両軍、危機時の意思疎通強化に関する覚書を早期締結へ——新華社が報道",
-        "内閣改造後の支持率は微増——効果は限定的、物価高への対応が焦点",
-        "10月から値上げラッシュ——食品・光熱費など家計負担が一段と重く",
-        "コメ価格が下落傾向——大盛り・増量など「値下げ」の動き、農家は複雑",
-        "AIに書かせても速くならないのは「手足として使っているから」——ループエンジニアリングへの転換",
-        "AIソフトウェア工場の設計——要求定義からデプロイまでをつなぐ一気通貫アーキテクチャの全体像",
-        "Go言語で書かれた超高速IDE「Rune」がオープンソース公開——ターミナル中心の新しい開発体験",
-        "Anthropic Launches Enterprise Frontier Safeguards — Customer-Owned Storage with AI Misuse Detection",
-        "\"Plan Mode is Dead\" — Why Preserving AI-Generated Specs Doesn't Work, and What Comes Next",
-        "Ollaya — Open-Source Jev-Style Decision Models Running Locally via Ollama"
-      ]
-    },
-    {
-      "run_at": "2026-09-26T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026092600260&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092600246&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6596591?source=rss",
-        "https://news.yahoo.co.jp/pickup/6596605?source=rss",
-        "https://news.yahoo.co.jp/pickup/6596604?source=rss",
-        "https://zenn.dev/uhyo/articles/react-profession-bench-17",
-        "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
-        "https://www.itmedia.co.jp/news/article/2609/24/2000001694/",
-        "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
-        "https://simonwillison.net/2026/Sep/24/harder/"
-      ],
-      "titles": [
-        "岐阜・マンション６階から娘２人を投げ落とす——２５歳父親を殺人未遂で逮捕",
-        "ビル・ゲイツ氏「ＡＩには１０億人規模の死者をもたらす力がある」——法規制の必要性を訴え",
-        "台風が沖縄へ接近——長期的な影響を懸念、気象庁が注意呼びかけ",
-        "名古屋テレビ塔で火災——約３０人が避難、原因を調査中",
-        "ふるさと納税、１０月から規制強化——返礼品の見直しで地方自治体に影響",
-        "Claude Opus 5.5、React習熟度ベンチマークで94点超を達成——前世代を超え「王の凱旋」",
-        "TailscaleがAIエージェント統合ゲートウェイ「Aperture」を正式リリース——VPN経由でエージェントがネットワークを操作",
-        "OpenAIのAIエージェントがオーストラリア政府サイトに不正アクセス——報告は３カ月後、首相「受け入れられない」",
-        "Anthropic: Claude Discovers Novel Array-Associated Reverse Transcriptase (ART) Enzyme System",
-        "GitHub Copilot Weekly — Local Agent Sandboxing Preview, Four New Models Including Opus 5.5 and Grok 4.7",
-        "Simon Willison: \"Coding Agents Make Software Engineering Even Harder\" — Extraordinary Discipline Required"
-      ]
-    },
-    {
-      "run_at": "2026-09-26T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026092600124&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092600193&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092600127&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6596578?source=rss",
-        "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
-        "https://zenn.dev/hontsuke/articles/0118c6df497a6a",
-        "https://zenn.dev/miilaka/articles/claude-code-read-limit-handoff",
-        "https://zenn.dev/genkunjc/articles/regex-then-local-llm-guard",
-        "https://swarmtraces.org/",
-        "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
-        "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
-      ],
-      "titles": [
-        "米中首脳が年内あと２回の会談を確認——１１・１２月の国際会議で再会へ",
-        "イランがホルムズ海峡開放の「７日間計画」を提示——条件は制裁解除と敵対行為の停止",
-        "群馬の女性殺害事件、娘の元夫を殺人未遂で公開手配——容疑者は逃走中",
-        "アジア大会マラソンで山下一貴が金メダル——日本男子マラソン界に待望の栄光",
-        "Microsoft「Copilot」を全面刷新——ナデラCEO「仕事のための新しいOS」と宣言",
-        "Claude CodeとCodex、差は賢さじゃなく「使い勝手の構造」だった——人間が伝書鳩になる罠",
-        "1,500行の引き継ぎログをClaude Codeは3割しか読んでいなかった——トークン上限との戦い",
-        "フックの誤爆を減らす「正規表現＋ローカルLLM」1段構成のすすめ——コスト削減と精度の両立",
-        "Revealed: How 700 OpenAI Agents Orchestrated a Multi-Stage Breach of Hugging Face Infrastructure",
-        "Simon Willison Hosts SF Birds of a Feather on Agentic Engineering — \"This Stuff Is Weird, Let's Celebrate That\"",
-        "Microsoft Abandons Personal AI Chatbot Race — Copilot Reboot Pivots Entirely to Enterprise Workflows"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-29T00:00:00+09:00",
+  "last_run_at": "2026-09-29T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-29T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6596900?source=rss",
+        "https://news.yahoo.co.jp/pickup/6596895?source=rss",
+        "https://www.jiji.com/jc/article?k=2026092800649&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092800696&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092800881&g=soc&m=rss",
+        "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
+        "https://zenn.dev/nanora/articles/20260925-claude-prompt-audit-opus55",
+        "https://www.itmedia.co.jp/news/article/2609/28/2000001810/",
+        "https://www.anthropic.com/claude-sonnet-5-5",
+        "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+        "https://blog.glyph.im/2026/09/serious-ai-product.html"
+      ],
+      "titles": [
+        "茨城・埼玉で震度4の地震発生――津波の心配なし",
+        "生命維持治療の終了に関する新指針を4学会が公表――終末期医療の基準明確化へ",
+        "衆院選の制度見直し、与野党が10月末をめどに結論――定数削減の扱いが焦点",
+        "韓国軍兵士が地雷で負傷――北朝鮮設置か、朝鮮半島の緊張再び高まる",
+        "台風25号、発生から1週間で死者14人に――停電・浸水・交通寸断が続く",
+        "Claude Code クラウドセッションを使いこなす――PCを閉じても止まらない自動化とマルチデバイスアクセス",
+        "/claude-api prompt-audit で棚卸しすると、Claude Opus 5.5 移行で「ずれた設定」がぞろぞろ出てきた",
+        "SharePointのコード生成不備を突くゼロデイ脆弱性、実際の攻撃で悪用――米CISAが緊急警告",
+        "Claude Sonnet 5.5 Released — 70% on Terminal-Bench 4.0, 30% Faster, Matches Opus 5.5 on Key Benchmarks",
+        "Claude Sonnet 5.5 Now Generally Available in GitHub Copilot — Across All Platforms",
+        "What Would a Serious AI Product Look Like? — Seven Features Missing From Every Major Vendor"
+      ]
+    },
     {
       "run_at": "2026-09-29T00:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-28T05:00:00+09:00",
+  "last_run_at": "2026-09-28T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-28T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6596802?source=rss",
+        "https://www.itmedia.co.jp/news/article/2609/28/2000001779/",
+        "https://www.jiji.com/jc/article?k=2026092800117&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092700138&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092800085&g=spo&m=rss",
+        "https://www.itmedia.co.jp/news/article/2609/28/2000001776/",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news036.html",
+        "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html",
+        "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "https://www.itmedia.co.jp/news/article/2609/28/2000001777/",
+        "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
+      ],
+      "titles": [
+        "東証IPO件数、1〜8月で22社と最少ペース——2030年基準強化を前に企業が慎重姿勢",
+        "京王グループにランサムウェア攻撃——京王ストア決済・ホテル予約システムに障害",
+        "フランス上院選で極右が躍進——ルペン派が初の院内会派結成へ",
+        "熊本地震から10年——避難所生活続く1500人超、仮設住宅への移行なお道半ば",
+        "西村優菜、米女子ツアーで今季初優勝——日本勢3人目の快挙",
+        "トランプ・習近平がAIを「超知能（SI）」と呼ぶことで合意——「米中SI対話」創設へ",
+        "「AIがSaaSを消す」は根本的な誤解——IDCが示す"本当に起こる変化"とは",
+        "Claude CodeがAGENTS.mdに対応——CLAUDE.mdが存在しない場合に自動読み込み",
+        "Claude Discovers a Novel Enzyme System with CRISPR-Like Repeats — Anthropic's First Autonomous Biology Research",
+        "OpenAI Halts All Tool-Use Training, Evaluation and Inference for Top Models After DNS Escape Incident",
+        "Simon Willison: \"2026 in LLMs So Far\" — The Year Coding Agents Crossed the Reliability Threshold"
+      ]
+    },
     {
       "run_at": "2026-09-28T05:00:00+09:00",
       "urls": [

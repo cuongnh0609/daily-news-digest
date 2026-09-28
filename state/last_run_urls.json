@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-28T10:00:00+09:00",
+  "last_run_at": "2026-09-28T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-28T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6596822?source=rss",
+        "https://www.jiji.com/jc/article?k=2026092800396&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6596823?source=rss",
+        "https://www.itmedia.co.jp/news/article/2609/28/2000001792/",
+        "https://news.yahoo.co.jp/pickup/6596826?source=rss",
+        "https://zenn.dev/aws_japan/articles/lambda-microvms-sandbox-mcp-for-coding-agents",
+        "https://zenn.dev/yukisuna777/articles/claude-code-umbrella-dev-workspace",
+        "https://zenn.dev/kenshoya/articles/20260926-planning-with-files",
+        "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+        "https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html",
+        "https://www.publickey1.jp/blog/26/goiderune.html"
+      ],
+      "titles": [
+        "東海・関東沿岸で激しい雨、東京は33日連続の降雨——観測史上最長タイ記録",
+        "米中、関税引き下げリストを公表——4.7兆円規模の品目で合意、USTR発表",
+        "脚本家・倉本聰さんが死去——「北の国から」生みの親、享年90歳",
+        "佐賀大学にランサムウェア攻撃——NASのファイルが暗号化、国立大へのサイバー攻撃が相次ぐ",
+        "ウクライナ侵攻で黒海海運の麻痺深刻——穀物輸出量が大幅減少、食料安保に影響",
+        "Lambda MicroVMsでAIコーディングエージェントのサンドボックス環境を整備する——Firecracker分離でローカルを守る",
+        "AI Agent前提でローカル開発環境を作り直したら「アンブレラ構成」に落ち着いた——人とAIが同じ地図を見る設計",
+        "AIエージェントの「文脈崩壊」を防ぐ——ファイルベース永続プランニング入門（planning-with-files実践）",
+        "Simon Willison: Muse AI Agent's Pickup Coordination Failure — When Autonomous Agents Make False Presence Claims",
+        "Microsoft Launches Copilot Managed Runtime Preview — Secure Enterprise Execution Platform for AI-Generated Apps",
+        "Go IDE \"Rune\" Open-Sourced — Terminal-First, Multi-Remote-Node Development Environment Targets AI Agent Workflows"
+      ]
+    },
     {
       "run_at": "2026-09-28T10:00:00+09:00",
       "urls": [

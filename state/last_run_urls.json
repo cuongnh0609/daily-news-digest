@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-28T15:00:00+09:00",
+  "last_run_at": "2026-09-28T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-28T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6596872?source=rss",
+        "https://news.yahoo.co.jp/pickup/6596875?source=rss",
+        "https://news.yahoo.co.jp/pickup/6596878?source=rss",
+        "https://www.jiji.com/jc/article?k=2026092800767&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092800809&g=pol&m=rss",
+        "https://zenn.dev/sun_asterisk/articles/e9b50f09839def",
+        "https://zenn.dev/goat_eat_any/articles/claude-code-effort-explained",
+        "https://zenn.dev/headwaters/articles/15875671106c54",
+        "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+        "https://github.com/deepfates/imp",
+        "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/"
+      ],
+      "titles": [
+        "台風26号、10月1日（木）に関東接近のおそれ——先行豪雨地帯で土砂災害リスク",
+        "行方不明の６歳男児の遺体を確認——飛島で発見、両親が感謝と悲しみを語る",
+        "公取委、マンション大規模修繕の談合で38社を処分——物件名公表の是非に論議",
+        "韓国、ウクライナに謝罪要求——北朝鮮兵捕虜の移送を一方的に公表と抗議",
+        "日本政府、「国家情報戦略」策定に着手——対外情報機関の創設も視野に",
+        "Playwright AIエージェントでE2Eテストを自動生成・修復——GitHub Actionsで安全に動かすための設計",
+        "Claude Codeの「エフォート」設定とは何か——タスク委任の粒度を制御する5段階の仕組み",
+        "VS Code のClaude Code拡張機能は1.34日に1回更新——464日間で347バージョン、競合ツールの3倍ペース",
+        "Anthropic Publishes Comprehensive Prompting Guide for Claude Opus 5.5 — Effort Calibration, Agentic Harness Patterns, and New Safeguard Tiers",
+        "Imp 0.5: A Full Port of DSPy to the BEAM — Declarative, Self-Improving LLM Programs for Elixir with OTP Supervision",
+        "There Is More to Code Review Than Automatable Detection — John Allspaw on the Six Dimensions AI Cannot Replace"
+      ]
+    },
     {
       "run_at": "2026-09-28T15:00:00+09:00",
       "urls": [

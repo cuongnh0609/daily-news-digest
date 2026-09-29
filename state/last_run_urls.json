@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-29T05:00:00+09:00",
+  "last_run_at": "2026-09-29T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-29T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026092900232&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092900246&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2609/28/2000001808/",
+        "https://news.yahoo.co.jp/pickup/6596912?source=rss",
+        "https://www.jiji.com/jc/article?k=2026092800569&g=spo&m=rss",
+        "https://zenn.dev/dotdtech_blog/articles/65d51bc72d7ee9",
+        "https://www.itmedia.co.jp/news/article/2609/29/2000001824/",
+        "https://zenn.dev/musaprg/articles/kubernetes-changelog-1-37-sig-apps",
+        "https://github.com/firelex/jeff",
+        "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+        "https://calnewport.com/its-time-to-investigate-the-ai-labs/"
+      ],
+      "titles": [
+        "「旧敵国条項」巡り国連で日中朝が応酬——削除要求に中国・北朝鮮が強く反発",
+        "米政府が自動車燃費基準を大幅緩和——EV普及に逆風、各メーカーの戦略見直しも",
+        "タイムズカー会員約660万件の個人情報が漏えい——運転免許画像も含む大規模不正アクセス",
+        "台風26号、10月1日に伊豆諸島近海へ——関東沿岸部で大雨・強風・高波に警戒",
+        "錦織圭、現役最後の大会へ——36歳のテニス王者が遺したもの、関係者が語るその偉大さ",
+        "AIに書かせても速くならない理由——「手足」ではなく「部下」として扱う5つの判断ポイントと半自動ループ",
+        "NVIDIAが「Open Agent Safety Platform」発表——ハードウェアレベルでAIエージェントを監視、Anthropicら100超の組織が参加",
+        "Kubernetes 1.37のSIG Apps変更点まとめ——StatefulSetの新戦略・StorageVersionMigratorのGA・コンテナProbeのHTTP/2対応",
+        "Jeff: Jev-Compatible 0.8B Decision Models Trained at Home — 22ms Inference, Matches 2B Accuracy",
+        "Cloudflare Launches \"cf\" CLI — Agentic-First Tool with 3,000+ Operations, TypeScript Config, and Vite Integration",
+        "Cal Newport: \"It's Time to Investigate the AI Labs\" — Five Concerns About OpenAI and Anthropic That Warrant Congressional Scrutiny"
+      ]
+    },
     {
       "run_at": "2026-09-29T05:00:00+09:00",
       "urls": [

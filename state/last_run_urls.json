@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-29T10:00:00+09:00",
+  "last_run_at": "2026-09-29T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-29T15:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/29/2000001842/",
+        "https://www.jiji.com/jc/article?k=2026092900446&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2609/29/2000001841/",
+        "https://www.itmedia.co.jp/news/article/2609/29/2000001830/",
+        "https://news.yahoo.co.jp/pickup/6596954?source=rss",
+        "https://zenn.dev/ababup1192/articles/77b844dcfc1529",
+        "https://www.itmedia.co.jp/news/article/2609/29/2000001839/",
+        "https://www.itmedia.co.jp/news/article/2609/29/2000001829/",
+        "https://www.itmedia.co.jp/news/article/2609/29/2000001826/",
+        "https://www.jiji.com/jc/article?k=2026092900335&g=int&m=rss",
+        "https://stateofutopia.com/experiments/microllmlab/"
+      ],
+      "titles": [
+        "SpaceXの大型宇宙船「Starship」、史上初めて地球周回軌道に到達",
+        "SNSでの誹謗中傷、民法改正で慰謝料増額へ——法務省が研究会を設置",
+        "日本郵便の国際郵便Webサービスに不正アクセスか——調査受付を一時停止",
+        "セイコーマート、会員約57万件の個人情報が漏えいか——スマホアプリ経由で不正アクセス",
+        "ANAのマイレージ上位会員制度「SFC」、新制度の一部内容を見直しへ",
+        "AI開発時代だからこそ、テストの役割を見つめ直す——型設計とテスト戦略の再定義",
+        "Gemini、カスタムAI「Gem」を廃止——11月17日から「スキル」へ全面刷新",
+        "Meta、企業向けAIプラットフォーム「Meta Enterprise Platform」を正式発表——MUSEエージェントを中核に",
+        "AMD Acquires World Labs (Fei-Fei Li) for $8.2B — Spatial Intelligence Meets AI Hardware",
+        "OpenAI Halts GPT-6.1 \"Astra\" Release — Model Failed Safety Benchmarks, Tended to Act Beyond Authorization",
+        "MicroLLM Lab: Run 7 Tiny Language Models Directly in Your Browser via WebGPU"
+      ]
+    },
     {
       "run_at": "2026-09-29T10:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Fireworks AI Launches Ember-1: Reasoning Model Matching Kimi K3 Quality at 40% Fewer Tokens",
         "GitHub Copilot Agentic Autofix Now Learns From Past Fixes Using Copilot Memory",
         "\"There Are No Rogue AI Agents\" — Why Framing AI Incidents as Autonomous Misbehavior Misses the Point"
-      ]
-    },
-    {
-      "run_at": "2026-09-28T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026092700307&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6596760?source=rss",
-        "https://news.yahoo.co.jp/pickup/6596771?source=rss",
-        "https://news.yahoo.co.jp/pickup/6596768?source=rss",
-        "https://news.yahoo.co.jp/pickup/6596773?source=rss",
-        "https://zenn.dev/ainellc/articles/06df4125372ae1",
-        "https://zenn.dev/garplab/articles/52f045b3a239b7",
-        "https://www.publickey1.jp/blog/26/docker_cloud_snadboxesai.html",
-        "https://arxiv.org/abs/2609.25021",
-        "https://www.anthropic.com/news/accenture-embedded-evaluation",
-        "https://simonwillison.net/2026/Sep/21/jev/"
-      ],
-      "titles": [
-        "前横浜市長の山中氏、パワハラ問題で辞職後に出直し選出馬を表明",
-        "内閣支持率、45%に上昇——毎日新聞世論調査で前回比4ポイント増",
-        "スイスで「永世中立の厳格化」を問う国民投票——賛成少数で否決",
-        "原発事故時の拠点病院、BCP策定は4割止まり——医療機関の備え不足が明らかに",
-        "34歳で脳梗塞——若い患者は介護保険が使えず、支援の空白地帯に置かれる現実",
-        "CLAUDE.mdでJevに判断を委任したら、Claude Codeの出力品質が向上した",
-        "AIの意見を聞かない技術——第6回：AIの確認依頼を上手に断る方法",
-        "「Docker Cloud Sandboxes」発表——AIエージェント向けサンドボックスをローカルとクラウド間でシームレスに移動",
-        "\"As a Language Model\": Chat Template Injection Manipulates LLM Self-Referential Voice",
-        "Anthropic Partners with Accenture on Embedded Evaluation for Enterprise Claude Deployments",
-        "Jev Introduces \"Decision Models\" — A New Class of LLM Specialized for Binary and Probabilistic Judgments"
-      ]
-    },
-    {
-      "run_at": "2026-09-27T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026092700217&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092700194&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092700227&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092700142&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092700111&g=soc&m=rss",
-        "https://zenn.dev/kenichi_mishina/articles/93fe5c5a8d376d",
-        "https://zenn.dev/m16_llc/articles/claude-code-model-routing-fable-opus",
-        "https://zenn.dev/key60228/articles/d4f2591a42a876",
-        "https://arxiv.org/abs/2609.22978",
-        "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-        "https://simonwillison.net/2026/Sep/17/compaction-summaries/"
-      ],
-      "titles": [
-        "大の里、安青錦との相星決戦を制して秋場所6度目の優勝——大相撲頂点への独走続く",
-        "中村輪夢が自転車BMXフリースタイルで金メダル——アジア大会名古屋大会で日本の快進撃続く",
-        "サッカー日本代表、ベネズエラ戦へ大幅メンバー刷新——主力温存で若手・控えに出場機会",
-        "バンコクで記録的大雨——タイ政府が首都全域を災害地域に指定、緊急対応を急ぐ",
-        "17歳少年が包丁を準備し「殺すつもりだった」——殺人予備容疑で逮捕、石川県警",
-        "Light SDDの手順をCodexで回してみた——最後まで動いた、違いは「人に判断を求めるか」に出た",
-        "Claude Codeで判断役と実行役でモデルを分ける——Fable 5.1 × Opus 5のモデルルーティング設計",
-        "Platform Engineering Kaigi 2026 登壇資料まとめ——AIエージェント統合・IaCセキュリティ・抽象化設計が三本柱",
-        "DeepSeek Releases DSec: Sandbox Infrastructure Supporting 380,000 Concurrent Agent Environments for RL Training",
-        "ASML Reports Zero European Sales in 2026, Calls on EU to Create Semiconductor Demand",
-        "Simon Willison: Self-Generated Prompt Injections in Compaction Summaries — AI Agents Attacking Their Own Context"
       ]
     }
   ]

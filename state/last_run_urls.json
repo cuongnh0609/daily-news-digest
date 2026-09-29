@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-29T15:00:00+09:00",
+  "last_run_at": "2026-09-29T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-29T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026092900671&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026092900387&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6596980?source=rss",
+        "https://news.yahoo.co.jp/pickup/6596979?source=rss",
+        "https://www.jiji.com/jc/article?k=2026092900133&g=int&m=rss",
+        "https://zenn.dev/tokium_dev/articles/ai-agent-usage-limit-long-sessions",
+        "https://www.itmedia.co.jp/aiplus/article/2609/29/2000001855/",
+        "https://www.itmedia.co.jp/aiplus/article/2609/29/2000001851/",
+        "https://www.jiji.com/jc/article?k=2026092900839&g=int&m=rss",
+        "https://www.publickey1.jp/blog/26/docker_cloud_snadboxesai.html",
+        "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster"
+      ],
+      "titles": [
+        "国勢調査、富山市が人口2000人以上を水増しか——統計法違反で市職員告発",
+        "交差点で正面衝突、3人死亡——千葉、乗用車が炎上し2人搬送",
+        "ニデック岸田社長が辞任——不正問題の責任取る形で経営陣刷新へ",
+        "教職員7万人の性犯罪歴を確認へ——東京都が独自DB構築に着手",
+        "中国が高市前外相の国会答弁「是正」を要求——岩屋前外相との会談で正式抗議",
+        "Claude Code / Codexでusage limitが急減する本当の理由——長期セッションのトークン消費を解剖",
+        "7割の企業が生成AI「個人利用」への対策せず——デロイト調査、入出力記録は11%のみ",
+        "ChatGPT「Pro (20x)」プランの新規受付を再開——5時間利用制限を完全撤廃",
+        "Anthropic's IPO Prospectus Warns AI Could Pose \"Catastrophic or Existential Risk to Humanity\"",
+        "Docker Launches Cloud Sandboxes — AI Agent Workloads Can Now Migrate Seamlessly Between Laptop and Cloud",
+        "ESP32-S3 Cluster Runs a 0.4B LLM Across 7 Microcontrollers Using 1.58-bit BitNet Quantization"
+      ]
+    },
     {
       "run_at": "2026-09-29T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Claude Discovers a Novel Enzyme System with CRISPR-Like Repeats — Anthropic's First Autonomous Biology Research",
         "OpenAI Halts All Tool-Use Training, Evaluation and Inference for Top Models After DNS Escape Incident",
         "Simon Willison: \"2026 in LLMs So Far\" — The Year Coding Agents Crossed the Reliability Threshold"
-      ]
-    },
-    {
-      "run_at": "2026-09-28T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026092700249&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092700210&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6596786?source=rss",
-        "https://news.yahoo.co.jp/pickup/6596769?source=rss",
-        "https://news.yahoo.co.jp/pickup/6596782?source=rss",
-        "https://zenn.dev/momozaki/articles/7275ae3f1b46d0",
-        "https://zenn.dev/20220227/articles/5751e1ac275dfa",
-        "https://zenn.dev/nnydtmg/articles/twelve-factor-ai-infrastructure-development",
-        "https://fireworks.ai/blog/ember-1",
-        "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
-        "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
-      ],
-      "titles": [
-        "木原官房長官、大の里に総理大臣杯を授与——秋場所優勝で横綱昇進への期待高まる",
-        "原田マハ監督の映画「無用の人」、サン・セバスティアン映画祭で国際批評家連盟賞を受賞",
-        "日本、アジア大会でポケモンユナイトの金メダルを獲得——eスポーツ競技の地位向上に弾み",
-        "横浜市内で男性が刺され死亡——路上で血を流している状態を通行人が発見、殺人事件として捜査",
-        "那須川天心、弟・拓真に再び黒星——ボクシング試合後、涙が止まらず引退を示唆か",
-        "Claude Codeに「進めて」「本当に出た？」「前も言ったよね」を言わずに済む3つの使い方",
-        "Claude Codeの許可ルールに一致する形でコマンドを実行させる——SessionStart hookでmise環境を渡す方法",
-        "AIで開発が速くなる今、インフラエンジニアが12ファクターアプリから考えたいこと",
-        "Fireworks AI Launches Ember-1: Reasoning Model Matching Kimi K3 Quality at 40% Fewer Tokens",
-        "GitHub Copilot Agentic Autofix Now Learns From Past Fixes Using Copilot Memory",
-        "\"There Are No Rogue AI Agents\" — Why Framing AI Incidents as Autonomous Misbehavior Misses the Point"
       ]
     }
   ]

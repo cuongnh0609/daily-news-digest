@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-01T00:00:00+09:00",
+  "last_run_at": "2026-10-01T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-01T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026100100012&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026093001110&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6597092?source=rss",
+        "https://www.itmedia.co.jp/news/article/2609/30/2000001906/",
+        "https://www.itmedia.co.jp/news/article/2609/30/2000001905/",
+        "https://www.publickey1.jp/blog/26/awsaistrandsllm.html",
+        "https://zenn.dev/ababup1192/articles/77b844dcfc1529",
+        "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001866/",
+        "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+        "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+        "https://github.com/magnitudedev/magnitude"
+      ],
+      "titles": [
+        "永住許可の要件が本日から厳格化――年収「日本人平均超」が新基準に",
+        "ドバイ発テルアビブ行き旅客機が緊急着陸――副操縦士が操縦士を刺傷か",
+        "東北大学、THEランキングで躍進――国際卓越研究大学指定と15兆円支援の成果",
+        "セイコーマート、会員約57万人分の個人情報漏洩――不正アクセスで大規模流出",
+        "LINE VOOM、約5年の歴史に幕――動画・クリエイターSNSが9月30日にサービス終了",
+        "AWSが「Strandsハーネス」をオープンソースで公開――数行のコードで高機能AIエージェントを構築",
+        "AI開発時代だからこそ、テストの役割を見つめ直す――型・状態・テスト層の戦略的配置",
+        "OpenAI、「Decisions API」プレビューを発表――Jev対抗の構造化意思決定API",
+        "Claude Sonnet 5.5: 30% Faster, 30% Cheaper — Now Powers the Free Tier on claude.ai",
+        "GitHub's HydraFusion Expands to VS Code: Multi-Model Orchestration That Picks the Right LLM per Task",
+        "Magnitude: Self-Optimizing Local Inference Engine for AI Agents — Up to 92% Faster Than llama.cpp on Apple Silicon"
+      ]
+    },
     {
       "run_at": "2026-10-01T00:00:00+09:00",
       "urls": [

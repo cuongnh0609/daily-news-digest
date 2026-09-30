@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-09-30T10:00:00+09:00",
+  "last_run_at": "2026-09-30T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-09-30T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026093000114&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026093000118&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026093000113&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6597061?source=rss",
+        "https://www.jiji.com/jc/article?k=2026093000247&g=spo&m=rss",
+        "https://zenn.dev/softbank/articles/6f98cf7c4ebfd3",
+        "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html",
+        "https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html",
+        "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+        "https://openai.com/index/introducing-gpt-6-1-sol/",
+        "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
+      ],
+      "titles": [
+        "公明党、新代表に岡本三成氏が就任へ――来月3日に新執行部が発足",
+        "声にも「パブリシティー権」認める――生成AIで声を模倣された声優が訴訟、東京地裁が判断",
+        "両陛下が熊本入り――能登半島地震の翌年、被災地見舞いで被災者と対面",
+        "神戸市内2カ所で発砲事件――1人が心肺停止、警察が広域捜査",
+        "マンチェスター・シティに重大な財務規定違反――プレミアリーグ、除名処分の可能性も浮上",
+        "AI駆動開発で「設計」はどこに書くのか――仕様書駆動開発（SDD）の実践的アプローチ",
+        "Claude Code、AGENTS.mdに対応――複数AIコーディングツールを同一プロジェクトで使う時代へ",
+        "WSL Containers、一般提供開始――WindowsでDockerなしにLinuxコンテナが動く新時代",
+        "Anthropic Frontier Red Team: GLM-5.3 and Claude Achieved \"Full Control Flow Hijacks\" in Binary Exploitation",
+        "GPT-6.1 Sol: Near-Astra Intelligence for a Fifth of the Price — OpenAI's New Cost-Efficiency Frontier",
+        "Simon Willison: \"2026 in LLMs So Far\" — A Year of Coding Agents, Security Chaos, and the \"Deep Blue\" Effect"
+      ]
+    },
     {
       "run_at": "2026-09-30T10:00:00+09:00",
       "urls": [
@@ -136,7 +165,7 @@
         "SpaceXの大型宇宙船「Starship」、史上初めて地球周回軌道に到達",
         "SNSでの誹謗中傷、民法改正で慰謝料増額へ——法務省が研究会を設置",
         "日本郵便の国際郵便Webサービスに不正アクセスか——調査受付を一時停止",
-        "セイコーマート、会員約57万件の個人情報が漏えいか——スマホアプリ経由で不正アクセス",
+        "セイコーマート、会員約57万件の個人情報が漏えい——スマホアプリ経由で不正アクセス",
         "ANAのマイレージ上位会員制度「SFC」、新制度の一部内容を見直しへ",
         "AI開発時代だからこそ、テストの役割を見つめ直す——型設計とテスト戦略の再定義",
         "Gemini、カスタムAI「Gem」を廃止——11月17日から「スキル」へ全面刷新",

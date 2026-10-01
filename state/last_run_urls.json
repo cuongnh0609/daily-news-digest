@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-02T00:00:00+09:00",
+  "last_run_at": "2026-10-02T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-02T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026100101073&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100100995&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100101177&g=spo&m=rss",
+        "https://news.yahoo.co.jp/pickup/6597220?source=rss",
+        "https://news.yahoo.co.jp/pickup/6597193?source=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001936/",
+        "https://zenn.dev/softbank/articles/6f98cf7c4ebfd3",
+        "https://www.itmedia.co.jp/news/article/2610/01/2000001929/",
+        "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+        "https://blog.cloudflare.com/clef-decision-models/",
+        "https://turbopuffer.com/blog/rip-vector-database"
+      ],
+      "titles": [
+        "東電、福島第１原発２号機の格納容器内部調査を開始――ロボットアームで溶融燃料のデータ取得へ",
+        "「トクリュウ」実態解明へ――法人の実質支配者、届出義務化する新法案が臨時国会に提出へ",
+        "サッカー日本代表、エクアドルとPK戦を制す――国際親善試合で底力を発揮",
+        "スイスの氷河、過去５年間で約２割が消失――温暖化の加速で永続的な縮小が続く",
+        "横田早紀江さん、拉致問題の進展なく「いらだち」を表明――解決の道筋が見えない現状に憤り",
+        "HENNGEが「取締役２名だけ」の新子会社を設立――実務をAIエージェントが担う組織の実験的モデル",
+        "AI駆動開発で「設計」はどこに書くのか――振る舞いをテストで検証できる「仕様」へ（Spec-Driven AI Dev）",
+        "OpenAI、推論過程を狙った組織的な「モデル蒸留」行為を阻止――「Kimi」開発元の関係者が関与と主張",
+        "GitHub Copilot Now Controls Desktop Apps via Computer Use — GA Preview on macOS and Windows",
+        "Cloudflare Launches Clef: Open-Source Decision Models Designed for Fast, Structured Outputs in Agent Workflows",
+        "RIP, Vector Database: turbopuffer v3 Decouples ANN from the Primary Index — A Fundamental Storage Rethink"
+      ]
+    },
     {
       "run_at": "2026-10-02T00:00:00+09:00",
       "urls": [

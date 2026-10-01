@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-01T20:00:00+09:00",
+  "last_run_at": "2026-10-02T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-02T00:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/01/2000001944/",
+        "https://news.yahoo.co.jp/pickup/6597206?source=rss",
+        "https://www.itmedia.co.jp/news/article/2610/01/2000001933/",
+        "https://www.itmedia.co.jp/news/article/2610/01/2000001921/",
+        "https://www.itmedia.co.jp/news/article/2610/01/2000001941/",
+        "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001936/",
+        "https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2610/01/news029.html",
+        "https://www.anthropic.com/news/barclays-scales-claude",
+        "https://simonwillison.net/2026/Oct/1/matthew-green/",
+        "https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html"
+      ],
+      "titles": [
+        "ソフトバンクG、OpenAIへの追加出資が完了――累計10兆円超、持分約13%に",
+        "統一地方選、来年4月11日・25日投票へ――総務省が日程を告示",
+        "佐川急便に不正アクセス、約100日分の荷物データが流出――氏名・住所など対象",
+        "新規生産車に「よそ見3.5秒で警告」義務化へ――国交省、居眠り検知も対象に",
+        "チケット申込画面に他人の個人情報が表示――最大107人分、サイト側が誤表示",
+        "HENNGEが「取締役2名だけ」の新会社を設立――実務をAIエージェントが担う組織実験",
+        "Google Cloud、ローカル・オンプレ対応の分散DB「Spanner Omni」を正式リリース",
+        "「システムプロンプト陳腐化」をどう防ぐか――AWSが提唱するエージェント設計パターン",
+        "Barclays Deploys Claude at Scale: 16,000 Employees, 120K Emails/Day, 50% Dev Adoption by End-2026",
+        "AI Agents Are Leaving Instructions for Each Other via Shared Package Caches — A New Worm-Like Attack Vector",
+        "Google Cloud Spanner Omni Goes GA: Bring the World's Most Scalable Distributed DB to Your Laptop or Private Cloud"
+      ]
+    },
     {
       "run_at": "2026-10-01T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Claude Discovers a Novel Enzyme System with CRISPR-Like DNA Repeats — 950 Agents, 21 Hours, 210M Tokens",
         "How Delhi Cut Electricity Loss from 50% to 5% — A 24-Year Infrastructure and Policy Transformation",
         "Muse AI Agent Sends \"Yep I'm Here!\" While Its Human Is Absent — A Real-World Lesson in Autonomous Agent Failure Modes"
-      ]
-    },
-    {
-      "run_at": "2026-09-30T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026093000114&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026093000118&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026093000113&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6597061?source=rss",
-        "https://www.jiji.com/jc/article?k=2026093000247&g=spo&m=rss",
-        "https://zenn.dev/softbank/articles/6f98cf7c4ebfd3",
-        "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html",
-        "https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html",
-        "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-        "https://openai.com/index/introducing-gpt-6-1-sol/",
-        "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
-      ],
-      "titles": [
-        "公明党、新代表に岡本三成氏が就任へ――来月3日に新執行部が発足",
-        "声にも「パブリシティー権」認める――生成AIで声を模倣された声優が訴訟、東京地裁が判断",
-        "両陛下が熊本入り――能登半島地震の翌年、被災地見舞いで被災者と対面",
-        "神戸市内2カ所で発砲事件――1人が心肺停止、警察が広域捜査",
-        "マンチェスター・シティに重大な財務規定違反――プレミアリーグ、除名処分の可能性も浮上",
-        "AI駆動開発で「設計」はどこに書くのか――仕様書駆動開発（SDD）の実践的アプローチ",
-        "Claude Code、AGENTS.mdに対応――複数AIコーディングツールを同一プロジェクトで使う時代へ",
-        "WSL Containers、一般提供開始――WindowsでDockerなしにLinuxコンテナが動く新時代",
-        "Anthropic Frontier Red Team: GLM-5.3 and Claude Achieved \"Full Control Flow Hijacks\" in Binary Exploitation",
-        "GPT-6.1 Sol: Near-Astra Intelligence for a Fifth of the Price — OpenAI's New Cost-Efficiency Frontier",
-        "Simon Willison: \"2026 in LLMs So Far\" — A Year of Coding Agents, Security Chaos, and the \"Deep Blue\" Effect"
       ]
     }
   ]

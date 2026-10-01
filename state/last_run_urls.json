@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-01T15:00:00+09:00",
+  "last_run_at": "2026-10-01T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-01T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026100100139&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100100604&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100100799&g=pol&m=rss",
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
+        "https://www.jiji.com/jc/article?k=2026100100948&g=soc&m=rss",
+        "https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html",
+        "https://www.itmedia.co.jp/news/article/2610/01/2000001942/",
+        "https://www.publickey1.jp/blog/26/docker_cloud_snadboxesai.html",
+        "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+        "https://www.itmedia.co.jp/news/article/2610/01/2000001931/",
+        "https://simonwillison.net/atom/everything/"
+      ],
+      "titles": [
+        "はやぶさ２、エンジン故障――初代を救った「クロス運転」で航行継続へ（JAXA）",
+        "小園海斗ら戦力外通告――「ゾンビたばこ」問題で広島が複数選手を放出",
+        "日本・ドイツ、第三国での有事退避で協力合意――防衛当局間の覚書締結",
+        "フラット35金利、3.830%で過去最高――住宅ローン固定金利が歴史的水準に",
+        "「GPSジャマー」設置で全国初摘発――自動車盗の追跡妨害目的か（大阪府警）",
+        "Google Cloud、AIエージェント専用DB「PostgreSQL for agents in AlloyDB」を発表――本番DBを守りながら大量クエリを処理",
+        "日本原子力研究開発機構でデータ漏えい――研究者175人分の個人情報・健康記録が流出",
+        "Docker Cloud Sandboxes発表――AIエージェントのサンドボックスがローカルとクラウド間でシームレスに移動可能に",
+        "Netlify Rebuilds Edge Functions on Firecracker MicroVMs: 5x Faster, 47% Lower p99 Latency",
+        "US FTC Opens Broad AI Investigation Targeting Anthropic and OpenAI — \"Runaway Risk\" and Data Practices Under Scrutiny",
+        "AI Agents Are Leaving Instructions for Each Other via Package Caches — A New Class of \"Worm-Like\" Attack Vector"
+      ]
+    },
     {
       "run_at": "2026-10-01T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Frontier Red Team: GLM-5.3 and Claude Achieved \"Full Control Flow Hijacks\" in Binary Exploitation",
         "GPT-6.1 Sol: Near-Astra Intelligence for a Fifth of the Price — OpenAI's New Cost-Efficiency Frontier",
         "Simon Willison: \"2026 in LLMs So Far\" — A Year of Coding Agents, Security Chaos, and the \"Deep Blue\" Effect"
-      ]
-    },
-    {
-      "run_at": "2026-09-30T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/rss/ranking.rdf",
-        "https://www.jiji.com/rss/ranking.rdf",
-        "https://www.jiji.com/jc/article?k=2026092901126&g=pol",
-        "https://www.jiji.com/jc/article?k=2026092900900&g=eco",
-        "https://news.yahoo.co.jp/pickup/6597003",
-        "https://www.itmedia.co.jp/aiplus/",
-        "https://www.itmedia.co.jp/aiplus/",
-        "https://zenn.dev/feed",
-        "https://www.latent.space/p/thariq",
-        "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-        "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot/"
-      ],
-      "titles": [
-        "ロシアで核搭載可能な戦略爆撃機が墜落、乗組員6人が死亡",
-        "トランプ政権、OpenAI・Anthropicら幹部と「安全なAI開発」を協議",
-        "習政権が岩屋前外相を厚遇――日中関係、対話再開の兆しか",
-        "民間平均給与が過去最高の487万円――5年連続で増加、実質賃金も改善",
-        "ノジマが大学生アルバイトを店長に登用――正社員と同等の権限と手当を付与",
-        "OpenAI、24時間稼働のパーソナルAIエージェント「dots」発表",
-        "ChatGPT「Ultrafast」登場――Astraの8倍高速なレスポンス、300トークン毎秒",
-        "AIエージェントによるPlaywright E2Eテスト自動生成――エージェント駆動品質保証の新潮流",
-        "Claude Code's Next Era: Agentic Coding, Claude Mods, and the Shift from Assistant to Agent Runtime",
-        "OpenAI Launches Dots: Always-On Personal AI Agents That Keep Working While You Sleep",
-        "GPT-6.1 Sol Now in GitHub Copilot: Agentic Multi-Step Coding at One-Fifth the Cost of Astra"
-      ]
-    },
-    {
-      "run_at": "2026-09-30T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026092901187&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092900645&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092900123&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026092900914&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6597000",
-        "https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html",
-        "https://www.itmedia.co.jp/news/article/2609/28/2000001777/",
-        "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001867/",
-        "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-        "https://www.itmedia.co.jp/news/article/2609/28/2000001777/",
-        "https://github.com/PostHog/jeeves"
-      ],
-      "titles": [
-        "ICC締約国会議、米制裁で開催地をニューヨークからハーグに変更",
-        "国勢調査確定値、日本の総人口が2.5%減の1億2297万人――少子化加速が鮮明に",
-        "消費税・定数削減で与野党が攻防へ――臨時国会、10月5日に召集決定",
-        "元市議会議員ら、3億円超のキックバックをキャバクラや高級車に使用か",
-        "マンション大規模修繕の談合問題、国交省が業界団体に再発防止を正式要請",
-        "Google Cloud、AIコーディングエージェント向けプラグイン「Google Cloud Developer Plugin」を公開",
-        "OpenAI、最上位モデルのツール使用を伴う学習・評価・推論を全停止――AIエージェントがDNSを悪用してサンドボックス脱出を試みた問題を受け",
-        "OpenAI、新モデル「GPT-6.1 Sol」をリリース――Astraの5分の1のコストで匹敵するコーディング性能",
-        "OpenAI DevDay 2026: Dots Always-On Agents, GPT-6.1 Sol, Decisions API, and Sign in with ChatGPT",
-        "OpenAI Safety Incident: Top Model Agent Escaped Sandbox via DNS Exploit During Training",
-        "Jeeves: PostHog's Reasoning-Enhanced Decision Models — 0.8B Parameters, 22ms Inference, Jev-Compatible"
       ]
     }
   ]

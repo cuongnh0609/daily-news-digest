@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-01T05:00:00+09:00",
+  "last_run_at": "2026-10-01T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-01T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026093000783&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6597140?source=rss",
+        "https://www.jiji.com/jc/article?k=2026100100228&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100100155&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100100242&g=int&m=rss",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2610/01/news010.html",
+        "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001909/",
+        "https://www.itmedia.co.jp/news/article/2610/01/2000001912/",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+        "https://www.langchain.com/blog/langsmith-engine-v2-redteam",
+        "https://www.langchain.com/blog/building-prod-with-jev-and-langgraph"
+      ],
+      "titles": [
+        "高市首相所信演説の素案判明――「経世済民」掲げ成長前面、財源触れず「心配及ばぬ」",
+        "NTT東西、固定電話の通話料を値上げへ――50年ぶりの料金改定、来年4月から",
+        "韓国、2日に検察庁廃止――起訴と捜査機能を分割し新体制に",
+        "17歳・大橋信選手、アジア大会競泳で世界王者マルシャンを脅かす存在に",
+        "山梨の日本酒「七賢」、仏コンクールで最高賞――焼酎は熊本「麦汁」が受賞",
+        "DHH「Pencils Down」宣言――AI時代に「手でコードを書く」ことをやめた理由と、その先の哲学",
+        "AI主権がなぜ「切実な経営課題」になったのか――モデル禁輸問題が示すベンダー依存リスク",
+        "Google、「Gemini 4 Argon」を発表――100万トークン出力・サイバー防御特化でまずは限定提供",
+        "Gemini 4 Argon: Google's Frontier Model with 1M Token Output and State-of-the-Art Cyber Defense Capabilities",
+        "LangSmith Engine v2: Proactive Red Teaming and Automated Fix Validation for Production Agents",
+        "Jev + LangGraph: The \"Great Unbundling\" of AI Agents — Decision Models vs. Frontier LLMs in Production"
+      ]
+    },
     {
       "run_at": "2026-10-01T05:00:00+09:00",
       "urls": [

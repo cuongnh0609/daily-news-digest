@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-02T10:00:00+09:00",
+  "last_run_at": "2026-10-02T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-02T15:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/02/2000001962/",
+        "https://www.jiji.com/jc/article?k=2026100200565&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100200537&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100200325&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6597275?source=rss",
+        "https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop",
+        "https://zenn.dev/algoartis/articles/0b1c731881b25c",
+        "https://www.itmedia.co.jp/news/article/2610/02/2000001950/",
+        "https://earendil.com/posts/pi-durable/",
+        "https://arxiv.org/abs/2609.37725",
+        "https://svelte.dev/blog/sveltekit-3-is-here"
+      ],
+      "titles": [
+        "タイムズカー情報漏えい、会員3000人弱が集団訴訟へ――個人情報の管理責任を問う動き",
+        "藤井総務相、衆院選での運動員買収疑惑を否定――「適切に対応した」と強調",
+        "木原官房長官、プーチン大統領の「日本が変わった」発言に反論――「事実とは異なる」と明言",
+        "副操縦士刺傷事件、制圧した乗客らに「並外れた勇敢さ」と称賛――機長も室内から扉を解錠",
+        "ボクシング・山口瑠選手、国際大会で初出場ながら金メダル獲得――若手の台頭が日本ボクシング界を活性化",
+        "オブザーバビリティのAIエージェントをどう評価するか――Grafana AssistantのEvalフレームワークから学ぶ",
+        "AI生成テキストの「読みにくさ」を構造レベルで解消するClaude Code用Skill「yomiyasu」公開",
+        "Microsoft、音声エージェント向け3モデルを同時公開――低遅延ストリーミング文字起こし「MAI-Transcribe-2-Streaming」など",
+        "Pi Durable: A Framework for Building Crash-Resilient, Long-Running Agents with Multiplayer Steering",
+        "Context Language Models: Agents That Manage Their Own Memory — 65% Better Performance with 12% Less Compute",
+        "SvelteKit 3 is Here: Config Moves to Vite, $lib Becomes #lib, and Remote Functions Are Coming"
+      ]
+    },
     {
       "run_at": "2026-10-02T10:00:00+09:00",
       "urls": [

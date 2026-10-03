@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-03T10:00:00+09:00",
+  "last_run_at": "2026-10-03T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-03T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026100300201&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6597387?source=rss",
+        "https://www.jiji.com/jc/article?k=2026100201136&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6597373?source=rss",
+        "https://www.itmedia.co.jp/news/article/2610/03/2000001982/",
+        "https://zenn.dev/fusic/articles/db6e62832a4a1f",
+        "https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef",
+        "https://www.itmedia.co.jp/news/article/2610/03/2000001984/",
+        "https://www.anthropic.com/claude-sonnet-5-5",
+        "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+        "https://www.itmedia.co.jp/news/article/2610/03/2000001983/"
+      ],
+      "titles": [
+        "富山市役所を家宅捜索――人口水増し疑惑で統計法違反容疑、県警が動く",
+        "台風、週明けに小笠原諸島へ接近の恐れ――気象庁が進路予測を更新",
+        "高市首相、米アップルCEOに自殺対策強化を直接要請――SNS・AIと若者メンタルヘルスに焦点",
+        "住宅火災で4人死亡――プロパンボンベ破裂が延焼拡大の原因か、消防が調査",
+        "ムーンスター、顧客情報が漏えいか――ECサイトに不正アクセス、氏名・カード情報が対象",
+        "AWS「Strands Decider 2B」徹底解説――Strands Agents SDKの意思決定モデルとエージェント設計への影響",
+        "「敵対的レビュー」はどこまで有効か――マルチエージェントによるコードレビューの実験と限界",
+        "Meta、AIエージェント「Muse」連携の自作ガジェット向けSDKをOSS公開――Raspberry Piで動くエッジエージェントへの道",
+        "Anthropic Releases Claude Sonnet 5.5: 30% Faster, First Sonnet with Cybersecurity Safeguards, 70.6% on Terminal-Bench",
+        "GitHub Copilot Code Review Gets an API and a Smarter Default Effort Level",
+        "Apple Tightens macOS Full Disk Access Controls Specifically for AI Agents"
+      ]
+    },
     {
       "run_at": "2026-10-03T10:00:00+09:00",
       "urls": [

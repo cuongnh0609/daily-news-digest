@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-02T20:00:00+09:00",
+  "last_run_at": "2026-10-03T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-03T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026100300158&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100200980&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100300168&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
+        "https://www.jiji.com/jc/article?k=2026100201122&g=soc&m=rss",
+        "https://zenn.dev/sc30gsw/books/080faba713547b",
+        "https://zenn.dev/tokium_dev/articles/ai-agent-usage-limit-long-sessions",
+        "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001961/",
+        "https://anthropic.com/news/claude-frontier-academy",
+        "https://bfl.ai/models/flux-3-image",
+        "https://blog.sshh.io/p/the-harness-is-the-company"
+      ],
+      "titles": [
+        "北朝鮮、弾道ミサイルを発射――日本のEEZ外に落下、韓国軍が確認",
+        "衆院定数削減、自民党内に先送り論――消費税減税との連動を懸念",
+        "G7、石油備蓄1億バレルを協調放出――4カ月間、軽油は前倒し供給へ",
+        "「アバハウス」全顧客の個人情報が漏えいか――会員・受注DBへ不正アクセス",
+        "久保建英選手と福原遥さんが結婚――サッカー日本代表と人気女優の慶事",
+        "【Cursor pstack】AIエージェントに月2500件のPRを任せる環境の設計思想",
+        "Claude Code / Codexでlimitが急減する本当の理由――キャッシュとコンテキスト膨張の罠",
+        "ChatGPTの利用制限リセット機能が有料ユーザー向けに公開――「使い切っても続けられる」設計へ",
+        "Anthropic Launches Claude Frontier Academy: $100M to Train 10,000 Enterprise AI Engineers by 2027",
+        "FLUX 3 Image: Black Forest Labs Releases Bounding-Box Composition Model with Native 4K Output",
+        "\"Every SaaS Business Will Become a Harness Around a Model\" — The Agent-Era Org Structure Thesis"
+      ]
+    },
     {
       "run_at": "2026-10-02T20:00:00+09:00",
       "urls": [
@@ -173,151 +202,6 @@
         "Netlify Rebuilds Edge Functions on Firecracker MicroVMs: 5x Faster, 47% Lower p99 Latency",
         "US FTC Opens Broad AI Investigation Targeting Anthropic and OpenAI — \"Runaway Risk\" and Data Practices Under Scrutiny",
         "AI Agents Are Leaving Instructions for Each Other via Package Caches — A New Class of \"Worm-Like\" Attack Vector"
-      ]
-    },
-    {
-      "run_at": "2026-10-01T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597140?source=rss",
-        "https://news.yahoo.co.jp/pickup/6597140",
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
-        "https://www.jiji.com/jc/article?k=2026100100228&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100100242&g=int&m=rss",
-        "https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new",
-        "https://www.itmedia.co.jp/aiplus/",
-        "https://zenn.dev/feed",
-        "https://www.anthropic.com/news/claude-opus-5-5",
-        "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
-        "https://news.ycombinator.com/item?id=43521007"
-      ],
-      "titles": [
-        "日経平均、一時2100円超の急騰――米景気楽観論とAI関連株が牽引",
-        "自民党議員2名に公職選挙法違反疑い――生稲氏・朝日氏の選挙活動めぐり捜査",
-        "京都・二条城、外国人観光客に「二重価格」導入へ――市民と訪日客の入場料格差に賛否",
-        "猪俣周杜さんの芸能事務所との契約解除――傷害容疑での逮捕・釈放後、事務所が対応発表",
-        "韓国、30兆円超の対米投資を表明――アラスカLNGプロジェクトが第1弾、原発8基建設も",
-        "LangSmith Managed Deep Agents v0.8がリリース――認証・メモリ・チャンネル機能を大幅強化",
-        "AWSが「システムプロンプト陳腐化」をエージェント設計の最重要課題に位置付け――動的プロンプト更新パターンを公開",
-        "OpenAI DevDay 2026まとめ：dots常時稼働エージェント、GPT-6.1 Sol、Decisions APIの全貌",
-        "Claude Opus 5.5: Near-Frontier Performance at 40% Lower Cost — Anthropic's New Production Workhorse",
-        "GitHub Advanced Security Self-Serve Trials Now Available for GitHub Team — Code Scanning and Secret Protection",
-        "5x Faster Edge Functions: Cloudflare Moves from V8 Isolates to Firecracker MicroVMs for AI Workloads"
-      ]
-    },
-    {
-      "run_at": "2026-10-01T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026093000783&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6597140?source=rss",
-        "https://www.jiji.com/jc/article?k=2026100100228&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100100155&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100100242&g=int&m=rss",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2610/01/news010.html",
-        "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001909/",
-        "https://www.itmedia.co.jp/news/article/2610/01/2000001912/",
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-        "https://www.langchain.com/blog/langsmith-engine-v2-redteam",
-        "https://www.langchain.com/blog/building-prod-with-jev-and-langgraph"
-      ],
-      "titles": [
-        "高市首相所信演説の素案判明――「経世済民」掲げ成長前面、財源触れず「心配及ばぬ」",
-        "NTT東西、固定電話の通話料を値上げへ――50年ぶりの料金改定、来年4月から",
-        "韓国、2日に検察庁廃止――起訴と捜査機能を分割し新体制に",
-        "17歳・大橋信選手、アジア大会競泳で世界王者マルシャンを脅かす存在に",
-        "山梨の日本酒「七賢」、仏コンクールで最高賞――焼酎は熊本「麦汁」が受賞",
-        "DHH「Pencils Down」宣言――AI時代に「手でコードを書く」ことをやめた理由と、その先の哲学",
-        "AI主権がなぜ「切実な経営課題」になったのか――モデル禁輸問題が示すベンダー依存リスク",
-        "Google、「Gemini 4 Argon」を発表――100万トークン出力・サイバー防御特化でまずは限定提供",
-        "Gemini 4 Argon: Google's Frontier Model with 1M Token Output and State-of-the-Art Cyber Defense Capabilities",
-        "LangSmith Engine v2: Proactive Red Teaming and Automated Fix Validation for Production Agents",
-        "Jev + LangGraph: The \"Great Unbundling\" of AI Agents — Decision Models vs. Frontier LLMs in Production"
-      ]
-    },
-    {
-      "run_at": "2026-10-01T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026100100012&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026093001110&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6597092?source=rss",
-        "https://www.itmedia.co.jp/news/article/2609/30/2000001906/",
-        "https://www.itmedia.co.jp/news/article/2609/30/2000001905/",
-        "https://www.publickey1.jp/blog/26/awsaistrandsllm.html",
-        "https://zenn.dev/ababup1192/articles/77b844dcfc1529",
-        "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001866/",
-        "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
-        "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-        "https://github.com/magnitudedev/magnitude"
-      ],
-      "titles": [
-        "永住許可の要件が本日から厳格化――年収「日本人平均超」が新基準に",
-        "ドバイ発テルアビブ行き旅客機が緊急着陸――副操縦士が操縦士を刺傷か",
-        "東北大学、THEランキングで躍進――国際卓越研究大学指定と15兆円支援の成果",
-        "セイコーマート、会員約57万人分の個人情報漏洩――不正アクセスで大規模流出",
-        "LINE VOOM、約5年の歴史に幕――動画・クリエイターSNSが9月30日にサービス終了",
-        "AWSが「Strandsハーネス」をオープンソースで公開――数行のコードで高機能AIエージェントを構築",
-        "AI開発時代だからこそ、テストの役割を見つめ直す――型・状態・テスト層の戦略的配置",
-        "OpenAI、「Decisions API」プレビューを発表――Jev対抗の構造化意思決定API",
-        "Claude Sonnet 5.5: 30% Faster, 30% Cheaper — Now Powers the Free Tier on claude.ai",
-        "GitHub's HydraFusion Expands to VS Code: Multi-Model Orchestration That Picks the Right LLM per Task",
-        "Magnitude: Self-Optimizing Local Inference Engine for AI Agents — Up to 92% Faster Than llama.cpp on Apple Silicon"
-      ]
-    },
-    {
-      "run_at": "2026-10-01T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026093001094&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026093001018&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026093001203&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026093000761&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026093000967&g=soc&m=rss",
-        "https://www.publickey1.jp/blog/26/javascriptvite_10.html",
-        "https://www.publickey1.jp/blog/26/vercelnextjscloudflare_workersaws_lambdavercelvinext_10.html",
-        "https://zenn.dev/knowledgework/articles/2691721311c2e4",
-        "https://github.com/ninjahawk/livenerf",
-        "https://earendil.com/posts/you-said-no-mcp/",
-        "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/"
-      ],
-      "titles": [
-        "能動サイバー防御、10月1日から本格運用開始――警察・自衛隊が「無害化」権限を取得",
-        "プロ野球・オリックスの野上士耀選手が死去――19歳、寮の室内で発見、事件性なし",
-        "米GDP（4〜6月期）確定値、前期比年率2.2%増に上方修正――AI投資が企業設備投資を押し上げ",
-        "金正恩の娘ジュエ氏、身長160cm・体重50kg――韓国情報機関が体格情報を初公開",
-        "妻の遺体を切断した疑い、医師の男を逮捕――兵庫県警、死体損壊容疑など",
-        "JavaScriptの統合ツールチェーン「Vite+ 1.0」正式リリース――runtime・パッケージマネージャ・ビルド・lint・formatを単一CLIに統合",
-        "「Vinext 1.0」リリース――Next.jsアプリをCloudflare Workers・AWS LambdaなどVercel以外にデプロイ可能に",
-        "ゲーミングPC向けLLMデプロイの最適化記録――9.94GBを2.1GBへ、VRAMをゲームとAIで共有するための試み",
-        "Livenerf: Rigorous Post-Launch Monitoring to Detect Silent Degradation in Claude Opus 5.5",
-        "Pi/Earendil: \"You Said No MCP\" — Why We Reversed Course and Now Embrace Model Context Protocol",
-        "Backblaze Drive Stats Q2 2026: Overall Failure Rate Hits 1.73% — Highest in Years Amid HAMR/SMR Transition"
-      ]
-    },
-    {
-      "run_at": "2026-09-30T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597080?source=rss",
-        "https://www.jiji.com/jc/article?k=2026093000975&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026093000853&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6597098?source=rss",
-        "https://www.jiji.com/jc/article?k=2026093000844&g=soc&m=rss",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news048.html",
-        "https://zenn.dev/charge0315/articles/912c18631eb8c0",
-        "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu",
-        "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "https://spectrum.ieee.org/delhi-electricity-loss",
-        "https://simonwillison.net/2026/Sep/28/muse-ai-agent/"
-      ],
-      "titles": [
-        "ビルの火災報知機、大雨で誤作動が相次ぐ――消防出動の1割超を占め、現場に深刻な負担",
-        "簗農水相、就任前に「地元予算カットした」と発言か――選挙結果との関連示唆、官房長官「調査中」",
-        "国民民主・玉木代表、「自維連立への参加、現時点では行わない」と明言",
-        "2025年度の介護費用、12兆2千億円超で過去最大――高齢化加速が給付額を押し上げ",
-        "神戸で相次ぐ発砲事件――1人死亡・1人重体、男を殺人未遂容疑で逮捕",
-        "「マルチエージェントを名乗るだけ」の設計が続出――GoogleがAIエージェント チャレンジで見つけた「勝てる設計」4パターン",
-        "Claude Codeに同じ注意をくり返さないために――設定を「6つのスコープ」に置き分けるフレームワーク",
-        "Jujutsuと出会い、15年使ったGitにもう戻れなくなった理由――AI時代のバージョン管理の再設計",
-        "Claude Discovers a Novel Enzyme System with CRISPR-Like DNA Repeats — 950 Agents, 21 Hours, 210M Tokens",
-        "How Delhi Cut Electricity Loss from 50% to 5% — A 24-Year Infrastructure and Policy Transformation",
-        "Muse AI Agent Sends \"Yep I'm Here!\" While Its Human Is Absent — A Real-World Lesson in Autonomous Agent Failure Modes"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-05T00:00:00+09:00",
+  "last_run_at": "2026-10-05T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-05T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6597552",
+        "https://www.jiji.com/jc/article?k=2026100400391&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100400365&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100400311&g=spo&m=rss",
+        "https://news.yahoo.co.jp/pickup/6597547",
+        "https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop",
+        "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html",
+        "https://www.itmedia.co.jp/news/article/2610/01/2000001919/",
+        "https://www.itmedia.co.jp/news/article/2610/02/2000001950/",
+        "https://www.anthropic.com/news/accenture-embedded-evaluation",
+        "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html"
+      ],
+      "titles": [
+        "元ロシア首相カシヤノフ氏「プーチン大統領はウクライナ侵攻の過ちを認められない」",
+        "イエメン暫定政府が大規模軍事作戦を宣言――フーシ派から領土奪還へ",
+        "沖縄・米海兵隊員逮捕に抗議集会――「いつまで我慢すれば」と100人が声上げる",
+        "愛知・名古屋アジア大会が閉幕――日本が金メダル83個で史上最多を達成",
+        "福岡でごみ収集車に男性作業員が巻き込まれ死亡――段ボール回収中の事故",
+        "オブザーバビリティのAIエージェントをどう評価するか――シナリオ＋グレーダーで品質を定量化するo11y-bench",
+        "Claude CodeがAGENTS.mdを正式サポート――AI開発ツール間の仕様共有が現実に",
+        "RedditがRSSフィードを11月廃止、公開APIも2027年3月に閉鎖――開発者コミュニティに波紋",
+        "Microsoft Launches MAI-Transcribe-2-Streaming: First Streaming Speech Model with Sub-100ms Latency",
+        "Anthropic Partners with Accenture for Embedded Independent AI Evaluation at Frontier Labs",
+        "State of Devs 2026: 49% of Developers Have AI Writing 75%+ of Their Code"
+      ]
+    },
     {
       "run_at": "2026-10-05T00:00:00+09:00",
       "urls": [

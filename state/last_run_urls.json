@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-04T20:00:00+09:00",
+  "last_run_at": "2026-10-05T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-05T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026100400174&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100400347&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6597557?source=rss",
+        "https://news.yahoo.co.jp/pickup/6597556?source=rss",
+        "https://www.jiji.com/jc/article?k=2026100400356&g=pol&m=rss",
+        "https://zenn.dev/takuh/articles/23d3c82222e264",
+        "https://zenn.dev/ma2no4413/articles/mcp-code-execution-token-benchmark",
+        "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
+        "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+        "https://github.com/Niko1221/Strata",
+        "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
+      ],
+      "titles": [
+        "ブラジル大統領選、第1回投票実施――主要候補の過半数届かず、決選投票へ",
+        "イラン、ミサイルの「射程拡大」示唆――対米核交渉でプレッシャーか",
+        "台風後の千葉、なぜ盛り土が崩れたのか――宅地造成地の安全管理に問題",
+        "遮断機のない踏切で15歳の男子高校生が列車にはねられ死亡――兵庫県",
+        "山口・上関町長選で現職が再選――核燃料中間貯蔵施設の推進派が勝利",
+        "AIエージェントの実力はモデルだけで決まらない――6,204回の実験が示した「ハーネス」との相性",
+        "MCPを直接呼ぶ vs コードで叩く――同一タスクでトークン消費を実測比較",
+        "Supabase、SQLiteマルチテナントDB「Turso」を買収――AIエージェント需要急増に備えた戦略的統合",
+        "I Quit OpenAI Because Its Culture Is Broken — Safety Team Lead Goes Public",
+        "Strata: Run Qwen 3.8 Flash Next (125B MoE) at 100 Tokens/sec on a Single RTX 4090",
+        "Religious Scholars Met with Anthropic to Discuss Claude's Moral Architecture"
+      ]
+    },
     {
       "run_at": "2026-10-04T20:00:00+09:00",
       "urls": [

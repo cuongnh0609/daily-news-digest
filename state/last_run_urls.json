@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-04T15:00:00+09:00",
+  "last_run_at": "2026-10-04T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-04T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6597542?source=rss",
+        "https://www.jiji.com/jc/article?k=2026100400232&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100400246&g=spo&m=rss",
+        "https://news.yahoo.co.jp/pickup/6597536?source=rss",
+        "https://www.jiji.com/jc/article?k=2026100400257&g=spo&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/01/2000001918/",
+        "https://www.itmedia.co.jp/news/article/2610/01/2000001931/",
+        "https://www.itmedia.co.jp/news/article/2610/01/2000001944/",
+        "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+        "https://www.anthropic.com/news/barclays-scales-claude",
+        "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
+      ],
+      "titles": [
+        "日経新聞がサイバー攻撃被害を公表――グループ企業のシステムに不正侵入",
+        "沖縄知事「強い憤り」――米海兵隊員逮捕で就任早々に難題、茂木外相も米大使に抗議",
+        "愛知・名古屋アジア大会が閉幕――大村知事と組織委が総括会見",
+        "ドイツ、ウクライナへの追加軍事支援を発表――総額2400億円相当",
+        "申ジエが日本女子オープンゴルフ制す――プレーオフ制し、永久シード権を獲得",
+        "「能動的サイバー防御」が10月1日から開始――自衛隊・警察が攻撃元サーバへの対処権限を正式取得",
+        "米FTCがAI大手5社の調査を開始――AnthropicやOpenAIなど、暴走・悪用リスクを問題視",
+        "ソフトバンクG、OpenAIへの追加出資が完了――累計10兆円超、持分約13%に拡大",
+        "Cloudflare Opens Competition to Build the Next Git Platform on Its Network",
+        "Barclays Deploys Claude Across Operations to Improve Client Experience and Automate Internal Workflows",
+        "LeCun Has \"Zero Concerns\" About AI Wiping Out Humanity — Directly Contradicting Anthropic CEO Dario Amodei"
+      ]
+    },
     {
       "run_at": "2026-10-04T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Anthropic Launches Claude Frontier Academy: $100M to Train 10,000 Enterprise AI Engineers by 2027",
         "FLUX 3 Image: Black Forest Labs Releases Bounding-Box Composition Model with Native 4K Output",
         "\"Every SaaS Business Will Become a Harness Around a Model\" — The Agent-Era Org Structure Thesis"
-      ]
-    },
-    {
-      "run_at": "2026-10-02T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026100200901&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100200879&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100200700&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/02/2000001971/",
-        "https://www.itmedia.co.jp/news/article/2610/02/2000001970/",
-        "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
-        "https://kn.itmedia.co.jp/kn/article/2610/02/2000001932/",
-        "https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html",
-        "https://www.deepseek.com/en/harness/",
-        "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-        "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
-      ],
-      "titles": [
-        "日本政府、ロシアに追加制裁――「影の船団」35隻を新規指定",
-        "「紀州のドン・ファン」遺言、有効と確定――最高裁が遺族の上告を棄却",
-        "「日常で手書き」7割、「噴飯もの」「流れにさおさす」の意味変化――文化庁・国語世論調査",
-        "第一生命に不正アクセス――従業員ら12万人分の情報漏えいか",
-        "自動運転バス、茨城・つくば市で運行開始――2027年度「無人走行」目指す実証実験",
-        "KDDI傘下ELYZAが「完全国産」LLMを無料公開――「LLM-jp-4」ベースで性能改善",
-        "Claudeを3倍高速化した裏側――Anthropic開発者が「意図的にやらなかったこと」を語る",
-        "「WSL Containers」正式リリース――WindowsでLinuxコンテナがネイティブに動作",
-        "DeepSeek Harness: Native Desktop Agent Runtime for macOS and Windows",
-        "GPT-Synopsys: OpenAI and Synopsys Bring Frontier AI to Chip Design EDA Workflows",
-        "Simon Willison: \"2026 in LLMs So Far\" — The Year Coding Agents Got Reliable, Governments Got Nervous"
-      ]
-    },
-    {
-      "run_at": "2026-10-02T15:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/02/2000001962/",
-        "https://www.jiji.com/jc/article?k=2026100200565&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100200537&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100200325&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6597275?source=rss",
-        "https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop",
-        "https://zenn.dev/algoartis/articles/0b1c731881b25c",
-        "https://www.itmedia.co.jp/news/article/2610/02/2000001950/",
-        "https://earendil.com/posts/pi-durable/",
-        "https://arxiv.org/abs/2609.37725",
-        "https://svelte.dev/blog/sveltekit-3-is-here"
-      ],
-      "titles": [
-        "タイムズカー情報漏えい、会員3000人弱が集団訴訟へ――個人情報の管理責任を問う動き",
-        "藤井総務相、衆院選での運動員買収疑惑を否定――「適切に対応した」と強調",
-        "木原官房長官、プーチン大統領の「日本が変わった」発言に反論――「事実とは異なる」と明言",
-        "副操縦士刺傷事件、制圧した乗客らに「並外れた勇敢さ」と称賛――機長も室内から扉を解錠",
-        "ボクシング・山口瑠選手、国際大会で初出場ながら金メダル獲得――若手の台頭が日本ボクシング界を活性化",
-        "オブザーバビリティのAIエージェントをどう評価するか――Grafana AssistantのEvalフレームワークから学ぶ",
-        "AI生成テキストの「読みにくさ」を構造レベルで解消するClaude Code用Skill「yomiyasu」公開",
-        "Microsoft、音声エージェント向け3モデルを同時公開――低遅延ストリーミング文字起こし「MAI-Transcribe-2-Streaming」など",
-        "Pi Durable: A Framework for Building Crash-Resilient, Long-Running Agents with Multiplayer Steering",
-        "Context Language Models: Agents That Manage Their Own Memory — 65% Better Performance with 12% Less Compute",
-        "SvelteKit 3 is Here: Config Moves to Vite, $lib Becomes #lib, and Remote Functions Are Coming"
       ]
     }
   ]

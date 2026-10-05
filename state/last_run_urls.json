@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-05T15:00:00+09:00",
+  "last_run_at": "2026-10-05T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-05T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6597657?source=rss",
+        "https://news.yahoo.co.jp/pickup/6597640?source=rss",
+        "https://news.yahoo.co.jp/pickup/6597627?source=rss",
+        "https://news.yahoo.co.jp/pickup/6597623?source=rss",
+        "https://www.itmedia.co.jp/news/article/2610/05/2000002011/",
+        "https://zenn.dev/yukihayama/articles/mcp-claude-code-register",
+        "https://zenn.dev/kokotatan/articles/claude-weekly-limit-failover",
+        "https://zenn.dev/aew2sbee/articles/claude-code-official-skills",
+        "https://www.anthropic.com/engineering/how-we-contain-claude",
+        "https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp",
+        "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out"
+      ],
+      "titles": [
+        "ノーベル医学生理学賞、米独の研究者2人に――RNA修飾「m6A」の解明が細胞制御研究を変える",
+        "トリプル台風が接近――3つの熱帯低気圧が同時に日本近海で活発化、気象庁が厳重警戒を呼びかけ",
+        "農相が「予算カット」発言を撤回し謝罪――農家への配慮欠く表現が批判を招く",
+        "高市首相が所信表明演説――「経済最優先」掲げ、消費税減税・エネルギー自立・防衛強化の三本柱を提示",
+        "焼肉きんぐ、顧客情報約1079万件が漏えい――外部委託先へのサイバー攻撃が原因、カード情報は含まれず",
+        "自作MCPサーバーをClaude Codeに登録する――設定は3行、つまづくのはパスとスコープだけ",
+        "Claude Codeの週制限で自動化を止めない――プロバイダ自動フェイルオーバーの設計パターン",
+        "Claude Code公式スキル全19個を用途別に紹介――「手順書フォルダ」の活用でAI開発ワークフローを標準化",
+        "How Anthropic Contains Claude Across Products: Three-Layer Defense for Production AI Agents",
+        "Decision Models Land in llama.cpp: Specialized Inference Primitives for Low-Latency AI Agent Control Flow",
+        "GitHub Rolls Out Stateless Installation Tokens: Short-Lived Credentials That Don't Persist Server-Side"
+      ]
+    },
     {
       "run_at": "2026-10-05T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Agents Don't Need Memory — They Need Documentation",
         "We're Going to Need Default Hard Budget Caps on Pretty Much Everything",
         "GitHub Copilot Deprecates Four AI Models — Including Claude Opus 4.7 and Two Gemini Flash Variants"
-      ]
-    },
-    {
-      "run_at": "2026-10-04T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597449?source=rss",
-        "https://www.jiji.com/jc/article?k=2026100300232&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100300175&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100300255&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6597451?source=rss",
-        "https://zenn.dev/softbank/articles/6f98cf7c4ebfd3",
-        "https://www.publickey1.jp/blog/26/awsaistrandsllm.html",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2610/01/news029.html",
-        "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-        "https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html",
-        "https://www.itmedia.co.jp/news/article/2610/03/2000001985/"
-      ],
-      "titles": [
-        "台風27号、小笠原諸島に接近へ――気象庁が高波と強風に警戒呼びかけ",
-        "公明・岡本新体制が始動――統一選へ立て直し、消費税減税には慎重姿勢",
-        "フライドバイ機で副操縦士が機長を斧で襲撃――テロ未遂容疑、サウジアラビアに緊急着陸",
-        "米大統領、メディケア加入者に1万4000円の現金給付――中間選挙前の支持拡大策か",
-        "米政府AI「America.gov」、公開後に仕様変更――トランプ氏に不都合な質問を拒否する設定に",
-        "AI駆動開発で「設計」はどこに書くのか――仕様をコードと一致させる新アプローチ",
-        "AWS「Strandsハーネス」をオープンソース公開――特定LLMに依存しないエージェント構築基盤",
-        "「システムプロンプト陳腐化」をどう防ぐか――AWSのLLM Judge導入事例から学ぶ運用設計",
-        "GitHub Copilot Can Now Control Desktop Apps via Computer Use — Public Preview",
-        "Google Cloud Launches \"PostgreSQL for Agents in AlloyDB\" — Isolating Production DBs from AI Agent Load",
-        "Amazon Pushes Back on Data Center Backlash with $1B+ \"Built Together\" Program"
-      ]
-    },
-    {
-      "run_at": "2026-10-04T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026100300413&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100300256&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6597447",
-        "https://news.yahoo.co.jp/pickup/6597453",
-        "https://www.jiji.com/jc/article?k=2026100300359&g=pol&m=rss",
-        "https://note.com/yuta_no/n/ne218db26dd90",
-        "https://www.publickey1.jp/blog/26/javascriptvite_10.html",
-        "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/",
-        "https://dwarfstar.sh/",
-        "https://tej.as/blog/aleph-alpha-kolibri",
-        "https://stillwet.art/"
-      ],
-      "titles": [
-        "阪神タイガース、球団史上初の連覇達成――セ・リーグ優勝で日本シリーズへ",
-        "藤波朱理、155連勝でストップ――アジア大会レスリングで北朝鮮選手に敗れる",
-        "だんじり祭の山車が横転、7人けが――大阪・堺市で秋祭りの安全管理に問題",
-        "米国産ジャガイモ輸入解禁、前倒しの可能性浮上――日米農業交渉で加速の見通し",
-        "公明代表、農水相の疑惑に「あってはならない」――与党内から批判の声",
-        "Claude Code v2.1.287で「Claude Mods」登場――プラグインがセッション常駐型に進化",
-        "JavaScript統合ツールチェーン「Vite+ 1.0」正式リリース――ランタイム・パッケージマネージャー・ビルドツールを単一CLIに統合",
-        "Google「Gemini 4 Argon」発表――19ベンチマーク中14で首位、企業・政府向けに限定提供",
-        "DwarfStar 4: Redis Creator Builds a Purpose-Built Local LLM Inference Engine with Asymmetric 2-Bit Quantization",
-        "Kolibri: Aleph Alpha Releases Germany's Sovereign 78B MoE LLM — Apache 2.0, 1M Token Context, Native German Reasoning",
-        "Still Wet: Claude Opus 5.5 Paints Landscapes Entirely Through Code — No Image Generation, Only Oil Paint Simulation"
       ]
     }
   ]

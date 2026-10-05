@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-05T05:00:00+09:00",
+  "last_run_at": "2026-10-05T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-05T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026100500067&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100500104&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/05/2000001991/",
+        "https://www.jiji.com/jc/article?k=2026100500136&g=spo&m=rss",
+        "https://news.yahoo.co.jp/pickup/6597568",
+        "https://www.itmedia.co.jp/news/article/2610/05/2000001990/",
+        "https://www.itmedia.co.jp/news/article/2610/05/2000001937/",
+        "https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html",
+        "https://www.anthropic.com/claude-opus-5-5",
+        "https://www.anthropic.com/threat-intelligence-report-september-2026",
+        "https://github.com/Niko1221/Strata"
+      ],
+      "titles": [
+        "臨時国会が本日召集――高市首相が所信表明演説、消費税減税と定数削減が焦点に",
+        "副操縦士が空港衝突を計画か――イスラエルを標的に、7月に一度断念し今回再計画との疑惑",
+        "日経社員アカウントからなりすましメール9000件――Microsoft 365への不正ログインが原因か",
+        "古賀若菜が世界柔道で初優勝――永山竜樹は連覇ならず3位に終わる",
+        "DV被害者の住民情報が5年で68件誤交付――報告を怠る自治体も存在、総務省が実態公表",
+        "トランプ大統領が「Super Intelligence Force」創設を発表――国家情報長官らが超知能開発を政府横断で主導へ",
+        "「現場任せのAI活用」はなぜ失敗するのか――管理職の利用率67%、一般社員は25%という逆転現象が示す構造的課題",
+        "「WSL Containers」正式リリース――Docker不要でWindowsからLinuxコンテナをコマンドラインとAPIで操作可能に",
+        "Introducing Claude Opus 5.5 — 40% Cheaper, 30% Faster, Strongest Alignment Scores to Date",
+        "Anthropic Threat Intelligence Report: AI Has Collapsed the Gap Between State Actors and Individual Operators",
+        "Strata: Run Qwen 3.8 Flash Next (125B MoE) at 100 Tokens/sec on a Single RTX 4090"
+      ]
+    },
     {
       "run_at": "2026-10-05T05:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "DwarfStar 4: Redis Creator Builds a Purpose-Built Local LLM Inference Engine with Asymmetric 2-Bit Quantization",
         "Kolibri: Aleph Alpha Releases Germany's Sovereign 78B MoE LLM — Apache 2.0, 1M Token Context, Native German Reasoning",
         "Still Wet: Claude Opus 5.5 Paints Landscapes Entirely Through Code — No Image Generation, Only Oil Paint Simulation"
-      ]
-    },
-    {
-      "run_at": "2026-10-03T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026100300204&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100300325&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100300317&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100300307&g=spo&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/02/2000001968/",
-        "https://zenn.dev/schroneko/articles/openai-devday-2026",
-        "https://zenn.dev/ababup1192/articles/77b844dcfc1529",
-        "https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html",
-        "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
-        "https://www.publickey1.jp/blog/26/vercelnextjscloudflare_workersaws_lambdavercelvinext_10.html",
-        "https://wagtail.org/blog/one-month-on-glm-53-flash/"
-      ],
-      "titles": [
-        "G20貿易相会合、過剰生産問題で合意断念――「数カ国が拒否」と議長国・米国が失望を表明",
-        "日本人男性2人をタイで保護――SNS求人でミャンマーの特殊詐欺拠点に連行、「かけ子」強要される",
-        "東京・タワマン23階から9歳男児が転落死――「ベランダ伝い移動」目撃、母親が通報",
-        "愛知・名古屋アジア大会、日本が金メダル史上最多――ソフトボール女子が7連覇、柔道混合団体も3連覇",
-        "Android版マイナンバーカードを「Googleウォレット」で10月20日から提供――物理カード不要で本人確認が可能に",
-        "OpenAI DevDay 2026 全発表まとめ――常時稼働エージェント「dots」、GPT-6.1 Sol、Ultrafast、Computer Use GA など25項目",
-        "AI開発時代だからこそ、テストの「役割」を見つめ直す――型・ユニット・統合・E2E、それぞれが検出できる不具合の種類で使い分ける",
-        "Google Cloud、AIコーディングエージェント向けプラグインを公開――Claude CodeやAntigravityにGoogle Cloudの専門知識とMCPサーバを統合",
-        "GitHub Copilot Dynamic Workflows Now in Public Preview — Multi-Step Agent Orchestration Comes to the CLI and App",
-        "Vinext 1.0: Deploy Next.js to Cloudflare Workers, AWS Lambda, and Netlify — Breaking Free from Vercel Lock-In",
-        "One Month Coding With GLM 5.3 Flash: Wagtail's Lessons on Sustainable AI Integration and Efficient Model Usage"
-      ]
-    },
-    {
-      "run_at": "2026-10-03T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026100300201&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6597387?source=rss",
-        "https://www.jiji.com/jc/article?k=2026100201136&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6597373?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/03/2000001982/",
-        "https://zenn.dev/fusic/articles/db6e62832a4a1f",
-        "https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef",
-        "https://www.itmedia.co.jp/news/article/2610/03/2000001984/",
-        "https://www.anthropic.com/claude-sonnet-5-5",
-        "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-        "https://www.itmedia.co.jp/news/article/2610/03/2000001983/"
-      ],
-      "titles": [
-        "富山市役所を家宅捜索――人口水増し疑惑で統計法違反容疑、県警が動く",
-        "台風、週明けに小笠原諸島へ接近の恐れ――気象庁が進路予測を更新",
-        "高市首相、米アップルCEOに自殺対策強化を直接要請――SNS・AIと若者メンタルヘルスに焦点",
-        "住宅火災で4人死亡――プロパンボンベ破裂が延焼拡大の原因か、消防が調査",
-        "ムーンスター、顧客情報が漏えいか――ECサイトに不正アクセス、氏名・カード情報が対象",
-        "AWS「Strands Decider 2B」徹底解説――Strands Agents SDKの意思決定モデルとエージェント設計への影響",
-        "「敵対的レビュー」はどこまで有効か――マルチエージェントによるコードレビューの実験と限界",
-        "Meta、AIエージェント「Muse」連携の自作ガジェット向けSDKをOSS公開――Raspberry Piで動くエッジエージェントへの道",
-        "Anthropic Releases Claude Sonnet 5.5: 30% Faster, First Sonnet with Cybersecurity Safeguards, 70.6% on Terminal-Bench",
-        "GitHub Copilot Code Review Gets an API and a Smarter Default Effort Level",
-        "Apple Tightens macOS Full Disk Access Controls Specifically for AI Agents"
-      ]
-    },
-    {
-      "run_at": "2026-10-03T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026100300158&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100200980&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100300168&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
-        "https://www.jiji.com/jc/article?k=2026100201122&g=soc&m=rss",
-        "https://zenn.dev/sc30gsw/books/080faba713547b",
-        "https://zenn.dev/tokium_dev/articles/ai-agent-usage-limit-long-sessions",
-        "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001961/",
-        "https://anthropic.com/news/claude-frontier-academy",
-        "https://bfl.ai/models/flux-3-image",
-        "https://blog.sshh.io/p/the-harness-is-the-company"
-      ],
-      "titles": [
-        "北朝鮮、弾道ミサイルを発射――日本のEEZ外に落下、韓国軍が確認",
-        "衆院定数削減、自民党内に先送り論――消費税減税との連動を懸念",
-        "G7、石油備蓄1億バレルを協調放出――4カ月間、軽油は前倒し供給へ",
-        "「アバハウス」全顧客の個人情報が漏えいか――会員・受注DBへ不正アクセス",
-        "久保建英選手と福原遥さんが結婚――サッカー日本代表と人気女優の慶事",
-        "【Cursor pstack】AIエージェントに月2500件のPRを任せる環境の設計思想",
-        "Claude Code / Codexでlimitが急減する本当の理由――キャッシュとコンテキスト膨張の罠",
-        "ChatGPTの利用制限リセット機能が有料ユーザー向けに公開――「使い切っても続けられる」設計へ",
-        "Anthropic Launches Claude Frontier Academy: $100M to Train 10,000 Enterprise AI Engineers by 2027",
-        "FLUX 3 Image: Black Forest Labs Releases Bounding-Box Composition Model with Native 4K Output",
-        "\"Every SaaS Business Will Become a Harness Around a Model\" — The Agent-Era Org Structure Thesis"
       ]
     }
   ]

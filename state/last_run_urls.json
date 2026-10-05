@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-06T00:00:00+09:00",
+  "last_run_at": "2026-10-06T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-06T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026100500852&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/05/2000002018/",
+        "https://www.jiji.com/jc/article?k=2026100500990&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100500996&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100500901&g=pol&m=rss",
+        "https://zenn.dev/nogu66/articles/claude-mods-complete-guide",
+        "https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef",
+        "https://www.itmedia.co.jp/aiplus/article/2610/05/2000001997/",
+        "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+        "https://reflection.ai/blog/introducing-beam",
+        "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/"
+      ],
+      "titles": [
+        "光遺伝学研究の米独3氏にノーベル生理学・医学賞――照射した神経細胞操作",
+        "大阪公立大の大規模システム障害、サイバー攻撃が原因か　13万人超の個人情報流出恐れ",
+        "日本、ニュージーランドを下して優勝　上田綺世と堂安律がゴール―キリン杯サッカー",
+        "中国調査船、日本の排他的経済水域（EEZ）を離脱　沖縄・石垣島沖",
+        "高市首相、G7テレビ会議欠席を釈明　「欧州の備蓄放出」が目的",
+        "完全版 Claude Mods 入門 | Claude Codeを自由にカスタマイズする",
+        "実務において敵対的レビューはどの程度有効なのか",
+        "Codex「毎日改善、できない日はフルリセット」宣言",
+        "GitHub Copilot Can Now Interact with Desktop Apps with Computer Use",
+        "Beam: Reflection's 501B open-weight model",
+        "OpenAI \"rogue\" agent activities found on Wikimedia projects"
+      ]
+    },
     {
       "run_at": "2026-10-06T00:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Cloudflare Opens Competition to Build the Next Git Platform on Its Network",
         "Barclays Deploys Claude Across Operations to Improve Client Experience and Automate Internal Workflows",
         "LeCun Has \"Zero Concerns\" About AI Wiping Out Humanity — Directly Contradicting Anthropic CEO Dario Amodei"
-      ]
-    },
-    {
-      "run_at": "2026-10-04T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026100400102&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100400129&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100400080&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100400117&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100400120&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
-        "https://www.publickey1.jp/blog/26/docker_cloud_snadboxesai.html",
-        "https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html",
-        "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "https://ftl-os.org/",
-        "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
-      ],
-      "titles": [
-        "北朝鮮、極超音速中距離ミサイルを発射――「1000キロ先の目標に命中」と主張",
-        "沖縄・那覇の強盗殺人、外務次官が米大使に抗議――海兵隊員の厳正処分を要求",
-        "スペイン全土で住宅問題に抗議――首都マドリードには主催者発表50万人が集結",
-        "村上宗隆、ポストシーズン初打席でアーチ――ホワイトソックスがワイルドカード第1戦を制す",
-        "横浜市長選、7人が立候補届け出――前市長のパワハラ認定が争点に",
-        "Googleが個人向けGeminiのモデル選択を厳格化――無料ユーザーは10月9日からFlash-Liteのみ",
-        "Docker「Cloud Sandboxes」発表――AIエージェントの作業環境をローカルとクラウド間でシームレスに移動",
-        "Microsoft「Copilot Managed Runtime」プレビュー公開――M365テナント内でエージェントアプリをセキュアに実行",
-        "Claude Discovers a Novel Enzyme System with CRISPR-Like Repeat Arrays",
-        "FTL: A New Operating System for Clouds",
-        "Federal Judge Rules Flock License Plate Reader Network Is Indiscriminate Mass Surveillance"
-      ]
-    },
-    {
-      "run_at": "2026-10-04T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597475?source=rss",
-        "https://news.yahoo.co.jp/pickup/6597469?source=rss",
-        "https://news.yahoo.co.jp/pickup/6597478?source=rss",
-        "https://www.jiji.com/jc/article?k=2026100300263&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100300247&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
-        "https://zenn.dev/labcode/books/c4f81b6a2d9e37",
-        "https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html",
-        "https://liao.gg/blog/agents-dont-need-memory",
-        "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-        "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated"
-      ],
-      "titles": [
-        "那覇で強盗殺人事件――逮捕の米海兵隊員が容疑を全面否認",
-        "北朝鮮の弾道ミサイルにAI誘導技術――飛行軌道の変更能力も確認",
-        "淡路島で9歳男児が海に転落し重体――救助に向かった20代男性も行方不明",
-        "米中協議で大豆関税は据え置き――米農家の失望と中間選挙への影響",
-        "ノーベル平和賞、5日から順次発表――ウクライナ団体やICCが有力候補に",
-        "「OpenAIの文化は壊れている」――安全性担当者が退社し内部告発文を公開",
-        "生命科学研究×AI活用ハンドブック――Claudeとローカルモデルで研究時間を取り戻す実践ガイド",
-        "Google Cloud「Spanner Omni」正式リリース――リレーショナル・グラフ・ベクター検索を単一DBに統合",
-        "Agents Don't Need Memory — They Need Documentation",
-        "We're Going to Need Default Hard Budget Caps on Pretty Much Everything",
-        "GitHub Copilot Deprecates Four AI Models — Including Claude Opus 4.7 and Two Gemini Flash Variants"
       ]
     }
   ]

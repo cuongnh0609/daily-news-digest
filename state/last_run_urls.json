@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-06T10:00:00+09:00",
+  "last_run_at": "2026-10-06T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-06T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6597751",
+        "https://news.yahoo.co.jp/pickup/6597734",
+        "https://www.itmedia.co.jp/news/article/2610/06/2000002030/",
+        "https://www.itmedia.co.jp/news/article/2610/06/2000002032/",
+        "https://www.itmedia.co.jp/news/article/2610/06/2000002034/",
+        "https://zenn.dev/kokotatan/articles/ai-autonomy-activity-log",
+        "https://zenn.dev/knowledgesense/articles/f053192a51613f",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2610/06/news004.html",
+        "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+        "https://qlabs.sh/research/dust",
+        "https://www.publickey1.jp/blog/26/googlegvisorcncf.html"
+      ],
+      "titles": [
+        "ネパール土石流：不明の邦人5人の捜索継続を要請、木原官房長官が表明",
+        "マスク氏の資産が再び1兆ドル超え——テスラ・スペースXの株価上昇が後押し",
+        "ミスターマックスで最大173万人分の会員情報が流出——不正アクセスでアプリサーバーに侵入",
+        "デンマークで住民登録簿に不正アクセス——880万人分の個人番号など流出、政府「極めて深刻」",
+        "スーパーホテルがAI経理代行事業に参入——自社の生成AIノウハウを外販し「稼げる経理」を構築",
+        "AIエージェントに「活動ログ」を書かせろ——自律と放置を分けるたった1行の設計原則",
+        "必要なToolだけをAgentに渡すと46.9%のトークン削減——Cursorのシステムプロンプト最適化戦略を解析",
+        "「トークン単価は8倍下がった。なのに請求額は増えた」——MCPツール過剰配置がAIコストを押し上げる構造的問題",
+        "Florida Woman Used Claude as a Diary — Anthropic Reported Threat Entry to Police, She Now Faces Felony Charge",
+        "Dust: Training Transformers Without Backpropagation — Zeroth-Order Method Reaches Competitive Scale for the First Time",
+        "Google Donates gVisor Sandbox Runtime to CNCF — Aims to Widen Adoption for AI Agent Workload Isolation"
+      ]
+    },
     {
       "run_at": "2026-10-06T10:00:00+09:00",
       "urls": [

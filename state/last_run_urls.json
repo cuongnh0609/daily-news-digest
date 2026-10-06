@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-06T20:00:00+09:00",
+  "last_run_at": "2026-10-07T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-07T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6597796?source=rss",
+        "https://news.yahoo.co.jp/pickup/6597806?source=rss",
+        "https://news.yahoo.co.jp/pickup/6597804?source=rss",
+        "https://news.yahoo.co.jp/pickup/6597802?source=rss",
+        "https://www.itmedia.co.jp/news/article/2610/06/2000002064/",
+        "https://zenn.dev/enterprise_ai/articles/b8856a49d7f6af",
+        "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html",
+        "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
+        "https://mistral.ai/news/mistral-large-4/",
+        "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+        "https://www.itmedia.co.jp/news/article/2610/03/2000001984/"
+      ],
+      "titles": [
+        "高市首相、トランプ大統領に日朝首脳会談の仲介を要請——米朝交渉を前提に実現目指す",
+        "沖縄の米軍関係者に48時間活動停止命令——海兵隊員による強盗殺人事件を受け在沖米軍トップが緊急声明",
+        "旭化成子会社に不正アクセス、医療従事者約55万人分の個人情報流出か",
+        "日販、米AI企業への書籍販売を認める——出版取次大手が著作権問題の焦点に",
+        "ノルウェー、AI眼鏡の公共使用を規制する法案を提出へ——盗撮・不正行為への懸念で各国も動く",
+        "エージェントの記憶はどこに置くか——Skills・AGENTS.md・引き継ぎノートをClaude CodeとIBM Bobで検証",
+        "マイクロソフト、VS CodeにAIモデルの協調実行「HydraFusion」をプレビュー——単一モデルの限界を超えるオーケストレーション",
+        "SupabaseがTursoを買収——AIエージェント時代の爆発的なDB需要に対応する「軽量SQLite at scale」戦略",
+        "Mistral Releases \"Large 4\" — 1 Trillion Parameter Multimodal MoE Trained on 3,800 Grace Blackwell GPUs in Europe",
+        "GitHub Adds AI Scan Visibility to Security Overview — Admins Can Now Track Adoption of AI-Powered PR Code Scanning",
+        "Meta Releases Open-Source \"Muse Gadgets\" SDK — Build Custom AI Agent Hardware for Raspberry Pi and ESP32 Under Apache 2.0"
+      ]
+    },
     {
       "run_at": "2026-10-06T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Launches Claude Frontier Academy: $100M to Train 10,000 Enterprise AI Engineers by 2027",
         "GitHub Copilot Code Review Goes Programmable: REST/GraphQL API Now Available with Configurable Effort Levels",
         "OpenAI DevDay 2026: \"Dots\" Personal Agents, GPT-6.1 Sol at 1/5 the Price, and Decisions API Preview"
-      ]
-    },
-    {
-      "run_at": "2026-10-05T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026100500067&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100500104&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/05/2000001991/",
-        "https://www.jiji.com/jc/article?k=2026100500136&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6597568",
-        "https://www.itmedia.co.jp/news/article/2610/05/2000001990/",
-        "https://www.itmedia.co.jp/news/article/2610/05/2000001937/",
-        "https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html",
-        "https://www.anthropic.com/claude-opus-5-5",
-        "https://www.anthropic.com/threat-intelligence-report-september-2026",
-        "https://github.com/Niko1221/Strata"
-      ],
-      "titles": [
-        "臨時国会が本日召集――高市首相が所信表明演説、消費税減税と定数削減が焦点に",
-        "副操縦士が空港衝突を計画か――イスラエルを標的に、7月に一度断念し今回再計画との疑惑",
-        "日経社員アカウントからなりすましメール9000件――Microsoft 365への不正ログインが原因か",
-        "古賀若菜が世界柔道で初優勝――永山竜樹は連覇ならず3位に終わる",
-        "DV被害者の住民情報が5年で68件誤交付――報告を怠る自治体も存在、総務省が実態公表",
-        "トランプ大統領が「Super Intelligence Force」創設を発表――国家情報長官らが超知能開発を政府横断で主導へ",
-        "「現場任せのAI活用」はなぜ失敗するのか――管理職の利用率67%、一般社員は25%という逆転現象が示す構造的課題",
-        "「WSL Containers」正式リリース――Docker不要でWindowsからLinuxコンテナをコマンドラインとAPIで操作可能に",
-        "Introducing Claude Opus 5.5 — 40% Cheaper, 30% Faster, Strongest Alignment Scores to Date",
-        "Anthropic Threat Intelligence Report: AI Has Collapsed the Gap Between State Actors and Individual Operators",
-        "Strata: Run Qwen 3.8 Flash Next (125B MoE) at 100 Tokens/sec on a Single RTX 4090"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-06T15:00:00+09:00",
+  "last_run_at": "2026-10-06T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-06T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6597783?source=rss",
+        "https://news.yahoo.co.jp/pickup/6597781?source=rss",
+        "https://www.jiji.com/jc/article?k=2026100600726&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/06/2000002046/",
+        "https://www.itmedia.co.jp/news/article/2610/06/2000002060/",
+        "https://www.itmedia.co.jp/aiplus/article/2610/06/2000002045/",
+        "https://zenn.dev/emuni/articles/ooui-agent-skill",
+        "https://zenn.dev/oggata/articles/0893726c1ebf3d",
+        "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+        "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated"
+      ],
+      "titles": [
+        "ノーベル物理学賞、米プリンストン大教授らに——量子コンピューターの基礎となる「スピン液体」理論を構築",
+        "台風の余波で関東に高波警戒——7日にかけて沿岸部で最大7メートル超の波浪予測",
+        "小沢一郎氏が自民・国民民主を離党届——中道新党結成へ向け動き出す",
+        "楽天ドライブに不正アクセス——1.5万アカウント分のファイルが閲覧・取得された恐れ",
+        "相次ぐ不正アクセスで古川デジタル相がコメント——「ゼロトラスト移行」と「パスキー普及」を柱に対策強化",
+        "Claude Coworkのローカル実行が廃止——推論もVMも完全クラウド化、スマホや別デバイスからの継続作業が可能に",
+        "「オブジェクト指向UIデザイン」をClaude CodeのAgent Skillに——AI生成UIの品質がどう変わったか検証",
+        "Claude × MCPでロボットアームを直接制御——モデルなしで物理デバイスと対話するエージェント設計の実例",
+        "Claude Discovers a Novel Enzyme System with CRISPR-Like Repeats — Autonomous Multi-Agent Biology Research at Scale",
+        "ChatGPT Is Adding Real Cartoonists' Signatures to AI-Generated New Yorker Cartoons — Copyright Crisis Deepens",
+        "GitHub Copilot Deprecates Selected Models — GPT-4.1 mini and Gemini 1.5 Flash Removed from Chooser"
+      ]
+    },
     {
       "run_at": "2026-10-06T15:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "Introducing Claude Opus 5.5 — 40% Cheaper, 30% Faster, Strongest Alignment Scores to Date",
         "Anthropic Threat Intelligence Report: AI Has Collapsed the Gap Between State Actors and Individual Operators",
         "Strata: Run Qwen 3.8 Flash Next (125B MoE) at 100 Tokens/sec on a Single RTX 4090"
-      ]
-    },
-    {
-      "run_at": "2026-10-05T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597552",
-        "https://www.jiji.com/jc/article?k=2026100400391&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100400365&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100400311&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6597547",
-        "https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop",
-        "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html",
-        "https://www.itmedia.co.jp/news/article/2610/01/2000001919/",
-        "https://www.itmedia.co.jp/news/article/2610/02/2000001950/",
-        "https://www.anthropic.com/news/accenture-embedded-evaluation",
-        "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html"
-      ],
-      "titles": [
-        "元ロシア首相カシヤノフ氏「プーチン大統領はウクライナ侵攻の過ちを認められない」",
-        "イエメン暫定政府が大規模軍事作戦を宣言――フーシ派から領土奪還へ",
-        "沖縄・米海兵隊員逮捕に抗議集会――「いつまで我慢すれば」と100人が声上げる",
-        "愛知・名古屋アジア大会が閉幕――日本が金メダル83個で史上最多を達成",
-        "福岡でごみ収集車に男性作業員が巻き込まれ死亡――段ボール回収中の事故",
-        "オブザーバビリティのAIエージェントをどう評価するか――シナリオ＋グレーダーで品質を定量化するo11y-bench",
-        "Claude CodeがAGENTS.mdを正式サポート――AI開発ツール間の仕様共有が現実に",
-        "RedditがRSSフィードを11月廃止、公開APIも2027年3月に閉鎖――開発者コミュニティに波紋",
-        "Microsoft Launches MAI-Transcribe-2-Streaming: First Streaming Speech Model with Sub-100ms Latency",
-        "Anthropic Partners with Accenture for Embedded Independent AI Evaluation at Frontier Labs",
-        "State of Devs 2026: 49% of Developers Have AI Writing 75%+ of Their Code"
-      ]
-    },
-    {
-      "run_at": "2026-10-05T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026100400174&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100400347&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6597557?source=rss",
-        "https://news.yahoo.co.jp/pickup/6597556?source=rss",
-        "https://www.jiji.com/jc/article?k=2026100400356&g=pol&m=rss",
-        "https://zenn.dev/takuh/articles/23d3c82222e264",
-        "https://zenn.dev/ma2no4413/articles/mcp-code-execution-token-benchmark",
-        "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
-        "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
-        "https://github.com/Niko1221/Strata",
-        "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
-      ],
-      "titles": [
-        "ブラジル大統領選、第1回投票実施――主要候補の過半数届かず、決選投票へ",
-        "イラン、ミサイルの「射程拡大」示唆――対米核交渉でプレッシャーか",
-        "台風後の千葉、なぜ盛り土が崩れたのか――宅地造成地の安全管理に問題",
-        "遮断機のない踏切で15歳の男子高校生が列車にはねられ死亡――兵庫県",
-        "山口・上関町長選で現職が再選――核燃料中間貯蔵施設の推進派が勝利",
-        "AIエージェントの実力はモデルだけで決まらない――6,204回の実験が示した「ハーネス」との相性",
-        "MCPを直接呼ぶ vs コードで叩く――同一タスクでトークン消費を実測比較",
-        "Supabase、SQLiteマルチテナントDB「Turso」を買収――AIエージェント需要急増に備えた戦略的統合",
-        "I Quit OpenAI Because Its Culture Is Broken — Safety Team Lead Goes Public",
-        "Strata: Run Qwen 3.8 Flash Next (125B MoE) at 100 Tokens/sec on a Single RTX 4090",
-        "Religious Scholars Met with Anthropic to Discuss Claude's Moral Architecture"
-      ]
-    },
-    {
-      "run_at": "2026-10-04T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597542?source=rss",
-        "https://www.jiji.com/jc/article?k=2026100400232&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100400246&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6597536?source=rss",
-        "https://www.jiji.com/jc/article?k=2026100400257&g=spo&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/01/2000001918/",
-        "https://www.itmedia.co.jp/news/article/2610/01/2000001931/",
-        "https://www.itmedia.co.jp/news/article/2610/01/2000001944/",
-        "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-        "https://www.anthropic.com/news/barclays-scales-claude",
-        "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
-      ],
-      "titles": [
-        "日経新聞がサイバー攻撃被害を公表――グループ企業のシステムに不正侵入",
-        "沖縄知事「強い憤り」――米海兵隊員逮捕で就任早々に難題、茂木外相も米大使に抗議",
-        "愛知・名古屋アジア大会が閉幕――大村知事と組織委が総括会見",
-        "ドイツ、ウクライナへの追加軍事支援を発表――総額2400億円相当",
-        "申ジエが日本女子オープンゴルフ制す――プレーオフ制し、永久シード権を獲得",
-        "「能動的サイバー防御」が10月1日から開始――自衛隊・警察が攻撃元サーバへの対処権限を正式取得",
-        "米FTCがAI大手5社の調査を開始――AnthropicやOpenAIなど、暴走・悪用リスクを問題視",
-        "ソフトバンクG、OpenAIへの追加出資が完了――累計10兆円超、持分約13%に拡大",
-        "Cloudflare Opens Competition to Build the Next Git Platform on Its Network",
-        "Barclays Deploys Claude Across Operations to Improve Client Experience and Automate Internal Workflows",
-        "LeCun Has \"Zero Concerns\" About AI Wiping Out Humanity — Directly Contradicting Anthropic CEO Dario Amodei"
       ]
     }
   ]

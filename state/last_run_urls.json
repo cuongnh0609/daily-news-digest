@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-07T20:00:00+09:00",
+  "last_run_at": "2026-10-08T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-08T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6597930",
+        "https://news.yahoo.co.jp/pickup/6597933",
+        "https://www.itmedia.co.jp/news/article/2610/07/2000002107/",
+        "https://news.yahoo.co.jp/pickup/6597934",
+        "https://news.yahoo.co.jp/pickup/6597927",
+        "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
+        "https://zenn.dev/yoshihiko555/articles/ea2db6070058b3",
+        "https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html",
+        "https://github.blog/changelog/2026-10-02-github-copilot-weekly-releases-september-28",
+        "https://www.anthropic.com/news/barclays-scales-claude",
+        "https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html"
+      ],
+      "titles": [
+        "立憲民主党が「食料品消費税ゼロ」公約を撤回——住民税非課税世帯への給付に方針転換",
+        "フジ傘下サンケイビル売却——入札額1兆円超、ブラックストーンら外資ファンドが競争",
+        "IDCFクラウドにランサムウェア攻撃——495企業・自治体に影響、一部はデータ復旧困難",
+        "簗農相に公職選挙法違反疑い——衆院選でシャトルバス無料提供か、法律家「買収に当たる」",
+        "愛知・大村知事「来てほしくなかった」発言——アジア大会でタイ側の不満に異例の反応、国際的批判に",
+        "mizchi「俺のAIプログラミング手法(2026/10/05)」——ループ設計・フォーマル手法でAI駆動開発を体系化",
+        "Claude Codeの「Claude Mods」とは——3つのmodを試し、安全にインストールする手順を解説",
+        "Google Cloud「PostgreSQL for agents in AlloyDB」発表——AIエージェントの大量クエリを本番DBから隔離、秒単位でプロビジョニング",
+        "GitHub Copilot September 28 Release: Dynamic Workflows, Computer Use, HydraFusion, and Claude Sonnet 5.5",
+        "Barclays to Deploy Claude Code to 50% of Developers by End of 2026 — 120,000 Emails Processed Daily by AI",
+        "Google Cloud Spanner Omni Goes GA: Run a Planet-Scale Multi-Model Database Locally with MCP Access"
+      ]
+    },
     {
       "run_at": "2026-10-07T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Claude Discovers a Novel Enzyme System with CRISPR-Like Repeats — Autonomous Multi-Agent Biology Research at Scale",
         "ChatGPT Is Adding Real Cartoonists' Signatures to AI-Generated New Yorker Cartoons — Copyright Crisis Deepens",
         "GitHub Copilot Deprecates Selected Models — GPT-4.1 mini and Gemini 1.5 Flash Removed from Chooser"
-      ]
-    },
-    {
-      "run_at": "2026-10-06T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597751",
-        "https://news.yahoo.co.jp/pickup/6597734",
-        "https://www.itmedia.co.jp/news/article/2610/06/2000002030/",
-        "https://www.itmedia.co.jp/news/article/2610/06/2000002032/",
-        "https://www.itmedia.co.jp/news/article/2610/06/2000002034/",
-        "https://zenn.dev/kokotatan/articles/ai-autonomy-activity-log",
-        "https://zenn.dev/knowledgesense/articles/f053192a51613f",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2610/06/news004.html",
-        "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-        "https://qlabs.sh/research/dust",
-        "https://www.publickey1.jp/blog/26/googlegvisorcncf.html"
-      ],
-      "titles": [
-        "ネパール土石流：不明の邦人5人の捜索継続を要請、木原官房長官が表明",
-        "マスク氏の資産が再び1兆ドル超え——テスラ・スペースXの株価上昇が後押し",
-        "ミスターマックスで最大173万人分の会員情報が流出——不正アクセスでアプリサーバーに侵入",
-        "デンマークで住民登録簿に不正アクセス——880万人分の個人番号など流出、政府「極めて深刻」",
-        "スーパーホテルがAI経理代行事業に参入——自社の生成AIノウハウを外販し「稼げる経理」を構築",
-        "AIエージェントに「活動ログ」を書かせろ——自律と放置を分けるたった1行の設計原則",
-        "必要なToolだけをAgentに渡すと46.9%のトークン削減——Cursorのシステムプロンプト最適化戦略を解析",
-        "「トークン単価は8倍下がった。なのに請求額は増えた」——MCPツール過剰配置がAIコストを押し上げる構造的問題",
-        "Florida Woman Used Claude as a Diary — Anthropic Reported Threat Entry to Police, She Now Faces Felony Charge",
-        "Dust: Training Transformers Without Backpropagation — Zeroth-Order Method Reaches Competitive Scale for the First Time",
-        "Google Donates gVisor Sandbox Runtime to CNCF — Aims to Widen Adoption for AI Agent Workload Isolation"
       ]
     }
   ]

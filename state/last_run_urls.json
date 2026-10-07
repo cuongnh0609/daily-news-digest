@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-07T15:00:00+09:00",
+  "last_run_at": "2026-10-07T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-07T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6597917",
+        "https://www.itmedia.co.jp/news/article/2610/07/2000002099/",
+        "https://www.itmedia.co.jp/news/article/2610/07/2000002090/",
+        "https://www.itmedia.co.jp/news/article/2610/07/2000002104/",
+        "https://news.yahoo.co.jp/pickup/6597911",
+        "https://zenn.dev/yesodco/articles/da634d752874b2",
+        "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
+        "https://www.itmedia.co.jp/news/article/2610/07/2000002081/",
+        "https://www.anthropic.com/news/claude-frontier-academy",
+        "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+        "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
+      ],
+      "titles": [
+        "ノーベル化学賞に硤合憲三氏ら2人——タンパク質設計への革新的貢献が受賞理由",
+        "損保ジャパン、ドラレコ関連システムへの不正アクセスで顧客情報約6万件が流出",
+        "HIS子会社、昨年の不正アクセスでパスポート情報など627人分が流出と判明",
+        "みずほ証券、国内金融業界初の直接液冷サーバを導入——AI・リスク計算基盤を刷新",
+        "中学1年生が100m走で10秒台——国内初の快挙、特技はピアノという異才",
+        "Claude Code Modsでセッション固有のメモ帳を作る——TypeScript差し込みで開発フローを一元化",
+        "Cloudflare ContainersがAIエージェント向けに刷新——起動が6倍速、スナップショット機能も追加",
+        "Claudeが全有料プランからGoogleドキュメント/スプレッドシート/スライドを直接編集可能に",
+        "Anthropic Invests $100M to Train 10,000 Enterprise AI Engineers Through Claude Frontier Academy",
+        "GitHub Copilot Code Review Now Available via REST and GraphQL APIs with Configurable Effort Levels",
+        "Simon Willison Releases llm-openai-decisions Plugin — Integrates OpenAI Decisions API for Fast Structured Classification"
+      ]
+    },
     {
       "run_at": "2026-10-07T15:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Florida Woman Used Claude as a Diary — Anthropic Reported Threat Entry to Police, She Now Faces Felony Charge",
         "Dust: Training Transformers Without Backpropagation — Zeroth-Order Method Reaches Competitive Scale for the First Time",
         "Google Donates gVisor Sandbox Runtime to CNCF — Aims to Widen Adoption for AI Agent Workload Isolation"
-      ]
-    },
-    {
-      "run_at": "2026-10-06T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597708",
-        "https://news.yahoo.co.jp/pickup/6597704",
-        "https://news.yahoo.co.jp/pickup/6597701",
-        "https://www.itmedia.co.jp/news/article/2610/06/2000002021/",
-        "https://news.yahoo.co.jp/pickup/6597705",
-        "https://zenn.dev/akari1106/articles/b6d3180cc50dfe",
-        "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001936/",
-        "https://www.itmedia.co.jp/news/article/2610/06/2000002010/",
-        "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-        "https://reflection.ai/blog/introducing-beam",
-        "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
-      ],
-      "titles": [
-        "村上宗隆がタイムリー、ホワイトソックスがポストシーズン無傷の４連勝でリーグ優勝決定シリーズ進出へ王手",
-        "庵野秀明監督が「宇宙戦艦ヤマト√2199」制作を発表、Production I.GとKHARAが初の共同制作",
-        "セブン-イレブン、インド全31店舗を閉店——激しい現地競争で収益が伸び悩む",
-        "GMO「infoQ」に不正アクセス、最大95万件の会員情報流出——ポイント287万円分が不正交換",
-        "沖縄の米兵強盗殺人事件、容疑者が被害者と18キロ移動か——普天間基地所属の海兵隊員を逮捕",
-        "CloudflareのAI判定モデル「Clef」をWorkers AIで試す——確率付き分類でルール設計が品質を左右",
-        "HENNGEが「取締役2人だけ」のAI完全自律新会社を設立——AIエージェントが開発・営業・サポートを担う",
-        "「津田健次郎AI音声」訴訟の論点——東京地裁が判決、弁護士が「違法とは限らない」理由を解説",
-        "Claude Opus 5.5 Agents Discover Two Room-Temperature Magnetic Semiconductor Candidates",
-        "Beam: Reflection AI Releases 501B Open-Weight Model Targeting Real-World Task Completion",
-        "Simon Willison: Coding Agents Need Default Hard Budget Caps — AWS and Google Cloud Now Offer Them"
       ]
     }
   ]

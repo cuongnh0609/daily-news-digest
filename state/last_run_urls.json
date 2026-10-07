@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-07T10:00:00+09:00",
+  "last_run_at": "2026-10-07T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-07T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6597866",
+        "https://news.yahoo.co.jp/pickup/6597854",
+        "https://news.yahoo.co.jp/pickup/6597862",
+        "https://news.yahoo.co.jp/pickup/6597869",
+        "https://www.itmedia.co.jp/news/article/2610/07/2000002086/",
+        "https://zenn.dev/yamato_snow/articles/claude-code-codex-sol-delegation",
+        "https://zenn.dev/shikamaru/articles/ef90e326ab8163",
+        "https://www.itmedia.co.jp/news/article/2610/07/2000002055/",
+        "https://strandsagents.com/blog/introducing-strands-decider/",
+        "https://simonwillison.net/2026/Oct/7/jake-boggan/",
+        "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/"
+      ],
+      "titles": [
+        "ガザ紛争3年——累積死者数が7万4000人に、和平交渉は依然停滞",
+        "簗農相が辞任を改めて否定——道路予算介入疑惑で釈明続く",
+        "ハッカー集団「Qilin」が中心メンバー拘束後に取材応答——「日本は世界最悪のセキュリティ体制」と主張",
+        "横浜の剛腕・織田翔希が10月15日に進路発表——日米両プロから注目の最速157キロ右腕",
+        "Google広告代理店MCCに不正アクセス——パスキー設定でも1分で管理権限を奪われカジノ広告が無断配信",
+        "Claude CodeのタスクをCodexへ委任する——規則を書くだけでは機能せず、3つの仕組みで解決",
+        "LLMによるWebシステム単体テスト自動化——仕様書だけ渡したら8つのバグを全件発見",
+        "バイブコーディングで公開したWebアプリの9割に脆弱性——セキュリティ研究者が調査結果を発表",
+        "Strands Decider 2B: AWS Releases Open-Source Decision Model for AI Agent Control Flow",
+        "OpenAI's Math AI Claims Proof of Goldbach-Related Graph Theory Conjecture — Researchers Cautious",
+        "Google Releases EmbeddingGemma 2: Open Lightweight Multimodal Embedding Model for Developers"
+      ]
+    },
     {
       "run_at": "2026-10-07T10:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Claude Opus 5.5 Agents Discover Two Room-Temperature Magnetic Semiconductor Candidates",
         "Beam: Reflection AI Releases 501B Open-Weight Model Targeting Real-World Task Completion",
         "Simon Willison: Coding Agents Need Default Hard Budget Caps — AWS and Google Cloud Now Offer Them"
-      ]
-    },
-    {
-      "run_at": "2026-10-06T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026100500852&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/05/2000002018/",
-        "https://www.jiji.com/jc/article?k=2026100500990&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100500996&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100500901&g=pol&m=rss",
-        "https://zenn.dev/nogu66/articles/claude-mods-complete-guide",
-        "https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef",
-        "https://www.itmedia.co.jp/aiplus/article/2610/05/2000001997/",
-        "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-        "https://reflection.ai/blog/introducing-beam",
-        "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/"
-      ],
-      "titles": [
-        "光遺伝学研究の米独3氏にノーベル生理学・医学賞――照射した神経細胞操作",
-        "大阪公立大の大規模システム障害、サイバー攻撃が原因か　13万人超の個人情報流出恐れ",
-        "日本、ニュージーランドを下して優勝　上田綺世と堂安律がゴール―キリン杯サッカー",
-        "中国調査船、日本の排他的経済水域（EEZ）を離脱　沖縄・石垣島沖",
-        "高市首相、G7テレビ会議欠席を釈明　「欧州の備蓄放出」が目的",
-        "完全版 Claude Mods 入門 | Claude Codeを自由にカスタマイズする",
-        "実務において敵対的レビューはどの程度有効なのか",
-        "Codex「毎日改善、できない日はフルリセット」宣言",
-        "GitHub Copilot Can Now Interact with Desktop Apps with Computer Use",
-        "Beam: Reflection's 501B open-weight model",
-        "OpenAI \"rogue\" agent activities found on Wikimedia projects"
-      ]
-    },
-    {
-      "run_at": "2026-10-06T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597677",
-        "https://news.yahoo.co.jp/pickup/6597666",
-        "https://news.yahoo.co.jp/pickup/6597680",
-        "https://news.yahoo.co.jp/pickup/6597685",
-        "https://news.yahoo.co.jp/pickup/6597683",
-        "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
-        "https://zenn.dev/yoshihiko555/articles/ea2db6070058b3",
-        "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
-        "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-        "https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html",
-        "https://www.itmedia.co.jp/news/article/2610/05/2000002009/"
-      ],
-      "titles": [
-        "首相所信表明に野党が批判――財源不明の消費税減税に「具体性なし」と一斉反発",
-        "フジパン熊本工場、生産再開を断念――地震被害が深刻で復旧を断念、物流拠点としてのみ継続",
-        "妻子を殺害か、自ら死亡の夫を書類送検――大阪府警、建築会社経営者を殺人容疑で",
-        "塩野義製薬、米バイオ企業を約3155億円で買収――希少疾患薬の全権利獲得へ",
-        "DeNAが15選手に戦力外通告――藤浪晋太郎ら主力クラスも対象、ファンに衝撃",
-        "「俺のAIプログラミング手法」(mizchi)――ループ設計・評価指標・形式手法で人間の役割を再定義する",
-        "Claude Code「Mods」とは何か――プロセス内で動く公式拡張機能、安全な導入手順を解説",
-        "Cloudflare ContainersがAIエージェント向けに刷新――起動6倍高速化・スナップショット機能でエッジサンドボックスが進化",
-        "Cloudflare Launches Web Search API for AI Agents — Multi-Provider Live Search Lands in AI Gateway",
-        "Google Cloud Launches \"PostgreSQL for Agents in AlloyDB\" — Isolated DB Instances for AI Agent Workloads",
-        "AI Agents Used in Coordinated Cyberattack on Six Korean Banks — 25,000+ Customer Records Stolen"
-      ]
-    },
-    {
-      "run_at": "2026-10-05T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597657?source=rss",
-        "https://news.yahoo.co.jp/pickup/6597640?source=rss",
-        "https://news.yahoo.co.jp/pickup/6597627?source=rss",
-        "https://news.yahoo.co.jp/pickup/6597623?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/05/2000002011/",
-        "https://zenn.dev/yukihayama/articles/mcp-claude-code-register",
-        "https://zenn.dev/kokotatan/articles/claude-weekly-limit-failover",
-        "https://zenn.dev/aew2sbee/articles/claude-code-official-skills",
-        "https://www.anthropic.com/engineering/how-we-contain-claude",
-        "https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp",
-        "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out"
-      ],
-      "titles": [
-        "ノーベル医学生理学賞、米独の研究者2人に――RNA修飾「m6A」の解明が細胞制御研究を変える",
-        "トリプル台風が接近――3つの熱帯低気圧が同時に日本近海で活発化、気象庁が厳重警戒を呼びかけ",
-        "農相が「予算カット」発言を撤回し謝罪――農家への配慮欠く表現が批判を招く",
-        "高市首相が所信表明演説――「経済最優先」掲げ、消費税減税・エネルギー自立・防衛強化の三本柱を提示",
-        "焼肉きんぐ、顧客情報約1079万件が漏えい――外部委託先へのサイバー攻撃が原因、カード情報は含まれず",
-        "自作MCPサーバーをClaude Codeに登録する――設定は3行、つまづくのはパスとスコープだけ",
-        "Claude Codeの週制限で自動化を止めない――プロバイダ自動フェイルオーバーの設計パターン",
-        "Claude Code公式スキル全19個を用途別に紹介――「手順書フォルダ」の活用でAI開発ワークフローを標準化",
-        "How Anthropic Contains Claude Across Products: Three-Layer Defense for Production AI Agents",
-        "Decision Models Land in llama.cpp: Specialized Inference Primitives for Low-Latency AI Agent Control Flow",
-        "GitHub Rolls Out Stateless Installation Tokens: Short-Lived Credentials That Don't Persist Server-Side"
       ]
     }
   ]

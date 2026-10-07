@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-08T00:00:00+09:00",
+  "last_run_at": "2026-10-08T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-08T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6597936",
+        "https://news.yahoo.co.jp/pickup/6597924",
+        "https://www.itmedia.co.jp/news/article/2610/07/2000002105/",
+        "https://news.yahoo.co.jp/pickup/6597935",
+        "https://www.itmedia.co.jp/news/article/2610/07/2000002072/",
+        "https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html",
+        "https://zenn.dev/edash_tech_blog/articles/c52409a3d6fa12",
+        "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002111/",
+        "https://www.anthropic.com/claude/haiku",
+        "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+        "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+      ],
+      "titles": [
+        "千葉県で早朝に震度4——マグニチュード4.8、津波の心配なし",
+        "宜野湾市で女性殺害疑い——元交際相手の男を逮捕、事前にストーカー相談も",
+        "富山県立大にまた不正アクセス——学生アカウントから迷惑メール1092件送信",
+        "阪神・西勇輝が現役引退——307試合連続先発の記録を残し甲子園でセレモニー",
+        "応用情報技術者試験のCBTシステムが初日から障害——IPAが謝罪",
+        "AWS、DuckDBをAurora PostgreSQLに統合——ETL不要でS3データレイクとDBを横断クエリ",
+        "PRコメント1105件から40ルールを蒸留——AIコードレビューに暗黙知を組み込んだ実践記",
+        "MicrosoftがWindowsを「ハイブリッドインテリジェンス」基盤に——AIをローカルとクラウドで協調実行",
+        "Anthropic Releases Claude Haiku 5.5 — Fastest Small Model Yet with 30% Lower Latency and Computer Use",
+        "GitHub Copilot Local Sandboxing Now Generally Available — MXC Enforces Agentic Security on Windows, macOS, Linux",
+        "Simon Willison: AI Services Need Default Hard Budget Caps — AWS and Google Now Leading the Way"
+      ]
+    },
     {
       "run_at": "2026-10-08T00:00:00+09:00",
       "urls": [

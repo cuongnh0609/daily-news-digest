@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-08T15:00:00+09:00",
+  "last_run_at": "2026-10-08T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-08T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598038",
+        "https://news.yahoo.co.jp/pickup/6598036",
+        "https://news.yahoo.co.jp/pickup/6598028",
+        "https://www.itmedia.co.jp/news/article/2610/08/2000002120/",
+        "https://www.itmedia.co.jp/news/article/2610/08/2000002101/",
+        "https://zenn.dev/finatext/articles/snowflake-agent-identity-introduction",
+        "https://www.itmedia.co.jp/news/article/2610/08/2000002130/",
+        "https://www.itmedia.co.jp/news/article/2610/07/2000002078/",
+        "https://www.anthropic.com/claude-haiku-5-5",
+        "https://github.com/docker/docker-agent",
+        "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli"
+      ],
+      "titles": [
+        "韓国、駐ウクライナ大使を召還——北朝鮮兵士の引き渡し情報を公表したことへの抗議",
+        "立憲民主党、参院農水委の開催を拒否——簗農相の辞任か釈明なければ応じられず",
+        "公取委、ビール大手4社にカルテル疑いで強制調査——アサヒGHD社長「認識なし」と否定",
+        "IDCFクラウドへのランサム攻撃、Movable Type CloudがさくらのクラウドへBCP移行",
+        "AIが引き起こす「超高速サイバー攻撃」——止まらない不正アクセス被害の背景に自律型エージェントか",
+        "Snowflake Agent Identity徹底解説——AIエージェントを人間ユーザーと区別する認証・監査・ガバナンス設計",
+        "AI文字起こし「Klang」、会議で8人の声を自動識別——スウェーデン発、日本市場へ本格参入",
+        "Google「Nano Banana 2.1」公開——APIの画像出力料金を半額に、Geminiアプリ・Google Adsにも展開",
+        "Anthropic Releases Claude Haiku 5.5 — Cheapest & Fastest Small Model with 75% Price Cut and Adjustable Reasoning",
+        "Docker Releases Open-Source \"Docker Agent\" — Declarative YAML Agent Builder with MCP, RAG, and Multi-Agent Orchestration",
+        "GitHub Copilot Discovers Local Ollama Models in CLI — Use Any Local LLM Alongside Cloud Models Without Restart"
+      ]
+    },
     {
       "run_at": "2026-10-08T15:00:00+09:00",
       "urls": [

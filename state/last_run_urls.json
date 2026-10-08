@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-08T20:00:00+09:00",
+  "last_run_at": "2026-10-09T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-09T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598056",
+        "https://news.yahoo.co.jp/pickup/6598059",
+        "https://news.yahoo.co.jp/pickup/6598057",
+        "https://news.yahoo.co.jp/pickup/6598052",
+        "https://news.yahoo.co.jp/pickup/6598055",
+        "https://www.publickey1.jp/blog/26/gpuai_engine.html",
+        "https://zenn.dev/mkj/articles/generals-io-self-play-rl",
+        "https://zenn.dev/fusic/articles/89daab70352eb7",
+        "https://www.anthropic.com/news/genesis-mission-commitment",
+        "https://openai.com/index/gpt-6-for-everyone/",
+        "https://github.com/openai/math/blob/main/history.md"
+      ],
+      "titles": [
+        "ローソン、約215万件の顧客情報が漏えい——委託先クラウドへの不正アクセスが原因",
+        "在沖縄米軍、9日まで通常訓練を停止——海兵隊員による事件を受け緊急措置",
+        "脱炭素の加速が中国依存を拡大——太陽光・EV部品の供給リスクが浮上",
+        "阪神・佐藤輝明が三冠王を獲得——打率・本塁打・打点の三部門を制覇",
+        "ロシア、国際刑事裁判所の所長らの引き渡しをジョージアに要求——ICC令状を巡る外交摩擦",
+        "さくらのAI Engine プライベートエディション提供開始——GPU専有でLLMを月額定額運用",
+        "Kaggle風Self-Play強化学習の論文を解説——generals.ioでLLMエージェントを自己対戦させる手法",
+        "GCPとAWSの埋め込みモデル6種を比較——監視カメラ動画を日本語で検索する実験",
+        "Anthropic Commits $150M to U.S. Genesis Mission — Claude and Claude Code Deployed Across 15 Federal Science Agencies",
+        "OpenAI Releases GPT-6 to All Users with 'Intelligent UI' — AI Generates Interactive Buttons, Forms, and Graphs Inside Responses",
+        "OpenAI Retracts Three Math Papers After Scrutiny — AI Claims of Proving Graph Theory Conjectures Withdrawn Within Days"
+      ]
+    },
     {
       "run_at": "2026-10-08T20:00:00+09:00",
       "urls": [

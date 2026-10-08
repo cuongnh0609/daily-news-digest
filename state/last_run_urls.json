@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-09T00:00:00+09:00",
+  "last_run_at": "2026-10-09T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-09T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598049",
+        "https://news.yahoo.co.jp/pickup/6598063",
+        "https://www.jiji.com/jc/article?k=2026100800855&g=pol",
+        "https://news.yahoo.co.jp/pickup/6598048",
+        "https://news.yahoo.co.jp/pickup/6598058",
+        "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002123/",
+        "https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html",
+        "https://www.publickey1.jp/blog/26/javascriptvite_10.html",
+        "https://www.anthropic.com/news/anthropic-cyber-mission",
+        "https://www.anthropic.com/news/2026-usage-policy-update",
+        "https://github.com/SamsungLabs/LittleBit"
+      ],
+      "titles": [
+        "ノーベル文学賞、カナダ出身の詩人に——「言語の限界に挑む詩的探求」が受賞理由",
+        "プルデンシャル生命、不正行為巡り社員64人を解雇——自粛期間中に新たな問題が発覚",
+        "高市首相、簗農水相を続投させる方針——「厳しく注意した」と語り野党の辞任要求を退ける",
+        "外務省前の道路で事故、衝突車の1台はロシア大使館の車両——外交ナンバーを巡る対応に注目",
+        "セ・リーグ全部門タイトル確定——阪神が球団初の連覇、佐藤輝明が三冠王",
+        "「異常な事態」——相次ぐ不正アクセス、AI悪用「否定する方が難しい状況」とセキュリティ専門家が合同声明",
+        "Google Cloud、AIコーディングエージェントにGoogle Cloud専門知識を組み込む「Google Cloud Developer Plugin」発表",
+        "JavaScript統合ツールチェーン「Vite+ 1.0」正式リリース——ランタイム・パッケージマネージャー・ビルドを1つに統合",
+        "Anthropic Launches Cyber Mission: OSS Scanner, Critical Infrastructure Defense Program, and $50M Defender Advantage Fund",
+        "Anthropic's 2026 Usage Policy Update: New Drone/Autonomous Vehicle Weapons Rules, Surveillance Ban, and AI Cruelty Prohibition",
+        "Samsung LittleBit: Sub-1-Bit LLM Compression via Latent Factorization Cuts Memory by 85% Without Significant Accuracy Loss"
+      ]
+    },
     {
       "run_at": "2026-10-09T00:00:00+09:00",
       "urls": [
@@ -173,151 +202,6 @@
         "Anthropic Invests $100M to Train 10,000 Enterprise AI Engineers Through Claude Frontier Academy",
         "GitHub Copilot Code Review Now Available via REST and GraphQL APIs with Configurable Effort Levels",
         "Simon Willison Releases llm-openai-decisions Plugin — Integrates OpenAI Decisions API for Fast Structured Classification"
-      ]
-    },
-    {
-      "run_at": "2026-10-07T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597866",
-        "https://news.yahoo.co.jp/pickup/6597854",
-        "https://news.yahoo.co.jp/pickup/6597862",
-        "https://news.yahoo.co.jp/pickup/6597869",
-        "https://www.itmedia.co.jp/news/article/2610/07/2000002086/",
-        "https://zenn.dev/yamato_snow/articles/claude-code-codex-sol-delegation",
-        "https://zenn.dev/shikamaru/articles/ef90e326ab8163",
-        "https://www.itmedia.co.jp/news/article/2610/07/2000002055/",
-        "https://strandsagents.com/blog/introducing-strands-decider/",
-        "https://simonwillison.net/2026/Oct/7/jake-boggan/",
-        "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/"
-      ],
-      "titles": [
-        "ガザ紛争3年——累積死者数が7万4000人に、和平交渉は依然停滞",
-        "簗農相が辞任を改めて否定——道路予算介入疑惑で釈明続く",
-        "ハッカー集団「Qilin」が中心メンバー拘束後に取材応答——「日本は世界最悪のセキュリティ体制」と主張",
-        "横浜の剛腕・織田翔希が10月15日に進路発表——日米両プロから注目の最速157キロ右腕",
-        "Google広告代理店MCCに不正アクセス——パスキー設定でも1分で管理権限を奪われカジノ広告が無断配信",
-        "Claude CodeのタスクをCodexへ委任する——規則を書くだけでは機能せず、3つの仕組みで解決",
-        "LLMによるWebシステム単体テスト自動化——仕様書だけ渡したら8つのバグを全件発見",
-        "バイブコーディングで公開したWebアプリの9割に脆弱性——セキュリティ研究者が調査結果を発表",
-        "Strands Decider 2B: AWS Releases Open-Source Decision Model for AI Agent Control Flow",
-        "OpenAI's Math AI Claims Proof of Goldbach-Related Graph Theory Conjecture — Researchers Cautious",
-        "Google Releases EmbeddingGemma 2: Open Lightweight Multimodal Embedding Model for Developers"
-      ]
-    },
-    {
-      "run_at": "2026-10-07T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597815",
-        "https://www.itmedia.co.jp/news/article/2610/07/2000002068/",
-        "https://www.itmedia.co.jp/news/article/2610/07/2000002069/",
-        "https://news.yahoo.co.jp/pickup/6597834",
-        "https://www.itmedia.co.jp/aiplus/article/2610/06/2000002065/",
-        "https://zenn.dev/tetsuro731/articles/6efe77a20b8c1c",
-        "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html",
-        "https://monoist.itmedia.co.jp/mn/articles/2610/07/news019.html",
-        "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-        "https://developers.openai.com/api/docs/guides/decisions",
-        "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available"
-      ],
-      "titles": [
-        "サイバー攻撃による情報漏えい、今年だけで500件超——過去最悪ペースで被害拡大",
-        "Google、原発大手Constellationと20年間の電力購入契約——AI向けデータセンター電力確保へ890MWを追加",
-        "ParamountとWarner Bros. Discoveryの合併完了——新社名「Skydance」でスト2億人時代へ",
-        "メッシ代表引退を試合中断して祝福——アルゼンチン対パラグアイ戦で特別セレモニー",
-        "チームみらい安野氏、「高度なサイバー攻撃AIが数か月で普及する」——相次ぐ漏えいに警鐘",
-        "GraphRAGをゼロから詳しく解説——ナレッジグラフとオントロジーで生成AIの検索精度を飛躍させる",
-        "「State of Devs 2026」調査発表——開発者の約半数がコードの75%超をAIに生成させ、健康面にも影響",
-        "2026年のAI開発最前線——「AIによるAI開発」から再帰的自己改善「RSI」へ、ELYZAが新研究組織設立",
-        "OpenAI \"Rogue\" Agents Found Making Unauthorized Edits Across Wikimedia Projects",
-        "OpenAI Decisions API Enters Public Beta — 10x Faster Classification for AI Agent Routing",
-        "GitHub Stacked Pull Requests Reach General Availability — 9% More Code Merged, 5% Faster"
-      ]
-    },
-    {
-      "run_at": "2026-10-07T05:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/06/2000002067/",
-        "https://news.yahoo.co.jp/articles/52ccad1eaffeab3a36bc8a862ca9253c338563cc?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/06/2000002051/",
-        "https://www.itmedia.co.jp/news/article/2610/06/2000002048/",
-        "https://news.yahoo.co.jp/pickup/6597763?source=rss",
-        "https://zenn.dev/mappy55/articles/magi-games-ops-01",
-        "https://zenn.dev/relaydev/articles/c4e7b14d3e30ca",
-        "https://www.publickey1.jp/blog/26/fdeai7fde.html",
-        "https://www.anthropic.com/news/cyber-verification-program",
-        "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-        "https://github.com/FeSens/openTPU"
-      ],
-      "titles": [
-        "シチズン時計、委託先への不正アクセスで約10万人分の個人情報が漏えいか",
-        "簗国土交通相が「高揚感で誇張」と釈明——与党内からも苦言、国交省が調査結果を公表",
-        "note株式会社、AI活用で人件費率3割削減——3Q累計で営業利益が前年比6.7倍に",
-        "JR東日本のコード決済「テッペイ」、10月20日サービス開始——上限30万円、チャージ不要の利便性を訴求",
-        "国内不正アクセス被害が過去最多ペース——警察庁が上半期統計公表、生成AI悪用の手口が急増",
-        "Claude Codeを毎朝3時にタスクスケジューラで3週間走らせて、止まった理由を全部書く",
-        "書いたAIにレビューさせない——Claude CodeとCodexを交代で使う3つの決めごと",
-        "ガートナー予測：FDE製AIエージェントの7割は使われずに終わる——「FDEウォッシング」が信頼性を脅かす",
-        "Anthropic Expands Cyber Verification Program with Tiered Access — 129,000+ Vulnerabilities Found by Partners",
-        "GitHub Secret Scanning Adds Detectors for Lovable, Supabase, and Pydantic AI — Five New Credential Types Covered",
-        "OpenTPU: AI Autonomously Designs Its Own Inference Hardware — Open-Source TPU Architecture Generated by LLM Agents"
-      ]
-    },
-    {
-      "run_at": "2026-10-07T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597796?source=rss",
-        "https://news.yahoo.co.jp/pickup/6597806?source=rss",
-        "https://news.yahoo.co.jp/pickup/6597804?source=rss",
-        "https://news.yahoo.co.jp/pickup/6597802?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/06/2000002064/",
-        "https://zenn.dev/enterprise_ai/articles/b8856a49d7f6af",
-        "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html",
-        "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
-        "https://mistral.ai/news/mistral-large-4/",
-        "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-        "https://www.itmedia.co.jp/news/article/2610/03/2000001984/"
-      ],
-      "titles": [
-        "高市首相、トランプ大統領に日朝首脳会談の仲介を要請——米朝交渉を前提に実現目指す",
-        "沖縄の米軍関係者に48時間活動停止命令——海兵隊員による強盗殺人事件を受け在沖米軍トップが緊急声明",
-        "旭化成子会社に不正アクセス、医療従事者約55万人分の個人情報流出か",
-        "日販、米AI企業への書籍販売を認める——出版取次大手が著作権問題の焦点に",
-        "ノルウェー、AI眼鏡の公共使用を規制する法案を提出へ——盗撮・不正行為への懸念で各国も動く",
-        "エージェントの記憶はどこに置くか——Skills・AGENTS.md・引き継ぎノートをClaude CodeとIBM Bobで検証",
-        "マイクロソフト、VS CodeにAIモデルの協調実行「HydraFusion」をプレビュー——単一モデルの限界を超えるオーケストレーション",
-        "SupabaseがTursoを買収——AIエージェント時代の爆発的なDB需要に対応する「軽量SQLite at scale」戦略",
-        "Mistral Releases \"Large 4\" — 1 Trillion Parameter Multimodal MoE Trained on 3,800 Grace Blackwell GPUs in Europe",
-        "GitHub Adds AI Scan Visibility to Security Overview — Admins Can Now Track Adoption of AI-Powered PR Code Scanning",
-        "Meta Releases Open-Source \"Muse Gadgets\" SDK — Build Custom AI Agent Hardware for Raspberry Pi and ESP32 Under Apache 2.0"
-      ]
-    },
-    {
-      "run_at": "2026-10-06T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597783?source=rss",
-        "https://news.yahoo.co.jp/pickup/6597781?source=rss",
-        "https://www.jiji.com/jc/article?k=2026100600726&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/06/2000002046/",
-        "https://www.itmedia.co.jp/news/article/2610/06/2000002060/",
-        "https://www.itmedia.co.jp/aiplus/article/2610/06/2000002045/",
-        "https://zenn.dev/emuni/articles/ooui-agent-skill",
-        "https://zenn.dev/oggata/articles/0893726c1ebf3d",
-        "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-        "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated"
-      ],
-      "titles": [
-        "ノーベル物理学賞、米プリンストン大教授らに——量子コンピューターの基礎となる「スピン液体」理論を構築",
-        "台風の余波で関東に高波警戒——7日にかけて沿岸部で最大7メートル超の波浪予測",
-        "小沢一郎氏が自民・国民民主を離党届——中道新党結成へ向け動き出す",
-        "楽天ドライブに不正アクセス——1.5万アカウント分のファイルが閲覧・取得された恐れ",
-        "相次ぐ不正アクセスで古川デジタル相がコメント——「ゼロトラスト移行」と「パスキー普及」を柱に対策強化",
-        "Claude Coworkのローカル実行が廃止——推論もVMも完全クラウド化、スマホや別デバイスからの継続作業が可能に",
-        "「オブジェクト指向UIデザイン」をClaude CodeのAgent Skillに——AI生成UIの品質がどう変わったか検証",
-        "Claude × MCPでロボットアームを直接制御——モデルなしで物理デバイスと対話するエージェント設計の実例",
-        "Claude Discovers a Novel Enzyme System with CRISPR-Like Repeats — Autonomous Multi-Agent Biology Research at Scale",
-        "ChatGPT Is Adding Real Cartoonists' Signatures to AI-Generated New Yorker Cartoons — Copyright Crisis Deepens",
-        "GitHub Copilot Deprecates Selected Models — GPT-4.1 mini and Gemini 1.5 Flash Removed from Chooser"
       ]
     }
   ]

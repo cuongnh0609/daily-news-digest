@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-09T20:00:00+09:00",
+  "last_run_at": "2026-10-10T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-10T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598195",
+        "https://news.yahoo.co.jp/pickup/6598188",
+        "https://news.yahoo.co.jp/pickup/6598192",
+        "https://news.yahoo.co.jp/pickup/6598193",
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002178/",
+        "https://zenn.dev/terass_dev/articles/6e6562d54d5505",
+        "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002102/",
+        "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+        "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+        "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
+      ],
+      "titles": [
+        "米、ICCに包括制裁——ノーベル平和賞の元判事ら受賞直後に発動、首相「深刻な懸念」",
+        "イオン系食品スーパー、2030年度までに約100店閉店——物価高が想定超え、構造改革を加速",
+        "ビール大手4社の担当者、公取委に価格協議を認める——地域別価格調整の実態解明へ",
+        "関文科相、議員会館内で政治資金パーティー開催か——内規違反の疑いで野党が追及",
+        "ヤマハ・スズキも影響か——コミュニティ基盤「コミューン」に不正アクセス、30万会員の情報漏えいの恐れ",
+        "NotionやSlackから直接AIに仕事を依頼——Claude Code Routinesで構築したチーム向けエージェント基盤の実録",
+        "若手エンジニアに必要な「AIを使う力」——目標・未知の言語化・前提検証の3スキルが鍵",
+        "履歴書100通に1通、「AIだけが読める隠し文字」——就活プロンプトインジェクションの実態調査",
+        "OpenAI Fires Three Safety Researchers Who Coordinated with External Evaluators — Disputed Misconduct Claims Trigger Safety Culture Alarm",
+        "bigarrow: Let AI Agents Paint Giant Arrows and Signs on Your macOS Screen — A Claude Code Skill for Pointing at What Humans Must Click",
+        "Simon Willison Built an Entire Newsletter Archive Page Almost Entirely by Voice — Talking to Codex While Cooking"
+      ]
+    },
     {
       "run_at": "2026-10-09T20:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "OpenAI Launches GPT-6 for All Users — Intelligent UI Generates Interactive Responses with Buttons, Forms, and Graphs",
         "GitHub Ships Purpose-Built AI Model for Leaked Secret Detection — Context-Aware Password Finding at Push Time",
         "Simon Willison's Analysis of Claude Haiku 5.5 — Competitive Pricing, Built-in Reasoning, and 25% More Tokens Than Expected"
-      ]
-    },
-    {
-      "run_at": "2026-10-08T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597936",
-        "https://news.yahoo.co.jp/pickup/6597924",
-        "https://www.itmedia.co.jp/news/article/2610/07/2000002105/",
-        "https://news.yahoo.co.jp/pickup/6597935",
-        "https://www.itmedia.co.jp/news/article/2610/07/2000002072/",
-        "https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html",
-        "https://zenn.dev/edash_tech_blog/articles/c52409a3d6fa12",
-        "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002111/",
-        "https://www.anthropic.com/claude/haiku",
-        "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-        "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
-      ],
-      "titles": [
-        "千葉県で早朝に震度4——マグニチュード4.8、津波の心配なし",
-        "宜野湾市で女性殺害疑い——元交際相手の男を逮捕、事前にストーカー相談も",
-        "富山県立大にまた不正アクセス——学生アカウントから迷惑メール1092件送信",
-        "阪神・西勇輝が現役引退——307試合連続先発の記録を残し甲子園でセレモニー",
-        "応用情報技術者試験のCBTシステムが初日から障害——IPAが謝罪",
-        "AWS、DuckDBをAurora PostgreSQLに統合——ETL不要でS3データレイクとDBを横断クエリ",
-        "PRコメント1105件から40ルールを蒸留——AIコードレビューに暗黙知を組み込んだ実践記",
-        "MicrosoftがWindowsを「ハイブリッドインテリジェンス」基盤に——AIをローカルとクラウドで協調実行",
-        "Anthropic Releases Claude Haiku 5.5 — Fastest Small Model Yet with 30% Lower Latency and Computer Use",
-        "GitHub Copilot Local Sandboxing Now Generally Available — MXC Enforces Agentic Security on Windows, macOS, Linux",
-        "Simon Willison: AI Services Need Default Hard Budget Caps — AWS and Google Now Leading the Way"
-      ]
-    },
-    {
-      "run_at": "2026-10-08T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597930",
-        "https://news.yahoo.co.jp/pickup/6597933",
-        "https://www.itmedia.co.jp/news/article/2610/07/2000002107/",
-        "https://news.yahoo.co.jp/pickup/6597934",
-        "https://news.yahoo.co.jp/pickup/6597927",
-        "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
-        "https://zenn.dev/yoshihiko555/articles/ea2db6070058b3",
-        "https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html",
-        "https://github.blog/changelog/2026-10-02-github-copilot-weekly-releases-september-28",
-        "https://www.anthropic.com/news/barclays-scales-claude",
-        "https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html"
-      ],
-      "titles": [
-        "立憲民主党が「食料品消費税ゼロ」公約を撤回——住民税非課税世帯への給付に方針転換",
-        "フジ傘下サンケイビル売却——入札額1兆円超、ブラックストーンら外資ファンドが競争",
-        "IDCFクラウドにランサムウェア攻撃——495企業・自治体に影響、一部はデータ復旧困難",
-        "簗農相に公職選挙法違反疑い——衆院選でシャトルバス無料提供か、法律家「買収に当たる」",
-        "愛知・大村知事「来てほしくなかった」発言——アジア大会でタイ側の不満に異例の反応、国際的批判に",
-        "mizchi「俺のAIプログラミング手法(2026/10/05)」——ループ設計・フォーマル手法でAI駆動開発を体系化",
-        "Claude Codeの「Claude Mods」とは——3つのmodを試し、安全にインストールする手順を解説",
-        "Google Cloud「PostgreSQL for agents in AlloyDB」発表——AIエージェントの大量クエリを本番DBから隔離、秒単位でプロビジョニング",
-        "GitHub Copilot September 28 Release: Dynamic Workflows, Computer Use, HydraFusion, and Claude Sonnet 5.5",
-        "Barclays to Deploy Claude Code to 50% of Developers by End of 2026 — 120,000 Emails Processed Daily by AI",
-        "Google Cloud Spanner Omni Goes GA: Run a Planet-Scale Multi-Model Database Locally with MCP Access"
       ]
     }
   ]

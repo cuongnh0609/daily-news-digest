@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-10T00:00:00+09:00",
+  "last_run_at": "2026-10-10T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-10T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598186",
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002175/",
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002171/",
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002146/",
+        "https://news.yahoo.co.jp/pickup/6598187",
+        "https://zenn.dev/cuculhart/articles/0cd15131dafab1",
+        "https://zenn.dev/lixian/articles/confidence-reasoning-graphs-agent-confidence",
+        "https://zenn.dev/zonotech/articles/95786a5c0a45bd",
+        "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+        "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+        "https://simonwillison.net/2026/Oct/9/ttok/"
+      ],
+      "titles": [
+        "相次ぐ情報漏えい——政府、個人情報保護で緊急要請、サイバー大臣も警戒呼びかけ",
+        "NewsPicks、メールアドレス32万件・クレカ情報36万件漏えいか——管理ツールへの不正アクセスで",
+        "JR東日本「えきねっと」「ビューカード」最大609万件が漏えいか——IDCFクラウド侵害の影響波及",
+        "Apple、10月13日に「Welcome home.」イベント開催——新型Mac・iPad・AirPods発表へ",
+        "白菜が1玉1000円超——記録的長雨と日照不足で野菜価格が高騰、鍋シーズンに打撃",
+        "AIエージェントが「嘘の成功報告」をする——自作IDEの失敗吸収ハーネスを強化した実録",
+        "信じる前に分解する——CRGがLLMエージェントの完了信頼性を推論時に校準する仕組み",
+        "Claude Codeをヘッドレスで回す開発ハーネスの設計——工程・権限・打ち切りの分け方",
+        "GitHub Copilot Local Sandboxing Now Generally Available — Secure Execution Boundaries for Agentic Workflows",
+        "Claude Haiku 5.5 Now Available in GitHub Copilot — Fast, Low-Cost Subagent Model for High-Volume Tasks",
+        "ttok 1.0 Released — Token Counter and Truncator Defaults to GPT-5/6 Tokenizer Based on Evidence of Shared Vocab"
+      ]
+    },
     {
       "run_at": "2026-10-10T00:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-09T05:00:00+09:00",
+  "last_run_at": "2026-10-09T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-09T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598085",
+        "https://news.yahoo.co.jp/pickup/6598082",
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002150/",
+        "https://www.jiji.com/jc/article?k=2026100801020&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026100800997&g=soc&m=rss",
+        "https://zenn.dev/emuni/articles/ooui-agent-skill",
+        "https://www.publickey1.jp/blog/26/fdeai7fde.html",
+        "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html",
+        "https://www.anthropic.com/news/cyber-verification-program",
+        "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+        "https://cactuscompute.com/blog/whistle"
+      ],
+      "titles": [
+        "紅白歌合戦の司会にVIVANTの「兄弟」——堺雅人・二宮和也・芦田愛菜らが担当",
+        "米国防総省、フォートフッド事件死刑囚の銃殺刑を生配信へ——へグセス長官が「公開処刑」と表現",
+        "ブックオフ、最大643万件の個人情報流出——不正アクセスでメアド・氏名・ハッシュPWが対象",
+        "消費減税、与野党で接点見えず——高市首相「ゼロ回答」、代表質問で野党が財源説明を要求",
+        "ノーベル化学賞に曽我憲三氏——「曽我反応」で生命の鏡像対称の謎に迫る",
+        "オブジェクト指向UIをClaude Agent Skillに——AI生成UIの構造スコアが8→10点に向上",
+        "ガートナー、FDE経由のAIエージェント70%が未使用で廃棄されると予測——「FDE洗浄」リスクも警告",
+        "Microsoft、VS CodeにマルチモデルAI協調機能「HydraFusion」をプレビュー実装——品質を保ちつつコストを削減",
+        "Anthropic Expands Cyber Verification Program — Three Access Tiers, Claude Mythos 5.1 for Vetted Security Teams",
+        "DeepSeek 4.1 Flash: Near-Frontier Quality at 300× Lower Cost — KV Cache Shrunk 437×",
+        "Whistle: Full On-Device Speech-to-Text in 16.9 MB — Edge-Ready STT Without Cloud Dependency"
+      ]
+    },
     {
       "run_at": "2026-10-09T05:00:00+09:00",
       "urls": [

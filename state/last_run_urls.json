@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-10T15:00:00+09:00",
+  "last_run_at": "2026-10-10T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-10T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598275",
+        "https://news.yahoo.co.jp/pickup/6598271",
+        "https://news.yahoo.co.jp/pickup/6598285",
+        "https://news.yahoo.co.jp/pickup/6598255",
+        "https://news.yahoo.co.jp/pickup/6598258",
+        "https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html",
+        "https://zenn.dev/tnishinaga/articles/ee0b6cf4f8683d",
+        "https://zenn.dev/fusic/articles/c34f48e0ab811e",
+        "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+        "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+        "https://typesafe.ai/blog/series-ai"
+      ],
+      "titles": [
+        "だんじりの横転相次ぐ 計2人死亡",
+        "消費減税後 8%に戻せるか識者疑問",
+        "首相のG7欠席 野党から苦言続出",
+        "米がICC制裁 日本など8カ国反対",
+        "ノーベル平和賞の賞金約2億円、どう渡す？",
+        "AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能に",
+        "初AIコーディング記録：Brain第1世代でLinuxを動くようにした話",
+        "AWS Cost ExplorerのAmazon Bedrock製品属性で、できることとできないことを確認してみた",
+        "Anthropic's AI Agents Accidentally Submitted 20 Visa Applications to the U.S. State Department",
+        "GitHub Releases Purpose-Built Fine-Tuned Model for Leaked Secret Detection in Code",
+        "TypeSafe AI Raises $870M at $7.5B Valuation — Building Machine-Native Intelligence Infrastructure"
+      ]
+    },
     {
       "run_at": "2026-10-10T15:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "Agents That Can Pay: LangChain Releases Restock — An Agentic Shopping Bot Using Stripe's Machine Payments Protocol",
         "Google Cloud Launches Gemini Agent: Multi-Model Orchestration Platform Supporting Claude Opus 5.5 and Sonnet 5.5",
         "LangChain Managed Deep Agents v0.9: Scheduled Runs, Per-Run Configuration, and Slack Reaction Triggers"
-      ]
-    },
-    {
-      "run_at": "2026-10-09T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598085",
-        "https://news.yahoo.co.jp/pickup/6598082",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002150/",
-        "https://www.jiji.com/jc/article?k=2026100801020&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026100800997&g=soc&m=rss",
-        "https://zenn.dev/emuni/articles/ooui-agent-skill",
-        "https://www.publickey1.jp/blog/26/fdeai7fde.html",
-        "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html",
-        "https://www.anthropic.com/news/cyber-verification-program",
-        "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-        "https://cactuscompute.com/blog/whistle"
-      ],
-      "titles": [
-        "紅白歌合戦の司会にVIVANTの「兄弟」——堺雅人・二宮和也・芦田愛菜らが担当",
-        "米国防総省、フォートフッド事件死刑囚の銃殺刑を生配信へ——へグセス長官が「公開処刑」と表現",
-        "ブックオフ、最大643万件の個人情報流出——不正アクセスでメアド・氏名・ハッシュPWが対象",
-        "消費減税、与野党で接点見えず——高市首相「ゼロ回答」、代表質問で野党が財源説明を要求",
-        "ノーベル化学賞に曽我憲三氏——「曽我反応」で生命の鏡像対称の謎に迫る",
-        "オブジェクト指向UIをClaude Agent Skillに——AI生成UIの構造スコアが8→10点に向上",
-        "ガートナー、FDE経由のAIエージェント70%が未使用で廃棄されると予測——「FDE洗浄」リスクも警告",
-        "Microsoft、VS CodeにマルチモデルAI協調機能「HydraFusion」をプレビュー実装——品質を保ちつつコストを削減",
-        "Anthropic Expands Cyber Verification Program — Three Access Tiers, Claude Mythos 5.1 for Vetted Security Teams",
-        "DeepSeek 4.1 Flash: Near-Frontier Quality at 300× Lower Cost — KV Cache Shrunk 437×",
-        "Whistle: Full On-Device Speech-to-Text in 16.9 MB — Edge-Ready STT Without Cloud Dependency"
-      ]
-    },
-    {
-      "run_at": "2026-10-09T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598049",
-        "https://news.yahoo.co.jp/pickup/6598063",
-        "https://www.jiji.com/jc/article?k=2026100800855&g=pol",
-        "https://news.yahoo.co.jp/pickup/6598048",
-        "https://news.yahoo.co.jp/pickup/6598058",
-        "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002123/",
-        "https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html",
-        "https://www.publickey1.jp/blog/26/javascriptvite_10.html",
-        "https://www.anthropic.com/news/anthropic-cyber-mission",
-        "https://www.anthropic.com/news/2026-usage-policy-update",
-        "https://github.com/SamsungLabs/LittleBit"
-      ],
-      "titles": [
-        "ノーベル文学賞、カナダ出身の詩人に——「言語の限界に挑む詩的探求」が受賞理由",
-        "プルデンシャル生命、不正行為巡り社員64人を解雇——自粛期間中に新たな問題が発覚",
-        "高市首相、簗農水相を続投させる方針——「厳しく注意した」と語り野党の辞任要求を退ける",
-        "外務省前の道路で事故、衝突車の1台はロシア大使館の車両——外交ナンバーを巡る対応に注目",
-        "セ・リーグ全部門タイトル確定——阪神が球団初の連覇、佐藤輝明が三冠王",
-        "「異常な事態」——相次ぐ不正アクセス、AI悪用「否定する方が難しい状況」とセキュリティ専門家が合同声明",
-        "Google Cloud、AIコーディングエージェントにGoogle Cloud専門知識を組み込む「Google Cloud Developer Plugin」発表",
-        "JavaScript統合ツールチェーン「Vite+ 1.0」正式リリース——ランタイム・パッケージマネージャー・ビルドを1つに統合",
-        "Anthropic Launches Cyber Mission: OSS Scanner, Critical Infrastructure Defense Program, and $50M Defender Advantage Fund",
-        "Anthropic's 2026 Usage Policy Update: New Drone/Autonomous Vehicle Weapons Rules, Surveillance Ban, and AI Cruelty Prohibition",
-        "Samsung LittleBit: Sub-1-Bit LLM Compression via Latent Factorization Cuts Memory by 85% Without Significant Accuracy Loss"
-      ]
-    },
-    {
-      "run_at": "2026-10-09T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598056",
-        "https://news.yahoo.co.jp/pickup/6598059",
-        "https://news.yahoo.co.jp/pickup/6598057",
-        "https://news.yahoo.co.jp/pickup/6598052",
-        "https://news.yahoo.co.jp/pickup/6598055",
-        "https://www.publickey1.jp/blog/26/gpuai_engine.html",
-        "https://zenn.dev/mkj/articles/generals-io-self-play-rl",
-        "https://zenn.dev/fusic/articles/89daab70352eb7",
-        "https://www.anthropic.com/news/genesis-mission-commitment",
-        "https://openai.com/index/gpt-6-for-everyone/",
-        "https://github.com/openai/math/blob/main/history.md"
-      ],
-      "titles": [
-        "ローソン、約215万件の顧客情報が漏えい——委託先クラウドへの不正アクセスが原因",
-        "在沖縄米軍、9日まで通常訓練を停止——海兵隊員による事件を受け緊急措置",
-        "脱炭素の加速が中国依存を拡大——太陽光・EV部品の供給リスクが浮上",
-        "阪神・佐藤輝明が三冠王を獲得——打率・本塁打・打点の三部門を制覇",
-        "ロシア、国際刑事裁判所の所長らの引き渡しをジョージアに要求——ICC令状を巡る外交摩擦",
-        "さくらのAI Engine プライベートエディション提供開始——GPU専有でLLMを月額定額運用",
-        "Kaggle風Self-Play強化学習の論文を解説——generals.ioでLLMエージェントを自己対戦させる手法",
-        "GCPとAWSの埋め込みモデル6種を比較——監視カメラ動画を日本語で検索する実験",
-        "Anthropic Commits $150M to U.S. Genesis Mission — Claude and Claude Code Deployed Across 15 Federal Science Agencies",
-        "OpenAI Releases GPT-6 to All Users with 'Intelligent UI' — AI Generates Interactive Buttons, Forms, and Graphs Inside Responses",
-        "OpenAI Retracts Three Math Papers After Scrutiny — AI Claims of Proving Graph Theory Conjectures Withdrawn Within Days"
-      ]
-    },
-    {
-      "run_at": "2026-10-08T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598038",
-        "https://news.yahoo.co.jp/pickup/6598036",
-        "https://news.yahoo.co.jp/pickup/6598028",
-        "https://www.itmedia.co.jp/news/article/2610/08/2000002120/",
-        "https://www.itmedia.co.jp/news/article/2610/08/2000002101/",
-        "https://zenn.dev/finatext/articles/snowflake-agent-identity-introduction",
-        "https://www.itmedia.co.jp/news/article/2610/08/2000002130/",
-        "https://www.itmedia.co.jp/news/article/2610/07/2000002078/",
-        "https://www.anthropic.com/claude-haiku-5-5",
-        "https://github.com/docker/docker-agent",
-        "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli"
-      ],
-      "titles": [
-        "韓国、駐ウクライナ大使を召還——北朝鮮兵士の引き渡し情報を公表したことへの抗議",
-        "立憲民主党、参院農水委の開催を拒否——簗農相の辞任か釈明なければ応じられず",
-        "公取委、ビール大手4社にカルテル疑いで強制調査——アサヒGHD社長「認識なし」と否定",
-        "IDCFクラウドへのランサム攻撃、Movable Type CloudがさくらのクラウドへBCP移行",
-        "AIが引き起こす「超高速サイバー攻撃」——止まらない不正アクセス被害の背景に自律型エージェントか",
-        "Snowflake Agent Identity徹底解説——AIエージェントを人間ユーザーと区別する認証・監査・ガバナンス設計",
-        "AI文字起こし「Klang」、会議で8人の声を自動識別——スウェーデン発、日本市場へ本格参入",
-        "Google「Nano Banana 2.1」公開——APIの画像出力料金を半額に、Geminiアプリ・Google Adsにも展開",
-        "Anthropic Releases Claude Haiku 5.5 — Cheapest & Fastest Small Model with 75% Price Cut and Adjustable Reasoning",
-        "Docker Releases Open-Source \"Docker Agent\" — Declarative YAML Agent Builder with MCP, RAG, and Multi-Agent Orchestration",
-        "GitHub Copilot Discovers Local Ollama Models in CLI — Use Any Local LLM Alongside Cloud Models Without Restart"
       ]
     }
   ]

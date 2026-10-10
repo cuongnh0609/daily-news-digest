@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-10T10:00:00+09:00",
+  "last_run_at": "2026-10-10T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-10T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598232",
+        "https://news.yahoo.co.jp/pickup/6598252",
+        "https://news.yahoo.co.jp/pickup/6598243",
+        "https://news.yahoo.co.jp/pickup/6598251",
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002184/",
+        "https://zenn.dev/welchi/articles/ai-20parallel-pm",
+        "https://zenn.dev/mk404/articles/2026-10-10-agentic-dev-three-months-lessons",
+        "https://zenn.dev/toshipon/articles/autonomous-product-loop-with-kaizenlab-and-orca",
+        "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+        "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/"
+      ],
+      "titles": [
+        "新たな給付制度、対象・財源が白紙のまま国会審議へ——与野党の溝は深く",
+        "衆院予算委、簗農水相への追及が焦点——野党「政治資金パーティー問題」で辞任要求",
+        "トランプ前大統領、ノーベル平和賞を逃し批判——「プロセスは腐敗している」と主張",
+        "太陽系外の惑星から電波を初検出——生命体存在の可能性を示す「磁気圏の証拠」",
+        "IDCFクラウドに攻撃者のメッセージ——「お前たちのクラウドはわれわれのもの」と管理画面に表示",
+        "AIを20並列で回したら、PMになっていた——エンジニアがディレクターへと役割変容した2か月の記録",
+        "AIエージェントは「困っています」とは言わない——6か月の実践で見えた「曖昧な依頼」の落とし穴",
+        "Orca × KaizenLab × Loop Engineering——自律型AIに本番プロダクトを改善させる「境界と判断依頼」の設計",
+        "AI Agents Comb 400 Years of Historical Archives — Discover Forgotten Meteorite, Lost Rhinos, and Unrecorded Eruptions",
+        "Claude Discovers Novel Enzyme System with CRISPR-Like Repeats — 950 Agents, 21 Hours, 210M Tokens",
+        "Terry Tao: What Mathematicians Should Know About Lean and AI — Reliability, Proof Verification, and the Coming Shift"
+      ]
+    },
     {
       "run_at": "2026-10-10T10:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-10T05:00:00+09:00",
+  "last_run_at": "2026-10-10T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-10T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598220",
+        "https://www.itmedia.co.jp/news/article/2610/10/2000002190/",
+        "https://news.yahoo.co.jp/pickup/6598213",
+        "https://news.yahoo.co.jp/pickup/6598211",
+        "https://news.yahoo.co.jp/pickup/6598208",
+        "https://zenn.dev/edash_tech_blog/articles/c52409a3d6fa12",
+        "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
+        "https://zenn.dev/yoshihiko555/articles/ea2db6070058b3",
+        "https://www.anthropic.com/news/accenture-embedded-evaluation",
+        "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+        "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"
+      ],
+      "titles": [
+        "パナマ南部でM7.7の地震——ホテルなど倒壊、15人負傷、日本沿岸に若干の海面変動",
+        "「コミューン」不正アクセス被害が拡大——LINEヤフー・Sansan・パナソニックなど計30万人超に影響",
+        "ビール大手4社カルテル疑惑——価格調整の報告が経営トップに届いていた可能性",
+        "なぜ日本がサイバー攻撃の標的に——AI普及で「日本語の壁」が消え、7000万件超の個人情報が流出",
+        "米、ICC本体を制裁対象に指定——赤根所長「法の支配への攻撃」と強く批判",
+        "口伝のレビュー作法を40ルールに整理してAIレビューに組み込む——6か月の実証で承認率が64.5%→71.2%に向上",
+        "AIコーディングループの形式化——完了条件・評価指標・フィードバックループ設計で人間の役割を再定義",
+        "Claude Codeの「Claude Mods」とは——プロンプト履歴ナビ・MD着色・QAガイド、3つのmod導入実録",
+        "Anthropic Partners with Accenture on Embedded AI Safety Evaluation — $1B+ Joint Investment Over Five Years",
+        "GitHub Copilot Weekly Release (Oct 5): Local Sandboxing GA, Multi-Session Grid, Claude Haiku 5.5, and Ollama Detection",
+        "Deno is Joining Cloudflare — Runtime Development Ends in 12 Months, celld Open-Sources Durable Objects Pattern"
+      ]
+    },
     {
       "run_at": "2026-10-10T05:00:00+09:00",
       "urls": [
@@ -231,35 +260,6 @@
         "Anthropic Releases Claude Haiku 5.5 — Cheapest & Fastest Small Model with 75% Price Cut and Adjustable Reasoning",
         "Docker Releases Open-Source \"Docker Agent\" — Declarative YAML Agent Builder with MCP, RAG, and Multi-Agent Orchestration",
         "GitHub Copilot Discovers Local Ollama Models in CLI — Use Any Local LLM Alongside Cloud Models Without Restart"
-      ]
-    },
-    {
-      "run_at": "2026-10-08T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6597983",
-        "https://news.yahoo.co.jp/pickup/6597981",
-        "https://news.yahoo.co.jp/pickup/6597975",
-        "https://news.yahoo.co.jp/pickup/6597991",
-        "https://www.itmedia.co.jp/news/article/2610/08/2000002128/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2610/08/news018.html",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2610/08/news003.html",
-        "https://www.publickey1.jp/blog/26/googlegvisorcncf.html",
-        "https://www.itmedia.co.jp/news/article/2610/08/2000002119/",
-        "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-        "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
-      ],
-      "titles": [
-        "公正取引委員会、ビール大手4社にカルテル疑いで強制調査——価格調整の「合意」の立証が焦点に",
-        "米国防総省、イラン攻撃の準備命令か——トランプ大統領の最終決定は未確定、中東緊張が再び高まる",
-        "千葉・酒々井の団地、台風25号の影響で浸水深なお1メートル——排水作業が本格化",
-        "那須町長選の当選無効取り消し——東京高裁が栃木県選管の裁定を覆す、1票差の現職が復帰",
-        "Google、AI生成コンテンツの判定ツールを一般公開——OpenAIやNVIDIAのサービスも対象、教育・報道分野への活用を期待",
-        "社内9部門に62体のClaude AIエージェントを展開——「AI社員」が働く企業の運用実録",
-        "AIの「トークン浪費」を減らす5つの実践手法——エージェントが通常の4倍トークンを消費する問題に対処",
-        "Google、セキュアなコンテナランタイム「gVisor」をCNCFに寄贈——AIエージェント向けサンドボックス基盤として普及加速へ",
-        "OpenAI Launches GPT-6 for All Users — Intelligent UI Generates Interactive Responses with Buttons, Forms, and Graphs",
-        "GitHub Ships Purpose-Built AI Model for Leaked Secret Detection — Context-Aware Password Finding at Push Time",
-        "Simon Willison's Analysis of Claude Haiku 5.5 — Competitive Pricing, Built-in Reasoning, and 25% More Tokens Than Expected"
       ]
     }
   ]

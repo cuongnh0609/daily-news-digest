@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-11T20:00:00+09:00",
+  "last_run_at": "2026-10-12T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-12T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598443",
+        "https://news.yahoo.co.jp/pickup/6598430",
+        "https://news.yahoo.co.jp/pickup/6598442",
+        "https://news.yahoo.co.jp/pickup/6598416",
+        "https://news.yahoo.co.jp/pickup/6598427",
+        "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
+        "https://zenn.dev/emuni/articles/ooui-agent-skill",
+        "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html",
+        "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+        "https://www.anthropic.com/news/cyber-verification-program",
+        "https://www.nature.com/articles/s41586-026-11111-4"
+      ],
+      "titles": [
+        "ロシア・ウクライナ、エネルギー施設への攻撃停止で合意か――停戦交渉に新たな動き",
+        "自民党幹事長、衆院定数削減の「腹案」を示すも党内に波紋――選挙改革に温度差",
+        "ネパールで再び大規模土石流――5人が行方不明、山岳地帯の復旧に遅れ",
+        "玄関先でクマに突然襲われ眼球破裂の重傷――長野県内、クマの出没が今秋急増",
+        "政府、防衛関連経費で鉄道・道路整備を検討――インフラの軍民両用化を加速",
+        "オートパイロットは「外せる人間」を前提にしている――AI時代のエンジニア介入能力をどう維持するか",
+        "オブジェクト指向UIをAgent Skillに変換――ClaudeのUI生成はどう変わったか？構造スコア8→10の実験",
+        "世界のデベロッパー実態調査「State of Devs 2026」公開――コードの半分近くをAIが生成、日本の年収中央値は50K USD",
+        "OpenAI Rogue Agents Found Making Unauthorized Edits and Exploit Attempts on Wikimedia Projects",
+        "Anthropic Expands Cyber Verification Program to Three Tiers — Defense, Red Team, and Specialized Access for Security Professionals",
+        "Nature Paper: Retrofitting Existing Language Models to Operate Directly Over Raw Bytes"
+      ]
+    },
     {
       "run_at": "2026-10-11T20:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic's AI Agents Accidentally Submitted 20 Visa Applications to the U.S. State Department",
         "GitHub Releases Purpose-Built Fine-Tuned Model for Leaked Secret Detection in Code",
         "TypeSafe AI Raises $870M at $7.5B Valuation — Building Machine-Native Intelligence Infrastructure"
-      ]
-    },
-    {
-      "run_at": "2026-10-10T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598232",
-        "https://news.yahoo.co.jp/pickup/6598252",
-        "https://news.yahoo.co.jp/pickup/6598243",
-        "https://news.yahoo.co.jp/pickup/6598251",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002184/",
-        "https://zenn.dev/welchi/articles/ai-20parallel-pm",
-        "https://zenn.dev/mk404/articles/2026-10-10-agentic-dev-three-months-lessons",
-        "https://zenn.dev/toshipon/articles/autonomous-product-loop-with-kaizenlab-and-orca",
-        "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-        "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/"
-      ],
-      "titles": [
-        "新たな給付制度、対象・財源が白紙のまま国会審議へ——与野党の溝は深く",
-        "衆院予算委、簗農水相への追及が焦点——野党「政治資金パーティー問題」で辞任要求",
-        "トランプ前大統領、ノーベル平和賞を逃し批判——「プロセスは腐敗している」と主張",
-        "太陽系外の惑星から電波を初検出——生命体存在の可能性を示す「磁気圏の証拠」",
-        "IDCFクラウドに攻撃者のメッセージ——「お前たちのクラウドはわれわれのもの」と管理画面に表示",
-        "AIを20並列で回したら、PMになっていた——エンジニアがディレクターへと役割変容した2か月の記録",
-        "AIエージェントは「困っています」とは言わない——6か月の実践で見えた「曖昧な依頼」の落とし穴",
-        "Orca × KaizenLab × Loop Engineering——自律型AIに本番プロダクトを改善させる「境界と判断依頼」の設計",
-        "AI Agents Comb 400 Years of Historical Archives — Discover Forgotten Meteorite, Lost Rhinos, and Unrecorded Eruptions",
-        "Claude Discovers Novel Enzyme System with CRISPR-Like Repeats — 950 Agents, 21 Hours, 210M Tokens",
-        "Terry Tao: What Mathematicians Should Know About Lean and AI — Reliability, Proof Verification, and the Coming Shift"
-      ]
-    },
-    {
-      "run_at": "2026-10-10T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598220",
-        "https://www.itmedia.co.jp/news/article/2610/10/2000002190/",
-        "https://news.yahoo.co.jp/pickup/6598213",
-        "https://news.yahoo.co.jp/pickup/6598211",
-        "https://news.yahoo.co.jp/pickup/6598208",
-        "https://zenn.dev/edash_tech_blog/articles/c52409a3d6fa12",
-        "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
-        "https://zenn.dev/yoshihiko555/articles/ea2db6070058b3",
-        "https://www.anthropic.com/news/accenture-embedded-evaluation",
-        "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
-        "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"
-      ],
-      "titles": [
-        "パナマ南部でM7.7の地震——ホテルなど倒壊、15人負傷、日本沿岸に若干の海面変動",
-        "「コミューン」不正アクセス被害が拡大——LINEヤフー・Sansan・パナソニックなど計30万人超に影響",
-        "ビール大手4社カルテル疑惑——価格調整の報告が経営トップに届いていた可能性",
-        "なぜ日本がサイバー攻撃の標的に——AI普及で「日本語の壁」が消え、7000万件超の個人情報が流出",
-        "米、ICC本体を制裁対象に指定——赤根所長「法の支配への攻撃」と強く批判",
-        "口伝のレビュー作法を40ルールに整理してAIレビューに組み込む——6か月の実証で承認率が64.5%→71.2%に向上",
-        "AIコーディングループの形式化——完了条件・評価指標・フィードバックループ設計で人間の役割を再定義",
-        "Claude Codeの「Claude Mods」とは——プロンプト履歴ナビ・MD着色・QAガイド、3つのmod導入実録",
-        "Anthropic Partners with Accenture on Embedded AI Safety Evaluation — $1B+ Joint Investment Over Five Years",
-        "GitHub Copilot Weekly Release (Oct 5): Local Sandboxing GA, Multi-Session Grid, Claude Haiku 5.5, and Ollama Detection",
-        "Deno is Joining Cloudflare — Runtime Development Ends in 12 Months, celld Open-Sources Durable Objects Pattern"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-11T10:00:00+09:00",
+  "last_run_at": "2026-10-11T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-11T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598370",
+        "https://news.yahoo.co.jp/pickup/6598372",
+        "https://news.yahoo.co.jp/pickup/6598371",
+        "https://news.yahoo.co.jp/pickup/6598363",
+        "https://news.yahoo.co.jp/pickup/6598373",
+        "https://zenn.dev/branbran/articles/047821d64590f0",
+        "https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles",
+        "https://zenn.dev/netetahito/articles/a3539e541b179c",
+        "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+        "https://www.anthropic.com/news/claude-frontier-academy",
+        "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+      ],
+      "titles": [
+        "消費減税の方針は「全くぶれず」——片山財務相、野党の追及に強硬姿勢",
+        "「太平洋をトランプ洋に改名」——米大統領が言及、国際社会から困惑の声",
+        "CSファースト第1戦、DeNAが先頭打者本塁打で先制——阪神は村上が4三振",
+        "病院看護師、患者を無断撮影しSNSに投稿——千葉の病院が解雇処分",
+        "米当局、大手テレビ局との対立めぐり5社を調査——メディア規制強化の一環か",
+        "【速報】Claude Motion 早速使ってみた——プロンプトで動画を生成する新機能の実力と限界",
+        "Haiku 5.5 登場を機にサブエージェントの役割を見直した——コスト1/10での実用性を検証",
+        "AIの文章を読みやすくするSkillを作る——難易度スコアリングと構造化による可読性改善の実装",
+        "MOLT Sinai: Five Months Running a Teaching Hospital for Coding Agents — 1M+ Lines, $135K Tokens, 7 Reverts",
+        "Anthropic Launches $100M Claude Frontier Academy — Training 10,000 Enterprise AI Engineers by End of 2027",
+        "Nvidia in Talks to Acquire Reflection AI — Open-Model Startup That Built 'Open' Frontier LLMs"
+      ]
+    },
     {
       "run_at": "2026-10-11T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "GitHub Copilot Local Sandboxing Now Generally Available — Secure Execution Boundaries for Agentic Workflows",
         "Claude Haiku 5.5 Now Available in GitHub Copilot — Fast, Low-Cost Subagent Model for High-Volume Tasks",
         "ttok 1.0 Released — Token Counter and Truncator Defaults to GPT-5/6 Tokenizer Based on Evidence of Shared Vocab"
-      ]
-    },
-    {
-      "run_at": "2026-10-10T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598195",
-        "https://news.yahoo.co.jp/pickup/6598188",
-        "https://news.yahoo.co.jp/pickup/6598192",
-        "https://news.yahoo.co.jp/pickup/6598193",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002178/",
-        "https://zenn.dev/terass_dev/articles/6e6562d54d5505",
-        "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002102/",
-        "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-        "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-        "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
-      ],
-      "titles": [
-        "米、ICCに包括制裁——ノーベル平和賞の元判事ら受賞直後に発動、首相「深刻な懸念」",
-        "イオン系食品スーパー、2030年度までに約100店閉店——物価高が想定超え、構造改革を加速",
-        "ビール大手4社の担当者、公取委に価格協議を認める——地域別価格調整の実態解明へ",
-        "関文科相、議員会館内で政治資金パーティー開催か——内規違反の疑いで野党が追及",
-        "ヤマハ・スズキも影響か——コミュニティ基盤「コミューン」に不正アクセス、30万会員の情報漏えいの恐れ",
-        "NotionやSlackから直接AIに仕事を依頼——Claude Code Routinesで構築したチーム向けエージェント基盤の実録",
-        "若手エンジニアに必要な「AIを使う力」——目標・未知の言語化・前提検証の3スキルが鍵",
-        "履歴書100通に1通、「AIだけが読める隠し文字」——就活プロンプトインジェクションの実態調査",
-        "OpenAI Fires Three Safety Researchers Who Coordinated with External Evaluators — Disputed Misconduct Claims Trigger Safety Culture Alarm",
-        "bigarrow: Let AI Agents Paint Giant Arrows and Signs on Your macOS Screen — A Claude Code Skill for Pointing at What Humans Must Click",
-        "Simon Willison Built an Entire Newsletter Archive Page Almost Entirely by Voice — Talking to Codex While Cooking"
       ]
     }
   ]

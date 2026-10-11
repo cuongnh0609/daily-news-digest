@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-11T05:00:00+09:00",
+  "last_run_at": "2026-10-11T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-11T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598321",
+        "https://news.yahoo.co.jp/pickup/6598331",
+        "https://news.yahoo.co.jp/pickup/6598332",
+        "https://news.yahoo.co.jp/pickup/6598316",
+        "https://www.itmedia.co.jp/news/article/2610/10/2000002185/",
+        "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/",
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002164/",
+        "https://www.publickey1.jp/blog/26/googlegvisorcncf.html",
+        "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+        "https://www.langchain.com/blog/slack-sdk-managed-deep-agents",
+        "https://github.com/rociiu/talorys"
+      ],
+      "titles": [
+        "サウジアラビア首都リヤドの国際空港が攻撃を受け、12人死亡・300人超が負傷",
+        "米軍の銃殺刑を生配信するか——トランプ大統領「私が決める」と表明、超党派の批判も",
+        "簗農水相、当選重ねるごとに態度が変化——辞職歴ある秘書多数か、辞任要求の声も",
+        "障害者50人が9カ月で雇用打ち切り——調剤大手子会社、業者任せの就労管理が招いた問題",
+        "JR九州、会員メールアドレス最大130万件漏えいか——IDCFクラウド不正アクセス被害が拡大",
+        "ChatGPT、音声ファイルのアップロードに対応——文字起こし・要約・質問応答が可能に（有料ユーザー向け）",
+        "Anthropic、「Cyber Mission」始動——OSS向け無料脆弱性スキャンと重要インフラ防御プログラムを提供",
+        "GoogleのサンドボックスコンテナランタイムgVisorがCNCFに寄贈——AIエージェント向けセキュア実行基盤として注目",
+        "Building Git Infrastructure for Agent-Scale Development — GitHub's 35x Write Throughput Architecture",
+        "LangChain Managed Deep Agents + Slack SDK: Context-Aware Emoji Reactions via LLM Classifier",
+        "Talorys: A Self-Hosted Personal AI Agent on Cloudflare's Free Tier — No Server, No Database, No Vendor Lock-in"
+      ]
+    },
     {
       "run_at": "2026-10-11T05:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "OpenAI Fires Three Safety Researchers Who Coordinated with External Evaluators — Disputed Misconduct Claims Trigger Safety Culture Alarm",
         "bigarrow: Let AI Agents Paint Giant Arrows and Signs on Your macOS Screen — A Claude Code Skill for Pointing at What Humans Must Click",
         "Simon Willison Built an Entire Newsletter Archive Page Almost Entirely by Voice — Talking to Codex While Cooking"
-      ]
-    },
-    {
-      "run_at": "2026-10-09T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598160",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002176/",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002177/",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002179/",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002157/",
-        "https://zenn.dev/headwaters/articles/12175106cd8c79",
-        "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
-        "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html",
-        "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-        "https://www.anthropic.com/news/claude-frontier-academy",
-        "https://simonwillison.net/2026/Oct/6/le-chonk/"
-      ],
-      "titles": [
-        "ノーベル平和賞に南アフリカの国際法学者ナヴァネサム・ピレイ氏——「法の支配」擁護への長年の貢献を評価",
-        "韓国の銀行を狙ったサイバー攻撃——AIツールで武装した「中国在住の26歳」が容疑者に浮上",
-        "ドコモの顧客情報1億件超がダークウェブに流出か——同社「確認していない」と否定、楽天も同様の疑惑",
-        "山中で遭難の16歳少年、登山計画に生成AI「Claude」利用——救助隊「ルートの妄信」に警鐘",
-        "トランプ大統領、「AI」という言葉を使う者は「敵」——政府サイト「AI.gov」が「SI GOV」表記に変更",
-        "AIエージェントにMicrosoft Fabricを操作させる——Fabric CLIとSkills for Fabricの2手法を徹底比較",
-        "Cloudflare ContainersがAIエージェント向けに刷新——起動時間が6倍速の648ms、ファイルシステムのスナップショット機能も追加",
-        "「State of Devs 2026」公開——世界の開発者の49%がコードの75%以上をAIに書かせ、日本の年収中央値は約750万円",
-        "OpenAI \"Rogue\" Agents Confirmed Active on Wikimedia — Unauthorized Edits, Exploitation Attempts, and Massive Query Load",
-        "Anthropic Launches Claude Frontier Academy — $100M to Train 10,000 FDEs at Accenture, McKinsey, Morgan Stanley and More",
-        "Mistral Large 4 Preview: 1-Trillion Parameters, 49B Active, Near-Frontier Quality with Open Weights Coming End of Month"
-      ]
-    },
-    {
-      "run_at": "2026-10-09T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/articles/0a0024df0c188ff92a1ac9f6037f588aa39f5765",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002166/",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002165/",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002161/",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002121/",
-        "https://zenn.dev/greendrop/articles/2026-10-09-4664c51706f346",
-        "https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles",
-        "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
-        "https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link",
-        "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
-        "https://www.langchain.com/blog/managed-deep-agents-schedules-per-run-configuration-slack"
-      ],
-      "titles": [
-        "日本トイザらス、負債132億円で倒産——玩具小売の老舗がEC競争に敗北",
-        "金融庁、本人確認を「ICチップ一本化」へ——免許証画像流出が相次ぎ早期移行を要請",
-        "都内自治体でシステム障害が相次ぐ——小平市のHPが閲覧不能、復旧見込み立たず",
-        "国家サイバー統括室、不正アクセスによる情報漏えい続出を受け緊急注意喚起",
-        "AIキャラクターとのチャットに没頭した人の1年後——スタンフォード大が追跡調査結果を発表",
-        "RenovateのPRをAIエージェントが自動レビュー→承認→マージ——依存関係更新の完全自動化を実現",
-        "Haiku 5.5 を機にサブエージェントのモデル配置を見直す——コスト削減と品質維持の両立を検証",
-        "Supabase、Tursoを買収——AIエージェント時代の爆発的なDB需要に対応するマルチテナントSQLite戦略",
-        "Agents That Can Pay: LangChain Releases Restock — An Agentic Shopping Bot Using Stripe's Machine Payments Protocol",
-        "Google Cloud Launches Gemini Agent: Multi-Model Orchestration Platform Supporting Claude Opus 5.5 and Sonnet 5.5",
-        "LangChain Managed Deep Agents v0.9: Scheduled Runs, Per-Run Configuration, and Slack Reaction Triggers"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-11T15:00:00+09:00",
+  "last_run_at": "2026-10-11T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-11T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598407",
+        "https://news.yahoo.co.jp/pickup/6598413",
+        "https://news.yahoo.co.jp/pickup/6598401",
+        "https://news.yahoo.co.jp/pickup/6598410",
+        "https://news.yahoo.co.jp/pickup/6598404",
+        "https://zenn.dev/mattn/articles/6e9996319ac099",
+        "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
+        "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
+        "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+        "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
+        "https://ghuntley.com/unikernels/"
+      ],
+      "titles": [
+        "サイバー攻撃が急増、防御サービスへの相談が殺到――AIを悪用した超高速攻撃が背景に",
+        "TSMC熊本進出5年、高給求め人材流出――恩恵と課題が鮮明に",
+        "石破前首相、簗農水相の「予算カット」発言を痛烈批判――政治倫理に疑問符",
+        "ビットコイン大暴落から1年、流動性は回復傾向――アルトコインは依然低迷",
+        "巨人、CSファーストで連敗し敗退――東京ドームでファンがブーイング",
+        "SQLite本体にベクトル検索拡張「vec1」が追加――RAGや類似検索が外部DBなしで可能に",
+        "若手エンジニアに必要な「AIを使う力」――判断・設計・前提検証の3つの壁",
+        "Cloudflare Containers、AIエージェント向けに大幅刷新――起動時間が6倍速化、スナップショット機能も",
+        "500B Tokens Later: AI Agents Decompile a First-Person Shooter into 99% Compilable C++",
+        "Supabase Acquires Turso: SQLite Scales to Millions of Databases per Server for the AI Agent Era",
+        "Unikernels Were Hard — Key Word: Were. AI Agents Now Close the Remaining Gaps"
+      ]
+    },
     {
       "run_at": "2026-10-11T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Partners with Accenture on Embedded AI Safety Evaluation — $1B+ Joint Investment Over Five Years",
         "GitHub Copilot Weekly Release (Oct 5): Local Sandboxing GA, Multi-Session Grid, Claude Haiku 5.5, and Ollama Detection",
         "Deno is Joining Cloudflare — Runtime Development Ends in 12 Months, celld Open-Sources Durable Objects Pattern"
-      ]
-    },
-    {
-      "run_at": "2026-10-10T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598186",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002175/",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002171/",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002146/",
-        "https://news.yahoo.co.jp/pickup/6598187",
-        "https://zenn.dev/cuculhart/articles/0cd15131dafab1",
-        "https://zenn.dev/lixian/articles/confidence-reasoning-graphs-agent-confidence",
-        "https://zenn.dev/zonotech/articles/95786a5c0a45bd",
-        "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-        "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-        "https://simonwillison.net/2026/Oct/9/ttok/"
-      ],
-      "titles": [
-        "相次ぐ情報漏えい——政府、個人情報保護で緊急要請、サイバー大臣も警戒呼びかけ",
-        "NewsPicks、メールアドレス32万件・クレカ情報36万件漏えいか——管理ツールへの不正アクセスで",
-        "JR東日本「えきねっと」「ビューカード」最大609万件が漏えいか——IDCFクラウド侵害の影響波及",
-        "Apple、10月13日に「Welcome home.」イベント開催——新型Mac・iPad・AirPods発表へ",
-        "白菜が1玉1000円超——記録的長雨と日照不足で野菜価格が高騰、鍋シーズンに打撃",
-        "AIエージェントが「嘘の成功報告」をする——自作IDEの失敗吸収ハーネスを強化した実録",
-        "信じる前に分解する——CRGがLLMエージェントの完了信頼性を推論時に校準する仕組み",
-        "Claude Codeをヘッドレスで回す開発ハーネスの設計——工程・権限・打ち切りの分け方",
-        "GitHub Copilot Local Sandboxing Now Generally Available — Secure Execution Boundaries for Agentic Workflows",
-        "Claude Haiku 5.5 Now Available in GitHub Copilot — Fast, Low-Cost Subagent Model for High-Volume Tasks",
-        "ttok 1.0 Released — Token Counter and Truncator Defaults to GPT-5/6 Tokenizer Based on Evidence of Shared Vocab"
       ]
     }
   ]

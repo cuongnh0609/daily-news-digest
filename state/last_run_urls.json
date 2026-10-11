@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-12T00:00:00+09:00",
+  "last_run_at": "2026-10-12T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-12T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598444",
+        "https://news.yahoo.co.jp/pickup/6598441",
+        "https://news.yahoo.co.jp/pickup/6598437",
+        "https://news.yahoo.co.jp/pickup/6598431",
+        "https://news.yahoo.co.jp/pickup/6598423",
+        "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
+        "https://zenn.dev/edash_tech_blog/articles/c52409a3d6fa12",
+        "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
+        "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+        "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+        "https://www.latent.space/p/standard-bots"
+      ],
+      "titles": [
+        "トランプ氏がエネルギー停戦を一方的に発表——ウクライナ大統領「初めて聞いた」と困惑",
+        "電車内で突然倒れた男性を8分で救った「命のリレー」——AED活用の患者会が発足",
+        "ドイツ元情報機関トップを逮捕——スパイ容疑、西側同盟の信頼に打撃",
+        "ローマ教皇レオ14世、肺のしこり切除へ——就任後初の手術、早期発見で経過楽観視",
+        "ジブチ沖で移民船が転覆——エチオピア人ら100人超が死亡、東アフリカの危険な移住ルート改めて浮き彫りに",
+        "俺のAIプログラミング手法（2026/10/05）——ループ自動化・形式手法・評価指標の3本柱でAIと協働する",
+        "レビューの口伝を40ルールに棚卸ししてAIレビューに載せた——PR承認率71%に改善、e-dash事例",
+        "Google「Gemini Agent」発表——Claude Opus 5.5など他社モデルも選択可能なマルチモデル型クラウドエージェント",
+        "GitHub Copilot Local Sandboxing Now Generally Available — MXC-Backed Secure Execution for Agentic Workflows",
+        "Deno Is Joining Cloudflare — Runtime Ends, Open Source Continues, Durable Objects Pattern Lives On",
+        "Building AI for Reliable Execution: What Industrial Robotics Teaches Us About Production AI Agents"
+      ]
+    },
     {
       "run_at": "2026-10-12T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Launches Cyber Mission: Free OSS Vulnerability Scanning and Critical Infrastructure Defense Program",
         "Microsoft Execution Containers (MXC) 1.0 Generally Available — Policy-Driven Containment for AI Agents",
         "GitHub Copilot Code Review Gets New Org-Level Billing Controls — Orgs Can Now Pay for Member Reviews Centrally"
-      ]
-    },
-    {
-      "run_at": "2026-10-10T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598275",
-        "https://news.yahoo.co.jp/pickup/6598271",
-        "https://news.yahoo.co.jp/pickup/6598285",
-        "https://news.yahoo.co.jp/pickup/6598255",
-        "https://news.yahoo.co.jp/pickup/6598258",
-        "https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html",
-        "https://zenn.dev/tnishinaga/articles/ee0b6cf4f8683d",
-        "https://zenn.dev/fusic/articles/c34f48e0ab811e",
-        "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-        "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-        "https://typesafe.ai/blog/series-ai"
-      ],
-      "titles": [
-        "だんじりの横転相次ぐ 計2人死亡",
-        "消費減税後 8%に戻せるか識者疑問",
-        "首相のG7欠席 野党から苦言続出",
-        "米がICC制裁 日本など8カ国反対",
-        "ノーベル平和賞の賞金約2億円、どう渡す？",
-        "AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能に",
-        "初AIコーディング記録：Brain第1世代でLinuxを動くようにした話",
-        "AWS Cost ExplorerのAmazon Bedrock製品属性で、できることとできないことを確認してみた",
-        "Anthropic's AI Agents Accidentally Submitted 20 Visa Applications to the U.S. State Department",
-        "GitHub Releases Purpose-Built Fine-Tuned Model for Leaked Secret Detection in Code",
-        "TypeSafe AI Raises $870M at $7.5B Valuation — Building Machine-Native Intelligence Infrastructure"
       ]
     }
   ]

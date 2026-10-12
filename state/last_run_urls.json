@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-13T00:00:00+09:00",
+  "last_run_at": "2026-10-13T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-13T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598542",
+        "https://news.yahoo.co.jp/pickup/6598559",
+        "https://news.yahoo.co.jp/pickup/6598561",
+        "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+        "https://www.itmedia.co.jp/news/article/2610/10/2000002035/",
+        "https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html",
+        "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
+        "https://zenn.dev/kotton_mas/articles/rc-basics-05-anomaly-detection",
+        "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+        "https://www.anthropic.com/news/genesis-mission-commitment",
+        "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+      ],
+      "titles": [
+        "ICC制裁に赤根所長が言及——「締約国と共に立ち上がらねば」",
+        "西武・平良海馬のMLB志望に球団本部長が言及——「複雑だが折り合いをつけたい」",
+        "美空ひばりの「謝罪の手紙」が公開——いわき市で直筆複製を展示",
+        "OpenAI、安全性研究者3名を解雇——「機密情報規定違反」vs「安全性優先が理由」で対立",
+        "日本人の大腸がん、約半数に腸内細菌の毒素が関与——東大・阪大が200例を全ゲノム解析",
+        "Deno開発元がCloudflareに合流——DenoランタイムとDeno Deployは終了へ、JSRは継続",
+        "Microsoft、「判断特化」AIモデル「Decision-1」を発表——確率を返すだけで文章は生成しない",
+        "Reservoir Computingで異常検知に挑む——公開ベンチマークMGABで対照を2.8倍上回るAUPRC",
+        "GitHub Push Attribution Now in Public Preview — Stops Commit Spoofing with Verified Pusher Identity",
+        "Anthropic Commits $150M to Power US Government Science via Genesis Mission — NASA, NIH, NSF Get Claude Access",
+        "Simon Willison: We Need Default Hard Budget Caps on Everything — Agents Make Runaway Costs Too Easy"
+      ]
+    },
     {
       "run_at": "2026-10-13T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "500B Tokens Later: AI Agents Decompile a First-Person Shooter into 99% Compilable C++",
         "Supabase Acquires Turso: SQLite Scales to Millions of Databases per Server for the AI Agent Era",
         "Unikernels Were Hard — Key Word: Were. AI Agents Now Close the Remaining Gaps"
-      ]
-    },
-    {
-      "run_at": "2026-10-11T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598370",
-        "https://news.yahoo.co.jp/pickup/6598372",
-        "https://news.yahoo.co.jp/pickup/6598371",
-        "https://news.yahoo.co.jp/pickup/6598363",
-        "https://news.yahoo.co.jp/pickup/6598373",
-        "https://zenn.dev/branbran/articles/047821d64590f0",
-        "https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles",
-        "https://zenn.dev/netetahito/articles/a3539e541b179c",
-        "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
-        "https://www.anthropic.com/news/claude-frontier-academy",
-        "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
-      ],
-      "titles": [
-        "消費減税の方針は「全くぶれず」——片山財務相、野党の追及に強硬姿勢",
-        "「太平洋をトランプ洋に改名」——米大統領が言及、国際社会から困惑の声",
-        "CSファースト第1戦、DeNAが先頭打者本塁打で先制——阪神は村上が4三振",
-        "病院看護師、患者を無断撮影しSNSに投稿——千葉の病院が解雇処分",
-        "米当局、大手テレビ局との対立めぐり5社を調査——メディア規制強化の一環か",
-        "【速報】Claude Motion 早速使ってみた——プロンプトで動画を生成する新機能の実力と限界",
-        "Haiku 5.5 登場を機にサブエージェントの役割を見直した——コスト1/10での実用性を検証",
-        "AIの文章を読みやすくするSkillを作る——難易度スコアリングと構造化による可読性改善の実装",
-        "MOLT Sinai: Five Months Running a Teaching Hospital for Coding Agents — 1M+ Lines, $135K Tokens, 7 Reverts",
-        "Anthropic Launches $100M Claude Frontier Academy — Training 10,000 Enterprise AI Engineers by End of 2027",
-        "Nvidia in Talks to Acquire Reflection AI — Open-Model Startup That Built 'Open' Frontier LLMs"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-12T15:00:00+09:00",
+  "last_run_at": "2026-10-12T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-12T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598534",
+        "https://news.yahoo.co.jp/articles/82bacdd91c1730790a2e69ef88d2d3bdec257532",
+        "https://news.yahoo.co.jp/pickup/6598535",
+        "https://news.yahoo.co.jp/pickup/6598529",
+        "https://news.yahoo.co.jp/pickup/6598540",
+        "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
+        "https://zenn.dev/kotap/articles/clip-image-embedding",
+        "https://www.itmedia.co.jp/enterprise/articles/2610/08/news036.html",
+        "https://www.anthropic.com/claude-haiku-5-5",
+        "https://twitter.com/karpathy/status/2109361546505966046",
+        "https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html"
+      ],
+      "titles": [
+        "北朝鮮、弾道ミサイル少なくとも2発を発射——一部は変則軌道の可能性、日米韓が分析中",
+        "大阪でだんじり横転事故が相次ぐ——2人死亡・16人けが、秋祭りに悲劇",
+        "解体現場で鋼材落下——男性作業員が下敷きになり死亡、労働安全に問題か",
+        "銀座に「地べた族」急増——路上に座り込む観光客が物議、警察も対応に苦慮",
+        "藤井六冠、デビュー時の29連勝を「奇跡だったな」と振り返る——将棋の神童が語る初心",
+        "Microsoftが判断特化AIモデル「Microsoft-Decision-1」リリース——テキスト生成ではなく確率を出力、GPT-6 Solより高速",
+        "CLIPで画像をベクトル化しても類似度が0.5に届かない——埋め込み空間の構造と検索精度の落とし穴",
+        "3社に1社がトークン予算超過——生成AIコスト最大44%削減できる企業の共通点とは【アクセンチュア調査】",
+        "Anthropic Releases Claude Haiku 5.5 — Cheapest, Fastest Small Model Yet with Massive Agentic Capability Jump",
+        "Karpathy: The Gap in Shared Understanding of LLM Capability Is Widening — And It's a Societal Problem",
+        "Fable Took My Job — A Senior Engineer Reflects on Being Replaced by an AI Model and What Judgment Machines Still Can't Do"
+      ]
+    },
     {
       "run_at": "2026-10-12T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "MOLT Sinai: Five Months Running a Teaching Hospital for Coding Agents — 1M+ Lines, $135K Tokens, 7 Reverts",
         "Anthropic Launches $100M Claude Frontier Academy — Training 10,000 Enterprise AI Engineers by End of 2027",
         "Nvidia in Talks to Acquire Reflection AI — Open-Model Startup That Built 'Open' Frontier LLMs"
-      ]
-    },
-    {
-      "run_at": "2026-10-11T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598321",
-        "https://news.yahoo.co.jp/pickup/6598331",
-        "https://news.yahoo.co.jp/pickup/6598332",
-        "https://news.yahoo.co.jp/pickup/6598316",
-        "https://www.itmedia.co.jp/news/article/2610/10/2000002185/",
-        "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002164/",
-        "https://www.publickey1.jp/blog/26/googlegvisorcncf.html",
-        "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-        "https://www.langchain.com/blog/slack-sdk-managed-deep-agents",
-        "https://github.com/rociiu/talorys"
-      ],
-      "titles": [
-        "サウジアラビア首都リヤドの国際空港が攻撃を受け、12人死亡・300人超が負傷",
-        "米軍の銃殺刑を生配信するか——トランプ大統領「私が決める」と表明、超党派の批判も",
-        "簗農水相、当選重ねるごとに態度が変化——辞職歴ある秘書多数か、辞任要求の声も",
-        "障害者50人が9カ月で雇用打ち切り——調剤大手子会社、業者任せの就労管理が招いた問題",
-        "JR九州、会員メールアドレス最大130万件漏えいか——IDCFクラウド不正アクセス被害が拡大",
-        "ChatGPT、音声ファイルのアップロードに対応——文字起こし・要約・質問応答が可能に（有料ユーザー向け）",
-        "Anthropic、「Cyber Mission」始動——OSS向け無料脆弱性スキャンと重要インフラ防御プログラムを提供",
-        "GoogleのサンドボックスコンテナランタイムgVisorがCNCFに寄贈——AIエージェント向けセキュア実行基盤として注目",
-        "Building Git Infrastructure for Agent-Scale Development — GitHub's 35x Write Throughput Architecture",
-        "LangChain Managed Deep Agents + Slack SDK: Context-Aware Emoji Reactions via LLM Classifier",
-        "Talorys: A Self-Hosted Personal AI Agent on Cloudflare's Free Tier — No Server, No Database, No Vendor Lock-in"
-      ]
-    },
-    {
-      "run_at": "2026-10-11T05:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/10/2000002035/",
-        "https://www.itmedia.co.jp/news/article/2610/10/2000002186/",
-        "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002154/",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002155/",
-        "https://www.publickey1.jp/blog/26/gpuai_engine.html",
-        "https://zenn.dev/idealog/articles/a3e9cf4299b1cf",
-        "https://zenn.dev/tetsuro731/articles/6efe77a20b8c1c",
-        "https://www.anthropic.com/news/2026-usage-policy-update",
-        "https://www.anthropic.com/news/genesis-mission-commitment",
-        "https://www.publickey1.jp/blog/26/fdeai7fde.html"
-      ],
-      "titles": [
-        "日本人の大腸がん、約半数に腸内細菌の毒素が関与——東大・阪大が200人を全ゲノム解析",
-        "「バイトル」会員メールアドレス最大約389万件漏えい——海外から「仕様不備」突く不正アクセス",
-        "OpenAI、安全性研究者3人を解雇——本人らは「安全性を優先したため」と主張",
-        "ビッグエコー会員ら872万件の個人情報漏えいか——第一興商、委託先PCがマルウェア感染",
-        "Amazon、Fire廃止し新タブレット「Amazon Alexa Tablet」発表——「Amazonキッズタブレット」日本でも発売へ",
-        "さくらインターネット、GPU専有で定額利用できる「さくらのAI Engine プライベートエディション」提供開始",
-        "AIで浮いた時間を「もっと作る」に使っていませんか——エンジニアとビジネス職の越境が鍵",
-        "GraphRAGをゼロから詳しく解説——知識グラフ・オントロジーでRAGの多段推論の壁を突破する",
-        "Anthropic's 2026 Usage Policy Update: New Rules on Influence Ops, Autonomous Hardware, and AI Abuse",
-        "Anthropic Commits $150M to U.S. Genesis Mission — Claude Deployed Across 15 Federal Science Agencies",
-        "Gartner: 70% of Enterprises Will Abandon Agentic AI Built Through Vendor FDE by 2028"
-      ]
-    },
-    {
-      "run_at": "2026-10-11T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598307",
-        "https://news.yahoo.co.jp/pickup/6598309",
-        "https://news.yahoo.co.jp/pickup/6598291",
-        "https://news.yahoo.co.jp/pickup/6598278",
-        "https://news.yahoo.co.jp/pickup/6598306",
-        "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html",
-        "https://zenn.dev/intage_tech/articles/art026-dbt-wizard-try",
-        "https://www.itmedia.co.jp/news/article/2610/09/2000002149/",
-        "https://www.anthropic.com/news/anthropic-cyber-mission",
-        "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-        "https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls"
-      ],
-      "titles": [
-        "外相、ICC赤根所長・ルビオ国務長官と相次いで電話協議——日本はICC支持の姿勢を維持",
-        "パレスチナ議会選挙、2027年9月に再延期——アッバス議長が議長選との同日実施を発表",
-        "ビール大手4社カルテル疑惑——卸売業者が40年にわたる価格横並びを証言",
-        "「年収2千万円もざら」——福岡みやま市のミカン農家、若者50人が就農し産地復活",
-        "卓球・佐藤瞳がWTTグランドスマッシュ女子決勝へ——日本女子として史上初の快挙",
-        "VS Code 1.140で「HydraFusion」研究プレビュー公開——複数AIモデルを1タスク内で協調させる新オーケストレーション",
-        "dbt Wizard vs Claude Code——同一タスクで挙動を比較した結果、特化エージェントの強みと限界が浮き彫りに",
-        "Anthropic、Claude利用ポリシー改定——AIへの継続的な虐待を禁止し、安全基準も明確化",
-        "Anthropic Launches Cyber Mission: Free OSS Vulnerability Scanning and Critical Infrastructure Defense Program",
-        "Microsoft Execution Containers (MXC) 1.0 Generally Available — Policy-Driven Containment for AI Agents",
-        "GitHub Copilot Code Review Gets New Org-Level Billing Controls — Orgs Can Now Pay for Member Reviews Centrally"
       ]
     }
   ]

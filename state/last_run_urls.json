@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-12T20:00:00+09:00",
+  "last_run_at": "2026-10-13T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-13T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598563",
+        "https://news.yahoo.co.jp/articles/1bbf16f628b8132aa3fcfafbefeb0cae62f717eb",
+        "https://news.yahoo.co.jp/pickup/6598560",
+        "https://news.yahoo.co.jp/pickup/6598562",
+        "https://news.yahoo.co.jp/pickup/6598564",
+        "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html",
+        "https://www.itmedia.co.jp/enterprise/articles/2610/09/news042.html",
+        "https://zenn.dev/aws_japan/articles/aws-bedrock-cur2-user-cost-dashboard",
+        "https://www.anthropic.com/news/anthropic-cyber-mission",
+        "https://tedhaley.ca/pensieve/",
+        "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
+      ],
+      "titles": [
+        "片山財務相、日本初の世銀・IMF合同開発委議長に就任へ",
+        "中露北が連動して国連「旧敵国条項」で日本批判——政府は対外発信強化へ",
+        "マンション高騰に転換点か——売れ残り物件の値下げが都内で相次ぐ",
+        "マイクロソフト、AI推論向け次世代半導体「マイア300」発表——2027年より導入開始",
+        "愛知・豊川市で台所に女性遺体——傷害疑いで長男を逮捕",
+        "VS Code 1.140にプレビュー「HydraFusion」——複数AIモデルを1タスク内で組み合わせる新アーキテクチャ",
+        "GartnerがFDE構築のAIエージェント「2028年までに7割が放棄」と予測——高コストとスケール困難が原因",
+        "Amazon Bedrockのコストをユーザーごとに可視化——CUR 2.0とAmazon Quickでダッシュボードを構築する",
+        "Anthropic Launches Cyber Mission — Free AI-Powered Vulnerability Scanner for Open Source and Critical Infrastructure Defense",
+        "Pensieve: Local Indexing App Cuts Claude Code Agent Tool Calls by 41% and Token Cost by 18%",
+        "QGIS Bans AI-Assisted Contributions — Open Source GIS Project Cites Maintainer Burnout and Review Backlog"
+      ]
+    },
     {
       "run_at": "2026-10-12T20:00:00+09:00",
       "urls": [

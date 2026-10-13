@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-13T15:00:00+09:00",
+  "last_run_at": "2026-10-13T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-13T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598644",
+        "https://news.yahoo.co.jp/pickup/6598641",
+        "https://news.yahoo.co.jp/pickup/6598636",
+        "https://news.yahoo.co.jp/pickup/6598633",
+        "https://news.yahoo.co.jp/pickup/6598626",
+        "https://www.itmedia.co.jp/news/article/2610/13/2000002224/",
+        "https://www.itmedia.co.jp/news/article/2610/13/2000002204/",
+        "https://www.itmedia.co.jp/news/article/2610/13/2000002213/",
+        "https://www.itmedia.co.jp/news/article/2610/13/2000002204/",
+        "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002199/",
+        "https://simonwillison.net/2026/Oct/12/web-edit/"
+      ],
+      "titles": [
+        "14日広く天気急変の恐れ——西日本から北日本で雷雨・突風に広域警戒",
+        "都営地下鉄談合5社に排除命令——公取委、計5億円の課徴金へ",
+        "「銀のさら」運営企業でサイバー攻撃——最大約650万件の個人情報漏洩か",
+        "駅前へのデータセンター建設計画に地域住民が強く反発——波紋広がる",
+        "カメムシ大量発生——静岡県では通常の20倍、農作物への被害長期化も懸念",
+        "ソフトバンク子会社、国産LLM「Sarashina」の無料Webサービスβ版を公開——6つのモデルAPIも同時提供",
+        "Anthropic、AIの自己複製に「初期兆候」——55ドルのTVボックス15台で26Bモデルが稼働",
+        "AIが生成した架空の判例を書籍に掲載——出版社が回収・絶版、琉球大教授が謝罪",
+        "Anthropic Warns: AI Models Show Early Signs of Self-Replication on Cheap Consumer Devices",
+        "Google Cloud Launches Gemini Agent for Enterprise — Multi-Model Cloud Agent with Claude Support",
+        "Simon Willison Ships web-edit: A Voice-Driven File Editor Built Entirely with Codex CLI, Designed for Mobile"
+      ]
+    },
     {
       "run_at": "2026-10-13T15:00:00+09:00",
       "urls": [
@@ -249,14 +278,14 @@
         "https://www.nature.com/articles/s41586-026-11111-4"
       ],
       "titles": [
-        "ロシア・ウクライナ、エネルギー施設への攻撃停止で合意か――停戦交渉に新たな動き",
-        "自民党幹事長、衆院定数削減の「腹案」を示すも党内に波紋――選挙改革に温度差",
-        "ネパールで再び大規模土石流――5人が行方不明、山岳地帯の復旧に遅れ",
-        "玄関先でクマに突然襲われ眼球破裂の重傷――長野県内、クマの出没が今秋急増",
-        "政府、防衛関連経費で鉄道・道路整備を検討――インフラの軍民両用化を加速",
-        "オートパイロットは「外せる人間」を前提にしている――AI時代のエンジニア介入能力をどう維持するか",
-        "オブジェクト指向UIをAgent Skillに変換――ClaudeのUI生成はどう変わったか？構造スコア8→10の実験",
-        "世界のデベロッパー実態調査「State of Devs 2026」公開――コードの半分近くをAIが生成、日本の年収中央値は50K USD",
+        "ロシア・ウクライナ、エネルギー施設への攻撃停止で合意か——停戦交渉に新たな動き",
+        "自民党幹事長、衆院定数削減の「腹案」を示すも党内に波紋——選挙改革に温度差",
+        "ネパールで再び大規模土石流——5人が行方不明、山岳地帯の復旧に遅れ",
+        "玄関先でクマに突然襲われ眼球破裂の重傷——長野県内、クマの出没が今秋急増",
+        "政府、防衛関連経費で鉄道・道路整備を検討——インフラの軍民両用化を加速",
+        "オートパイロットは「外せる人間」を前提にしている——AI時代のエンジニア介入能力をどう維持するか",
+        "オブジェクト指向UIをAgent Skillに変換——ClaudeのUI生成はどう変わったか？構造スコア8→10の実験",
+        "世界のデベロッパー実態調査「State of Devs 2026」公開——コードの半分近くをAIが生成、日本の年収中央値は50K USD",
         "OpenAI Rogue Agents Found Making Unauthorized Edits and Exploit Attempts on Wikimedia Projects",
         "Anthropic Expands Cyber Verification Program to Three Tiers — Defense, Red Team, and Specialized Access for Security Professionals",
         "Nature Paper: Retrofitting Existing Language Models to Operate Directly Over Raw Bytes"
@@ -278,14 +307,14 @@
         "https://ghuntley.com/unikernels/"
       ],
       "titles": [
-        "サイバー攻撃が急増、防御サービスへの相談が殺到――AIを悪用した超高速攻撃が背景に",
-        "TSMC熊本進出5年、高給求め人材流出――恩恵と課題が鮮明に",
-        "石破前首相、簗農水相の「予算カット」発言を痛烈批判――政治倫理に疑問符",
-        "ビットコイン大暴落から1年、流動性は回復傾向――アルトコインは依然低迷",
-        "巨人、CSファーストで連敗し敗退――東京ドームでファンがブーイング",
-        "SQLite本体にベクトル検索拡張「vec1」が追加――RAGや類似検索が外部DBなしで可能に",
-        "若手エンジニアに必要な「AIを使う力」――判断・設計・前提検証の3つの壁",
-        "Cloudflare Containers、AIエージェント向けに大幅刷新――起動時間が6倍速化、スナップショット機能も",
+        "サイバー攻撃が急増、防御サービスへの相談が殺到——AIを悪用した超高速攻撃が背景に",
+        "TSMC熊本進出5年、高給求め人材流出——恩恵と課題が鮮明に",
+        "石破前首相、簗農水相の「予算カット」発言を痛烈批判——政治倫理に疑問符",
+        "ビットコイン大暴落から1年、流動性は回復傾向——アルトコインは依然低迷",
+        "巨人、CSファーストで連敗し敗退——東京ドームでファンがブーイング",
+        "SQLite本体にベクトル検索拡張「vec1」が追加——RAGや類似検索が外部DBなしで可能に",
+        "若手エンジニアに必要な「AIを使う力」——判断・設計・前提検証の3つの壁",
+        "Cloudflare Containers、AIエージェント向けに大幅刷新——起動時間が6倍速化、スナップショット機能も",
         "500B Tokens Later: AI Agents Decompile a First-Person Shooter into 99% Compilable C++",
         "Supabase Acquires Turso: SQLite Scales to Millions of Databases per Server for the AI Agent Era",
         "Unikernels Were Hard — Key Word: Were. AI Agents Now Close the Remaining Gaps"

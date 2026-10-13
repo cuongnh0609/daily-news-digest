@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-13T20:00:00+09:00",
+  "last_run_at": "2026-10-14T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-14T00:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/13/2000002230/",
+        "https://news.yahoo.co.jp/pickup/6598664",
+        "https://news.yahoo.co.jp/pickup/6598666",
+        "https://news.yahoo.co.jp/pickup/6598663",
+        "https://news.yahoo.co.jp/pickup/6598667",
+        "https://zenn.dev/takikawayuu/articles/8afd322b5c8c94",
+        "https://zenn.dev/neuralalpha/articles/seven-checks-ja",
+        "https://zenn.dev/yasi/articles/mobile-dev-from-phone-with-claude",
+        "https://github.com/prabanta-dev/janas",
+        "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+        "https://www.itmedia.co.jp/news/article/2610/13/2000002234/"
+      ],
+      "titles": [
+        "相次ぐ情報漏えいの一因「A2B攻撃」——公開アプリを解析してバックエンドを狙う手口、NICTが公表",
+        "教科書のページ数に上限設定へ——約70年ぶりの改革、2030年度から段階導入",
+        "IMF予測：日本のGDP、2027年に世界6位へ転落——インド・英国に追い抜かれる見通し",
+        "無免許運転の疑いで車が歩道に突入——岐阜・美濃加茂市で男性が死亡",
+        "Appleが新ホームデバイス「HomeView」を発表——7インチ画面とFace IDで家族共有型スマートハブ",
+        "AIエージェントのインシデント対応モードを設計する——初動・判断・操作の分け方",
+        "AIエージェントに書き込ませる前に確認している7つのこと——実際の失敗から学んだチェックリスト",
+        "モバイルアプリ開発でノートPCを持ち歩かなくなった話——Claude Remote Controlでスマホから開発する",
+        "Janas: Run LLMs Larger Than Your RAM by Streaming Weights from NVMe SSD",
+        "GitHub Code Scanning Now Shows AI Scan Metrics in Security Overview — Track Autofix Adoption Across Your Org",
+        "Getty Images Files for Chapter 11 Bankruptcy — AI Image Generation Cited as a Key Driver of Decline"
+      ]
+    },
     {
       "run_at": "2026-10-13T20:00:00+09:00",
       "urls": [
@@ -202,122 +231,6 @@
         "Nadella: Treat AI Models as Insider Risks — 7 Design Principles for Enterprise AI Governance",
         "MASS: Recursive Self-Improvement via Collective Intelligence — Sakana AI's Multi-Agent Training Loop",
         "GitHub Deploys Purpose-Built Fine-Tuned Model for Leaked Secret Detection — Now Covers Unformatted Passwords"
-      ]
-    },
-    {
-      "run_at": "2026-10-12T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598468",
-        "https://news.yahoo.co.jp/pickup/6598465",
-        "https://news.yahoo.co.jp/pickup/6598462",
-        "https://news.yahoo.co.jp/pickup/6598459",
-        "https://news.yahoo.co.jp/pickup/6598456",
-        "https://zenn.dev/yoshihiko555/articles/ea2db6070058b3",
-        "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
-        "https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html",
-        "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-        "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-        "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5"
-      ],
-      "titles": [
-        "北朝鮮、弾道ミサイルの可能性があるものを発射——海上保安庁が速報",
-        "巨人・橋上監督代行が退任へ——後任に高橋由伸氏が最有力か",
-        "北海道小樽市で縛られた遺体——妹を窃盗容疑で逮捕、キャッシュカード不正引き出しか",
-        "ワークマン、作業服を値下げして利益5割増——「本業回帰」が奏功",
-        "サウジ安全保障が悪化——フーシ派によるリヤド空港攻撃、米国の支援は鈍く",
-        "Claude Codeの「Claude Mods」とは？——公式拡張の仕組みと安全な導入手順",
-        "AnthropicのAIが未解決殺人事件で架空の目撃情報を投稿——米政権「通知と是正は義務」と警告",
-        "AWS、DuckDBをAurora PostgreSQLに統合——ETL不要でデータレイクを直接分析",
-        "Claude Haiku 5.5 Now Available in GitHub Copilot — Fast, Efficient Subagent Model for All Plans",
-        "GitHub Copilot for JetBrains Gets MCP Server Control, Admin Default Model, and Diagnostic Fix Action",
-        "GitHub Copilot Weekly: Local Sandboxing GA, Ollama Model Discovery, and VS Code Grid Sessions"
-      ]
-    },
-    {
-      "run_at": "2026-10-12T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598444",
-        "https://news.yahoo.co.jp/pickup/6598441",
-        "https://news.yahoo.co.jp/pickup/6598437",
-        "https://news.yahoo.co.jp/pickup/6598431",
-        "https://news.yahoo.co.jp/pickup/6598423",
-        "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
-        "https://zenn.dev/edash_tech_blog/articles/c52409a3d6fa12",
-        "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
-        "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-        "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
-        "https://www.latent.space/p/standard-bots"
-      ],
-      "titles": [
-        "トランプ氏がエネルギー停戦を一方的に発表——ウクライナ大統領「初めて聞いた」と困惑",
-        "電車内で突然倒れた男性を8分で救った「命のリレー」——AED活用の患者会が発足",
-        "ドイツ元情報機関トップを逮捕——スパイ容疑、西側同盟の信頼に打撃",
-        "ローマ教皇レオ14世、肺のしこり切除へ——就任後初の手術、早期発見で経過楽観視",
-        "ジブチ沖で移民船が転覆——エチオピア人ら100人超が死亡、東アフリカの危険な移住ルート改めて浮き彫りに",
-        "俺のAIプログラミング手法（2026/10/05）——ループ自動化・形式手法・評価指標の3本柱でAIと協働する",
-        "レビューの口伝を40ルールに棚卸ししてAIレビューに載せた——PR承認率71%に改善、e-dash事例",
-        "Google「Gemini Agent」発表——Claude Opus 5.5など他社モデルも選択可能なマルチモデル型クラウドエージェント",
-        "GitHub Copilot Local Sandboxing Now Generally Available — MXC-Backed Secure Execution for Agentic Workflows",
-        "Deno Is Joining Cloudflare — Runtime Ends, Open Source Continues, Durable Objects Pattern Lives On",
-        "Building AI for Reliable Execution: What Industrial Robotics Teaches Us About Production AI Agents"
-      ]
-    },
-    {
-      "run_at": "2026-10-12T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598443",
-        "https://news.yahoo.co.jp/pickup/6598430",
-        "https://news.yahoo.co.jp/pickup/6598442",
-        "https://news.yahoo.co.jp/pickup/6598416",
-        "https://news.yahoo.co.jp/pickup/6598427",
-        "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
-        "https://zenn.dev/emuni/articles/ooui-agent-skill",
-        "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html",
-        "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-        "https://www.anthropic.com/news/cyber-verification-program",
-        "https://www.nature.com/articles/s41586-026-11111-4"
-      ],
-      "titles": [
-        "ロシア・ウクライナ、エネルギー施設への攻撃停止で合意か——停戦交渉に新たな動き",
-        "自民党幹事長、衆院定数削減の「腹案」を示すも党内に波紋——選挙改革に温度差",
-        "ネパールで再び大規模土石流——5人が行方不明、山岳地帯の復旧に遅れ",
-        "玄関先でクマに突然襲われ眼球破裂の重傷——長野県内、クマの出没が今秋急増",
-        "政府、防衛関連経費で鉄道・道路整備を検討——インフラの軍民両用化を加速",
-        "オートパイロットは「外せる人間」を前提にしている——AI時代のエンジニア介入能力をどう維持するか",
-        "オブジェクト指向UIをAgent Skillに変換——ClaudeのUI生成はどう変わったか？構造スコア8→10の実験",
-        "世界のデベロッパー実態調査「State of Devs 2026」公開——コードの半分近くをAIが生成、日本の年収中央値は50K USD",
-        "OpenAI Rogue Agents Found Making Unauthorized Edits and Exploit Attempts on Wikimedia Projects",
-        "Anthropic Expands Cyber Verification Program to Three Tiers — Defense, Red Team, and Specialized Access for Security Professionals",
-        "Nature Paper: Retrofitting Existing Language Models to Operate Directly Over Raw Bytes"
-      ]
-    },
-    {
-      "run_at": "2026-10-11T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598407",
-        "https://news.yahoo.co.jp/pickup/6598413",
-        "https://news.yahoo.co.jp/pickup/6598401",
-        "https://news.yahoo.co.jp/pickup/6598410",
-        "https://news.yahoo.co.jp/pickup/6598404",
-        "https://zenn.dev/mattn/articles/6e9996319ac099",
-        "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
-        "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
-        "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-        "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
-        "https://ghuntley.com/unikernels/"
-      ],
-      "titles": [
-        "サイバー攻撃が急増、防御サービスへの相談が殺到——AIを悪用した超高速攻撃が背景に",
-        "TSMC熊本進出5年、高給求め人材流出——恩恵と課題が鮮明に",
-        "石破前首相、簗農水相の「予算カット」発言を痛烈批判——政治倫理に疑問符",
-        "ビットコイン大暴落から1年、流動性は回復傾向——アルトコインは依然低迷",
-        "巨人、CSファーストで連敗し敗退——東京ドームでファンがブーイング",
-        "SQLite本体にベクトル検索拡張「vec1」が追加——RAGや類似検索が外部DBなしで可能に",
-        "若手エンジニアに必要な「AIを使う力」——判断・設計・前提検証の3つの壁",
-        "Cloudflare Containers、AIエージェント向けに大幅刷新——起動時間が6倍速化、スナップショット機能も",
-        "500B Tokens Later: AI Agents Decompile a First-Person Shooter into 99% Compilable C++",
-        "Supabase Acquires Turso: SQLite Scales to Millions of Databases per Server for the AI Agent Era",
-        "Unikernels Were Hard — Key Word: Were. AI Agents Now Close the Remaining Gaps"
       ]
     }
   ]

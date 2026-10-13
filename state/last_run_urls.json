@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-14T00:00:00+09:00",
+  "last_run_at": "2026-10-14T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-14T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598669",
+        "https://news.yahoo.co.jp/pickup/6598668",
+        "https://news.yahoo.co.jp/pickup/6598662",
+        "https://www.itmedia.co.jp/news/article/2610/13/2000002216/",
+        "https://www.itmedia.co.jp/news/article/2610/13/2000002225/",
+        "https://zenn.dev/mattn/articles/6e9996319ac099",
+        "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002210/",
+        "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002199/",
+        "https://www.anthropic.com/engineering/redesigning-source-control",
+        "https://deepmind.google/models/gemini/",
+        "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
+      ],
+      "titles": [
+        "ロシア当局がサハリンで北海道新聞記者を拘束——FSBが「スパイ容疑」と発表",
+        "高市首相、14日に簗農水相と面会へ——進退問題めぐり党内の注目集まる",
+        "線路脇の木を伐採し信号ケーブルに接触させた疑いで逮捕——「ノロッコ号」撮影ポイントで往来危険",
+        "鉄道7社が「磁気乗車券」廃止へ——2027年春からQRコード乗車券に一本化",
+        "PayPay証券でシステム障害——日本株・ETFの売買できず、14日の予約注文も受付停止",
+        "SQLite本体にベクトル検索拡張「vec1」が統合——外部ライブラリ不要でembedding検索が可能に",
+        "国産AI「Sarashina」が無料Webサービスβ版で公開——6種類のAPIモデルをすぐ試せる環境をSB Intuitionsが提供",
+        "Google CloudのエージェントAI「Gemini agent」が企業向けに提供開始——マルチモデル対応でクラウド上で自律的にタスクを実行",
+        "Anthropic Engineering: Redesigning Source Control After AI Coding Raised Daily Merges from 2,500 to 30,000",
+        "Google DeepMind Releases Gemini 4 Argon — Tops SWE Benchmarks with 1M-Token Output and Robotics-Ready Design",
+        "Your Game Is a Harness — Engineering AI-Readable Game State with Seeded Randomness, Screenshot Diffing, and Command Replay"
+      ]
+    },
     {
       "run_at": "2026-10-14T00:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Launches Cyber Mission — Free AI-Powered Vulnerability Scanner for Open Source and Critical Infrastructure Defense",
         "Pensieve: Local Indexing App Cuts Claude Code Agent Tool Calls by 41% and Token Cost by 18%",
         "QGIS Bans AI-Assisted Contributions — Open Source GIS Project Cites Maintainer Burnout and Review Backlog"
-      ]
-    },
-    {
-      "run_at": "2026-10-12T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598534",
-        "https://news.yahoo.co.jp/articles/82bacdd91c1730790a2e69ef88d2d3bdec257532",
-        "https://news.yahoo.co.jp/pickup/6598535",
-        "https://news.yahoo.co.jp/pickup/6598529",
-        "https://news.yahoo.co.jp/pickup/6598540",
-        "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
-        "https://zenn.dev/kotap/articles/clip-image-embedding",
-        "https://www.itmedia.co.jp/enterprise/articles/2610/08/news036.html",
-        "https://www.anthropic.com/claude-haiku-5-5",
-        "https://twitter.com/karpathy/status/2109361546505966046",
-        "https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html"
-      ],
-      "titles": [
-        "北朝鮮、弾道ミサイル少なくとも2発を発射——一部は変則軌道の可能性、日米韓が分析中",
-        "大阪でだんじり横転事故が相次ぐ——2人死亡・16人けが、秋祭りに悲劇",
-        "解体現場で鋼材落下——男性作業員が下敷きになり死亡、労働安全に問題か",
-        "銀座に「地べた族」急増——路上に座り込む観光客が物議、警察も対応に苦慮",
-        "藤井六冠、デビュー時の29連勝を「奇跡だったな」と振り返る——将棋の神童が語る初心",
-        "Microsoftが判断特化AIモデル「Microsoft-Decision-1」リリース——テキスト生成ではなく確率を出力、GPT-6 Solより高速",
-        "CLIPで画像をベクトル化しても類似度が0.5に届かない——埋め込み空間の構造と検索精度の落とし穴",
-        "3社に1社がトークン予算超過——生成AIコスト最大44%削減できる企業の共通点とは【アクセンチュア調査】",
-        "Anthropic Releases Claude Haiku 5.5 — Cheapest, Fastest Small Model Yet with Massive Agentic Capability Jump",
-        "Karpathy: The Gap in Shared Understanding of LLM Capability Is Widening — And It's a Societal Problem",
-        "Fable Took My Job — A Senior Engineer Reflects on Being Replaced by an AI Model and What Judgment Machines Still Can't Do"
-      ]
-    },
-    {
-      "run_at": "2026-10-12T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598505",
-        "https://news.yahoo.co.jp/pickup/6598489",
-        "https://news.yahoo.co.jp/pickup/6598503",
-        "https://news.yahoo.co.jp/pickup/6598488",
-        "https://news.yahoo.co.jp/pickup/6598495",
-        "https://zenn.dev/kashiwabaray/articles/fc2d097da71f30",
-        "https://zenn.dev/uhyo/articles/react-profession-bench-20",
-        "https://zenn.dev/headwaters/articles/6e889f79ee9f2e",
-        "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
-        "https://pub.sakana.ai/mass/",
-        "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection"
-      ],
-      "titles": [
-        "公明・岡本代表、「政策本位の結集軸」掲げ自民含む連携を模索",
-        "欧州首脳ら、ウクライナへの連帯を相次いで表明——米露接近に対抗",
-        "モヤシ生産者が全国で激減——燃料費高騰が追い打ち、飲食店にも影響",
-        "埼玉・上尾市でバイクと乗用車が衝突——車炎上し1人死亡、17歳少年も重傷",
-        "CSファースト第3戦、西武が日本ハムに競り勝ちシリーズに望みつなぐ",
-        "AWS「Strands Box」をEC2 Macで実測——Dogwoodポリシーが効く経路と効かない経路を仕分け",
-        "Claude Haiku 5.5のReact習熟度ベンチマークを試みた——小型モデルの限界と可能性",
-        "Microsoft Decision-1でAI-OCRの品質ゲートを実装——推論モデルで出力の精度チェックを自動化",
-        "Nadella: Treat AI Models as Insider Risks — 7 Design Principles for Enterprise AI Governance",
-        "MASS: Recursive Self-Improvement via Collective Intelligence — Sakana AI's Multi-Agent Training Loop",
-        "GitHub Deploys Purpose-Built Fine-Tuned Model for Leaked Secret Detection — Now Covers Unformatted Passwords"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-13T10:00:00+09:00",
+  "last_run_at": "2026-10-13T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-13T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598618",
+        "https://news.yahoo.co.jp/pickup/6598617",
+        "https://news.yahoo.co.jp/pickup/6598616",
+        "https://news.yahoo.co.jp/pickup/6598612",
+        "https://news.yahoo.co.jp/pickup/6598613",
+        "https://zenn.dev/hyeonjae/articles/secretless-a2a-github-actions-ja",
+        "https://zenn.dev/yukito_lmlab/articles/llmjp4-public-data",
+        "https://www.publickey1.jp/blog/26/gpuai_engine.html",
+        "https://agent37.com",
+        "https://arxiv.org/abs/2610.13928",
+        "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
+      ],
+      "titles": [
+        "星野源と新垣結衣、第一子の誕生を連名で発表——「親として共に歩んでいきたい」",
+        "奈良・香芝市のこども園で4歳男児が凍りゼリーで窒息——搬送後に死亡、安全管理に問題か",
+        "九州新幹線が全線終日運休——熊本駅付近でも部品損傷、午後4時の一部再開目指す",
+        "河村勇輝、クリッパーズから契約解除——NBA3年目の挑戦は開幕前に終止符",
+        "愛知・犬山市の小1死亡事件、母親が初公判で「故意ではない」と否認——裁判員裁判が開廷",
+        "PRコメントからKubernetesに訊く——GitHub ActionsからA2Aエージェントをシークレットレスで繋ぐ",
+        "LLM-jp-4の公開CPT・SFTデータを読んでみた——学習データの構造と品質管理の実態",
+        "さくらインターネット、GPU専有型「さくらAIエンジン プライベートエディション」を提供開始",
+        "Agent37 (YC F26): Low-Cost Isolated Sandboxes for AI Agents — Per-Minute Billing with gVisor Isolation",
+        "AI Models Can Provably Hide Arbitrary Capabilities — Cryptographic Backdoors That Resist All Known Elicitation Attacks",
+        "AI Is a Tool, and Using It Well Takes Skill — A Response to Rich Hickey on LLMs and the Art of Instrumentality"
+      ]
+    },
     {
       "run_at": "2026-10-13T10:00:00+09:00",
       "urls": [

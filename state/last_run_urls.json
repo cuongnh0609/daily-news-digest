@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-14T15:00:00+09:00",
+  "last_run_at": "2026-10-14T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-14T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598765",
+        "https://news.yahoo.co.jp/pickup/6598746",
+        "https://news.yahoo.co.jp/pickup/6598738",
+        "https://news.yahoo.co.jp/pickup/6598740",
+        "https://www.itmedia.co.jp/news/article/2610/14/2000002276/",
+        "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/",
+        "https://zenn.dev/sumasate_tec/articles/test-local-llm",
+        "https://www.publickey1.jp/blog/26/websveltekit_3vite.html",
+        "https://www.anthropic.com/news/singapore-office-opening",
+        "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+        "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/"
+      ],
+      "titles": [
+        "簗農水相が辞表提出——高市首相、閣僚交代の方針を固める",
+        "外務省、駐日ロシア大使を呼び出し——北海道新聞記者の拘束に抗議",
+        "ワールドとTSIホールディングス、経営統合で合意——2027年3月に新持株会社「Infinity United」設立",
+        "サイゼリヤ、10月29日からメニューを平均6%値上げ——コスト増を反映",
+        "小中学校の校務に国産LLM「つづみ2」——NTT西日本と茨木市が全国初の実証実験を開始",
+        "「AIがAIを作れるようになる確率、2027年に50%超」——Anthropic共同創業者ジャック・クラーク氏が東大で予測を前倒し",
+        "開発中の同じPCでローカルLLMを動かしてみた——M5 MacBook ProでOllama×opencode実験記",
+        "「SvelteKit 3」正式リリース——Viteに設定を集約、型安全強化で破壊的変更も",
+        "Anthropic Opens Singapore Office, Signs MOU with Government — Singapore Ranks #2 Globally for Claude Usage",
+        "GitHub Apps Get Fine-Grained Least-Privilege Permissions — Repository Creation No Longer Requires Admin Scope",
+        "Simon Willison: Profiling Python 3.15 with Flame Graphs — A Worker-Thread Hotspot Only a Sampling Profiler Catches"
+      ]
+    },
     {
       "run_at": "2026-10-14T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "OpenAI Codex CLI Silently Installs Persistent Self-Updating Background Daemon by Default",
         "Meta Releases Muse Wonder — Largest Model Yet with Active Memory and Active Focus for Agentic Tasks",
         "Anthropic's 2026 Annual Usage Policy Update — New Rules for Agents, Surveillance, Influence Ops, and Autonomous Hardware"
-      ]
-    },
-    {
-      "run_at": "2026-10-13T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598542",
-        "https://news.yahoo.co.jp/pickup/6598559",
-        "https://news.yahoo.co.jp/pickup/6598561",
-        "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
-        "https://www.itmedia.co.jp/news/article/2610/10/2000002035/",
-        "https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html",
-        "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
-        "https://zenn.dev/kotton_mas/articles/rc-basics-05-anomaly-detection",
-        "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-        "https://www.anthropic.com/news/genesis-mission-commitment",
-        "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
-      ],
-      "titles": [
-        "ICC制裁に赤根所長が言及——「締約国と共に立ち上がらねば」",
-        "西武・平良海馬のMLB志望に球団本部長が言及——「複雑だが折り合いをつけたい」",
-        "美空ひばりの「謝罪の手紙」が公開——いわき市で直筆複製を展示",
-        "OpenAI、安全性研究者3名を解雇——「機密情報規定違反」vs「安全性優先が理由」で対立",
-        "日本人の大腸がん、約半数に腸内細菌の毒素が関与——東大・阪大が200例を全ゲノム解析",
-        "Deno開発元がCloudflareに合流——DenoランタイムとDeno Deployは終了へ、JSRは継続",
-        "Microsoft、「判断特化」AIモデル「Decision-1」を発表——確率を返すだけで文章は生成しない",
-        "Reservoir Computingで異常検知に挑む——公開ベンチマークMGABで対照を2.8倍上回るAUPRC",
-        "GitHub Push Attribution Now in Public Preview — Stops Commit Spoofing with Verified Pusher Identity",
-        "Anthropic Commits $150M to Power US Government Science via Genesis Mission — NASA, NIH, NSF Get Claude Access",
-        "Simon Willison: We Need Default Hard Budget Caps on Everything — Agents Make Runaway Costs Too Easy"
-      ]
-    },
-    {
-      "run_at": "2026-10-13T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598563",
-        "https://news.yahoo.co.jp/articles/1bbf16f628b8132aa3fcfafbefeb0cae62f717eb",
-        "https://news.yahoo.co.jp/pickup/6598560",
-        "https://news.yahoo.co.jp/pickup/6598562",
-        "https://news.yahoo.co.jp/pickup/6598564",
-        "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html",
-        "https://www.itmedia.co.jp/enterprise/articles/2610/09/news042.html",
-        "https://zenn.dev/aws_japan/articles/aws-bedrock-cur2-user-cost-dashboard",
-        "https://www.anthropic.com/news/anthropic-cyber-mission",
-        "https://tedhaley.ca/pensieve/",
-        "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
-      ],
-      "titles": [
-        "片山財務相、日本初の世銀・IMF合同開発委議長に就任へ",
-        "中露北が連動して国連「旧敵国条項」で日本批判——政府は対外発信強化へ",
-        "マンション高騰に転換点か——売れ残り物件の値下げが都内で相次ぐ",
-        "マイクロソフト、AI推論向け次世代半導体「マイア300」発表——2027年より導入開始",
-        "愛知・豊川市で台所に女性遺体——傷害疑いで長男を逮捕",
-        "VS Code 1.140にプレビュー「HydraFusion」——複数AIモデルを1タスク内で組み合わせる新アーキテクチャ",
-        "GartnerがFDE構築のAIエージェント「2028年までに7割が放棄」と予測——高コストとスケール困難が原因",
-        "Amazon Bedrockのコストをユーザーごとに可視化——CUR 2.0とAmazon Quickでダッシュボードを構築する",
-        "Anthropic Launches Cyber Mission — Free AI-Powered Vulnerability Scanner for Open Source and Critical Infrastructure Defense",
-        "Pensieve: Local Indexing App Cuts Claude Code Agent Tool Calls by 41% and Token Cost by 18%",
-        "QGIS Bans AI-Assisted Contributions — Open Source GIS Project Cites Maintainer Burnout and Review Backlog"
       ]
     }
   ]

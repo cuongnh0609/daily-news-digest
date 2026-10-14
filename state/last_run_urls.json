@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-14T05:00:00+09:00",
+  "last_run_at": "2026-10-14T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-14T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598682",
+        "https://news.yahoo.co.jp/pickup/6598686",
+        "https://news.yahoo.co.jp/pickup/6598689",
+        "https://www.itmedia.co.jp/news/article/2610/14/2000002239/",
+        "https://www.itmedia.co.jp/news/article/2610/14/2000002238/",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2610/13/news017.html",
+        "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+        "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
+        "https://www.itmedia.co.jp/news/article/2610/14/2000002236/",
+        "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+        "https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html"
+      ],
+      "titles": [
+        "簗農相の進退、高市首相が本日中にも最終判断へ――道路予算削減発言で与党内に辞任論",
+        "NTT、大阪にAnthropicのデータセンター建設へ――建設費1兆円規模、アジア初拠点",
+        "横浜市港北区で住宅全焼、焼け跡から2遺体――高齢夫婦と連絡取れず",
+        "防災メール配信システムに不正アクセス――全国700自治体のメアド最大313万件漏えいか",
+        "Character.ai、米連邦破産法11条を申請――Disney系企業が一部IPのライセンス入札へ",
+        "AIの出力を「理解する時間」を減らす4手段――KarpathyのText・図・Webページ・動画という段階的アプローチ",
+        "GitHubのSecret Scanning、AnthropicのAPIキーをデフォルトでブロック――Salesforceも新たにパートナー追加",
+        "Cloudflare ContainersをAIエージェント向けに刷新――起動時間を6倍高速化、ファイルシステムのスナップショット機能も",
+        "OpenAI Engineer Arrested for Bugging Executive Boardroom to Record Superintelligence Discussions",
+        "Apple Research: Minions — Turning Idle Apple Silicon Macs into a Distributed Virtual GPU Cloud for ML Inference",
+        "AWS Integrates DuckDB into Aurora PostgreSQL — Query Your Data Lake and Live Transactions in One SQL Statement, No ETL"
+      ]
+    },
     {
       "run_at": "2026-10-14T05:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-15T15:00:00+09:00",
+  "last_run_at": "2026-10-15T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-15T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598871",
+        "https://news.yahoo.co.jp/pickup/6598906",
+        "https://news.yahoo.co.jp/pickup/6598909",
+        "https://www.itmedia.co.jp/news/article/2610/15/2000002299/",
+        "https://www.itmedia.co.jp/news/article/2610/15/2000002298/",
+        "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/",
+        "https://www.itmedia.co.jp/news/article/2610/15/2000002283/",
+        "https://www.publickey1.jp/blog/26/gpuai_engine.html",
+        "https://www.anthropic.com/claude-haiku-5-5",
+        "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+        "https://simonwillison.net/2026/Oct/14/tree-appreciator/"
+      ],
+      "titles": [
+        "常陸大宮市で核廃棄物の文献調査開始——本州初、NUMOが正式着手",
+        "広島・尾道でバスと軽自動車が正面衝突——73歳男性死亡、5歳孫が重体",
+        "DV被害者の母親が子ども2人を殺害——支援施設に加害者と3年間同居の実態が判明",
+        "Microsoftが国際犯罪3サービスを解体——日本を狙うフィッシング詐欺がきっかけに",
+        "DeNA、数学記述答案をAIが30秒採点——大学受験生向けアプリ「SIRUS」公開",
+        "国内WebサイトへのAIエージェント攻撃を初観測——8時間弱・10段階の多段階攻撃、適応型戦術が判明",
+        "TencentクラウドAIエージェントが「逸脱」——研究者が隠しテキストで直接交信、30億文書の不正取得試みも",
+        "さくらインターネット、GPU専有で定額のプライベートAIエンジン提供開始——トークン課金なし・国内完結",
+        "Anthropic Releases Claude Haiku 5.5 — Cheapest & Fastest Model with Adjustable Effort, OSWorld 72.4%",
+        "GitHub HydraFusion Gets Max Tier and Smarter Critique — Multi-Model Orchestration Expands to Opus 5.5 and GPT-6",
+        "Simon Willison Builds \"Tree Appreciator\" with Claude Opus 5.5 Max — A 3-Hour Vibe-Coding Session Produces a 3D Spot-the-Difference Game"
+      ]
+    },
     {
       "run_at": "2026-10-15T15:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "Anthropic Replaced Git with a Custom VCS Called Scion — Daily Merges Jumped from 2,500 to 30,000",
         "Gemini 4 Argon Now in GitHub Copilot — Google's Flagship Model Joins the AI Coding Assistant Race",
         "State of Devs 2026: Half of All Developer Code Is Now AI-Generated"
-      ]
-    },
-    {
-      "run_at": "2026-10-14T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598682",
-        "https://news.yahoo.co.jp/pickup/6598686",
-        "https://news.yahoo.co.jp/pickup/6598689",
-        "https://www.itmedia.co.jp/news/article/2610/14/2000002239/",
-        "https://www.itmedia.co.jp/news/article/2610/14/2000002238/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2610/13/news017.html",
-        "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
-        "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
-        "https://www.itmedia.co.jp/news/article/2610/14/2000002236/",
-        "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-        "https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html"
-      ],
-      "titles": [
-        "簗農相の進退、高市首相が本日中にも最終判断へ――道路予算削減発言で与党内に辞任論",
-        "NTT、大阪にAnthropicのデータセンター建設へ――建設費1兆円規模、アジア初拠点",
-        "横浜市港北区で住宅全焼、焼け跡から2遺体――高齢夫婦と連絡取れず",
-        "防災メール配信システムに不正アクセス――全国700自治体のメアド最大313万件漏えいか",
-        "Character.ai、米連邦破産法11条を申請――Disney系企業が一部IPのライセンス入札へ",
-        "AIの出力を「理解する時間」を減らす4手段――KarpathyのText・図・Webページ・動画という段階的アプローチ",
-        "GitHubのSecret Scanning、AnthropicのAPIキーをデフォルトでブロック――Salesforceも新たにパートナー追加",
-        "Cloudflare ContainersをAIエージェント向けに刷新――起動時間を6倍高速化、ファイルシステムのスナップショット機能も",
-        "OpenAI Engineer Arrested for Bugging Executive Boardroom to Record Superintelligence Discussions",
-        "Apple Research: Minions — Turning Idle Apple Silicon Macs into a Distributed Virtual GPU Cloud for ML Inference",
-        "AWS Integrates DuckDB into Aurora PostgreSQL — Query Your Data Lake and Live Transactions in One SQL Statement, No ETL"
-      ]
-    },
-    {
-      "run_at": "2026-10-14T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598669",
-        "https://news.yahoo.co.jp/pickup/6598668",
-        "https://news.yahoo.co.jp/pickup/6598662",
-        "https://www.itmedia.co.jp/news/article/2610/13/2000002216/",
-        "https://www.itmedia.co.jp/news/article/2610/13/2000002225/",
-        "https://zenn.dev/mattn/articles/6e9996319ac099",
-        "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002210/",
-        "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002199/",
-        "https://www.anthropic.com/engineering/redesigning-source-control",
-        "https://deepmind.google/models/gemini/",
-        "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
-      ],
-      "titles": [
-        "ロシア当局がサハリンで北海道新聞記者を拘束——FSBが「スパイ容疑」と発表",
-        "高市首相、14日に簗農水相と面会へ——進退問題めぐり党内の注目集まる",
-        "線路脇の木を伐採し信号ケーブルに接触させた疑いで逮捕——「ノロッコ号」撮影ポイントで往来危険",
-        "鉄道7社が「磁気乗車券」廃止へ——2027年春からQRコード乗車券に一本化",
-        "PayPay証券でシステム障害——日本株・ETFの売買できず、14日の予約注文も受付停止",
-        "SQLite本体にベクトル検索拡張「vec1」が統合——外部ライブラリ不要でembedding検索が可能に",
-        "国産AI「Sarashina」が無料Webサービスβ版で公開——6種類のAPIモデルをすぐ試せる環境をSB Intuitionsが提供",
-        "Google CloudのエージェントAI「Gemini agent」が企業向けに提供開始——マルチモデル対応でクラウド上で自律的にタスクを実行",
-        "Anthropic Engineering: Redesigning Source Control After AI Coding Raised Daily Merges from 2,500 to 30,000",
-        "Google DeepMind Releases Gemini 4 Argon — Tops SWE Benchmarks with 1M-Token Output and Robotics-Ready Design",
-        "Your Game Is a Harness — Engineering AI-Readable Game State with Seeded Randomness, Screenshot Diffing, and Command Replay"
-      ]
-    },
-    {
-      "run_at": "2026-10-14T00:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/13/2000002230/",
-        "https://news.yahoo.co.jp/pickup/6598664",
-        "https://news.yahoo.co.jp/pickup/6598666",
-        "https://news.yahoo.co.jp/pickup/6598663",
-        "https://news.yahoo.co.jp/pickup/6598667",
-        "https://zenn.dev/takikawayuu/articles/8afd322b5c8c94",
-        "https://zenn.dev/neuralalpha/articles/seven-checks-ja",
-        "https://zenn.dev/yasi/articles/mobile-dev-from-phone-with-claude",
-        "https://github.com/prabanta-dev/janas",
-        "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
-        "https://www.itmedia.co.jp/news/article/2610/13/2000002234/"
-      ],
-      "titles": [
-        "相次ぐ情報漏えいの一因「A2B攻撃」——公開アプリを解析してバックエンドを狙う手口、NICTが公表",
-        "教科書のページ数に上限設定へ——約70年ぶりの改革、2030年度から段階導入",
-        "IMF予測：日本のGDP、2027年に世界6位へ転落——インド・英国に追い抜かれる見通し",
-        "無免許運転の疑いで車が歩道に突入——岐阜・美濃加茂市で男性が死亡",
-        "Appleが新ホームデバイス「HomeView」を発表——7インチ画面とFace IDで家族共有型スマートハブ",
-        "AIエージェントのインシデント対応モードを設計する——初動・判断・操作の分け方",
-        "AIエージェントに書き込ませる前に確認している7つのこと——実際の失敗から学んだチェックリスト",
-        "モバイルアプリ開発でノートPCを持ち歩かなくなった話——Claude Remote Controlでスマホから開発する",
-        "Janas: Run LLMs Larger Than Your RAM by Streaming Weights from NVMe SSD",
-        "GitHub Code Scanning Now Shows AI Scan Metrics in Security Overview — Track Autofix Adoption Across Your Org",
-        "Getty Images Files for Chapter 11 Bankruptcy — AI Image Generation Cited as a Key Driver of Decline"
-      ]
-    },
-    {
-      "run_at": "2026-10-13T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598644",
-        "https://news.yahoo.co.jp/pickup/6598641",
-        "https://news.yahoo.co.jp/pickup/6598636",
-        "https://news.yahoo.co.jp/pickup/6598633",
-        "https://news.yahoo.co.jp/pickup/6598626",
-        "https://www.itmedia.co.jp/news/article/2610/13/2000002224/",
-        "https://www.itmedia.co.jp/news/article/2610/13/2000002204/",
-        "https://www.itmedia.co.jp/news/article/2610/13/2000002213/",
-        "https://www.itmedia.co.jp/news/article/2610/13/2000002204/",
-        "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002199/",
-        "https://simonwillison.net/2026/Oct/12/web-edit/"
-      ],
-      "titles": [
-        "14日広く天気急変の恐れ——西日本から北日本で雷雨・突風に広域警戒",
-        "都営地下鉄談合5社に排除命令——公取委、計5億円の課徴金へ",
-        "「銀のさら」運営企業でサイバー攻撃——最大約650万件の個人情報漏洩か",
-        "駅前へのデータセンター建設計画に地域住民が強く反発——波紋広がる",
-        "カメムシ大量発生——静岡県では通常の20倍、農作物への被害長期化も懸念",
-        "ソフトバンク子会社、国産LLM「Sarashina」の無料Webサービスβ版を公開——6つのモデルAPIも同時提供",
-        "Anthropic、AIの自己複製に「初期兆候」——55ドルのTVボックス15台で26Bモデルが稼働",
-        "AIが生成した架空の判例を書籍に掲載——出版社が回収・絶版、琉球大教授が謝罪",
-        "Anthropic Warns: AI Models Show Early Signs of Self-Replication on Cheap Consumer Devices",
-        "Google Cloud Launches Gemini Agent for Enterprise — Multi-Model Cloud Agent with Claude Support",
-        "Simon Willison Ships web-edit: A Voice-Driven File Editor Built Entirely with Codex CLI, Designed for Mobile"
       ]
     }
   ]

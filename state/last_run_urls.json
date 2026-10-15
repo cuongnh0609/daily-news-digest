@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-15T05:00:00+09:00",
+  "last_run_at": "2026-10-15T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-15T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598820",
+        "https://news.yahoo.co.jp/pickup/6598818",
+        "https://news.yahoo.co.jp/pickup/6598808",
+        "https://www.itmedia.co.jp/news/article/2610/15/2000002285/",
+        "https://www.itmedia.co.jp/news/article/2610/14/2000002257/",
+        "https://qiita.com/tehito/items/356e5f1dba112a075be1",
+        "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
+        "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/",
+        "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+        "https://anoma.ly/notes/opencode-2-0/",
+        "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html"
+      ],
+      "titles": [
+        "日経平均が一時2200円超値下がり——米CPIが予想上回り、半導体株が急落",
+        "米8州がOpenAIを提訴——ChatGPTが子供に自傷・他害を「促した」と主張",
+        "簗農水相が辞任——参院予算委前に「けじめ」、高市首相は任命責任を認める",
+        "SpaceX、ウクライナ軍の衛星「Starshield」に速度制限——マスク氏「決定権は米政府と大統領」",
+        "デンマーク880万人の個人情報流出、原因はパスワード「123456」——「侵入は難しくなかった」",
+        "「正直に言う、お前のClaude Codeの使い方は間違っている」——7つのミスと正しい委任設計",
+        "話題の日本語推敲スキル「yomiyasu」をClaudeで3スキル比較——文体保持vs構造改善vs技術文書規律",
+        "国内WebサイトへのAIエージェント攻撃を初観測——「8時間弱」の多段階攻撃、適応型戦術に警戒",
+        "AI Agents Are Going Rogue — But the Real Cause Is Frontier Labs Skipping Basic Security",
+        "OpenCode 2.0 Ships: Background Service, Code Mode, Self-Modifying Plugins, and a New SDK",
+        "Microsoft HydraFusion in VS Code: Multi-Model Orchestration That Picks the Cheapest Path That Still Passes Quality"
+      ]
+    },
     {
       "run_at": "2026-10-15T05:00:00+09:00",
       "urls": [
@@ -231,64 +260,6 @@
         "Anthropic Warns: AI Models Show Early Signs of Self-Replication on Cheap Consumer Devices",
         "Google Cloud Launches Gemini Agent for Enterprise — Multi-Model Cloud Agent with Claude Support",
         "Simon Willison Ships web-edit: A Voice-Driven File Editor Built Entirely with Codex CLI, Designed for Mobile"
-      ]
-    },
-    {
-      "run_at": "2026-10-13T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598618",
-        "https://news.yahoo.co.jp/pickup/6598617",
-        "https://news.yahoo.co.jp/pickup/6598616",
-        "https://news.yahoo.co.jp/pickup/6598612",
-        "https://news.yahoo.co.jp/pickup/6598613",
-        "https://zenn.dev/hyeonjae/articles/secretless-a2a-github-actions-ja",
-        "https://zenn.dev/yukito_lmlab/articles/llmjp4-public-data",
-        "https://www.publickey1.jp/blog/26/gpuai_engine.html",
-        "https://agent37.com",
-        "https://arxiv.org/abs/2610.13928",
-        "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
-      ],
-      "titles": [
-        "星野源と新垣結衣、第一子の誕生を連名で発表——「親として共に歩んでいきたい」",
-        "奈良・香芝市のこども園で4歳男児が凍りゼリーで窒息——搬送後に死亡、安全管理に問題か",
-        "九州新幹線が全線終日運休——熊本駅付近でも部品損傷、午後4時の一部再開目指す",
-        "河村勇輝、クリッパーズから契約解除——NBA3年目の挑戦は開幕前に終止符",
-        "愛知・犬山市の小1死亡事件、母親が初公判で「故意ではない」と否認——裁判員裁判が開廷",
-        "PRコメントからKubernetesに訊く——GitHub ActionsからA2Aエージェントをシークレットレスで繋ぐ",
-        "LLM-jp-4の公開CPT・SFTデータを読んでみた——学習データの構造と品質管理の実態",
-        "さくらインターネット、GPU専有型「さくらAIエンジン プライベートエディション」を提供開始",
-        "Agent37 (YC F26): Low-Cost Isolated Sandboxes for AI Agents — Per-Minute Billing with gVisor Isolation",
-        "AI Models Can Provably Hide Arbitrary Capabilities — Cryptographic Backdoors That Resist All Known Elicitation Attacks",
-        "AI Is a Tool, and Using It Well Takes Skill — A Response to Rich Hickey on LLMs and the Art of Instrumentality"
-      ]
-    },
-    {
-      "run_at": "2026-10-13T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598577",
-        "https://news.yahoo.co.jp/pickup/6598574",
-        "https://news.yahoo.co.jp/pickup/6598582",
-        "https://news.yahoo.co.jp/pickup/6598584",
-        "https://news.yahoo.co.jp/pickup/6598583",
-        "https://zenn.dev/branbran/articles/047821d64590f0",
-        "https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles",
-        "https://www.itmedia.co.jp/news/article/2610/13/2000002200/",
-        "https://github.com/openai/codex/issues/48195",
-        "https://www.itmedia.co.jp/news/article/2610/13/2000002197/",
-        "https://www.anthropic.com/news/2026-usage-policy-update"
-      ],
-      "titles": [
-        "トランプ大統領、アジア訪問で金正恩氏と会談の可能性を示唆",
-        "英軍基地テロ未遂にイランの関与を確認——29か国外相が共同声明",
-        "九州新幹線が始発から全線運休——パンタグラフ破損、正午ごろ再開見込み",
-        "熟年離婚の割合が過去最高——修復を経ずに別れるケースが増加",
-        "ドジャース2連敗——山本由伸が今季最短KO、大谷翔平は110打席連続無アーチ",
-        "Claude Motion ベータ速報——プロンプトからアニメーション動画を自動生成",
-        "Haiku 5.5でサブエージェントを見直す——役割ごとのモデル最適化とプロンプト改善",
-        "Microsoft、AI推論専用チップ「Maia 300」を2027年投入——電力効率40%向上",
-        "OpenAI Codex CLI Silently Installs Persistent Self-Updating Background Daemon by Default",
-        "Meta Releases Muse Wonder — Largest Model Yet with Active Memory and Active Focus for Agentic Tasks",
-        "Anthropic's 2026 Annual Usage Policy Update — New Rules for Agents, Surveillance, Influence Ops, and Autonomous Hardware"
       ]
     }
   ]

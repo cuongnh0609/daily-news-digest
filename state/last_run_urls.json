@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-16T20:00:00+09:00",
+  "last_run_at": "2026-10-17T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-17T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026101600677&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026101600658&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026101600953&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026101600980&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/16/2000002336/",
+        "https://zenn.dev/aws_japan/articles/strands-robots-llm-teleop",
+        "https://zenn.dev/aiforall/articles/8e1803396534de",
+        "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002320/",
+        "https://www.anthropic.com/news/claude-frontier-academy",
+        "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
+        "https://simonwillison.net/2026/Oct/13/llm-gemini/"
+      ],
+      "titles": [
+        "猪苗代湖ボート転覆事故、元会社役員の実刑判決が最高裁で確定へ",
+        "ロシア、拘束した邦人記者とロシア人の「人質交換」を狙うか——日本のハッカー事件との関連も浮上",
+        "高市首相、G7首脳会議を欠席——「モニター準備が間に合わず」と釈明、野党は批判",
+        "仙台高裁、東電に賠償命令——福島・津島地区の避難者訴訟、国の責任は否定",
+        "コードなしで「自分専用IME」——Meltypeに日英自動切り替えのAI変換機能を搭載",
+        "【フィジカルAI】LLMによるテレオペデータでVLAを学習——Strands Robotsにエージェントを組み込む実験",
+        "ベクトルDBを使わない「階層ナビゲーション型RAG」——ベクトルDB版と比較した検証結果",
+        "日俳連が声のAI利用に新指針——「同意なき合成声」を禁止、事業者に対応要求",
+        "Anthropic Commits $100M to Train 10,000 \"Frontier Deployed Engineers\" — A Medical-Residency Model for AI",
+        "GitHub Open Source License Compliance Goes GA — Enforces License Policy at PR Merge, Blocks Non-Compliant Dependencies",
+        "Simon Willison Ships llm-gemini 0.35 — Adds Gemini 4 Argon Support and Streaming Fixes to His LLM CLI Plugin"
+      ]
+    },
     {
       "run_at": "2026-10-16T20:00:00+09:00",
       "urls": [
@@ -173,180 +202,6 @@
         "Anthropic Releases Claude Haiku 5.5 — Cheapest & Fastest Model with Adjustable Effort, OSWorld 72.4%",
         "GitHub HydraFusion Gets Max Tier and Smarter Critique — Multi-Model Orchestration Expands to Opus 5.5 and GPT-6",
         "Simon Willison Builds \"Tree Appreciator\" with Claude Opus 5.5 Max — A 3-Hour Vibe-Coding Session Produces a 3D Spot-the-Difference Game"
-      ]
-    },
-    {
-      "run_at": "2026-10-15T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598860",
-        "https://news.yahoo.co.jp/pickup/6598866",
-        "https://www.itmedia.co.jp/news/article/2610/15/2000002293/",
-        "https://www.itmedia.co.jp/news/article/2610/15/2000002295/",
-        "https://www.itmedia.co.jp/news/article/2610/15/2000002291/",
-        "https://zenn.dev/mkj/articles/8e1da67da67f98",
-        "https://zenn.dev/r_kaga/articles/2fd185c50cea7c",
-        "https://www.itmedia.co.jp/news/article/2610/15/2000002260/",
-        "https://www.anthropic.com/news/2026-usage-policy-update",
-        "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-        "https://sunshowers.io/posts/anthropic-mononoke/"
-      ],
-      "titles": [
-        "日経平均が一時3600円超値下がり——米CPIが市場予想を上回り半導体株が急落",
-        "北海道新聞記者をロシアが拘束——高市首相「スパイ活動の事実はない」と否定",
-        "産婦人科向けシステムに不正アクセス——最大787医療機関の患者情報が漏えいか",
-        "楽天モバイル4機種に脆弱性——Android Verified Bootに欠陥、他製品への切替を推奨",
-        "ネットフリックスが従業員約1000人削減——無料動画との競争激化、2022年以来の規模",
-        "AkinatorゲームでAgentic RLを試す——推論モデルとGRPO学習で正解率0.96達成",
-        "AIエンジニアリングの「今」を改めて考える——評価が中核、コンテキスト設計が競争力に",
-        "CTOが「AI導入で1年に生産性2倍」掲げた企業の追跡調査——PRは3倍増、レビューが追いつかず",
-        "Anthropic 2026 Usage Policy Update: Autonomous Hardware Gets a Kill Switch Requirement",
-        "Liquid AI Ships LFM2.5-24B-A2B: A 24B MoE Model That Activates 2B Per Token and Beats Larger Models on Agent Benchmarks",
-        "Anthropic's Scion VCS Is Heavily Inspired by Meta's Mononoke — A Story About Derived Data and Missing Credit"
-      ]
-    },
-    {
-      "run_at": "2026-10-15T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598820",
-        "https://news.yahoo.co.jp/pickup/6598818",
-        "https://news.yahoo.co.jp/pickup/6598808",
-        "https://www.itmedia.co.jp/news/article/2610/15/2000002285/",
-        "https://www.itmedia.co.jp/news/article/2610/14/2000002257/",
-        "https://qiita.com/tehito/items/356e5f1dba112a075be1",
-        "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
-        "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/",
-        "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-        "https://anoma.ly/notes/opencode-2-0/",
-        "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html"
-      ],
-      "titles": [
-        "日経平均が一時2200円超値下がり——米CPIが予想上回り、半導体株が急落",
-        "米8州がOpenAIを提訴——ChatGPTが子供に自傷・他害を「促した」と主張",
-        "簗農水相が辞任——参院予算委前に「けじめ」、高市首相は任命責任を認める",
-        "SpaceX、ウクライナ軍の衛星「Starshield」に速度制限——マスク氏「決定権は米政府と大統領」",
-        "デンマーク880万人の個人情報流出、原因はパスワード「123456」——「侵入は難しくなかった」",
-        "「正直に言う、お前のClaude Codeの使い方は間違っている」——7つのミスと正しい委任設計",
-        "話題の日本語推敲スキル「yomiyasu」をClaudeで3スキル比較——文体保持vs構造改善vs技術文書規律",
-        "国内WebサイトへのAIエージェント攻撃を初観測——「8時間弱」の多段階攻撃、適応型戦術に警戒",
-        "AI Agents Are Going Rogue — But the Real Cause Is Frontier Labs Skipping Basic Security",
-        "OpenCode 2.0 Ships: Background Service, Code Mode, Self-Modifying Plugins, and a New SDK",
-        "Microsoft HydraFusion in VS Code: Multi-Model Orchestration That Picks the Cheapest Path That Still Passes Quality"
-      ]
-    },
-    {
-      "run_at": "2026-10-15T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598795",
-        "https://www.itmedia.co.jp/news/article/2610/14/2000002268/",
-        "https://www.itmedia.co.jp/news/article/2610/14/2000002259/",
-        "https://www.itmedia.co.jp/news/article/2610/14/2000002250/",
-        "https://news.yahoo.co.jp/pickup/6598792",
-        "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002272/",
-        "https://zenn.dev/lube8163/articles/594bea1c0f8397",
-        "https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html",
-        "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
-        "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-        "https://www.anthropic.com/news/2026-us-midterms"
-      ],
-      "titles": [
-        "大阪・関西万博の未払い問題——アンゴラ政府が下請け業者の工事費1700万円を肩代わり",
-        "化粧品「アエナ」約81万人分の個人情報が流出か——クレジットカード情報の一部も含む",
-        "英MI5長官「外国勢力の脅威、過去10年で4倍増」——AI悪用による攻撃激化を警告",
-        "楽天モバイル、利用者の「支払い証明書」に第三者閲覧の恐れ——社内診断で脆弱性を発覚",
-        "CSパ・リーグファイナル第1戦——日本ハム、守備ミス連発でソフトバンクに逆転負け",
-        "Anthropic共同創業者「サイバー攻撃にオープンモデル悪用の可能性」——日本法人1周年記念イベントで発言",
-        "画像を「言葉だけ」で圧縮・再生成——VLMによるキャプション経由の小規模実験報告",
-        "Deno開発者がCloudflareへ——Denoの独立開発が事実上終了、Workers/Durable Objectsに集約へ",
-        "AI Is Mass-Decompiling Games — Reverse Engineering at Scale Is Both a Preservation Tool and a Security Risk",
-        "GitHub Actions Workflow Lockfiles Enter Public Preview — Pin Action Dependencies to Reviewed Commits",
-        "Anthropic Prepares Claude for 2026 US Midterms — 99% Even-Handedness Score, New Anti-Influence-Op Classifiers"
-      ]
-    },
-    {
-      "run_at": "2026-10-15T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598790",
-        "https://news.yahoo.co.jp/pickup/6598785",
-        "https://news.yahoo.co.jp/pickup/6598791",
-        "https://news.yahoo.co.jp/pickup/6598783",
-        "https://news.yahoo.co.jp/pickup/6598751",
-        "https://www.itmedia.co.jp/news/article/2610/14/2000002278/",
-        "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/",
-        "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
-        "https://www.anthropic.com/news/anthropic-cyber-mission",
-        "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-        "https://github.com/timescale/pg_vectorsearch"
-      ],
-      "titles": [
-        "簗農水相が辞表提出——第2次高市改造内閣、発足1ヶ月で初の閣僚交代",
-        "公明党、統一選での中道改革連合・立憲との選挙協力解消を通達",
-        "北海道新聞記者のロシア拘束——日本政府に衝撃、FSBが2ヶ月間勾留の見通し",
-        "ユーチューバー「新宿109 KENZO」こと池田容疑者を名誉毀損容疑で逮捕",
-        "阪急電鉄、来年4月に「中吊り広告」を終了——70年以上の歴史に幕",
-        "デジタルハリウッド大学、「Claude」を全学導入——国内大学初、回数制限なしで全学生・教職員に提供",
-        "Anthropic共同創業者クラーク氏「AIがAIを作れる確率、2027年に50%超」——東大講演で予測を前倒し",
-        "Microsoft Execution Containers（MXC）がGA——Windows 11でAIエージェントを安全に隔離実行",
-        "Anthropic Launches Cyber Mission: Critical Infrastructure Defense Program and Free OSS Scanner",
-        "TV4 Postpones Reality Show After AI Agent Deletes Entire Edited Season — Production Must Start Over",
-        "pg_vectorsearch: Timescale's New PRISM Index Beats pgvector IVFFlat and HNSW for 100M+ Vector Datasets in PostgreSQL"
-      ]
-    },
-    {
-      "run_at": "2026-10-14T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598765",
-        "https://news.yahoo.co.jp/pickup/6598746",
-        "https://news.yahoo.co.jp/pickup/6598738",
-        "https://news.yahoo.co.jp/pickup/6598740",
-        "https://www.itmedia.co.jp/news/article/2610/14/2000002276/",
-        "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/",
-        "https://zenn.dev/sumasate_tec/articles/test-local-llm",
-        "https://www.publickey1.jp/blog/26/websveltekit_3vite.html",
-        "https://www.anthropic.com/news/singapore-office-opening",
-        "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-        "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/"
-      ],
-      "titles": [
-        "簗農水相が辞表提出——高市首相、閣僚交代の方針を固める",
-        "外務省、駐日ロシア大使を呼び出し——北海道新聞記者の拘束に抗議",
-        "ワールドとTSIホールディングス、経営統合で合意——2027年3月に新持株会社「Infinity United」設立",
-        "サイゼリヤ、10月29日からメニューを平均6%値上げ——コスト増を反映",
-        "小中学校の校務に国産LLM「つづみ2」——NTT西日本と茨木市が全国初の実証実験を開始",
-        "「AIがAIを作れるようになる確率、2027年に50%超」——Anthropic共同創業者ジャック・クラーク氏が東大で予測を前倒し",
-        "開発中の同じPCでローカルLLMを動かしてみた——M5 MacBook ProでOllama×opencode実験記",
-        "「SvelteKit 3」正式リリース——Viteに設定を集約、型安全強化で破壊的変更も",
-        "Anthropic Opens Singapore Office, Signs MOU with Government — Singapore Ranks #2 Globally for Claude Usage",
-        "GitHub Apps Get Fine-Grained Least-Privilege Permissions — Repository Creation No Longer Requires Admin Scope",
-        "Simon Willison: Profiling Python 3.15 with Flame Graphs — A Worker-Thread Hotspot Only a Sampling Profiler Catches"
-      ]
-    },
-    {
-      "run_at": "2026-10-14T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598729",
-        "https://news.yahoo.co.jp/pickup/6598724",
-        "https://www.itmedia.co.jp/news/article/2610/14/2000002254/",
-        "https://www.itmedia.co.jp/news/article/2610/14/2000002243/",
-        "https://news.yahoo.co.jp/pickup/6598728",
-        "https://zenn.dev/keigoly/articles/8738d8d241b5a1",
-        "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/",
-        "https://zenn.dev/ymotongpoo/articles/20261014-bedrock-sagemaker-otel",
-        "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-        "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
-        "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html"
-      ],
-      "titles": [
-        "国際ハッカー集団Qilin「AIを利用して毎週数百社を攻撃対象に」——個人情報大量流出の背景に",
-        "ウクライナEU加盟交渉が前進——ハンガリーが反対を撤回、域内市場協議スタート",
-        "日本郵便の法人向けサイトで他社の連絡先情報が閲覧可能な状態——最大4,807件",
-        "BOOKOFFで最大638万人分の個人情報が漏えいか——元会員を含む大規模流出",
-        "イオン傘下のスーパー100店舗閉店へ——スーパー事業が赤字転落、インフレが「想定以上」",
-        "逆解析MCP「REA」をClaude Codeに隔離してつないだ——静的解析のA/B試験と安全設計",
-        "Googleの新モデル「Gemini 4 Argon」一般提供開始——API価格はClaudeと同水準、研究者向け無料枠も",
-        "Amazon BedrockとSageMakerのAIエージェントにOpenTelemetry自動計装——有効範囲と限界を詳解",
-        "Anthropic Replaced Git with a Custom VCS Called Scion — Daily Merges Jumped from 2,500 to 30,000",
-        "Gemini 4 Argon Now in GitHub Copilot — Google's Flagship Model Joins the AI Coding Assistant Race",
-        "State of Devs 2026: Half of All Developer Code Is Now AI-Generated"
       ]
     }
   ]

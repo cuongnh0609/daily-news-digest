@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-16T10:00:00+09:00",
+  "last_run_at": "2026-10-16T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-16T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6598987",
+        "https://news.yahoo.co.jp/pickup/6598983",
+        "https://www.itmedia.co.jp/news/article/2610/16/2000002332/",
+        "https://news.yahoo.co.jp/pickup/6598986",
+        "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
+        "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
+        "https://zenn.dev/aws_japan/articles/agentcore-gateway-websearch-cognito",
+        "https://zenn.dev/atamaplus/articles/2c9538a721c613",
+        "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+        "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+        "https://simonwillison.net/2026/Oct/15/chirp-pong/"
+      ],
+      "titles": [
+        "ヤマト運輸、後払いサービス利用者の個人情報約530万件が流出",
+        "気象庁、緊急地震速報を誤配信——M6.9をM9.9と過大予測、サイバー攻撃は否定",
+        "Web制作ツール「Studio」全ユーザーの情報漏えいか——APIキー・フォーム内容も対象に",
+        "大谷翔平、116打席ぶり本塁打もドジャース4連敗で地区シリーズ敗退",
+        "テスラが次世代「Roadster」を発表——SpaceXの推進技術搭載、日本でも予約受付中",
+        "Microsoft社内数万人で検証——Claude CodeとCopilot CLI導入でPR数が平均24%増",
+        "Bedrock AgentCore GatewayのWeb SearchをMCP経由でClaude Desktopに接続——Cognito認証でAWS認証情報不要",
+        "AIを使えばドキュメント整備はいらない？——今こそ人間が正典スペースを作るべき理由",
+        "GitHub Copilot Deprecates Claude Opus 4.8, Opus 5, and GPT-5.6 Terra on November 16",
+        "GitHub Copilot in Slack and Teams Gets Multi-Repo Support and Cross-Context Queries",
+        "Simon Willison Builds \"Chirp Pong\" — A Two-Phone Game That Communicates via Audio Chirps, Built with Claude Opus 5.5"
+      ]
+    },
     {
       "run_at": "2026-10-16T10:00:00+09:00",
       "urls": [

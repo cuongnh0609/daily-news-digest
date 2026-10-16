@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-17T00:00:00+09:00",
+  "last_run_at": "2026-10-17T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-17T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026101600865&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026101600246&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026101600781&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6599039",
+        "https://news.yahoo.co.jp/pickup/6599049",
+        "https://zenn.dev/mkj/articles/8e1da67da67f98",
+        "https://zenn.dev/r_kaga/articles/2fd185c50cea7c",
+        "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
+        "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "https://www.mercor.com/research/labor-index/benchmark-map/",
+        "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview"
+      ],
+      "titles": [
+        "中国、AI技術の輸出規制を強化——サイバー攻撃に悪用なら禁止、40項目を新たに規制対象へ",
+        "高市首相、農水相辞任で国会で陳謝——「任命責任、しっかり受け止める」",
+        "消費税減税、国民民主とも連携へ——公明・山口幹事長「給付での一致も視野に」",
+        "ショップサーブに不正アクセス——2335万人分の個人情報が流出か",
+        "テスラ新型ロードスター公開——空中で宙返り実演、SpaceX技術搭載・最高速370km/h",
+        "Akinatorで始めるAgentic RL——タスク設計から初期検証まで、GRPOでLLMに質問戦略を学ばせる",
+        "改めて考える、AIエンジニアリングの今——評価が共通基盤、エージェント・ファインチューニングへの展望",
+        "Windows向け「Microsoft Execution Containers」正式リリース——AIエージェントの実行を安全に隔離",
+        "Claude Solves a 30-Year Cryptography Mystery: NIST Elliptic Curve Seeds Finally Traced to lrand48 and FreeLIP",
+        "Mercor Research: 90% of US Working Hours Are on Tasks AI Benchmarks Don't Cover",
+        "GitHub Actions Workflow Lockfiles Go Public Preview — Pin Action Versions to Commits, Prevent Supply Chain Attacks"
+      ]
+    },
     {
       "run_at": "2026-10-17T00:00:00+09:00",
       "urls": [

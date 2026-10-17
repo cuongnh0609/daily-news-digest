@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-17T20:00:00+09:00",
+  "last_run_at": "2026-10-18T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-18T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6599175",
+        "https://www.jiji.com/jc/article?k=2026101700325&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6599130",
+        "https://news.yahoo.co.jp/pickup/6599118",
+        "https://news.yahoo.co.jp/pickup/6599155",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news007.html",
+        "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
+        "https://zenn.dev/ceres_tech_blog/articles/7c5d1b9d29e621",
+        "https://www.anthropic.com/news/2026-us-midterms",
+        "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+        "https://bfl.ai/blog/flux-3-image-klein"
+      ],
+      "titles": [
+        "在留外国人が過去最多428万人を突破——高まる反移民感情との矛盾",
+        "フーシ派がミサイル開発にAI「クロード」を試用か——英紙FTが報道、失敗も原因究明にも利用",
+        "政府、所得連動型給付制度を検討——中低所得の就業者に年平均3万円",
+        "スポーツ八百長防止へ新法整備——超党派議連が骨子案、今国会成立目指す",
+        "関東・北海道で今秋最低気温——東京都心は15℃割れ、寒暖差に備えを",
+        "「そもそも親にAIなんて必要ない」——65歳以上の生成AI利用、子世代の69%が拒否する理由",
+        "Linuxカーネルに深刻な脆弱性「PwnEscape」（CVE-2026-99999）——仮想マシンからホストOSへのコード実行が可能",
+        "JenkinsからGitHub Actionsへ移行——CI/CDをAIツールにも人間にも読める形に再設計",
+        "Anthropic Prepares Claude for the 2026 US Midterms — Voting Info, Evenhandedness Evals, and Influence-Op Classifiers",
+        "Anthropic Rebuilt Its Version Control From Scratch — New System \"Scion\" Handles 30,000 Code Changes Per Day",
+        "Black Forest Labs Releases FLUX 3 Image Klein — Open-Weights 5.6B Model with Native 4K Output and Free Commercial Use"
+      ]
+    },
     {
       "run_at": "2026-10-17T20:00:00+09:00",
       "urls": [
@@ -144,180 +173,6 @@
         "Anthropic Commits $100M to Train 10,000 \"Frontier Deployed Engineers\" — A Medical-Residency Model for AI",
         "GitHub Open Source License Compliance Goes GA — Enforces License Policy at PR Merge, Blocks Non-Compliant Dependencies",
         "Simon Willison Ships llm-gemini 0.35 — Adds Gemini 4 Argon Support and Streaming Fixes to His LLM CLI Plugin"
-      ]
-    },
-    {
-      "run_at": "2026-10-16T20:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/16/2000002346/",
-        "https://www.itmedia.co.jp/news/article/2610/16/2000002337/",
-        "https://news.yahoo.co.jp/pickup/6599019",
-        "https://news.yahoo.co.jp/pickup/6599017",
-        "https://www.itmedia.co.jp/news/article/2610/16/2000002340/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2610/16/news032.html",
-        "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002313/",
-        "https://zenn.dev/hand_dot/articles/ecb391d4322330",
-        "https://www.publickey1.jp/blog/26/fdeai7fde.html",
-        "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-        "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
-      ],
-      "titles": [
-        "タイムズカー、退会後も7年間保管の免許証画像を全削除へ——660万件の漏えいを受け",
-        "日本経済新聞、不正アクセスで183万件の個人情報が流出——開発用クラウドの認証情報を盗まれ",
-        "緊急地震速報、ドコモで配信されず——誤報後の混乱が全国に拡大",
-        "トヨタ、2030年までに全車種をSDVに転換——ソフトウェア定義型車両へ全面移行",
-        "ファンケル・アテニアで計83万件の会員情報が漏えい——ECサイトへの不正アクセス",
-        "AIエージェントに「何をさせないか」——NVIDIAが示すエージェント設計の原則",
-        "「Claude Haiku 5.5」は本当にコスパがいいのか？——3つの日本語タスクで徹底検証",
-        "有名OSSがPRを閉じはじめた——何が起きていて、どう向き合うべきか",
-        "Gartner: 70% of Agentic AI Enterprise Projects Built via Forward-Deployed Engineering Will Be Abandoned by 2028",
-        "GitHub Publishes ReviewBench: An Open Benchmark for Evaluating AI Code Review Quality",
-        "Using AI to Reverse Engineer Undocumented Hardware: A Practical Workflow That Actually Works"
-      ]
-    },
-    {
-      "run_at": "2026-10-16T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598987",
-        "https://news.yahoo.co.jp/pickup/6598983",
-        "https://www.itmedia.co.jp/news/article/2610/16/2000002332/",
-        "https://news.yahoo.co.jp/pickup/6598986",
-        "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
-        "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
-        "https://zenn.dev/aws_japan/articles/agentcore-gateway-websearch-cognito",
-        "https://zenn.dev/atamaplus/articles/2c9538a721c613",
-        "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-        "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-        "https://simonwillison.net/2026/Oct/15/chirp-pong/"
-      ],
-      "titles": [
-        "ヤマト運輸、後払いサービス利用者の個人情報約530万件が流出",
-        "気象庁、緊急地震速報を誤配信——M6.9をM9.9と過大予測、サイバー攻撃は否定",
-        "Web制作ツール「Studio」全ユーザーの情報漏えいか——APIキー・フォーム内容も対象に",
-        "大谷翔平、116打席ぶり本塁打もドジャース4連敗で地区シリーズ敗退",
-        "テスラが次世代「Roadster」を発表——SpaceX の推進技術搭載、日本でも予約受付中",
-        "Microsoft社内数万人で検証——Claude CodeとCopilot CLI導入でPR数が平均24%増",
-        "Bedrock AgentCore GatewayのWeb SearchをMCP経由でClaude Desktopに接続——Cognito認証でAWS認証情報不要",
-        "AIを使えばドキュメント整備はいらない？——今こそ人間が正典スペースを作るべき理由",
-        "GitHub Copilot Deprecates Claude Opus 4.8, Opus 5, and GPT-5.6 Terra on November 16",
-        "GitHub Copilot in Slack and Teams Gets Multi-Repo Support and Cross-Context Queries",
-        "Simon Willison Builds \"Chirp Pong\" — A Two-Phone Game That Communicates via Audio Chirps, Built with Claude Opus 5.5"
-      ]
-    },
-    {
-      "run_at": "2026-10-16T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598953",
-        "https://news.yahoo.co.jp/pickup/6598954",
-        "https://news.yahoo.co.jp/pickup/6598950",
-        "https://news.yahoo.co.jp/pickup/6598952",
-        "https://www.itmedia.co.jp/news/article/2610/16/2000002312/",
-        "https://zenn.dev/algoartis/articles/19bb1705ea4b16",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2610/16/news033.html",
-        "https://www.itmedia.co.jp/news/article/2610/15/2000002286/",
-        "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-        "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
-        "https://already-clean.goodfire.com/"
-      ],
-      "titles": [
-        "匿流グループのスマホを遠隔解析へ——警察官職務執行法改正案を閣議決定",
-        "「餃子の王将」元社長射殺事件——京都地裁できょう判決、有罪か無罪か注目",
-        "フーシ派、イエメン南部の大統領宮殿施設をミサイル攻撃——警備員ら5人死亡",
-        "ソニー、最高93万円の高級ウォークマン3機種を発表——数年ぶりのハードウェア刷新",
-        "ソースネクスト、最大2252万件の個人情報が流出か——APIが4日間不正利用されパスワードも対象に",
-        "Gemini 4 Argonの日本語性能を検証——推敲での「言い切り化」リスクとモデル選択の判断基準",
-        "Umios（旧マルハニチロ）、AI時系列予測で販売計画業務を年4200時間削減——Chronos-2とSageMakerで実現",
-        "Anthropic共同創業者クラーク氏が初来日——相次ぐサイバー攻撃にAI悪用の可能性を認め、業界横断の対策を訴え",
-        "Anthropic Embeds METR Evaluators With Employee-Level Access — Tiered Independent Auditing Goes Live",
-        "GitHub AI Scan for Pull Requests Goes GA — Finds Vulnerabilities CodeQL Misses in PHP, Terraform, Dockerfiles",
-        "Goodfire: \"Neural Networks Are Already Clean\" — New Essay Argues Mechanistic Interpretability Is More Tractable Than Believed"
-      ]
-    },
-    {
-      "run_at": "2026-10-16T05:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/15/2000002306/",
-        "https://news.yahoo.co.jp/articles/78773d914534991260f764ebcbf3033056c5422c",
-        "https://www.itmedia.co.jp/news/article/2610/13/2000002216/",
-        "https://news.yahoo.co.jp/articles/57e0091ba5ebc9373d8025b2b5d7a39305eefb1e",
-        "https://news.yahoo.co.jp/articles/5b83853f3e388b3fe3f2527044ec07837450308d",
-        "https://zenn.dev/algoartis/articles/03ca12150ccbee",
-        "https://zenn.dev/mattn/articles/6e9996319ac099",
-        "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002280/",
-        "https://research.meta.ai/blog/muse-spark-open",
-        "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
-        "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/"
-      ],
-      "titles": [
-        "バーガーキング公式アプリに不正アクセス——会員情報約1118万件が流出か",
-        "13年ぶり台風30号「チャンパー」発生——20日に「非常に強い」勢力、日本直撃の恐れも",
-        "JR東・京急・東武など鉄道7社が磁気乗車券を廃止——2027年春からQR乗車券に全面移行",
-        "内閣支持率が42%に下落——簗農水相続投判断を8割が問題視、時事世論調査",
-        "ソースネクスト、最大2251万件の個人情報流出か——ECサイトに不正アクセス",
-        "国産モデル sarashina3-mini は日本語の推敲で何を変えるのか？——文体・構造・技術文書の3スキル比較",
-        "SQLite本体にベクトル検索拡張「vec1」が統合——外部ライブラリ不要で埋め込みベクトルをネイティブ検索",
-        "AIの安全性を測る「物差し」を日本でも——AISI村上所長が語る展望と相次ぐサイバー攻撃への対応",
-        "Meta Releases Muse Spark Open — 816B Open-Weight Agentic Model Built for Coding and Long-Horizon Tasks",
-        "GitHub Agentic Autofix for Code Scanning Goes GA — Copilot Explores Codebase, Fixes Vulnerabilities, Opens Draft PR",
-        "Prompt Injection in HTTP Headers: What 217 Million Web Responses Show About a Silent Attack Surface"
-      ]
-    },
-    {
-      "run_at": "2026-10-16T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598934",
-        "https://news.yahoo.co.jp/pickup/6598933",
-        "https://news.yahoo.co.jp/pickup/6598928",
-        "https://news.yahoo.co.jp/pickup/6598926",
-        "https://news.yahoo.co.jp/pickup/6598927",
-        "https://zenn.dev/actbe_tech/articles/57561ffebaf9ed",
-        "https://zenn.dev/solvio/articles/6d374a9224327a",
-        "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
-        "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-        "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
-        "https://www.anthropic.com/news/genesis-mission-commitment"
-      ],
-      "titles": [
-        "コミックシーモア、不正アクセスの可能性を発表——サービスを一時停止し原因調査へ",
-        "国際会議がうるう秒の廃止を決定——2027年5月から「うるう時」へ移行",
-        "パナソニック、ドラム式洗濯乾燥機64万台をリコール——発火事故6件、怪我人なし",
-        "国交省、タクシー・バスのカスハラ客への乗車拒否を標準運送約款に明文化——12月1日施行",
-        "YouTuber動画による誹謗中傷で男性が自殺——遺族が動画投稿者3人を提訴、2.3億円求める",
-        "Salesforce Agentforce の「Agent Script」入門——LLMの柔軟性と決定論的コードを組み合わせる新手法",
-        "LocalLLMでClaude Codeの代替は可能か？——B200 1台でQwen3.5-122Bを検証",
-        "Anthropic製BunのTypeScript型検査器、TypeScript 7より3倍以上高速——bun checkコマンド正式搭載",
-        "Anthropic Tells Investors Quarterly Revenue Hit $16.8B, Up ~50% — IPO Signals",
-        "GitHub Secret Scanning Now Blocks Anthropic API Keys by Default",
-        "Anthropic Commits $150M to U.S. Genesis Mission — Claude Deployed to 15+ Federal Science Agencies"
-      ]
-    },
-    {
-      "run_at": "2026-10-15T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6598871",
-        "https://news.yahoo.co.jp/pickup/6598906",
-        "https://news.yahoo.co.jp/pickup/6598909",
-        "https://www.itmedia.co.jp/news/article/2610/15/2000002299/",
-        "https://www.itmedia.co.jp/news/article/2610/15/2000002298/",
-        "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/",
-        "https://www.itmedia.co.jp/news/article/2610/15/2000002283/",
-        "https://www.publickey1.jp/blog/26/gpuai_engine.html",
-        "https://www.anthropic.com/claude-haiku-5-5",
-        "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
-        "https://simonwillison.net/2026/Oct/14/tree-appreciator/"
-      ],
-      "titles": [
-        "常陸大宮市で核廃棄物の文献調査開始——本州初、NUMOが正式着手",
-        "広島・尾道でバスと軽自動車が正面衝突——73歳男性死亡、5歳孫が重体",
-        "DV被害者の母親が子ども2人を殺害——支援施設に加害者と3年間同居の実態が判明",
-        "Microsoftが国際犯罪3サービスを解体——日本を狙うフィッシング詐欺がきっかけに",
-        "DeNA、数学記述答案をAIが30秒採点——大学受験生向けアプリ「SIRUS」公開",
-        "国内WebサイトへのAIエージェント攻撃を初観測——8時間弱・10段階の多段階攻撃、適応型戦術が判明",
-        "TencentクラウドAIエージェントが「逸脱」——研究者が隠しテキストで直接交信、30億文書の不正取得試みも",
-        "さくらインターネット、GPU専有で定額のプライベートAIエンジン提供開始——トークン課金なし・国内完結",
-        "Anthropic Releases Claude Haiku 5.5 — Cheapest & Fastest Model with Adjustable Effort, OSWorld 72.4%",
-        "GitHub HydraFusion Gets Max Tier and Smarter Critique — Multi-Model Orchestration Expands to Opus 5.5 and GPT-6",
-        "Simon Willison Builds \"Tree Appreciator\" with Claude Opus 5.5 Max — A 3-Hour Vibe-Coding Session Produces a 3D Spot-the-Difference Game"
       ]
     }
   ]

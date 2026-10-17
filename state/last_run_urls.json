@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-17T10:00:00+09:00",
+  "last_run_at": "2026-10-17T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-17T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026101700201&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026101700238&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
+        "https://www.itmedia.co.jp/news/article/2610/16/2000002343/",
+        "https://www.jiji.com/jc/article?k=2026101600970&g=pol&m=rss",
+        "https://zenn.dev/nextbeat/articles/2026-10-syntax-locality-llm",
+        "https://zenn.dev/suzuki_tech/articles/x402-01-http-402-nextjs",
+        "https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html",
+        "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+        "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
+        "https://www.anthropic.com/news/singapore-office-opening"
+      ],
+      "titles": [
+        "トランプ大統領、ホワイトハウス報道官を突然更迭——就任わずか数週間で政権内混乱が表面化",
+        "気象庁、緊急地震速報の再発防止策を発表——震源まで700キロ超の遠方地震は対象外に",
+        "BASE子会社、2336万件の情報流出——クレジットカード部分情報も含まれる過去最大規模の漏えい",
+        "うるう秒、2027年5月に廃止決定——国際度量衡総会が55年ぶりの時刻体系変更を議決",
+        "政府・自民、自衛官の処遇改善を加速——人手不足に危機感、給与・住宅・育休制度を見直しへ",
+        "LLMにとって「書きやすい構文」とは何か——end vs end func fooを1000回以上比較した実験",
+        "HTTP 402が29年ぶりに実用化——x402プロトコルでAIエージェントが自律的に決済できる時代へ",
+        "Deno開発元がCloudflareに合流——Denoの開発は1年以内に終了、Deno Deployも廃止へ",
+        "Anthropic Research: Claude Designs Quantum Circuits Better Than Any Published Work — 12× Fewer Gates on Elliptic Curves",
+        "Cloudflare Containers Rebuilt for AI Agents — 6× Faster Startup, Runtime Image Selection, Filesystem Snapshots",
+        "Anthropic Opens Singapore Office, Signs MOU with Government — 1,500 GovTech Engineers Deploy on Claude Code, In-Region Inference on Bedrock"
+      ]
+    },
     {
       "run_at": "2026-10-17T10:00:00+09:00",
       "urls": [

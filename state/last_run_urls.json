@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-17T05:00:00+09:00",
+  "last_run_at": "2026-10-17T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-17T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6599068",
+        "https://www.itmedia.co.jp/news/article/2610/15/2000002291/",
+        "https://www.itmedia.co.jp/news/article/2610/15/2000002300/",
+        "https://news.yahoo.co.jp/pickup/6599057",
+        "https://news.yahoo.co.jp/pickup/6599054",
+        "https://zenn.dev/keigoly/articles/8738d8d241b5a1",
+        "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002328/",
+        "https://www.itmedia.co.jp/news/article/2610/15/2000002260/",
+        "https://claude.dev/blog/solving-code-review-at-anthropic/",
+        "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/"
+      ],
+      "titles": [
+        "緊急地震速報が全国に誤配信——気象庁、M6.9をM9.9と誤推計し大混乱",
+        "ネットフリックス、約1000人を削減へ——2022年以来最大のレイオフ",
+        "阪急電鉄、車内の中づり広告を年内に終了——スマホ普及で情報収集の形が変化",
+        "福岡県議会「馬鹿」発言問題——百条委員会設置を可決、夜を徹した審議",
+        "米国大統領府の広報担当者、就任わずか5日で解任——政策をめぐる内部対立か",
+        "逆解析MCP「REA」をClaude Codeに隔離接続——安全設計とA/Bテストで見えた実態",
+        "MetaがオープンウェイトAI「Muse Spark Open」公開——816Bパラメータ、Mac Studio 2台でローカル動作",
+        "「AI導入で1年に生産性2倍」の号令後——開発者802人追跡調査が示す実態",
+        "How the Claude Code Team Reinvented Code Review — Layered AI Checks, Risk-Based Approval, and a Three-Round Cap",
+        "Apple ML Research: Run Muse Spark Open on 4 Mac Studios via MLX Distributed Inference over Thunderbolt 5",
+        "AI Is Mass Decompiling Games — And No One Can Stop It"
+      ]
+    },
     {
       "run_at": "2026-10-17T05:00:00+09:00",
       "urls": [
@@ -108,7 +137,7 @@
         "気象庁、緊急地震速報を誤配信——M6.9をM9.9と過大予測、サイバー攻撃は否定",
         "Web制作ツール「Studio」全ユーザーの情報漏えいか——APIキー・フォーム内容も対象に",
         "大谷翔平、116打席ぶり本塁打もドジャース4連敗で地区シリーズ敗退",
-        "テスラが次世代「Roadster」を発表——SpaceXの推進技術搭載、日本でも予約受付中",
+        "テスラが次世代「Roadster」を発表——SpaceX の推進技術搭載、日本でも予約受付中",
         "Microsoft社内数万人で検証——Claude CodeとCopilot CLI導入でPR数が平均24%増",
         "Bedrock AgentCore GatewayのWeb SearchをMCP経由でClaude Desktopに接続——Cognito認証でAWS認証情報不要",
         "AIを使えばドキュメント整備はいらない？——今こそ人間が正典スペースを作るべき理由",

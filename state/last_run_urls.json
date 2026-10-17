@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-17T15:00:00+09:00",
+  "last_run_at": "2026-10-17T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-17T20:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/17/2000002350/",
+        "https://www.jiji.com/jc/article?k=2026101700344&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026101700249&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026101700358&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026101700133&g=pol&m=rss",
+        "https://zenn.dev/salt2/articles/slack-github-llm-bb912760",
+        "https://zenn.dev/jtcc/articles/strata-local-llm-app-integration",
+        "https://www.itmedia.co.jp/news/article/2610/14/2000002278/",
+        "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "https://simonwillison.net/2026/Oct/16/code-review/",
+        "https://alexwang.ai/posts/associative-memory/"
+      ],
+      "titles": [
+        "「skyticket」クレカ情報も流出、カード番号など最大6140人分　「流出なし」の初報を訂正",
+        "金銭授受疑惑で百条委設置　未明に議案可決―福岡県議会",
+        "対ロシア制裁関税、適用せず　融和姿勢、軽油急騰に危機感―トランプ米大統領",
+        "Ｆ東京、ダービー制し５連勝　広島も快勝―Ｊ１",
+        "簗氏は議員辞職を　自民・西田氏、高市首相も批判",
+        "社内の Slack と GitHub を LLM に読ませて技術ブログの題材を探す：モデルに任せたこと、任せなかったこと",
+        "Strata でできること：ローカル LLMの実行とアプリ連携",
+        "デジハリ大、「Claude」を全学導入へ──国内初、"回数気にせず"使い放題に",
+        "DeepSeek Drops V4.1-Flash-1017 — Agentic Coding Benchmark Gains, 1M Token Context, MIT License",
+        "The Claude Code Team on AI Code Review: \"Did a Human Read This?\" Is the Wrong Question",
+        "You Could Have Invented Transformers from Memory — Alex Wang's Capacity-First Derivation"
+      ]
+    },
     {
       "run_at": "2026-10-17T15:00:00+09:00",
       "urls": [

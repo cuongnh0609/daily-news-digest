@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-18T10:00:00+09:00",
+  "last_run_at": "2026-10-18T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-18T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6599227",
+        "https://news.yahoo.co.jp/pickup/6599221",
+        "https://news.yahoo.co.jp/pickup/6599190",
+        "https://news.yahoo.co.jp/pickup/6599189",
+        "https://www.jiji.com/jc/article?k=2026101800191&g=soc&m=rss",
+        "https://zenn.dev/taichiendoh/articles/ai-agent-approval-log-rollback-design",
+        "https://zenn.dev/tanashun/articles/claude-code-stream-json",
+        "https://www.publickey1.jp/blog/26/websveltekit_3vite.html",
+        "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+        "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+        "https://llmspeed.dev/"
+      ],
+      "titles": [
+        "消費減税法案、自民が野党に譲歩へ——審議20日から始まり与野党協議が焦点に",
+        "非常に強い台風30号が発達——23日（金）に沖縄南を通過か、早めの警戒を",
+        "閣僚更迭で「高市1強」の弱点が露呈——情報伝達の欠如が判断を狂わせた",
+        "教科書デジタル化見直し——文科省の素案は「紙中心・デジタル補助」の方針へ転換",
+        "西条まつりで副市長が下敷きに——太鼓台の転倒事故、就任わずか3か月で死亡",
+        "複数AIエージェント並列運用の「承認ログ」と「ロールバック設計」——医療機器保守から学ぶ記録の粒度",
+        "Claude Codeを自前アプリから操作する——stream-json入門：許可確認・質問への応答まで対応",
+        "SvelteKit 3 正式リリース——設定をViteに集約、型安全・エラー処理を大幅改善",
+        "Agents Disprove Polysemanticity: Most Neurons in Large LLMs Are Monosemantic",
+        "Modal Hits $1B ARR and Raises $16B Series D — AI Infrastructure's Newest Decacorn",
+        "LLMSpeed.dev: Feel How Fast a Local LLM Runs Before You Buy the Hardware"
+      ]
+    },
     {
       "run_at": "2026-10-18T10:00:00+09:00",
       "urls": [

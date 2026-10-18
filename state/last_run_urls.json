@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-19T00:00:00+09:00",
+  "last_run_at": "2026-10-19T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-19T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6599281",
+        "https://news.yahoo.co.jp/pickup/6599282",
+        "https://news.yahoo.co.jp/pickup/6599280",
+        "https://news.yahoo.co.jp/pickup/6599277",
+        "https://news.yahoo.co.jp/pickup/6599279",
+        "https://zenn.dev/nkzn/articles/my-first-void",
+        "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
+        "https://www.itmedia.co.jp/news/article/2610/15/2000002298/",
+        "https://www.anthropic.com/news/public-benefit-fund",
+        "https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html",
+        "https://www.latent.space/p/crossing-the-threshold"
+      ],
+      "titles": [
+        "フランス全土でデモが暴動に発展——市庁舎が全焼、1500店舗が略奪被害",
+        "ソフトバンクが3年連続の日本シリーズ進出——パ・リーグ制覇",
+        "JAXAが民間ロケット開発を後押し——宮城・角田市に共同施設を開設",
+        "19日は全国的に大気不安定——北陸で大雨のおそれ",
+        "長雨・日照不足で野菜価格が急騰——レタスが倍以上、農家に30億円超の損害",
+        "VoidZeroがCloudflareに買収されフルスタックフレームワーク「Void」をOSS公開",
+        "O'ReillyサブスクをACM経由で年150ドルで契約し、公式MCPサーバーをClaude Codeに接続する",
+        "DeNA、大学受験生向けAI数学採点アプリ「SIRUS」を正式公開",
+        "Anthropic Creates a Public Benefit Fund — Commits 5% of Equity With a Growth Ratchet",
+        "AWS Embeds DuckDB Into Aurora PostgreSQL — Query S3 Data Lakes Directly Without ETL",
+        "Crossing the Threshold: How OpenAI, Anthropic, Bloomberg, and Two Sigma Approach Autonomy and Safety in Financial AI Agents"
+      ]
+    },
     {
       "run_at": "2026-10-19T00:00:00+09:00",
       "urls": [
@@ -202,122 +231,6 @@
         "DeepSeek Drops V4.1-Flash-1017 — Agentic Coding Benchmark Gains, 1M Token Context, MIT License",
         "The Claude Code Team on AI Code Review: \"Did a Human Read This?\" Is the Wrong Question",
         "You Could Have Invented Transformers from Memory — Alex Wang's Capacity-First Derivation"
-      ]
-    },
-    {
-      "run_at": "2026-10-17T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026101700201&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101700238&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
-        "https://www.itmedia.co.jp/news/article/2610/16/2000002343/",
-        "https://www.jiji.com/jc/article?k=2026101600970&g=pol&m=rss",
-        "https://zenn.dev/nextbeat/articles/2026-10-syntax-locality-llm",
-        "https://zenn.dev/suzuki_tech/articles/x402-01-http-402-nextjs",
-        "https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html",
-        "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-        "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
-        "https://www.anthropic.com/news/singapore-office-opening"
-      ],
-      "titles": [
-        "トランプ大統領、ホワイトハウス報道官を突然更迭——就任わずか数週間で政権内混乱が表面化",
-        "気象庁、緊急地震速報の再発防止策を発表——震源まで700キロ超の遠方地震は対象外に",
-        "BASE子会社、2336万件の情報流出——クレジットカード部分情報も含まれる過去最大規模の漏えい",
-        "うるう秒、2027年5月に廃止決定——国際度量衡総会が55年ぶりの時刻体系変更を議決",
-        "政府・自民、自衛官の処遇改善を加速——人手不足に危機感、給与・住宅・育休制度を見直しへ",
-        "LLMにとって「書きやすい構文」とは何か——end vs end func fooを1000回以上比較した実験",
-        "HTTP 402が29年ぶりに実用化——x402プロトコルでAIエージェントが自律的に決済できる時代へ",
-        "Deno開発元がCloudflareに合流——Denoの開発は1年以内に終了、Deno Deployも廃止へ",
-        "Anthropic Research: Claude Designs Quantum Circuits Better Than Any Published Work — 12× Fewer Gates on Elliptic Curves",
-        "Cloudflare Containers Rebuilt for AI Agents — 6× Faster Startup, Runtime Image Selection, Filesystem Snapshots",
-        "Anthropic Opens Singapore Office, Signs MOU with Government — 1,500 GovTech Engineers Deploy on Claude Code, In-Region Inference on Bedrock"
-      ]
-    },
-    {
-      "run_at": "2026-10-17T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6599068",
-        "https://www.itmedia.co.jp/news/article/2610/15/2000002291/",
-        "https://www.itmedia.co.jp/news/article/2610/15/2000002300/",
-        "https://news.yahoo.co.jp/pickup/6599057",
-        "https://news.yahoo.co.jp/pickup/6599054",
-        "https://zenn.dev/keigoly/articles/8738d8d241b5a1",
-        "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002328/",
-        "https://www.itmedia.co.jp/news/article/2610/15/2000002260/",
-        "https://claude.dev/blog/solving-code-review-at-anthropic/",
-        "https://machinelearning.apple.com/research/mlx-distributed-inference",
-        "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/"
-      ],
-      "titles": [
-        "緊急地震速報が全国に誤配信——気象庁、M6.9をM9.9と誤推計し大混乱",
-        "ネットフリックス、約1000人を削減へ——2022年以来最大のレイオフ",
-        "阪急電鉄、車内の中づり広告を年内に終了——スマホ普及で情報収集の形が変化",
-        "福岡県議会「馬鹿」発言問題——百条委員会設置を可決、夜を徹した審議",
-        "米国大統領府の広報担当者、就任わずか5日で解任——政策をめぐる内部対立か",
-        "逆解析MCP「REA」をClaude Codeに隔離接続——安全設計とA/Bテストで見えた実態",
-        "MetaがオープンウェイトAI「Muse Spark Open」公開——816Bパラメータ、Mac Studio 2台でローカル動作",
-        "「AI導入で1年に生産性2倍」の号令後——開発者802人追跡調査が示す実態",
-        "How the Claude Code Team Reinvented Code Review — Layered AI Checks, Risk-Based Approval, and a Three-Round Cap",
-        "Apple ML Research: Run Muse Spark Open on 4 Mac Studios via MLX Distributed Inference over Thunderbolt 5",
-        "AI Is Mass Decompiling Games — And No One Can Stop It"
-      ]
-    },
-    {
-      "run_at": "2026-10-17T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026101600865&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101600246&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101600781&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599039",
-        "https://news.yahoo.co.jp/pickup/6599049",
-        "https://zenn.dev/mkj/articles/8e1da67da67f98",
-        "https://zenn.dev/r_kaga/articles/2fd185c50cea7c",
-        "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
-        "https://www.anthropic.com/research/ecdsa-curve-origins",
-        "https://www.mercor.com/research/labor-index/benchmark-map/",
-        "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview"
-      ],
-      "titles": [
-        "中国、AI技術の輸出規制を強化——サイバー攻撃に悪用なら禁止、40項目を新たに規制対象へ",
-        "高市首相、農水相辞任で国会で陳謝——「任命責任、しっかり受け止める」",
-        "消費税減税、国民民主とも連携へ——公明・山口幹事長「給付での一致も視野に」",
-        "ショップサーブに不正アクセス——2335万人分の個人情報が流出か",
-        "テスラ新型ロードスター公開——空中で宙返り実演、SpaceX技術搭載・最高速370km/h",
-        "Akinatorで始めるAgentic RL——タスク設計から初期検証まで、GRPOでLLMに質問戦略を学ばせる",
-        "改めて考える、AIエンジニアリングの今——評価が共通基盤、エージェント・ファインチューニングへの展望",
-        "Windows向け「Microsoft Execution Containers」正式リリース——AIエージェントの実行を安全に隔離",
-        "Claude Solves a 30-Year Cryptography Mystery: NIST Elliptic Curve Seeds Finally Traced to lrand48 and FreeLIP",
-        "Mercor Research: 90% of US Working Hours Are on Tasks AI Benchmarks Don't Cover",
-        "GitHub Actions Workflow Lockfiles Go Public Preview — Pin Action Versions to Commits, Prevent Supply Chain Attacks"
-      ]
-    },
-    {
-      "run_at": "2026-10-17T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026101600677&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101600658&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101600953&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101600980&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/16/2000002336/",
-        "https://zenn.dev/aws_japan/articles/strands-robots-llm-teleop",
-        "https://zenn.dev/aiforall/articles/8e1803396534de",
-        "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002320/",
-        "https://www.anthropic.com/news/claude-frontier-academy",
-        "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-        "https://simonwillison.net/2026/Oct/13/llm-gemini/"
-      ],
-      "titles": [
-        "猪苗代湖ボート転覆事故、元会社役員の実刑判決が最高裁で確定へ",
-        "ロシア、拘束した邦人記者とロシア人の「人質交換」を狙うか——日本のハッカー事件との関連も浮上",
-        "高市首相、G7首脳会議を欠席——「モニター準備が間に合わず」と釈明、野党は批判",
-        "仙台高裁、東電に賠償命令——福島・津島地区の避難者訴訟、国の責任は否定",
-        "コードなしで「自分専用IME」——Meltypeに日英自動切り替えのAI変換機能を搭載",
-        "【フィジカルAI】LLMによるテレオペデータでVLAを学習——Strands Robotsにエージェントを組み込む実験",
-        "ベクトルDBを使わない「階層ナビゲーション型RAG」——ベクトルDB版と比較した検証結果",
-        "日俳連が声のAI利用に新指針——「同意なき合成声」を禁止、事業者に対応要求",
-        "Anthropic Commits $100M to Train 10,000 \"Frontier Deployed Engineers\" — A Medical-Residency Model for AI",
-        "GitHub Open Source License Compliance Goes GA — Enforces License Policy at PR Merge, Blocks Non-Compliant Dependencies",
-        "Simon Willison Ships llm-gemini 0.35 — Adds Gemini 4 Argon Support and Streaming Fixes to His LLM CLI Plugin"
       ]
     }
   ]

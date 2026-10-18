@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-18T15:00:00+09:00",
+  "last_run_at": "2026-10-18T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-18T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6599260",
+        "https://www.jiji.com/jc/article?k=2026101800227&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026101800274&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026101800268&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6599269",
+        "https://zenn.dev/eai/articles/dont-let-agents-see-the-ios-sim-screen",
+        "https://zenn.dev/fusic/articles/a77ba348115364",
+        "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002313/",
+        "https://api-docs.deepseek.com/guides/search/",
+        "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+        "https://sphinx-six-theta.vercel.app/"
+      ],
+      "titles": [
+        "内閣支持率49%に低下——高市政権、発足以来の最低水準を記録",
+        "「高度外国人材」の年収要件を引き上げへ——賃金上昇を受け入管庁が基準見直し",
+        "細野勇策が国内メジャー2冠達成——左打ち選手45年ぶりの快挙、日本オープンゴルフ",
+        "群馬で元交際相手の女性を殺害か——娘の元夫を殺人容疑で再逮捕、玄関解錠直前に侵入",
+        "個人情報の大量漏えい、中国製LLMの関与が指摘——サイバーセキュリティ専門家が警告",
+        "ClaudeエージェントにiOSシミュレータースクリーンショットを読ませるな——コンテキスト43%削減の実践報告",
+        "日本語個人情報マスキングの精度比較——Bedrock Guardrails・SDP・Presidioを300件で検証",
+        "「Claude Haiku 5.5」のコスパを3つの日本語タスクで徹底検証——速度・精度・コストの実態",
+        "DeepSeek Launches Search & Fetch APIs — $0.75 per 1,000 Requests, Live Web Data for AI Agents",
+        "Anthropic Quarterly Revenue Hits $16.8B, Up ~50% — Pre-IPO Investor Briefing Reveals Unit Economics",
+        "Sphinx: A Git Hook That Quizzes You on AI-Generated Code Before You Push"
+      ]
+    },
     {
       "run_at": "2026-10-18T15:00:00+09:00",
       "urls": [
@@ -68,7 +97,7 @@
         "https://news.yahoo.co.jp/pickup/6599153",
         "https://www.jiji.com/jc/article?k=2026101700304&g=int&m=rss",
         "https://atmarkit.itmedia.co.jp/ait/articles/2610/16/news032.html",
-        "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
+        "https://www.publickey1.jp/blog/26/anthropicbuntypython_73typescriptbun143.html",
         "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
         "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
         "https://www.anthropic.com/news/an-update-on-independent-evaluators",

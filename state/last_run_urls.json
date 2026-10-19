@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-20T00:00:00+09:00",
+  "last_run_at": "2026-10-20T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-20T05:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/16/2000002341/",
+        "https://www.itmedia.co.jp/news/article/2610/16/2000002343/",
+        "https://www.itmedia.co.jp/news/article/2610/16/2000002327/",
+        "https://www.itmedia.co.jp/news/article/2610/15/2000002300/",
+        "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
+        "https://zenn.dev/fusic/articles/snowflake-ai-parse-document-minutes",
+        "https://zenn.dev/algoartis/articles/03ca12150ccbee",
+        "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
+        "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+        "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+        "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available"
+      ],
+      "titles": [
+        "相次ぐ不正アクセス——警察庁長官が捜査強化を指示、企業の対応に格差",
+        "うるう秒、2027年5月に廃止——国際度量衡総会が決議、通信・ITシステムの障害防止へ",
+        "緊急地震速報が誤発報——「М9.9・震度7」発表後わずか8分で取り消し、気象庁が謝罪",
+        "阪急電鉄、車内つり広告を2027年4月までに全廃——スマートフォン普及で情報の受け取り方が変化",
+        "テスラ、次世代「Roadster」を正式発表——SpaceX技術搭載の限定モデルも、日本でも予約受付",
+        "Snowflake Cortex AIで議事録を自動分類——「止まっている案件はどれ？」にSQLで答える仕組みの作り方",
+        "国産LLM「sarashina3-mini」の日本語推敲実験——どのような修正を加え、効果はどうだったか",
+        "AWS Lambda Web Functions発表——Next.js・Hono・Expressをそのままデプロイ、ランタイム不要で動作",
+        "RuneScape Bench: Using MMOs as Agent Evaluation Environments",
+        "Mercury 3: Inception Labs Scales Diffusion Language Models to SOTA Territory",
+        "GitHub Open Source License Compliance Is Now Generally Available for Enterprise"
+      ]
+    },
     {
       "run_at": "2026-10-20T00:00:00+09:00",
       "urls": [
@@ -37,7 +66,7 @@
         "https://www.jiji.com/jc/article?k=2026101900650&g=spo&m=rss",
         "https://www.jiji.com/jc/article?k=2026101900782&g=int&m=rss",
         "https://www.jiji.com/jc/article?k=2026101900777&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/19/2000002397/",
+        "https://www.itmedia.co.jp/news/article/2610/19/2000002379/",
         "https://zenn.dev/aiforall/articles/8e1803396534de",
         "https://www.itmedia.co.jp/enterprise/articles/2610/19/news068.html",
         "https://zenn.dev/takyshu98/articles/915702cf8c84f3",
@@ -173,122 +202,6 @@
         "LangChain: Context Engineering — How Deep Agents Remember Without Losing Their Minds",
         "LangChain: The Most Common Questions About Agent Evals, Answered",
         "GitHub Copilot in Slack & Teams Now Supports Multiple Repositories in One Conversation"
-      ]
-    },
-    {
-      "run_at": "2026-10-18T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6599260",
-        "https://www.jiji.com/jc/article?k=2026101800227&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101800274&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101800268&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599269",
-        "https://zenn.dev/eai/articles/dont-let-agents-see-the-ios-sim-screen",
-        "https://zenn.dev/fusic/articles/a77ba348115364",
-        "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002313/",
-        "https://api-docs.deepseek.com/guides/search/",
-        "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-        "https://sphinx-six-theta.vercel.app/"
-      ],
-      "titles": [
-        "内閣支持率49%に低下——高市政権、発足以来の最低水準を記録",
-        "「高度外国人材」の年収要件を引き上げへ——賃金上昇を受け入管庁が基準見直し",
-        "細野勇策が国内メジャー2冠達成——左打ち選手45年ぶりの快挙、日本オープンゴルフ",
-        "群馬で元交際相手の女性を殺害か——娘の元夫を殺人容疑で再逮捕、玄関解錠直前に侵入",
-        "個人情報の大量漏えい、中国製LLMの関与が指摘——サイバーセキュリティ専門家が警告",
-        "ClaudeエージェントにiOSシミュレータースクリーンショットを読ませるな——コンテキスト43%削減の実践報告",
-        "日本語個人情報マスキングの精度比較——Bedrock Guardrails・SDP・Presidioを300件で検証",
-        "「Claude Haiku 5.5」のコスパを3つの日本語タスクで徹底検証——速度・精度・コストの実態",
-        "DeepSeek Launches Search & Fetch APIs — $0.75 per 1,000 Requests, Live Web Data for AI Agents",
-        "Anthropic Quarterly Revenue Hits $16.8B, Up ~50% — Pre-IPO Investor Briefing Reveals Unit Economics",
-        "Sphinx: A Git Hook That Quizzes You on AI-Generated Code Before You Push"
-      ]
-    },
-    {
-      "run_at": "2026-10-18T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6599227",
-        "https://news.yahoo.co.jp/pickup/6599221",
-        "https://news.yahoo.co.jp/pickup/6599190",
-        "https://news.yahoo.co.jp/pickup/6599189",
-        "https://www.jiji.com/jc/article?k=2026101800191&g=soc&m=rss",
-        "https://zenn.dev/taichiendoh/articles/ai-agent-approval-log-rollback-design",
-        "https://zenn.dev/tanashun/articles/claude-code-stream-json",
-        "https://www.publickey1.jp/blog/26/websveltekit_3vite.html",
-        "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
-        "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
-        "https://llmspeed.dev/"
-      ],
-      "titles": [
-        "消費減税法案、自民が野党に譲歩へ——審議20日から始まり与野党協議が焦点に",
-        "非常に強い台風30号が発達——23日（金）に沖縄南を通過か、早めの警戒を",
-        "閣僚更迭で「高市1強」の弱点が露呈——情報伝達の欠如が判断を狂わせた",
-        "教科書デジタル化見直し——文科省の素案は「紙中心・デジタル補助」の方針へ転換",
-        "西条まつりで副市長が下敷きに——太鼓台の転倒事故、就任わずか3か月で死亡",
-        "複数AIエージェント並列運用の「承認ログ」と「ロールバック設計」——医療機器保守から学ぶ記録の粒度",
-        "Claude Codeを自前アプリから操作する——stream-json入門：許可確認・質問への応答まで対応",
-        "SvelteKit 3 正式リリース——設定をViteに集約、型安全・エラー処理を大幅改善",
-        "Agents Disprove Polysemanticity: Most Neurons in Large LLMs Are Monosemantic",
-        "Modal Hits $1B ARR and Raises $16B Series D — AI Infrastructure's Newest Decacorn",
-        "LLMSpeed.dev: Feel How Fast a Local LLM Runs Before You Buy the Hardware"
-      ]
-    },
-    {
-      "run_at": "2026-10-18T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026101800155&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101800152&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101800154&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101700294&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599199?source=rss",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
-        "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-        "https://zenn.dev/hand_dot/articles/ecb391d4322330",
-        "https://www.anthropic.com/news/2026-usage-policy-update",
-        "https://www.anthropic.com/news/anthropic-cyber-mission",
-        "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available"
-      ],
-      "titles": [
-        "全米で反トランプデモ——民主党が中間選挙に向け投票呼びかけ",
-        "東京・福生で男性が刺されて死亡——知人とみられる男が逃走中",
-        "フランスで高校生・労組55万人がデモ——放火・破壊・略奪が相次ぐ",
-        "MMX探査機が打ち上げ——「はやぶさ２」津田氏が火星の月サンプルリターンに期待",
-        "中国人観光客の「大阪離れ」が顕著——訪日数は増加も大阪への足が遠のく",
-        "AIエージェント「6つの暴走パターン」——人間の承認を増やしても防げない理由とは",
-        "GitHub CopilotがClaude Opus 4.8などを11月16日に廃止予告——開発者はモデル選択を見直す必要",
-        "有名OSSがPRを閉じ始めた——AIが大量生成するコントリビューションがメンテナーを疲弊させる",
-        "Anthropic 2026 Usage Policy Update: New Rules for Autonomous Agents, Physical Systems, and High-Risk Uses",
-        "Anthropic Launches Cyber Mission: Free OSS Vulnerability Scanning and Critical Infrastructure Defense Program",
-        "GitHub AI Scan for Pull Requests Is Now Generally Available — Finds Vulnerabilities in Languages CodeQL Doesn't Cover"
-      ]
-    },
-    {
-      "run_at": "2026-10-18T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6599181",
-        "https://www.jiji.com/jc/article?k=2026101700164&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599176",
-        "https://news.yahoo.co.jp/pickup/6599153",
-        "https://www.jiji.com/jc/article?k=2026101700304&g=int&m=rss",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2610/16/news032.html",
-        "https://www.publickey1.jp/blog/26/anthropicbuntypython_73typescriptbun143.html",
-        "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
-        "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
-        "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-        "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option"
-      ],
-      "titles": [
-        "西条まつりで太鼓台の下敷きに——副市長が死亡、3か月前に就任したばかり",
-        "高市首相、靖国神社に真榊を奉納——秋季例大祭、参拝は見送り",
-        "AIで急増するITシステムの脆弱性——2026年上半期で既に3.5万件超、発見ペースは過去最速",
-        "物価高・円安で海外大学進学の費用が急騰——給付型奨学金なしには難しい現実",
-        "ロシア産軽油の供給始まるも効果に疑問——店頭価格は前週より上昇",
-        "AIエージェントに「何をさせないか」が鍵——NVIDIAが示す設計の原則とOpenShellランタイム",
-        "BunにAnthropicが開発したTypeScriptの型チェッカーを搭載——TypeScript 7より3倍以上高速",
-        "Microsoft社内数万人にClaude CodeとCopilot CLIを導入——PRマージ数が平均24%増加",
-        "GitHub Copilot's Agentic Autofix for Code Scanning Alerts Is Now Generally Available",
-        "Anthropic Gives Six METR Staff Employee-Level Access to Its Systems — A New Model for AI Safety Oversight",
-        "GitHub Copilot HydraFusion Gets New Model Pool and Max Tier — Multi-Model AI Orchestration Sharpens"
       ]
     }
   ]

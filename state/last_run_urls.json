@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-19T05:00:00+09:00",
+  "last_run_at": "2026-10-19T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-19T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6599322",
+        "https://news.yahoo.co.jp/pickup/6599317",
+        "https://www.itmedia.co.jp/news/article/2610/19/2000002355/",
+        "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
+        "https://news.yahoo.co.jp/pickup/6599312",
+        "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
+        "https://zenn.dev/mkj/articles/8e1da67da67f98",
+        "https://zenn.dev/nextbeat/articles/2026-10-syntax-locality-llm",
+        "https://www.anthropic.com/news/singapore-office-opening",
+        "https://arxiv.org/abs/2610.18861",
+        "https://blog.picheta.me/post/killswitch-lang/"
+      ],
+      "titles": [
+        "仏大統領、暴徒に「怒りと恥辱」——パリ郊外での暴動が全土に拡大",
+        "公明党「打倒高市」後の政界再編——連立解消後の新たな枠組みを模索",
+        "サッカー協会公式アプリに不正アクセス——「JFA Passport」一部機能停止",
+        "BASE子会社の情報漏えい、約2335万人分に拡大——クレカ情報も一部含む",
+        "東芝、難関大生から再評価——「社会インフラの要」として志望者増加",
+        "Anthropic社内でAIエージェント稼働が人間の6倍に——初級職採用率は27%から9%へ激減",
+        "AkinatorでAgentic RL——LLMエージェントの質問戦略を強化学習で改善",
+        "LLMにとって書きやすい構文とは何か——endよりend func fooが1000回実験で圧倒的優位",
+        "Anthropic Opens Singapore Office and Signs MOU with Singapore Government",
+        "Hybrid Reasoning Agents: LLMs That Think in Latent Space, Act Through Text",
+        "I Built a Programming Language That LLMs Can't Use"
+      ]
+    },
     {
       "run_at": "2026-10-19T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Prepares Claude for the 2026 US Midterms — Voting Info, Evenhandedness Evals, and Influence-Op Classifiers",
         "Anthropic Rebuilt Its Version Control From Scratch — New System \"Scion\" Handles 30,000 Code Changes Per Day",
         "Black Forest Labs Releases FLUX 3 Image Klein — Open-Weights 5.6B Model with Native 4K Output and Free Commercial Use"
-      ]
-    },
-    {
-      "run_at": "2026-10-17T20:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/17/2000002350/",
-        "https://www.jiji.com/jc/article?k=2026101700344&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101700249&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101700358&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101700133&g=pol&m=rss",
-        "https://zenn.dev/salt2/articles/slack-github-llm-bb912760",
-        "https://zenn.dev/jtcc/articles/strata-local-llm-app-integration",
-        "https://www.itmedia.co.jp/news/article/2610/14/2000002278/",
-        "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "https://simonwillison.net/2026/Oct/16/code-review/",
-        "https://alexwang.ai/posts/associative-memory/"
-      ],
-      "titles": [
-        "「skyticket」クレカ情報も流出、カード番号など最大6140人分　「流出なし」の初報を訂正",
-        "金銭授受疑惑で百条委設置　未明に議案可決―福岡県議会",
-        "対ロシア制裁関税、適用せず　融和姿勢、軽油急騰に危機感―トランプ米大統領",
-        "Ｆ東京、ダービー制し５連勝　広島も快勝―Ｊ１",
-        "簗氏は議員辞職を　自民・西田氏、高市首相も批判",
-        "社内の Slack と GitHub を LLM に読ませて技術ブログの題材を探す：モデルに任せたこと、任せなかったこと",
-        "Strata でできること：ローカル LLMの実行とアプリ連携",
-        "デジハリ大、「Claude」を全学導入へ──国内初、"回数気にせず"使い放題に",
-        "DeepSeek Drops V4.1-Flash-1017 — Agentic Coding Benchmark Gains, 1M Token Context, MIT License",
-        "The Claude Code Team on AI Code Review: \"Did a Human Read This?\" Is the Wrong Question",
-        "You Could Have Invented Transformers from Memory — Alex Wang's Capacity-First Derivation"
       ]
     }
   ]

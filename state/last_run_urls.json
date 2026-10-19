@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-19T20:00:00+09:00",
+  "last_run_at": "2026-10-20T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-20T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026101900945&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026101900911&g=flash&m=rss",
+        "https://news.yahoo.co.jp/pickup/6599401",
+        "https://news.yahoo.co.jp/pickup/6599408",
+        "https://news.yahoo.co.jp/pickup/6599368",
+        "https://zenn.dev/haru_iida/articles/ai-coding-harness-self-improvement",
+        "https://zenn.dev/moimoi/articles/ai-implementer-observer-triangle",
+        "https://www.publickey1.jp/blog/26/fdeai7fde.html",
+        "https://mistral.ai/news/timestral/",
+        "https://crystl.dev/guides/tmux-for-ai-agents/",
+        "https://lwn.net/Articles/1101143/"
+      ],
+      "titles": [
+        "北朝鮮、韓国に対抗措置検討——金与正氏が攻撃手段配備と拡声器放送再開を示唆",
+        "フランス首相、一部都市に夜間外出禁止令——デモ暴徒化を受け治安強化措置",
+        "ユニクロが11月に11商品を値上げ——原材料費高騰と円安が直撃",
+        "ALS原因タンパク質の除去に新経路発見——名古屋大学グループが治療研究を前進",
+        "JAL機内で小動物を発見——見つからず欠航、福岡発鹿児島行き便に影響",
+        "AIコーディング用ハーネスをAI自身に改善させる——Spec Kitフックとエージェント自律運用の実践報告",
+        "AIに作業させ、別のAIに監視させる「三角フォーメーション」——実装と観察を分離する開発ワークフロー",
+        "ガートナー予測：FDE型エージェントAIの70%が2028年までに廃棄——「FDE洗浄」リスクも警告",
+        "Mistral Releases Timestral: Time-Series Foundation Models That Run Without a GPU",
+        "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling of Terminal Orchestration",
+        "Linux 7.3 Released: Record 18,765 Commits, sched_ext Complete, New fchroot() Syscall"
+      ]
+    },
     {
       "run_at": "2026-10-19T20:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-19T10:00:00+09:00",
+  "last_run_at": "2026-10-19T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-19T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026101900098&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026101900414&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026101900331&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/19/2000002379/",
+        "https://www.itmedia.co.jp/news/article/2610/19/2000002371/",
+        "https://zenn.dev/ara_jlu/articles/per-task-review-dropped",
+        "https://zenn.dev/ketoranger/articles/agent-memory-security",
+        "https://zenn.dev/bocek/articles/5e1ba6fae7e7d6",
+        "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+        "https://www.itmedia.co.jp/news/article/2610/19/2000002366/",
+        "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/"
+      ],
+      "titles": [
+        "高市首相、減税財源「国債否定せず」――参院予算委で財政方針を表明",
+        "神奈川・藤沢でバスなど３台衝突――１人心肺停止、１３人搬送",
+        "中国GDP、7〜9月期は4.5%増――政府目標の下限に、不動産不振が足かせ",
+        "「Renta!」停止は不正アクセスの可能性――電子書籍サービスへの攻撃が相次ぐ",
+        "AIの台頭でウェブ集客はSEOからGEOへ――生成AI検索、初めて利用率5割超え",
+        "Claude Codeのステップごとレビューを既定から外した理由——実験データが示す「多いほど安全」という誤信",
+        "AIエージェントに個人の記憶を任せるとき——「書かせない・漏らさない」仕組みを4層で設計する",
+        "判断特化モデルを比較する——Decisions API・Jev・Clef、速度・精度・コストの実測レポート",
+        "Superlite: Hand an Agent a Spec and Walk Away — A Faster Autonomous Build Workflow for Claude Code",
+        "Google Quantum AI Demonstrates Magic State Cultivation on Hardware — Error Rate Cut 40× on Willow Chip",
+        "If You Don't Run Your Own LLM Proxy, How Do You Know What's Going On?"
+      ]
+    },
     {
       "run_at": "2026-10-19T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "GitHub Copilot's Agentic Autofix for Code Scanning Alerts Is Now Generally Available",
         "Anthropic Gives Six METR Staff Employee-Level Access to Its Systems — A New Model for AI Safety Oversight",
         "GitHub Copilot HydraFusion Gets New Model Pool and Max Tier — Multi-Model AI Orchestration Sharpens"
-      ]
-    },
-    {
-      "run_at": "2026-10-18T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6599175",
-        "https://www.jiji.com/jc/article?k=2026101700325&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599130",
-        "https://news.yahoo.co.jp/pickup/6599118",
-        "https://news.yahoo.co.jp/pickup/6599155",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news007.html",
-        "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
-        "https://zenn.dev/ceres_tech_blog/articles/7c5d1b9d29e621",
-        "https://www.anthropic.com/news/2026-us-midterms",
-        "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-        "https://bfl.ai/blog/flux-3-image-klein"
-      ],
-      "titles": [
-        "在留外国人が過去最多428万人を突破——高まる反移民感情との矛盾",
-        "フーシ派がミサイル開発にAI「クロード」を試用か——英紙FTが報道、失敗も原因究明にも利用",
-        "政府、所得連動型給付制度を検討——中低所得の就業者に年平均3万円",
-        "スポーツ八百長防止へ新法整備——超党派議連が骨子案、今国会成立目指す",
-        "関東・北海道で今秋最低気温——東京都心は15℃割れ、寒暖差に備えを",
-        "「そもそも親にAIなんて必要ない」——65歳以上の生成AI利用、子世代の69%が拒否する理由",
-        "Linuxカーネルに深刻な脆弱性「PwnEscape」（CVE-2026-99999）——仮想マシンからホストOSへのコード実行が可能",
-        "JenkinsからGitHub Actionsへ移行——CI/CDをAIツールにも人間にも読める形に再設計",
-        "Anthropic Prepares Claude for the 2026 US Midterms — Voting Info, Evenhandedness Evals, and Influence-Op Classifiers",
-        "Anthropic Rebuilt Its Version Control From Scratch — New System \"Scion\" Handles 30,000 Code Changes Per Day",
-        "Black Forest Labs Releases FLUX 3 Image Klein — Open-Weights 5.6B Model with Native 4K Output and Free Commercial Use"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-20T05:00:00+09:00",
+  "last_run_at": "2026-10-20T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-20T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102000118&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6599423?source=rss",
+        "https://www.jiji.com/jc/article?k=2026101900926&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102000183&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6599425?source=rss",
+        "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
+        "https://www.itmedia.co.jp/business/articles/2610/20/news012.html",
+        "https://www.publickey1.jp/blog/26/aws_transformazure_functionsaws_lambdamicrosoft_azureaws.html",
+        "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+        "https://www.minimax.io/blog/minimax-m31f",
+        "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/"
+      ],
+      "titles": [
+        "Ｈ３ロケット10号機が打ち上げ成功、火星衛星サンプルリターン「MMX」ミッション開始",
+        "上皇后さまが92歳のお誕生日、穏やかな日常と療養を続けられる",
+        "円安・長期金利が歴史的水準に達し、高市政権の「積極財政」路線に修正圧力",
+        "インドネシア・カリマンタン島などで大規模森林火災、焼失面積が四国を超える可能性",
+        "訪日外国人のポイ捨て・マナー問題が深刻化、観光地で苦情が急増",
+        "Microsoftが社内エンジニア数万人へのClaude Code・Copilot CLI導入効果を分析",
+        "政府18万人が利用するAI「源内」——税金で動かすシステムのコスト効率化の工夫とは",
+        "AWS Transform、Azure FunctionsのコードをAWS Lambdaへ自動変換",
+        "Anthropic Embeds METR Evaluators as Employees — A New Model for Independent AI Safety Oversight",
+        "MiniMax M3.1 Flash: SOTA Agent Benchmark Performance with 3× Faster Inference and 70% Cost Cut",
+        "Simon Willison: My Obituary for Programming — On What LLMs Have Actually Changed"
+      ]
+    },
     {
       "run_at": "2026-10-20T05:00:00+09:00",
       "urls": [

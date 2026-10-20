@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-20T20:00:00+09:00",
+  "last_run_at": "2026-10-21T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-21T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102001094&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102001054&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102000692&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6599518?source=rss",
+        "https://news.yahoo.co.jp/pickup/6599528?source=rss",
+        "https://zenn.dev/gzer0/articles/real-play-save-fixtures-for-ai-tests",
+        "https://zenn.dev/edash_tech_blog/articles/5b90aa33bd8d49",
+        "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html",
+        "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+        "https://blog.cloudflare.com/typescript-rust-port/",
+        "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
+      ],
+      "titles": [
+        "西大寺会陽の「裸祭り」宝木争奪戦、来年の中止決定——死亡事故受け安全対策再構築へ",
+        "自民党、サイバー攻撃急増受け首相官邸直属の「対処本部」設置を政府に提言へ",
+        "文科省、東大学長選考に「明確な説明なく遺憾」——異例の検証要請",
+        "台風30号、来週にも本州付近に接近のおそれ——気象当局が早めの備えを呼びかけ",
+        "武部農林水産相、後援会への企業献金めぐり公職選挙法違反の疑い浮上",
+        "テストの前提を「実際に遊んで撮ったセーブ」に替えたら、撮影ボットがソフトロックを見つけた",
+        "Claude CodeでCI待ち時間を18分から4分台に短縮——GitHub Actionsの4つの最適化手法",
+        "Cloudflare OS、マネージドサービスを提供開始——GitHub連携・Gmail統合でAIエージェントが業務基盤に",
+        "AINews: Agents and New Evidence Against Neural Network Polysemanticity",
+        "Cloudflare Releases tsrs: An AI-Assisted Rust Port of the TypeScript Compiler",
+        "WhatsApp Embedded Hidden Instructions Telling AI Not to Recommend Data Regulators"
+      ]
+    },
     {
       "run_at": "2026-10-20T20:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "DeepSeek V4.1 Flash 1017 (Max)",
         "Show HN: WhatsApp MCP running free on Cloudflare",
         "llm-tools-datasette 0.1.1"
-      ]
-    },
-    {
-      "run_at": "2026-10-19T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026101900098&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101900414&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101900331&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/19/2000002379/",
-        "https://www.itmedia.co.jp/news/article/2610/19/2000002371/",
-        "https://zenn.dev/ara_jlu/articles/per-task-review-dropped",
-        "https://zenn.dev/ketoranger/articles/agent-memory-security",
-        "https://zenn.dev/bocek/articles/5e1ba6fae7e7d6",
-        "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
-        "https://www.itmedia.co.jp/news/article/2610/19/2000002366/",
-        "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/"
-      ],
-      "titles": [
-        "高市首相、減税財源「国債否定せず」――参院予算委で財政方針を表明",
-        "神奈川・藤沢でバスなど３台衝突――１人心肺停止、１３人搬送",
-        "中国GDP、7〜9月期は4.5%増――政府目標の下限に、不動産不振が足かせ",
-        "「Renta!」停止は不正アクセスの可能性――電子書籍サービスへの攻撃が相次ぐ",
-        "AIの台頭でウェブ集客はSEOからGEOへ――生成AI検索、初めて利用率5割超え",
-        "Claude Codeのステップごとレビューを既定から外した理由——実験データが示す「多いほど安全」という誤信",
-        "AIエージェントに個人の記憶を任せるとき——「書かせない・漏らさない」仕組みを4層で設計する",
-        "判断特化モデルを比較する——Decisions API・Jev・Clef、速度・精度・コストの実測レポート",
-        "Superlite: Hand an Agent a Spec and Walk Away — A Faster Autonomous Build Workflow for Claude Code",
-        "Google Quantum AI Demonstrates Magic State Cultivation on Hardware — Error Rate Cut 40× on Willow Chip",
-        "If You Don't Run Your Own LLM Proxy, How Do You Know What's Going On?"
-      ]
-    },
-    {
-      "run_at": "2026-10-19T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6599322",
-        "https://news.yahoo.co.jp/pickup/6599317",
-        "https://www.itmedia.co.jp/news/article/2610/19/2000002355/",
-        "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
-        "https://news.yahoo.co.jp/pickup/6599312",
-        "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
-        "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
-        "https://zenn.dev/nextbeat/articles/2026-10-syntax-locality-llm",
-        "https://www.anthropic.com/news/singapore-office-opening",
-        "https://arxiv.org/abs/2610.18861",
-        "https://blog.picheta.me/post/killswitch-lang/"
-      ],
-      "titles": [
-        "仏大統領、暴徒に「怒りと恥辱」——パリ郊外での暴動が全土に拡大",
-        "公明党「打倒高市」後の政界再編——連立解消後の新たな枠組みを模索",
-        "サッカー協会公式アプリに不正アクセス——「JFA Passport」一部機能停止",
-        "BASE子会社の情報漏えい、約2335万人分に拡大——クレカ情報も一部含む",
-        "東芝、難関大生から再評価——「社会インフラの要」として志望者増加",
-        "Anthropic社内でAIエージェント稼働が人間の6倍に——初級職採用率は27%から9%へ激減",
-        "AkinatorでAgentic RL——LLMエージェントの質問戦略を強化学習で改善",
-        "LLMにとって書きやすい構文とは何か——endよりend func fooが1000回実験で圧倒的優位",
-        "Anthropic Opens Singapore Office and Signs MOU with Singapore Government",
-        "Hybrid Reasoning Agents: LLMs That Think in Latent Space, Act Through Text",
-        "I Built a Programming Language That LLMs Can't Use"
-      ]
-    },
-    {
-      "run_at": "2026-10-19T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6599281",
-        "https://news.yahoo.co.jp/pickup/6599282",
-        "https://news.yahoo.co.jp/pickup/6599280",
-        "https://news.yahoo.co.jp/pickup/6599277",
-        "https://news.yahoo.co.jp/pickup/6599279",
-        "https://zenn.dev/nkzn/articles/my-first-void",
-        "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
-        "https://www.itmedia.co.jp/news/article/2610/15/2000002298/",
-        "https://www.anthropic.com/news/public-benefit-fund",
-        "https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html",
-        "https://www.latent.space/p/crossing-the-threshold"
-      ],
-      "titles": [
-        "フランス全土でデモが暴動に発展——市庁舎が全焼、1500店舗が略奪被害",
-        "ソフトバンクが3年連続の日本シリーズ進出——パ・リーグ制覇",
-        "JAXAが民間ロケット開発を後押し——宮城・角田市に共同施設を開設",
-        "19日は全国的に大気不安定——北陸で大雨のおそれ",
-        "長雨・日照不足で野菜価格が急騰——レタスが倍以上、農家に30億円超の損害",
-        "VoidZeroがCloudflareに買収されフルスタックフレームワーク「Void」をOSS公開",
-        "O'ReillyサブスクをACM経由で年150ドルで契約し、公式MCPサーバーをClaude Codeに接続する",
-        "DeNA、大学受験生向けAI数学採点アプリ「SIRUS」を正式公開",
-        "Anthropic Creates a Public Benefit Fund — Commits 5% of Equity With a Growth Ratchet",
-        "AWS Embeds DuckDB Into Aurora PostgreSQL — Query S3 Data Lakes Directly Without ETL",
-        "Crossing the Threshold: How OpenAI, Anthropic, Bloomberg, and Two Sigma Approach Autonomy and Safety in Financial AI Agents"
       ]
     }
   ]

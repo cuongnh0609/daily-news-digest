@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-21T00:00:00+09:00",
+  "last_run_at": "2026-10-21T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-21T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102001016&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102000674&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102001157&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6599523?source=rss",
+        "https://news.yahoo.co.jp/pickup/6599527?source=rss",
+        "https://zenn.dev/ojisan_ai_lab/articles/claude-code-idle-compaction-20261019",
+        "https://zenn.dev/flinters_blog/articles/3b377ce568d676",
+        "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
+        "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+        "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+        "https://www.anthropic.com/news/public-benefit-fund"
+      ],
+      "titles": [
+        "兵庫県知事会見の発言めぐり名誉毀損容疑——作家ら書類送検",
+        "米中間選挙、多数派判明に時間か——郵便投票「不正」で開票混乱の恐れ",
+        "英国の金融サービスで障害発生——グーグルクラウドの問題が影響か",
+        "岩井コスモ証券にサイバー攻撃——顧客情報流出の恐れ、調査中",
+        "高市政権1年——高支持率維持の背景と課題",
+        "Claude Codeのアイドル圧縮を55分放置で観測——272,422トークンが13,522に",
+        "REAでAIにリバースエンジニアリングさせる——MCPサーバーと「証拠付きで進める」考え方",
+        "Anthropic社内、AIエージェント稼働時間が人間の6倍に——初級技術職採用比率は27%から9%へ激減",
+        "Anthropic Rebuilt Source Control From Scratch — Scion Handles 30,000 Merges/Day as AI Agents Dominate Commits",
+        "SlopCodeBench Oct/2026: Opus 5.5 vs. Astra on Real-World Agent Coding — xhigh Considered Harmful",
+        "Anthropic Commits 5% of Shares to New Public Benefit Fund, Pledging More as Company Value Grows"
+      ]
+    },
     {
       "run_at": "2026-10-21T00:00:00+09:00",
       "urls": [

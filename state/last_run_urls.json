@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-20T15:00:00+09:00",
+  "last_run_at": "2026-10-20T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-20T20:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/20/2000002434/",
+        "https://www.itmedia.co.jp/news/article/2610/20/2000002433/",
+        "https://www.jiji.com/jc/article?k=2026102000921&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102000856&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102000834&g=int&m=rss",
+        "https://zenn.dev/knowledgesense/articles/0464979e228c5c",
+        "https://zenn.dev/kosukeozawa/articles/claude-code-headless-logs",
+        "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
+        "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+        "https://github.com/deepseek-ai/DeepInfer",
+        "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams"
+      ],
+      "titles": [
+        "ふるさとチョイス、会員約445万件の個人情報が流出——外部からの不正アクセスが原因",
+        "NEC委託先へのサイバー攻撃——顧客企業システムへの影響と個人情報漏えいの恐れ",
+        "高市首相、国連難民高等弁務官と会談——難民支援で緊密な連携確認",
+        "ノーベル化学賞・曽あいさんが東京で講演——「不斉自己触媒反応」の発見を語る",
+        "韓国、在ウクライナ大使館員を一部引き揚げ——北朝鮮兵捕虜問題で関係がさらに悪化",
+        "AIエージェント同士は「会話」させない方がいい——メッセージパッシングの罠と状態管理の正しい設計",
+        "Claude Codeをヘッドレスで回すときのstream-jsonログの読み方と集計——自動化運用の観察術",
+        "Linuxカーネル深刻な脆弱性「PwnEscape」(CVE-2026-99999)——仮想マシンからホストOSへの不正実行の恐れ",
+        "Anthropic Quarterly Revenue Jumps Nearly 50% to $16.8B Ahead of IPO",
+        "DeepSeek Open-Sources DeepInfer — A High-Performance Inference Engine Built for Large-Scale Deployment",
+        "GitHub Releases Copilot Model Policy API — Enterprises Can Now Programmatically Control Which AI Models Are Allowed"
+      ]
+    },
     {
       "run_at": "2026-10-20T15:00:00+09:00",
       "urls": [

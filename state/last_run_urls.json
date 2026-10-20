@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-20T10:00:00+09:00",
+  "last_run_at": "2026-10-20T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-20T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6599465",
+        "https://www.jiji.com/jc/article?k=2026102000124&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102000423&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/20/2000002412/",
+        "https://www.jiji.com/jc/article?k=2026102000506&g=int&m=rss",
+        "https://zenn.dev/agentkiyaku/articles/4bbbd107466b7e",
+        "https://zenn.dev/tanashun/articles/tanacode-parent-child-checklist-compact",
+        "https://zenn.dev/sktt_panda/articles/claude-haiku-5-5-release-2026-10",
+        "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
+        "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
+        "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/"
+      ],
+      "titles": [
+        "台風「チャンピー」、23〜24日頃に先島諸島へ接近か——早めの備えを呼びかけ",
+        "消費税の食料品軽減法案、衆議院で審議入り——2027年4月から1%引き下げ目指す",
+        "大阪地裁近くで男性が刃物で刺され重傷——「金銭トラブル」で容疑者逮捕",
+        "日本郵政「ゆうID」に不正ログイン——リスト型攻撃で他社流出パスワードを悪用",
+        "中国当局、大和証券とみずほFGの証券事業を正式許可——対日経済関与を継続",
+        "Claude Codeのhooksでrmコマンドをブロックしてわかった落とし穴——文字列マッチングの限界と対策",
+        "大きな作業をClaudeに任せる3つの仕組み——親子セッション・チェックリスト・圧縮最適化",
+        "Claude Haiku 5.5リリース——入力コスト約9割減、ただしモデルID変更だけでは動かない注意点",
+        "GitHub Copilot Deprecates Six AI Models — GPT-5.x, Gemini 3.7, and Grok 4.5 Removed",
+        "Agentic Monitoring: How AI Agents Will Replace Static Alerting in Production Systems",
+        "DHS Orders Removal of DeepSeek Products from All US Federal Civilian Agency Systems"
+      ]
+    },
     {
       "run_at": "2026-10-20T10:00:00+09:00",
       "urls": [
@@ -155,7 +184,7 @@
         "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
         "https://news.yahoo.co.jp/pickup/6599312",
         "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
-        "https://zenn.dev/mkj/articles/8e1da67da67f98",
+        "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
         "https://zenn.dev/nextbeat/articles/2026-10-syntax-locality-llm",
         "https://www.anthropic.com/news/singapore-office-opening",
         "https://arxiv.org/abs/2610.18861",
@@ -202,35 +231,6 @@
         "Anthropic Creates a Public Benefit Fund — Commits 5% of Equity With a Growth Ratchet",
         "AWS Embeds DuckDB Into Aurora PostgreSQL — Query S3 Data Lakes Directly Without ETL",
         "Crossing the Threshold: How OpenAI, Anthropic, Bloomberg, and Two Sigma Approach Autonomy and Safety in Financial AI Agents"
-      ]
-    },
-    {
-      "run_at": "2026-10-19T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026101800375&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599288?source=rss",
-        "https://www.jiji.com/jc/article?k=2026101800393&g=spo&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/16/2000002346/",
-        "https://news.yahoo.co.jp/pickup/6599293?source=rss",
-        "https://zenn.dev/edash_tech_blog/articles/6250fc61ccf009",
-        "https://www.itmedia.co.jp/news/article/2610/15/2000002283/",
-        "https://www.publickey1.jp/blog/26/gpuai_engine.html",
-        "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-        "https://www.langchain.com/blog/common-questions-about-agent-evals",
-        "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates"
-      ],
-      "titles": [
-        "横浜市長選、原沢久仁氏が初当選——現職・山中氏ら6人を破る",
-        "内閣支持率、読売調査で57%——閣僚更迭後も大きな変化なし",
-        "アジアパラ大会が愛知・名古屋で開幕——日本初開催、開会式は空席が目立つ",
-        "タイムズカー、退会後も7年保管の免許証画像を全削除へ——660万件漏えい受け方針転換",
-        "辺野古沖転覆事故、遺族が現場で献花——古屋知事も面会し再発防止を誓う",
-        "コネクタもAPIもないサービスをClaude Codeに操作させる——Chrome連携で既存ログインを活用",
-        "研究者グループ、Tencentクラウド上の"逸脱"AIエージェント群と交信——隠しテキストで呼び込み13スレッドで33通",
-        "さくらインターネット、GPU専有でトークン数を気にせず使える「さくらのAI Engineプライベートエディション」を提供開始",
-        "LangChain: Context Engineering — How Deep Agents Remember Without Losing Their Minds",
-        "LangChain: The Most Common Questions About Agent Evals, Answered",
-        "GitHub Copilot in Slack & Teams Now Supports Multiple Repositories in One Conversation"
       ]
     }
   ]

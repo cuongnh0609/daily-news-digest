@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-21T15:00:00+09:00",
+  "last_run_at": "2026-10-21T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-21T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6599614?source=rss",
+        "https://news.yahoo.co.jp/pickup/6599604?source=rss",
+        "https://news.yahoo.co.jp/pickup/6599608?source=rss",
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002469/",
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002462/",
+        "https://zenn.dev/canly/articles/9c19bb123e208c",
+        "https://zenn.dev/bcc/articles/7f97598ec4010c",
+        "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
+        "https://www.anthropic.com/research/attack-surface-reduction",
+        "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+        "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning"
+      ],
+      "titles": [
+        "秋田県・子吉川が氾濫危機——レベル5「氾濫特別警報」発令",
+        "台風30号が猛烈発達——24日に九州で警報級大雨のおそれ",
+        "武部農林水産大臣に選挙運動員買収疑惑——カメラマンへ86万円か",
+        "au PAY、個人事業主46万人分の情報を無断掲載か——個人情報保護法抵触のおそれ",
+        "PHPに「緊急」脆弱性「php2shell」——多数サービスが緊急メンテナンスへ",
+        "AIエージェント「Devin」に調査を任せてわかった——「原因未特定」の正体と情報アクセス制約の壁",
+        "Pi Coding Agentで月額AIコストを8万円→3万円に——スキル&拡張公開で低コストagentic開発を実現",
+        "AIエージェント隔離環境「Microsoft Execution Containers」正式リリース——Windows 11上でエージェントを安全に実行",
+        "Anthropic Uses Claude to Reduce Code Attack Surfaces — 493 Issues Found Across 5M Lines in 25 OSS Projects",
+        "llm-tools-datasette 0.1.1: Simon Willison's LLM Ecosystem Expands with Datasette Tool Integration",
+        "GitHub Secret Scanning Gets Revocation for Encoded Tokens and Audit Log Slug Migration"
+      ]
+    },
     {
       "run_at": "2026-10-21T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "GitHub Copilot Deprecates Six AI Models — GPT-5.x, Gemini 3.7, and Grok 4.5 Removed",
         "Agentic Monitoring: How AI Agents Will Replace Static Alerting in Production Systems",
         "DHS Orders Removal of DeepSeek Products from All US Federal Civilian Agency Systems"
-      ]
-    },
-    {
-      "run_at": "2026-10-20T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102000118&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599423?source=rss",
-        "https://www.jiji.com/jc/article?k=2026101900926&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102000183&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599425?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
-        "https://www.itmedia.co.jp/business/articles/2610/20/news012.html",
-        "https://www.publickey1.jp/blog/26/aws_transformazure_functionsaws_lambdamicrosoft_azureaws.html",
-        "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-        "https://www.minimax.io/blog/minimax-m31f",
-        "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/"
-      ],
-      "titles": [
-        "Ｈ３ロケット10号機が打ち上げ成功、火星衛星サンプルリターン「MMX」ミッション開始",
-        "上皇后さまが92歳のお誕生日、穏やかな日常と療養を続けられる",
-        "円安・長期金利が歴史的水準に達し、高市政権の「積極財政」路線に修正圧力",
-        "インドネシア・カリマンタン島などで大規模森林火災、焼失面積が四国を超える可能性",
-        "訪日外国人のポイ捨て・マナー問題が深刻化、観光地で苦情が急増",
-        "Microsoftが社内エンジニア数万人へのClaude Code・Copilot CLI導入効果を分析",
-        "政府18万人が利用するAI「源内」——税金で動かすシステムのコスト効率化の工夫とは",
-        "AWS Transform、Azure FunctionsのコードをAWS Lambdaへ自動変換",
-        "Anthropic Embeds METR Evaluators as Employees — A New Model for Independent AI Safety Oversight",
-        "MiniMax M3.1 Flash: SOTA Agent Benchmark Performance with 3× Faster Inference and 70% Cost Cut",
-        "Simon Willison: My Obituary for Programming — On What LLMs Have Actually Changed"
-      ]
-    },
-    {
-      "run_at": "2026-10-20T05:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/16/2000002341/",
-        "https://www.itmedia.co.jp/news/article/2610/16/2000002343/",
-        "https://www.itmedia.co.jp/news/article/2610/16/2000002327/",
-        "https://www.itmedia.co.jp/news/article/2610/15/2000002300/",
-        "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
-        "https://zenn.dev/fusic/articles/snowflake-ai-parse-document-minutes",
-        "https://zenn.dev/algoartis/articles/03ca12150ccbee",
-        "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
-        "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-        "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-        "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available"
-      ],
-      "titles": [
-        "相次ぐ不正アクセス——警察庁長官が捜査強化を指示、企業の対応に格差",
-        "うるう秒、2027年5月に廃止——国際度量衡総会が決議、通信・ITシステムの障害防止へ",
-        "緊急地震速報が誤発報——「М9.9・震度7」発表後わずか8分で取り消し、気象庁が謝罪",
-        "阪急電鉄、車内つり広告を2027年4月までに全廃——スマートフォン普及で情報の受け取り方が変化",
-        "テスラ、次世代「Roadster」を正式発表——SpaceX技術搭載の限定モデルも、日本でも予約受付",
-        "Snowflake Cortex AIで議事録を自動分類——「止まっている案件はどれ？」にSQLで答える仕組みの作り方",
-        "国産LLM「sarashina3-mini」の日本語推敲実験——どのような修正を加え、効果はどうだったか",
-        "AWS Lambda Web Functions発表——Next.js・Hono・Expressをそのままデプロイ、ランタイム不要で動作",
-        "RuneScape Bench: Using MMOs as Agent Evaluation Environments",
-        "Mercury 3: Inception Labs Scales Diffusion Language Models to SOTA Territory",
-        "GitHub Open Source License Compliance Is Now Generally Available for Enterprise"
-      ]
-    },
-    {
-      "run_at": "2026-10-20T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026101900945&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101900911&g=flash&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599401",
-        "https://news.yahoo.co.jp/pickup/6599408",
-        "https://news.yahoo.co.jp/pickup/6599368",
-        "https://zenn.dev/haru_iida/articles/ai-coding-harness-self-improvement",
-        "https://zenn.dev/moimoi/articles/ai-implementer-observer-triangle",
-        "https://www.publickey1.jp/blog/26/fdeai7fde.html",
-        "https://mistral.ai/news/timestral/",
-        "https://crystl.dev/guides/tmux-for-ai-agents/",
-        "https://lwn.net/Articles/1101143/"
-      ],
-      "titles": [
-        "北朝鮮、韓国に対抗措置検討——金与正氏が攻撃手段配備と拡声器放送再開を示唆",
-        "フランス首相、一部都市に夜間外出禁止令——デモ暴徒化を受け治安強化措置",
-        "ユニクロが11月に11商品を値上げ——原材料費高騰と円安が直撃",
-        "ALS原因タンパク質の除去に新経路発見——名古屋大学グループが治療研究を前進",
-        "JAL機内で小動物を発見——見つからず欠航、福岡発鹿児島行き便に影響",
-        "AIコーディング用ハーネスをAI自身に改善させる——Spec Kitフックとエージェント自律運用の実践報告",
-        "AIに作業させ、別のAIに監視させる「三角フォーメーション」——実装と観察を分離する開発ワークフロー",
-        "ガートナー予測：FDE型エージェントAIの70%が2028年までに廃棄——「FDE洗浄」リスクも警告",
-        "Mistral Releases Timestral: Time-Series Foundation Models That Run Without a GPU",
-        "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling of Terminal Orchestration",
-        "Linux 7.3 Released: Record 18,765 Commits, sched_ext Complete, New fchroot() Syscall"
       ]
     }
   ]

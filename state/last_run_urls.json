@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-22T00:00:00+09:00",
+  "last_run_at": "2026-10-22T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-22T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102100932&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6599633?source=rss",
+        "https://news.yahoo.co.jp/pickup/6599628?source=rss",
+        "https://www.jiji.com/jc/article?k=2026102100628&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002458/",
+        "https://zenn.dev/aws_japan/articles/bedrock-guardrails-japanese-tier",
+        "https://zenn.dev/turquoise123/articles/df481032f6b405",
+        "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
+        "https://claude.com/product/claude-duet",
+        "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+        "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust"
+      ],
+      "titles": [
+        "プーチン大統領、収監中の米国人を釈放——特使との会談で実現、次期首脳会談に意欲",
+        "自民党、衆院定数削減幅を「31」で調整——選挙制度改革めぐる与野党協議が本格化",
+        "MMX火星衛星探査機、機能正常を確認——打ち上げ成功でJAXAが最初の軌道投入完了を発表",
+        "武部農水相、寄付返金と収支報告書訂正——公職選挙法違反疑惑を受けて対応",
+        "大丸松坂屋、接客データ×AIの新マーケティングサービス開始——購買行動を科学的に解析",
+        "Amazon Bedrock Guardrailsの日本語対応を実検証——Tier指定なしで0.4%しかブロックできない問題を解決する設定術",
+        "AIエージェント型ペネトレーションテストツール「Strix」実証——マルチエージェント構成で脆弱性6件を自動検出",
+        "Cloudflare、TypeScriptをRustに移植した「tsrs」発表——TypeScript 7より70%少ないメモリで8倍高速",
+        "Anthropic Launches Claude Duet — A Proactive Agentic AI Powered by Opus 5.5 for Autonomous Daily Tasks",
+        "Compromised LiteLLM 1.107.0 on PyPI Ships Credential Stealer and Persistent Backdoor",
+        "Physicist Christopher Stubbs Joins Anthropic's Long-Term Benefit Trust"
+      ]
+    },
     {
       "run_at": "2026-10-22T00:00:00+09:00",
       "urls": [

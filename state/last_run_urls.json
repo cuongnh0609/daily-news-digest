@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-21T10:00:00+09:00",
+  "last_run_at": "2026-10-21T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-21T15:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002456/",
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002449/",
+        "https://news.yahoo.co.jp/pickup/6599573?source=rss",
+        "https://news.yahoo.co.jp/pickup/6599582?source=rss",
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002421/",
+        "https://zenn.dev/aws_japan/articles/corvus-synced-context-coding-agents",
+        "https://zenn.dev/sun_asterisk/articles/claude-mod-is-not-just-hooks-anymore",
+        "https://zenn.dev/runcrate/articles/c9a383739c3856",
+        "https://openai.com/index/low-resource-programming-languages/",
+        "https://www.anthropic.com/news/singapore-office-opening",
+        "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview"
+      ],
+      "titles": [
+        "「カーセンサー」などに不正アクセス、最大371万件の個人情報漏えいか　問い合わせ客の氏名・住所など",
+        "フジテレビに不正アクセス、メディア関係者の個人情報最大730件漏えいか　番組宣伝システムが被害",
+        "八潮陥没 遺族が賠償求め県を提訴",
+        "電気ガス料金 1～3月分の補助検討",
+        "AIに200万円渡してネットショップを1年運営させてみた──Alibabaの研究者らがシミュレーション　資産14倍の例も",
+        "コーディングエージェントが同じファイルを何度も読む理由——CORVUS論文が示すコンテキスト同期の革新",
+        "Claude Modはもはやhooksではない——プラグインとして振る舞い・UIを変える新しいエージェント拡張の設計",
+        "Claude CodeからGPUを借りてトレーニングジョブを実行——Runcrate MCPサーバーで実現するAIエージェント×クラウドGPU連携",
+        "OpenAI Achieves 97.9% Accuracy on COBOL Migration — Advanced Coding for Low-Resource Languages",
+        "Anthropic Opens Singapore Office and Signs MOU with Singapore Government — ASEAN AI Safety Cooperation Deepens",
+        "GitHub Package Firewall Now in Public Preview — Blocks Malicious and Suspicious npm/PyPI Packages Before They Reach Your Code"
+      ]
+    },
     {
       "run_at": "2026-10-21T10:00:00+09:00",
       "urls": [
@@ -134,7 +163,7 @@
       ],
       "titles": [
         "台風「チャンピー」、23〜24日頃に先島諸島へ接近か——早めの備えを呼びかけ",
-        "消費税の食料品軽減法案、衆議院で審議入り——2027年4月から1%引き下げ目指す",
+        "消費税減税の財源、審議入りしても踏み込まぬ首相　日程優先、押し切りも視野",
         "大阪地裁近くで男性が刃物で刺され重傷——「金銭トラブル」で容疑者逮捕",
         "日本郵政「ゆうID」に不正ログイン——リスト型攻撃で他社流出パスワードを悪用",
         "中国当局、大和証券とみずほFGの証券事業を正式許可——対日経済関与を継続",

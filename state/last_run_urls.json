@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-21T05:00:00+09:00",
+  "last_run_at": "2026-10-21T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-21T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102000991&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102100226&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102100219&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002441/",
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002444/",
+        "https://www.itmedia.co.jp/news/article/2610/20/2000002432/",
+        "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
+        "https://www.itmedia.co.jp/news/article/2610/20/2000002423/",
+        "https://mistral.ai/news/voxtral-3/",
+        "https://github.com/google-pytorch/torch_tpu",
+        "https://www.latent.space/p/sfcompute2"
+      ],
+      "titles": [
+        "消費税の食料品軽減税率法案、衆院で審議入り——財源・給付設計でなお「参考」「未定」が並ぶ",
+        "日本男子体操、団体総合で世界連覇——ロス五輪の切符も獲得",
+        "クアッド首脳会合、来月マニラで開催へ——トランプ政権下で初の対面",
+        "マスクCEO、SpaceXとテスラの経営統合を特別委員会で議論中と表明",
+        "eMudhra認証局の中間証明書に秘密鍵の致命的脆弱性——大手CAが緊急失効処理",
+        "LINEマンガ、キャラクターAIチャット「byUs」正式公開——作者同意を得た作品のみで展開",
+        "AnthropicのBun v1.4.3、TypeScript 7より3倍以上高速な型チェッカーを搭載",
+        "日本企業を狙う自律型AI侵入テストツール「ARTEX」の悪用実態——GMOイエラエが調査報告",
+        "Voxtral 3: Mistral Releases Full Voice Agent SDK with Real-Time Pipeline and SIP/WebRTC Support",
+        "Google Open-Sources TorchTPU: Native PyTorch Backend for TPUs via Apache 2.0",
+        "SF Compute: The Programmable Data Center — Why AI Compute Needs Physical Settlement and Multi-Attribute Order Books"
+      ]
+    },
     {
       "run_at": "2026-10-21T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Mistral Releases Timestral: Time-Series Foundation Models That Run Without a GPU",
         "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling of Terminal Orchestration",
         "Linux 7.3 Released: Record 18,765 Commits, sched_ext Complete, New fchroot() Syscall"
-      ]
-    },
-    {
-      "run_at": "2026-10-19T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026101900575&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101900650&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101900782&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026101900777&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/19/2000002379/",
-        "https://zenn.dev/aiforall/articles/8e1803396534de",
-        "https://www.itmedia.co.jp/enterprise/articles/2610/19/news068.html",
-        "https://zenn.dev/takyshu98/articles/915702cf8c84f3",
-        "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-        "https://github.com/finereli/whatsapp-mcp",
-        "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"
-      ],
-      "titles": [
-        "埼玉県警個人情報流出か　１．３万人分、委託先の不正アクセスで",
-        "佐藤輝明の米大リーグ挑戦容認　ポスティング申請へ―プロ野球・阪神",
-        "フィリピン外相、中国大使呼び出し抗議　「武力で勝てる」発言受け",
-        "高市首相「一時寄港認めず」　非核三原則の解釈",
-        "スクエニアカウントに不正ログイン、他社で流出の情報使用か　全アカウントのパスワード強制リセットも視野に",
-        "ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた",
-        "AIエージェントの業務管理、答えは「プロジェクト管理」にある？　NTTテクノクロスの「AI-PMO」構想を基に考察",
-        "個人で使うClaude Codeの権限設定についてざっくり見直してみた",
-        "DeepSeek V4.1 Flash 1017 (Max)",
-        "Show HN: WhatsApp MCP running free on Cloudflare",
-        "llm-tools-datasette 0.1.1"
       ]
     }
   ]

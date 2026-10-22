@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-22T20:00:00+09:00",
+  "last_run_at": "2026-10-23T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-23T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6599749?source=rss",
+        "https://news.yahoo.co.jp/pickup/6599748?source=rss",
+        "https://news.yahoo.co.jp/pickup/6599746?source=rss",
+        "https://news.yahoo.co.jp/pickup/6599745?source=rss",
+        "https://www.itmedia.co.jp/news/article/2610/20/2000002426/",
+        "https://zenn.dev/edy0327/articles/0904af94c91943",
+        "https://zenn.dev/aicontentsbank/articles/issue-to-pr-harness-claude-code",
+        "https://zenn.dev/mskbhd/articles/lab-1124-mcp",
+        "https://platform.claude.com/docs/en/api/migration-2026-10-21",
+        "https://simedw.com/2026/10/21/world-model-terminal/",
+        "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html"
+      ],
+      "titles": [
+        "モンゴル自然保護区の火災、KDDI子会社の日本人幹部が謝罪——東京都2個分の面積焼失",
+        "世界初の核廃棄物最終処分場、フィンランドが操業許可——地下430mに10万年保管",
+        "三菱自動車とホンダが提携合意——ピックアップトラック「トライトン」をASEAN向けにOEM供給",
+        "訪日外客向け免税制度を11月刷新——「転売ヤー」対策で事後還付方式へ移行",
+        "防災メール企業「アルカディア」、不正アクセス105時間の攻防を分単位で公開",
+        "Claude Codeの「キックオフ・テンプレート」を作った話 — INTENT.mdから始めるspec-drivenな開発",
+        "Issueを投げたら、PRが立つ。Claude Codeに開発を一周させる「ハーネス」の作り方",
+        "MCPゲートウェイのツール単位認可は効くか——agentgatewayで削除操作を通した3つの穴",
+        "Anthropic API Version 2026-10-21: New SDK Majors Drop temperature, top_p, top_k from Messages",
+        "WorldTUI: A 360M-Parameter Model That Pretends to Be a Real Terminal",
+        "Using LLM Self-Reported Confidence Scores Is a Bad Idea — Here's What to Build Instead"
+      ]
+    },
     {
       "run_at": "2026-10-22T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Uses Claude to Reduce Code Attack Surfaces — 493 Issues Found Across 5M Lines in 25 OSS Projects",
         "llm-tools-datasette 0.1.1: Simon Willison's LLM Ecosystem Expands with Datasette Tool Integration",
         "GitHub Secret Scanning Gets Revocation for Encoded Tokens and Audit Log Slug Migration"
-      ]
-    },
-    {
-      "run_at": "2026-10-21T15:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/21/2000002456/",
-        "https://www.itmedia.co.jp/news/article/2610/21/2000002449/",
-        "https://news.yahoo.co.jp/pickup/6599573?source=rss",
-        "https://news.yahoo.co.jp/pickup/6599582?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/21/2000002421/",
-        "https://zenn.dev/aws_japan/articles/corvus-synced-context-coding-agents",
-        "https://zenn.dev/sun_asterisk/articles/claude-mod-is-not-just-hooks-anymore",
-        "https://zenn.dev/runcrate/articles/c9a383739c3856",
-        "https://openai.com/index/low-resource-programming-languages/",
-        "https://www.anthropic.com/news/singapore-office-opening",
-        "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview"
-      ],
-      "titles": [
-        "「カーセンサー」などに不正アクセス、最大371万件の個人情報漏えいか　問い合わせ客の氏名・住所など",
-        "フジテレビに不正アクセス、メディア関係者の個人情報最大730件漏えいか　番組宣伝システムが被害",
-        "八潮陥没 遺族が賠償求め県を提訴",
-        "電気ガス料金 1～3月分の補助検討",
-        "AIに200万円渡してネットショップを1年運営させてみた──Alibabaの研究者らがシミュレーション　資産14倍の例も",
-        "コーディングエージェントが同じファイルを何度も読む理由——CORVUS論文が示すコンテキスト同期の革新",
-        "Claude Modはもはやhooksではない——プラグインとして振る舞い・UIを変える新しいエージェント拡張の設計",
-        "Claude CodeからGPUを借りてトレーニングジョブを実行——Runcrate MCPサーバーで実現するAIエージェント×クラウドGPU連携",
-        "OpenAI Achieves 97.9% Accuracy on COBOL Migration — Advanced Coding for Low-Resource Languages",
-        "Anthropic Opens Singapore Office and Signs MOU with Singapore Government — ASEAN AI Safety Cooperation Deepens",
-        "GitHub Package Firewall Now in Public Preview — Blocks Malicious and Suspicious npm/PyPI Packages Before They Reach Your Code"
       ]
     }
   ]

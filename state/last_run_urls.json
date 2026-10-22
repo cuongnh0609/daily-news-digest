@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-23T00:00:00+09:00",
+  "last_run_at": "2026-10-23T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-23T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102201110&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102200874&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/22/2000002510/",
+        "https://www.jiji.com/jc/article?k=2026102200858&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/22/2000002488/",
+        "https://zenn.dev/edash_tech_blog/articles/5b90aa33bd8d49",
+        "https://zenn.dev/shogo/articles/f847c35ea8dccb",
+        "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html",
+        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+        "https://github.com/NVIDIA/OpenShell",
+        "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
+      ],
+      "titles": [
+        "コンテンツ産業支援で新法人設立検討、2027年設立へ政府が検討会",
+        "「士業」AI活用でルール整備、政府がデジタル改革原則策定へ",
+        "手のひらサイズの宇宙AIデータセンター、JAXA後押しの国内新興が実現目指す",
+        "元ソフトバンク選手に懲役16年、女性10人に不同意わいせつ致傷など横浜地裁が判決",
+        "Tesla決算、営業益56%減、FSD契約67%増の174万件",
+        "Claude CodeでCI待ち時間18分→4分台に短縮、Vitest分割・DBキャッシュ・node_modulesキャッシュの三段構え",
+        "KMPデスクトップはAIエージェントに12倍速い、Compose MCP経由のUI操作vsAndroidのUIAutomator比較",
+        "Cloudflare OSのマネージドサービス提供へ、GitHub連携やGmail統合など",
+        "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation Under Linux Foundation",
+        "NVIDIA Open-Sources OpenShell: Kernel-Level Sandboxed Runtime for Fleets of Autonomous AI Agents",
+        "eMudhra Exits Global SSL/TLS Business After Intermediate CA Compromise"
+      ]
+    },
     {
       "run_at": "2026-10-23T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "LayerFS: The Filesystem Built for AI Coding Agents — Ephemeral Workspaces, Zero-Copy Forks, and 5ms Mounts",
         "Qwen3-Coder Writes 19% More Hackable Code for US Defense Clients — Hirundo Finds Political Alignment in the Weights",
         "Meta's Muse AI Exposes Users' Personal and Business Secrets Through Shared Conversation Links"
-      ]
-    },
-    {
-      "run_at": "2026-10-21T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6599614?source=rss",
-        "https://news.yahoo.co.jp/pickup/6599604?source=rss",
-        "https://news.yahoo.co.jp/pickup/6599608?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/21/2000002469/",
-        "https://www.itmedia.co.jp/news/article/2610/21/2000002462/",
-        "https://zenn.dev/canly/articles/9c19bb123e208c",
-        "https://zenn.dev/bcc/articles/7f97598ec4010c",
-        "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
-        "https://www.anthropic.com/research/attack-surface-reduction",
-        "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
-        "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning"
-      ],
-      "titles": [
-        "秋田県・子吉川が氾濫危機——レベル5「氾濫特別警報」発令",
-        "台風30号が猛烈発達——24日に九州で警報級大雨のおそれ",
-        "武部農林水産大臣に選挙運動員買収疑惑——カメラマンへ86万円か",
-        "au PAY、個人事業主46万人分の情報を無断掲載か——個人情報保護法抵触のおそれ",
-        "PHPに「緊急」脆弱性「php2shell」——多数サービスが緊急メンテナンスへ",
-        "AIエージェント「Devin」に調査を任せてわかった——「原因未特定」の正体と情報アクセス制約の壁",
-        "Pi Coding Agentで月額AIコストを8万円→3万円に——スキル&拡張公開で低コストagentic開発を実現",
-        "AIエージェント隔離環境「Microsoft Execution Containers」正式リリース——Windows 11上でエージェントを安全に実行",
-        "Anthropic Uses Claude to Reduce Code Attack Surfaces — 493 Issues Found Across 5M Lines in 25 OSS Projects",
-        "llm-tools-datasette 0.1.1: Simon Willison's LLM Ecosystem Expands with Datasette Tool Integration",
-        "GitHub Secret Scanning Gets Revocation for Encoded Tokens and Audit Log Slug Migration"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-22T10:00:00+09:00",
+  "last_run_at": "2026-10-22T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-22T15:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/22/2000002501/",
+        "https://www.itmedia.co.jp/news/article/2610/22/2000002500/",
+        "https://www.itmedia.co.jp/news/article/2610/22/2000002491/",
+        "https://www.itmedia.co.jp/news/article/2610/22/2000002489/",
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002439/",
+        "https://zenn.dev/yoshi47/articles/cmux-after-agent-ides",
+        "https://zenn.dev/edash_tech_blog/articles/3476d88801674d",
+        "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
+        "https://www.albertodenia.com/writing/code-is-clay-now",
+        "https://openai.com/index/openai-models-google-cloud/",
+        "https://www.latent.space/p/ainews-agents-disprove-polysemanticity"
+      ],
+      "titles": [
+        "「GitLab」に深刻度"最大"の脆弱性　認証なしで任意のコード実行の恐れ、修正版適用を　CVSS「10.0」",
+        "コミックシーモア、流出は最大約420万件に　メールアドレスや生年月日など　不正アクセスの経路特定・遮断は完了",
+        "大阪大、学生など7.8万人の情報漏えい　NECが無断で協力会社とデータ共有",
+        "Meta決算、売上高26％増も営業益37％減　AIエージェント「Muse」は1000万人超が利用開始",
+        "SpaceX、純利益44億ドルで黒字転換　売上高161％増、AIから改称の「SI」事業が830％増",
+        "エージェント用IDEを3つ試して、今さらcmuxを使い始めた",
+        "Claude Codeを「AIニュース係」にしたら、毎朝0円でSlackに届くようになった",
+        "バイブコーディングを6週間続けたら、Macの起動が20分かかるようになった",
+        "Code is Clay Now — How AI Coding Agents Demand a New Engineering Mindset: Artisan vs. Factory",
+        "OpenAI Models Are Now Available on Google Cloud — o3, GPT-5.6 Sol, and Embeddings Via Vertex AI",
+        "Perplexity Open-Sources SPACE: A Firecracker-Based Agent Sandbox with Zero Escape in 108 Attempts"
+      ]
+    },
     {
       "run_at": "2026-10-22T10:00:00+09:00",
       "urls": [

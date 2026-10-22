@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-22T15:00:00+09:00",
+  "last_run_at": "2026-10-22T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-22T20:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/22/2000002523/",
+        "https://www.jiji.com/jc/article?k=2026102200782&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102200824&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102200837&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6599718?source=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002490/",
+        "https://zenn.dev/explaza/articles/c749042ecbe232",
+        "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002521/",
+        "https://www.anthropic.com/news/distillation-defenses",
+        "https://github.com/openai/openai-cli",
+        "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026"
+      ],
+      "titles": [
+        "カプコン、不正アクセスで1177万件の個人情報が流出",
+        "PHP脆弱性対応で中央省庁のサイトも一時停止——政府が緊急対応を指示",
+        "プロ野球ドラフト——巨人が横浜・織田投手を1位で強行指名",
+        "自民「31議席削減」提示　衆院議員定数巡り妥協案",
+        "台風30号 非常に強い勢力で沖縄へ",
+        "Anthropic版常時稼働エージェント「Claude Duet」発表　Opus 5.5ベース",
+        "仕組みを理解する動画をClaude Codeに作らせると便利すぎる",
+        "「長い目で見れば防御側が有利」AIの活用法、本命は　Webセキュリティ専門家に聞く",
+        "Anthropic Strengthening Defenses Against Industrial-Scale Model Distillation Attacks",
+        "OpenAI CLI — Official Command-Line Interface for the OpenAI REST API",
+        "GitHub Copilot Models Deprecated on October 19, 2026"
+      ]
+    },
     {
       "run_at": "2026-10-22T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "OpenAI Achieves 97.9% Accuracy on COBOL Migration — Advanced Coding for Low-Resource Languages",
         "Anthropic Opens Singapore Office and Signs MOU with Singapore Government — ASEAN AI Safety Cooperation Deepens",
         "GitHub Package Firewall Now in Public Preview — Blocks Malicious and Suspicious npm/PyPI Packages Before They Reach Your Code"
-      ]
-    },
-    {
-      "run_at": "2026-10-21T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102000991&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102100226&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102100219&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/21/2000002441/",
-        "https://www.itmedia.co.jp/news/article/2610/21/2000002444/",
-        "https://www.itmedia.co.jp/news/article/2610/20/2000002432/",
-        "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
-        "https://www.itmedia.co.jp/news/article/2610/20/2000002423/",
-        "https://mistral.ai/news/voxtral-3/",
-        "https://github.com/google-pytorch/torch_tpu",
-        "https://www.latent.space/p/sfcompute2"
-      ],
-      "titles": [
-        "消費税の食料品軽減税率法案、衆院で審議入り——財源・給付設計でなお「参考」「未定」が並ぶ",
-        "日本男子体操、団体総合で世界連覇——ロス五輪の切符も獲得",
-        "クアッド首脳会合、来月マニラで開催へ——トランプ政権下で初の対面",
-        "マスクCEO、SpaceXとテスラの経営統合を特別委員会で議論中と表明",
-        "eMudhra認証局の中間証明書に秘密鍵の致命的脆弱性——大手CAが緊急失効処理",
-        "LINEマンガ、キャラクターAIチャット「byUs」正式公開——作者同意を得た作品のみで展開",
-        "AnthropicのBun v1.4.3、TypeScript 7より3倍以上高速な型チェッカーを搭載",
-        "日本企業を狙う自律型AI侵入テストツール「ARTEX」の悪用実態——GMOイエラエが調査報告",
-        "Voxtral 3: Mistral Releases Full Voice Agent SDK with Real-Time Pipeline and SIP/WebRTC Support",
-        "Google Open-Sources TorchTPU: Native PyTorch Backend for TPUs via Apache 2.0",
-        "SF Compute: The Programmable Data Center — Why AI Compute Needs Physical Settlement and Multi-Attribute Order Books"
-      ]
-    },
-    {
-      "run_at": "2026-10-21T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102001016&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102000674&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102001157&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599523?source=rss",
-        "https://news.yahoo.co.jp/pickup/6599527?source=rss",
-        "https://zenn.dev/ojisan_ai_lab/articles/claude-code-idle-compaction-20261019",
-        "https://zenn.dev/flinters_blog/articles/3b377ce568d676",
-        "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
-        "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-        "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-        "https://www.anthropic.com/news/public-benefit-fund"
-      ],
-      "titles": [
-        "兵庫県知事会見の発言めぐり名誉毀損容疑——作家ら書類送検",
-        "米中間選挙、多数派判明に時間か——郵便投票「不正」で開票混乱の恐れ",
-        "英国の金融サービスで障害発生——グーグルクラウドの問題が影響か",
-        "岩井コスモ証券にサイバー攻撃——顧客情報流出の恐れ、調査中",
-        "高市政権1年——高支持率維持の背景と課題",
-        "Claude Codeのアイドル圧縮を55分放置で観測——272,422トークンが13,522に",
-        "REAでAIにリバースエンジニアリングさせる——MCPサーバーと「証拠付きで進める」考え方",
-        "Anthropic社内、AIエージェント稼働時間が人間の6倍に——初級技術職採用比率は27%から9%へ激減",
-        "Anthropic Rebuilt Source Control From Scratch — Scion Handles 30,000 Merges/Day as AI Agents Dominate Commits",
-        "SlopCodeBench Oct/2026: Opus 5.5 vs. Astra on Real-World Agent Coding — xhigh Considered Harmful",
-        "Anthropic Commits 5% of Shares to New Public Benefit Fund, Pledging More as Company Value Grows"
-      ]
-    },
-    {
-      "run_at": "2026-10-21T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102001094&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102001054&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102000692&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599518?source=rss",
-        "https://news.yahoo.co.jp/pickup/6599528?source=rss",
-        "https://zenn.dev/gzer0/articles/real-play-save-fixtures-for-ai-tests",
-        "https://zenn.dev/edash_tech_blog/articles/5b90aa33bd8d49",
-        "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html",
-        "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
-        "https://blog.cloudflare.com/typescript-rust-port/",
-        "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
-      ],
-      "titles": [
-        "西大寺会陽の「裸祭り」宝木争奪戦、来年の中止決定——死亡事故受け安全対策再構築へ",
-        "自民党、サイバー攻撃急増受け首相官邸直属の「対処本部」設置を政府に提言へ",
-        "文科省、東大学長選考に「明確な説明なく遺憾」——異例の検証要請",
-        "台風30号、来週にも本州付近に接近のおそれ——気象当局が早めの備えを呼びかけ",
-        "武部農林水産相、後援会への企業献金めぐる公職選挙法違反の疑い浮上",
-        "テストの前提を「実際に遊んで撮ったセーブ」に替えたら、撮影ボットがソフトロックを見つけた",
-        "Claude CodeでCI待ち時間を18分から4分台に短縮——GitHub Actionsの4つの最適化手法",
-        "Cloudflare OS、マネージドサービスを提供開始——GitHub連携・Gmail統合でAIエージェントが業務基盤に",
-        "AINews: Agents and New Evidence Against Neural Network Polysemanticity",
-        "Cloudflare Releases tsrs: An AI-Assisted Rust Port of the TypeScript Compiler",
-        "WhatsApp Embedded Hidden Instructions Telling AI Not to Recommend Data Regulators"
       ]
     }
   ]

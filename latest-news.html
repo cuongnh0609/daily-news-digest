@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>デイリーダイジェスト - 2026-10-22 15:00 JST</title>
+<title>デイリーダイジェスト - 2026-10-22 20:00 JST</title>
 <style>
   :root,
   [data-theme="light"] {
@@ -129,6 +129,7 @@
     font-size: 0.95rem;
     font-family: system-ui, sans-serif;
   }
+
   nav.toc {
     display: flex;
     gap: 1rem;
@@ -148,6 +149,7 @@
     transition: all 0.2s;
   }
   nav.toc a:hover { background: var(--accent-soft-jp); color: var(--accent-jp); }
+
   section.digest-section { margin-bottom: 3rem; }
   .section-title {
     font-size: 1.5rem;
@@ -172,6 +174,7 @@
     color: var(--accent-global);
     border-left: 5px solid var(--accent-global);
   }
+
   article.news-card {
     background: var(--card);
     border: 1px solid var(--border);
@@ -205,13 +208,20 @@
   #japan-news .news-no { background: var(--accent-jp); color: white; }
   #japan-tech .news-no { background: var(--accent-tech-jp); color: white; }
   #global-tech .news-no { background: var(--accent-global); color: white; }
+
   .card-body {
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
-  .col { padding: 1.25rem 1.5rem; }
-  .col-left { border-right: 1px solid var(--divider); }
-  .col-right { background: var(--card-alt); }
+  .col {
+    padding: 1.25rem 1.5rem;
+  }
+  .col-left {
+    border-right: 1px solid var(--divider);
+  }
+  .col-right {
+    background: var(--card-alt);
+  }
   .col-label {
     font-size: 0.7rem;
     text-transform: uppercase;
@@ -221,6 +231,7 @@
     margin-bottom: 0.6rem;
     font-weight: 600;
   }
+
   .content-text {
     font-size: 1rem;
     line-height: 1.85;
@@ -233,6 +244,7 @@
   .content-text.lang-ja {
     font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
   }
+
   .translation-vi {
     font-family: "Noto Sans", system-ui, sans-serif;
     font-size: 0.95rem;
@@ -244,7 +256,11 @@
     border-radius: 2px;
     color: var(--vi-ink);
   }
-  .translation-vi::before { content: "🇻🇳 "; font-weight: bold; }
+  .translation-vi::before {
+    content: "🇻🇳 ";
+    font-weight: bold;
+  }
+
   .impact-row {
     display: flex;
     align-items: center;
@@ -266,6 +282,7 @@
   .impact-badge.medium { background: var(--impact-med); }
   .impact-badge.low { background: var(--impact-low); }
   .impact-text { color: var(--sub); }
+
   .impact-note {
     font-family: system-ui, sans-serif;
     font-size: 0.88rem;
@@ -277,6 +294,7 @@
     margin: 0.6rem 0 1rem;
   }
   .impact-note::before { content: "💡 "; }
+
   .edu-block {
     margin-top: 1rem;
     font-family: system-ui, "Noto Sans", sans-serif;
@@ -323,6 +341,7 @@
   td.term-en { font-family: "SF Mono", Monaco, monospace; font-size: 0.9rem; font-weight: 600; color: var(--accent-global); white-space: nowrap; }
   td.term-pron { font-size: 0.8rem; color: var(--sub); font-style: italic; white-space: nowrap; }
   td.term-explain { font-size: 0.85rem; line-height: 1.6; }
+
   .grammar-item { margin-bottom: 0.7rem; font-size: 0.9rem; }
   .grammar-item strong {
     color: var(--grammar);
@@ -339,6 +358,7 @@
   }
   .example .jp { font-family: "Hiragino Mincho ProN", serif; display: block; }
   .example .vi { color: var(--vi); font-size: 0.82rem; display: block; margin-top: 3px; }
+
   .source {
     font-size: 0.78rem;
     color: var(--sub);
@@ -349,6 +369,7 @@
   }
   .source a { color: var(--vi); text-decoration: none; }
   .source a:hover { text-decoration: underline; }
+
   code {
     background: var(--code-bg);
     padding: 1px 6px;
@@ -356,6 +377,7 @@
     font-size: 0.88em;
     font-family: "SF Mono", Monaco, "Courier New", monospace;
   }
+
   .theme-toggle {
     position: fixed;
     top: 1rem;
@@ -384,6 +406,7 @@
   .theme-toggle button:hover { color: var(--ink); }
   .theme-toggle button.active { background: var(--accent-jp); color: white; }
   .theme-toggle button.active:hover { color: white; }
+
   .prev-digests {
     margin-top: 3.5rem;
     padding: 1.2rem 1.4rem;
@@ -431,6 +454,7 @@
     padding-top: 1.5rem;
     border-top: 1px solid var(--border);
   }
+
   @media (max-width: 1000px) {
     body { padding: 1rem 0.9rem 3rem; max-width: 100%; }
     header.page-head h1 { font-size: 1.4rem; }
@@ -461,7 +485,7 @@
 
 <header class="page-head">
   <h1>🗞️ デイリーダイジェスト</h1>
-  <div class="meta">2026-10-22（木）15:00 JST — JLPT N2+ 学習者 · SE/Cloud Engineer 向け</div>
+  <div class="meta">2026-10-22（木）20:00 JST — JLPT N2+ 学習者 · SE/Cloud Engineer 向け</div>
 </header>
 
 <nav class="toc">
@@ -470,29 +494,111 @@
   <a href="#global-tech">🌐 Global Tech (3)</a>
 </nav>
 
-<!-- =========================================================
-     SECTION A: JAPAN NEWS — 5 articles
-     ========================================================= -->
+<!-- ===== SECTION A: JAPAN NEWS ===== -->
 <section id="japan-news" class="digest-section">
   <h2 class="section-title">🗾 日本ニュース</h2>
 
-  <!-- A-1: GitLab CVSS 10.0 -->
+  <!-- A-1: Capcom breach -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">A1</span>「GitLab」に深刻度"最大"の脆弱性——CVSS「10.0」、認証なしで任意コード実行のおそれ</h3>
+      <h3><span class="news-no">A1</span>カプコン、不正アクセスで1177万件の個人情報が流出</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 本文 + 和越対訳</div>
         <p class="content-text lang-ja">
-          オープンソースのDevOpsプラットフォーム「GitLab」において、共通脆弱性評価システム（CVSS）スコアが最高値の「10.0」に達する深刻な脆弱性が発見された。この脆弱性を悪用されると、認証を行わない第三者が対象サーバー上で任意のコードをリモートから実行できる可能性がある。GitLab社は既に修正版のリリースを発表しており、影響を受けるバージョンを使用している組織や個人に対して、直ちに最新バージョンへのアップデートを強く求めている。CVSSスコア10.0は「緊急」レベルに相当し、実際に悪用されれば機密データの流出やシステム全体の掌握につながるリスクがある。エンタープライズ向けのGitLab製品を含む複数のバージョンが対象となっており、世界中の開発組織が早急な対応を迫られている。セキュリティ専門家は「認証バイパス＋リモートコード実行の組み合わせは最悪のシナリオ」と警告している。
+          ゲーム大手のカプコンは22日、同社のサーバーへの不正アクセスにより、最大1177万件の個人情報が外部に流出した可能性があると発表した。流出したとみられる情報には、顧客の氏名・メールアドレス・生年月日・居住国などが含まれる。同社は「攻撃者が高度な手法を用いて社内ネットワークに侵入し、段階的に権限を拡大した」と説明しており、現時点でバックドアは完全に排除されたとしている。カプコンは2020年にも大規模なランサムウェア攻撃を受けた前歴があり、今回の事案は日本のゲーム業界に再び衝撃を与えた。同社は影響を受けた可能性のある利用者へ個別に通知を行う予定であり、詳細な調査結果は改めて公表するとしている。セキュリティ専門家は、大企業を標的とした組織的なサイバー攻撃が増加傾向にあると指摘しており、適切な多層防御と定期的な監査の重要性を改めて強調した。
         </p>
         <div class="translation-vi">
-          Nền tảng DevOps mã nguồn mở GitLab vừa phát hiện một lỗ hổng bảo mật nghiêm trọng với điểm CVSS đạt mức tối đa là 10.0. Lỗ hổng này cho phép kẻ tấn công chưa được xác thực thực thi mã tùy ý từ xa trên máy chủ mục tiêu. GitLab đã phát hành phiên bản vá và kêu gọi tất cả tổ chức, cá nhân đang dùng phiên bản bị ảnh hưởng cần cập nhật ngay lập tức. Điểm CVSS 10.0 tương ứng với mức "Nghiêm trọng" (Critical), nếu bị khai thác có thể dẫn đến rò rỉ dữ liệu bí mật hoặc chiếm quyền kiểm soát toàn bộ hệ thống. Nhiều phiên bản GitLab bao gồm cả bản Enterprise đều bị ảnh hưởng, buộc các tổ chức phát triển toàn cầu phải hành động khẩn cấp. Chuyên gia bảo mật cảnh báo "kết hợp bypass xác thực và remote code execution là kịch bản tệ nhất có thể xảy ra."
+          Tập đoàn game lớn Capcom thông báo rằng tối đa 11,77 triệu bản ghi thông tin cá nhân có thể đã bị lộ do tin tặc xâm nhập trái phép vào máy chủ của họ. Dữ liệu bị rò rỉ bao gồm tên, địa chỉ email, ngày sinh và quốc gia cư trú của khách hàng. Công ty cho biết kẻ tấn công đã sử dụng kỹ thuật tinh vi để thâm nhập vào mạng nội bộ và từng bước nâng cao đặc quyền. Capcom khẳng định backdoor đã được loại bỏ hoàn toàn vào thời điểm hiện tại. Đây là lần thứ hai công ty gặp phải sự cố an ninh mạng nghiêm trọng sau vụ tấn công ransomware năm 2020, khiến ngành game Nhật Bản lại một lần nữa rúng động. Công ty dự kiến sẽ thông báo riêng đến từng người dùng bị ảnh hưởng.
         </div>
         <div class="source">
-          出典: ITmedia NEWS · 2026-10-22 12:30 JST ·
-          <a href="https://www.itmedia.co.jp/news/article/2610/22/2000002501/" target="_blank">原文を読む →</a>
+          出典: Yahoo!ニュース / ITmedia · 2026-10-22 17:24 JST ·
+          <a href="https://www.itmedia.co.jp/news/article/2610/22/2000002523/" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">不正アクセス</td>
+              <td class="reading">ふせいアクセス</td>
+              <td class="hanviet">bất chính</td>
+              <td class="meaning">truy cập trái phép (unauthorized access)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">流出</td>
+              <td class="reading">りゅうしゅつ</td>
+              <td class="hanviet">lưu xuất</td>
+              <td class="meaning">rò rỉ, thất thoát (dữ liệu)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">侵入</td>
+              <td class="reading">しんにゅう</td>
+              <td class="hanviet">xâm nhập</td>
+              <td class="meaning">xâm nhập, đột nhập</td>
+            </tr>
+            <tr>
+              <td class="jp-word">権限</td>
+              <td class="reading">けんげん</td>
+              <td class="hanviet">quyền hạn</td>
+              <td class="meaning">đặc quyền, quyền hạn (permission/privilege)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">排除</td>
+              <td class="reading">はいじょ</td>
+              <td class="hanviet">bài trừ</td>
+              <td class="meaning">loại bỏ, xóa sạch</td>
+            </tr>
+            <tr>
+              <td class="jp-word">多層防御</td>
+              <td class="reading">たそうぼうぎょ</td>
+              <td class="hanviet">đa tầng phòng ngự</td>
+              <td class="meaning">phòng thủ nhiều lớp (defense in depth)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～とみられる</strong> — được cho là, có vẻ (phỏng đoán có căn cứ)
+            <div class="example">
+              <span class="jp">流出したとみられる情報には、氏名やメールアドレスが含まれる。</span>
+              <span class="vi">Dữ liệu được cho là đã rò rỉ bao gồm tên và địa chỉ email.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～前歴がある</strong> — có tiền sử, từng xảy ra trước đó
+            <div class="example">
+              <span class="jp">同社は2020年にも攻撃を受けた前歴がある。</span>
+              <span class="vi">Công ty này có tiền sử từng bị tấn công vào năm 2020.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A-2: PHP / Government sites down -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A2</span>PHP脆弱性対応で中央省庁のサイトも一時停止——政府が緊急対応を指示</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          プログラミング言語PHPに発見された深刻な脆弱性「php2shell」（CVE-2026-99900系）への対応として、22日には中央省庁が運営する複数のウェブサイトが一時的に停止する事態となった。マイナンバーカードの総合サイトを管理する地方公共団体情報システム機構（J-LIS）もサービスを一時停止した。高市総理大臣は「被害防止のため、サイトを一時的に停止することも重要な対応だ」と述べ、各省庁に迅速な対処を求めた。今回の脆弱性は世界のウェブサイトの約7割に影響するとされ、OpenAIのAIシステムが8月に発見したものがPHP財団に報告され、修正パッチが公開されるまでの間に悪用が広がったとされる。日本では既に数百万件規模の攻撃試行が確認されており、政府・企業ともに対応に追われている。
+        </p>
+        <div class="translation-vi">
+          Nhằm đối phó với lỗ hổng nghiêm trọng "php2shell" được phát hiện trong ngôn ngữ lập trình PHP, nhiều trang web của các bộ ngành trung ương Nhật Bản đã phải tạm ngừng hoạt động vào ngày 22. Cơ quan J-LIS quản lý trang web tổng hợp thẻ My Number cũng tạm dừng dịch vụ. Thủ tướng Takaichi phát biểu rằng việc tạm dừng website là biện pháp quan trọng để ngăn chặn thiệt hại. Lỗ hổng này được cho là ảnh hưởng đến khoảng 70% website trên toàn thế giới và đã bị khai thác trong hàng triệu lần tấn công. Tại Nhật Bản, cả chính phủ lẫn doanh nghiệp đang chạy đua để vá lỗ hổng này.
+        </div>
+        <div class="source">
+          出典: 時事通信 · 2026-10-22 18:44 JST ·
+          <a href="https://www.jiji.com/jc/article?k=2026102200782&g=pol&m=rss" target="_blank">原文を読む →</a>
         </div>
       </div>
       <div class="col col-right">
@@ -508,57 +614,51 @@
               <td class="meaning">lỗ hổng bảo mật (vulnerability)</td>
             </tr>
             <tr>
-              <td class="jp-word">認証</td>
-              <td class="reading">にんしょう</td>
-              <td class="hanviet">nhận chứng</td>
-              <td class="meaning">xác thực (authentication)</td>
+              <td class="jp-word">中央省庁</td>
+              <td class="reading">ちゅうおうしょうちょう</td>
+              <td class="hanviet">trung ương tỉnh sảnh</td>
+              <td class="meaning">các bộ ngành trung ương</td>
             </tr>
             <tr>
-              <td class="jp-word">任意</td>
-              <td class="reading">にんい</td>
-              <td class="hanviet">nhậm ý</td>
-              <td class="meaning">tùy ý, bất kỳ (arbitrary)</td>
-            </tr>
-            <tr>
-              <td class="jp-word">深刻</td>
-              <td class="reading">しんこく</td>
-              <td class="hanviet">thâm khắc</td>
-              <td class="meaning">nghiêm trọng, trầm trọng</td>
+              <td class="jp-word">一時停止</td>
+              <td class="reading">いちじていし</td>
+              <td class="hanviet">nhất thời đình chỉ</td>
+              <td class="meaning">tạm dừng hoạt động</td>
             </tr>
             <tr>
               <td class="jp-word">悪用</td>
               <td class="reading">あくよう</td>
               <td class="hanviet">ác dụng</td>
-              <td class="meaning">lợi dụng xấu, khai thác bất chính</td>
+              <td class="meaning">lợi dụng vào mục đích xấu, khai thác lỗ hổng</td>
             </tr>
             <tr>
-              <td class="jp-word">修正版</td>
-              <td class="reading">しゅうせいばん</td>
-              <td class="hanviet">tu chính bản</td>
-              <td class="meaning">phiên bản đã vá lỗi (patch release)</td>
+              <td class="jp-word">修正パッチ</td>
+              <td class="reading">しゅうせいパッチ</td>
+              <td class="hanviet">tu chính</td>
+              <td class="meaning">bản vá lỗi (security patch)</td>
             </tr>
             <tr>
-              <td class="jp-word">掌握</td>
-              <td class="reading">しょうあく</td>
-              <td class="hanviet">chưởng ác</td>
-              <td class="meaning">nắm quyền kiểm soát, chiếm lĩnh</td>
+              <td class="jp-word">対処</td>
+              <td class="reading">たいしょ</td>
+              <td class="hanviet">đối xử</td>
+              <td class="meaning">xử lý, giải quyết (một vấn đề)</td>
             </tr>
           </table>
         </div>
         <div class="edu-block">
           <h4>📗 文法</h4>
           <div class="grammar-item">
-            <strong>～に達する</strong> — đạt tới, lên tới (mức độ)
+            <strong>～に追われる</strong> — bị cuốn vào, bận rộn với (việc gì đó cấp bách)
             <div class="example">
-              <span class="jp">CVSSスコアが最高値の10.0<strong>に達する</strong>脆弱性が発見された。</span>
-              <span class="vi">Phát hiện lỗ hổng có điểm CVSS đạt mức tối đa 10.0.</span>
+              <span class="jp">政府・企業ともに対応に追われている。</span>
+              <span class="vi">Cả chính phủ lẫn doanh nghiệp đều đang bận rộn xử lý vấn đề này.</span>
             </div>
           </div>
           <div class="grammar-item">
-            <strong>～に対して</strong> — đối với, hướng đến
+            <strong>～とされる</strong> — được cho là, có thể coi là (thông tin gián tiếp)
             <div class="example">
-              <span class="jp">影響を受けるバージョンを使用している組織<strong>に対して</strong>、直ちにアップデートを求める。</span>
-              <span class="vi">Yêu cầu ngay lập tức cập nhật đối với các tổ chức đang sử dụng phiên bản bị ảnh hưởng.</span>
+              <span class="jp">この脆弱性は世界の7割に影響するとされる。</span>
+              <span class="vi">Lỗ hổng này được cho là ảnh hưởng đến 70% các website toàn cầu.</span>
             </div>
           </div>
         </div>
@@ -566,23 +666,23 @@
     </div>
   </article>
 
-  <!-- A-2: コミックシーモア420万件 -->
+  <!-- A-3: Baseball draft -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">A2</span>コミックシーモア、不正アクセスで最大約420万件の個人情報が流出——メールアドレス・生年月日なども対象</h3>
+      <h3><span class="news-no">A3</span>プロ野球ドラフト——巨人が横浜・織田投手を1位で強行指名、日本ハムは菰田を選択</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 本文 + 和越対訳</div>
         <p class="content-text lang-ja">
-          電子コミックサービス大手「コミックシーモア」を運営するNTTソルマーレは、外部からの不正アクセスにより最大約420万件の利用者個人情報が流出した可能性があると発表した。流出が懸念される情報には、メールアドレス、生年月日、ニックネーム、購入履歴の一部が含まれており、クレジットカード番号については流出していないと説明している。同社は不正アクセスの経路を特定し、既に遮断したと報告しているが、被害規模の最終確認はなお継続中だ。該当するサービスのユーザーには迷惑メールやフィッシング詐欺への注意を促す告知を行っており、パスワード変更を強く推奨している。今回の事案は、国内コンテンツプラットフォームを標的としたサイバー攻撃の深刻化を改めて示すものとなった。
+          22日に開催されたプロ野球ドラフト会議では、読売ジャイアンツが横浜高校の織田翔希投手を1位指名した。織田投手は海外球団への挑戦を表明していたが、巨人はそれを承知の上で指名に踏み切った。織田選手は表情を変えることなく指名を受け入れた様子で、記者団には「まずは状況を整理したい」とのみ答えた。一方、北海道日本ハムファイターズは菰田捕手を、福岡ソフトバンクホークスは鈴木外野手をそれぞれ1位で指名した。今年のドラフトは逸材が豊富とされており、各球団の首脳陣は入念な下調べのもと指名リストを作成していた。会場では指名が発表されるたびに大きな歓声やどよめきが起きるなど、例年通りの熱気に包まれた一日となった。
         </p>
         <div class="translation-vi">
-          Công ty NTT Solmare vận hành dịch vụ truyện tranh điện tử lớn "ComicSeymour" thông báo rằng thông tin cá nhân của tối đa khoảng 4,2 triệu người dùng có thể đã bị rò rỉ do truy cập trái phép từ bên ngoài. Thông tin bị rò rỉ bao gồm địa chỉ email, ngày sinh, biệt danh và một phần lịch sử mua hàng; tuy nhiên công ty khẳng định số thẻ tín dụng không bị lộ. Công ty đã xác định và chặn đường xâm nhập, nhưng vẫn đang tiếp tục xác nhận quy mô thiệt hại cuối cùng. Người dùng dịch vụ được cảnh báo cẩn thận với email spam và lừa đảo phishing, đồng thời được khuyến cáo thay đổi mật khẩu ngay lập tức. Vụ việc này một lần nữa cho thấy mức độ nghiêm trọng ngày càng tăng của các cuộc tấn công mạng nhắm vào các nền tảng nội dung trong nước.
+          Tại buổi hội nghị draft bóng chày chuyên nghiệp diễn ra ngày 22, đội Yomiuri Giants đã quyết định chọn cầu thủ ném bóng Oda Shoki của trường trung học Yokohama ở vòng đầu tiên. Oda từng tuyên bố muốn thử thách ở đội nước ngoài, nhưng Giants vẫn quyết định chọn anh. Cầu thủ này không thay đổi biểu cảm khi nghe tên mình được gọi và chỉ nói với phóng viên rằng "trước tiên muốn sắp xếp tình huống". Nippon-Ham Fighters chọn bắt Komoda, còn Fukuoka SoftBank Hawks chọn ngoại dã thủ Suzuki ở vòng đầu. Năm nay được đánh giá là mùa draft có nhiều tài năng xuất sắc, các đội đã chuẩn bị kỹ lưỡng danh sách lựa chọn của mình.
         </div>
         <div class="source">
-          出典: ITmedia NEWS · 2026-10-22 12:17 JST ·
-          <a href="https://www.itmedia.co.jp/news/article/2610/22/2000002500/" target="_blank">原文を読む →</a>
+          出典: 時事通信 · 2026-10-22 19:39 JST ·
+          <a href="https://www.jiji.com/jc/article?k=2026102200824&g=spo&m=rss" target="_blank">原文を読む →</a>
         </div>
       </div>
       <div class="col col-right">
@@ -592,134 +692,50 @@
           <table class="vocab">
             <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
             <tr>
-              <td class="jp-word">不正アクセス</td>
-              <td class="reading">ふせいアクセス</td>
-              <td class="hanviet">bất chính —</td>
-              <td class="meaning">truy cập trái phép (unauthorized access)</td>
+              <td class="jp-word">強行指名</td>
+              <td class="reading">きょうこうしめい</td>
+              <td class="hanviet">cường hành chỉ danh</td>
+              <td class="meaning">chỉ định cương quyết dù biết rủi ro</td>
             </tr>
             <tr>
-              <td class="jp-word">流出</td>
-              <td class="reading">りゅうしゅつ</td>
-              <td class="hanviet">lưu xuất</td>
-              <td class="meaning">rò rỉ, thất thoát (data leak)</td>
-            </tr>
-            <tr>
-              <td class="jp-word">懸念</td>
-              <td class="reading">けねん</td>
-              <td class="hanviet">quải niệm</td>
-              <td class="meaning">lo ngại, đáng lo lắng</td>
-            </tr>
-            <tr>
-              <td class="jp-word">遮断</td>
-              <td class="reading">しゃだん</td>
-              <td class="hanviet">già đoạn</td>
-              <td class="meaning">chặn, cắt đứt (block)</td>
-            </tr>
-            <tr>
-              <td class="jp-word">被害規模</td>
-              <td class="reading">ひがいきぼ</td>
-              <td class="hanviet">bị hại quy mô</td>
-              <td class="meaning">quy mô thiệt hại</td>
-            </tr>
-            <tr>
-              <td class="jp-word">詐欺</td>
-              <td class="reading">さぎ</td>
-              <td class="hanviet">trá nghi</td>
-              <td class="meaning">lừa đảo (fraud, scam)</td>
-            </tr>
-          </table>
-        </div>
-        <div class="edu-block">
-          <h4>📗 文法</h4>
-          <div class="grammar-item">
-            <strong>～については</strong> — về phần ~, còn về ~
-            <div class="example">
-              <span class="jp">クレジットカード番号<strong>については</strong>流出していないと説明している。</span>
-              <span class="vi">Còn về số thẻ tín dụng, công ty giải thích rằng không bị rò rỉ.</span>
-            </div>
-          </div>
-          <div class="grammar-item">
-            <strong>～を改めて示す</strong> — một lần nữa chứng minh, nhắc lại rõ ràng
-            <div class="example">
-              <span class="jp">サイバー攻撃の深刻化を<strong>改めて示す</strong>事案となった。</span>
-              <span class="vi">Vụ việc này một lần nữa cho thấy mức độ nghiêm trọng leo thang của các cuộc tấn công mạng.</span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </article>
-
-  <!-- A-3: 大阪大学7.8万人 -->
-  <article class="news-card">
-    <div class="card-header">
-      <h3><span class="news-no">A3</span>大阪大学、学生ら7万8000人の個人情報が漏えい——NECが無断で協力会社とデータ共有</h3>
-    </div>
-    <div class="card-body">
-      <div class="col col-left">
-        <div class="col-label">📰 本文 + 和越対訳</div>
-        <p class="content-text lang-ja">
-          大阪大学は、学生や教職員など約7万8000人分の個人情報が外部に漏えいした可能性があると発表した。同大学のシステム管理を委託していたNECが、大阪大学の承諾を得ることなく、協力会社にデータを共有していたことが判明したためだ。漏えいの対象となるデータには氏名・学籍番号・所属学部などが含まれており、クレジットカード情報や医療情報は含まれていないとしている。NECは「社内規程に反する行為があった」と認め、再発防止策を講じると表明した。文部科学省も事態の経緯について大学側に報告を求めており、委託先管理の在り方を問う声が高まっている。今回の件は、政府機関や大学が業者に業務委託する際のデータガバナンスの重要性を改めて浮き彫りにした。
-        </p>
-        <div class="translation-vi">
-          Đại học Osaka thông báo rằng thông tin cá nhân của khoảng 78.000 sinh viên và giảng viên có thể đã bị rò rỉ ra bên ngoài. Nguyên nhân là do NEC, công ty được thuê quản lý hệ thống của trường, đã chia sẻ dữ liệu với công ty đối tác mà không được sự chấp thuận của Đại học Osaka. Dữ liệu bị rò rỉ bao gồm họ tên, mã số sinh viên, khoa trực thuộc; thông tin thẻ tín dụng và y tế không bị ảnh hưởng. NEC thừa nhận "có hành vi vi phạm quy định nội bộ" và cam kết thực hiện biện pháp phòng ngừa tái phát. Bộ Giáo dục Nhật Bản cũng yêu cầu trường báo cáo về diễn biến sự việc, trong khi tiếng nói về cách quản lý đơn vị nhận thầu ngày càng lớn hơn. Vụ việc này làm nổi bật tầm quan trọng của quản trị dữ liệu khi các cơ quan chính phủ và trường đại học thuê ngoài công việc cho nhà thầu.
-        </div>
-        <div class="source">
-          出典: ITmedia NEWS · 2026-10-22 10:11 JST ·
-          <a href="https://www.itmedia.co.jp/news/article/2610/22/2000002491/" target="_blank">原文を読む →</a>
-        </div>
-      </div>
-      <div class="col col-right">
-        <div class="col-label">📚 語彙・文法解説</div>
-        <div class="edu-block">
-          <h4>📘 語彙</h4>
-          <table class="vocab">
-            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
-            <tr>
-              <td class="jp-word">承諾</td>
-              <td class="reading">しょうだく</td>
-              <td class="hanviet">thừa nặc</td>
-              <td class="meaning">sự chấp thuận, đồng ý</td>
-            </tr>
-            <tr>
-              <td class="jp-word">委託</td>
-              <td class="reading">いたく</td>
-              <td class="hanviet">ủy thác</td>
-              <td class="meaning">ủy thác, giao phó, outsource</td>
-            </tr>
-            <tr>
-              <td class="jp-word">再発防止</td>
-              <td class="reading">さいはつぼうし</td>
-              <td class="hanviet">tái phát phòng chỉ</td>
-              <td class="meaning">ngăn ngừa tái phát</td>
-            </tr>
-            <tr>
-              <td class="jp-word">浮き彫り</td>
-              <td class="reading">うきぼり</td>
-              <td class="hanviet">phù điêu</td>
-              <td class="meaning">làm nổi bật, làm rõ (highlight)</td>
-            </tr>
-            <tr>
-              <td class="jp-word">社内規程</td>
-              <td class="reading">しゃないきてい</td>
-              <td class="hanviet">xã nội quy trình</td>
-              <td class="meaning">quy định nội bộ công ty</td>
-            </tr>
-            <tr>
-              <td class="jp-word">ガバナンス</td>
-              <td class="reading">ガバナンス</td>
+              <td class="jp-word">踏み切る</td>
+              <td class="reading">ふみきる</td>
               <td class="hanviet">—</td>
-              <td class="meaning">quản trị (governance)</td>
+              <td class="meaning">quyết tâm thực hiện, quyết định dứt khoát</td>
+            </tr>
+            <tr>
+              <td class="jp-word">逸材</td>
+              <td class="reading">いつざい</td>
+              <td class="hanviet">dật tài</td>
+              <td class="meaning">tài năng xuất sắc hiếm có</td>
+            </tr>
+            <tr>
+              <td class="jp-word">首脳陣</td>
+              <td class="reading">しゅのうじん</td>
+              <td class="hanviet">thủ não trận</td>
+              <td class="meaning">ban lãnh đạo, đội ngũ chỉ đạo</td>
+            </tr>
+            <tr>
+              <td class="jp-word">下調べ</td>
+              <td class="reading">したしらべ</td>
+              <td class="hanviet">hạ điều tra</td>
+              <td class="meaning">nghiên cứu, chuẩn bị trước</td>
+            </tr>
+            <tr>
+              <td class="jp-word">どよめき</td>
+              <td class="reading">どよめき</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">tiếng ồn ào xôn xao (trong đám đông)</td>
             </tr>
           </table>
         </div>
         <div class="edu-block">
           <h4>📗 文法</h4>
           <div class="grammar-item">
-            <strong>～を得ることなく</strong> — mà không có được ~, không qua sự ~
+            <strong>～を承知の上で</strong> — biết rõ điều đó nhưng vẫn cố tình làm
             <div class="example">
-              <span class="jp">大阪大学の承諾<strong>を得ることなく</strong>、協力会社にデータを共有していた。</span>
-              <span class="vi">Đã chia sẻ dữ liệu với công ty đối tác mà không được sự chấp thuận của Đại học Osaka.</span>
+              <span class="jp">巨人は海外挑戦の意向を承知の上で指名に踏み切った。</span>
+              <span class="vi">Giants đã quyết định chỉ định dù biết rõ cầu thủ muốn ra nước ngoài.</span>
             </div>
           </div>
         </div>
@@ -727,23 +743,23 @@
     </div>
   </article>
 
-  <!-- A-4: Meta決算・Muse -->
+  <!-- A-4: LDP seat reduction proposal -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">A4</span>Meta決算、売上高26%増も営業益37%減——AIエージェント「Muse」は1000万人超が利用開始</h3>
+      <h3><span class="news-no">A4</span>自民党、衆院定数を31削減する妥協案を提示——野党との調整本格化</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 本文 + 和越対訳</div>
         <p class="content-text lang-ja">
-          Metaが発表した2026年第3四半期の決算報告によると、売上高は前年同期比26%増を達成した一方、営業利益は37%の大幅減となった。AIインフラへの巨額投資が収益を圧迫した形だ。同社が今四半期に正式ローンチしたAIエージェント「Muse」は、公開から短期間で1000万人を超えるユーザーが利用を開始したと報告されており、SNS上でその性能に関する議論が活発化している。一方で今回発覚した個人情報・ビジネス機密の漏えい問題（会話リンク共有時の情報露出）が信頼性に影を落とす事態となっており、規制当局の注目も高まっている。Metaとしては短期的な利益よりもAI競争での地位確立を優先する方針であることが改めて鮮明になった。
+          自由民主党は22日、衆議院議員定数を現行から31議席削減するとの妥協案を野党各党に提示した。与野党間で続く選挙制度改革をめぐる協議で、自民党は従来の主張から一定程度歩み寄った形となる。野党側はこれまで30〜40議席程度の削減を要求しており、今回の提案が交渉の足がかりになるかどうか注目される。自民の小林幹事長は記者会見で「民意を反映した公正な制度を実現するために誠実に取り組む」と述べた一方、国税庁が検討する非上場株評価の見直し案については「本末転倒だ」と批判し、慎重な対応を求めた。選挙制度改革は次期国会でも引き続き議論される見通しで、最終合意に向けた調整が続く。
         </p>
         <div class="translation-vi">
-          Báo cáo tài chính quý 3 năm 2026 của Meta cho thấy doanh thu tăng 26% so với cùng kỳ năm ngoái, nhưng lợi nhuận từ hoạt động kinh doanh lại giảm 37% đáng kể do đầu tư khổng lồ vào cơ sở hạ tầng AI. AI agent "Muse" được Meta chính thức ra mắt trong quý này đã thu hút hơn 10 triệu người dùng trong thời gian ngắn, làm bùng nổ các cuộc thảo luận về hiệu suất của nó trên mạng xã hội. Tuy nhiên, sự cố rò rỉ thông tin cá nhân và bí mật kinh doanh vừa được phát hiện (lộ thông tin khi chia sẻ link hội thoại) đang gây bóng đen lên uy tín của dịch vụ, thu hút sự chú ý của các cơ quan quản lý. Meta một lần nữa khẳng định rõ ràng chiến lược ưu tiên thiết lập vị thế trong cuộc đua AI hơn là lợi nhuận ngắn hạn.
+          Đảng Dân chủ Tự do Nhật Bản (LDP) đã đề xuất phương án thỏa hiệp cắt giảm 31 ghế trong Hạ viện cho các đảng đối lập vào ngày 22. Trong các cuộc đàm phán về cải cách hệ thống bầu cử, LDP đã nhượng bộ một phần so với lập trường trước đó. Các đảng đối lập từng yêu cầu cắt giảm khoảng 30 đến 40 ghế, nên đề xuất này được chú ý như một cơ sở đàm phán tiếp theo. Tổng thư ký LDP Kobayashi phát biểu sẽ "nỗ lực chân thành để xây dựng hệ thống phản ánh đúng ý chí của người dân". Cuộc thảo luận về cải cách bầu cử dự kiến tiếp tục tại kỳ họp quốc hội tiếp theo.
         </div>
         <div class="source">
-          出典: ITmedia NEWS · 2026-10-22 09:43 JST ·
-          <a href="https://www.itmedia.co.jp/news/article/2610/22/2000002489/" target="_blank">原文を読む →</a>
+          出典: 時事通信 · 2026-10-22 17:08 JST ·
+          <a href="https://www.jiji.com/jc/article?k=2026102200837&g=pol&m=rss" target="_blank">原文を読む →</a>
         </div>
       </div>
       <div class="col col-right">
@@ -753,44 +769,44 @@
           <table class="vocab">
             <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
             <tr>
-              <td class="jp-word">営業利益</td>
-              <td class="reading">えいぎょうりえき</td>
-              <td class="hanviet">doanh nghiệp lợi ích</td>
-              <td class="meaning">lợi nhuận từ hoạt động kinh doanh (operating profit)</td>
+              <td class="jp-word">定数削減</td>
+              <td class="reading">ていすうさくげん</td>
+              <td class="hanviet">định số tước giảm</td>
+              <td class="meaning">cắt giảm số lượng ghế (định mức)</td>
             </tr>
             <tr>
-              <td class="jp-word">圧迫</td>
-              <td class="reading">あっぱく</td>
-              <td class="hanviet">áp bách</td>
-              <td class="meaning">gây áp lực, bóp nghẹt</td>
+              <td class="jp-word">妥協案</td>
+              <td class="reading">だきょうあん</td>
+              <td class="hanviet">thỏa hiệp án</td>
+              <td class="meaning">phương án thỏa hiệp, đề xuất dung hòa</td>
             </tr>
             <tr>
-              <td class="jp-word">信頼性</td>
-              <td class="reading">しんらいせい</td>
-              <td class="hanviet">tín lại tính</td>
-              <td class="meaning">tính đáng tin cậy, độ tin cậy</td>
+              <td class="jp-word">歩み寄る</td>
+              <td class="reading">あゆみよる</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">nhượng bộ, tiến đến gặp nhau (về lập trường)</td>
             </tr>
             <tr>
-              <td class="jp-word">規制当局</td>
-              <td class="reading">きせいとうきょく</td>
-              <td class="hanviet">quy chế đương cục</td>
-              <td class="meaning">cơ quan quản lý, cơ quan giám sát</td>
+              <td class="jp-word">本末転倒</td>
+              <td class="reading">ほんまつてんとう</td>
+              <td class="hanviet">bản mạt điên đảo</td>
+              <td class="meaning">đảo lộn thứ tự ưu tiên, đặt xe trước ngựa</td>
             </tr>
             <tr>
-              <td class="jp-word">地位確立</td>
-              <td class="reading">ちいかくりつ</td>
-              <td class="hanviet">địa vị xác lập</td>
-              <td class="meaning">thiết lập vị thế, củng cố địa vị</td>
+              <td class="jp-word">足がかり</td>
+              <td class="reading">あしがかり</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">bàn đạp, cơ sở ban đầu (để tiến lên)</td>
             </tr>
           </table>
         </div>
         <div class="edu-block">
           <h4>📗 文法</h4>
           <div class="grammar-item">
-            <strong>～ものの</strong> — dù ~, tuy nhiên ~ (ngược chiều kỳ vọng)
+            <strong>～か（どうか）注目される</strong> — được chú ý xem liệu có ... hay không
             <div class="example">
-              <span class="jp">売上高は26%増を達成した<strong>ものの</strong>、営業利益は37%の大幅減となった。</span>
-              <span class="vi">Dù doanh thu tăng 26%, lợi nhuận kinh doanh lại giảm mạnh 37%.</span>
+              <span class="jp">今回の提案が交渉の足がかりになるかどうか注目される。</span>
+              <span class="vi">Người ta đang chú ý xem liệu đề xuất này có trở thành bàn đạp cho đàm phán hay không.</span>
             </div>
           </div>
         </div>
@@ -798,23 +814,23 @@
     </div>
   </article>
 
-  <!-- A-5: SpaceX黒字転換・AI部門SI -->
+  <!-- A-5: Typhoon 30 -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">A5</span>SpaceX、純利益44億ドルで黒字転換——AI事業部門「SI」は売上830%増、テスラ合併も協議中</h3>
+      <h3><span class="news-no">A5</span>台風30号、非常に強い勢力で沖縄に接近——24日以降に九州・四国で大雨のおそれ</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 本文 + 和越対訳</div>
         <p class="content-text lang-ja">
-          イーロン・マスク氏が率いるSpaceXが2026年度の財務結果を発表し、純利益44億ドルを計上して初の本格的な黒字転換を果たした。売上高は前年比161%増と大幅に拡大しており、かつてAI部門として知られていた「Starlink Intelligence（SI）」事業の売上が830%という驚異的な伸びを記録した。同部門は衛星ネットワークを活用したAI推論・データ処理サービスを主力とし、政府および企業向けの契約が急速に積み上がっているとされる。また、マスク氏はSpaceXとテスラの合併について特別委員会の場で議論が行われていることを認め、両社統合の可能性が改めて注目を集めた。宇宙開発とAIを融合させた新たなビジネスモデルが、世界の投資家の関心を大きく引きつけている。
+          気象庁は22日、台風30号が非常に強い勢力を維持したまま沖縄本島に接近しつつあり、24日以降に九州・四国地方でも警報級の大雨や暴風が予想されると発表した。沖縄では既に強風域に入っており、一部の離島では船便の欠航が相次いでいる。気象庁の予報官は「進路の北側では特に大雨に注意が必要で、急な増水や土砂災害の危険がある」と警告した。過去の事例と比較して今年の台風シーズンは活発であり、本州への上陸も視野に入れて早めの備えが必要だとしている。各自治体では避難場所の確認や非常食・飲料水の備蓄を住民に呼びかけており、交通機関も影響を考慮した運行調整を検討している。
         </p>
         <div class="translation-vi">
-          SpaceX do Elon Musk lãnh đạo đã công bố kết quả tài chính năm 2026 với lợi nhuận ròng 4,4 tỷ USD, đánh dấu lần chuyển sang có lãi đầu tiên một cách toàn diện. Doanh thu tăng 161% so với năm trước, trong đó bộ phận "Starlink Intelligence (SI)" từng được biết đến là bộ phận AI ghi nhận mức tăng trưởng 830% đáng kinh ngạc. Bộ phận này chuyên cung cấp dịch vụ suy luận AI và xử lý dữ liệu sử dụng mạng vệ tinh, với các hợp đồng từ chính phủ và doanh nghiệp tích lũy nhanh chóng. Ngoài ra, Musk thừa nhận các cuộc thảo luận về việc sáp nhập SpaceX và Tesla đang diễn ra tại ủy ban đặc biệt, một lần nữa thu hút sự chú ý đến khả năng hợp nhất hai công ty. Mô hình kinh doanh mới kết hợp khám phá vũ trụ và AI đang thu hút sự quan tâm lớn từ các nhà đầu tư toàn cầu.
+          Cơ quan Khí tượng Nhật Bản thông báo rằng bão số 30 đang tiếp cận đảo chính Okinawa trong khi vẫn duy trì cường độ rất mạnh, và dự báo có mưa lớn mức cảnh báo cùng gió mạnh ở các vùng Kyushu và Shikoku từ ngày 24 trở đi. Okinawa đã nằm trong vùng gió mạnh và một số đảo xa đã có nhiều chuyến phà bị hủy. Cơ quan khí tượng cảnh báo "phía bắc hướng di chuyển của bão cần đặc biệt chú ý đến mưa lớn và nguy cơ sạt lở đất". Mùa bão năm nay hoạt động mạnh hơn so với các năm trước và người dân được khuyến cáo chuẩn bị sớm trước khi bão đổ bộ lên đảo chính Honshu.
         </div>
         <div class="source">
-          出典: ITmedia NEWS · 2026-10-21 07:09 JST ·
-          <a href="https://www.itmedia.co.jp/news/article/2610/21/2000002439/" target="_blank">原文を読む →</a>
+          出典: Yahoo!ニュース · 2026-10-22 09:04 JST ·
+          <a href="https://news.yahoo.co.jp/pickup/6599718?source=rss" target="_blank">原文を読む →</a>
         </div>
       </div>
       <div class="col col-right">
@@ -824,44 +840,50 @@
           <table class="vocab">
             <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
             <tr>
-              <td class="jp-word">黒字転換</td>
-              <td class="reading">くろじてんかん</td>
-              <td class="hanviet">hắc tự chuyển hoán</td>
-              <td class="meaning">chuyển sang có lãi (turn profitable)</td>
+              <td class="jp-word">勢力</td>
+              <td class="reading">せいりょく</td>
+              <td class="hanviet">thế lực</td>
+              <td class="meaning">cường độ, sức mạnh (của bão)</td>
             </tr>
             <tr>
-              <td class="jp-word">純利益</td>
-              <td class="reading">じゅんりえき</td>
-              <td class="hanviet">thuần lợi ích</td>
-              <td class="meaning">lợi nhuận ròng (net profit)</td>
+              <td class="jp-word">接近</td>
+              <td class="reading">せっきん</td>
+              <td class="hanviet">tiếp cận</td>
+              <td class="meaning">tiếp cận, đến gần</td>
             </tr>
             <tr>
-              <td class="jp-word">推論</td>
-              <td class="reading">すいろん</td>
-              <td class="hanviet">suy luận</td>
-              <td class="meaning">suy luận, inference (AI)</td>
+              <td class="jp-word">警報級</td>
+              <td class="reading">けいほうきゅう</td>
+              <td class="hanviet">cảnh báo cấp</td>
+              <td class="meaning">mức độ cảnh báo (rainfall warning level)</td>
             </tr>
             <tr>
-              <td class="jp-word">融合</td>
-              <td class="reading">ゆうごう</td>
-              <td class="hanviet">dung hợp</td>
-              <td class="meaning">kết hợp, hòa nhập, tích hợp</td>
+              <td class="jp-word">土砂災害</td>
+              <td class="reading">どしゃさいがい</td>
+              <td class="hanviet">thổ sa tai hại</td>
+              <td class="meaning">thiên tai đất lở, sạt lở</td>
             </tr>
             <tr>
-              <td class="jp-word">特別委員会</td>
-              <td class="reading">とくべついいんかい</td>
-              <td class="hanviet">đặc biệt ủy viên hội</td>
-              <td class="meaning">ủy ban đặc biệt</td>
+              <td class="jp-word">欠航</td>
+              <td class="reading">けっこう</td>
+              <td class="hanviet">khuyết hàng</td>
+              <td class="meaning">hủy chuyến (tàu, phà, máy bay)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">備蓄</td>
+              <td class="reading">びちく</td>
+              <td class="hanviet">bị trữ</td>
+              <td class="meaning">dự trữ (lương thực, nước uống khẩn cấp)</td>
             </tr>
           </table>
         </div>
         <div class="edu-block">
           <h4>📗 文法</h4>
           <div class="grammar-item">
-            <strong>～を果たす</strong> — hoàn thành, đạt được ~ (mục tiêu quan trọng)
+            <strong>～を視野に入れて</strong> — coi ... như một khả năng, tính đến việc ...
             <div class="example">
-              <span class="jp">純利益44億ドルを計上して初の本格的な黒字転換<strong>を果たした</strong>。</span>
-              <span class="vi">Đã đạt được lần chuyển sang có lãi đầu tiên một cách toàn diện sau khi ghi nhận lợi nhuận ròng 4,4 tỷ USD.</span>
+              <span class="jp">本州への上陸も視野に入れて早めの備えが必要だ。</span>
+              <span class="vi">Cần chuẩn bị sớm, kể cả tính đến khả năng bão đổ bộ lên đảo Honshu.</span>
             </div>
           </div>
         </div>
@@ -871,29 +893,27 @@
 
 </section>
 
-<!-- =========================================================
-     SECTION B: JAPAN TECH — 3 articles
-     ========================================================= -->
+<!-- ===== SECTION B: JAPAN TECH ===== -->
 <section id="japan-tech" class="digest-section">
   <h2 class="section-title">🇯🇵 Tech / AI in Japanese</h2>
 
-  <!-- B-1: エージェントIDE + cmux -->
+  <!-- B-1: Claude Duet -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">B1</span>エージェント用IDEを3種試した末に「cmux」を使い始めた——ワークツリー不要、縦型サイドバーで複数セッション管理</h3>
+      <h3><span class="news-no">B1</span>Anthropic、常時稼働エージェント「Claude Duet」を発表——Opus 5.5ベース、Pro/Maxプランで提供</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 本文 + 和越対訳</div>
         <p class="content-text lang-ja">
-          AIコーディングエージェントの普及に伴い、複数のエージェントセッションを同時に管理するための専用IDEが登場しつつある。著者はOrca、T3 Code、Supersetの3種を実際に試したが、いずれも帯に短し襷に長しという結果だった。Orcaは機能過多、T3 CodeはタブなしのGUI設計がClaude CodeのワークスペースごとのConfig分離と相性が悪く、Supersetはセッショングループ機能は優秀だがターミナルスクロールが粗かった。いずれもGit worktreeとセッションを紐付ける設計で、読み取り専用の調査セッションが多い著者にとってはディスク消費が問題となった。最終的に採用したのはターミナルツール「cmux」（manaflow-ai製）だ。縦型サイドバーでワークスペース一覧を表示し、<code>reorderOnNotification: "off"</code>設定でサイドバーの順序乱れを防ぐことで使い勝手が向上した。エージェント間のメッセージ送受信や画面読み取りなどのビルトイン機能も評価されており、tmuxと併用しながら利用を継続している。
+          Anthropicは日本時間10月22日、常時稼働型AIエージェント「Claude Duet」を発表し、リサーチプレビュー版の提供を開始した。Claude Opus 5.5をベースに構築されたDuetは、ユーザーが離席している間も自律的に作業を継続できる設計となっており、GmailやSlackといった外部ツールに接続して毎朝の情報ブリーフィングを提供するほか、優先度の高いイベントが発生した際にのみ通知を送る仕組みを備える。タスク委譲機能では、ミーティングのスケジューリングや管理業務、開発作業などをDuetに任せると、専用の仮想マシン上でブラウザを操作しながらバックグラウンドで実行される。セキュリティ面では、クレジットカード番号や個人識別情報の外部送信を拒否する専用分類器が実装されており、メール・メッセージ送信時には宛先を二重確認する。提供プランはProとMaxで、参加にはウェイトリスト登録が必要。
         </p>
         <div class="translation-vi">
-          Cùng với sự phổ biến của các AI coding agent, các IDE chuyên dụng để quản lý nhiều phiên agent cùng lúc đang xuất hiện ngày càng nhiều. Tác giả đã thực sự thử qua 3 loại là Orca, T3 Code và Superset, nhưng mỗi loại đều có điểm yếu riêng. Orca quá nhiều tính năng, T3 Code với thiết kế GUI không có tab không tương thích với cách tách biệt Config theo workspace của Claude Code, còn Superset tuy có tính năng nhóm session tốt nhưng cuộn terminal còn thô. Tất cả đều thiết kế gắn session với Git worktree, gây vấn đề tiêu tốn disk cho tác giả vốn có nhiều session chỉ đọc để nghiên cứu. Cuối cùng tác giả chọn công cụ terminal "cmux" (do manaflow-ai phát triển). Việc hiển thị danh sách workspace theo dạng sidebar dọc và thiết lập `reorderOnNotification: "off"` giúp ngăn xáo trộn thứ tự sidebar, cải thiện đáng kể trải nghiệm sử dụng. Các tính năng tích hợp như gửi/nhận tin nhắn giữa các agent và đọc màn hình cũng được đánh giá cao, và tác giả vẫn tiếp tục sử dụng song song với tmux.
+          Anthropic đã ra mắt "Claude Duet", một AI agent hoạt động liên tục, vào ngày 22/10. Được xây dựng trên nền tảng Claude Opus 5.5, Duet có thể tự động thực hiện công việc ngay cả khi người dùng không có mặt. Nó kết nối với Gmail, Slack để cung cấp briefing thông tin buổi sáng và chỉ gửi thông báo khi có sự kiện ưu tiên cao. Khi được giao task, Duet sẽ chạy trong virtual machine riêng với browser để thực hiện các tác vụ như lên lịch meeting hay xử lý công việc hành chính. Về bảo mật, có classifier riêng từ chối gửi thông tin nhạy cảm ra ngoài và kiểm tra kỹ người nhận trước khi gửi email. Tính năng này hiện có trong các gói Pro và Max và yêu cầu đăng ký waitlist.
         </div>
         <div class="source">
-          出典: Zenn / yoshi47 · 2026-10-22 00:00 JST ·
-          <a href="https://zenn.dev/yoshi47/articles/cmux-after-agent-ides" target="_blank">原文を読む →</a>
+          出典: ITmedia AI+ · 2026-10-22 10:09 JST ·
+          <a href="https://www.itmedia.co.jp/aiplus/article/2610/22/2000002490/" target="_blank">原文を読む →</a>
         </div>
       </div>
       <div class="col col-right">
@@ -903,57 +923,57 @@
           <table class="vocab">
             <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
             <tr>
-              <td class="jp-word">普及</td>
-              <td class="reading">ふきゅう</td>
-              <td class="hanviet">phổ cập</td>
-              <td class="meaning">sự phổ biến, lan rộng (proliferation)</td>
+              <td class="jp-word">常時稼働</td>
+              <td class="reading">じょうじかどう</td>
+              <td class="hanviet">thường thì giá động</td>
+              <td class="meaning">hoạt động liên tục 24/7 (always-on operation)</td>
             </tr>
             <tr>
-              <td class="jp-word">機能過多</td>
-              <td class="reading">きのうかた</td>
-              <td class="hanviet">cơ năng quá đa</td>
-              <td class="meaning">quá nhiều tính năng (feature-bloated)</td>
+              <td class="jp-word">自律的</td>
+              <td class="reading">じりつてき</td>
+              <td class="hanviet">tự lập đích</td>
+              <td class="meaning">mang tính tự chủ, autonomous</td>
             </tr>
             <tr>
-              <td class="jp-word">紐付け</td>
-              <td class="reading">ひもづけ</td>
+              <td class="jp-word">委譲</td>
+              <td class="reading">いじょう</td>
+              <td class="hanviet">ủy nhượng</td>
+              <td class="meaning">ủy quyền, giao phó (delegate)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">仮想マシン</td>
+              <td class="reading">かそうマシン</td>
+              <td class="hanviet">giả tưởng</td>
+              <td class="meaning">máy ảo (virtual machine)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">分類器</td>
+              <td class="reading">ぶんるいき</td>
+              <td class="hanviet">phân loại khí</td>
+              <td class="meaning">bộ phân loại (classifier trong ML)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">ブリーフィング</td>
+              <td class="reading">ブリーフィング</td>
               <td class="hanviet">—</td>
-              <td class="meaning">gắn kết, liên kết (mapping, binding)</td>
-            </tr>
-            <tr>
-              <td class="jp-word">ワークスペース</td>
-              <td class="reading">ワークスペース</td>
-              <td class="hanviet">—</td>
-              <td class="meaning">không gian làm việc (workspace)</td>
-            </tr>
-            <tr>
-              <td class="jp-word">読み取り専用</td>
-              <td class="reading">よみとりせんよう</td>
-              <td class="hanviet">độc thủ chuyên dụng</td>
-              <td class="meaning">chỉ đọc (read-only)</td>
-            </tr>
-            <tr>
-              <td class="jp-word">縦型</td>
-              <td class="reading">たてがた</td>
-              <td class="hanviet">túng hình</td>
-              <td class="meaning">dạng dọc, theo chiều dọc</td>
+              <td class="meaning">báo cáo ngắn, briefing thông tin</td>
             </tr>
           </table>
         </div>
         <div class="edu-block">
           <h4>📗 文法</h4>
           <div class="grammar-item">
-            <strong>～に伴い</strong> — cùng với ~, đi kèm với ~
+            <strong>～ベースに構築された</strong> — được xây dựng dựa trên nền tảng ...
             <div class="example">
-              <span class="jp">AIコーディングエージェントの普及<strong>に伴い</strong>、複数セッション管理ツールが登場している。</span>
-              <span class="vi">Cùng với sự phổ biến của AI coding agent, các công cụ quản lý nhiều session đang xuất hiện.</span>
+              <span class="jp">Claude Opus 5.5をベースに構築されたDuetは高い推論能力を持つ。</span>
+              <span class="vi">Duet được xây dựng dựa trên nền tảng Claude Opus 5.5 và có khả năng suy luận mạnh mẽ.</span>
             </div>
           </div>
           <div class="grammar-item">
-            <strong>帯に短し襷に長し</strong> — không vừa ngắn vừa dài (thành ngữ: cái gì cũng thiếu một chút)
+            <strong>～際にのみ</strong> — chỉ khi (giới hạn điều kiện rất chặt)
             <div class="example">
-              <span class="jp">3種を試したが、いずれも<strong>帯に短し襷に長し</strong>という結果だった。</span>
-              <span class="vi">Thử cả 3 loại nhưng không cái nào đủ phù hợp — mỗi cái đều thiếu điều gì đó.</span>
+              <span class="jp">優先度の高いイベントが発生した際にのみ通知を送る。</span>
+              <span class="vi">Chỉ gửi thông báo khi có sự kiện có độ ưu tiên cao xảy ra.</span>
             </div>
           </div>
         </div>
@@ -961,23 +981,23 @@
     </div>
   </article>
 
-  <!-- B-2: Claude Codeを「AIニュース係」に -->
+  <!-- B-2: Claude Code generates explanation videos -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">B2</span>Claude Codeを「AIニュース係」にしたら毎朝0円でSlackに届くようになった——クラウド実行×GitHub Actions中継の設計</h3>
+      <h3><span class="news-no">B2</span>仕組みを理解する動画をClaude Codeに作らせる——Playwright + ffmpegで再現可能な解説動画を自動生成</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 本文 + 和越対訳</div>
         <p class="content-text lang-ja">
-          Claude Codeのクラウド実行機能（ルーティン）とGitHub Actionsを組み合わせることで、追加コストゼロで毎朝AIニュースをSlackチャンネルに自動配信する仕組みを構築した事例が紹介された。設計の肝は、クラウドサンドボックスからSlack webhookに直接アクセスできない制約をGit pushとGitHub Actions経由で回避する点だ。ルーティンは週日の6:30と8:30 JSTに起動し、専用リポジトリを clone してスキルファイル（SKILL.md）の手順に従ってニュース収集・重複排除・レポート生成・git pushを実行する。Slack側ではcanvas.createとchat.scheduleMessageを組み合わせ、7:00に確定配信する構成だ。UTC/JST日付ズレ、Canvas API のマークダウン制限、クォータ枯渇という3つの本番障害を経験し、それぞれ多段フォールバックと死活監視で対処している。著者は「難しいのはプロンプトではなく配管（plumbing）」と総括している。
+          Explazaのエンジニアが開発したClaude Codeスキル「animated-arch-diagram」は、アプリの動作を説明する解説動画を自動生成する。動画はユーザー操作画面と内部処理の交互展開で構成され、テキスト分割や検索結果の再ランキングといった処理の流れを視覚化する。モックアップ画面を使うため実際のスクリーンキャプチャは不要で、アーキテクチャ図はアクティブなコンポーネントがハイライトされた状態で登場する。数値や具体例はアプリの実際のログデータから取得するため、内容の正確性が保証される。技術的にはウェブページで特定タイムスタンプのシーンをレンダリングしてPlaywrightが30fpsでキャプチャし、ffmpegが各フレームを動画として合成する。44秒の動画がMacで約45秒でレンダリング完了する決定論的なパイプラインであり、アプリの変更後にパイプラインを再実行すれば説明図と数値が自動更新される。
         </p>
         <div class="translation-vi">
-          Một case study được giới thiệu về việc kết hợp tính năng thực thi trên cloud (routine) của Claude Code với GitHub Actions để tự động gửi tin tức AI đến kênh Slack mỗi sáng với chi phí bổ sung bằng 0. Điểm mấu chốt trong thiết kế là cách vượt qua giới hạn không thể truy cập trực tiếp Slack webhook từ sandbox trên cloud, bằng cách đi qua Git push và GitHub Actions. Routine khởi động lúc 6:30 và 8:30 JST các ngày trong tuần, clone repository chuyên dụng và thực hiện thu thập tin tức, loại bỏ trùng lặp, tạo báo cáo và git push theo hướng dẫn trong file skill (SKILL.md). Về phía Slack, thiết kế kết hợp canvas.create và chat.scheduleMessage để đảm bảo giao hàng cố định lúc 7:00. Tác giả đã trải qua 3 sự cố trên môi trường production: lệch ngày UTC/JST, giới hạn markdown của Canvas API, và cạn quota, mỗi vấn đề đều được xử lý bằng fallback nhiều tầng và giám sát liên tục. Tác giả kết luận "phần khó không phải là prompt mà là plumbing (hệ thống ống dẫn)."
+          Một kỹ sư từ Explaza đã phát triển skill Claude Code tên "animated-arch-diagram" để tự động tạo video giải thích cơ chế hoạt động của ứng dụng. Video được cấu trúc xen kẽ giữa màn hình thao tác người dùng và quá trình xử lý nội bộ, giúp trực quan hóa các luồng xử lý như tách văn bản hay re-ranking kết quả tìm kiếm. Không cần screen capture thực tế vì sử dụng mockup screen, còn architecture diagram xuất hiện với các component đang hoạt động được highlight. Về mặt kỹ thuật, một trang web render scene tại từng timestamp, Playwright capture từng frame ở 30fps, rồi ffmpeg lắp ráp thành video. Một video 44 giây render mất khoảng 45 giây trên Mac theo pipeline deterministic, và khi app thay đổi chỉ cần chạy lại pipeline là số liệu và sơ đồ tự cập nhật.
         </div>
         <div class="source">
-          出典: Zenn / chin (edash_tech_blog) · 2026-10-21 09:30 JST ·
-          <a href="https://zenn.dev/edash_tech_blog/articles/3476d88801674d" target="_blank">原文を読む →</a>
+          出典: Zenn (Explaza) · 2026-10-22 02:14 JST ·
+          <a href="https://zenn.dev/explaza/articles/c749042ecbe232" target="_blank">原文を読む →</a>
         </div>
       </div>
       <div class="col col-right">
@@ -987,57 +1007,50 @@
           <table class="vocab">
             <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
             <tr>
-              <td class="jp-word">自動配信</td>
-              <td class="reading">じどうはいしん</td>
-              <td class="hanviet">tự động phối tín</td>
-              <td class="meaning">phân phối tự động (automated delivery)</td>
+              <td class="jp-word">決定論的</td>
+              <td class="reading">けっていろんてき</td>
+              <td class="hanviet">quyết định luận đích</td>
+              <td class="meaning">deterministic — cùng input cho cùng output</td>
             </tr>
             <tr>
-              <td class="jp-word">制約</td>
-              <td class="reading">せいやく</td>
-              <td class="hanviet">chế ước</td>
-              <td class="meaning">giới hạn, ràng buộc (constraint)</td>
+              <td class="jp-word">再ランキング</td>
+              <td class="reading">さいランキング</td>
+              <td class="hanviet">tái</td>
+              <td class="meaning">xếp hạng lại kết quả (re-ranking)</td>
             </tr>
             <tr>
-              <td class="jp-word">重複排除</td>
-              <td class="reading">じゅうふくはいじょ</td>
-              <td class="hanviet">trùng phục bài trừ</td>
-              <td class="meaning">loại bỏ trùng lặp (deduplication)</td>
+              <td class="jp-word">視覚化</td>
+              <td class="reading">しかくか</td>
+              <td class="hanviet">thị giác hóa</td>
+              <td class="meaning">trực quan hóa (visualization)</td>
             </tr>
             <tr>
-              <td class="jp-word">死活監視</td>
-              <td class="reading">しかつかんし</td>
-              <td class="hanviet">tử hoạt giám thị</td>
-              <td class="meaning">giám sát sống/chết, health monitoring</td>
+              <td class="jp-word">合成</td>
+              <td class="reading">ごうせい</td>
+              <td class="hanviet">hợp thành</td>
+              <td class="meaning">tổng hợp, lắp ráp (render/composite)</td>
             </tr>
             <tr>
-              <td class="jp-word">枯渇</td>
-              <td class="reading">こかつ</td>
-              <td class="hanviet">khô kiệt</td>
-              <td class="meaning">cạn kiệt, exhaustion (quota exhausted)</td>
+              <td class="jp-word">再現可能</td>
+              <td class="reading">さいげんかのう</td>
+              <td class="hanviet">tái hiện khả năng</td>
+              <td class="meaning">có thể tái tạo lại (reproducible)</td>
             </tr>
             <tr>
-              <td class="jp-word">回避</td>
-              <td class="reading">かいひ</td>
-              <td class="hanviet">hồi tị</td>
-              <td class="meaning">né tránh, vượt qua (workaround)</td>
+              <td class="jp-word">パイプライン</td>
+              <td class="reading">パイプライン</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">pipeline — chuỗi xử lý tuần tự</td>
             </tr>
           </table>
         </div>
         <div class="edu-block">
           <h4>📗 文法</h4>
           <div class="grammar-item">
-            <strong>～ことで</strong> — bằng cách ~, nhờ ~
+            <strong>～さえ〜ば</strong> — chỉ cần làm X là đủ để Y
             <div class="example">
-              <span class="jp">GitHub Actions経由で回避する<strong>ことで</strong>、クラウド制約を乗り越えた。</span>
-              <span class="vi">Bằng cách vượt qua qua GitHub Actions, đã vượt được giới hạn của cloud.</span>
-            </div>
-          </div>
-          <div class="grammar-item">
-            <strong>～に従って</strong> — theo ~, tuân theo ~
-            <div class="example">
-              <span class="jp">スキルファイルの手順<strong>に従って</strong>ニュース収集を実行する。</span>
-              <span class="vi">Thực hiện thu thập tin tức theo hướng dẫn trong file skill.</span>
+              <span class="jp">パイプラインを再実行しさえすれば、数値が自動更新される。</span>
+              <span class="vi">Chỉ cần chạy lại pipeline là số liệu sẽ được tự động cập nhật.</span>
             </div>
           </div>
         </div>
@@ -1045,23 +1058,23 @@
     </div>
   </article>
 
-  <!-- B-3: バイブコーディング6週間でMac起動20分 -->
+  <!-- B-3: AI and cybersecurity defense -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">B3</span>バイブコーディングを6週間続けたらMacの起動が20分かかるようになった——/private/tmp に99万ファイル蓄積の実態</h3>
+      <h3><span class="news-no">B3</span>「長い目で見れば防御側が有利」——AI活用のサイバー防御戦略、専門家が詳説</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 本文 + 和越対訳</div>
         <p class="content-text lang-ja">
-          Claude Codeを使ったバイブコーディングで6週間に10製品を並行開発し続けた結果、MacBookの起動時間が約20分に達するという深刻な問題が発生した。原因を調査すると、<code>/private/tmp</code>配下に約99万ファイルが蓄積されていることが判明した。その大部分はClaude Codeが安全対策として毎セッション実施しているリポジトリclone＋<code>yarn install</code>で生成されたスクラッチディレクトリだった。起動時に<code>dirhelper</code>がこれら大量ファイルの削除処理を行うためにCPU負荷が150秒以上続き、ProgressBarが約20%で停止しているように見えたのが実態だ。また、Spotlightが<code>.metadata_never_index</code>対策が効いていない状態でnode_modulesを全てインデックス化し、毎分数千回のnode起動と相まってCPU負荷平均が26〜28まで上昇していた。著者はMacの買い替えを断念し、tmpディレクトリの定期的な確認と起動前のファイル削減を推奨している。
+          Bitforest社でWAF開発に携わるディレクターの佐藤雅司氏は、AIを活用したサイバー攻撃が急増する現状について「長い目で見れば防御側に有利な構造だ」と分析する。AIはSQLインジェクションやXSSなど既存の攻撃手法をより効率的に実行することを可能にしているが、防御側も同様にAIを使って脆弱性を先回りして発見・修正できるからだ。佐藤氏は「コードベース全体をAIにレビューさせ、機能追加のたびに異なるモデルで再レビューする」サイクルの実践を推奨する。ローカル動作のオープンウェイトモデルによるペネトレーションテストも有効としており、クラウドのAIモデルは攻撃系のリクエストを拒否することが多いため、ローカル実行が実用的という。AIエージェント由来のトラフィックを他のトラフィックと区別することには実務上の意味が薄いとし、既存のWAFが現時点で観察されているAI駆動の攻撃をブロックできていると結論づけた。
         </p>
         <div class="translation-vi">
-          Sau 6 tuần vibe coding song song phát triển 10 sản phẩm bằng Claude Code, MacBook gặp vấn đề nghiêm trọng khi thời gian khởi động lên đến khoảng 20 phút. Khi điều tra nguyên nhân, phát hiện ra khoảng 990.000 file đã tích lũy trong `/private/tmp`. Phần lớn là các scratch directory được tạo ra bởi thao tác clone repository và `yarn install` mà Claude Code thực hiện mỗi session như biện pháp an toàn. Khi khởi động, `dirhelper` xử lý xóa lượng file khổng lồ này trong hơn 150 giây khiến thanh tiến độ dường như dừng ở khoảng 20%. Ngoài ra, Spotlight đang đánh chỉ mục toàn bộ node_modules trong khi biện pháp `.metadata_never_index` không phát huy tác dụng, kết hợp với hàng nghìn lần khởi động node mỗi phút khiến tải CPU trung bình lên tới 26-28. Tác giả từ bỏ ý định mua Mac mới và khuyến nghị kiểm tra định kỳ thư mục tmp và giảm số lượng file trước khi khởi động.
+          Chuyên gia Sato Masashi từ công ty Bitforest, người phát triển WAF, nhận định rằng "nhìn dài hạn thì phía phòng thủ có lợi thế" trong bối cảnh tấn công mạng sử dụng AI gia tăng. AI cho phép thực hiện các kỹ thuật tấn công như SQL injection và XSS hiệu quả hơn, nhưng phía phòng thủ cũng có thể dùng AI để phát hiện và vá lỗ hổng trước. Ông khuyến nghị thực hành vòng review toàn bộ codebase bằng AI và review lại bằng model khác sau mỗi lần thêm tính năng. Ông cũng cho rằng penetration testing bằng open-weight model chạy local rất hữu ích vì các model AI trên cloud thường từ chối request liên quan đến tấn công. Kết luận của ông là WAF hiện tại đã đủ khả năng chặn các cuộc tấn công do AI dẫn dắt đã quan sát được cho đến nay.
         </div>
         <div class="source">
-          出典: Zenn / Isamu (singularity) · 2026-10-20 09:15 JST ·
-          <a href="https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min" target="_blank">原文を読む →</a>
+          出典: ITmedia AI+ · 2026-10-22 17:13 JST ·
+          <a href="https://www.itmedia.co.jp/aiplus/article/2610/22/2000002521/" target="_blank">原文を読む →</a>
         </div>
       </div>
       <div class="col col-right">
@@ -1071,57 +1084,57 @@
           <table class="vocab">
             <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
             <tr>
-              <td class="jp-word">蓄積</td>
-              <td class="reading">ちくせき</td>
-              <td class="hanviet">súc tích</td>
-              <td class="meaning">tích lũy, chất đống (accumulation)</td>
+              <td class="jp-word">防御側</td>
+              <td class="reading">ぼうぎょがわ</td>
+              <td class="hanviet">phòng ngự trắc</td>
+              <td class="meaning">phía phòng thủ (defenders)</td>
             </tr>
             <tr>
-              <td class="jp-word">負荷</td>
-              <td class="reading">ふか</td>
-              <td class="hanviet">phụ hà</td>
-              <td class="meaning">tải, gánh nặng (load)</td>
+              <td class="jp-word">先回り</td>
+              <td class="reading">さきまわり</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">đi trước, phát hiện trước kẻ tấn công</td>
             </tr>
             <tr>
-              <td class="jp-word">並行</td>
-              <td class="reading">へいこう</td>
-              <td class="hanviet">tịnh hành</td>
-              <td class="meaning">song song (parallel)</td>
+              <td class="jp-word">ペネトレーションテスト</td>
+              <td class="reading">ペネトレーションテスト</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">kiểm tra xâm nhập (penetration testing)</td>
             </tr>
             <tr>
-              <td class="jp-word">安全対策</td>
-              <td class="reading">あんぜんたいさく</td>
-              <td class="hanviet">an toàn đối sách</td>
-              <td class="meaning">biện pháp an toàn (safety measure)</td>
+              <td class="jp-word">オープンウェイト</td>
+              <td class="reading">オープンウェイト</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">open-weight — model AI có weight công khai</td>
             </tr>
             <tr>
-              <td class="jp-word">定期的</td>
-              <td class="reading">ていきてき</td>
-              <td class="hanviet">định kỳ đích</td>
-              <td class="meaning">định kỳ, thường xuyên (periodic)</td>
+              <td class="jp-word">WAF</td>
+              <td class="reading">ワフ</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">Web Application Firewall — tường lửa ứng dụng web</td>
             </tr>
             <tr>
-              <td class="jp-word">断念</td>
-              <td class="reading">だんねん</td>
-              <td class="hanviet">đoạn niệm</td>
-              <td class="meaning">từ bỏ ý định, từ chối (give up)</td>
+              <td class="jp-word">コードベース</td>
+              <td class="reading">コードベース</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">toàn bộ mã nguồn của một dự án (codebase)</td>
             </tr>
           </table>
         </div>
         <div class="edu-block">
           <h4>📗 文法</h4>
           <div class="grammar-item">
-            <strong>～続けた結果</strong> — kết quả của việc tiếp tục ~
+            <strong>～に有利な構造だ</strong> — có cấu trúc có lợi cho ...
             <div class="example">
-              <span class="jp">6週間バイブコーディングを<strong>続けた結果</strong>、起動時間が20分に達した。</span>
-              <span class="vi">Kết quả của việc tiếp tục vibe coding 6 tuần, thời gian khởi động lên đến 20 phút.</span>
+              <span class="jp">長い目で見れば、防御側に有利な構造だと専門家は分析する。</span>
+              <span class="vi">Chuyên gia phân tích rằng nhìn dài hạn, đây là cấu trúc có lợi cho phía phòng thủ.</span>
             </div>
           </div>
           <div class="grammar-item">
-            <strong>～に達する</strong> — đạt tới, lên tới
+            <strong>～に携わる</strong> — tham gia, làm việc trong lĩnh vực (chuyên môn)
             <div class="example">
-              <span class="jp">CPU負荷平均が26〜28<strong>に達して</strong>いた。</span>
-              <span class="vi">Tải CPU trung bình đã lên đến 26-28.</span>
+              <span class="jp">WAF開発に携わるディレクターが今回の調査を実施した。</span>
+              <span class="vi">Vị giám đốc tham gia phát triển WAF đã thực hiện cuộc điều tra lần này.</span>
             </div>
           </div>
         </div>
@@ -1131,71 +1144,71 @@
 
 </section>
 
-<!-- =========================================================
-     SECTION C: GLOBAL TECH — 3 articles
-     ========================================================= -->
+<!-- ===== SECTION C: GLOBAL TECH ===== -->
 <section id="global-tech" class="digest-section">
   <h2 class="section-title">🌐 Global Tech / AI (English)</h2>
 
-  <!-- C-1: Code is clay now -->
+  <!-- C-1: Anthropic distillation defenses -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">C1</span>"Code is Clay Now" — How AI Coding Agents Demand a New Engineering Mindset: Artisan vs. Factory</h3>
+      <h3><span class="news-no">C1</span>Anthropic Strengthens Defenses Against Industrial-Scale Model Distillation Attacks</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 Article (English)</div>
         <p class="content-text lang-en">
-          Alberto Denia's essay "Code is Clay Now" argues that agentic coding has fundamentally changed the economics of software modification. Where traditional code was like stone — expensive to reshape and demanding careful upfront design — AI coding agents have made changes cheap and rapid. Code now behaves like clay: endlessly moldable, but still requiring a skilled hand to shape it well.
+          Anthropic published a detailed post on October 12 describing new defenses against what it calls "distillation attacks" — covert, industrial-scale campaigns to extract Claude's capabilities and replicate them in competing models without authorization. The company says these campaigns, often run through networks of fraudulent accounts, specifically target Claude's visible reasoning transcripts, which are the most valuable training signal for replication.
 
-          Denia identifies two distinct workflows that emerge from this shift. The "artisan" approach keeps the engineer closely involved: iterating quickly, applying judgment at every step, and tuning the feel of the result. This suits personal projects or features where subjective quality matters, like adding a live calculator block to a Markdown editor in under an hour. The "factory" approach instead front-loads human judgment into automated pipelines — specifications, code generators, and verifiers — that run with minimal ongoing supervision. It excels in well-structured codebases with repetitive, clearly defined tasks.
+          The defenses operate in three layers. First, "preserved thinking" blocks new accounts from editing prior reasoning context, and reasoning transcripts are only visible to the requesting organization. Second, a two-stage classifier — red-teamed both internally and externally — detects extraction attempts with a false positive rate below 0.1%. Third, stricter rate limits, account bans, and charges on blocked requests deter repeat attempts.
 
-          The key insight is that both approaches still require human judgment — the difference is *when* it's applied. Real projects will blend both modes, and choosing wrong leads to either over-engineered automation or unsustainable manual iteration. Denia warns that without sound architecture and careful refinement, rapidly changed code can fall apart fast. The essay resonated widely on Hacker News with 145 points.
+          Results were significant: reasoning tokens extracted by distillers fell 10 to 100-fold, and tens of thousands of accounts were banned, often within two hours of their first request. Anthropic named Zhipu's GLM-5.3 as an example of a distilled model that a U.S. government assessment found to be the most capable open-weights cyber-attack tool released to date.
+
+          Anthropic acknowledged trade-offs: legitimate developers occasionally need to update integrations, a small fraction of benign requests are misclassified, and blocked requests now incur charges. The company called for all frontier model providers and cloud platforms to share responsibility for distillation defense.
         </p>
         <div class="impact-row">
           <span class="impact-badge medium">🟠 MEDIUM</span>
-          <span class="impact-text">Useful framing for deciding when to use agent-heavy automation vs. tight human-in-the-loop iteration</span>
+          <span class="impact-text">New classifier + rate limits may affect API integrations that send reasoning-heavy prompts at scale</span>
         </div>
         <div class="source">
-          Source: albertodenia.com · 2026-10-22 · Author: Alberto Denia ·
-          <a href="https://www.albertodenia.com/writing/code-is-clay-now" target="_blank">Read original →</a>
+          Source: Anthropic · Oct 12, 2026 · Author: Anthropic Safety Team ·
+          <a href="https://www.anthropic.com/news/distillation-defenses" target="_blank">Read original →</a>
         </div>
       </div>
       <div class="col col-right">
         <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
         <div class="translation-vi">
-          Bài luận "Code is Clay Now" của Alberto Denia lập luận rằng agentic coding đã thay đổi căn bản kinh tế học của việc chỉnh sửa phần mềm. Nếu như code truyền thống giống như đá — tốn kém để tái cấu trúc và đòi hỏi thiết kế cẩn thận từ đầu — thì các AI coding agent đã làm cho việc thay đổi trở nên rẻ và nhanh chóng. Code giờ đây giống như đất sét: có thể tạo hình mãi mãi, nhưng vẫn cần bàn tay khéo léo để định hình tốt.
+          Anthropic công bố bài viết chi tiết vào ngày 12/10 về các biện pháp phòng thủ mới chống lại "distillation attacks" — các chiến dịch quy mô công nghiệp nhằm chiết xuất khả năng của Claude để sao chép vào các model cạnh tranh mà không được phép. Công ty cho biết các chiến dịch này, thường chạy qua mạng lưới tài khoản gian lận, đặc biệt nhắm vào các reasoning transcript hiển thị của Claude — tín hiệu training có giá trị nhất để sao chép.
 
-          Denia xác định hai workflow riêng biệt nổi lên từ sự thay đổi này. Cách tiếp cận "artisan" (thợ thủ công) giữ kỹ sư tham gia chặt chẽ: lặp nhanh, áp dụng phán đoán ở từng bước, tinh chỉnh cảm giác của kết quả. Phù hợp với dự án cá nhân hoặc tính năng mà chất lượng chủ quan quan trọng. Cách tiếp cận "factory" (nhà máy) thay vào đó đưa phán đoán con người vào trước trong các pipeline tự động — đặc tả, trình tạo code, và bộ xác minh — chạy với giám sát tối thiểu. Nó hoạt động tốt trong các codebase có cấu trúc tốt với các task lặp lại và được định nghĩa rõ ràng.
+          Hệ thống phòng thủ gồm ba lớp. Thứ nhất, "preserved thinking" ngăn tài khoản mới chỉnh sửa context reasoning trước đó, và transcript reasoning chỉ hiển thị cho tổ chức đã gửi request. Thứ hai, một classifier hai giai đoạn — được red-team cả nội bộ lẫn bên ngoài — phát hiện các nỗ lực chiết xuất với tỷ lệ false positive dưới 0,1%. Thứ ba, rate limit chặt chẽ hơn, ban tài khoản và tính phí cho các request bị chặn nhằm ngăn các nỗ lực lặp lại.
 
-          Điều quan trọng là cả hai cách tiếp cận đều vẫn cần phán đoán của con người — sự khác biệt là *khi nào* nó được áp dụng. Chọn sai có thể dẫn đến automation quá phức tạp hoặc iteration thủ công không bền vững. Bài viết đã thu hút 145 điểm trên Hacker News.
+          Kết quả rõ rệt: token reasoning mà kẻ tấn công chiết xuất được giảm 10 đến 100 lần, và hàng chục nghìn tài khoản đã bị ban, thường trong vòng hai giờ kể từ request đầu tiên. Anthropic nhận định đây là một "trò chơi mèo đuổi chuột" và kêu gọi toàn bộ các nhà cung cấp model và nền tảng cloud chia sẻ trách nhiệm phòng thủ.
         </div>
         <div class="impact-note">
-          Với SE đang chuyển sang agentic workflow: bài viết này cung cấp framework thực tế để quyết định khi nào dùng pipeline tự động (spec → agent → verify) và khi nào cần giữ vòng lặp con người chặt chẽ — đặc biệt hữu ích khi thiết kế workflow cho Claude Code.
+          Nếu bạn đang dùng Claude API với extended thinking ở quy mô lớn, hãy kiểm tra xem request của bạn có bị classifier đánh dấu nhầm không — tỷ lệ false positive thấp nhưng không bằng 0. Đây cũng là tín hiệu rằng Anthropic đang tích cực bảo vệ reasoning output, ảnh hưởng đến các use case RAG hoặc agent sử dụng chain-of-thought làm training data.
         </div>
         <div class="edu-block">
           <h4>📖 Thuật ngữ khó</h4>
           <table class="term-table">
             <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
             <tr>
-              <td class="term-en">Agentic coding</td>
-              <td class="term-pron">/ˈeɪdʒəntɪk/</td>
-              <td class="term-explain">Phong cách lập trình trong đó AI agent tự động thực hiện nhiều bước: đọc code, lên kế hoạch, chỉnh sửa, chạy test — thay vì chỉ gợi ý từng dòng</td>
+              <td class="term-en">Distillation attack</td>
+              <td class="term-pron">/dɪˌstɪˈleɪʃən/</td>
+              <td class="term-explain">Chiến dịch quét lấy output (đặc biệt là reasoning) của model lớn để làm training data cho model nhỏ hơn — về bản chất là ăn trộm năng lực mà không trả phí.</td>
             </tr>
             <tr>
-              <td class="term-en">Artisan approach</td>
-              <td class="term-pron">/ˈɑːrtɪzən/</td>
-              <td class="term-explain">Phương pháp "thợ thủ công": kỹ sư tham gia chặt chẽ, kiểm soát từng bước thay đổi, thích hợp khi chất lượng cảm quan quan trọng</td>
+              <td class="term-en">Preserved thinking</td>
+              <td class="term-pron">/prɪˈzɜːrvd/</td>
+              <td class="term-explain">Tính năng ngăn tài khoản mới sửa đổi context suy luận trước đó của Claude, giảm khả năng kẻ tấn công "kéo" reasoning ra ngoài.</td>
             </tr>
             <tr>
-              <td class="term-en">Factory approach</td>
-              <td class="term-pron">/ˈfæktri/</td>
-              <td class="term-explain">Phương pháp "nhà máy": đưa phán đoán vào đặc tả và pipeline trước, để agent/automation chạy tự động với ít giám sát — tốt cho task lặp lại có cấu trúc</td>
+              <td class="term-en">False positive rate</td>
+              <td class="term-pron">/fɔːls ˈpɒzɪtɪv/</td>
+              <td class="term-explain">Tỷ lệ request hợp lệ bị classifier nhầm đánh dấu là tấn công — dưới 0,1% có nghĩa là cứ 1000 request bình thường thì dưới 1 cái bị chặn nhầm.</td>
             </tr>
             <tr>
-              <td class="term-en">Human-in-the-loop</td>
-              <td class="term-pron">/ˈhjuːmən ɪn ðə luːp/</td>
-              <td class="term-explain">Mô hình trong đó con người can thiệp vào quá trình AI đưa ra quyết định, giúp kiểm soát chất lượng và tránh lỗi nguy hiểm</td>
+              <td class="term-en">Open-weights model</td>
+              <td class="term-pron">/ˈoʊpən weɪts/</td>
+              <td class="term-explain">Model AI có weight công khai để tải về và chạy local — khác với model closed-source như Claude hay GPT chỉ truy cập qua API.</td>
             </tr>
           </table>
         </div>
@@ -1203,65 +1216,69 @@
     </div>
   </article>
 
-  <!-- C-2: OpenAI models on Google Cloud -->
+  <!-- C-2: OpenAI CLI -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">C2</span>OpenAI Models Are Now Available on Google Cloud — o3, GPT-5.6 Sol, and Embeddings Via Vertex AI</h3>
+      <h3><span class="news-no">C2</span>OpenAI Releases Official CLI for Its REST API — Open-Source, Homebrew Install, Go 1.26+</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 Article (English)</div>
         <p class="content-text lang-en">
-          OpenAI and Google Cloud have announced that OpenAI's models — including o3, GPT-5.6 Sol, and the latest embedding models — are now available through Google Cloud's Vertex AI platform. This marks a significant shift in the cloud AI landscape: two companies that were fierce competitors in the LLM race are now collaborating at the infrastructure level, allowing enterprises to access OpenAI capabilities directly within their existing Google Cloud environments.
+          OpenAI published the official <code>openai-cli</code> repository on GitHub on October 22, 2026, under the Apache-2.0 license. The tool is a native command-line interface for the OpenAI REST API, targeting developers who want to call endpoints from a terminal, build shell scripts, or integrate API calls into CI/CD pipelines without writing Python or Node boilerplate.
 
-          For developers, this means OpenAI models can now be deployed in the same region as other GCP services, subject to Google Cloud's data residency and compliance guarantees. Organizations that have standardized on GCP can now call OpenAI APIs without routing traffic through OpenAI's own endpoints, potentially simplifying compliance with regulations like GDPR or Japan's Act on the Protection of Personal Information.
+          Installation is via Homebrew (<code>brew install openai/tools/openai</code>) or Go 1.26+. Commands follow a resource-based pattern: <code>openai responses create</code>, <code>openai files upload</code>, <code>openai images generate</code>. Output defaults to human-readable text but supports JSON, JSONL, and GJSON-based field extraction for scripting.
 
-          The partnership also allows fine-tuned OpenAI models to be combined with Google Cloud services like BigQuery ML, Vertex AI Agent Builder, and Cloud Run. Pricing follows Vertex AI's standard model-as-a-service billing. On Hacker News, the announcement drew 274 points and 112 comments, with developers debating vendor lock-in tradeoffs and whether this signals a deeper strategic alliance between the two companies.
+          Security features include mutual TLS (beta), an untrusted-stdin mode that prevents piped input from accidentally reading local files, and support for custom headers. The CLI handles both standard API keys (<code>OPENAI_API_KEY</code>) and admin keys (<code>OPENAI_ADMIN_KEY</code>) for usage reporting endpoints.
+
+          The release is notable for the agentic developer workflow: scripting multi-step AI tasks in bash, chaining responses, and running headless evaluations without SDK overhead. Shell tab completion and per-command help are included. Pull requests are limited to repository collaborators, so community contributions go through issues.
         </p>
         <div class="impact-row">
           <span class="impact-badge medium">🟠 MEDIUM</span>
-          <span class="impact-text">Enterprises on GCP can now use OpenAI models with Google Cloud's compliance guarantees — relevant for Japan data residency requirements</span>
+          <span class="impact-text">Simplifies scripting and CI/CD integration for OpenAI API users; agentic shell workflows without SDK overhead</span>
         </div>
         <div class="source">
-          Source: OpenAI / Google Cloud · 2026-10-22 · Author: OpenAI Team ·
-          <a href="https://openai.com/index/openai-models-google-cloud/" target="_blank">Read original →</a>
+          Source: GitHub (OpenAI) · Oct 22, 2026 · Author: OpenAI ·
+          <a href="https://github.com/openai/openai-cli" target="_blank">Read original →</a>
         </div>
       </div>
       <div class="col col-right">
         <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
         <div class="translation-vi">
-          OpenAI và Google Cloud đã thông báo rằng các model của OpenAI — bao gồm o3, GPT-5.6 Sol và các model embedding mới nhất — hiện đã có sẵn trên nền tảng Vertex AI của Google Cloud. Đây là sự thay đổi đáng kể trong bức tranh cloud AI: hai công ty từng là đối thủ gay gắt trong cuộc đua LLM giờ đây đang hợp tác ở cấp độ cơ sở hạ tầng, cho phép doanh nghiệp truy cập khả năng của OpenAI trực tiếp trong môi trường Google Cloud hiện có của họ.
+          OpenAI công bố repository chính thức <code>openai-cli</code> trên GitHub ngày 22/10 theo giấy phép Apache-2.0. Đây là giao diện dòng lệnh (CLI) native cho OpenAI REST API, hướng tới các developer muốn gọi endpoint từ terminal, xây dựng shell script, hoặc tích hợp API vào pipeline CI/CD mà không cần viết boilerplate bằng Python hay Node.
 
-          Đối với developer, điều này có nghĩa là model OpenAI hiện có thể được deploy trong cùng region với các dịch vụ GCP khác, theo các đảm bảo lưu trú dữ liệu và tuân thủ của Google Cloud. Các tổ chức đã tiêu chuẩn hóa trên GCP giờ có thể gọi OpenAI API mà không cần định tuyến lưu lượng qua các endpoint riêng của OpenAI, có thể đơn giản hóa tuân thủ các quy định như GDPR hay Luật Bảo vệ Thông tin Cá nhân của Nhật Bản.
+          Cài đặt qua Homebrew (<code>brew install openai/tools/openai</code>) hoặc Go 1.26+. Lệnh theo mẫu resource-based: <code>openai responses create</code>, <code>openai files upload</code>, <code>openai images generate</code>. Output mặc định là text đọc được nhưng hỗ trợ JSON, JSONL và trích xuất trường bằng GJSON để script hóa.
 
-          Quan hệ đối tác cũng cho phép kết hợp các model OpenAI đã fine-tune với các dịch vụ Google Cloud như BigQuery ML, Vertex AI Agent Builder và Cloud Run. Trên Hacker News, thông báo nhận được 274 điểm và 112 bình luận, với developer tranh luận về đánh đổi vendor lock-in.
+          Tính năng bảo mật gồm mutual TLS (beta), chế độ untrusted-stdin ngăn input được pipe vào vô tình đọc file local, và hỗ trợ custom header. CLI xử lý cả API key thông thường và admin key cho các endpoint báo cáo usage.
+
+          Phát hành này đặc biệt quan trọng cho workflow agentic: script các tác vụ AI nhiều bước trong bash, nối kết các response, và chạy evaluation headless mà không cần overhead của SDK. Shell tab completion và help theo từng lệnh đều được tích hợp sẵn.
         </div>
         <div class="impact-note">
-          Với Cloud Engineer dùng GCP tại Nhật: có thể dùng OpenAI model trong Vertex AI với data residency tuân thủ luật bảo vệ TTCN Nhật Bản — xem xét khi build agentic workflow cần cả Gemini và GPT/o3 mà không muốn quản lý 2 endpoint riêng.
+          Hữu ích ngay cho SE/Cloud Engineer đang tích hợp OpenAI vào CI/CD hoặc script automation: không cần viết Python wrapper nữa, dùng <code>openai responses create</code> trực tiếp trong bash pipeline. Chức năng untrusted-stdin là điểm đáng chú ý về bảo mật khi dùng trong môi trường production.
         </div>
         <div class="edu-block">
           <h4>📖 Thuật ngữ khó</h4>
           <table class="term-table">
             <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
             <tr>
-              <td class="term-en">Vertex AI</td>
-              <td class="term-pron">/ˈvɜːrteks eɪ aɪ/</td>
-              <td class="term-explain">Nền tảng ML/AI được quản lý của Google Cloud, cho phép train, deploy và quản lý model AI ở quy mô lớn</td>
+              <td class="term-en">Mutual TLS (mTLS)</td>
+              <td class="term-pron">/ˈmjuːtʃuəl tiː el es/</td>
+              <td class="term-explain">Xác thực hai chiều bằng certificate — không chỉ client xác thực server mà server cũng xác thực client. Quan trọng trong microservices và API bảo mật cao.</td>
             </tr>
             <tr>
-              <td class="term-en">Data residency</td>
-              <td class="term-pron">/ˈdeɪtə ˈrɛzɪdənsi/</td>
-              <td class="term-explain">Yêu cầu dữ liệu phải được lưu trữ và xử lý trong một khu vực địa lý cụ thể (ví dụ: trong lãnh thổ Nhật Bản) để tuân thủ pháp lý</td>
+              <td class="term-en">GJSON</td>
+              <td class="term-pron">/ˈdʒiːsən/</td>
+              <td class="term-explain">Thư viện Go cho phép trích xuất field từ JSON bằng cú pháp path đơn giản — ví dụ <code>items.#.name</code> để lấy tất cả tên trong mảng items.</td>
             </tr>
             <tr>
-              <td class="term-en">Vendor lock-in</td>
-              <td class="term-pron">/ˈvɛndər lɒk ɪn/</td>
-              <td class="term-explain">Tình trạng phụ thuộc vào một nhà cung cấp cụ thể đến mức khó chuyển đổi sang nhà cung cấp khác mà không tốn chi phí lớn</td>
+              <td class="term-en">Apache-2.0 license</td>
+              <td class="term-pron">/əˈpætʃi/</td>
+              <td class="term-explain">Giấy phép mã nguồn mở cho phép sử dụng thương mại, sửa đổi và phân phối mà không cần share-alike, chỉ cần giữ nguyên copyright notice.</td>
             </tr>
             <tr>
-              <td class="term-en">Model-as-a-service</td>
-              <td class="term-pron">/ˈmɒdəl æz ə ˈsɜːrvɪs/</td>
-              <td class="term-explain">Mô hình kinh doanh cung cấp model AI qua API với giá tính theo lượng sử dụng, không cần quản lý infrastructure</td>
+              <td class="term-en">Boilerplate</td>
+              <td class="term-pron">/ˈbɔɪlərpleɪt/</td>
+              <td class="term-explain">Code template lặp đi lặp lại, cần thiết nhưng không chứa logic chính — như setup SDK, cấu hình auth, import cơ bản mà mọi project đều cần.</td>
             </tr>
           </table>
         </div>
@@ -1269,70 +1286,69 @@
     </div>
   </article>
 
-  <!-- C-3: Perplexity SPACE -->
+  <!-- C-3: GitHub Copilot models deprecated -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">C3</span>Perplexity Open-Sources SPACE: A Firecracker-Based Agent Sandbox with Zero Escape in 108 Attempts</h3>
+      <h3><span class="news-no">C3</span>GitHub Copilot Deprecates Six AI Models Including GPT-5.5, Gemini 3.7 Flash, and Grok 4.5</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 Article (English)</div>
         <p class="content-text lang-en">
-          Perplexity AI has open-sourced SPACE (Secure Perplexity Agent Computing Environment) under the Apache 2.0 license — a sandboxing platform designed specifically for running AI agent tasks in isolated, reproducible environments. Each agent task runs inside a Firecracker microVM, with credentials and network egress controlled entirely from outside the VM boundary.
+          GitHub announced on October 19, 2026 that six AI models in GitHub Copilot are immediately deprecated across all Copilot experiences including Chat, inline edits, ask mode, agent mode, and code completions. The deprecated models and their recommended replacements are: Gemini 3.7 Flash → Gemini 3.8 Flash; GPT-5.5 → GPT-6.1 Sol; GPT-5.4 → GPT-6.1 Sol; GPT-5.4 mini → GPT-6 Luna; GPT-5 mini → GPT-6 Luna; Grok 4.5 → Grok 4.7.
 
-          The key architectural insight is the separation of trust: the agent running inside the VM cannot reach the host, cannot exfiltrate credentials by calling external services, and cannot persist state between tasks unless explicitly allowed. Firecracker's millisecond boot times make it practical to spin up a fresh microVM per agent invocation without adding significant latency. In internal red-team testing across 108 escape attempts, none succeeded in reaching the host system.
+          No action is required to remove the deprecated models from Copilot. However, enterprise administrators who want to use the replacement models may need to explicitly enable them through model policies in their Copilot settings before they appear in the model selector in VS Code and github.com.
 
-          SPACE is designed to address a growing concern in production agent deployments: agents that can browse the web, execute code, and call APIs create a large and hard-to-audit attack surface. By constraining egress at the hypervisor level rather than the application level, SPACE provides defense-in-depth that prompt-level instructions alone cannot guarantee. The project was highlighted in Latent Space's AI News roundup as a notable advance in agentic infrastructure. Source code is available on GitHub alongside documentation for integrating SPACE with LangChain, CrewAI, and custom agent harnesses.
+          The deprecations reflect the rapid model generation cycle in the AI tooling space — GPT-5.5, for example, was released less than a year ago and is already being superseded by GPT-6.1 Sol. For teams that have customized Copilot configurations or have built workflows relying on specific model behavior, this is a migration event: the replacement models may differ in instruction-following, verbosity, and latency characteristics.
+
+          Enterprise customers with specific compatibility concerns are advised to contact their GitHub account manager before or immediately after the cutover.
         </p>
         <div class="impact-row">
           <span class="impact-badge high">🔴 HIGH</span>
-          <span class="impact-text">Production-grade open-source sandbox for AI agents — addresses the critical security gap in agentic deployments</span>
+          <span class="impact-text">Breaking change: deprecated models removed from all Copilot experiences; teams with pinned model configs must update policies</span>
         </div>
         <div class="source">
-          Source: Perplexity AI / Latent Space · 2026-10-14–22 · Author: Perplexity AI Team ·
-          <a href="https://www.latent.space/p/ainews-agents-disprove-polysemanticity" target="_blank">Read original →</a>
+          Source: GitHub Changelog · Oct 19, 2026 · Author: GitHub ·
+          <a href="https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026" target="_blank">Read original →</a>
         </div>
       </div>
       <div class="col col-right">
         <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
         <div class="translation-vi">
-          Perplexity AI vừa mã nguồn mở SPACE (Secure Perplexity Agent Computing Environment) theo giấy phép Apache 2.0 — một nền tảng sandbox được thiết kế đặc biệt để chạy các task của AI agent trong môi trường cô lập và có thể tái tạo. Mỗi task của agent chạy bên trong một Firecracker microVM, với credentials và network egress được kiểm soát hoàn toàn từ bên ngoài ranh giới VM.
+          GitHub thông báo ngày 19/10 rằng sáu model AI trong GitHub Copilot bị deprecate ngay lập tức trên toàn bộ các tính năng Copilot gồm Chat, chỉnh sửa inline, chế độ ask, chế độ agent và code completion. Danh sách deprecate và model thay thế đề xuất: Gemini 3.7 Flash → Gemini 3.8 Flash; GPT-5.5 → GPT-6.1 Sol; GPT-5.4 → GPT-6.1 Sol; GPT-5.4 mini → GPT-6 Luna; GPT-5 mini → GPT-6 Luna; Grok 4.5 → Grok 4.7.
 
-          Ý tưởng kiến trúc chính là phân tách trust: agent chạy bên trong VM không thể tiếp cận host, không thể đánh cắp credentials bằng cách gọi dịch vụ bên ngoài, và không thể duy trì state giữa các task trừ khi được cho phép rõ ràng. Thời gian boot theo mili-giây của Firecracker giúp việc khởi tạo một microVM mới cho mỗi lần gọi agent trở nên khả thi mà không thêm độ trễ đáng kể. Trong kiểm thử red-team nội bộ với 108 lần thử thoát, không lần nào thành công trong việc tiếp cận hệ thống host.
+          Không cần thao tác gì để xóa các model đã deprecate. Tuy nhiên, quản trị viên enterprise muốn dùng model thay thế có thể cần bật chúng qua model policy trong cài đặt Copilot trước khi chúng xuất hiện trong model selector trên VS Code và github.com.
 
-          SPACE được thiết kế để giải quyết mối lo ngại ngày càng tăng trong các deployment agent trên production: các agent có thể duyệt web, thực thi code và gọi API tạo ra bề mặt tấn công lớn và khó kiểm tra. Bằng cách giới hạn egress ở cấp độ hypervisor thay vì application, SPACE cung cấp phòng thủ theo chiều sâu mà các instruction ở cấp độ prompt đơn thuần không thể đảm bảo. Mã nguồn có sẵn trên GitHub cùng tài liệu tích hợp với LangChain, CrewAI và các agent harness tùy chỉnh.
+          Việc deprecate hàng loạt này phản ánh vòng đời model rất nhanh trong hệ sinh thái AI tooling — GPT-5.5 mới phát hành chưa đầy một năm đã bị thay thế bởi GPT-6.1 Sol. Với các team đã tùy chỉnh cấu hình Copilot hoặc xây dựng workflow phụ thuộc vào behavior của model cụ thể, đây là sự kiện cần migration: các model thay thế có thể khác nhau về instruction-following, độ dài response và latency.
+
+          Enterprise customer có lo ngại về tương thích được khuyến cáo liên hệ account manager của GitHub ngay.
         </div>
         <div class="impact-note">
-          Với SE đang build production agent: SPACE giải quyết trực tiếp câu hỏi "làm thế nào để agent chạy code/call API mà không làm lộ credentials hay bị exploit?" — đáng xem xét ngay nếu đang deploy agent có tool-use trên môi trường production.
+          Nếu team bạn dùng GitHub Copilot Enterprise và có script automation hoặc prompting strategy được tune cho GPT-5.5 hay Gemini 3.7 Flash, hãy test lại trên model thay thế (GPT-6.1 Sol / Gemini 3.8 Flash) ngay hôm nay — behavior có thể thay đổi đáng kể về verbosity và format output.
         </div>
         <div class="edu-block">
           <h4>📖 Thuật ngữ khó</h4>
           <table class="term-table">
             <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
             <tr>
-              <td class="term-en">Firecracker microVM</td>
-              <td class="term-pron">/ˈfaɪərˌkrækər ˈmaɪkroʊ viːɛm/</td>
-              <td class="term-explain">Máy ảo siêu nhỏ do AWS phát triển, khởi động trong vài mili-giây với footprint bộ nhớ cực nhỏ — được dùng bởi AWS Lambda và Fargate</td>
+              <td class="term-en">Deprecated</td>
+              <td class="term-pron">/ˈdeprɪkeɪtɪd/</td>
+              <td class="term-explain">Đã lỗi thời và không còn được hỗ trợ — trong software, deprecated nghĩa là sẽ bị xóa hoàn toàn trong tương lai gần, người dùng nên chuyển sang phiên bản mới.</td>
             </tr>
             <tr>
-              <td class="term-en">Network egress</td>
-              <td class="term-pron">/ˈnɛtwɜːrk ˈiːɡrɛs/</td>
-              <td class="term-explain">Lưu lượng mạng đi ra từ một hệ thống/container ra ngoài; kiểm soát egress ngăn agent gọi endpoint độc hại hoặc đánh cắp dữ liệu</td>
+              <td class="term-en">Model policy</td>
+              <td class="term-pron">/ˈmɒdəl ˈpɒlɪsi/</td>
+              <td class="term-explain">Cấu hình ở cấp enterprise/organization quy định model AI nào được phép dùng trong Copilot — admin có thể whitelist hoặc blacklist các model cụ thể.</td>
             </tr>
             <tr>
-              <td class="term-en">Defense-in-depth</td>
-              <td class="term-pron">/dɪˈfɛns ɪn dɛpθ/</td>
-              <td class="term-explain">Chiến lược bảo mật nhiều lớp — nếu một lớp bị vượt qua, các lớp khác vẫn bảo vệ hệ thống; đây là best practice trong bảo mật doanh nghiệp</td>
+              <td class="term-en">Cutover</td>
+              <td class="term-pron">/ˈkʌtoʊvər/</td>
+              <td class="term-explain">Thời điểm chuyển đổi dứt điểm từ hệ thống/model cũ sang mới — thường xảy ra ngay lập tức, không có transition period.</td>
             </tr>
             <tr>
-              <td class="term-en">Agent harness</td>
-              <td class="term-pron">/ˈeɪdʒənt ˈhɑːrnɪs/</td>
-              <td class="term-explain">Framework bao bọc xung quanh một agent để cung cấp scaffolding: tool registry, memory, logging, retry logic — ví dụ LangChain, CrewAI</td>
-            </tr>
-            <tr>
-              <td class="term-en">Red-team testing</td>
-              <td class="term-pron">/rɛd tiːm/</td>
-              <td class="term-explain">Kiểm thử bảo mật theo kiểu tấn công: một nhóm chuyên gia cố tình phá vỡ hệ thống để tìm lỗ hổng trước kẻ tấn công thực</td>
+              <td class="term-en">Instruction-following</td>
+              <td class="term-pron">/ɪnˈstrʌkʃən ˈfɒloʊɪŋ/</td>
+              <td class="term-explain">Khả năng model tuân thủ chính xác các chỉ dẫn trong system prompt hoặc user message — các model khác nhau có thể diễn giải cùng một instruction theo cách khác nhau.</td>
             </tr>
           </table>
         </div>
@@ -1345,21 +1361,21 @@
 <section class="prev-digests" aria-label="Bản tin gần đây">
   <h3>📅 Bản tin trước đó</h3>
   <ul class="prev-digests-list">
-    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-22_1000.html">2026-10-22 10:00</a></li>
-    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-22_0500.html">2026-10-22 05:00</a></li>
-    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-22_0000.html">2026-10-22 00:00</a></li>
-    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-21_2000.html">2026-10-21 20:00</a></li>
-    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-21_1500.html">2026-10-21 15:00</a></li>
-    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-21_1000.html">2026-10-21 10:00</a></li>
-    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-21_0500.html">2026-10-21 05:00</a></li>
-    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-21_0000.html">2026-10-21 00:00</a></li>
-    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-20_2000.html">2026-10-20 20:00</a></li>
-    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-20_1500.html">2026-10-20 15:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-22_1500.html">2026-10-22 15:00</a></li>
+<li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-22_1000.html">2026-10-22 10:00</a></li>
+<li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-22_0500.html">2026-10-22 05:00</a></li>
+<li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-22_0000.html">2026-10-22 00:00</a></li>
+<li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-21_2000.html">2026-10-21 20:00</a></li>
+<li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-21_1500.html">2026-10-21 15:00</a></li>
+<li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-21_1000.html">2026-10-21 10:00</a></li>
+<li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-21_0500.html">2026-10-21 05:00</a></li>
+<li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-21_0000.html">2026-10-21 00:00</a></li>
+<li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-20_2000.html">2026-10-20 20:00</a></li>
   </ul>
 </section>
 
 <footer>
-  <p>📚 デイリーダイジェスト | 2026-10-22 15:00 JST | 11 articles · JLPT N2+ · For SE/Cloud Engineer</p>
+  <p>📚 デイリーダイジェスト | 2026-10-22 20:00 JST | 11 articles · JLPT N2+ · For SE/Cloud Engineer</p>
   <p>Auto-generated by Claude Code Routine</p>
 </footer>
 

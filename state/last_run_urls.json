@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-23T20:00:00+09:00",
+  "last_run_at": "2026-10-24T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-24T00:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002562/",
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002553/",
+        "https://news.yahoo.co.jp/pickup/6599876?source=rss",
+        "https://www.jiji.com/jc/article?k=2026102300999&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102300838&g=pol&m=rss",
+        "https://zenn.dev/sakagi/articles/8caa896e649005",
+        "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002563/",
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002513/",
+        "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+        "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+        "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences"
+      ],
+      "titles": [
+        "パナソニックHD子会社、使用禁止の生成AIに33万人分の従業員情報をアップロード",
+        "佐川急便への不正アクセス、最大5323万件の個人情報流出か——9月末のサイバー攻撃で続報",
+        "台風30号（チャンパカ）、先島諸島に接近——26日には九州への影響も",
+        "ネパール・ヒマラヤで邦人登山者2遺体を発見——約6300メートル山中で捜索終結へ",
+        "消費税減税、国会審議が本格化——財源示さぬ野党案に与党は批判、議論かみ合わず",
+        "Better AuthをMCPの認可サーバーにして、AIエージェントからOAuthでアプリを操作させる",
+        "チームみらい安野党首らがAI悪用サイバー攻撃への緊急提言をデジ庁に提出——「AIにはAIを」",
+        "「あいまいな指示」を与えられたAIは安全なコーディングができない——香港科技大などの調査結果",
+        "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation Under Linux Foundation",
+        "GitHub Copilot Impact Dashboard Adds Industry Benchmarking — Compare Agentic Adoption Against Peers",
+        "Anthropic Opens Open Call for Guest Investigators in Life Sciences — AI Research Access Program"
+      ]
+    },
     {
       "run_at": "2026-10-23T20:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Strengthening Defenses Against Industrial-Scale Model Distillation Attacks",
         "OpenAI CLI — Official Command-Line Interface for the OpenAI REST API",
         "GitHub Copilot Models Deprecated on October 19, 2026"
-      ]
-    },
-    {
-      "run_at": "2026-10-22T15:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/22/2000002501/",
-        "https://www.itmedia.co.jp/news/article/2610/22/2000002500/",
-        "https://www.itmedia.co.jp/news/article/2610/22/2000002491/",
-        "https://www.itmedia.co.jp/news/article/2610/22/2000002489/",
-        "https://www.itmedia.co.jp/news/article/2610/21/2000002439/",
-        "https://zenn.dev/yoshi47/articles/cmux-after-agent-ides",
-        "https://zenn.dev/edash_tech_blog/articles/3476d88801674d",
-        "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
-        "https://www.albertodenia.com/writing/code-is-clay-now",
-        "https://openai.com/index/openai-models-google-cloud/",
-        "https://www.latent.space/p/ainews-agents-disprove-polysemanticity"
-      ],
-      "titles": [
-        "「GitLab」に深刻度"最大"の脆弱性　認証なしで任意のコード実行の恐れ、修正版適用を　CVSS「10.0」",
-        "コミックシーモア、流出は最大約420万件に　メールアドレスや生年月日など　不正アクセスの経路特定・遮断は完了",
-        "大阪大、学生など7.8万人の情報漏えい　NECが無断で協力会社とデータ共有",
-        "Meta決算、売上高26％増も営業益37％減　AIエージェント「Muse」は1000万人超が利用開始",
-        "SpaceX、純利益44億ドルで黒字転換　売上高161％増、AIから改称の「SI」事業が830％増",
-        "エージェント用IDEを3つ試して、今さらcmuxを使い始めた",
-        "Claude Codeを「AIニュース係」にしたら、毎朝0円でSlackに届くようになった",
-        "バイブコーディングを6週間続けたら、Macの起動が20分かかるようになった",
-        "Code is Clay Now — How AI Coding Agents Demand a New Engineering Mindset: Artisan vs. Factory",
-        "OpenAI Models Are Now Available on Google Cloud — o3, GPT-5.6 Sol, and Embeddings Via Vertex AI",
-        "Perplexity Open-Sources SPACE: A Firecracker-Based Agent Sandbox with Zero Escape in 108 Attempts"
-      ]
-    },
-    {
-      "run_at": "2026-10-22T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6599664?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/22/2000002484/",
-        "https://www.jiji.com/jc/article?k=2026102200205&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102200144&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599660?source=rss",
-        "https://zenn.dev/hilopon/articles/line-local-ai-photo-voice-capture",
-        "https://zenn.dev/koudai0711/articles/f7a5cc10496820",
-        "https://www.publickey1.jp/blog/26/aws_transformazure_functionsaws_lambdamicrosoft_azureaws.html",
-        "https://www.anthropic.com/claude-opus-5-5",
-        "https://www.itmedia.co.jp/news/article/2610/22/2000002486/",
-        "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/"
-      ],
-      "titles": [
-        "文科省、社会人向け教職課程を大学院に新設へ——給与をもらいながら1年で免許取得",
-        "米メタに約4兆円の民事制裁金——ケンブリッジ・アナリティカ問題で米ニューメキシコ州が歴史的判決",
-        "ロシア外務省、日本企業のウクライナ向けドローン納品を非難——対抗措置も警告",
-        "ネパール・ヒマラヤ高峰で日本人2名が行方不明——15日以降消息を絶ち、捜索続く",
-        "高市首相、G7テレビ会議を欠席——与野党から異例の批判が相次ぐ",
-        "LINEに送った写真と音声メモを自宅PCがローカルAIで文字起こし——クラウドなし・プライバシー重視のワークフロー構築",
-        "安くて速いJevを6回チューニングしたら、最後にClaudeのgrepに2倍差で負けた——LLMノート選択の実験",
-        "AWS Transform、Azure Functions コードをAWS Lambda向けに自動変換——.NETマイグレーションの障壁を大幅低減",
-        "Anthropic Releases Claude Opus 5.5 — 40% Cost Reduction, 30% Faster, Leads on Agentic Coding Benchmarks",
-        "OpenAI's GPT-5.6 Sol Discovers Critical PHP Vulnerabilities — AI Finds Bugs Faster Than Human Researchers",
-        "Simon Willison: \"My Obituary for Programming\" — When Coding Agents Change What It Means to Be a Developer"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-23T15:00:00+09:00",
+  "last_run_at": "2026-10-23T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-23T20:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002558/",
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002556/",
+        "https://www.jiji.com/jc/article?k=2026102300952&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102300839&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102300419&g=pol&m=rss",
+        "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html",
+        "https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1",
+        "https://latent.space/p/ainews-black-october/",
+        "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+        "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images"
+      ],
+      "titles": [
+        "タイムズカー、免許証画像漏えい146万件の見舞金支払いへ——55億円の特別損失を計上",
+        "経産省、11月中に「ホワイトハッカー」チームを創設——AI悪用のサイバー攻撃に対抗",
+        "日本シリーズ24日開幕——上沢・石田裕が予告先発、球場は熱狂の前夜",
+        "高市首相、ガソリン補助金の見直しを指示——「出口戦略含め柔軟に検討」",
+        "総務省、選挙の偽情報対策でSNS収益化停止も——AI検知などの指針案を公表",
+        "「エージェント向け1Password」発表——AIにパスワードを渡さずアクセス権限を付与する新技術",
+        "「プロンプトガチャはもう古い」——ハーネス設計者が語るAI駆動開発の本質と落とし穴",
+        "Claude CodeとCodexで並列開発、Macのストレージが残り8GBに——大規模クリーンアップの記録",
+        "AINews: Black October — AI-Accelerated Security Wave, Claude Duet, MiniMax M3.1 Flash, and Agent Threats in Banking",
+        "GitHub Copilot for Visual Studio — September Update: PR Exploration with Git Agent, BYOM Preview, and NuGet MCP Fixer",
+        "How Does Fable 5.1 Hide Messages in Images? — Researchers Find Spontaneous Steganography in SVG Generation"
+      ]
+    },
     {
       "run_at": "2026-10-23T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Anthropic Releases Claude Opus 5.5 — 40% Cost Reduction, 30% Faster, Leads on Agentic Coding Benchmarks",
         "OpenAI's GPT-5.6 Sol Discovers Critical PHP Vulnerabilities — AI Finds Bugs Faster Than Human Researchers",
         "Simon Willison: \"My Obituary for Programming\" — When Coding Agents Change What It Means to Be a Developer"
-      ]
-    },
-    {
-      "run_at": "2026-10-22T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102100932&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599633?source=rss",
-        "https://news.yahoo.co.jp/pickup/6599628?source=rss",
-        "https://www.jiji.com/jc/article?k=2026102100628&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/21/2000002458/",
-        "https://zenn.dev/aws_japan/articles/bedrock-guardrails-japanese-tier",
-        "https://zenn.dev/turquoise123/articles/df481032f6b405",
-        "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
-        "https://claude.com/product/claude-duet",
-        "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-        "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust"
-      ],
-      "titles": [
-        "プーチン大統領、収監中の米国人を釈放——特使との会談で実現、次期首脳会談に意欲",
-        "自民党、衆院定数削減幅を「31」で調整——選挙制度改革めぐる与野党協議が本格化",
-        "MMX火星衛星探査機、機能正常を確認——打ち上げ成功でJAXAが最初の軌道投入完了を発表",
-        "武部農水相、寄付返金と収支報告書訂正——公職選挙法違反疑惑を受けて対応",
-        "大丸松坂屋、接客データ×AIの新マーケティングサービス開始——購買行動を科学的に解析",
-        "Amazon Bedrock Guardrailsの日本語対応を実検証——Tier指定なしで0.4%しかブロックできない問題を解決する設定術",
-        "AIエージェント型ペネトレーションテストツール「Strix」実証——マルチエージェント構成で脆弱性6件を自動検出",
-        "Cloudflare、TypeScriptをRustに移植した「tsrs」発表——TypeScript 7より70%少ないメモリで8倍高速",
-        "Anthropic Launches Claude Duet — A Proactive Agentic AI Powered by Opus 5.5 for Autonomous Daily Tasks",
-        "Compromised LiteLLM 1.107.0 on PyPI Ships Credential Stealer and Persistent Backdoor",
-        "Physicist Christopher Stubbs Joins Anthropic's Long-Term Benefit Trust"
-      ]
-    },
-    {
-      "run_at": "2026-10-22T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6599621?source=rss",
-        "https://news.yahoo.co.jp/pickup/6599642?source=rss",
-        "https://news.yahoo.co.jp/pickup/6599632?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/20/2000002428/",
-        "https://news.yahoo.co.jp/pickup/6599637?source=rss",
-        "https://zenn.dev/yosiki/articles/claude-p-cron-token-diet",
-        "https://www.itmedia.co.jp/news/article/2610/21/2000002451/",
-        "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
-        "https://layerfs.ai/",
-        "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
-        "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
-      ],
-      "titles": [
-        "秋田・子吉川が氾濫——由利本荘市に避難指示、堤防決壊で浸水被害拡大",
-        "EV補助金を引き下げへ——2027年1月から現行比20〜40%減",
-        "血管炎治療薬「タブネオス」新規投与を差し控えへ——厚労省が承認取り消しも検討",
-        "デジタル庁、政府職員18万人にAIエージェント環境「源内」を展開——世界初の政府全体向けエージェント基盤",
-        "PHPに重大な脆弱性2件——ウェブ7割に影響、銀行・ITサービスが緊急対応",
-        "cronのclaude -pが\"ok\"だけで4万トークン消費——--safe-modeと--tools \"\"で98%削減を実証",
-        "不正アクセス急増は\"SaaS離れ\"を招くか——専門家「脱SaaSより透明性と選別眼が急務」",
-        "AWS Lambda Web Functionsが発表——Next.js・Hono・Expressがアダプター不要でLambda上で動作",
-        "LayerFS: The Filesystem Built for AI Coding Agents — Ephemeral Workspaces, Zero-Copy Forks, and 5ms Mounts",
-        "Qwen3-Coder Writes 19% More Hackable Code for US Defense Clients — Hirundo Finds Political Alignment in the Weights",
-        "Meta's Muse AI Exposes Users' Personal and Business Secrets Through Shared Conversation Links"
       ]
     }
   ]

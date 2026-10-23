@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-24T00:00:00+09:00",
+  "last_run_at": "2026-10-24T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-24T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102301185&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102300706&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102301177&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002544/",
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002557/",
+        "https://zenn.dev/yuiseki/articles/54b01670841898",
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002535/",
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002531/",
+        "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+        "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
+        "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available"
+      ],
+      "titles": [
+        "環境省のメールサービスに不正アクセス——個人情報2万件超が流出した可能性",
+        "改正皇室典範が施行——旧宮家の男系男子による養子縁組が可能に、女性皇族の婚姻後の身分も維持",
+        "ウクライナ南部で局地的停戦が成立——米国の仲介で前線都市への人道支援搬入が実現",
+        "日経新聞への不正アクセス拡大——日経BPの利用者約80万件も流出か、テレ東などにも影響",
+        "「チケット当選」装う詐欺メールが急増——イープラス・ローチケ・ぴあを悪用したフィッシング手口",
+        "Claude Codeに「セキュリティ監査」を依頼するプロンプト20選——IDOR・インジェクション・乱用まで網羅したチェックリスト",
+        "MetaのパーソナルAIエージェント「Muse」が日本上陸——メルカリ・マネフォ・ぴあと連携、Secure VMで動作",
+        "中国系サイバー攻撃グループがAIで攻撃を自動化——「ARTEX」ツールでConnectWiseサプライチェーン攻撃に関与",
+        "Kimi K3.1 Pro: The First Near-Frontier Open-Weight Model Set to Challenge Claude Opus 5.5",
+        "Cloudflare Releases tsrs: A Rust Port of TypeScript That Type-Checks 8× Faster and Runs in WebAssembly",
+        "GitHub Enterprise Installations for GitHub Apps Now Generally Available — Replace PATs with Fine-Grained App Permissions"
+      ]
+    },
     {
       "run_at": "2026-10-24T00:00:00+09:00",
       "urls": [

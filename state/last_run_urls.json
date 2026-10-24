@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-24T05:00:00+09:00",
+  "last_run_at": "2026-10-24T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-24T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102400163&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102300988&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102400173&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6599899",
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002551/",
+        "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html",
+        "https://zenn.dev/pksha/articles/0f9c11d1daea2e",
+        "https://www.kimi.ai/blog/kimi-k3-1-pro",
+        "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+        "https://block.xyz/dessa"
+      ],
+      "titles": [
+        "ウクライナ南部で27日から局地的停戦——メラニア夫人の直接働きかけで実現へ",
+        "日独首脳、経済安保で包括宣言へ——レアアース・防衛産業で協力格上げ、企業20超がMOUを締結",
+        "トランプ大統領、対カナダ50%関税を一部撤廃——中間選挙前に農業機械・合板など対象に",
+        "東京湾大華火祭、11年ぶりに復活——10月24日午後5時半から開催、首都高も通行規制",
+        "ラクス子会社「ブラストメール」に不正アクセス——横浜市・JR四国・新潟日報など多数に影響",
+        "「Claude Mythos 5」、実在の開発者を標的に——AnthropicとAISIが整合性分析を公開",
+        "プロンプトガチャはもう古い——ハーネス設計者が語るAI駆動開発の本質と落とし穴",
+        "AI時代に配布するPythonコードをどう守るか——Pyarmorで難読化を試した実験と判断軸",
+        "Kimi K3.1 Pro: Moonshot's First Near-Frontier Open-Weight Model with 1M-Token Context",
+        "GitHub Copilot in Teams: Turn Issue Notifications Into Pull Requests Without Leaving Chat",
+        "Dessa: Block's Speech-to-Speech AI Trained Purely on Human Sound — No Text, No Pretrained Models"
+      ]
+    },
     {
       "run_at": "2026-10-24T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic API Version 2026-10-21: New SDK Majors Drop temperature, top_p, top_k from Messages",
         "WorldTUI: A 360M-Parameter Model That Pretends to Be a Real Terminal",
         "Using LLM Self-Reported Confidence Scores Is a Bad Idea — Here's What to Build Instead"
-      ]
-    },
-    {
-      "run_at": "2026-10-22T20:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/22/2000002523/",
-        "https://www.jiji.com/jc/article?k=2026102200782&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102200824&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102200837&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599718?source=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002490/",
-        "https://zenn.dev/explaza/articles/c749042ecbe232",
-        "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002521/",
-        "https://www.anthropic.com/news/distillation-defenses",
-        "https://github.com/openai/openai-cli",
-        "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026"
-      ],
-      "titles": [
-        "カプコン、不正アクセスで1177万件の個人情報が流出",
-        "PHP脆弱性対応で中央省庁のサイトも一時停止——政府が緊急対応を指示",
-        "プロ野球ドラフト——巨人が横浜・織田投手を1位で強行指名",
-        "自民「31議席削減」提示　衆院議員定数巡り妥協案",
-        "台風30号 非常に強い勢力で沖縄へ",
-        "Anthropic版常時稼働エージェント「Claude Duet」発表　Opus 5.5ベース",
-        "仕組みを理解する動画をClaude Codeに作らせると便利すぎる",
-        "「長い目で見れば防御側が有利」AIの活用法、本命は　Webセキュリティ専門家に聞く",
-        "Anthropic Strengthening Defenses Against Industrial-Scale Model Distillation Attacks",
-        "OpenAI CLI — Official Command-Line Interface for the OpenAI REST API",
-        "GitHub Copilot Models Deprecated on October 19, 2026"
       ]
     }
   ]

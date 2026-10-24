@@ -1,0 +1,1051 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>デイリーダイジェスト - 2026-10-25 00:00 JST</title>
+<style>
+  :root,
+  [data-theme="light"] {
+    --bg: #f8f5f0;
+    --card: #ffffff;
+    --card-alt: #fdfcf8;
+    --ink: #1a1a1a;
+    --ink-soft: #4a4a4a;
+    --accent-jp: #b91c1c;
+    --accent-tech-jp: #059669;
+    --accent-global: #0369a1;
+    --accent-soft-jp: #fef2f2;
+    --accent-soft-tech-jp: #ecfdf5;
+    --accent-soft-global: #f0f9ff;
+    --sub: #6b6b6b;
+    --border: #e5e1da;
+    --divider: #d4cfc5;
+    --jp-mark: #c2410c;
+    --vi: #0369a1;
+    --vi-bg: #f0f9ff;
+    --vi-ink: #0c4a6e;
+    --grammar: #7c3aed;
+    --grammar-bg: #fafaf5;
+    --code-bg: #f1efe9;
+    --note-bg: #fef9e7;
+    --note-border: #d69e2e;
+    --note-ink: #744210;
+    --impact-high: #dc2626;
+    --impact-med: #ea580c;
+    --impact-low: #ca8a04;
+    --header-gradient-start: #fafaf5;
+    --shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+
+  [data-theme="dark"] {
+    --bg: #0f0e0c;
+    --card: #1a1814;
+    --card-alt: #15130f;
+    --ink: #e8e4dc;
+    --ink-soft: #b8b4ac;
+    --accent-jp: #f87171;
+    --accent-tech-jp: #34d399;
+    --accent-global: #60a5fa;
+    --accent-soft-jp: #2a1515;
+    --accent-soft-tech-jp: #0d2820;
+    --accent-soft-global: #0c2440;
+    --sub: #8b8680;
+    --border: #332f28;
+    --divider: #2a2620;
+    --jp-mark: #fb923c;
+    --vi: #60a5fa;
+    --vi-bg: #0c2440;
+    --vi-ink: #bfdbfe;
+    --grammar: #c4b5fd;
+    --grammar-bg: #1c1a16;
+    --code-bg: #2a2620;
+    --note-bg: #2a2410;
+    --note-border: #ca8a04;
+    --note-ink: #fde68a;
+    --impact-high: #ef4444;
+    --impact-med: #f97316;
+    --impact-low: #eab308;
+    --header-gradient-start: #1c1a16;
+    --shadow: 0 1px 3px rgba(0,0,0,0.3);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme]) {
+      --bg: #0f0e0c;
+      --card: #1a1814;
+      --card-alt: #15130f;
+      --ink: #e8e4dc;
+      --ink-soft: #b8b4ac;
+      --accent-jp: #f87171;
+      --accent-tech-jp: #34d399;
+      --accent-global: #60a5fa;
+      --accent-soft-jp: #2a1515;
+      --accent-soft-tech-jp: #0d2820;
+      --accent-soft-global: #0c2440;
+      --sub: #8b8680;
+      --border: #332f28;
+      --divider: #2a2620;
+      --jp-mark: #fb923c;
+      --vi: #60a5fa;
+      --vi-bg: #0c2440;
+      --vi-ink: #bfdbfe;
+      --grammar: #c4b5fd;
+      --grammar-bg: #1c1a16;
+      --code-bg: #2a2620;
+      --note-bg: #2a2410;
+      --note-border: #ca8a04;
+      --note-ink: #fde68a;
+      --impact-high: #ef4444;
+      --impact-med: #f97316;
+      --impact-low: #eab308;
+      --header-gradient-start: #1c1a16;
+      --shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", "Times New Roman", serif;
+    background: var(--bg);
+    color: var(--ink);
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 2rem 2rem 4rem;
+    line-height: 1.75;
+  }
+  header.page-head {
+    border-bottom: 3px double var(--accent-jp);
+    padding-bottom: 1.2rem;
+    margin-bottom: 2.5rem;
+    text-align: center;
+  }
+  header.page-head h1 {
+    font-size: 2rem;
+    margin: 0 0 0.4rem;
+    letter-spacing: 0.08em;
+  }
+  header.page-head .meta {
+    color: var(--sub);
+    font-size: 0.95rem;
+    font-family: system-ui, sans-serif;
+  }
+
+  nav.toc {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+    font-family: system-ui, sans-serif;
+    font-size: 0.9rem;
+  }
+  nav.toc a {
+    text-decoration: none;
+    padding: 6px 14px;
+    border-radius: 20px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--ink);
+    transition: all 0.2s;
+  }
+  nav.toc a:hover { background: var(--accent-soft-jp); color: var(--accent-jp); }
+
+  section.digest-section { margin-bottom: 3rem; }
+  .section-title {
+    font-size: 1.5rem;
+    padding: 0.6rem 1.2rem;
+    margin: 0 0 1.5rem;
+    border-radius: 4px;
+    font-family: system-ui, "Noto Sans", sans-serif;
+    font-weight: 600;
+  }
+  #japan-news .section-title {
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    border-left: 5px solid var(--accent-jp);
+  }
+  #japan-tech .section-title {
+    background: var(--accent-soft-tech-jp);
+    color: var(--accent-tech-jp);
+    border-left: 5px solid var(--accent-tech-jp);
+  }
+  #global-tech .section-title {
+    background: var(--accent-soft-global);
+    color: var(--accent-global);
+    border-left: 5px solid var(--accent-global);
+  }
+
+  article.news-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    margin-bottom: 1.5rem;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+  }
+  .card-header {
+    padding: 1rem 1.5rem;
+    background: linear-gradient(to bottom, var(--header-gradient-start), var(--card));
+    border-bottom: 1px solid var(--border);
+  }
+  .card-header h3 {
+    margin: 0;
+    font-size: 1.15rem;
+    line-height: 1.5;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .news-no {
+    display: inline-block;
+    font-size: 0.7rem;
+    padding: 3px 9px;
+    border-radius: 3px;
+    font-family: system-ui, sans-serif;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  #japan-news .news-no { background: var(--accent-jp); color: white; }
+  #japan-tech .news-no { background: var(--accent-tech-jp); color: white; }
+  #global-tech .news-no { background: var(--accent-global); color: white; }
+
+  .card-body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .col {
+    padding: 1.25rem 1.5rem;
+  }
+  .col-left {
+    border-right: 1px solid var(--divider);
+  }
+  .col-right {
+    background: var(--card-alt);
+  }
+  .col-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--sub);
+    font-family: system-ui, sans-serif;
+    margin-bottom: 0.6rem;
+    font-weight: 600;
+  }
+
+  .content-text {
+    font-size: 1rem;
+    line-height: 1.85;
+    margin: 0 0 1rem;
+    text-align: justify;
+  }
+  .content-text.lang-en {
+    font-family: "Georgia", "Times New Roman", serif;
+  }
+  .content-text.lang-ja {
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+  }
+
+  .translation-vi {
+    font-family: "Noto Sans", system-ui, sans-serif;
+    font-size: 0.95rem;
+    line-height: 1.75;
+    margin: 1rem 0;
+    padding: 0.8rem 1rem;
+    background: var(--vi-bg);
+    border-left: 3px solid var(--vi);
+    border-radius: 2px;
+    color: var(--vi-ink);
+  }
+  .translation-vi::before {
+    content: "🇻🇳 ";
+    font-weight: bold;
+  }
+
+  .impact-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: system-ui, sans-serif;
+    font-size: 0.8rem;
+    margin: 0.8rem 0;
+    padding: 0.4rem 0;
+  }
+  .impact-badge {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 3px;
+    font-weight: 600;
+    font-size: 0.75rem;
+    color: white;
+  }
+  .impact-badge.high { background: var(--impact-high); }
+  .impact-badge.medium { background: var(--impact-med); }
+  .impact-badge.low { background: var(--impact-low); }
+  .impact-text { color: var(--sub); }
+
+  .impact-note {
+    font-family: system-ui, sans-serif;
+    font-size: 0.88rem;
+    color: var(--note-ink);
+    padding: 0.55rem 0.85rem;
+    background: var(--note-bg);
+    border-left: 3px solid var(--note-border);
+    border-radius: 2px;
+    margin: 0.6rem 0 1rem;
+  }
+  .impact-note::before { content: "💡 "; }
+
+  .edu-block {
+    margin-top: 1rem;
+    font-family: system-ui, "Noto Sans", sans-serif;
+  }
+  .edu-block h4 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--sub);
+    margin: 0.8rem 0 0.4rem;
+    border-bottom: 1px dotted var(--border);
+    padding-bottom: 3px;
+  }
+  table.vocab, table.term-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+  }
+  table.vocab th, table.vocab td,
+  table.term-table th, table.term-table td {
+    text-align: left;
+    padding: 6px 8px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  table.vocab th {
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    font-weight: 600;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+  }
+  table.term-table th {
+    background: var(--accent-soft-global);
+    color: var(--accent-global);
+    font-weight: 600;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+  }
+  td.jp-word { font-family: "Hiragino Mincho ProN", serif; font-size: 1rem; white-space: nowrap; }
+  td.reading { color: var(--sub); font-size: 0.8rem; white-space: nowrap; }
+  td.hanviet { color: var(--accent-jp); font-style: italic; font-size: 0.8rem; white-space: nowrap; }
+  td.meaning { font-size: 0.85rem; }
+  td.term-en { font-family: "SF Mono", Monaco, monospace; font-size: 0.9rem; font-weight: 600; color: var(--accent-global); white-space: nowrap; }
+  td.term-pron { font-size: 0.8rem; color: var(--sub); font-style: italic; white-space: nowrap; }
+  td.term-explain { font-size: 0.85rem; line-height: 1.6; }
+
+  .grammar-item { margin-bottom: 0.7rem; font-size: 0.9rem; }
+  .grammar-item strong {
+    color: var(--grammar);
+    font-size: 0.95rem;
+    display: inline-block;
+    margin-bottom: 2px;
+  }
+  .example {
+    background: var(--grammar-bg);
+    padding: 0.55rem 0.8rem;
+    margin-top: 0.35rem;
+    border-left: 2px solid var(--grammar);
+    font-size: 0.88rem;
+  }
+  .example .jp { font-family: "Hiragino Mincho ProN", serif; display: block; }
+  .example .vi { color: var(--vi); font-size: 0.82rem; display: block; margin-top: 3px; }
+
+  .source {
+    font-size: 0.78rem;
+    color: var(--sub);
+    margin-top: 0.8rem;
+    padding-top: 0.6rem;
+    border-top: 1px dotted var(--border);
+    font-family: system-ui, sans-serif;
+  }
+  .source a { color: var(--vi); text-decoration: none; }
+  .source a:hover { text-decoration: underline; }
+
+  code {
+    background: var(--code-bg);
+    padding: 1px 6px;
+    border-radius: 3px;
+    font-size: 0.88em;
+    font-family: "SF Mono", Monaco, "Courier New", monospace;
+  }
+
+  .theme-toggle {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 100;
+    display: flex;
+    gap: 4px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 3px;
+    font-family: system-ui, sans-serif;
+    font-size: 0.85rem;
+    box-shadow: var(--shadow);
+  }
+  .theme-toggle button {
+    background: transparent;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    color: var(--sub);
+    transition: all 0.15s;
+    font-family: inherit;
+  }
+  .theme-toggle button:hover { color: var(--ink); }
+  .theme-toggle button.active { background: var(--accent-jp); color: white; }
+  .theme-toggle button.active:hover { color: white; }
+
+  .prev-digests {
+    margin-top: 3.5rem;
+    padding: 1.2rem 1.4rem;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-family: system-ui, sans-serif;
+  }
+  .prev-digests h3 {
+    margin: 0 0 0.8rem;
+    font-size: 0.95rem;
+    color: var(--ink);
+    letter-spacing: 0.02em;
+  }
+  .prev-digests-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+  }
+  .prev-digests-list a {
+    display: inline-block;
+    padding: 0.35rem 0.7rem;
+    border-radius: 999px;
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    font-size: 0.78rem;
+    text-decoration: none;
+    font-variant-numeric: tabular-nums;
+    border: 1px solid transparent;
+    transition: background 0.15s ease, border-color 0.15s ease;
+  }
+  .prev-digests-list a:hover {
+    background: transparent;
+    border-color: var(--accent-jp);
+  }
+  footer {
+    text-align: center;
+    color: var(--sub);
+    font-size: 0.85rem;
+    margin-top: 2.5rem;
+    font-family: system-ui, sans-serif;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border);
+  }
+
+  @media (max-width: 1000px) {
+    body { padding: 1rem 0.9rem 3rem; max-width: 100%; }
+    header.page-head h1 { font-size: 1.4rem; }
+    .card-body { grid-template-columns: 1fr; }
+    .col-left { border-right: none; border-bottom: 2px dashed var(--divider); }
+    .col { padding: 1rem 1.1rem; }
+    .section-title { font-size: 1.2rem; }
+    td.reading, td.hanviet, td.term-en, td.term-pron { white-space: normal; }
+  }
+</style>
+</head>
+<body>
+
+<div class="theme-toggle" role="group" aria-label="Theme selector">
+  <button type="button" data-theme-value="light" title="Light mode">☀️</button>
+  <button type="button" data-theme-value="system" title="Auto (follow system)">💻</button>
+  <button type="button" data-theme-value="dark" title="Dark mode">🌙</button>
+</div>
+
+<script>
+  (function() {
+    var saved = localStorage.getItem('digest-theme') || 'system';
+    if (saved !== 'system') {
+      document.documentElement.setAttribute('data-theme', saved);
+    }
+  })();
+</script>
+
+<header class="page-head">
+  <h1>🗞️ デイリーダイジェスト</h1>
+  <div class="meta">2026-10-25（日）00:00 JST — JLPT N2+ 学習者 · SE/Cloud Engineer 向け</div>
+</header>
+
+<nav class="toc">
+  <a href="#japan-news">🗾 日本ニュース (5)</a>
+  <a href="#japan-tech">🇯🇵 Tech JP (3)</a>
+  <a href="#global-tech">🌐 Global Tech (3)</a>
+</nav>
+
+<!-- SECTION A: JAPAN NEWS -->
+<section id="japan-news" class="digest-section">
+  <h2 class="section-title">🗾 日本ニュース</h2>
+
+  <!-- A1 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A-1</span>台風30号が26日（月）に西日本へ接近——東日本も前線の影響で警報級の大雨のおそれ</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">本文 / Nội dung</div>
+        <p class="content-text lang-ja">
+          台風30号（チャンパカ）は26日月曜日に西日本へ接近し、夜までに四国の南で温帯低気圧へ変わる見込みだ。日本付近に停滞する前線と相まって、26日は西日本から東日本の広い範囲で雨のピークを迎える。九州では暴風や高波への厳重な警戒が求められており、四国・近畿でも大雨による河川増水や土砂災害に注意が必要だ。関東甲信は26日から27日にかけて警報級の大雨となるおそれがあり、静岡県も週明けから本格的な雨への備えが求められている。並行して台風31号も発生しており、29日には非常に強い勢力で南鳥島近海に達する見通しだが、日本本土への直接的な影響は現時点では不明だ。気象庁は最新情報を継続して確認するよう呼びかけている。
+        </p>
+        <div class="translation-vi">
+          Bão số 30 (Champaka) dự kiến tiếp cận Tây Nhật Bản vào thứ Hai ngày 26, sau đó suy yếu thành áp thấp nhiệt đới ở phía nam đảo Shikoku vào tối cùng ngày. Kết hợp với dải hội tụ đang ở lại trên bầu trời Nhật Bản, ngày 26 sẽ là đỉnh điểm mưa trên diện rộng từ Tây đến Đông Nhật Bản. Kyushu cần đề phòng gió mạnh và sóng lớn, còn Shikoku và Kinki có nguy cơ lũ sông và sạt lở đất do mưa to. Khu vực Kanto-Koshin có thể hứng chịu mưa cảnh báo từ ngày 26 đến 27, Shizuoka cũng cần chuẩn bị từ đầu tuần. Ngoài ra, bão số 31 đã hình thành và dự kiến đạt sức mạnh rất mạnh gần quần đảo Minami-Torishima vào ngày 29, nhưng ảnh hưởng đến đất liền vẫn chưa rõ.
+        </div>
+        <div class="source">📰 Yahoo!ニュース / 気象庁 · 2026-10-24 · <a href="https://news.yahoo.co.jp/pickup/6599973" target="_blank">記事を読む</a></div>
+      </div>
+      <div class="col col-right">
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr><td class="jp-word">接近</td><td class="reading">せっきん</td><td class="hanviet">tiếp cận</td><td class="meaning">tiếp cận, đến gần</td></tr>
+            <tr><td class="jp-word">温帯低気圧</td><td class="reading">おんたいていきあつ</td><td class="hanviet">ôn đới đê khí áp</td><td class="meaning">áp thấp nhiệt đới vùng ôn đới</td></tr>
+            <tr><td class="jp-word">停滞</td><td class="reading">ていたい</td><td class="hanviet">đình trệ</td><td class="meaning">dừng lại, ngừng trệ (ở đây: dải hội tụ đứng yên)</td></tr>
+            <tr><td class="jp-word">土砂災害</td><td class="reading">どしゃさいがい</td><td class="hanviet">thổ sa tai hại</td><td class="meaning">thiên tai do sạt lở đất/bùn đá</td></tr>
+            <tr><td class="jp-word">暴風</td><td class="reading">ぼうふう</td><td class="hanviet">bạo phong</td><td class="meaning">gió bão, gió dữ</td></tr>
+            <tr><td class="jp-word">厳重</td><td class="reading">げんじゅう</td><td class="hanviet">nghiêm trọng</td><td class="meaning">nghiêm ngặt, cẩn thận cao độ</td></tr>
+          </table>
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>〜に相まって</strong>（〜と相まって）— kết hợp với, cộng với
+            <div class="example">
+              <span class="jp">前線の影響と相まって、大雨が予想される。</span>
+              <span class="vi">Kết hợp với ảnh hưởng của dải hội tụ, mưa lớn được dự báo.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>〜見通しだ</strong> — có triển vọng, dự kiến sẽ
+            <div class="example">
+              <span class="jp">29日には非常に強い勢力に達する見通しだ。</span>
+              <span class="vi">Dự kiến sẽ đạt sức mạnh rất lớn vào ngày 29.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A2 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A-2</span>金正恩氏が電撃訪中——新鴨緑江大橋を渡り習近平との関係強化、トランプ会談をにらむ</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">本文 / Nội dung</div>
+        <p class="content-text lang-ja">
+          北朝鮮の金正恩朝鮮労働党総書記が24日、中国を電撃訪問した。丹東では中国共産党序列4位の王滬寧・全国政治協商会議主席が出迎え、正恩氏は2014年完成後10年以上使われなかった新鴨緑江大橋を初めて渡った。今回の訪問は朝鮮戦争参戦76周年と大橋開通の記念行事が名目だが、背景には米中朝の複雑な外交駆け引きがある。習近平氏は来月深センで開催されるAPEC首脳会議でトランプ大統領と会談する見通しで、その前に北朝鮮との連携を固めた形だ。中朝関係は以前の核問題やウクライナ対応で冷え込んだが、昨年9月から急速に改善し、今年6月には習氏が7年ぶりに訪朝している。正恩氏とトランプ氏の直接対面の可能性は依然不透明だ。
+        </p>
+        <div class="translation-vi">
+          Tổng Bí thư Đảng Lao động Triều Tiên Kim Jong-un bất ngờ thăm Trung Quốc vào ngày 24. Tại Đan Đông, ông được Chủ tịch CPPCC Vương Hỗ Ninh — nhân vật đứng thứ 4 trong Đảng Cộng sản Trung Quốc — đón tiếp. Kim Jong-un lần đầu tiên đi qua cây cầu Tân Áp Lục Giang hoàn thành từ năm 2014 nhưng bị bỏ trống hơn 10 năm. Danh nghĩa là kỷ niệm 76 năm tham chiến trong Chiến tranh Triều Tiên và lễ thông cầu, nhưng thực chất là nhằm củng cố mối liên kết trước thềm hội nghị APEC tại Thâm Quyến tháng tới, nơi Tập Cận Bình sẽ gặp Tổng thống Trump. Quan hệ Trung-Triều đã xấu đi vì vấn đề hạt nhân và Ukraine, nhưng đã hồi phục nhanh từ tháng 9 năm ngoái, và Tập đã thăm Bình Nhưỡng vào tháng 6 năm nay.
+        </div>
+        <div class="source">📰 時事通信 · 2026-10-24 · <a href="https://www.jiji.com/jc/article?k=2026102400459&g=int&m=rss" target="_blank">記事を読む</a></div>
+      </div>
+      <div class="col col-right">
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr><td class="jp-word">電撃</td><td class="reading">でんげき</td><td class="hanviet">điện kích</td><td class="meaning">chớp nhoáng, bất ngờ (kiểu hành động)</td></tr>
+            <tr><td class="jp-word">序列</td><td class="reading">じょれつ</td><td class="hanviet">tự liệt</td><td class="meaning">thứ bậc, thứ hạng (trong tổ chức)</td></tr>
+            <tr><td class="jp-word">冷え込む</td><td class="reading">ひえこむ</td><td class="hanviet">—</td><td class="meaning">trở nên lạnh nhạt, suy giảm (quan hệ ngoại giao)</td></tr>
+            <tr><td class="jp-word">後ろ盾</td><td class="reading">うしろだて</td><td class="hanviet">—</td><td class="meaning">chỗ dựa sau lưng, người bảo trợ</td></tr>
+            <tr><td class="jp-word">駆け引き</td><td class="reading">かけひき</td><td class="hanviet">—</td><td class="meaning">thủ thuật mặc cả, đấu trí ngoại giao</td></tr>
+            <tr><td class="jp-word">不透明</td><td class="reading">ふとうめい</td><td class="hanviet">bất thấu minh</td><td class="meaning">không rõ ràng, mờ tối (về tương lai)</td></tr>
+          </table>
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>〜にらむ</strong>（〜をにらむ）— nhắm vào, tính đến, hướng đến
+            <div class="example">
+              <span class="jp">APEC首脳会議をにらんだ外交戦略が動き始めた。</span>
+              <span class="vi">Chiến lược ngoại giao nhắm vào hội nghị APEC đã bắt đầu vận hành.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>〜た形</strong>（固めた形だ）— đã có hình dạng/kết quả là
+            <div class="example">
+              <span class="jp">連携を固めた形となった。</span>
+              <span class="vi">Kết quả là sự liên kết đã được củng cố.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A3 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A-3</span>モンゴル草原大火災でKDDI関連企業に賠償請求検討——現地当局「法令違反の疑い」</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">本文 / Nội dung</div>
+        <p class="content-text lang-ja">
+          モンゴルの自然保護区で発生した大規模な草原火災を受け、モンゴル当局がKDDI関連企業を相手取った損害賠償請求を検討していることが明らかになった。現地調査の結果、同社の車両が出火元とみられており、当局は法令違反の疑いも視野に入れている。KDDIは「当社グループの法令違反はなかった」と主張しているが、モンゴル側の調査結果とは見解が食い違っている。火災は広大な保護区の草地を焼き、野生動物の生息域にも大きな被害をもたらしたとされる。今後の交渉が日蒙二国間の経済・外交関係にどう影響するか注目が集まっている。
+        </p>
+        <div class="translation-vi">
+          Sau vụ cháy thảo nguyên quy mô lớn tại khu bảo tồn thiên nhiên Mông Cổ, chính quyền địa phương đang xem xét khởi kiện đòi bồi thường từ công ty liên kết với KDDI. Kết quả điều tra tại chỗ cho thấy xe của công ty này có thể là nguyên nhân gây ra đám cháy, và cơ quan chức năng còn nghi ngờ có hành vi vi phạm pháp luật. KDDI khẳng định không có vi phạm nào từ phía tập đoàn, nhưng quan điểm này trái ngược với kết quả điều tra của phía Mông Cổ. Vụ cháy đã thiêu rụi diện tích thảo nguyên rộng lớn và gây thiệt hại nghiêm trọng đến môi trường sống của động vật hoang dã. Diễn biến đàm phán tiếp theo được chú ý vì có thể ảnh hưởng đến quan hệ kinh tế-ngoại giao Nhật-Mông.
+        </div>
+        <div class="source">📰 時事通信 · 2026-10-24 · <a href="https://www.jiji.com/jc/article?k=2026102400322&g=int&m=rss" target="_blank">記事を読む</a></div>
+      </div>
+      <div class="col col-right">
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr><td class="jp-word">損害賠償</td><td class="reading">そんがいばいしょう</td><td class="hanviet">tổn hại bồi thường</td><td class="meaning">bồi thường thiệt hại</td></tr>
+            <tr><td class="jp-word">自然保護区</td><td class="reading">しぜんほごく</td><td class="hanviet">tự nhiên bảo hộ khu</td><td class="meaning">khu bảo tồn thiên nhiên</td></tr>
+            <tr><td class="jp-word">出火元</td><td class="reading">しゅっかもと</td><td class="hanviet">xuất hỏa nguyên</td><td class="meaning">nguồn gốc phát hỏa, nơi bắt đầu cháy</td></tr>
+            <tr><td class="jp-word">見解</td><td class="reading">けんかい</td><td class="hanviet">kiến giải</td><td class="meaning">quan điểm, ý kiến (chính thức)</td></tr>
+            <tr><td class="jp-word">生息域</td><td class="reading">せいそくいき</td><td class="hanviet">sinh tức vực</td><td class="meaning">vùng sinh sống, môi trường sống</td></tr>
+            <tr><td class="jp-word">法令違反</td><td class="reading">ほうれいいはん</td><td class="hanviet">pháp lệnh vi phản</td><td class="meaning">vi phạm pháp luật/quy định</td></tr>
+          </table>
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>〜を相手取る</strong> — khởi kiện chống lại, hướng đến (đối tượng tranh chấp pháp lý)
+            <div class="example">
+              <span class="jp">当社を相手取った損害賠償請求が提起された。</span>
+              <span class="vi">Vụ kiện đòi bồi thường thiệt hại nhắm vào công ty đã được đệ trình.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>〜視野に入れる</strong> — đưa vào tầm nhìn xem xét, cân nhắc đến
+            <div class="example">
+              <span class="jp">法的措置も視野に入れている。</span>
+              <span class="vi">Cũng đang cân nhắc đến các biện pháp pháp lý.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A4 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A-4</span>ラグビー日本代表、フィジーに敗れる——協会100周年記念試合で課題浮き彫り</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">本文 / Nội dung</div>
+        <p class="content-text lang-ja">
+          日本ラグビーフットボール協会設立100周年を記念した国際試合で、日本代表はフィジー代表に敗れた。節目の試合での勝利を目指していたが、フィジー特有のフィジカルの強さとアンストラクチャーなプレーに対応しきれず、試合を通じて苦しい展開となった。日本は持ち前の組織的なディフェンスと素早いテンポのアタックで一時追い上げを見せたものの、逆転には至らなかった。来年のワールドカップに向けて、外国籍大型選手の対策やラインアウトの精度向上など複数の課題が鮮明になった試合となった。協会関係者は「敗因をしっかり分析し、W杯に向けた強化につなげる」とコメントした。
+        </p>
+        <div class="translation-vi">
+          Trong trận đấu kỷ niệm 100 năm thành lập Hiệp hội Bóng bầu dục Nhật Bản, đội tuyển Nhật Bản đã thua Fiji. Dù hướng tới chiến thắng trong trận đấu đánh dấu cột mốc, đội Nhật không thể ứng phó hiệu quả với sức mạnh thể chất và lối chơi unstructured đặc trưng của Fiji. Nhật Bản đã có giai đoạn rút ngắn cách biệt nhờ hàng thủ có tổ chức và nhịp tấn công nhanh, nhưng không thể lật ngược thế cờ. Trận thua đã làm lộ rõ nhiều vấn đề cần cải thiện trước World Cup năm sau: cách đối phó cầu thủ nước ngoài thể hình lớn và độ chính xác của lineout. Đại diện hiệp hội cho biết sẽ phân tích kỹ nguyên nhân thua để tăng cường sức mạnh hướng đến World Cup.
+        </div>
+        <div class="source">📰 時事通信 · 2026-10-24 · <a href="https://www.jiji.com/jc/article?k=2026102400368&g=spo&m=rss" target="_blank">記事を読む</a></div>
+      </div>
+      <div class="col col-right">
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr><td class="jp-word">節目</td><td class="reading">ふしめ</td><td class="hanviet">tiết mục</td><td class="meaning">cột mốc, điểm bước ngoặt</td></tr>
+            <tr><td class="jp-word">対応</td><td class="reading">たいおう</td><td class="hanviet">đối ứng</td><td class="meaning">ứng phó, xử lý</td></tr>
+            <tr><td class="jp-word">精度</td><td class="reading">せいど</td><td class="hanviet">tinh độ</td><td class="meaning">độ chính xác, mức độ tinh vi</td></tr>
+            <tr><td class="jp-word">課題</td><td class="reading">かだい</td><td class="hanviet">khóa đề</td><td class="meaning">vấn đề cần giải quyết, bài toán đặt ra</td></tr>
+            <tr><td class="jp-word">鮮明</td><td class="reading">せんめい</td><td class="hanviet">tiên minh</td><td class="meaning">rõ ràng, sắc nét</td></tr>
+            <tr><td class="jp-word">追い上げ</td><td class="reading">おいあげ</td><td class="hanviet">—</td><td class="meaning">sự đuổi kịp, giai đoạn rút ngắn khoảng cách</td></tr>
+          </table>
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>〜に至らなかった</strong> — không đạt đến, không tới được (kết quả mong muốn)
+            <div class="example">
+              <span class="jp">追い上げは見せたものの、逆転には至らなかった。</span>
+              <span class="vi">Tuy đã có giai đoạn rút ngắn cách biệt, nhưng không đạt đến mức lật ngược kết quả.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>〜ものの</strong> — mặc dù, tuy nhiên (nhượng bộ có điều kiện)
+            <div class="example">
+              <span class="jp">日本は追い上げを見せたものの、最終的に逆転できなかった。</span>
+              <span class="vi">Mặc dù Nhật Bản đã rút ngắn khoảng cách, cuối cùng vẫn không lật ngược được.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A5 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A-5</span>外来カミキリムシの被害、2050年には本州ほぼ全域に——研究機関が初の分布拡大試算を発表</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">本文 / Nội dung</div>
+        <p class="content-text lang-ja">
+          国立環境研究所と日本工業大学の研究チームは、特定外来生物に指定されているクビアカツヤカミキリについて、対策が進まなければ2050年には本州と四国のほぼ全域に分布が広がり、九州にも侵入するとの試算を初めて公表した。この昆虫は桜や梅などバラ科の樹木を内側から食害し、枯死させる。2012年に愛知県で初確認されて以来、現在では22都府県で被害が報告されている。今回の試算は初めて長期的な分布拡大を定量的に示したもので、被害の深刻さが改めて浮き彫りになった。和歌山県などの果樹産地は産卵を防ぐ防虫ネットの設置を前倒しで進めるなど、対策を強化している。
+        </p>
+        <div class="translation-vi">
+          Nhóm nghiên cứu từ Viện Nghiên cứu Môi trường Quốc gia và Đại học Kỹ thuật Nhật Bản đã công bố ước tính đầu tiên về sự phát tán của loài bọ cánh cứng ngoại lai Aromia bungii (クビアカツヤカミキリ). Nếu không có biện pháp kiểm soát, đến năm 2050 loài này sẽ phân bố gần như toàn bộ Honshu và Shikoku, đồng thời xâm lấn vào Kyushu. Loài côn trùng này đục phá bên trong thân cây họ Rosaceae như hoa anh đào và mơ, làm cây chết dần. Từ khi được phát hiện lần đầu ở Aichi năm 2012, hiện đã có thiệt hại được ghi nhận tại 22 tỉnh/thành. Đây là lần đầu tiên mức độ phát tán dài hạn được định lượng hóa, làm nổi bật tính nghiêm trọng của vấn đề. Các vùng trồng cây ăn quả như Wakayama đang đẩy nhanh lắp đặt lưới chắn côn trùng để ngăn đẻ trứng.
+        </div>
+        <div class="source">📰 Yahoo!ニュース / 環境省 · 2026-10-24 · <a href="https://news.yahoo.co.jp/pickup/6599980" target="_blank">記事を読む</a></div>
+      </div>
+      <div class="col col-right">
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr><td class="jp-word">特定外来生物</td><td class="reading">とくていがいらいせいぶつ</td><td class="hanviet">đặc định ngoại lai sinh vật</td><td class="meaning">sinh vật ngoại lai được chỉ định kiểm soát</td></tr>
+            <tr><td class="jp-word">食害</td><td class="reading">しょくがい</td><td class="hanviet">thực hại</td><td class="meaning">thiệt hại do côn trùng gặm nhấm/ăn phá</td></tr>
+            <tr><td class="jp-word">枯死</td><td class="reading">こし</td><td class="hanviet">khô tử</td><td class="meaning">héo chết, chết khô (cây cối)</td></tr>
+            <tr><td class="jp-word">試算</td><td class="reading">しさん</td><td class="hanviet">thí toán</td><td class="meaning">ước tính, tính thử, dự tính</td></tr>
+            <tr><td class="jp-word">産地</td><td class="reading">さんち</td><td class="hanviet">sản địa</td><td class="meaning">vùng sản xuất, vùng trồng trọt</td></tr>
+            <tr><td class="jp-word">侵入</td><td class="reading">しんにゅう</td><td class="hanviet">xâm nhập</td><td class="meaning">xâm nhập, thâm nhập vào vùng mới</td></tr>
+          </table>
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>〜に指定されている</strong> — được chỉ định là, được quy định là
+            <div class="example">
+              <span class="jp">特定外来生物に指定されているため、輸入・飼育は禁止されている。</span>
+              <span class="vi">Vì được chỉ định là sinh vật ngoại lai đặc biệt, nên việc nhập khẩu và nuôi dưỡng bị cấm.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>前倒し（まえだおし）</strong> — thực hiện sớm hơn kế hoạch, đẩy nhanh tiến độ
+            <div class="example">
+              <span class="jp">対策を前倒しで進めることを決めた。</span>
+              <span class="vi">Đã quyết định đẩy nhanh tiến độ thực hiện các biện pháp.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<!-- SECTION B: JAPAN TECH -->
+<section id="japan-tech" class="digest-section">
+  <h2 class="section-title">🇯🇵 Tech / AI in Japanese</h2>
+
+  <!-- B1 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B-1</span>Claude Codeのハーネスを自己改善させる——PR後の手直しをルール・スキル・フックに自動フィードバックするループ設計</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">本文 / Nội dung</div>
+        <p class="content-text lang-ja">
+          Zennにて、AIエージェントが生成したPR（プルリクエスト）にマージ前に人間が加える「手直し」を、Claude Codeのハーネス（ルール・スキル・lintなど）へ自動的にフィードバックするループの実装例が公開された。筆者は設計から実装・検証・PR作成まで全フローをAIに委ねているが、命名規則の揺れやUI文言の細かな変更など、同じ種類の手直しが繰り返されることに気づいた。そこで、AIコミットには追跡用トレーラーを付与し、PR後の手修正コミットをgit履歴から機械的に抽出。各手直しを「ルール・スキル・lint・テスト・要件」のどれで防げるかを別エージェントが判定し、防げないものは除外。採用された改善案はPostToolUse hookなどに1コミット1提案の粒度で反映される。この仕組みにより、人間が見るべき領域を「要件の曖昧さ」と「判断」に絞り込みながら、機械的に防げるミスの範囲を継続的に広げていくことができる。
+        </p>
+        <div class="translation-vi">
+          Một bài viết trên Zenn giới thiệu thiết kế vòng lặp tự cải thiện harness của Claude Code. Tác giả để AI đảm nhận toàn bộ quy trình từ thiết kế, implement, kiểm thử đến tạo PR, nhưng nhận thấy cùng một loại chỉnh sửa tay (đặt tên biến, văn bản UI...) cứ lặp đi lặp lại trước khi merge. Giải pháp: gắn trailer theo dõi vào commit của AI, sau đó tự động trích xuất các commit sửa tay từ git history. Một agent riêng phân loại xem mỗi lần sửa có thể ngăn chặn bằng rule, skill, lint, test hay yêu cầu không, loại bỏ những gì không tự động hóa được. Các đề xuất cải tiến được áp dụng vào PostToolUse hook với cấu độ 1 đề xuất/1 commit. Kết quả là phạm vi lỗi được ngăn chặn tự động mở rộng dần, trong khi con người chỉ cần tập trung vào quyết định và yêu cầu còn mơ hồ. Đây là ví dụ thực tế về agentic engineering trong môi trường sản xuất.
+        </div>
+        <div class="source">📝 Zenn / wanko13 · 2026-10-24 · <a href="https://zenn.dev/wanko13/articles/20261024-harness-self-improvement-loop" target="_blank">記事を読む</a></div>
+      </div>
+      <div class="col col-right">
+        <div class="edu-block">
+          <h4>📘 語彙（技術用語）</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr><td class="jp-word">ハーネス</td><td class="reading">はーねす</td><td class="hanviet">—</td><td class="meaning">harness — bộ khung quy tắc/cấu hình cho AI agent (rule, lint, skill tổng hợp)</td></tr>
+            <tr><td class="jp-word">手直し</td><td class="reading">てなおし</td><td class="hanviet">—</td><td class="meaning">sửa tay, chỉnh sửa thủ công sau khi AI tạo ra</td></tr>
+            <tr><td class="jp-word">抽出</td><td class="reading">ちゅうしゅつ</td><td class="hanviet">trừu xuất</td><td class="meaning">trích xuất, lấy ra (từ dữ liệu lớn hơn)</td></tr>
+            <tr><td class="jp-word">粒度</td><td class="reading">りゅうど</td><td class="hanviet">lạp độ</td><td class="meaning">độ hạt, mức độ chi tiết/granularity</td></tr>
+            <tr><td class="jp-word">反証</td><td class="reading">はんしょう</td><td class="hanviet">phản chứng</td><td class="meaning">phản biện, bác bỏ (adversarial verification)</td></tr>
+            <tr><td class="jp-word">曖昧</td><td class="reading">あいまい</td><td class="hanviet">hôi mai</td><td class="meaning">mơ hồ, không rõ ràng (ambiguous)</td></tr>
+          </table>
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>〜に絞り込む</strong> — thu hẹp vào, tập trung vào (giới hạn phạm vi)
+            <div class="example">
+              <span class="jp">人間が見るべき範囲を「要件の曖昧さ」に絞り込んだ。</span>
+              <span class="vi">Thu hẹp phạm vi con người cần xem xét xuống còn "sự mơ hồ trong yêu cầu".</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>〜に委ねる</strong> — giao phó cho, ủy thác cho
+            <div class="example">
+              <span class="jp">全フローをAIエージェントに委ねることで、人間の介入を最小化した。</span>
+              <span class="vi">Bằng cách giao toàn bộ quy trình cho AI agent, sự can thiệp của con người được tối thiểu hóa.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- B2 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B-2</span>蓋を閉じてもClaude Codeは動いている——macOS DarkWakeが一晩で週間使用上限を静かに削る仕組み</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">本文 / Nội dung</div>
+        <p class="content-text lang-ja">
+          Zennにて、MacBook のスリープ中にClaude Codeの週間使用上限が予想以上に減少する現象の原因を解明した記事が公開された。原因はmacOSの「DarkWake」機能で、メンテナンスのために15分ごとに数秒間だけMacが起動する。この短い起床中にClaude Codeのストリーミング接続が一度切断され、再接続時に会話全体のコンテキストをコールドキャッシュ状態で再送するため、大量のトークンが消費される。報告では数時間のスリープで週間使用量が10〜36ポイント増加した事例もある。対処法としては、①スリープを完全に無効化（disablesleep）、②ターンを途中で中断してから蓋を閉じる、③システムのPower Napを無効にしてDarkWake起床の頻度を下げる、などが挙げられている。筆者は作業中だけMacを起こしたままにするメニューバーアプリの活用も紹介している。Claude Code利用者が知っておくべき重要な動作特性だ。
+        </p>
+        <div class="translation-vi">
+          Một bài viết trên Zenn đã phân tích nguyên nhân khiến giới hạn sử dụng hàng tuần của Claude Code bị giảm đáng kể dù MacBook đang ở chế độ ngủ. Nguyên nhân là tính năng "DarkWake" của macOS — cứ 15 phút, Mac sẽ khởi động trong vài giây để thực hiện bảo trì. Trong khoảng thời gian ngắn này, kết nối streaming của Claude Code bị ngắt, và khi kết nối lại, toàn bộ context của cuộc hội thoại được gửi lại từ đầu ở trạng thái cold cache, tiêu tốn rất nhiều token. Có trường hợp chỉ ngủ vài tiếng mà giới hạn tuần tăng thêm 10-36 điểm. Các giải pháp: tắt hoàn toàn sleep (disablesleep), dừng turn trước khi đóng nắp, hoặc vô hiệu hóa Power Nap để giảm tần suất DarkWake. Đây là đặc tính hoạt động quan trọng mà người dùng Claude Code cần nắm rõ.
+        </div>
+        <div class="source">📝 Zenn / Dawon Lee · 2026-10-24 · <a href="https://zenn.dev/dawon/articles/958dc0d144e32c" target="_blank">記事を読む</a></div>
+      </div>
+      <div class="col col-right">
+        <div class="edu-block">
+          <h4>📘 語彙（技術用語）</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr><td class="jp-word">起床</td><td class="reading">きしょう</td><td class="hanviet">khởi giác</td><td class="meaning">thức dậy, khởi động (ở đây: máy tính wake up)</td></tr>
+            <tr><td class="jp-word">上限</td><td class="reading">じょうげん</td><td class="hanviet">thượng hạn</td><td class="meaning">giới hạn trên, mức tối đa</td></tr>
+            <tr><td class="jp-word">切断</td><td class="reading">せつだん</td><td class="hanviet">thiết đoạn</td><td class="meaning">ngắt kết nối, cắt đứt</td></tr>
+            <tr><td class="jp-word">再送</td><td class="reading">さいそう</td><td class="hanviet">tái tống</td><td class="meaning">gửi lại, truyền lại (resend)</td></tr>
+            <tr><td class="jp-word">無効化</td><td class="reading">むこうか</td><td class="hanviet">vô hiệu hóa</td><td class="meaning">vô hiệu hóa, disable</td></tr>
+            <tr><td class="jp-word">頻度</td><td class="reading">ひんど</td><td class="hanviet">tần độ</td><td class="meaning">tần suất, mức độ thường xuyên</td></tr>
+          </table>
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>〜ため</strong>（原因）— vì, do, bởi vì (lý do dẫn đến kết quả)
+            <div class="example">
+              <span class="jp">コールドキャッシュ状態で再送されるため、大量のトークンが消費される。</span>
+              <span class="vi">Vì được gửi lại ở trạng thái cold cache, nên rất nhiều token bị tiêu thụ.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>〜事例がある</strong> — có trường hợp, có ví dụ thực tế
+            <div class="example">
+              <span class="jp">週間使用量が36ポイント増えた事例もある。</span>
+              <span class="vi">Cũng có trường hợp lượng sử dụng tuần tăng thêm 36 điểm.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- B3 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B-3</span>MCPクライアントがOAuthでMCPサーバーにつながる仕組み——CIMD・DCR・保護リソースメタデータを徹底解説</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">本文 / Nội dung</div>
+        <p class="content-text lang-ja">
+          ZennにてMCPクライアントがOAuthでMCPサーバーへ接続する仕組みを詳しく解説した記事が公開された。接続には「認可サーバーの発見」と「クライアントの識別」という2つの課題がある。認可サーバーの発見では、MCPサーバーが401応答と保護リソースメタデータ（RFC 9728）で認可サーバーの場所を示し、クライアントはそこからRFC 8414のメタデータを取得してログイン先やトークン発行先を知る。クライアント識別には事前登録・DCR（動的登録）・CIMD（HTTPSメタデータURLをclient_idとする方式）の3方式があり、MCP仕様2026年7月版ではDCRが非推奨となりCIMDが推奨されている。接続時はPKCEと認可コードフローでトークンを取得し、resourceパラメータで対象のMCPサーバーを指定する。Better AuthはCIMDと発見に対応済みで、Supabaseは発見に対応したもののDCRを案内している状況など、実装の現在地も紹介されている。
+        </p>
+        <div class="translation-vi">
+          Một bài viết chi tiết trên Zenn giải thích cơ chế MCP client kết nối với MCP server qua OAuth. Có hai thách thức: "khám phá authorization server" và "nhận diện client". Để khám phá auth server, MCP server trả về 401 kèm Protected Resource Metadata (RFC 9728), client dùng thông tin đó để lấy Authorization Server Metadata (RFC 8414) và biết endpoint đăng nhập/cấp token. Để nhận diện client, có 3 phương thức: đăng ký trước, DCR (dynamic registration), và CIMD (dùng HTTPS metadata URL làm client_id). Spec MCP tháng 7/2026 đã deprecate DCR và khuyến nghị CIMD. Khi kết nối, token được lấy qua PKCE + authorization code flow, với tham số resource chỉ định MCP server mục tiêu. Better Auth đã hỗ trợ CIMD và discovery, trong khi Supabase hỗ trợ discovery nhưng vẫn hướng dẫn DCR.
+        </div>
+        <div class="source">📝 Zenn / yutawatanabe · 2026-10-24 · <a href="https://zenn.dev/yutawatanabe/articles/254b701e0c4c7a" target="_blank">記事を読む</a></div>
+      </div>
+      <div class="col col-right">
+        <div class="edu-block">
+          <h4>📘 語彙（技術用語）</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr><td class="jp-word">認可</td><td class="reading">にんか</td><td class="hanviet">nhận khả</td><td class="meaning">ủy quyền, authorization (khác với xác thực)</td></tr>
+            <tr><td class="jp-word">発見</td><td class="reading">はっけん</td><td class="hanviet">phát kiến</td><td class="meaning">khám phá, discovery (trong ngữ cảnh protocol)</td></tr>
+            <tr><td class="jp-word">識別</td><td class="reading">しきべつ</td><td class="hanviet">thức biệt</td><td class="meaning">nhận diện, phân biệt (identification)</td></tr>
+            <tr><td class="jp-word">非推奨</td><td class="reading">ひすいしょう</td><td class="hanviet">phi thôi tưởng</td><td class="meaning">deprecated, không còn được khuyến nghị</td></tr>
+            <tr><td class="jp-word">動的登録</td><td class="reading">どうてきとうろく</td><td class="hanviet">động đích đăng lục</td><td class="meaning">dynamic client registration (DCR)</td></tr>
+            <tr><td class="jp-word">仕様</td><td class="reading">しよう</td><td class="hanviet">chỉ dạng</td><td class="meaning">specification, đặc tả kỹ thuật</td></tr>
+          </table>
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>〜に対応済み</strong> — đã hỗ trợ, đã tương thích (trạng thái đã hoàn tất)
+            <div class="example">
+              <span class="jp">Better AuthはCIMDに対応済みだが、NeonはDCRのままだ。</span>
+              <span class="vi">Better Auth đã hỗ trợ CIMD, nhưng Neon vẫn dùng DCR.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>〜もののDCRを案内している</strong>（〜ものの）— mặc dù... nhưng vẫn...
+            <div class="example">
+              <span class="jp">発見には対応したものの、クライアント登録はDCRを案内している。</span>
+              <span class="vi">Mặc dù đã hỗ trợ discovery, nhưng phần đăng ký client vẫn hướng dẫn dùng DCR.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<!-- SECTION C: GLOBAL TECH -->
+<section id="global-tech" class="digest-section">
+  <h2 class="section-title">🌐 Global Tech / AI (English)</h2>
+
+  <!-- C1 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C-1</span>PwnEscape (CVE-2026-99999): Critical Linux Kernel Flaw Lets VM Guests Escape to Host — Cloud VPS Providers Racing to Patch</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">Content (EN)</div>
+        <p class="content-text lang-en">
+          A critical Linux kernel vulnerability dubbed PwnEscape (CVE-2026-99999, CVSS 9.3) has been disclosed via the Openwall oss-security mailing list. The flaw, classified as a "Guest-to-Host KVM Escape," resides in the kernel's network packet processing code. An attacker can overwrite checksum metadata for IPv4 headers that the kernel has already verified, disrupting normal memory handling and ultimately achieving code execution on the hypervisor host from within a guest virtual machine. The research team demonstrated the attack in a controlled lab environment and predicts that working exploits for weaker configurations will emerge within weeks, with default hypervisor setups potentially exploitable within a month. Cloud and VPS providers are the primary concern: a malicious tenant could leverage this to break isolation boundaries and attack the underlying host or co-located tenants. In Japan, Sakura Internet has already paused new sign-ups for VPS and rental server plans while it applies countermeasures. AWS has confirmed that managed services (EC2, Lambda, Fargate) are unaffected and has released a patched Amazon Linux 2 update. Linux distributions including Ubuntu and RHEL are expected to publish backported fixes shortly.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge high">🔴 HIGH</span>
+          <span class="impact-text">Kernel-level VM escape — patch Linux hosts immediately; verify cloud provider status.</span>
+        </div>
+        <div class="source">📰 Publickey / Openwall oss-security · 2026-10-17 · <a href="https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html" target="_blank">Read article</a></div>
+      </div>
+      <div class="col col-right">
+        <div class="translation-vi">
+          Lỗ hổng kernel Linux nghiêm trọng mang tên PwnEscape (CVE-2026-99999, điểm CVSS 9.3) đã được công bố qua danh sách oss-security của Openwall. Lỗi nằm trong code xử lý packet mạng của kernel: kẻ tấn công có thể ghi đè metadata checksum của IPv4 header đã được kernel xác minh, từ đó gây rối loạn quản lý bộ nhớ và cuối cùng thực thi code trên host hypervisor từ bên trong máy ảo guest. Nhóm nghiên cứu đã chứng minh trong môi trường thử nghiệm và dự đoán exploit sẽ xuất hiện trong vài tuần đối với cấu hình yếu, và trong khoảng một tháng đối với cấu hình hypervisor mặc định. Rủi ro lớn nhất là với nhà cung cấp cloud và VPS: một tenant độc hại có thể phá vỡ cách ly và tấn công host hoặc các tenant khác. Tại Nhật, Sakura Internet đã tạm dừng đăng ký mới một số dịch vụ. AWS xác nhận EC2, Lambda, Fargate không bị ảnh hưởng và đã phát hành bản vá cho Amazon Linux 2.
+        </div>
+        <div class="impact-note">Nếu bạn tự quản lý VPS hoặc bare-metal Linux cho production, hãy áp dụng kernel patch ngay khi distro của bạn phát hành. Kiểm tra bảng điều khiển của cloud provider để xác nhận trạng thái patch. Đây là loại lỗi hiếm nhưng ảnh hưởng rộng — mọi workload chạy trên shared Linux hypervisor đều tiềm ẩn rủi ro cho đến khi được vá.</div>
+        <div class="edu-block">
+          <h4>📖 Giải thích thuật ngữ</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ (EN)</th><th>Phát âm</th><th>Giải thích</th></tr>
+            <tr><td class="term-en">VM escape</td><td class="term-pron">/viː ɛm ɪˈskeɪp/</td><td class="term-explain">Khai thác cho phép thoát khỏi máy ảo (guest) và truy cập host — phá vỡ isolation cơ bản của virtualization</td></tr>
+            <tr><td class="term-en">Hypervisor</td><td class="term-pron">/ˈhaɪpərvaɪzər/</td><td class="term-explain">Phần mềm quản lý nhiều máy ảo (VMware, KVM, Hyper-V) — lớp nằm giữa hardware và guest OS</td></tr>
+            <tr><td class="term-en">CVSS</td><td class="term-pron">/siː viː ɛs ɛs/</td><td class="term-explain">Common Vulnerability Scoring System — thang điểm 0-10 đánh giá mức độ nghiêm trọng của lỗ hổng bảo mật</td></tr>
+            <tr><td class="term-en">Backport</td><td class="term-pron">/ˈbækpɔːrt/</td><td class="term-explain">Áp dụng bản vá từ phiên bản mới hơn về phiên bản cũ đang được support mà không upgrade toàn bộ</td></tr>
+            <tr><td class="term-en">KVM</td><td class="term-pron">/keɪ viː ɛm/</td><td class="term-explain">Kernel-based Virtual Machine — hypervisor mã nguồn mở tích hợp trong Linux kernel, nền tảng cho AWS EC2, GCP, v.v.</td></tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- C2 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C-2</span>GitHub Copilot Usage Metrics API Now Names Your Custom Skills, Agents, and MCP Servers — Up to 25 Entries Per Report</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">Content (EN)</div>
+        <p class="content-text lang-en">
+          GitHub has expanded its Copilot usage metrics API to show named entries for custom skills, agents, MCP servers, slash commands, and plugins that organizations define internally — instead of grouping all custom activity under a generic "other" bucket. Each of the five customization categories now displays up to 25 named entries per record (up from five), with remaining activity collected into a trailing "other" entry. Interaction and distinct-use counts are calculated as before. This extends the agentic CLI customization metrics that shipped in September and gives administrators real visibility into which internal tools developers actually reach for. For example, an organization that deployed a custom MCP server for internal knowledge retrieval can now see adoption data broken out by server name, helping teams prioritize enablement work and measure rollout success. Names are pulled from Copilot CLI, the GitHub Copilot app, ACP integrations (JetBrains), and the Copilot SDK. Names are trimmed to 128 characters and path-like names remain grouped. Only report days processed after the feature release show names, so organizations building agentic tooling should start collecting baseline data now.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge medium">🟠 MEDIUM</span>
+          <span class="impact-text">Teams building internal Copilot extensions now get adoption visibility — useful for org-wide AI tooling rollouts.</span>
+        </div>
+        <div class="source">📰 GitHub Changelog · 2026-10-22 · <a href="https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api" target="_blank">Read article</a></div>
+      </div>
+      <div class="col col-right">
+        <div class="translation-vi">
+          GitHub đã mở rộng API metrics sử dụng của Copilot để hiển thị tên riêng cho các custom skills, agents, MCP servers, slash commands và plugins do tổ chức tự định nghĩa — thay vì gom tất cả vào nhóm "other" chung chung. Mỗi danh mục tùy chỉnh giờ hiển thị tối đa 25 mục được đặt tên (tăng từ 5), phần còn lại gom vào entry "other" cuối cùng. Đây là phần mở rộng của metrics agentic CLI tháng 9 và cho phép quản trị viên thấy rõ tool nội bộ nào developer thực sự sử dụng. Ví dụ: tổ chức triển khai MCP server nội bộ cho tra cứu knowledge base giờ có thể theo dõi mức độ áp dụng theo từng server. Tên được lấy từ Copilot CLI, ứng dụng Copilot, tích hợp ACP (JetBrains), và Copilot SDK. Tên bị cắt tới 128 ký tự. Chỉ ngày báo cáo sau khi tính năng ra mắt mới có tên hiển thị — vì vậy nhóm đang xây dựng agentic tooling nên bắt đầu thu thập baseline data ngay bây giờ.
+        </div>
+        <div class="impact-note">Nếu team bạn đang triển khai MCP servers hoặc custom agents trong môi trường doanh nghiệp có GitHub Copilot, giờ đây có thể đo adoption rate một cách chính xác. Hãy review naming convention của các internal tools để đảm bảo tên hiển thị đúng trong báo cáo — tránh dùng path-like names.</div>
+        <div class="edu-block">
+          <h4>📖 Giải thích thuật ngữ</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ (EN)</th><th>Phát âm</th><th>Giải thích</th></tr>
+            <tr><td class="term-en">Usage metrics API</td><td class="term-pron">/ˈjuːsɪdʒ ˈmetrɪks/</td><td class="term-explain">API cho phép truy vấn dữ liệu sử dụng của GitHub Copilot trong tổ chức — dùng cho billing, adoption tracking</td></tr>
+            <tr><td class="term-en">ACP integration</td><td class="term-pron">/eɪ siː piː/</td><td class="term-explain">Agent Communication Protocol — protocol của GitHub cho phép IDE (JetBrains, VS Code) kết nối với Copilot agents</td></tr>
+            <tr><td class="term-en">Baseline data</td><td class="term-pron">/ˈbeɪslaɪn/</td><td class="term-explain">Dữ liệu nền ban đầu dùng để so sánh sau này — "baseline" là điểm xuất phát đo lường</td></tr>
+            <tr><td class="term-en">Rollout</td><td class="term-pron">/ˈroʊlaʊt/</td><td class="term-explain">Quá trình triển khai dần dần một tính năng/sản phẩm đến người dùng</td></tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- C3 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C-3</span>Cloudflare OS Goes Managed: GitHub Repo Integration and Gmail Read/Send Now Available in Agentic Workspace</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">Content (EN)</div>
+        <p class="content-text lang-en">
+          Cloudflare has announced managed service availability for Cloudflare OS, the AI-powered business platform it open-sourced in August 2026. The platform is not a traditional OS like Linux or Windows — rather, it is an infrastructure layer designed specifically to run AI agents and business applications. Users interact through a chat interface to access AI services from Anthropic, OpenAI, and Google, with agents having secure access to internal company data. Two major capabilities shipped alongside the managed service announcement. First, GitHub repository integration: users can now instruct AI agents to add features, debug code, review pull requests, create commits, and push code — all from within Cloudflare OS. Second, enhanced Google Workspace connectivity: agents can now read and search Gmail threads, compose and send email drafts, and connect to Google Drive, Docs, and Sheets. The platform also includes an Agent Workspace where employees can have agents write and execute code and share the resulting applications internally. Organizations interested in the managed tier can join a waiting list. The open-source version remains deployable to any environment including on-premises and other cloud providers.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge low">🟡 LOW</span>
+          <span class="impact-text">Interesting agentic platform addition — relevant if evaluating enterprise AI infrastructure options.</span>
+        </div>
+        <div class="source">📰 Publickey · 2026-10-20 · <a href="https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html" target="_blank">Read article</a></div>
+      </div>
+      <div class="col col-right">
+        <div class="translation-vi">
+          Cloudflare đã thông báo cung cấp dịch vụ managed cho Cloudflare OS — nền tảng doanh nghiệp dựa trên AI mà họ mã nguồn mở hóa vào tháng 8/2026. Đây không phải OS truyền thống như Linux hay Windows, mà là tầng hạ tầng được thiết kế đặc biệt để chạy AI agent và ứng dụng doanh nghiệp. Người dùng tương tác qua giao diện chat để truy cập dịch vụ AI từ Anthropic, OpenAI, và Google, với khả năng truy cập an toàn vào dữ liệu nội bộ. Hai tính năng lớn được công bố cùng managed service: tích hợp GitHub repo (agent có thể thêm tính năng, debug, review PR, tạo commit, push code), và kết nối Google Workspace nâng cao (đọc/tìm kiếm Gmail, soạn và gửi email, kết nối Google Drive/Docs/Sheets). Nền tảng cũng có Agent Workspace nơi nhân viên có thể yêu cầu agent viết và thực thi code rồi chia sẻ ứng dụng kết quả nội bộ. Phiên bản mã nguồn mở vẫn có thể deploy bất kỳ đâu, kể cả on-premises.
+        </div>
+        <div class="impact-note">Đây là tín hiệu cho thấy xu hướng "AI workspace" đang trưởng thành — tích hợp code repository + email + document vào cùng một agent runtime. Nếu công ty bạn đang đánh giá enterprise AI platform, Cloudflare OS managed là một lựa chọn đáng xem xét, đặc biệt nếu đã dùng Cloudflare Workers.</div>
+        <div class="edu-block">
+          <h4>📖 Giải thích thuật ngữ</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ (EN)</th><th>Phát âm</th><th>Giải thích</th></tr>
+            <tr><td class="term-en">Managed service</td><td class="term-pron">/ˈmænɪdʒd ˈsɜːrvɪs/</td><td class="term-explain">Dịch vụ được nhà cung cấp quản lý hạ tầng thay cho khách hàng — khác với self-hosted nơi bạn tự vận hành</td></tr>
+            <tr><td class="term-en">Agent Workspace</td><td class="term-pron">/ˈeɪdʒənt ˈwɜːrkˌspeɪs/</td><td class="term-explain">Môi trường làm việc nơi AI agent có thể thực thi code, tương tác tools và chia sẻ kết quả — sandboxed runtime cho agents</td></tr>
+            <tr><td class="term-en">On-premises</td><td class="term-pron">/ɒn ˈpremɪsɪz/</td><td class="term-explain">Triển khai tại chỗ (trong data center của tổ chức), trái với cloud — thường gọi tắt là "on-prem"</td></tr>
+            <tr><td class="term-en">Open-source</td><td class="term-pron">/ˈoʊpən sɔːrs/</td><td class="term-explain">Mã nguồn mở — code công khai, ai cũng có thể đọc, sửa đổi và phân phối theo license quy định</td></tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<!-- PREV DIGESTS NAV -->
+<div class="prev-digests">
+  <h3>📚 Bản tin trước đó</h3>
+  <ul class="prev-digests-list">
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-24_2000.html">2026-10-24 20:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-24_1500.html">2026-10-24 15:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-24_1000.html">2026-10-24 10:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-24_0500.html">2026-10-24 05:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-24_0000.html">2026-10-24 00:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-23_2000.html">2026-10-23 20:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-23_1500.html">2026-10-23 15:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-23_1000.html">2026-10-23 10:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-23_0500.html">2026-10-23 05:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-23_0000.html">2026-10-23 00:00</a></li>
+  </ul>
+</div>
+
+<footer>
+  デイリーダイジェスト · 自動生成 · 2026-10-25 00:00 JST · SE/Cloud Engineer 向け JLPT N2+ 学習コンテンツ
+</footer>
+
+<script>
+  (function() {
+    var btns = document.querySelectorAll('.theme-toggle button');
+    var saved = localStorage.getItem('digest-theme') || 'system';
+    btns.forEach(function(b) {
+      if (b.dataset.themeValue === saved) b.classList.add('active');
+      b.addEventListener('click', function() {
+        var v = b.dataset.themeValue;
+        localStorage.setItem('digest-theme', v);
+        btns.forEach(function(x) { x.classList.remove('active'); });
+        b.classList.add('active');
+        if (v === 'system') {
+          document.documentElement.removeAttribute('data-theme');
+        } else {
+          document.documentElement.setAttribute('data-theme', v);
+        }
+      });
+    });
+  })();
+</script>
+
+</body>
+</html>

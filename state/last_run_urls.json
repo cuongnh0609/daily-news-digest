@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-24T20:00:00+09:00",
+  "last_run_at": "2026-10-25T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-25T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6599973",
+        "https://www.jiji.com/jc/article?k=2026102400459&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102400322&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102400368&g=spo&m=rss",
+        "https://news.yahoo.co.jp/pickup/6599980",
+        "https://zenn.dev/wanko13/articles/20261024-harness-self-improvement-loop",
+        "https://zenn.dev/dawon/articles/958dc0d144e32c",
+        "https://zenn.dev/yutawatanabe/articles/254b701e0c4c7a",
+        "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
+        "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+        "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html"
+      ],
+      "titles": [
+        "台風30号が26日（月）に西日本へ接近——東日本も前線の影響で警報級の大雨のおそれ",
+        "金正恩氏が電撃訪中——新鴨緑江大橋を渡り習近平との関係強化、トランプ会談をにらむ",
+        "モンゴル草原大火災でKDDI関連企業に賠償請求検討——現地当局「法令違反の疑い」",
+        "ラグビー日本代表、フィジーに敗れる——協会100周年記念試合で課題浮き彫り",
+        "外来カミキリムシの被害、2050年には本州ほぼ全域に——研究機関が初の分布拡大試算を発表",
+        "Claude Codeのハーネスを自己改善させる——PR後の手直しをルール・スキル・フックに自動フィードバックするループ設計",
+        "蓋を閉じてもClaude Codeは動いている——macOS DarkWakeが一晩で週間使用上限を静かに削る仕組み",
+        "MCPクライアントがOAuthでMCPサーバーにつながる仕組み——CIMD・DCR・保護リソースメタデータを徹底解説",
+        "PwnEscape (CVE-2026-99999): Critical Linux Kernel Flaw Lets VM Guests Escape to Host — Cloud VPS Providers Racing to Patch",
+        "GitHub Copilot Usage Metrics API Now Names Your Custom Skills, Agents, and MCP Servers — Up to 25 Entries Per Report",
+        "Cloudflare OS Goes Managed: GitHub Repo Integration and Gmail Read/Send Now Available in Agentic Workspace"
+      ]
+    },
     {
       "run_at": "2026-10-24T20:00:00+09:00",
       "urls": [

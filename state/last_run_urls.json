@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-25T00:00:00+09:00",
+  "last_run_at": "2026-10-25T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-25T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6599990",
+        "https://www.itmedia.co.jp/news/article/2610/24/2000002567/",
+        "https://www.jiji.com/jc/article?k=2026102400527&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102400302&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002546/",
+        "https://zenn.dev/edash_tech_blog/articles/5b90aa33bd8d49",
+        "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002515/",
+        "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+        "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+        "https://dreamlabs.ai/research/dream-1/"
+      ],
+      "titles": [
+        "放獣後のツキノワグマが再出没——神奈川・秦野市が捕殺を視野に警戒態勢を強化",
+        "GMO、「お名前.com」VPSへの攻撃を受け「能動的サイバー防御」の発動を政府に緊急要請",
+        "日本シリーズ第1戦——ソフトバンク・庄子が延長11回に決勝打、DeNAを下し初戦を制す",
+        "邦人記者のロシア拘束が長期化——領事面会も実現せず、対ロ交渉は進展なし",
+        "クリスタ、PHP脆弱性への緊急対応でクラウド機能を予告なく停止——データの事前保存を呼び掛け",
+        "Claude Code で GitHub Actions の CI 待ち時間を 18 分から 4 分台に——e-dash が公開した並列化・キャッシュ戦略の全記録",
+        "バイブコーディング6週間でMacの起動が20分に——Claude Codeが/private/tmpに溜め込んだ99万ファイルが原因か",
+        "1000万サイトで「生きたAPIキー」が丸見え——AWS・Stripe・OpenAIなど14サービスで1748件、平均1年放置",
+        "Critical Brotli Flaw CVE-2026-111497 Hits Python, Node, Go — requests, httpx, aiohttp All Exposed",
+        "Anthropic Embeds METR Evaluators With Employee-Level Access — A New Template for Independent AI Safety Oversight",
+        "Dream-1: A World Action Model That Controls Robots It Has Never Seen, Zero-Shot"
+      ]
+    },
     {
       "run_at": "2026-10-25T00:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation Under Linux Foundation",
         "GitHub Copilot Impact Dashboard Adds Industry Benchmarking — Compare Agentic Adoption Against Peers",
         "Anthropic Opens Open Call for Guest Investigators in Life Sciences — AI Research Access Program"
-      ]
-    },
-    {
-      "run_at": "2026-10-23T20:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/23/2000002558/",
-        "https://www.itmedia.co.jp/news/article/2610/23/2000002556/",
-        "https://www.jiji.com/jc/article?k=2026102300952&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102300839&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102300419&g=pol&m=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html",
-        "https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1",
-        "https://latent.space/p/ainews-black-october/",
-        "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-        "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images"
-      ],
-      "titles": [
-        "タイムズカー、免許証画像漏えい146万件の見舞金支払いへ——55億円の特別損失を計上",
-        "経産省、11月中に「ホワイトハッカー」チームを創設——AI悪用のサイバー攻撃に対抗",
-        "日本シリーズ24日開幕——上沢・石田裕が予告先発、球場は熱狂の前夜",
-        "高市首相、ガソリン補助金の見直しを指示——「出口戦略含め柔軟に検討」",
-        "総務省、選挙の偽情報対策でSNS収益化停止も——AI検知などの指針案を公表",
-        "「エージェント向け1Password」発表——AIにパスワードを渡さずアクセス権限を付与する新技術",
-        "「プロンプトガチャはもう古い」——ハーネス設計者が語るAI駆動開発の本質と落とし穴",
-        "Claude CodeとCodexで並列開発、Macのストレージが残り8GBに——大規模クリーンアップの記録",
-        "AINews: Black October — AI-Accelerated Security Wave, Claude Duet, MiniMax M3.1 Flash, and Agent Threats in Banking",
-        "GitHub Copilot for Visual Studio — September Update: PR Exploration with Git Agent, BYOM Preview, and NuGet MCP Fixer",
-        "How Does Fable 5.1 Hide Messages in Images? — Researchers Find Spontaneous Steganography in SVG Generation"
-      ]
-    },
-    {
-      "run_at": "2026-10-23T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102300567&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599802?source=rss",
-        "https://www.jiji.com/jc/article?k=2026102300273&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102300496&g=spo&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/23/2000002543/",
-        "https://www.itmedia.co.jp/news/article/2610/23/2000002527/",
-        "https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629",
-        "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
-        "https://www.anthropic.com/research/formal-verification",
-        "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-        "https://quad9.net/news/blog/au-revoir-france/"
-      ],
-      "titles": [
-        "作家・村上龍さん死去、74歳——芥川賞受賞の「限りなく透明に近いブルー」など代表作多数",
-        "台風30号（チャンパカ）、沖縄に接近——関東まで大雨・強風のおそれ、各地に避難指示",
-        "宮本茂氏ら8人に文化勲章——「マリオ」の生みの親、ゲーム業界から初の受章",
-        "松井秀喜氏が読売巨人軍の新監督に就任——長嶋茂雄氏との約束を果たす",
-        "デジ庁委託企業のWebツールに不正アクセス——個人情報1万3000件漏えいか",
-        "「AIでエンジニア派遣は不要になるか」——各社に聞いた肌感、求められる人材像の変化",
-        "Node.jsの2026年10月セキュリティリリース対応——Claude Codeで66本のPRを一括作成した実録",
-        "WindowsでAIエージェントを安全に隔離する「Microsoft Execution Containers（MXC）」正式リリース",
-        "Anthropic Uses Claude to Formally Verify Security Properties of Production OSS at Scale",
-        "GitHub Copilot Global Default Policy Goes GA — Admins Get Centralized Feature Control",
-        "Quad9 DNS Resolver to Exit France on Nov 24 — Court Orders Blocking, Quad9 Refuses"
       ]
     }
   ]

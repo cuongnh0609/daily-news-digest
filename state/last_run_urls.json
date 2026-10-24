@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-24T15:00:00+09:00",
+  "last_run_at": "2026-10-24T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-24T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6599957",
+        "https://www.itmedia.co.jp/news/article/2610/24/2000002566/",
+        "https://news.yahoo.co.jp/pickup/6599964",
+        "https://news.yahoo.co.jp/pickup/6599939",
+        "https://news.yahoo.co.jp/pickup/6599954",
+        "https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
+        "https://zenn.dev/explaza/articles/c749042ecbe232",
+        "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+        "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+        "https://astral.sh/blog/uv-ty-integration"
+      ],
+      "titles": [
+        "台風30号、週明けに九州接近・上陸のおそれ——西日本から東日本で大雨警戒",
+        "GMO「お名前.com」FX VPS不正アクセス——全利用者に5000円見舞金、実被害も補償へ",
+        "リニア中央新幹線の地下ホーム工事現場を初公開——相模原「神奈川県駅（仮称）」で見学会",
+        "高市首相のX投稿への返信、外国人関連コメントが急増——就任1年で分析",
+        "日本シリーズ第1戦、横浜DeNAベイスターズ対福岡ソフトバンクホークスが開幕",
+        "Deno開発元がCloudflareに合流——Deno自体は終了へ、workerdとDurable Objectsのオープンソース化に注力",
+        "Gartner予測：2028年までにFDE依存の企業の70%がエージェントAIを放棄",
+        "Claude Codeでアプリの仕組みを説明する動画を自動生成——「animated-arch-diagram」スキルの実践",
+        "Anthropic's Long-Term Benefit Trust Adds Physicist Christopher Stubbs as First Scientist Member",
+        "Simon Willison Highlights \"My Obituary for Programming\" — What Coding Agents Mean for People Who Loved the Puzzle",
+        "Astral Integrates uv and ty: Unified Python Toolchain for Type-Checking, Dependencies, and Environments"
+      ]
+    },
     {
       "run_at": "2026-10-24T15:00:00+09:00",
       "urls": [
@@ -30,7 +59,6 @@
         "Corgi: A Terminal Multiplexer Built for Humans and AI Agents — Keep Claude Code, Codex & Friends Running in the Background"
       ]
     },
-
     {
       "run_at": "2026-10-24T10:00:00+09:00",
       "urls": [
@@ -174,93 +202,6 @@
         "Anthropic Uses Claude to Formally Verify Security Properties of Production OSS at Scale",
         "GitHub Copilot Global Default Policy Goes GA — Admins Get Centralized Feature Control",
         "Quad9 DNS Resolver to Exit France on Nov 24 — Court Orders Blocking, Quad9 Refuses"
-      ]
-    },
-    {
-      "run_at": "2026-10-23T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6599768?source=rss",
-        "https://news.yahoo.co.jp/pickup/6599773?source=rss",
-        "https://news.yahoo.co.jp/pickup/6599763?source=rss",
-        "https://www.jiji.com/jc/article?k=2026102300175&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102300176&g=int&m=rss",
-        "https://zenn.dev/asagiman/articles/organization-learning-authority",
-        "https://zenn.dev/takkuhiro/articles/shop-pay-agent",
-        "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002368/",
-        "https://arxiv.org/abs/2610.27251",
-        "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-        "https://www.anthropic.com/news/singapore-office-opening"
-      ],
-      "titles": [
-        "食料品消費税1% 買い物は変わるか",
-        "チベットでM7.0の地震 16人死亡",
-        "デジ庁HPの問い合わせ内容漏洩か",
-        "橋本大輝4連覇、内村航平以来 パリ3冠の岡慎之助は8位——世界体操個人総合",
-        "トランプ大統領、スターリンク制限解除を要請 ウクライナ利用巡り——報道",
-        "AIエージェントの「学び」を、そのまま次の指示にしない——根拠・適用範囲・失効を持つ知識管理",
-        "Shop MCPで、検索から支払いまでをチャットの中で完了するエージェントを作る",
-        "広がる「国産AI」活用事例 PFNの「PLaMo」にみる\"ハマりどころ\"",
-        "AI and the Enclosure of the Scientific Commons",
-        "Custom skills, agents, and MCP servers in usage metrics API",
-        "Anthropic opens Singapore office and signs MOU with the Government of Singapore"
-      ]
-    },
-    {
-      "run_at": "2026-10-23T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102201110&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102200874&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/22/2000002510/",
-        "https://www.jiji.com/jc/article?k=2026102200858&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/22/2000002488/",
-        "https://zenn.dev/edash_tech_blog/articles/5b90aa33bd8d49",
-        "https://zenn.dev/shogo/articles/f847c35ea8dccb",
-        "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html",
-        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-        "https://github.com/NVIDIA/OpenShell",
-        "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
-      ],
-      "titles": [
-        "コンテンツ産業支援で新法人設立検討、2027年設立へ政府が検討会",
-        "「士業」AI活用でルール整備、政府がデジタル改革原則策定へ",
-        "手のひらサイズの宇宙AIデータセンター、JAXA後押しの国内新興が実現目指す",
-        "元ソフトバンク選手に懲役16年、女性10人に不同意わいせつ致傷など横浜地裁が判決",
-        "Tesla決算、営業益56%減、FSD契約67%増の174万件",
-        "Claude CodeでCI待ち時間18分→4分台に短縮、Vitest分割・DBキャッシュ・node_modulesキャッシュの三段構え",
-        "KMPデスクトップはAIエージェントに12倍速い、Compose MCP経由のUI操作vsAndroidのUIAutomator比較",
-        "Cloudflare OSのマネージドサービス提供へ、GitHub連携やGmail統合など",
-        "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation Under Linux Foundation",
-        "NVIDIA Open-Sources OpenShell: Kernel-Level Sandboxed Runtime for Fleets of Autonomous AI Agents",
-        "eMudhra Exits Global SSL/TLS Business After Intermediate CA Compromise"
-      ]
-    },
-    {
-      "run_at": "2026-10-23T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6599749?source=rss",
-        "https://news.yahoo.co.jp/pickup/6599748?source=rss",
-        "https://news.yahoo.co.jp/pickup/6599746?source=rss",
-        "https://news.yahoo.co.jp/pickup/6599745?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/20/2000002426/",
-        "https://zenn.dev/edy0327/articles/0904af94c91943",
-        "https://zenn.dev/aicontentsbank/articles/issue-to-pr-harness-claude-code",
-        "https://zenn.dev/mskbhd/articles/lab-1124-mcp",
-        "https://platform.claude.com/docs/en/api/migration-2026-10-21",
-        "https://simedw.com/2026/10/21/world-model-terminal/",
-        "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html"
-      ],
-      "titles": [
-        "モンゴル自然保護区の火災、KDDI子会社の日本人幹部が謝罪——東京都2個分の面積焼失",
-        "世界初の核廃棄物最終処分場、フィンランドが操業許可——地下430mに10万年保管",
-        "三菱自動車とホンダが提携合意——ピックアップトラック「トライトン」をASEAN向けにOEM供給",
-        "訪日外客向け免税制度を11月刷新——「転売ヤー」対策で事後還付方式へ移行",
-        "防災メール企業「アルカディア」、不正アクセス105時間の攻防を分単位で公開",
-        "Claude Codeの「キックオフ・テンプレート」を作った話 — INTENT.mdから始めるspec-drivenな開発",
-        "Issueを投げたら、PRが立つ。Claude Codeに開発を一周させる「ハーネス」の作り方",
-        "MCPゲートウェイのツール単位認可は効くか——agentgatewayで削除操作を通した3つの穴",
-        "Anthropic API Version 2026-10-21: New SDK Majors Drop temperature, top_p, top_k from Messages",
-        "WorldTUI: A 360M-Parameter Model That Pretends to Be a Real Terminal",
-        "Using LLM Self-Reported Confidence Scores Is a Bad Idea — Here's What to Build Instead"
       ]
     }
   ]

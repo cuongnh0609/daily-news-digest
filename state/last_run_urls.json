@@ -1,6 +1,36 @@
 {
-  "last_run_at": "2026-10-24T10:00:00+09:00",
+  "last_run_at": "2026-10-24T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-24T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102400269&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102400245&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102300707&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102301051&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102300892&g=soc&m=rss",
+        "https://zenn.dev/taka8823/articles/2df36d66844c15",
+        "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
+        "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
+        "https://www.anthropic.com/news/distillation-defenses",
+        "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+        "https://corgi.computer/"
+      ],
+      "titles": [
+        "知人女性の遺体を車で仙台まで運搬、死体遺棄容疑で28歳男を逮捕——千葉県警",
+        "台風30号、先島諸島北方を北上——26日に九州接近のおそれ、西日本は前線で大雨警戒",
+        "改正皇室典範施行後、女性皇族の結婚対応に宮内庁が苦慮——儀式・住居など検討中",
+        "片山財務相、フランスの最高勲章レジオン・ドヌールを受章——日仏経済交流への貢献が評価",
+        "作家・小林信彦さんが19日に死去、93歳——「唐獅子株式会社」などのパロディー小説で知られる",
+        "AIコードレビューの不合格率が51%→13%に急落——しかし3モデル中2つは判定していなかった",
+        "「読みにくいDB」はAI開発コストを1.9倍にする——Claude Codeで検証したDB設計の影響",
+        "AWS Lambda Web Functions発表——Next.js・Honoなどをアダプターなしでそのまま実行可能に",
+        "Anthropic Cuts Distillation Attack Yield by 90–99% — New Defenses Protect Claude's Reasoning from Extraction",
+        "GitHub Usage Metrics API Now Tracks Claude Code, OpenCode & Third-Party AI Tools Alongside Copilot",
+        "Corgi: A Terminal Multiplexer Built for Humans and AI Agents — Keep Claude Code, Codex & Friends Running in the Background"
+      ]
+    },
+
     {
       "run_at": "2026-10-24T10:00:00+09:00",
       "urls": [

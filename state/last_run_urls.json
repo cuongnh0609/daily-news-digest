@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-25T10:00:00+09:00",
+  "last_run_at": "2026-10-25T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-25T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102500185&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102500097&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102500137&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102400310&g=soc&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002558/",
+        "https://zenn.dev/loglass/articles/24b2a4776ce8d4",
+        "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002552/",
+        "https://zenn.dev/shingokumon/articles/4da5acb9697d56",
+        "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "https://www.anthropic.com/news/singapore-office-opening",
+        "https://latent.space/p/ai-is-getting-good-at-math/"
+      ],
+      "titles": [
+        "野党、消費減税審議で高市首相の出席を要求——支援金の詳細めぐり追及強まる",
+        "天皇・皇后両陛下、高知県入り——国民文化祭の開会式に出席される",
+        "スターリンク通信制限を解除——ウクライナ大統領、トランプ氏に感謝を表明",
+        "認知症高齢者を狙う悪質商法が後絶たず——リフォーム詐欺・悪徳訪問販売、専門家が対策訴え",
+        "タイムズカー、免許証画像漏えい146万件に見舞金3000円——55億円の特別損失を計上へ",
+        "AIが実装してくれる時代こそ、自分の手で実装しよう——「実装力」の本質と、AI駆動開発の落とし穴",
+        "サイバー攻撃AIツール「ARTEX」とは——中国系グループが使用、ConnectWiseサプライチェーン攻撃に関与か",
+        "AWSにデプロイせずFastAPI製Lambdaのarm64実行をCIで検証——ローカル同等環境でコストゼロのテスト戦略",
+        "Cerebras Deploys Trillion-Parameter AI Models via 59-Wafer Pipeline — 1000+ Tokens/Sec at Scale",
+        "Anthropic Opens Singapore Office and Signs MOU with Government — In-Region Claude API for Asia-Pacific",
+        "AI Is Getting Good at Math — How Drafter-Solver-Verifier Loops Are Cracking Hard Problems"
+      ]
+    },
     {
       "run_at": "2026-10-25T10:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-25T15:00:00+09:00",
+  "last_run_at": "2026-10-25T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-25T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102500322&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102500237&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102500244&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6600095?source=rss",
+        "https://www.jiji.com/jc/article?k=2026102500270&g=int&m=rss",
+        "https://zenn.dev/metalmental/articles/20261025_claude-code-mods",
+        "https://zenn.dev/kokagex/articles/d6a7e09257590b",
+        "https://zenn.dev/myntai/articles/decerna-approval-boundary",
+        "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "https://latent.space/p/ainews-kimi-31/",
+        "https://danluu.com/ambitious/"
+      ],
+      "titles": [
+        "日本シリーズ第2戦――ソフトバンクが2-0でDeNAをリード、モイネロが5回無失点の好投",
+        "台風30号が温帯低気圧に――前線と連携で26日以降も西日本・東日本は大雨警戒",
+        "那覇ホテルでの強盗殺人事件――駐留米兵を起訴、沖縄の基地問題に再び波紋",
+        "福島県知事選――内堀雅雄氏が4選確実、震災復興と人口減少対策を訴え",
+        "独アウディがジョージア州に42億ドルの新工場――トランプ大統領が中間選挙前に発表",
+        "Claude Code Modsで作る自分専用のTerminal UI――型定義を活かした1日でのカスタマイズ実践",
+        "AIエージェントが作業の「節目」ごとにskillを選び直す――tool呼び出しで転換点を検知する実装",
+        "本番操作をAIエージェントに委ねるとき「人が承認した」をどこで保証するか――承認artifactの設計",
+        "America Has Lost 200K Creative Jobs — How Much Is AI?",
+        "Kimi K3.1 Pro: Fable-5.1-Class Open Weights — Near-Frontier Agentic Model with 1M-Token Context",
+        "We Should Be More Ambitious With the Software We Build — Dan Luu's Case for Raising the Bar"
+      ]
+    },
     {
       "run_at": "2026-10-25T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Anthropic Cuts Distillation Attack Yield by 90–99% — New Defenses Protect Claude's Reasoning from Extraction",
         "GitHub Usage Metrics API Now Tracks Claude Code, OpenCode & Third-Party AI Tools Alongside Copilot",
         "Corgi: A Terminal Multiplexer Built for Humans and AI Agents — Keep Claude Code, Codex & Friends Running in the Background"
-      ]
-    },
-    {
-      "run_at": "2026-10-24T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102400163&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102300988&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102400173&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599899",
-        "https://www.itmedia.co.jp/news/article/2610/23/2000002551/",
-        "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html",
-        "https://zenn.dev/pksha/articles/0f9c11d1daea2e",
-        "https://www.kimi.ai/blog/kimi-k3-1-pro",
-        "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-        "https://block.xyz/dessa"
-      ],
-      "titles": [
-        "ウクライナ南部で27日から局地的停戦——メラニア夫人の直接働きかけで実現へ",
-        "日独首脳、経済安保で包括宣言へ——レアアース・防衛産業で協力格上げ、企業20超がMOUを締結",
-        "トランプ大統領、対カナダ50%関税を一部撤廃——中間選挙前に農業機械・合板など対象に",
-        "東京湾大華火祭、11年ぶりに復活——10月24日午後5時半から開催、首都高も通行規制",
-        "ラクス子会社「ブラストメール」に不正アクセス——横浜市・JR四国・新潟日報など多数に影響",
-        "「Claude Mythos 5」、実在の開発者を標的に——AnthropicとAISIが整合性分析を公開",
-        "プロンプトガチャはもう古い——ハーネス設計者が語るAI駆動開発の本質と落とし穴",
-        "AI時代に配布するPythonコードをどう守るか——Pyarmorで難読化を試した実験と判断軸",
-        "Kimi K3.1 Pro: Moonshot's First Near-Frontier Open-Weight Model with 1M-Token Context",
-        "GitHub Copilot in Teams: Turn Issue Notifications Into Pull Requests Without Leaving Chat",
-        "Dessa: Block's Speech-to-Speech AI Trained Purely on Human Sound — No Text, No Pretrained Models"
-      ]
-    },
-    {
-      "run_at": "2026-10-24T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102301185&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102300706&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102301177&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/23/2000002544/",
-        "https://www.itmedia.co.jp/news/article/2610/23/2000002557/",
-        "https://zenn.dev/yuiseki/articles/54b01670841898",
-        "https://www.itmedia.co.jp/news/article/2610/23/2000002535/",
-        "https://www.itmedia.co.jp/news/article/2610/23/2000002531/",
-        "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
-        "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
-        "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available"
-      ],
-      "titles": [
-        "環境省のメールサービスに不正アクセス——個人情報2万件超が流出した可能性",
-        "改正皇室典範が施行——旧宮家の男系男子による養子縁組が可能に、女性皇族の婚姻後の身分も維持",
-        "ウクライナ南部で局地的停戦が成立——米国の仲介で前線都市への人道支援搬入が実現",
-        "日経新聞への不正アクセス拡大——日経BPの利用者約80万件も流出か、テレ東などにも影響",
-        "「チケット当選」装う詐欺メールが急増——イープラス・ローチケ・ぴあを悪用したフィッシング手口",
-        "Claude Codeに「セキュリティ監査」を依頼するプロンプト20選——IDOR・インジェクション・乱用まで網羅したチェックリスト",
-        "MetaのパーソナルAIエージェント「Muse」が日本上陸——メルカリ・マネフォ・ぴあと連携、Secure VMで動作",
-        "中国系サイバー攻撃グループがAIで攻撃を自動化——「ARTEX」ツールでConnectWiseサプライチェーン攻撃に関与",
-        "Kimi K3.1 Pro: The First Near-Frontier Open-Weight Model Set to Challenge Claude Opus 5.5",
-        "Cloudflare Releases tsrs: A Rust Port of TypeScript That Type-Checks 8× Faster and Runs in WebAssembly",
-        "GitHub Enterprise Installations for GitHub Apps Now Generally Available — Replace PATs with Fine-Grained App Permissions"
-      ]
-    },
-    {
-      "run_at": "2026-10-24T00:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/23/2000002562/",
-        "https://www.itmedia.co.jp/news/article/2610/23/2000002553/",
-        "https://news.yahoo.co.jp/pickup/6599876?source=rss",
-        "https://www.jiji.com/jc/article?k=2026102300999&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102300838&g=pol&m=rss",
-        "https://zenn.dev/sakagi/articles/8caa896e649005",
-        "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002563/",
-        "https://www.itmedia.co.jp/news/article/2610/23/2000002513/",
-        "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-        "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-        "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences"
-      ],
-      "titles": [
-        "パナソニックHD子会社、使用禁止の生成AIに33万人分の従業員情報をアップロード",
-        "佐川急便への不正アクセス、最大5323万件の個人情報流出か——9月末のサイバー攻撃で続報",
-        "台風30号（チャンパカ）、先島諸島に接近——26日には九州への影響も",
-        "ネパール・ヒマラヤで邦人登山者2遺体を発見——約6300メートル山中で捜索終結へ",
-        "消費税減税、国会審議が本格化——財源示さぬ野党案に与党は批判、議論かみ合わず",
-        "Better AuthをMCPの認可サーバーにして、AIエージェントからOAuthでアプリを操作させる",
-        "チームみらい安野党首らがAI悪用サイバー攻撃への緊急提言をデジ庁に提出——「AIにはAIを」",
-        "「あいまいな指示」を与えられたAIは安全なコーディングができない——香港科技大などの調査結果",
-        "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation Under Linux Foundation",
-        "GitHub Copilot Impact Dashboard Adds Industry Benchmarking — Compare Agentic Adoption Against Peers",
-        "Anthropic Opens Open Call for Guest Investigators in Life Sciences — AI Research Access Program"
       ]
     }
   ]

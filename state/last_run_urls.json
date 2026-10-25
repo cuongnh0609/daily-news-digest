@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-25T20:00:00+09:00",
+  "last_run_at": "2026-10-26T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-26T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6600119?source=rss",
+        "https://www.jiji.com/jc/article?k=2026102500227&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102500387&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102500421&g=spo&m=rss",
+        "https://news.yahoo.co.jp/pickup/6600116?source=rss",
+        "https://zenn.dev/devoctane/books/claude-code-agents-media",
+        "https://zenn.dev/takuh/articles/e32addf1c98769",
+        "https://zenn.dev/hodakam/articles/fbf973b8044288",
+        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+        "https://latent.space/p/ainews-black-october/",
+        "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams"
+      ],
+      "titles": [
+        "GMOインターネット、FX取引サービスへの不正アクセスでCEOが謝罪——顧客資産に被害も",
+        "ブラジル大統領選、決選投票——親米右派と現職左派ルーラ氏が接戦",
+        "那覇市長選挙——知念覚氏が再選、新人3候補を退ける",
+        "日本シリーズ第2戦——ソフトバンクが逆転勝利で2連勝、川村が延長10回に決勝ソロ",
+        "AI投資ブームに潜む懸念——巨額マネーの行方と「バブルか革新か」の問い",
+        "Claude Codeエージェント10体で個人メディアを回した記録——役割分担・権限設計・本番事故の全記録",
+        "AIエージェントは「忘れる」と伸びる——履歴を捨て最良の成果物から再起動する新手法",
+        "AIが1,512コミットしたOSSから学ぶ——AGENTS.mdのルールはなぜ「失敗から生まれる」のか",
+        "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation — 1M Skills Published, 280M Installed",
+        "Black October: AI-Powered Attack Wave Hits Core Infrastructure — PHP, Node.js, LiteLLM, and 2,250+ M365 Tenants Compromised",
+        "GitHub Copilot in Teams: Mention GitHub to Turn Any Notification into a Pull Request"
+      ]
+    },
     {
       "run_at": "2026-10-25T20:00:00+09:00",
       "urls": [

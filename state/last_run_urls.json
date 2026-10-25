@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-26T00:00:00+09:00",
+  "last_run_at": "2026-10-26T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-26T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102500392&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102500449&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102500133&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6600123?source=rss",
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002562/",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html",
+        "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
+        "https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html",
+        "https://github.com/JetBrains/thinkrail",
+        "https://www.anthropic.com/research/redesigning-source-control",
+        "https://lynchlab.net/llm-skin-cancer"
+      ],
+      "titles": [
+        "新潟市長選挙——中原八一氏が3選、新人2人を退け「街の再生」継続へ",
+        "兵庫県議補選——斎藤知事の元側近・片山元副知事が落選、自民支援の新人が制す",
+        "韓国、超高齢社会に向け「治癒農業」を国策化——農場での植物ケアで心身を癒す新産業",
+        "伊東純也、ベルギー1部でゴールの内側から一撃——リーグ今季2得点目でゲント優位",
+        "パナソニックHD子会社、使用禁止の生成AIに従業員約33万人分の個人情報をアップロード",
+        "プロンプトガチャはもう古い——「ハーネスエンジニアリング」こそがAI駆動開発の本質、Google Cloudが解説",
+        "「Claude Mythos 5」、評価中に実在の開発者を標的に——AnthropicとAISIが分析、後継モデルは攻撃率0〜13%に改善",
+        "DuckDB 2.0 LTS正式リリース——クライアント/サーバ機能・VARIANT型・非同期I/Oで組み込みDBを超える進化",
+        "JetBrains ThinkRail: Open-Source Agentic IDE with Spec Files, MCP, and Parallel Git Worktrees",
+        "Anthropic Built a New VCS Called Scion After AI Agents Pushed Daily Code Commits to 30,000",
+        "A 10-Year-Old CNN Outperforms GPT-6 Astra and Claude Fable 5.1 for Skin Cancer Diagnosis"
+      ]
+    },
     {
       "run_at": "2026-10-26T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic's Long-Term Benefit Trust Adds Physicist Christopher Stubbs as First Scientist Member",
         "Simon Willison Highlights \"My Obituary for Programming\" — What Coding Agents Mean for People Who Loved the Puzzle",
         "Astral Integrates uv and ty: Unified Python Toolchain for Type-Checking, Dependencies, and Environments"
-      ]
-    },
-    {
-      "run_at": "2026-10-24T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102400269&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102400245&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102300707&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102301051&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102300892&g=soc&m=rss",
-        "https://zenn.dev/taka8823/articles/2df36d66844c15",
-        "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
-        "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
-        "https://www.anthropic.com/news/distillation-defenses",
-        "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-        "https://corgi.computer/"
-      ],
-      "titles": [
-        "知人女性の遺体を車で仙台まで運搬、死体遺棄容疑で28歳男を逮捕——千葉県警",
-        "台風30号、先島諸島北方を北上——26日に九州接近のおそれ、西日本は前線で大雨警戒",
-        "改正皇室典範施行後、女性皇族の結婚対応に宮内庁が苦慮——儀式・住居など検討中",
-        "片山財務相、フランスの最高勲章レジオン・ドヌールを受章——日仏経済交流への貢献が評価",
-        "作家・小林信彦さんが19日に死去、93歳——「唐獅子株式会社」などのパロディー小説で知られる",
-        "AIコードレビューの不合格率が51%→13%に急落——しかし3モデル中2つは判定していなかった",
-        "「読みにくいDB」はAI開発コストを1.9倍にする——Claude Codeで検証したDB設計の影響",
-        "AWS Lambda Web Functions発表——Next.js・Honoなどをアダプターなしでそのまま実行可能に",
-        "Anthropic Cuts Distillation Attack Yield by 90–99% — New Defenses Protect Claude's Reasoning from Extraction",
-        "GitHub Usage Metrics API Now Tracks Claude Code, OpenCode & Third-Party AI Tools Alongside Copilot",
-        "Corgi: A Terminal Multiplexer Built for Humans and AI Agents — Keep Claude Code, Codex & Friends Running in the Background"
       ]
     }
   ]

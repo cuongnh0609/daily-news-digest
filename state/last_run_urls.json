@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-25T05:00:00+09:00",
+  "last_run_at": "2026-10-25T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-25T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102500145&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6600002?source=rss",
+        "https://news.yahoo.co.jp/pickup/6599995?source=rss",
+        "https://www.jiji.com/jc/article?k=2026102400296&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6599994?source=rss",
+        "https://zenn.dev/lixian/articles/mosaic-multi-session-agentic-rl",
+        "https://zenn.dev/talks_tldr_jp/articles/tldr37-medisetty-summary",
+        "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/",
+        "https://www.anthropic.com/news/public-benefit-fund",
+        "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+        "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
+      ],
+      "titles": [
+        "金正恩氏が1年ぶりに訪中——習近平との首脳会談で「不敗の親善」を強調、トランプ外交をにらむ",
+        "フランス全土でデモ再び——70,000人の警官が厳戒態勢、生活苦と公共サービス不満が背景に",
+        "台風30号——26日にかけ西日本・東日本で警報級の大雨おそれ、気象庁が厳重警戒を呼びかけ",
+        "米FRB、27・28日の会合で金利据え置きへ——インフレ再燃も、中間選挙前の利上げは回避の見通し",
+        "中井亜美、フィギュアスケートGPシリーズでノーミス演技を披露し逆転優勝——世界トップへの躍進に期待",
+        "マルチセッション・エージェンティックRLの新手法「Mosaic」——セッション間の信用割り当てを階層化し、BrowseCompで精度を10%向上",
+        "Uberのアジェンティックインフラ全貌——MCPゲートウェイが1日3万回呼び出され、Minionがプロダクションのプルリクエストの15%を生成",
+        "「エージェント向け1Password」発表——AIにパスワードを渡さず認証できる新サービス、ChatGPT・Claude・Museと連携へ",
+        "Anthropic Launches Public Benefit Fund — Commits 5% of Shares, With Up to 2% More Per Valuation Milestone",
+        "GitHub Copilot in Visual Studio Gets MCP-Powered NuGet Vulnerability Fixer and Bring-Your-Own-Model Preview",
+        "No Signs of AI Productivity Payoff Outside the Tech Sector — Apollo Analysis Challenges the ROI Narrative"
+      ]
+    },
     {
       "run_at": "2026-10-25T05:00:00+09:00",
       "urls": [

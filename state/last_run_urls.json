@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-26T05:00:00+09:00",
+  "last_run_at": "2026-10-26T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-26T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102500263&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102500224&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102500216&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6600147?source=rss",
+        "https://www.itmedia.co.jp/news/article/2610/26/2000002570/",
+        "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
+        "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002531/",
+        "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+        "https://minimaxir.com/2026/10/cheap-llms/",
+        "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html"
+      ],
+      "titles": [
+        "イスラエル総選挙——与党リクードは苦戦、ネタニヤフ首相の進退が最大焦点に",
+        "ロシア、邦人記者の拘束2週間——夏に日本領事館員を標的、「スパイ容疑」の背景に対日敵視",
+        "育成就労制度、日本語教員が4割弱で未確保——2027年開始へ向け政府が実態調査",
+        "ブラジル大統領選——現職ルーラ氏が決選投票で再選、親米右派ボウソナロ派を退ける",
+        "Google、GmailとGoogleフォトのデータをAI広告に活用可能に——プライバシーポリシーを改定",
+        "「読みにくいDB」はAI開発コストを1.9倍に——Claude Codeで検証したDB設計の影響",
+        "Cloudflare、TypeScriptをRustへ移植した「tsrs」を発表——TypeScript 7より8倍速く70%省メモリ",
+        "中国系攻撃者「Storm-0940」がAIエージェントで攻撃を自動化——ConnectWise経由で2,250組織に侵入試行",
+        "The State of Context Engineering — From Prompt to Harness, the Field Keeps Evolving",
+        "OpenAI and Anthropic Cut LLM Prices Up to 80% — Why Are Frontier Labs Racing to the Bottom?",
+        "AWS Lambda Web Functions: Deploy Next.js, Hono, and Express Directly on Lambda — No Adapters Needed"
+      ]
+    },
     {
       "run_at": "2026-10-26T05:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Critical Brotli Flaw CVE-2026-111497 Hits Python, Node, Go — requests, httpx, aiohttp All Exposed",
         "Anthropic Embeds METR Evaluators With Employee-Level Access — A New Template for Independent AI Safety Oversight",
         "Dream-1: A World Action Model That Controls Robots It Has Never Seen, Zero-Shot"
-      ]
-    },
-    {
-      "run_at": "2026-10-25T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6599973",
-        "https://www.jiji.com/jc/article?k=2026102400459&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102400322&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102400368&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6599980",
-        "https://zenn.dev/wanko13/articles/20261024-harness-self-improvement-loop",
-        "https://zenn.dev/dawon/articles/958dc0d144e32c",
-        "https://zenn.dev/yutawatanabe/articles/254b701e0c4c7a",
-        "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
-        "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-        "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html"
-      ],
-      "titles": [
-        "台風30号が26日（月）に西日本へ接近——東日本も前線の影響で警報級の大雨のおそれ",
-        "金正恩氏が電撃訪中——新鴨緑江大橋を渡り習近平との関係強化、トランプ会談をにらむ",
-        "モンゴル草原大火災でKDDI関連企業に賠償請求検討——現地当局「法令違反の疑い」",
-        "ラグビー日本代表、フィジーに敗れる——協会100周年記念試合で課題浮き彫り",
-        "外来カミキリムシの被害、2050年には本州ほぼ全域に——研究機関が初の分布拡大試算を発表",
-        "Claude Codeのハーネスを自己改善させる——PR後の手直しをルール・スキル・フックに自動フィードバックするループ設計",
-        "蓋を閉じてもClaude Codeは動いている——macOS DarkWakeが一晩で週間使用上限を静かに削る仕組み",
-        "MCPクライアントがOAuthでMCPサーバーにつながる仕組み——CIMD・DCR・保護リソースメタデータを徹底解説",
-        "PwnEscape (CVE-2026-99999): Critical Linux Kernel Flaw Lets VM Guests Escape to Host — Cloud VPS Providers Racing to Patch",
-        "GitHub Copilot Usage Metrics API Now Names Your Custom Skills, Agents, and MCP Servers — Up to 25 Entries Per Report",
-        "Cloudflare OS Goes Managed: GitHub Repo Integration and Gmail Read/Send Now Available in Agentic Workspace"
-      ]
-    },
-    {
-      "run_at": "2026-10-24T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6599957",
-        "https://www.itmedia.co.jp/news/article/2610/24/2000002566/",
-        "https://news.yahoo.co.jp/pickup/6599964",
-        "https://news.yahoo.co.jp/pickup/6599939",
-        "https://news.yahoo.co.jp/pickup/6599954",
-        "https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
-        "https://zenn.dev/explaza/articles/c749042ecbe232",
-        "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-        "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
-        "https://astral.sh/blog/uv-ty-integration"
-      ],
-      "titles": [
-        "台風30号、週明けに九州接近・上陸のおそれ——西日本から東日本で大雨警戒",
-        "GMO「お名前.com」FX VPS不正アクセス——全利用者に5000円見舞金、実被害も補償へ",
-        "リニア中央新幹線の地下ホーム工事現場を初公開——相模原「神奈川県駅（仮称）」で見学会",
-        "高市首相のX投稿への返信、外国人関連コメントが急増——就任1年で分析",
-        "日本シリーズ第1戦、横浜DeNAベイスターズ対福岡ソフトバンクホークスが開幕",
-        "Deno開発元がCloudflareに合流——Deno自体は終了へ、workerdとDurable Objectsのオープンソース化に注力",
-        "Gartner予測：2028年までにFDE依存の企業の70%がエージェントAIを放棄",
-        "Claude Codeでアプリの仕組みを説明する動画を自動生成——「animated-arch-diagram」スキルの実践",
-        "Anthropic's Long-Term Benefit Trust Adds Physicist Christopher Stubbs as First Scientist Member",
-        "Simon Willison Highlights \"My Obituary for Programming\" — What Coding Agents Mean for People Who Loved the Puzzle",
-        "Astral Integrates uv and ty: Unified Python Toolchain for Type-Checking, Dependencies, and Environments"
       ]
     }
   ]

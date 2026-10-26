@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-26T10:00:00+09:00",
+  "last_run_at": "2026-10-26T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-26T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6600180",
+        "https://www.jiji.com/jc/article?k=2026102600359&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6600182",
+        "https://www.jiji.com/jc/article?k=2026102600376&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/26/2000002577/",
+        "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
+        "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
+        "https://zenn.dev/rimon/articles/45c1fd2f015af8",
+        "https://www.anthropic.com/research/harness-design-long-running-apps",
+        "https://www.anthropic.com/news/distillation-defenses",
+        "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode"
+      ],
+      "titles": [
+        "福田康夫元首相が死去——自民党と中国の「橋渡し役」、90歳で生涯を閉じる",
+        "将棋・西山朋佳女流四冠が棋士編入試験に合格——女性として史上初、来春から四段に",
+        "セルビア大統領選——野党連合が優勢、14年ぶりの政権交代へ",
+        "ボルソナロ氏、ブラジル大統領選の敗北を拒否——「無効」主張で支持者が抗議行動",
+        "グッスマに不正アクセス——公式ECサイト閉鎖、会員の住所・注文履歴など漏えいか",
+        "Windows上でAIエージェントを安全に隔離する「Microsoft Execution Containers」(MXC)が正式リリース",
+        "AnthropicエンジニアがBun v1.4.3に貢献——TypeScript型チェックがTypeScript 7より3倍速く",
+        "Claude Code・Codex・Cursor…5種類のコーディングエージェントを使い分ける実践ガイド",
+        "Anthropic Engineering: Harness Design for Long-Running AI Application Development",
+        "Anthropic Strengthens Defenses Against Model Distillation Attacks",
+        "GitHub Usage Metrics API Now Tracks OpenCode, Custom Skills, Agents, and MCP Servers"
+      ]
+    },
     {
       "run_at": "2026-10-26T10:00:00+09:00",
       "urls": [

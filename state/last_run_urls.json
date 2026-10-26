@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-27T00:00:00+09:00",
+  "last_run_at": "2026-10-27T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-27T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6600226",
+        "https://www.jiji.com/jc/article?k=2026102600651&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102600946&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102600924&g=spo&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/26/2000002598/",
+        "https://zenn.dev/loglass/articles/24b2a4776ce8d4",
+        "https://zenn.dev/microsoft/articles/explain-before-shorten",
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002527/",
+        "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+        "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+        "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md"
+      ],
+      "titles": [
+        "スパイ防止へ外国代理人登録制度案——政府が専門家会議で初の方向性を提示",
+        "中国が輸出規制違反の摘発を強化——日本向けレアアース輸出が激減、一部はゼロに",
+        "ブラジル大統領選でルラ氏が4期目当選——分断深刻化、フラビオ氏は結果を拒否",
+        "日本シリーズ第3戦は福岡へ——ソフトバンク2連勝でDeNA崖っぷち、先発は松本対東",
+        "タイムズカー免許証漏えいで集団訴訟へ——登録者10万人超、1人最大5万円の賠償請求",
+        "AIが実装する時代こそ、自分の手で実装しよう——シェル・LLMエージェント・MCPサーバーを再実装して得た洞察",
+        "AIの説明文が「わかりにくい」を直すスキル——説明してから短くする「explain-before-shorten」の設計",
+        "「AIでエンジニア派遣は不要になる」のか——各社が語る需要変化、求められるスキルが明確に",
+        "Cohere Documents \"Call-Home\" Behavior in Qwen3.8 Open-Weight Model — Security Teams Should Treat Unknown Weights as Unsigned Binaries",
+        "Sebastian Raschka Releases 11-Hour From-Scratch Video Course on Building Reasoning Models with RLVR and Distillation",
+        "Microsoft Announces Type Server Protocol (TSP) — LSP Extension for Python Type Analysis, Multi-Connection Parallel Queries"
+      ]
+    },
     {
       "run_at": "2026-10-27T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation — 1M Skills Published, 280M Installed",
         "Black October: AI-Powered Attack Wave Hits Core Infrastructure — PHP, Node.js, LiteLLM, and 2,250+ M365 Tenants Compromised",
         "GitHub Copilot in Teams: Mention GitHub to Turn Any Notification into a Pull Request"
-      ]
-    },
-    {
-      "run_at": "2026-10-25T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102500322&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102500237&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102500244&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6600095?source=rss",
-        "https://www.jiji.com/jc/article?k=2026102500270&g=int&m=rss",
-        "https://zenn.dev/metalmental/articles/20261025_claude-code-mods",
-        "https://zenn.dev/kokagex/articles/d6a7e09257590b",
-        "https://zenn.dev/myntai/articles/decerna-approval-boundary",
-        "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-        "https://latent.space/p/ainews-kimi-31/",
-        "https://danluu.com/ambitious/"
-      ],
-      "titles": [
-        "日本シリーズ第2戦――ソフトバンクが2-0でDeNAをリード、モイネロが5回無失点の好投",
-        "台風30号が温帯低気圧に――前線と連携で26日以降も西日本・東日本は大雨警戒",
-        "那覇ホテルでの強盗殺人事件――駐留米兵を起訴、沖縄の基地問題に再び波紋",
-        "福島県知事選――内堀雅雄氏が4選確実、震災復興と人口減少対策を訴え",
-        "独アウディがジョージア州に42億ドルの新工場――トランプ大統領が中間選挙前に発表",
-        "Claude Code Modsで作る自分専用のTerminal UI――型定義を活かした1日でのカスタマイズ実践",
-        "AIエージェントが作業の「節目」ごとにskillを選び直す――tool呼び出しで転換点を検知する実装",
-        "本番操作をAIエージェントに委ねるとき「人が承認した」をどこで保証するか――承認artifactの設計",
-        "America Has Lost 200K Creative Jobs — How Much Is AI?",
-        "Kimi K3.1 Pro: Fable-5.1-Class Open Weights — Near-Frontier Agentic Model with 1M-Token Context",
-        "We Should Be More Ambitious With the Software We Build — Dan Luu's Case for Raising the Bar"
       ]
     }
   ]

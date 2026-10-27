@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-27T05:00:00+09:00",
+  "last_run_at": "2026-10-27T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-27T10:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102700224&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/27/2000002607/",
+        "https://www.itmedia.co.jp/news/article/2610/27/2000002610/",
+        "https://www.itmedia.co.jp/news/article/2610/27/2000002606/",
+        "https://www.jiji.com/jc/article?k=2026102600837&g=soc&m=rss",
+        "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002535/",
+        "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
+        "https://openai.com/index/introducing-gpt-6-1-terra/",
+        "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+        "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html"
+      ],
+      "titles": [
+        "米マイクロソフト、約6万人対象に希望退職制度——大規模AI投資の圧力下で人員構成を見直し",
+        "Apple、新型iPad miniを発表——8.5インチOLEDとA20 Pro搭載、防水機能を初搭載",
+        "GMOへのサイバー攻撃、犯人側が「27日に顧客PCを攻撃」と予告——ホワイトハッカーが解析中",
+        "楽天トラベルに不正アクセス——最大約260万件の顧客情報漏えい、クレカ情報も3.6万件",
+        "勤務間インターバル制度、導入わずか6.9%——義務化の議論が本格化、働き方改革の次の課題に",
+        "バイブコーディングを6週間続けたら、Macの起動に20分かかるようになった——AIネイティブ開発の落とし穴",
+        "Meta「Muse」が日本でサービス開始——メルカリ・マネーフォワード・ぴあと連携、AIエージェントが日常タスクを代行",
+        "AWS・Google CloudがAI専用チップ向けPyTorchバックエンドをオープンソース化——NVIDIAへの依存脱却を加速",
+        "OpenAI Releases GPT-6.1 Terra — New Mid-Range Model Targeting Agentic Coding and Computer Use",
+        "GitHub Copilot in Visual Studio: September Update — Bring Your Own Model (BYOM) Is Now in Preview, Breaking Change Included",
+        "Linux Kernel \"PwnEscape\" (CVE-2026-99999) — CVSS 9.3 Critical Flaw Lets Guest VM Execute Code on Host"
+      ]
+    },
     {
       "run_at": "2026-10-27T05:00:00+09:00",
       "urls": [

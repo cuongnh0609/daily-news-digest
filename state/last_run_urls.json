@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-27T15:00:00+09:00",
+  "last_run_at": "2026-10-27T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-27T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102700834&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6600325?source=rss",
+        "https://www.jiji.com/jc/article?k=2026102700857&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6600319?source=rss",
+        "https://www.itmedia.co.jp/news/article/2610/27/2000002620/",
+        "https://zenn.dev/simplex/articles/f2b41d3367e9c7",
+        "https://www.itmedia.co.jp/enterprise/articles/2610/26/news033.html",
+        "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/",
+        "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+        "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+        "https://j11g.com/the-mythical-man-month-in-the-age-of-ai"
+      ],
+      "titles": [
+        "京王電鉄へのランサムウェア攻撃——警視庁が被害届を受理、インフラ企業への組織的攻撃が相次ぐ",
+        "北日本に今季一番の寒気——北海道・東北で初雪・積雪のおそれ、来週にかけて気温急降下",
+        "防衛費増額「財源確保と国民の理解が不可欠」——政府が安保3文書改定の有識者会議で新戦略を提示",
+        "ニデック、創業者ら9人を提訴へ——前会長による「経営支配」で損害、取締役会が法的措置を決定",
+        "政府、サイバー攻撃「緊急対策パッケージ」来週中に策定へ——高市首相がサイバー閣僚会議の初会合で指示",
+        "AI時代のアーキテクチャ——実装を任せるために、詳細設計を自分のものにする（Spec-Driven Developmentの実践）",
+        "HISが月100時間を削減——AIエージェントで法人旅行の見積もり業務を自動化、4割は人手なしで完結",
+        "「エージェント向け1Password」発表——AIにパスワードを渡さずアクセス権限を付与、ChatGPT WorkとClaude Duetにも対応予定",
+        "Kimi K3.1 Pro: Near-Frontier Open-Weight Model from Moonshot AI Promises to Match Claude Opus 5.5 at Half the Price",
+        "Cloudflare Discloses Cross-Request KV Cache Exposure in GLM-5.3 on Workers AI — 155 Responses Leaked Other Users' Data",
+        "The Mythical Man-Month in the Age of AI — Brooks's Law Hasn't Disappeared, It Has Just Changed Form"
+      ]
+    },
     {
       "run_at": "2026-10-27T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Anthropic Engineering: Harness Design for Long-Running AI Application Development",
         "Anthropic Strengthens Defenses Against Model Distillation Attacks",
         "GitHub Usage Metrics API Now Tracks OpenCode, Custom Skills, Agents, and MCP Servers"
-      ]
-    },
-    {
-      "run_at": "2026-10-26T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102500263&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102500224&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102500216&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6600147?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/26/2000002570/",
-        "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
-        "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
-        "https://www.itmedia.co.jp/news/article/2610/23/2000002531/",
-        "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-        "https://minimaxir.com/2026/10/cheap-llms/",
-        "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html"
-      ],
-      "titles": [
-        "イスラエル総選挙——与党リクードは苦戦、ネタニヤフ首相の進退が最大焦点に",
-        "ロシア、邦人記者の拘束2週間——夏に日本領事館員を標的、「スパイ容疑」の背景に対日敵視",
-        "育成就労制度、日本語教員が4割弱で未確保——2027年開始へ向け政府が実態調査",
-        "ブラジル大統領選——現職ルーラ氏が決選投票で再選、親米右派ボウソナロ派を退ける",
-        "Google、GmailとGoogleフォトのデータをAI広告に活用可能に——プライバシーポリシーを改定",
-        "「読みにくいDB」はAI開発コストを1.9倍に——Claude Codeで検証したDB設計の影響",
-        "Cloudflare、TypeScriptをRustへ移植した「tsrs」を発表——TypeScript 7より8倍速く70%省メモリ",
-        "中国系攻撃者「Storm-0940」がAIエージェントで攻撃を自動化——ConnectWise経由で2,250組織に侵入試行",
-        "The State of Context Engineering — From Prompt to Harness, the Field Keeps Evolving",
-        "OpenAI and Anthropic Cut LLM Prices Up to 80% — Why Are Frontier Labs Racing to the Bottom?",
-        "AWS Lambda Web Functions: Deploy Next.js, Hono, and Express Directly on Lambda — No Adapters Needed"
-      ]
-    },
-    {
-      "run_at": "2026-10-26T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102500392&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102500449&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102500133&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6600123?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/23/2000002562/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html",
-        "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
-        "https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html",
-        "https://github.com/JetBrains/thinkrail",
-        "https://www.anthropic.com/research/redesigning-source-control",
-        "https://lynchlab.net/llm-skin-cancer"
-      ],
-      "titles": [
-        "新潟市長選挙——中原八一氏が3選、新人2人を退け「街の再生」継続へ",
-        "兵庫県議補選——斎藤知事の元側近・片山元副知事が落選、自民支援の新人が制す",
-        "韓国、超高齢社会に向け「治癒農業」を国策化——農場での植物ケアで心身を癒す新産業",
-        "伊東純也、ベルギー1部でゴールの内側から一撃——リーグ今季2得点目でゲント優位",
-        "パナソニックHD子会社、使用禁止の生成AIに従業員約33万人分の個人情報をアップロード",
-        "プロンプトガチャはもう古い——「ハーネスエンジニアリング」こそがAI駆動開発の本質、Google Cloudが解説",
-        "「Claude Mythos 5」、評価中に実在の開発者を標的に——AnthropicとAISIが分析、後継モデルは攻撃率0〜13%に改善",
-        "DuckDB 2.0 LTS正式リリース——クライアント/サーバ機能・VARIANT型・非同期I/Oで組み込みDBを超える進化",
-        "JetBrains ThinkRail: Open-Source Agentic IDE with Spec Files, MCP, and Parallel Git Worktrees",
-        "Anthropic Built a New VCS Called Scion After AI Agents Pushed Daily Code Commits to 30,000",
-        "A 10-Year-Old CNN Outperforms GPT-6 Astra and Claude Fable 5.1 for Skin Cancer Diagnosis"
-      ]
-    },
-    {
-      "run_at": "2026-10-26T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6600119?source=rss",
-        "https://www.jiji.com/jc/article?k=2026102500227&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102500387&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102500421&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6600116?source=rss",
-        "https://zenn.dev/devoctane/books/claude-code-agents-media",
-        "https://zenn.dev/takuh/articles/e32addf1c98769",
-        "https://zenn.dev/hodakam/articles/fbf973b8044288",
-        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-        "https://latent.space/p/ainews-black-october/",
-        "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams"
-      ],
-      "titles": [
-        "GMOインターネット、FX取引サービスへの不正アクセスでCEOが謝罪——顧客資産に被害も",
-        "ブラジル大統領選、決選投票——親米右派と現職左派ルーラ氏が接戦",
-        "那覇市長選挙——知念覚氏が再選、新人3候補を退ける",
-        "日本シリーズ第2戦——ソフトバンクが逆転勝利で2連勝、川村が延長10回に決勝ソロ",
-        "AI投資ブームに潜む懸念——巨額マネーの行方と「バブルか革新か」の問い",
-        "Claude Codeエージェント10体で個人メディアを回した記録——役割分担・権限設計・本番事故の全記録",
-        "AIエージェントは「忘れる」と伸びる——履歴を捨て最良の成果物から再起動する新手法",
-        "AIが1,512コミットしたOSSから学ぶ——AGENTS.mdのルールはなぜ「失敗から生まれる」のか",
-        "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation — 1M Skills Published, 280M Installed",
-        "Black October: AI-Powered Attack Wave Hits Core Infrastructure — PHP, Node.js, LiteLLM, and 2,250+ M365 Tenants Compromised",
-        "GitHub Copilot in Teams: Mention GitHub to Turn Any Notification into a Pull Request"
       ]
     }
   ]

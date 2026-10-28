@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-28T15:00:00+09:00",
+  "last_run_at": "2026-10-28T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-28T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6600467?source=rss",
+        "https://news.yahoo.co.jp/pickup/6600461?source=rss",
+        "https://www.itmedia.co.jp/news/article/2610/28/2000002656/",
+        "https://www.itmedia.co.jp/news/article/2610/28/2000002613/",
+        "https://news.yahoo.co.jp/pickup/6600458?source=rss",
+        "https://zenn.dev/kab_ai_lab/articles/69cc18b76158aa",
+        "https://zenn.dev/hidetsug/articles/subsidy-harness-claude-code",
+        "https://zenn.dev/zundamon_tools/articles/claude-subagent-fold",
+        "https://www.anthropic.com/news/s1-sec",
+        "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+        "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/"
+      ],
+      "titles": [
+        "スペインで旅客列車が衝突、10人以上が死亡——乗客200人超が巻き込まれた大規模事故",
+        "29日朝は各地で今季一番の冷え込み——北日本から西日本まで気温が急降下、霜も観測",
+        "Discordの公開サーバの会話がGoogle検索に表示へ——プライバシーへの懸念で反発の声も",
+        "カード決済1日停止でも現金が足りず——スイスの研究が示す「無キャッシュ社会の脆弱性」",
+        "小型恐竜の骨格標本が約75億円で落札——ニューヨークのオークションで世界最高値を更新",
+        "AIエージェントは「考える役」と「実行する役」に分けると壊れにくい——自作アシスタントJarvisの設計知見",
+        "Claude Codeで補助金申請ハーネスを作った話——「LLMを信用しない」ためのSpec駆動設計",
+        "サブエージェントは増やせば賢くなるのか——Anthropic公式キットで「畳み込み判断」を実測した結果",
+        "Anthropic Files S-1 with the SEC — IPO on Nasdaq Under Ticker \"ANT\", Goldman Sachs and Morgan Stanley as Underwriters",
+        "GitHub Copilot Adds Server-to-Server Authentication for GitHub Apps — Automated Agents Can Now Use Copilot Without a Signed-In User",
+        "Python's Experimental JIT Compiler Is Being Removed from CPython — PEP 836 Withdrawn, Code Gone in Python 3.16"
+      ]
+    },
     {
       "run_at": "2026-10-28T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "OpenAI Releases GPT-6.1 Terra — New Mid-Range Model Targeting Agentic Coding and Computer Use",
         "GitHub Copilot in Visual Studio: September Update — Bring Your Own Model (BYOM) Is Now in Preview, Breaking Change Included",
         "Linux Kernel \"PwnEscape\" (CVE-2026-99999) — CVSS 9.3 Critical Flaw Lets Guest VM Execute Code on Host"
-      ]
-    },
-    {
-      "run_at": "2026-10-27T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6600226",
-        "https://www.jiji.com/jc/article?k=2026102600651&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102600946&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102600924&g=spo&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/26/2000002598/",
-        "https://zenn.dev/loglass/articles/24b2a4776ce8d4",
-        "https://zenn.dev/microsoft/articles/explain-before-shorten",
-        "https://www.itmedia.co.jp/news/article/2610/23/2000002527/",
-        "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-        "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-        "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md"
-      ],
-      "titles": [
-        "スパイ防止へ外国代理人登録制度案——政府が専門家会議で初の方向性を提示",
-        "中国が輸出規制違反の摘発を強化——日本向けレアアース輸出が激減、一部はゼロに",
-        "ブラジル大統領選でルラ氏が4期目当選——分断深刻化、フラビオ氏は結果を拒否",
-        "日本シリーズ第3戦は福岡へ——ソフトバンク2連勝でDeNA崖っぷち、先発は松本対東",
-        "タイムズカー免許証漏えいで集団訴訟へ——登録者10万人超、1人最大5万円の賠償請求",
-        "AIが実装する時代こそ、自分の手で実装しよう——シェル・LLMエージェント・MCPサーバーを再実装して得た洞察",
-        "AIの説明文が「わかりにくい」を直すスキル——説明してから短くする「explain-before-shorten」の設計",
-        "「AIでエンジニア派遣は不要になる」のか——各社が語る需要変化、求められるスキルが明確に",
-        "Cohere Documents \"Call-Home\" Behavior in Qwen3.8 Open-Weight Model — Security Teams Should Treat Unknown Weights as Unsigned Binaries",
-        "Sebastian Raschka Releases 11-Hour From-Scratch Video Course on Building Reasoning Models with RLVR and Distillation",
-        "Microsoft Announces Type Server Protocol (TSP) — LSP Extension for Python Type Analysis, Multi-Connection Parallel Queries"
       ]
     }
   ]

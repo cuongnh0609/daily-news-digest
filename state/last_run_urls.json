@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-28T05:00:00+09:00",
+  "last_run_at": "2026-10-28T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-28T10:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
+        "https://www.itmedia.co.jp/news/article/2610/28/2000002649/",
+        "https://www.itmedia.co.jp/news/article/2610/28/2000002648/",
+        "https://news.yahoo.co.jp/pickup/6600367?source=rss",
+        "https://news.yahoo.co.jp/pickup/6600370?source=rss",
+        "https://kn.itmedia.co.jp/kn/article/2610/28/2000002621/",
+        "https://zenn.dev/kotap/articles/faiss-lucene-ann-gif",
+        "https://zenn.dev/ymotongpoo/articles/20261027-buildkit-traces-tempo",
+        "https://www.anthropic.com/research/early-progress-drug-development",
+        "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "https://ghostty.org/docs/install/release-notes/1-4-0"
+      ],
+      "titles": [
+        "NVIDIA・AMD、MetaとAI分野で提携拡大——「Muse」強化と次世代インフラ構築で協力へ",
+        "Apple、M6チップ搭載の新型14インチMacBook Proを発表——AI性能が大幅強化、33万9800円から",
+        "Google DeepMind、インタラクティブ世界生成モデル「Genie 4」を発表——音声・会話をリアルタイム生成、Geminiと連携",
+        "熊本地震から3ヶ月——千人超がいまだ避難所生活、仮設住宅の整備が急務",
+        "ボルソナロ前大統領の亡命認定へ——米国が方針固める、ブラジルとの外交問題に発展の恐れ",
+        "日本取引所グループ、AI導入で金融市場の取引システム監視を高度化——精度97%を実現した設計手法",
+        "GIFアニメで学ぶ、FaissとLuceneのベクトル検索アルゴリズムの違い——ANN（近似最近傍探索）の仕組みを可視化",
+        "Grafana TempoのトレースでDockerビルドを遅くしたコミットを特定——BuildKitの分散トレーシング活用法",
+        "Anthropic Reports Early Progress Using Claude to Accelerate Drug Development Across Six Biotech Programs",
+        "Google DeepMind Launches Genie 4 — Real-Time Interactive World Generation with Native Audio and Gemini Agent Integration",
+        "Ghostty 1.4 Released — 70–90% Memory Reduction via Scrollback Compression, Major Security Patches, and Full Kitty Graphics Support"
+      ]
+    },
     {
       "run_at": "2026-10-28T05:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Anthropic Files S-1 with the SEC — IPO Planned on Nasdaq Under Ticker \"ANT\"",
         "OpenAI Bans Internet Access During Frontier Model Training — and One Model Broke Out of the Sandbox",
         "Fixing Tool-Call Accuracy in vLLM: Constrained Decoding Raises Schema Correctness from 92% to 100%"
-      ]
-    },
-    {
-      "run_at": "2026-10-26T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102600880&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102600861&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6600222",
-        "https://www.jiji.com/jc/article?k=2026102600115&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102600839&g=spo&m=rss",
-        "https://zenn.dev/tokium_dev/articles/internship-mentoring-2026",
-        "https://zenn.dev/hii_chi/articles/claude-code-gh-token-wrapper",
-        "https://www.itmedia.co.jp/news/article/2610/26/2000002574/",
-        "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-        "https://github.com/KrushnaVardhanReddy/PaperPilot",
-        "https://arxiv.org/abs/2512.19428"
-      ],
-      "titles": [
-        "自民党がエネルギー対策提言——ガソリン補助を毎月５円ずつ縮小、電気代支援は再開へ",
-        "タイムズカー免許証漏えいで集団訴訟へ——10万人が登録、1人最大5万円の賠償請求",
-        "GMOへのサイバー攻撃——当初「80億円要求」、首相がサイバー防御を緊急指示",
-        "デジタル庁の政府AI「源内」にエージェント機能——18万人の職員が複数業務を自動連携",
-        "沢村賞に阪神・高橋遥人投手——16勝・5完投が高評価、日本シリーズの活躍に注目",
-        "AIネイティブなインターン生が示した「これからの開発エンジニア」像——仕様をAgentに渡し、PRレビューはClaudeへ",
-        "Claude CodeにGitHub CLIを使わせるときのトークン漏えいリスク——devcontainerでGH_TOKENを環境変数に置かない設計",
-        "Block（旧Square）が全二重音声AI「Dessa」を発表——テキスト不要、人間の会話音声だけで学習",
-        "IBM CEO: Open-Weight Models Are Now \"90% as Effective\" at a Fraction of the Cost — On-Prem AI Has Arrived",
-        "PaperPilot: Zero-Cloud Pure-Rust PDF Engine with First-Class MCP Support for AI Agents",
-        "\"Attention Is Not What You Need\" — 2025 Paper Resurfaces on Hacker News, Questioning the Transformer Bottleneck"
-      ]
-    },
-    {
-      "run_at": "2026-10-26T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6600180",
-        "https://www.jiji.com/jc/article?k=2026102600359&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6600182",
-        "https://www.jiji.com/jc/article?k=2026102600376&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/26/2000002577/",
-        "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
-        "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
-        "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-        "https://www.anthropic.com/research/harness-design-long-running-apps",
-        "https://www.anthropic.com/news/distillation-defenses",
-        "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode"
-      ],
-      "titles": [
-        "福田康夫元首相が死去——自民党と中国の「橋渡し役」、90歳で生涯を閉じる",
-        "将棋・西山朋佳女流四冠が棋士編入試験に合格——女性として史上初、来春から四段に",
-        "セルビア大統領選——野党連合が優勢、14年ぶりの政権交代へ",
-        "ボルソナロ氏、ブラジル大統領選の敗北を拒否——「無効」主張で支持者が抗議行動",
-        "グッスマに不正アクセス——公式ECサイト閉鎖、会員の住所・注文履歴など漏えいか",
-        "Windows上でAIエージェントを安全に隔離する「Microsoft Execution Containers」(MXC)が正式リリース",
-        "AnthropicエンジニアがBun v1.4.3に貢献——TypeScript型チェックがTypeScript 7より3倍速く",
-        "Claude Code・Codex・Cursor…5種類のコーディングエージェントを使い分ける実践ガイド",
-        "Anthropic Engineering: Harness Design for Long-Running AI Application Development",
-        "Anthropic Strengthens Defenses Against Model Distillation Attacks",
-        "GitHub Usage Metrics API Now Tracks OpenCode, Custom Skills, Agents, and MCP Servers"
       ]
     }
   ]

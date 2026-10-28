@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-28T10:00:00+09:00",
+  "last_run_at": "2026-10-28T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-28T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102800520&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102800149&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102800554&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/28/2000002612/",
+        "https://www.itmedia.co.jp/news/article/2610/28/2000002657/",
+        "https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard",
+        "https://zenn.dev/senuma/articles/588fb50a8f56ce",
+        "https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html",
+        "https://www.anthropic.com/news/expanding-partnership-gsa",
+        "https://tailscale.com/ssh-investigation-update",
+        "https://www.liquid.ai/blog/lfm3"
+      ],
+      "titles": [
+        "東京・近畿で「木枯らし1号」——昨年より6日早く、今季最初の冬の訪れ",
+        "イスラエル総選挙、与野党ともに過半数届かず——ネタニヤフ政権継続めぐり連立交渉が難航へ",
+        "衆院定数31減、維新と国民民主が受け入れへ——選挙制度改革が大きく前進",
+        "AI音声の詐欺電話、6人に1人が応じる可能性——ハーバード・Meta共同研究で「巧みな話術」が鍵と判明",
+        "ヤクルト本社サイトが不正アクセスで停止——顧客情報への影響を調査中、国内サイバー攻撃が相次ぐ",
+        "ダウンロードした AGENTS.md による乗っ取りをClaude Code・Codex・Cursorのhookで防ぐ——防衛設計のイタチごっこ",
+        "KiroからBacklog・Google Chat・Google Driveを横断検索——公式MCPサーバーで実現するワークスペース統合",
+        "「DuckDB 2.0 LTS」正式リリース——Quackプロトコルでクライアント/サーバ化、非同期I/OでS3読み込みが大幅高速化",
+        "Anthropic Expands GSA Partnership — 40% Discount on Claude for All U.S. Government Levels, FedRAMP High Available via Bedrock and Vertex AI",
+        "Tailscale Discloses Privilege Escalation Vulnerabilities in Tailscale SSH — Patch in Progress, Disable SSH Forwarding as Immediate Mitigation",
+        "Liquid AI Releases LFM3 — Open-Weight Multi-Modal Foundation Models with Tri-Hybrid Architecture, 2x Faster Than Comparable Models at 1 GB Footprint"
+      ]
+    },
     {
       "run_at": "2026-10-28T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Cohere Documents \"Call-Home\" Behavior in Qwen3.8 Open-Weight Model — Security Teams Should Treat Unknown Weights as Unsigned Binaries",
         "Sebastian Raschka Releases 11-Hour From-Scratch Video Course on Building Reasoning Models with RLVR and Distillation",
         "Microsoft Announces Type Server Protocol (TSP) — LSP Extension for Python Type Analysis, Multi-Connection Parallel Queries"
-      ]
-    },
-    {
-      "run_at": "2026-10-27T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6600238?source=rss",
-        "https://news.yahoo.co.jp/pickup/6600235?source=rss",
-        "https://news.yahoo.co.jp/pickup/6600239?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/26/2000002601/",
-        "https://news.yahoo.co.jp/pickup/6600225?source=rss",
-        "https://www.itmedia.co.jp/aiplus/article/2610/26/2000002581/",
-        "https://www.itmedia.co.jp/news/article/2610/26/2000002591/",
-        "https://zenn.dev/explaza/articles/c749042ecbe232",
-        "https://www.anthropic.com/news/s1-sec",
-        "https://www.itmedia.co.jp/news/article/2610/26/2000002573/",
-        "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm"
-      ],
-      "titles": [
-        "楽天トラベルに不正アクセス——海外ホテル予約ページから最大約260万件の個人情報流出か",
-        "新幹線予約サービス17万件流出——委託先ユミルリンクへの不正アクセスが原因、JR東海など発表",
-        "ロシアに拘束の北海道新聞記者——大使館員が領事面会、健康状態に問題なし",
-        "ジョーシンへの不正アクセス——最大623万件流出か、運転免許証・マイナカードも含む",
-        "放獣クマが3日で市街地に戻る——専門家「放獣の判断基準、事前に設けるべき」",
-        "チームみらいがAI失業対策を官房長官に提言——「産業革命規模の社会変革」への備えを求める",
-        "野村総研、サイバー攻撃時の「能動的システム停止」を支援——判断基準・経営合意形成まで2〜3ヶ月で構築",
-        "Claude Codeで仕組み解説アニメ動画を自動生成——Playwright＋ffmpegで30fps・44秒の映像を45秒で出力",
-        "Anthropic Files S-1 with the SEC — IPO Planned on Nasdaq Under Ticker \"ANT\"",
-        "OpenAI Bans Internet Access During Frontier Model Training — and One Model Broke Out of the Sandbox",
-        "Fixing Tool-Call Accuracy in vLLM: Constrained Decoding Raises Schema Correctness from 92% to 100%"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-29T20:00:00+09:00",
+  "last_run_at": "2026-10-30T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-30T00:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026102901064&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102901213&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026102900572&g=prk&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/29/2000002730/",
+        "https://www.itmedia.co.jp/news/article/2610/29/2000002717/",
+        "https://zenn.dev/devlog/articles/abc194ecf04dfc",
+        "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/",
+        "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002632/",
+        "https://mistral.ai/news/mistral-large-4-oss/",
+        "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+        "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/"
+      ],
+      "titles": [
+        "電気・ガス代補助、12月から再開へ——高市首相、ガソリン補助は段階的縮小方針",
+        "米GDP、7〜9月期に3.4%増——個人消費・設備投資が堅調、インフレ圧力も継続",
+        "北朝鮮、短距離弾道ミサイル10発余りを発射——日本のEEZ外に落下か",
+        "不正アクセスによる個人情報漏えい、半年で延べ2億6000万人——日本人口の2倍超",
+        "ソニー生命に不正アクセス——個人情報約38.5万件が漏えい、氏名・住所・契約内容含む",
+        "Claude Codeを褒めちぎったら、失敗リストを返された——AI協働における「判断の分業」を考える",
+        "GitHub Octoverse 2026：TypeScriptがPythonを抜いて首位——AI支援コーディングが言語トレンドを塗り替える",
+        "AIエージェントは「増やせば賢くなる」のか——MetaとHarvardが示す分業の条件と情報共有設計の重要性",
+        "Mistral Large 4 \"Le Chonk\" Goes Open Weight — 1 Trillion Parameters, Coding and Cybersecurity Frontier",
+        "Gemini 4 Carbon Tops Artificial Analysis Intelligence Index v5 — Near-Zero Hallucinations, #2 Agentic Coding",
+        "GitHub Octoverse 2026: Agentic Engineering Drives Commits and PRs to Triple in Two Years"
+      ]
+    },
     {
       "run_at": "2026-10-29T20:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Anthropic Expands GSA Partnership — 40% Discount on Claude for All U.S. Government Levels, FedRAMP High Available via Bedrock and Vertex AI",
         "Tailscale Discloses Privilege Escalation Vulnerabilities in Tailscale SSH — Patch in Progress, Disable SSH Forwarding as Immediate Mitigation",
         "Liquid AI Releases LFM3 — Open-Weight Multi-Modal Foundation Models with Tri-Hybrid Architecture, 2x Faster Than Comparable Models at 1 GB Footprint"
-      ]
-    },
-    {
-      "run_at": "2026-10-28T10:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
-        "https://www.itmedia.co.jp/news/article/2610/28/2000002649/",
-        "https://www.itmedia.co.jp/news/article/2610/28/2000002648/",
-        "https://news.yahoo.co.jp/pickup/6600367?source=rss",
-        "https://news.yahoo.co.jp/pickup/6600370?source=rss",
-        "https://kn.itmedia.co.jp/kn/article/2610/28/2000002621/",
-        "https://zenn.dev/kotap/articles/faiss-lucene-ann-gif",
-        "https://zenn.dev/ymotongpoo/articles/20261027-buildkit-traces-tempo",
-        "https://www.anthropic.com/research/early-progress-drug-development",
-        "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-        "https://ghostty.org/docs/install/release-notes/1-4-0"
-      ],
-      "titles": [
-        "NVIDIA・AMD、MetaとAI分野で提携拡大——「Muse」強化と次世代インフラ構築で協力へ",
-        "Apple、M6チップ搭載の新型14インチMacBook Proを発表——AI性能が大幅強化、33万9800円から",
-        "Google DeepMind、インタラクティブ世界生成モデル「Genie 4」を発表——音声・会話をリアルタイム生成、Geminiと連携",
-        "熊本地震から3ヶ月——千人超がいまだ避難所生活、仮設住宅の整備が急務",
-        "ボルソナロ前大統領の亡命認定へ——米国が方針固める、ブラジルとの外交問題に発展の恐れ",
-        "日本取引所グループ、AI導入で金融市場の取引システム監視を高度化——精度97%を実現した設計手法",
-        "GIFアニメで学ぶ、FaissとLuceneのベクトル検索アルゴリズムの違い——ANN（近似最近傍探索）の仕組みを可視化",
-        "Grafana TempoのトレースでDockerビルドを遅くしたコミットを特定——BuildKitの分散トレーシング活用法",
-        "Anthropic Reports Early Progress Using Claude to Accelerate Drug Development Across Six Biotech Programs",
-        "Google DeepMind Launches Genie 4 — Real-Time Interactive World Generation with Native Audio and Gemini Agent Integration",
-        "Ghostty 1.4 Released — 70–90% Memory Reduction via Scrollback Compression, Major Security Patches, and Full Kitty Graphics Support"
-      ]
-    },
-    {
-      "run_at": "2026-10-28T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102700672&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/27/2000002642/",
-        "https://www.jiji.com/jc/article?k=2026102701235&g=bsb&m=rss",
-        "https://news.yahoo.co.jp/pickup/6600331?source=rss",
-        "https://www.jiji.com/jc/article?k=2026102701253&g=int&m=rss",
-        "https://zenn.dev/exwzd/articles/20261023-open-responses",
-        "https://zenn.dev/ayutaso/articles/ftllm2026-ja-speech-llm",
-        "https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html",
-        "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-        "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-        "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"
-      ],
-      "titles": [
-        "メルツ独首相が来日——高市首相とAI・安保・核融合エネルギーで協議、GCAP参加も議題に",
-        "GMO不正アクセス——警視庁が本格捜査、懸賞金1億5000万円規模で犯人追跡へ",
-        "日本シリーズ第4戦——エース東の力投報われず、DeNA3連敗で崖っぷちに追い詰められる",
-        "卵の小売価格が過去最高値を更新——物価高騰の象徴、家庭の食費に追い打ち",
-        "北欧首脳がプーチン大統領と電話会談——ウクライナ和平へ「直接対話」促す",
-        "AAIF加入「Open Responses」をAmazon Bedrockで試す——複数LLMを統一APIで呼び出すAgentic標準仕様",
-        "学生2人で日本語音声LLMを開発——FT-LLM 2026自由形タスクで1位、Whisper+LLM-jp-4のアーキテクチャ",
-        "Oracle CloudがGoogle TPUの導入を発表——2027年提供開始、AI推論インフラの選択肢が拡大",
-        "Wikipedia Launches Major Campaign to Detect and Remove AI-Generated Articles",
-        "Amazon Reportedly Gutting Its Consumer AI Division After Sustained Failure with Nova Models",
-        "Report: Anthropic Trained Claude on Stanford Professors' Books Obtained Without Authorization"
-      ]
-    },
-    {
-      "run_at": "2026-10-28T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102700694&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102700968&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102700672&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/27/2000002643/",
-        "https://www.jiji.com/jc/article?k=2026102701173&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/27/2000002644/",
-        "https://zenn.dev/think_node/articles/f35c405ace7f52",
-        "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
-        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-        "https://oioannou.com/blog/ai-promised-less-work/",
-        "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work"
-      ],
-      "titles": [
-        "イスラエル総選挙が実施——ネタニヤフ首相続投の是非が最大の焦点、過半数獲得は困難な情勢",
-        "ソフトバンクが3連勝で王手——日本シリーズ第3戦、正木の延長10回サヨナラ本塁打でDeNAに土をつける",
-        "メルツ独首相が28日に来日——AI・核融合・安全保障で高市首相と協議、GCAP参加の可能性も浮上",
-        "So-net会員情報258万件超が漏えい——不正アクセスで氏名・電話番号・メールアドレスが流出、一部メールサービスのパスワードも",
-        "コンゴでエボラ熱の感染者が1万人を突破——死者4800人超、WHO緊急事態宣言から5ヶ月で拡大が止まらず",
-        "AnthropicのIPO目論見書「コードの9割はClaudeが作成」「AIは存亡リスク」——9ヶ月で開発生産性が45倍に",
-        "属人化をなくすために作ったAIが、私専用の道具になった——SOCアナリストが語るAIエージェント導入の組織的壁",
-        "JavaScriptランタイム「Bun」がPrettier互換の高速フォーマッタを発表——最大320倍高速、20言語対応で既存設定をそのまま利用可能",
-        "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation Under Linux Foundation",
-        "AI Promised Less Work. I've Never Worked More — A VP of Engineering's Data-Driven Account of Agentic Overload",
-        "Here Be Monsters: What Do You Still Need to Know When Agents Do Your Code?"
       ]
     }
   ]

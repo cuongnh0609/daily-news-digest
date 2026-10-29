@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-29T10:00:00+09:00",
+  "last_run_at": "2026-10-29T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-29T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6600542?source=rss",
+        "https://news.yahoo.co.jp/pickup/6600537?source=rss",
+        "https://www.itmedia.co.jp/news/article/2610/29/2000002693/",
+        "https://www.itmedia.co.jp/news/article/2610/29/2000002708/",
+        "https://www.itmedia.co.jp/news/article/2610/29/2000002714/",
+        "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002632/",
+        "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
+        "https://zenn.dev/canly/articles/85dc645c252832",
+        "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+        "https://surgehq.ai/blog/dayjob-tax"
+      ],
+      "titles": [
+        "北発射のミサイルEEZ外に落下か——高市首相が「万全の態勢」を指示",
+        "「餃子の王将」社長射殺事件——一審無罪の工藤会系幹部に検察が控訴",
+        "Alphabet、25%増収も純利益は25%減——Google Cloudは103%増、AI投資負担が重くのしかかる",
+        "PayPay連携銀行から不正出金——「お金が全部盗られた」被害が相次ぎ報告",
+        "松屋の公式アプリとWebサイトが停止——不正アクセス検知、モバイルオーダーも使用不可に",
+        "AIエージェントは「増やせば賢くなる」のか——MetaとHarvardの研究が示す「分業の条件」",
+        "Auto mode時代のClaude Codeを守る——検証済み10キットで始めるセキュリティ対策",
+        "人間が見るのは設計書だけ——PdM不在チームでAI-DLCを開発フローごと作り直した話",
+        "Anthropic Expands AI for Science Program to Foundations and Research Institutions",
+        "Google Releases Gemini 4 Carbon — Next Frontier Model with State-of-the-Art Cybersecurity and Long-Horizon Agentic Capabilities",
+        "DAYJOB: Tax — Benchmarking AI Agents on 50 Professional Tax Assignments"
+      ]
+    },
     {
       "run_at": "2026-10-29T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation Under Linux Foundation",
         "AI Promised Less Work. I've Never Worked More — A VP of Engineering's Data-Driven Account of Agentic Overload",
         "Here Be Monsters: What Do You Still Need to Know When Agents Do Your Code?"
-      ]
-    },
-    {
-      "run_at": "2026-10-27T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102700834&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6600325?source=rss",
-        "https://www.jiji.com/jc/article?k=2026102700857&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6600319?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/27/2000002620/",
-        "https://zenn.dev/simplex/articles/f2b41d3367e9c7",
-        "https://www.itmedia.co.jp/enterprise/articles/2610/26/news033.html",
-        "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/",
-        "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
-        "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-        "https://j11g.com/the-mythical-man-month-in-the-age-of-ai"
-      ],
-      "titles": [
-        "京王電鉄へのランサムウェア攻撃——警視庁が被害届を受理、インフラ企業への組織的攻撃が相次ぐ",
-        "北日本に今季一番の寒気——北海道・東北で初雪・積雪のおそれ、来週にかけて気温急降下",
-        "防衛費増額「財源確保と国民の理解が不可欠」——政府が安保3文書改定の有識者会議で新戦略を提示",
-        "ニデック、創業者ら9人を提訴へ——前会長による「経営支配」で損害、取締役会が法的措置を決定",
-        "政府、サイバー攻撃「緊急対策パッケージ」来週中に策定へ——高市首相がサイバー閣僚会議の初会合で指示",
-        "AI時代のアーキテクチャ——実装を任せるために、詳細設計を自分のものにする（Spec-Driven Developmentの実践）",
-        "HISが月100時間を削減——AIエージェントで法人旅行の見積もり業務を自動化、4割は人手なしで完結",
-        "「エージェント向け1Password」発表——AIにパスワードを渡さずアクセス権限を付与、ChatGPT WorkとClaude Duetにも対応予定",
-        "Kimi K3.1 Pro: Near-Frontier Open-Weight Model from Moonshot AI Promises to Match Claude Opus 5.5 at Half the Price",
-        "Cloudflare Discloses Cross-Request KV Cache Exposure in GLM-5.3 on Workers AI — 155 Responses Leaked Other Users' Data",
-        "The Mythical Man-Month in the Age of AI — Brooks's Law Hasn't Disappeared, It Has Just Changed Form"
       ]
     }
   ]

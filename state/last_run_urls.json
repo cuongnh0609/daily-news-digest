@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-30T15:00:00+09:00",
+  "last_run_at": "2026-10-30T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-30T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026103000922&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026103000301&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/30/2000002756/",
+        "https://news.yahoo.co.jp/pickup/6600696",
+        "https://news.yahoo.co.jp/pickup/6600712",
+        "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/",
+        "https://zenn.dev/yumeno/articles/strata-flash-next-iq4xs-80gb",
+        "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
+        "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
+        "https://simonwillison.net/2026/Oct/29/api-credits/",
+        "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002738/"
+      ],
+      "titles": [
+        "外務省で個人情報３６００件が漏えい——７月の不正アクセスが発端",
+        "イスラエル総選挙、与党連合が過半数割れ——ネタニヤフ首相「アラブ票の買収」を主張",
+        "無印良品に不正アクセス——最大２７２６万件の会員情報が漏えいか",
+        "トヨタ、無人タクシーを来年から国内で運行開始——自動運転事業を本格展開",
+        "キオクシア、今期純利益が前年比２４倍の見通し——生成AI需要でNAND型フラッシュが急回復",
+        "国産LLM「Sarashina」が初の思考モデルを発表——ツール呼び出し・Web検索性能が向上、APIで無償β提供",
+        "「ローカルLLMは本当に騒がれているほどか？」——Qwen3.8-Flash-Next 4bitを自宅80GBマシンで検証",
+        "IVRyのSRE 2026冬——信頼性エンジニアリングの「捨てる判断」とカオスエンジニアリング導入事例",
+        "GitHub Copilot Shared Automations: Team-Owned Agentic Workflows That Survive Personnel Changes",
+        "OpenAI Matches Anthropic: API Credits Now Included for $100–$500 ChatGPT Subscribers",
+        "OpenAI Doubles ChatGPT Pro 100/500 Usage Limits After Community Backlash — and Reverses the Pro 200 Cut"
+      ]
+    },
     {
       "run_at": "2026-10-30T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Expands AI for Science Program to Foundations and Research Institutions",
         "Google Releases Gemini 4 Carbon — Next Frontier Model with State-of-the-Art Cybersecurity and Long-Horizon Agentic Capabilities",
         "DAYJOB: Tax — Benchmarking AI Agents on 50 Professional Tax Assignments"
-      ]
-    },
-    {
-      "run_at": "2026-10-29T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102900118&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102900191&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/29/2000002692/",
-        "https://www.itmedia.co.jp/news/article/2610/29/2000002689/",
-        "https://www.jiji.com/jc/article?k=2026102800917&g=soc&m=rss",
-        "https://zenn.dev/aws_japan/articles/49bf6abcee64bc",
-        "https://zenn.dev/nttdata_tech/articles/6a06f484ebfab7",
-        "https://zenn.dev/port_inc/articles/a4bc3b39f44459",
-        "https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available",
-        "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-        "https://cursor.com/blog/agent-sdk"
-      ],
-      "titles": [
-        "米FRB、政策金利を据え置き——インフレ加速でも「様子見」姿勢、2人が利上げ主張",
-        "スペイン高速列車衝突、死者68人に——首相「信頼回復と安全確保へ全力」",
-        "「ツイキャス」に不正アクセス、サービス停止——復旧に「相応の時間」かかる見込み",
-        "Apple、初のタッチ操作対応MacBook Proを発表——OLEDディスプレイ搭載、国内49万9800円から",
-        "防災庁、11月2日の発足日に細野担当相が「緊急要請」——能登・熊本の教訓を初動に活かす",
-        "MCPツールの引数・結果に含まれる個人番号を、AgentCore Gatewayのインターセプターでマスクする",
-        "AIエージェントに設計書レビューを任せたらレビュワーは楽になった——でも現場はどうだったか？",
-        "Claude Codeで半年分のレビュー指摘を分類してみた——新人エンジニアが見えてきたパターンと対策",
-        "GitHub Agentic Workflows Now Generally Available — Plain-Language Automations Running as GitHub Actions",
-        "GitHub Copilot Fusion Generally Available — Multi-Model Orchestration Reaches Claude Code Parity at Half the Cost",
-        "Cursor Releases Agent SDK — Build, Test, and Deploy Custom Coding Agents with TypeScript"
-      ]
-    },
-    {
-      "run_at": "2026-10-29T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102800981&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102801115&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102800836&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/28/2000002687/",
-        "https://news.yahoo.co.jp/pickup/6600481?source=rss",
-        "https://zenn.dev/tappers/articles/ai-labo-e04-loops-vs-graphs",
-        "https://zenn.dev/atasino/articles/efa9fb306b6ad0",
-        "https://www.publickey1.jp/blog/26/aioracle_cloudoracle_app_composeroracle_ai_world_2026.html",
-        "https://latent.space/p/opus55/",
-        "https://emudhra.we-have-a-problem.com/apple.html",
-        "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
-      ],
-      "titles": [
-        "スペイン高速列車衝突事故で死者64人に——マドリード近郊トレド付近、人的ミスの可能性",
-        "ソフトバンク、2年連続日本一——日本シリーズ第4戦でDeNAを下し全勝優勝",
-        "日独首脳が経済安保で共同宣言——防衛・AI・核融合で協力拡大、GCAP参画も議題に",
-        "JAL予約システムに不正アクセス——約9万人分の旅客情報が流出、パスポート番号も含む",
-        "作家・村上龍さんが死去——71歳、「限りなく透明に近いブルー」など代表作多数",
-        "AIエージェントの「単一ループ」vs「有向グラフ」——コスト59%削減・速度48%向上を実機で実証",
-        "CLAUDE.mdが長くなったときの分け方とAGENTS.mdとの二重管理の直し方",
-        "Oracle CloudがAIでビジネスアプリを自動生成する「App Composer」発表——Oracle AI World 2026",
-        "How Anthropic Ships Claude With Claude: Separating the Brain From the Hands",
-        "macOS Still Trusts Compromised eMudhra CA Certificates Ten Days After Disclosure",
-        "The October Inflection Point for Vibe Game Development"
       ]
     }
   ]

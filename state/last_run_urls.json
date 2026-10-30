@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-30T10:00:00+09:00",
+  "last_run_at": "2026-10-30T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-30T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026103000551&g=flash&m=rss",
+        "https://www.jiji.com/jc/article?k=2026103000372&g=flash&m=rss",
+        "https://www.jiji.com/jc/article?k=2026103000212&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026103000386&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6600684?source=rss",
+        "https://zenn.dev/layerx/articles/a277f83a93d300",
+        "https://zenn.dev/rescuenow/articles/49826fc6cc2713",
+        "https://zenn.dev/karamage/articles/ac71f1c89c73ff",
+        "https://martinfowler.com/bliki/LLM-Voice.html",
+        "https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases",
+        "https://simonwillison.net/2026/Oct/26/gpt-61-terra/"
+      ],
+      "titles": [
+        "日銀、物価上昇率が目標の2%に到達と判断——金融政策は現状維持",
+        "自民・立民、消費税減税法案審議へ参院特別委設置で合意",
+        "エヌビディアCEOに接近した中国女性スパイか——米報道",
+        "英俳優パトリック・スチュワートさん死去、86歳",
+        "暗号資産大手Binanceに不正侵入か——約63億ドル相当の損失・入出金停止",
+        "LayerXが社内AIエージェント開発環境「yoro」を公開",
+        "2026年自分流AIエージェント環境構築の秋——複数エージェント並列運用",
+        "人間がコードを読まずにPRをマージする技術——AI生成コードの品質担保",
+        "LLM Voice — Martin Fowler on Why Voice Is the Last Interface That Will Bend to LLMs",
+        "GitHub Copilot in VS Code Universe Releases: Agent Host, Cloud Sessions, and Computer Use",
+        "GPT-6.1 Terra — OpenAI's Mid-Tier Reasoning Model Targets Visual Reasoning and Computer Use"
+      ]
+    },
     {
       "run_at": "2026-10-30T10:00:00+09:00",
       "urls": [
@@ -22,7 +51,7 @@
         "ウクライナで拡散するAI偽情報——「本物の映像」を証明する「C2PA」の新たな意義",
         "OpenAI、AI行動指針「Model Spec」を改定——記憶の扱い方とエージェント時代の人間監督を規定",
         "Anthropic、独自の創薬活動に着手——小児難病治療薬の研究を進めるバイオ企業を買収",
-        "OpenAI「Model Spec」改定——AIの"記憶"扱い方とエージェント時代の人間監督を規定",
+        "OpenAI「Model Spec」改定——AIの\"記憶\"扱い方とエージェント時代の人間監督を規定",
         "AIは「組織能力の増幅器」——パナソニック新CAIOが語る人とAIの共進化戦略",
         "学生2人が日本語音声LLMを開発——FT-LLM 2026コンペで自由形タスク1位を獲得",
         "Anthropic Donates Agent Skills to the Agentic AI Foundation — 70+ Platforms Already Integrated",
@@ -202,64 +231,6 @@
         "How Anthropic Ships Claude With Claude: Separating the Brain From the Hands",
         "macOS Still Trusts Compromised eMudhra CA Certificates Ten Days After Disclosure",
         "The October Inflection Point for Vibe Game Development"
-      ]
-    },
-    {
-      "run_at": "2026-10-28T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6600467?source=rss",
-        "https://news.yahoo.co.jp/pickup/6600461?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/28/2000002656/",
-        "https://www.itmedia.co.jp/news/article/2610/28/2000002613/",
-        "https://news.yahoo.co.jp/pickup/6600458?source=rss",
-        "https://zenn.dev/kab_ai_lab/articles/69cc18b76158aa",
-        "https://zenn.dev/hidetsug/articles/subsidy-harness-claude-code",
-        "https://zenn.dev/zundamon_tools/articles/claude-subagent-fold",
-        "https://www.anthropic.com/news/s1-sec",
-        "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
-        "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/"
-      ],
-      "titles": [
-        "スペインで旅客列車が衝突、10人以上が死亡——乗客200人超が巻き込まれた大規模事故",
-        "29日朝は各地で今季一番の冷え込み——北日本から西日本まで気温が急降下、霜も観測",
-        "Discordの公開サーバの会話がGoogle検索に表示へ——プライバシーへの懸念で反発の声も",
-        "カード決済1日停止でも現金が足りず——スイスの研究が示す「無キャッシュ社会の脆弱性」",
-        "小型恐竜の骨格標本が約75億円で落札——ニューヨークのオークションで世界最高値を更新",
-        "AIエージェントは「考える役」と「実行する役」に分けると壊れにくい——自作アシスタントJarvisの設計知見",
-        "Claude Codeで補助金申請ハーネスを作った話——「LLMを信用しない」ためのSpec駆動設計",
-        "サブエージェントは増やせば賢くなるのか——Anthropic公式キットで「畳み込み判断」を実測した結果",
-        "Anthropic Files S-1 with the SEC — IPO on Nasdaq Under Ticker \"ANT\", Goldman Sachs and Morgan Stanley as Underwriters",
-        "GitHub Copilot Adds Server-to-Server Authentication for GitHub Apps — Automated Agents Can Now Use Copilot Without a Signed-In User",
-        "Python's Experimental JIT Compiler Is Being Removed from CPython — PEP 836 Withdrawn, Code Gone in Python 3.16"
-      ]
-    },
-    {
-      "run_at": "2026-10-28T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102800520&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102800149&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102800554&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/28/2000002612/",
-        "https://www.itmedia.co.jp/news/article/2610/28/2000002657/",
-        "https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard",
-        "https://zenn.dev/senuma/articles/588fb50a8f56ce",
-        "https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html",
-        "https://www.anthropic.com/news/expanding-partnership-gsa",
-        "https://tailscale.com/ssh-investigation-update",
-        "https://www.liquid.ai/blog/lfm3"
-      ],
-      "titles": [
-        "東京・近畿で「木枯らし1号」——昨年より6日早く、今季最初の冬の訪れ",
-        "イスラエル総選挙、与野党ともに過半数届かず——ネタニヤフ政権継続めぐり連立交渉が難航へ",
-        "衆院定数31減、維新と国民民主が受け入れへ——選挙制度改革が大きく前進",
-        "AI音声の詐欺電話、6人に1人が応じる可能性——ハーバード・Meta共同研究で「巧みな話術」が鍵と判明",
-        "ヤクルト本社サイトが不正アクセスで停止——顧客情報への影響を調査中、国内サイバー攻撃が相次ぐ",
-        "ダウンロードした AGENTS.md による乗っ取りをClaude Code・Codex・Cursorのhookで防ぐ——防衛設計のイタチごっこ",
-        "KiroからBacklog・Google Chat・Google Driveを横断検索——公式MCPサーバーで実現するワークスペース統合",
-        "「DuckDB 2.0 LTS」正式リリース——Quackプロトコルでクライアント/サーバ化、非同期I/OでS3読み込みが大幅高速化",
-        "Anthropic Expands GSA Partnership — 40% Discount on Claude for All U.S. Government Levels, FedRAMP High Available via Bedrock and Vertex AI",
-        "Tailscale Discloses Privilege Escalation Vulnerabilities in Tailscale SSH — Patch in Progress, Disable SSH Forwarding as Immediate Mitigation",
-        "Liquid AI Releases LFM3 — Open-Weight Multi-Modal Foundation Models with Tri-Hybrid Architecture, 2x Faster Than Comparable Models at 1 GB Footprint"
       ]
     }
   ]

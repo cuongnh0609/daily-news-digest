@@ -1,0 +1,1417 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>デイリーダイジェスト - 2026-10-31 05:00 JST</title>
+<style>
+  :root,
+  [data-theme="light"] {
+    --bg: #f8f5f0;
+    --card: #ffffff;
+    --card-alt: #fdfcf8;
+    --ink: #1a1a1a;
+    --ink-soft: #4a4a4a;
+    --accent-jp: #b91c1c;
+    --accent-tech-jp: #059669;
+    --accent-global: #0369a1;
+    --accent-soft-jp: #fef2f2;
+    --accent-soft-tech-jp: #ecfdf5;
+    --accent-soft-global: #f0f9ff;
+    --sub: #6b6b6b;
+    --border: #e5e1da;
+    --divider: #d4cfc5;
+    --jp-mark: #c2410c;
+    --vi: #0369a1;
+    --vi-bg: #f0f9ff;
+    --vi-ink: #0c4a6e;
+    --grammar: #7c3aed;
+    --grammar-bg: #fafaf5;
+    --code-bg: #f1efe9;
+    --note-bg: #fef9e7;
+    --note-border: #d69e2e;
+    --note-ink: #744210;
+    --impact-high: #dc2626;
+    --impact-med: #ea580c;
+    --impact-low: #ca8a04;
+    --header-gradient-start: #fafaf5;
+    --shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+
+  [data-theme="dark"] {
+    --bg: #0f0e0c;
+    --card: #1a1814;
+    --card-alt: #15130f;
+    --ink: #e8e4dc;
+    --ink-soft: #b8b4ac;
+    --accent-jp: #f87171;
+    --accent-tech-jp: #34d399;
+    --accent-global: #60a5fa;
+    --accent-soft-jp: #2a1515;
+    --accent-soft-tech-jp: #0d2820;
+    --accent-soft-global: #0c2440;
+    --sub: #8b8680;
+    --border: #332f28;
+    --divider: #2a2620;
+    --jp-mark: #fb923c;
+    --vi: #60a5fa;
+    --vi-bg: #0c2440;
+    --vi-ink: #bfdbfe;
+    --grammar: #c4b5fd;
+    --grammar-bg: #1c1a16;
+    --code-bg: #2a2620;
+    --note-bg: #2a2410;
+    --note-border: #ca8a04;
+    --note-ink: #fde68a;
+    --impact-high: #ef4444;
+    --impact-med: #f97316;
+    --impact-low: #eab308;
+    --header-gradient-start: #1c1a16;
+    --shadow: 0 1px 3px rgba(0,0,0,0.3);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme]) {
+      --bg: #0f0e0c;
+      --card: #1a1814;
+      --card-alt: #15130f;
+      --ink: #e8e4dc;
+      --ink-soft: #b8b4ac;
+      --accent-jp: #f87171;
+      --accent-tech-jp: #34d399;
+      --accent-global: #60a5fa;
+      --accent-soft-jp: #2a1515;
+      --accent-soft-tech-jp: #0d2820;
+      --accent-soft-global: #0c2440;
+      --sub: #8b8680;
+      --border: #332f28;
+      --divider: #2a2620;
+      --jp-mark: #fb923c;
+      --vi: #60a5fa;
+      --vi-bg: #0c2440;
+      --vi-ink: #bfdbfe;
+      --grammar: #c4b5fd;
+      --grammar-bg: #1c1a16;
+      --code-bg: #2a2620;
+      --note-bg: #2a2410;
+      --note-border: #ca8a04;
+      --note-ink: #fde68a;
+      --impact-high: #ef4444;
+      --impact-med: #f97316;
+      --impact-low: #eab308;
+      --header-gradient-start: #1c1a16;
+      --shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", "Times New Roman", serif;
+    background: var(--bg);
+    color: var(--ink);
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 2rem 2rem 4rem;
+    line-height: 1.75;
+  }
+  header.page-head {
+    border-bottom: 3px double var(--accent-jp);
+    padding-bottom: 1.2rem;
+    margin-bottom: 2.5rem;
+    text-align: center;
+  }
+  header.page-head h1 {
+    font-size: 2rem;
+    margin: 0 0 0.4rem;
+    letter-spacing: 0.08em;
+  }
+  header.page-head .meta {
+    color: var(--sub);
+    font-size: 0.95rem;
+    font-family: system-ui, sans-serif;
+  }
+
+  nav.toc {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+    font-family: system-ui, sans-serif;
+    font-size: 0.9rem;
+  }
+  nav.toc a {
+    text-decoration: none;
+    padding: 6px 14px;
+    border-radius: 20px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--ink);
+    transition: all 0.2s;
+  }
+  nav.toc a:hover { background: var(--accent-soft-jp); color: var(--accent-jp); }
+
+  section.digest-section { margin-bottom: 3rem; }
+  .section-title {
+    font-size: 1.5rem;
+    padding: 0.6rem 1.2rem;
+    margin: 0 0 1.5rem;
+    border-radius: 4px;
+    font-family: system-ui, "Noto Sans", sans-serif;
+    font-weight: 600;
+  }
+  #japan-news .section-title {
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    border-left: 5px solid var(--accent-jp);
+  }
+  #japan-tech .section-title {
+    background: var(--accent-soft-tech-jp);
+    color: var(--accent-tech-jp);
+    border-left: 5px solid var(--accent-tech-jp);
+  }
+  #global-tech .section-title {
+    background: var(--accent-soft-global);
+    color: var(--accent-global);
+    border-left: 5px solid var(--accent-global);
+  }
+
+  article.news-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    margin-bottom: 1.5rem;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+  }
+  .card-header {
+    padding: 1rem 1.5rem;
+    background: linear-gradient(to bottom, var(--header-gradient-start), var(--card));
+    border-bottom: 1px solid var(--border);
+  }
+  .card-header h3 {
+    margin: 0;
+    font-size: 1.15rem;
+    line-height: 1.5;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .news-no {
+    display: inline-block;
+    font-size: 0.7rem;
+    padding: 3px 9px;
+    border-radius: 3px;
+    font-family: system-ui, sans-serif;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  #japan-news .news-no { background: var(--accent-jp); color: white; }
+  #japan-tech .news-no { background: var(--accent-tech-jp); color: white; }
+  #global-tech .news-no { background: var(--accent-global); color: white; }
+
+  .card-body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .col {
+    padding: 1.25rem 1.5rem;
+  }
+  .col-left {
+    border-right: 1px solid var(--divider);
+  }
+  .col-right {
+    background: var(--card-alt);
+  }
+  .col-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--sub);
+    font-family: system-ui, sans-serif;
+    margin-bottom: 0.6rem;
+    font-weight: 600;
+  }
+
+  .content-text {
+    font-size: 1rem;
+    line-height: 1.85;
+    margin: 0 0 1rem;
+    text-align: justify;
+  }
+  .content-text.lang-en {
+    font-family: "Georgia", "Times New Roman", serif;
+  }
+  .content-text.lang-ja {
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+  }
+
+  .translation-vi {
+    font-family: "Noto Sans", system-ui, sans-serif;
+    font-size: 0.95rem;
+    line-height: 1.75;
+    margin: 1rem 0;
+    padding: 0.8rem 1rem;
+    background: var(--vi-bg);
+    border-left: 3px solid var(--vi);
+    border-radius: 2px;
+    color: var(--vi-ink);
+  }
+  .translation-vi::before {
+    content: "🇻🇳 ";
+    font-weight: bold;
+  }
+
+  .impact-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: system-ui, sans-serif;
+    font-size: 0.8rem;
+    margin: 0.8rem 0;
+    padding: 0.4rem 0;
+  }
+  .impact-badge {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 3px;
+    font-weight: 600;
+    font-size: 0.75rem;
+    color: white;
+  }
+  .impact-badge.high { background: var(--impact-high); }
+  .impact-badge.medium { background: var(--impact-med); }
+  .impact-badge.low { background: var(--impact-low); }
+  .impact-text { color: var(--sub); }
+
+  .impact-note {
+    font-family: system-ui, sans-serif;
+    font-size: 0.88rem;
+    color: var(--note-ink);
+    padding: 0.55rem 0.85rem;
+    background: var(--note-bg);
+    border-left: 3px solid var(--note-border);
+    border-radius: 2px;
+    margin: 0.6rem 0 1rem;
+  }
+  .impact-note::before { content: "💡 "; }
+
+  .edu-block {
+    margin-top: 1rem;
+    font-family: system-ui, "Noto Sans", sans-serif;
+  }
+  .edu-block h4 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--sub);
+    margin: 0.8rem 0 0.4rem;
+    border-bottom: 1px dotted var(--border);
+    padding-bottom: 3px;
+  }
+  table.vocab, table.term-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+  }
+  table.vocab th, table.vocab td,
+  table.term-table th, table.term-table td {
+    text-align: left;
+    padding: 6px 8px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  table.vocab th {
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    font-weight: 600;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+  }
+  table.term-table th {
+    background: var(--accent-soft-global);
+    color: var(--accent-global);
+    font-weight: 600;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+  }
+  td.jp-word { font-family: "Hiragino Mincho ProN", serif; font-size: 1rem; white-space: nowrap; }
+  td.reading { color: var(--sub); font-size: 0.8rem; white-space: nowrap; }
+  td.hanviet { color: var(--accent-jp); font-style: italic; font-size: 0.8rem; white-space: nowrap; }
+  td.meaning { font-size: 0.85rem; }
+  td.term-en { font-family: "SF Mono", Monaco, monospace; font-size: 0.9rem; font-weight: 600; color: var(--accent-global); white-space: nowrap; }
+  td.term-pron { font-size: 0.8rem; color: var(--sub); font-style: italic; white-space: nowrap; }
+  td.term-explain { font-size: 0.85rem; line-height: 1.6; }
+
+  .grammar-item { margin-bottom: 0.7rem; font-size: 0.9rem; }
+  .grammar-item strong {
+    color: var(--grammar);
+    font-size: 0.95rem;
+    display: inline-block;
+    margin-bottom: 2px;
+  }
+  .example {
+    background: var(--grammar-bg);
+    padding: 0.55rem 0.8rem;
+    margin-top: 0.35rem;
+    border-left: 2px solid var(--grammar);
+    font-size: 0.88rem;
+  }
+  .example .jp { font-family: "Hiragino Mincho ProN", serif; display: block; }
+  .example .vi { color: var(--vi); font-size: 0.82rem; display: block; margin-top: 3px; }
+
+  .source {
+    font-size: 0.78rem;
+    color: var(--sub);
+    margin-top: 0.8rem;
+    padding-top: 0.6rem;
+    border-top: 1px dotted var(--border);
+    font-family: system-ui, sans-serif;
+  }
+  .source a { color: var(--vi); text-decoration: none; }
+  .source a:hover { text-decoration: underline; }
+
+  code {
+    background: var(--code-bg);
+    padding: 1px 6px;
+    border-radius: 3px;
+    font-size: 0.88em;
+    font-family: "SF Mono", Monaco, "Courier New", monospace;
+  }
+
+  .theme-toggle {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 100;
+    display: flex;
+    gap: 4px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 3px;
+    font-family: system-ui, sans-serif;
+    font-size: 0.85rem;
+    box-shadow: var(--shadow);
+  }
+  .theme-toggle button {
+    background: transparent;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    color: var(--sub);
+    transition: all 0.15s;
+    font-family: inherit;
+  }
+  .theme-toggle button:hover { color: var(--ink); }
+  .theme-toggle button.active { background: var(--accent-jp); color: white; }
+  .theme-toggle button.active:hover { color: white; }
+
+  .prev-digests {
+    margin-top: 3.5rem;
+    padding: 1.2rem 1.4rem;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-family: system-ui, sans-serif;
+  }
+  .prev-digests h3 {
+    margin: 0 0 0.8rem;
+    font-size: 0.95rem;
+    color: var(--ink);
+    letter-spacing: 0.02em;
+  }
+  .prev-digests-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+  }
+  .prev-digests-list a {
+    display: inline-block;
+    padding: 0.35rem 0.7rem;
+    border-radius: 999px;
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    font-size: 0.78rem;
+    text-decoration: none;
+    font-variant-numeric: tabular-nums;
+    border: 1px solid transparent;
+    transition: background 0.15s ease, border-color 0.15s ease;
+  }
+  .prev-digests-list a:hover {
+    background: transparent;
+    border-color: var(--accent-jp);
+  }
+  footer {
+    text-align: center;
+    color: var(--sub);
+    font-size: 0.85rem;
+    margin-top: 2.5rem;
+    font-family: system-ui, sans-serif;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border);
+  }
+
+  @media (max-width: 1000px) {
+    body { padding: 1rem 0.9rem 3rem; max-width: 100%; }
+    header.page-head h1 { font-size: 1.4rem; }
+    .card-body { grid-template-columns: 1fr; }
+    .col-left { border-right: none; border-bottom: 2px dashed var(--divider); }
+    .col { padding: 1rem 1.1rem; }
+    .section-title { font-size: 1.2rem; }
+    td.reading, td.hanviet, td.term-en, td.term-pron { white-space: normal; }
+  }
+</style>
+</head>
+<body>
+
+<div class="theme-toggle" role="group" aria-label="Theme selector">
+  <button type="button" data-theme-value="light" title="Light mode">☀️</button>
+  <button type="button" data-theme-value="system" title="Auto (follow system)">💻</button>
+  <button type="button" data-theme-value="dark" title="Dark mode">🌙</button>
+</div>
+
+<script>
+  (function() {
+    var saved = localStorage.getItem('digest-theme') || 'system';
+    if (saved !== 'system') {
+      document.documentElement.setAttribute('data-theme', saved);
+    }
+  })();
+</script>
+
+<header class="page-head">
+  <h1>🗞️ デイリーダイジェスト</h1>
+  <div class="meta">2026-10-31（土）05:00 JST — JLPT N2+ 学習者 · SE/Cloud Engineer 向け</div>
+</header>
+
+<nav class="toc">
+  <a href="#japan-news">🗾 日本ニュース (5)</a>
+  <a href="#japan-tech">🇯🇵 Tech JP (3)</a>
+  <a href="#global-tech">🌐 Global Tech (3)</a>
+</nav>
+
+<!-- ===== SECTION A: JAPAN NEWS ===== -->
+<section id="japan-news" class="digest-section">
+  <h2 class="section-title">🗾 日本ニュース</h2>
+
+  <!-- A1 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A1</span>松屋フーズ公式アプリに不正アクセス——約238万件の個人情報が漏えい</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          牛丼チェーン「松屋フーズ」は、公式スマートフォンアプリおよび公式ウェブサイトに対して不正アクセスが行われたことを発表した。調査の結果、氏名・メールアドレス・電話番号・生年月日など最大約238万件の顧客情報が外部に漏えいした可能性があると明らかにした。同社は直ちにシステムを停止し、被害範囲の特定と原因究明を進めている。今回の事案はモバイルオーダーシステムにも影響を及ぼしており、店頭でのセルフレジ利用も一時停止を余儀なくされた。セキュリティ専門家はフードサービス業界全体でAPI認証の見直しが急務だと指摘している。
+        </p>
+        <div class="translation-vi">
+          Chuỗi nhà hàng "Matsuya Foods" thông báo rằng ứng dụng smartphone chính thức và website của họ đã bị tấn công trái phép. Kết quả điều tra cho thấy có tới khoảng 2,38 triệu thông tin khách hàng bao gồm họ tên, địa chỉ email, số điện thoại và ngày sinh có thể đã bị rò rỉ ra bên ngoài. Công ty đã lập tức tạm dừng hệ thống để xác định phạm vi thiệt hại và điều tra nguyên nhân. Sự cố này cũng ảnh hưởng đến hệ thống đặt hàng di động, khiến các máy self-checkout tại cửa hàng cũng phải tạm ngừng hoạt động. Các chuyên gia bảo mật cho rằng toàn ngành dịch vụ thực phẩm cần khẩn cấp xem xét lại xác thực API.
+        </div>
+        <div class="source">
+          出典: ITmedia NEWS · 2026-10-30 14:17 JST ·
+          <a href="https://www.itmedia.co.jp/news/article/2610/30/2000002753/" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">不正アクセス</td>
+              <td class="reading">ふせいアクセス</td>
+              <td class="hanviet">bất chính</td>
+              <td class="meaning">truy cập trái phép (unauthorized access)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">漏えい</td>
+              <td class="reading">ろうえい</td>
+              <td class="hanviet">lậu dịch</td>
+              <td class="meaning">rò rỉ, lộ thông tin (data leak)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">個人情報</td>
+              <td class="reading">こじんじょうほう</td>
+              <td class="hanviet">cá nhân tình báo</td>
+              <td class="meaning">thông tin cá nhân (personal data)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">被害範囲</td>
+              <td class="reading">ひがいはんい</td>
+              <td class="hanviet">bị hại phạm vi</td>
+              <td class="meaning">phạm vi thiệt hại</td>
+            </tr>
+            <tr>
+              <td class="jp-word">原因究明</td>
+              <td class="reading">げんいんきゅうめい</td>
+              <td class="hanviet">nguyên nhân cứu minh</td>
+              <td class="meaning">điều tra làm rõ nguyên nhân</td>
+            </tr>
+            <tr>
+              <td class="jp-word">余儀なくされた</td>
+              <td class="reading">よぎなくされた</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">bị buộc phải (forced to do)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～を余儀なくされた</strong> — bị buộc phải làm gì (bị ép buộc không thể tránh)
+            <div class="example">
+              <span class="jp">システムの停止を余儀なくされた。</span>
+              <span class="vi">Họ bị buộc phải dừng hệ thống lại.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～の可能性がある</strong> — có khả năng rằng…
+            <div class="example">
+              <span class="jp">情報が漏えいした可能性がある。</span>
+              <span class="vi">Có khả năng thông tin đã bị rò rỉ.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A2 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A2</span>31日、関東から北海道にかけて天気が急変——落雷・突風に警戒</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          気象庁は、10月31日（土）に関東地方から北海道にかけて大気の状態が非常に不安定になると予報し、落雷・突風・急な強い雨への注意を呼びかけた。寒冷前線の通過に伴い、特に午後から夜にかけて局地的に激しい雷雨が発生する見込みだ。茨城・栃木・群馬などでは竜巻注意情報も発表されており、外出時には傘の使用だけでなく丈夫な建物への避難も推奨されている。最高気温は前日より5度前後低い地域が多く、薄手のコートの準備が必要とみられる。
+        </p>
+        <div class="translation-vi">
+          Cơ quan Khí tượng Nhật Bản dự báo ngày 31 tháng 10 (thứ Bảy), trạng thái khí quyển sẽ rất không ổn định từ vùng Kanto đến Hokkaido và cảnh báo người dân đề phòng sét, lốc xoáy và mưa lớn bất chợt. Cùng với sự di chuyển của front lạnh, dự kiến sẽ có mưa giông cục bộ mạnh đặc biệt từ buổi chiều đến tối. Tại các tỉnh Ibaraki, Tochigi và Gunma, cảnh báo lốc xoáy cũng đã được ban hành, khuyến nghị người dân không chỉ mang ô mà còn nên trú ẩn trong các tòa nhà vững chắc. Nhiệt độ cao nhất tại nhiều khu vực sẽ thấp hơn ngày hôm trước khoảng 5 độ, cần chuẩn bị áo khoác mỏng.
+        </div>
+        <div class="source">
+          出典: Yahoo!ニュース · 2026-10-30 12:08 JST ·
+          <a href="https://news.yahoo.co.jp/pickup/6600723?source=rss" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">大気</td>
+              <td class="reading">たいき</td>
+              <td class="hanviet">đại khí</td>
+              <td class="meaning">khí quyển, bầu không khí</td>
+            </tr>
+            <tr>
+              <td class="jp-word">落雷</td>
+              <td class="reading">らくらい</td>
+              <td class="hanviet">lạc lôi</td>
+              <td class="meaning">sét đánh (lightning strike)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">突風</td>
+              <td class="reading">とっぷう</td>
+              <td class="hanviet">đột phong</td>
+              <td class="meaning">cơn gió đột ngột, lốc xoáy</td>
+            </tr>
+            <tr>
+              <td class="jp-word">寒冷前線</td>
+              <td class="reading">かんれいぜんせん</td>
+              <td class="hanviet">hàn lãnh tiền tuyến</td>
+              <td class="meaning">front lạnh (cold front)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">局地的</td>
+              <td class="reading">きょくちてき</td>
+              <td class="hanviet">cục địa đích</td>
+              <td class="meaning">mang tính cục bộ, địa phương</td>
+            </tr>
+            <tr>
+              <td class="jp-word">竜巻</td>
+              <td class="reading">たつまき</td>
+              <td class="hanviet">long quyển</td>
+              <td class="meaning">lốc xoáy, tornado</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～にかけて</strong> — trải dài từ … đến … (về không gian hoặc thời gian)
+            <div class="example">
+              <span class="jp">関東から北海道にかけて天気が崩れる。</span>
+              <span class="vi">Thời tiết xấu trải dài từ vùng Kanto đến Hokkaido.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～に伴い</strong> — cùng với, đi kèm với
+            <div class="example">
+              <span class="jp">前線の通過に伴い、気温が急激に下がる。</span>
+              <span class="vi">Cùng với sự di chuyển của front lạnh, nhiệt độ giảm mạnh.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A3 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A3</span>六本木の高校生徒が複数回刺されて重傷——都内で白昼の刃傷事件</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          東京・六本木近辺で男子高校生が複数回刃物で刺されて重傷を負う事件が発生した。警察は現場周辺の防犯カメラ映像の解析と目撃者からの情報収集を進めており、容疑者の特定を急いでいる。被害者は救急搬送され、病院で手術を受けたが命に別状はないとみられる。事件は放課後の帰宅時間帯に発生しており、近隣の学校は保護者への注意喚起と安全確保に努めている。都内では今年、若者が被害を受ける事件が相次いでおり、警視庁はパトロールの強化を発表した。
+        </p>
+        <div class="translation-vi">
+          Một vụ tấn công bằng dao nghiêm trọng đã xảy ra khi một nam sinh cấp 3 bị đâm nhiều nhát gần khu vực Roppongi, Tokyo. Cảnh sát đang phân tích hình ảnh camera an ninh quanh hiện trường và thu thập thông tin từ nhân chứng để khẩn trương xác định nghi phạm. Nạn nhân được đưa đến bệnh viện cấp cứu và phẫu thuật, tình trạng không nguy hiểm đến tính mạng. Vụ việc xảy ra vào giờ tan học, và các trường học trong khu vực đã thông báo đến phụ huynh để đảm bảo an toàn cho học sinh. Trước đó, năm nay tại Tokyo đã liên tiếp xảy ra các vụ thanh thiếu niên bị tấn công, cảnh sát Tokyo đã thông báo tăng cường tuần tra.
+        </div>
+        <div class="source">
+          出典: Yahoo!ニュース · 2026-10-30 11:44 JST ·
+          <a href="https://news.yahoo.co.jp/pickup/6600717?source=rss" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">刃傷事件</td>
+              <td class="reading">にんじょうじけん</td>
+              <td class="hanviet">nhẫn thương sự kiện</td>
+              <td class="meaning">vụ tấn công bằng dao</td>
+            </tr>
+            <tr>
+              <td class="jp-word">重傷</td>
+              <td class="reading">じゅうしょう</td>
+              <td class="hanviet">trọng thương</td>
+              <td class="meaning">thương tích nặng</td>
+            </tr>
+            <tr>
+              <td class="jp-word">容疑者</td>
+              <td class="reading">ようぎしゃ</td>
+              <td class="hanviet">dung nghi giả</td>
+              <td class="meaning">nghi phạm</td>
+            </tr>
+            <tr>
+              <td class="jp-word">救急搬送</td>
+              <td class="reading">きゅうきゅうはんそう</td>
+              <td class="hanviet">cứu cấp ban tống</td>
+              <td class="meaning">vận chuyển cấp cứu bằng xe cứu thương</td>
+            </tr>
+            <tr>
+              <td class="jp-word">命に別状はない</td>
+              <td class="reading">いのちにべつじょうはない</td>
+              <td class="hanviet">mệnh biệt trạng</td>
+              <td class="meaning">không nguy hiểm đến tính mạng</td>
+            </tr>
+            <tr>
+              <td class="jp-word">注意喚起</td>
+              <td class="reading">ちゅういかんき</td>
+              <td class="hanviet">chú ý hoán khởi</td>
+              <td class="meaning">cảnh báo, nhắc nhở chú ý</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～が相次いでいる</strong> — liên tiếp xảy ra
+            <div class="example">
+              <span class="jp">若者が被害を受ける事件が相次いでいる。</span>
+              <span class="vi">Các vụ thanh niên bị hại liên tiếp xảy ra.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A4 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A4</span>米中間選挙、民主党が「赤い州」で攻勢——接戦州で予想外の善戦</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          11月初めに投開票が行われるアメリカの中間選挙で、民主党がこれまで共和党の牙城とされてきた「赤い州」でも競争力を示しつつあると伝えられている。経済政策や医療保険をめぐる論争が有権者の関心を集めており、郊外部の無党派層の取り込みが鍵を握っている。共和党側は移民問題と国境安全を最大の争点に掲げているが、出口調査の一部では生活費高騰への不満が他の争点を上回るとも示されている。日本政府は選挙結果が日米同盟の運営や対中政策に与える影響を注視している。
+        </p>
+        <div class="translation-vi">
+          Trong cuộc bầu cử giữa kỳ Mỹ dự kiến diễn ra đầu tháng 11, Đảng Dân chủ được cho là đang thể hiện sức cạnh tranh ngay cả tại các "bang đỏ" truyền thống của Đảng Cộng hòa. Các tranh luận về chính sách kinh tế và bảo hiểm y tế đang thu hút sự quan tâm của cử tri, và việc tranh thủ cử tri độc lập ở vùng ngoại ô được xem là chìa khóa. Đảng Cộng hòa lấy vấn đề nhập cư và an ninh biên giới làm trọng tâm, nhưng một số khảo sát cử tri cho thấy bất mãn về chi phí sinh hoạt tăng cao đang vượt trội các vấn đề khác. Chính phủ Nhật Bản đang theo dõi sát sao tác động của kết quả bầu cử đối với liên minh Mỹ-Nhật và chính sách đối với Trung Quốc.
+        </div>
+        <div class="source">
+          出典: Yahoo!ニュース · 2026-10-30 14:38 JST ·
+          <a href="https://news.yahoo.co.jp/pickup/6600736?source=rss" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">中間選挙</td>
+              <td class="reading">ちゅうかんせんきょ</td>
+              <td class="hanviet">trung gian tuyển cử</td>
+              <td class="meaning">bầu cử giữa nhiệm kỳ (midterm elections)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">牙城</td>
+              <td class="reading">がじょう</td>
+              <td class="hanviet">nha thành</td>
+              <td class="meaning">thành trì, căn cứ địa vững chắc</td>
+            </tr>
+            <tr>
+              <td class="jp-word">無党派層</td>
+              <td class="reading">むとうはそう</td>
+              <td class="hanviet">vô đảng phái tầng</td>
+              <td class="meaning">cử tri độc lập, không theo đảng phái</td>
+            </tr>
+            <tr>
+              <td class="jp-word">争点</td>
+              <td class="reading">そうてん</td>
+              <td class="hanviet">tranh điểm</td>
+              <td class="meaning">điểm tranh luận, vấn đề trọng tâm</td>
+            </tr>
+            <tr>
+              <td class="jp-word">出口調査</td>
+              <td class="reading">でぐちちょうさ</td>
+              <td class="hanviet">xuất khẩu điều tra</td>
+              <td class="meaning">khảo sát cử tri tại điểm bỏ phiếu (exit poll)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">注視する</td>
+              <td class="reading">ちゅうしする</td>
+              <td class="hanviet">chú thị</td>
+              <td class="meaning">theo dõi sát sao, chú ý</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～をめぐる</strong> — xoay quanh, liên quan đến (vấn đề tranh luận)
+            <div class="example">
+              <span class="jp">医療保険をめぐる論争が続いている。</span>
+              <span class="vi">Cuộc tranh luận xoay quanh vấn đề bảo hiểm y tế vẫn tiếp diễn.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～が鍵を握っている</strong> — giữ chìa khóa, là nhân tố quyết định
+            <div class="example">
+              <span class="jp">無党派層の取り込みが鍵を握っている。</span>
+              <span class="vi">Việc tranh thủ cử tri độc lập là nhân tố quyết định.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A5 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A5</span>イオン、フィジカルAIで物流改革——配送拠点の自動化率5割を達成</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          流通大手のイオンは、物流センターへの「フィジカルAI」（ロボットと人工知能を融合した自律型搬送システム）の導入を進め、主要拠点における自動化率が50%を超えたと発表した。冷凍・冷蔵品の仕分けから棚入れまでを自律ロボットが担い、人手不足への対応と配送コスト削減を同時に実現している。2027年末までには全拠点での自動化率を70%に引き上げる計画で、配送リードタイムを現在の半分に短縮することを目標としている。イオンはAI物流の知見を子会社・提携企業にも横展開し、日本の物流DXを牽引する姿勢を示している。
+        </p>
+        <div class="translation-vi">
+          Tập đoàn bán lẻ lớn Aeon thông báo đã thúc đẩy ứng dụng "Physical AI" (hệ thống vận chuyển tự trị tích hợp robot và trí tuệ nhân tạo) vào các trung tâm logistics, đạt tỷ lệ tự động hóa hơn 50% tại các cơ sở chính. Robot tự trị đảm nhận toàn bộ từ việc phân loại hàng đông lạnh đến xếp kệ, giải quyết đồng thời vấn đề thiếu nhân lực và giảm chi phí vận chuyển. Kế hoạch đến cuối năm 2027 là nâng tỷ lệ tự động hóa lên 70% tại tất cả các cơ sở, với mục tiêu rút ngắn thời gian giao hàng xuống còn một nửa so với hiện tại. Aeon cũng có kế hoạch mở rộng kiến thức AI logistics sang các công ty con và đối tác, dẫn dắt quá trình chuyển đổi số logistics của Nhật Bản.
+        </div>
+        <div class="source">
+          出典: ITmedia NEWS · 2026-10-30 13:24 JST ·
+          <a href="https://www.itmedia.co.jp/news/article/2610/30/2000002751/" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">自動化率</td>
+              <td class="reading">じどうかりつ</td>
+              <td class="hanviet">tự động hóa suất</td>
+              <td class="meaning">tỷ lệ tự động hóa</td>
+            </tr>
+            <tr>
+              <td class="jp-word">搬送</td>
+              <td class="reading">はんそう</td>
+              <td class="hanviet">ban tống</td>
+              <td class="meaning">vận chuyển, vận tải</td>
+            </tr>
+            <tr>
+              <td class="jp-word">仕分け</td>
+              <td class="reading">しわけ</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">phân loại hàng hóa (sorting)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">人手不足</td>
+              <td class="reading">ひとでぶそく</td>
+              <td class="hanviet">nhân thủ bất túc</td>
+              <td class="meaning">thiếu nhân lực, thiếu nhân hand lao động</td>
+            </tr>
+            <tr>
+              <td class="jp-word">横展開</td>
+              <td class="reading">よこてんかい</td>
+              <td class="hanviet">hoành triển khai</td>
+              <td class="meaning">triển khai theo chiều ngang, nhân rộng sang các bộ phận khác</td>
+            </tr>
+            <tr>
+              <td class="jp-word">牽引する</td>
+              <td class="reading">けんいんする</td>
+              <td class="hanviet">khiên dẫn</td>
+              <td class="meaning">dẫn dắt, kéo theo</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～を同時に実現する</strong> — thực hiện đồng thời
+            <div class="example">
+              <span class="jp">コスト削減と品質向上を同時に実現した。</span>
+              <span class="vi">Họ đã đồng thời thực hiện giảm chi phí và nâng cao chất lượng.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～までには</strong> — vào thời điểm … (deadline rõ ràng)
+            <div class="example">
+              <span class="jp">2027年末までには全拠点の自動化を終える。</span>
+              <span class="vi">Vào cuối năm 2027, họ sẽ hoàn tất tự động hóa tất cả các cơ sở.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<!-- ===== SECTION B: JAPAN TECH ===== -->
+<section id="japan-tech" class="digest-section">
+  <h2 class="section-title">🇯🇵 Tech / AI in Japanese</h2>
+
+  <!-- B1 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B1</span>国産LLM「Sarashina3.2 mini thinking」登場——初の思考モデルでツール呼び出しとWeb検索が大幅向上</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          SBイントゥイションズは、国産LLMシリーズ「Sarashina」の最新モデルとして「Sarashina3.2 mini thinking」を発表した。これはSarashinaシリーズで初めて思考プロセスを外部に出力する「思考モデル（reasoning model）」であり、複雑な問題を段階的に考えながら解く能力が大きく向上している。特にツール呼び出し（function calling）とWeb検索連携のベンチマークスコアが前モデル比で著しく改善されており、エージェント基盤としての実用性が高まったと評価されている。APIを通じた無償ベータ提供が開始されており、日本語処理に特化したLLMを自社サービスに組み込みたい開発者にとって注目の選択肢となっている。
+        </p>
+        <div class="translation-vi">
+          SB Intuitions đã công bố "Sarashina3.2 mini thinking" là mô hình mới nhất trong series LLM nội địa "Sarashina". Đây là mô hình đầu tiên trong series Sarashina áp dụng kiến trúc "reasoning model" có khả năng xuất ra quá trình suy nghĩ ra bên ngoài, giúp cải thiện đáng kể khả năng giải quyết các bài toán phức tạp theo từng bước. Đặc biệt, điểm benchmark cho function calling và tích hợp tìm kiếm Web đã cải thiện đáng kể so với mô hình trước, nâng cao tính thực dụng như một nền tảng agent. API beta miễn phí đã được mở và đây là lựa chọn đáng chú ý cho các developer muốn tích hợp LLM chuyên về xử lý tiếng Nhật vào dịch vụ của mình.
+        </div>
+        <div class="source">
+          出典: ITmedia AI+ · 2026-10-30 11:11 JST ·
+          <a href="https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙 (技術日本語)</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">思考モデル</td>
+              <td class="reading">しこうモデル</td>
+              <td class="hanviet">tư khảo</td>
+              <td class="meaning">reasoning model — mô hình AI có khả năng suy luận tuần tự</td>
+            </tr>
+            <tr>
+              <td class="jp-word">思考プロセス</td>
+              <td class="reading">しこうプロセス</td>
+              <td class="hanviet">tư khảo</td>
+              <td class="meaning">quá trình suy nghĩ, chain of thought</td>
+            </tr>
+            <tr>
+              <td class="jp-word">段階的</td>
+              <td class="reading">だんかいてき</td>
+              <td class="hanviet">đoạn giai đích</td>
+              <td class="meaning">từng bước, theo giai đoạn</td>
+            </tr>
+            <tr>
+              <td class="jp-word">実用性</td>
+              <td class="reading">じつようせい</td>
+              <td class="hanviet">thực dụng tính</td>
+              <td class="meaning">tính thực dụng, practicality</td>
+            </tr>
+            <tr>
+              <td class="jp-word">組み込む</td>
+              <td class="reading">くみこむ</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">tích hợp vào, nhúng vào (embed, integrate)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">著しく</td>
+              <td class="reading">いちじるしく</td>
+              <td class="hanviet">trứ</td>
+              <td class="meaning">đáng kể, rõ rệt (remarkably)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～として</strong> — với tư cách là, được coi là
+            <div class="example">
+              <span class="jp">エージェント基盤として注目されている。</span>
+              <span class="vi">Nó được chú ý với tư cách là nền tảng cho agent.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～比で</strong> — so với … (so sánh chuẩn)
+            <div class="example">
+              <span class="jp">前モデル比でスコアが30%向上した。</span>
+              <span class="vi">Điểm số cải thiện 30% so với mô hình trước.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- B2 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B2</span>AIエージェントに設計書レビューを任せたら——「レビュワーの楽」が「作成者の負担」に転化した現場</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          NTTデータのエンジニアが、AIエージェントを設計書レビューに活用した実験の知見をZennで公開した。AIはコードと仕様書の整合性チェックや用語の揺れ検出などで高い精度を発揮し、レビュワーの工数は大幅に削減された。しかし実運用では別の問題が浮上した。AIが細部の指摘を大量に出力するようになったため、設計書作成者が対応工数を抱えることになり、組織全体での工数は想定ほど減らなかったのだ。この知見から著者は「AIレビューの導入は、レビュワーと作成者の役割分担を再設計するセットで考えるべき」と提言している。
+        </p>
+        <div class="translation-vi">
+          Một kỹ sư của NTTData đã công bố trên Zenn những bài học từ thực nghiệm sử dụng AI agent để review tài liệu thiết kế. AI đạt độ chính xác cao trong việc kiểm tra tính nhất quán giữa code và spec, phát hiện sự không đồng nhất thuật ngữ, và công sức của reviewer đã giảm đáng kể. Tuy nhiên trong vận hành thực tế, một vấn đề khác nổi lên: AI bắt đầu xuất ra lượng lớn các nhận xét chi tiết, khiến người tạo tài liệu thiết kế phải gánh thêm khối lượng xử lý, và tổng công sức của cả tổ chức không giảm như kỳ vọng. Từ bài học này, tác giả đề xuất rằng "việc ứng dụng AI review cần được xem xét song song với việc tái thiết kế phân công vai trò giữa reviewer và người tạo tài liệu".
+        </div>
+        <div class="source">
+          出典: Zenn (NTTデータ) · 2026-10-28 01:21 JST ·
+          <a href="https://zenn.dev/nttdata_tech/articles/6a06f484ebfab7" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙 (技術日本語)</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">設計書</td>
+              <td class="reading">せっけいしょ</td>
+              <td class="hanviet">thiết kế thư</td>
+              <td class="meaning">tài liệu thiết kế (design document)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">整合性</td>
+              <td class="reading">せいごうせい</td>
+              <td class="hanviet">chỉnh hợp tính</td>
+              <td class="meaning">tính nhất quán, consistency</td>
+            </tr>
+            <tr>
+              <td class="jp-word">工数</td>
+              <td class="reading">こうすう</td>
+              <td class="hanviet">công số</td>
+              <td class="meaning">công sức, man-hour</td>
+            </tr>
+            <tr>
+              <td class="jp-word">用語の揺れ</td>
+              <td class="reading">ようごのゆれ</td>
+              <td class="hanviet">dụng ngữ dao động</td>
+              <td class="meaning">sự không đồng nhất thuật ngữ (term inconsistency)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">役割分担</td>
+              <td class="reading">やくわりぶんたん</td>
+              <td class="hanviet">vai cát phân đảm</td>
+              <td class="meaning">phân công vai trò (role assignment)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">提言</td>
+              <td class="reading">ていげん</td>
+              <td class="hanviet">đề ngôn</td>
+              <td class="meaning">đề xuất, khuyến nghị</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～に転化する</strong> — chuyển thành, biến thành (bất ngờ)
+            <div class="example">
+              <span class="jp">メリットがデメリットに転化してしまった。</span>
+              <span class="vi">Lợi ích đã bất ngờ chuyển thành bất lợi.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～とのセットで考えるべき</strong> — nên xem xét cùng với, kết hợp với
+            <div class="example">
+              <span class="jp">ツール導入は運用設計とのセットで考えるべきだ。</span>
+              <span class="vi">Việc ứng dụng tool cần được xem xét kết hợp với thiết kế vận hành.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- B3 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B3</span>BunにPrettier互換フォーマッターが追加——最大300倍速でJavaScript/TypeScriptのコードフォーマットを実現</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          JavaScriptランタイム「Bun」の最新アップデートで、Prettier互換のコードフォーマッターが内蔵された。RustとZigを組み合わせた実装により、従来のPrettierと比較してフォーマット速度が最大300倍向上したとBunチームは報告している。既存のPrettierの設定ファイル（<code>.prettierrc</code>）をそのまま読み込めるため、既存プロジェクトからの移行コストが低い。CIパイプラインでのフォーマットチェック処理が数秒→数十ミリ秒になる事例も報告されており、大規模モノレポを扱うチームにとって恩恵が大きいとみられる。
+        </p>
+        <div class="translation-vi">
+          Bản cập nhật mới nhất của JavaScript runtime "Bun" đã tích hợp sẵn code formatter tương thích với Prettier. Nhóm phát triển Bun báo cáo rằng tốc độ format đã cải thiện tối đa 300 lần so với Prettier truyền thống nhờ triển khai kết hợp Rust và Zig. Vì có thể đọc trực tiếp file cấu hình Prettier hiện có (`.prettierrc`), chi phí migrate từ dự án hiện tại là rất thấp. Cũng có báo cáo về trường hợp thời gian kiểm tra format trong pipeline CI giảm từ vài giây xuống vài chục millisecond, được đánh giá là mang lại lợi ích lớn cho các team làm việc với monorepo quy mô lớn.
+        </div>
+        <div class="source">
+          出典: Publickey · 2026-10-27 15:27 UTC ·
+          <a href="https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙 (技術日本語)</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">互換</td>
+              <td class="reading">ごかん</td>
+              <td class="hanviet">hỗ hoán</td>
+              <td class="meaning">tương thích, compatible</td>
+            </tr>
+            <tr>
+              <td class="jp-word">内蔵</td>
+              <td class="reading">ないぞう</td>
+              <td class="hanviet">nội tàng</td>
+              <td class="meaning">tích hợp sẵn, built-in</td>
+            </tr>
+            <tr>
+              <td class="jp-word">移行コスト</td>
+              <td class="reading">いこうコスト</td>
+              <td class="hanviet">di hành</td>
+              <td class="meaning">chi phí chuyển đổi (migration cost)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">モノレポ</td>
+              <td class="reading">モノレポ</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">monorepo — kho chứa code duy nhất cho nhiều project</td>
+            </tr>
+            <tr>
+              <td class="jp-word">恩恵</td>
+              <td class="reading">おんけい</td>
+              <td class="hanviet">ân huệ</td>
+              <td class="meaning">lợi ích, ân huệ (benefit)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">大規模</td>
+              <td class="reading">だいきぼ</td>
+              <td class="hanviet">đại quy mô</td>
+              <td class="meaning">quy mô lớn (large-scale)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～をそのまま</strong> — nguyên xi như vậy, giữ nguyên
+            <div class="example">
+              <span class="jp">既存の設定ファイルをそのまま使用できる。</span>
+              <span class="vi">Có thể sử dụng nguyên xi file cấu hình hiện có.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～とみられる</strong> — được đánh giá là, có vẻ là (phỏng đoán có căn cứ)
+            <div class="example">
+              <span class="jp">大規模チームにとって恩恵が大きいとみられる。</span>
+              <span class="vi">Được đánh giá là mang lại lợi ích lớn cho các team quy mô lớn.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<!-- ===== SECTION C: GLOBAL TECH ===== -->
+<section id="global-tech" class="digest-section">
+  <h2 class="section-title">🌐 Global Tech / AI (English)</h2>
+
+  <!-- C1 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C1</span>Backdoor Found in Claude Code VS Code Extension on Cursor Marketplace — Supply Chain Attack Confirmed</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Article (English)</div>
+        <p class="content-text lang-en">
+          Security researcher at Phorion discovered a backdoor in a Claude Code extension for VS Code distributed through the Cursor Marketplace. The malicious extension, which impersonated the official Anthropic Claude Code integration, contained code that exfiltrated API keys, conversation history, and file contents to a remote server. The extension had accumulated over 12,000 installs before being taken down. Phorion's analysis revealed the attacker used typosquatting — registering a name visually similar to the legitimate extension — and exploited the relatively lax vetting process on third-party AI tool marketplaces. Anthropic confirmed the official Claude Code extension is distributed only through VS Code Marketplace and the official Claude Code CLI. Cursor has since implemented additional scanning for AI-related extensions. This incident follows a broader pattern of supply chain attacks targeting AI developer tooling, where the high trust users place in AI coding assistants makes them prime vectors for credential theft.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge high">🔴 HIGH IMPACT</span>
+          <span class="impact-text">Verify your Claude Code extension source immediately — only install from official VS Code Marketplace, not third-party stores.</span>
+        </div>
+        <div class="source">
+          Source: Phorion / Hacker News · 2026-10-30 · Author: Phorion Security Team ·
+          <a href="https://phorion.io/blog/offical-claude-code-vsx-compromise/" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          Nhà nghiên cứu bảo mật tại Phorion đã phát hiện một backdoor trong extension Claude Code cho VS Code được phân phối qua Cursor Marketplace. Extension độc hại này giả mạo tích hợp Claude Code chính thức của Anthropic, chứa code để đánh cắp API key, lịch sử hội thoại và nội dung file gửi đến máy chủ từ xa. Extension này đã thu hút hơn 12.000 lượt cài đặt trước khi bị gỡ xuống. Phân tích của Phorion cho thấy kẻ tấn công sử dụng kỹ thuật typosquatting — đăng ký tên trông giống với extension hợp pháp — và khai thác quy trình kiểm duyệt khá lỏng lẻo trên các marketplace tool AI bên thứ ba. Anthropic xác nhận extension Claude Code chính thức chỉ được phân phối qua VS Code Marketplace và CLI Claude Code chính thức. Cursor đã triển khai thêm quét bổ sung cho các extension liên quan đến AI. Sự cố này tiếp nối xu hướng tấn công supply chain nhắm vào AI developer tooling, nơi mức độ tin tưởng cao mà người dùng đặt vào AI coding assistant khiến chúng trở thành vector lý tưởng để đánh cắp thông tin xác thực.
+        </div>
+        <div class="impact-note">
+          Nếu bạn đang dùng Claude Code qua extension marketplace không chính thức, hãy kiểm tra ngay nguồn gốc extension. Xem xét rotate API key của Anthropic và kiểm tra log truy cập. Đây là lời nhắc nhở quan trọng về rủi ro supply chain với AI tooling.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ khó</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr>
+              <td class="term-en">Backdoor</td>
+              <td class="term-pron">/ˈbækdɔːr/</td>
+              <td class="term-explain">Cửa hậu — code ẩn trong phần mềm cho phép kẻ tấn công truy cập trái phép mà không qua xác thực bình thường</td>
+            </tr>
+            <tr>
+              <td class="term-en">Typosquatting</td>
+              <td class="term-pron">/ˈtaɪpoʊˌskwɒtɪŋ/</td>
+              <td class="term-explain">Đăng ký tên gần giống tên hợp pháp (ví dụ: "claude-code" vs "cladue-code") để lừa người dùng tải nhầm</td>
+            </tr>
+            <tr>
+              <td class="term-en">Supply chain attack</td>
+              <td class="term-pron">/səˈplaɪ tʃeɪn/</td>
+              <td class="term-explain">Tấn công chuỗi cung ứng — xâm nhập vào phần mềm thông qua dependency, plugin hoặc tool thứ ba mà nạn nhân tin tưởng</td>
+            </tr>
+            <tr>
+              <td class="term-en">Exfiltrate</td>
+              <td class="term-pron">/ɪkˈsfɪltreɪt/</td>
+              <td class="term-explain">Đánh cắp và truyền dữ liệu ra khỏi hệ thống bị xâm nhập một cách bí mật</td>
+            </tr>
+            <tr>
+              <td class="term-en">Credential theft</td>
+              <td class="term-pron">/krɪˈdenʃəl θeft/</td>
+              <td class="term-explain">Đánh cắp thông tin xác thực (API key, password, token) để truy cập trái phép vào tài khoản hoặc dịch vụ</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- C2 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C2</span>GitHub Copilot Fusion Goes GA — Pick Effort Level, Not Model</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Article (English)</div>
+        <p class="content-text lang-en">
+          GitHub announced that Copilot Fusion has reached general availability, introducing a significant shift in how developers interact with AI models. Instead of manually selecting a specific AI model (GPT-4o, Claude Sonnet, Gemini Flash, etc.), users now choose an effort level: Standard, High, or Max. Copilot Fusion's routing layer automatically selects the best model for the task at the chosen effort level, optimizing for both quality and cost. GitHub is offering a 30% temporary cost discount on model usage through Fusion during the launch period. The system supports dynamic routing — a Standard request that escalates in complexity can be automatically promoted to High mid-task. Under the hood, Fusion integrates with GitHub's broader Copilot Intelligence platform, which also went GA this week with Copilot Memory (persistent context across sessions, now generally available on paid plans) and Copilot Dreaming (background exploration of your codebase, currently opt-in preview). Enterprise teams can set per-repository effort caps to control costs.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge medium">🟠 MEDIUM IMPACT</span>
+          <span class="impact-text">Simplifies model selection for teams; Copilot Memory GA means persistent context is now production-ready for enterprise.</span>
+        </div>
+        <div class="source">
+          Source: GitHub Changelog · 2026-10-28 · Author: GitHub Team ·
+          <a href="https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          GitHub thông báo Copilot Fusion đã chính thức phát hành (GA), giới thiệu một sự thay đổi đáng kể trong cách developer tương tác với các mô hình AI. Thay vì chọn thủ công một mô hình AI cụ thể (GPT-4o, Claude Sonnet, Gemini Flash...), người dùng giờ chỉ cần chọn mức nỗ lực: Standard, High hoặc Max. Lớp routing của Copilot Fusion tự động chọn mô hình tốt nhất cho task ở mức nỗ lực đã chọn, tối ưu hóa cả chất lượng lẫn chi phí. GitHub đang cung cấp giảm giá tạm thời 30% cho việc sử dụng model qua Fusion trong giai đoạn ra mắt. Hệ thống hỗ trợ dynamic routing — một request Standard nếu trở nên phức tạp hơn có thể được tự động nâng lên High trong quá trình thực hiện. Fusion tích hợp với nền tảng Copilot Intelligence rộng hơn của GitHub, cũng phát hành GA tuần này với Copilot Memory (context liên tục giữa các phiên, hiện GA trên các gói trả phí) và Copilot Dreaming (khám phá codebase nền, hiện là bản preview opt-in). Các team enterprise có thể đặt giới hạn effort cho từng repository để kiểm soát chi phí.
+        </div>
+        <div class="impact-note">
+          Copilot Memory GA là tin quan trọng cho team enterprise — context project giờ được lưu liên tục giữa các session, giảm overhead nhắc lại thông tin cho Copilot. Nếu team đang dùng GitHub Enterprise, đây là tính năng đáng bật ngay.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ khó</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr>
+              <td class="term-en">Model routing</td>
+              <td class="term-pron">/ˈmɒdl ˈruːtɪŋ/</td>
+              <td class="term-explain">Định tuyến mô hình — hệ thống tự động chọn AI model phù hợp nhất cho từng request dựa trên độ phức tạp, chi phí và yêu cầu</td>
+            </tr>
+            <tr>
+              <td class="term-en">Effort level</td>
+              <td class="term-pron">/ˈefərt ˈlevəl/</td>
+              <td class="term-explain">Mức độ nỗ lực — cách trừu tượng hóa việc chọn model: Standard (nhanh/rẻ), High (cân bằng), Max (chất lượng cao nhất)</td>
+            </tr>
+            <tr>
+              <td class="term-en">Dynamic routing</td>
+              <td class="term-pron">/daɪˈnæmɪk/</td>
+              <td class="term-explain">Định tuyến động — khả năng tự động điều chỉnh model/tier trong quá trình xử lý task khi độ phức tạp thay đổi</td>
+            </tr>
+            <tr>
+              <td class="term-en">Persistent context</td>
+              <td class="term-pron">/pəˈsɪstənt ˈkɒntekst/</td>
+              <td class="term-explain">Context liên tục — thông tin về project/codebase được AI ghi nhớ giữa các phiên làm việc, không cần nhắc lại mỗi lần</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- C3 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C3</span>Anthropic Files S-1 with the SEC for Proposed IPO — AI Safety Company Goes Public</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Article (English)</div>
+        <p class="content-text lang-en">
+          Anthropic has filed a registration statement (S-1) with the U.S. Securities and Exchange Commission in preparation for a proposed initial public offering. The filing marks a major milestone for the AI safety company, which has grown from a research-focused startup to one of the most commercially successful AI labs. The S-1 discloses Anthropic's revenue trajectory, its Public Benefit Corporation structure, and the unique governance arrangement involving the Long-Term Benefit Trust — a structure designed to ensure safety goals remain prioritized even as the company scales and faces pressure from public market investors. The filing comes weeks after Anthropic committed a portion of its shares to a Public Benefit Fund (announced October 18). Blackstone analysts have noted that Anthropic may face challenges obtaining investment-grade credit ratings post-IPO given the capital-intensive nature of frontier AI development. The timing of the IPO has not been specified. Industry observers note this follows closely after competitors including OpenAI signaling potential future public offerings.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge medium">🟠 MEDIUM IMPACT</span>
+          <span class="impact-text">IPO filing means public scrutiny of Anthropic's financials, potentially accelerating API pricing transparency and product velocity.</span>
+        </div>
+        <div class="source">
+          Source: Anthropic / Hacker News · 2026-10-26 · Author: Anthropic ·
+          <a href="https://www.anthropic.com/news/s1-sec" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          Anthropic đã nộp bản đăng ký (S-1) lên Ủy ban Chứng khoán và Giao dịch Hoa Kỳ (SEC) để chuẩn bị cho đề xuất IPO. Việc nộp hồ sơ đánh dấu một cột mốc quan trọng cho công ty AI safety đã trưởng thành từ một startup nghiên cứu thành một trong những AI lab thành công nhất về mặt thương mại. S-1 tiết lộ quỹ đạo doanh thu của Anthropic, cấu trúc Công ty Lợi ích Công cộng (Public Benefit Corporation), và thỏa thuận quản trị độc đáo liên quan đến Long-Term Benefit Trust — một cấu trúc được thiết kế để đảm bảo các mục tiêu an toàn AI vẫn được ưu tiên ngay cả khi công ty mở rộng và đối mặt với áp lực từ nhà đầu tư thị trường công. Việc nộp hồ sơ diễn ra vài tuần sau khi Anthropic cam kết một phần cổ phần vào Public Benefit Fund (thông báo ngày 18 tháng 10). Các nhà phân tích Blackstone lưu ý rằng Anthropic có thể gặp khó khăn trong việc đạt được xếp hạng tín dụng đầu tư sau IPO do bản chất sử dụng vốn lớn của việc phát triển AI frontier. Thời điểm IPO chưa được chỉ định.
+        </div>
+        <div class="impact-note">
+          Khi Anthropic niêm yết, dữ liệu tài chính và lộ trình sản phẩm sẽ công khai hơn — có thể dẫn đến áp lực minh bạch giá API và tăng tốc release cycle. Quan trọng hơn, cấu trúc Long-Term Benefit Trust được kiểm chứng công khai là bảo vệ hay ảnh hưởng đến các cam kết AI safety.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ khó</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr>
+              <td class="term-en">S-1 filing</td>
+              <td class="term-pron">/ˈes wʌn/</td>
+              <td class="term-explain">Bản đăng ký IPO — tài liệu bắt buộc nộp cho SEC trước khi công ty lên sàn, công khai thông tin tài chính và rủi ro</td>
+            </tr>
+            <tr>
+              <td class="term-en">Public Benefit Corporation</td>
+              <td class="term-pron">/ˈpʌblɪk ˈbenɪfɪt/</td>
+              <td class="term-explain">Công ty Lợi ích Công cộng — loại hình pháp nhân đặc biệt tại Mỹ cho phép công ty ưu tiên mục tiêu xã hội bên cạnh lợi nhuận</td>
+            </tr>
+            <tr>
+              <td class="term-en">Investment-grade rating</td>
+              <td class="term-pron">/ɪnˈvestmənt ɡreɪd/</td>
+              <td class="term-explain">Xếp hạng đầu tư — đánh giá tín dụng (BBB- trở lên) của Moody's/S&P, cho phép tiếp cận vốn rẻ hơn từ các quỹ tổ chức</td>
+            </tr>
+            <tr>
+              <td class="term-en">Frontier AI</td>
+              <td class="term-pron">/ˈfrʌntɪər eɪ aɪ/</td>
+              <td class="term-explain">AI tiên phong — các mô hình AI ở tuyến đầu về khả năng (GPT-5, Claude Opus 5.5...), đòi hỏi đầu tư computing cực lớn</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<section class="prev-digests" aria-label="Bản tin gần đây">
+  <h3>📅 Bản tin trước đó</h3>
+  <ul class="prev-digests-list">
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-31_0000.html">2026-10-31 00:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-30_2000.html">2026-10-30 20:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-30_1500.html">2026-10-30 15:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-30_1000.html">2026-10-30 10:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-30_0500.html">2026-10-30 05:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-30_0000.html">2026-10-30 00:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-29_2000.html">2026-10-29 20:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-29_1500.html">2026-10-29 15:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-29_1000.html">2026-10-29 10:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-10-29_0000.html">2026-10-29 00:00</a></li>
+  </ul>
+</section>
+
+<footer>
+  <p>📚 デイリーダイジェスト | 2026-10-31 05:00 JST | 11 articles · JLPT N2+ · For SE/Cloud Engineer</p>
+  <p>Auto-generated by Claude Code Routine</p>
+</footer>
+
+<script>
+  (function() {
+    var buttons = document.querySelectorAll('.theme-toggle button');
+    var html = document.documentElement;
+
+    function applyTheme(theme) {
+      if (theme === 'system') {
+        html.removeAttribute('data-theme');
+      } else {
+        html.setAttribute('data-theme', theme);
+      }
+      localStorage.setItem('digest-theme', theme);
+      updateActiveButton(theme);
+    }
+
+    function updateActiveButton(theme) {
+      buttons.forEach(function(btn) {
+        if (btn.getAttribute('data-theme-value') === theme) {
+          btn.classList.add('active');
+        } else {
+          btn.classList.remove('active');
+        }
+      });
+    }
+
+    buttons.forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        applyTheme(btn.getAttribute('data-theme-value'));
+      });
+    });
+
+    var current = localStorage.getItem('digest-theme') || 'system';
+    updateActiveButton(current);
+  })();
+</script>
+
+</body>
+</html>

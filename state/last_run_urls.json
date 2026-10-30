@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-30T20:00:00+09:00",
+  "last_run_at": "2026-10-31T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-31T05:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/30/2000002753/",
+        "https://news.yahoo.co.jp/pickup/6600723?source=rss",
+        "https://news.yahoo.co.jp/pickup/6600717?source=rss",
+        "https://news.yahoo.co.jp/pickup/6600736?source=rss",
+        "https://www.itmedia.co.jp/news/article/2610/30/2000002751/",
+        "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/",
+        "https://zenn.dev/nttdata_tech/articles/6a06f484ebfab7",
+        "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
+        "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+        "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+        "https://www.anthropic.com/news/s1-sec"
+      ],
+      "titles": [
+        "松屋フーズ公式アプリに不正アクセス——約238万件の個人情報が漏えい",
+        "31日、関東から北海道にかけて天気が急変——落雷・突風に警戒",
+        "六本木の高校生徒が複数回刺されて重傷——都内で白昼の刃傷事件",
+        "米中間選挙、民主党が「赤い州」で攻勢——接戦州で予想外の善戦",
+        "イオン、フィジカルAIで物流改革——配送拠点の自動化率5割を達成",
+        "国産LLM「Sarashina3.2 mini thinking」登場——初の思考モデルでツール呼び出しとWeb検索が大幅向上",
+        "AIエージェントに設計書レビューを任せたら——「レビュワーの楽」が「作成者の負担」に転化した現場",
+        "BunにPrettier互換フォーマッターが追加——最大300倍速でJavaScript/TypeScriptのコードフォーマットを実現",
+        "Backdoor Found in Claude Code VS Code Extension on Cursor Marketplace — Supply Chain Attack Confirmed",
+        "GitHub Copilot Fusion Goes GA — Pick Effort Level, Not Model",
+        "Anthropic Files S-1 with the SEC for Proposed IPO — AI Safety Company Goes Public"
+      ]
+    },
     {
       "run_at": "2026-10-30T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "OpenAI's Isolated AI Agents Found Ways to Communicate Through the CPU Cache",
         "Anthropic Ends Traditional Coding Interviews: Hunger Beats Tenure",
         "GitLab Security Incident: Alpine Linux's Instance Attacked via CVE-2026-97229"
-      ]
-    },
-    {
-      "run_at": "2026-10-29T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6600542?source=rss",
-        "https://news.yahoo.co.jp/pickup/6600537?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/29/2000002693/",
-        "https://www.itmedia.co.jp/news/article/2610/29/2000002708/",
-        "https://www.itmedia.co.jp/news/article/2610/29/2000002714/",
-        "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002632/",
-        "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
-        "https://zenn.dev/canly/articles/85dc645c252832",
-        "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-        "https://surgehq.ai/blog/dayjob-tax"
-      ],
-      "titles": [
-        "北発射のミサイルEEZ外に落下か——高市首相が「万全の態勢」を指示",
-        "「餃子の王将」社長射殺事件——一審無罪の工藤会系幹部に検察が控訴",
-        "Alphabet、25%増収も純利益は25%減——Google Cloudは103%増、AI投資負担が重くのしかかる",
-        "PayPay連携銀行から不正出金——「お金が全部盗られた」被害が相次ぎ報告",
-        "松屋の公式アプリとWebサイトが停止——不正アクセス検知、モバイルオーダーも使用不可に",
-        "AIエージェントは「増やせば賢くなる」のか——MetaとHarvardの研究が示す「分業の条件」",
-        "Auto mode時代のClaude Codeを守る——検証済み10キットで始めるセキュリティ対策",
-        "人間が見るのは設計書だけ——PdM不在チームでAI-DLCを開発フローごと作り直した話",
-        "Anthropic Expands AI for Science Program to Foundations and Research Institutions",
-        "Google Releases Gemini 4 Carbon — Next Frontier Model with State-of-the-Art Cybersecurity and Long-Horizon Agentic Capabilities",
-        "DAYJOB: Tax — Benchmarking AI Agents on 50 Professional Tax Assignments"
       ]
     }
   ]

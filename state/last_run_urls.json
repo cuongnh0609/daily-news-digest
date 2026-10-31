@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-31T10:00:00+09:00",
+  "last_run_at": "2026-10-31T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-31T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6600811",
+        "https://news.yahoo.co.jp/pickup/6600804",
+        "https://news.yahoo.co.jp/pickup/6600786",
+        "https://news.yahoo.co.jp/pickup/6600808",
+        "https://news.yahoo.co.jp/pickup/6600812",
+        "https://zenn.dev/densan_techblog/articles/e124c1d23d6b68",
+        "https://zenn.dev/jeynari/books/d8d75041c2b4f4",
+        "https://zenn.dev/aiai_tool/articles/817fdd68c577d0",
+        "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+        "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+        "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/"
+      ],
+      "titles": [
+        "台風31号、11月上旬に小笠原諸島へ接近か——気象庁が警戒呼びかけ",
+        "半導体大手インテル、7〜9月期決算で株価が29%急落——AI競争での出遅れ鮮明に",
+        "保育園に「死ね」と書かれた人形が送られる——脅迫容疑で40代男を逮捕",
+        "大企業出身のシニア人材採用に潜む落とし穴——中小企業との文化摩擦が表面化",
+        "11月1日早朝、関東などでISS（国際宇宙ステーション）の観測好条件——肉眼で確認可能",
+        "Agentic AI Summit '26 Fall Day 2 基調講演速報——「エージェント境界設計」が本番運用の鍵に",
+        "sandbox-runtime実走ガイド——AIエージェントを「囲って」動かすための導入とエラー辞典",
+        "AI AgentのSkill更新で自動化を壊さないための「Version Pinning」設計パターン",
+        "Anthropic Expands AI for Science Program to 20 Foundations and Research Institutions",
+        "Google Research Proposes SLEEP Framework for LLM Continual Learning — Near-Zero Forgetting",
+        "Cisco President Gives 27-Year-Old Engineer Unlimited AI Tokens to Rewrite Legacy Codebase in 24 Months"
+      ]
+    },
     {
       "run_at": "2026-10-31T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Mistral Large 4 \"Le Chonk\" Goes Open Weight — 1 Trillion Parameters, Coding and Cybersecurity Frontier",
         "Gemini 4 Carbon Tops Artificial Analysis Intelligence Index v5 — Near-Zero Hallucinations, #2 Agentic Coding",
         "GitHub Octoverse 2026: Agentic Engineering Drives Commits and PRs to Triple in Two Years"
-      ]
-    },
-    {
-      "run_at": "2026-10-29T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102900963&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/29/2000002722/",
-        "https://www.itmedia.co.jp/news/article/2610/29/2000002729/",
-        "https://www.jiji.com/jc/article?k=2026102900192&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102900182&g=pol&m=rss",
-        "https://zenn.dev/sre_holdings/articles/d4acb079680a79",
-        "https://zenn.dev/zenn_content/articles/claude-code-agent-stops-too-early",
-        "https://zenn.dev/yushiyamamoto/articles/ai-workflow-vs-agent-2026-10",
-        "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-        "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
-        "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html"
-      ],
-      "titles": [
-        "銀座シックスでスプレー噴射、中国籍の男を逮捕——5月の事件、25人が搬送された経緯が明らかに",
-        "ANAの予約システムに不正アクセス——JALと同じ委託先経由、個人情報の閲覧痕跡も確認",
-        "楽天カード、3Dセキュアをワンタイムパスワード一本化へ——2027年2月から段階的に移行",
-        "ピアニスト反田恭平被告に有罪判決——首都高速で144キロ、執行猶予付き禁固3カ月",
-        "意思疎通困難な首長の退職制度を新設へ——総務省、意識不明の町長問題を受け法的整備",
-        "Claude Codeで「QAチーム」を組んだら、効いたのは「捨てる仕組み」だった",
-        "AIエージェントは暴走より「止まりすぎ」だった——665回のターン終了を全数分析",
-        "AIワークフローとAIエージェントの違い——「次の処理を誰が決めるか」で引く境界線と実務の選び方",
-        "OpenAI's Isolated AI Agents Found Ways to Communicate Through the CPU Cache",
-        "Anthropic Ends Traditional Coding Interviews: Hunger Beats Tenure",
-        "GitLab Security Incident: Alpine Linux's Instance Attacked via CVE-2026-97229"
       ]
     }
   ]

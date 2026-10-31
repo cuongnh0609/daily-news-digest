@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-01T00:00:00+09:00",
+  "last_run_at": "2026-11-01T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-01T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026103100292&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026103000576&g=flash&m=rss",
+        "https://www.jiji.com/jc/article?k=2026103100241&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/31/2000002775/",
+        "https://news.yahoo.co.jp/pickup/6600861",
+        "https://zenn.dev/web_benriya/articles/claude-code-opentelemetry-bigquery-observability",
+        "https://zenn.dev/growl/articles/d7dafe774009b7",
+        "https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html",
+        "https://latent.space/p/arca/",
+        "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
+        "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+      ],
+      "titles": [
+        "GMO不正アクセス被害者、FXで一晩430万円の損失——「何が起きたのか明らかに」と利用者が訴え",
+        "日銀、ETFの年間売却額を8600億円に増加——市場安定策として段階的縮小へ",
+        "日米韓外相、北朝鮮のサイバー攻撃対処で連携強化——北極圏協力にも覚書",
+        "Binance約1兆円流出、北朝鮮ハッカー集団「TraderTraitor」の犯行か——当局が捜査",
+        "参政党・神谷代表、独AfD幹部と政策共鳴——移民・エネルギー政策で一致、連携模索",
+        "Claude CodeのOpenTelemetryをBigQueryに流してAIコーディングのコストと失敗を可視化する",
+        "AIエージェントの二重実行を止める「冪等性キー」の最小実装——本番エージェント運用の必須パターン",
+        "Oracle Cloud、Google TPU導入へ——2027年提供開始、Oracleが自社クラウドで他社チップを採用",
+        "Agents Prompt People: Using AI Agents for Long-Horizon Financial Work — Latent Space",
+        "GitHub Intelligence: Your Code, Context, and History — All Searchable by Copilot",
+        "Granite Switch 4.1.1: IBM Releases Model-Update-as-Software — Swap Granite Versions Like Updating a Package"
+      ]
+    },
     {
       "run_at": "2026-11-01T00:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "GitHub Copilot Shared Automations: Team-Owned Agentic Workflows That Survive Personnel Changes",
         "OpenAI Matches Anthropic: API Credits Now Included for $100–$500 ChatGPT Subscribers",
         "OpenAI Doubles ChatGPT Pro 100/500 Usage Limits After Community Backlash — and Reverses the Pro 200 Cut"
-      ]
-    },
-    {
-      "run_at": "2026-10-30T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026103000551&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026103000372&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026103000212&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026103000386&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6600684?source=rss",
-        "https://zenn.dev/layerx/articles/a277f83a93d300",
-        "https://zenn.dev/rescuenow/articles/49826fc6cc2713",
-        "https://zenn.dev/karamage/articles/ac71f1c89c73ff",
-        "https://martinfowler.com/bliki/LLM-Voice.html",
-        "https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases",
-        "https://simonwillison.net/2026/Oct/26/gpt-61-terra/"
-      ],
-      "titles": [
-        "日銀、物価上昇率が目標の2%に到達と判断——金融政策は現状維持",
-        "自民・立民、消費税減税法案審議へ参院特別委設置で合意",
-        "エヌビディアCEOに接近した中国女性スパイか——米報道",
-        "英俳優パトリック・スチュワートさん死去、86歳",
-        "暗号資産大手Binanceに不正侵入か——約63億ドル相当の損失・入出金停止",
-        "LayerXが社内AIエージェント開発環境「yoro」を公開",
-        "2026年自分流AIエージェント環境構築の秋——複数エージェント並列運用",
-        "人間がコードを読まずにPRをマージする技術——AI生成コードの品質担保",
-        "LLM Voice — Martin Fowler on Why Voice Is the Last Interface That Will Bend to LLMs",
-        "GitHub Copilot in VS Code Universe Releases: Agent Host, Cloud Sessions, and Computer Use",
-        "GPT-6.1 Terra — OpenAI's Mid-Tier Reasoning Model Targets Visual Reasoning and Computer Use"
-      ]
-    },
-    {
-      "run_at": "2026-10-30T10:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/30/2000002736/",
-        "https://news.yahoo.co.jp/pickup/6600649?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/30/2000002734/",
-        "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
-        "https://www.itmedia.co.jp/news/article/2610/28/2000002661/",
-        "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
-        "https://monoist.itmedia.co.jp/mn/articles/2610/30/news053.html",
-        "https://zenn.dev/ayutaso/articles/ftllm2026-ja-speech-llm",
-        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-        "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-        "https://labs.ycombinator.com/projects/games/index.html"
-      ],
-      "titles": [
-        "Amazon決算、AWS売上高が39.3%増——約5年ぶりの高成長、生成AI需要が牽引",
-        "富士山の初冠雪を確認——気象庁が発表、今季最初の白い山頂",
-        "ウクライナで拡散するAI偽情報——「本物の映像」を証明する「C2PA」の新たな意義",
-        "OpenAI、AI行動指針「Model Spec」を改定——記憶の扱い方とエージェント時代の人間監督を規定",
-        "Anthropic、独自の創薬活動に着手——小児難病治療薬の研究を進めるバイオ企業を買収",
-        "OpenAI「Model Spec」改定——AIの\"記憶\"扱い方とエージェント時代の人間監督を規定",
-        "AIは「組織能力の増幅器」——パナソニック新CAIOが語る人とAIの共進化戦略",
-        "学生2人が日本語音声LLMを開発——FT-LLM 2026コンペで自由形タスク1位を獲得",
-        "Anthropic Donates Agent Skills to the Agentic AI Foundation — 70+ Platforms Already Integrated",
-        "GitHub Universe 2026: Copilot Projects, Computer Use Preview, and Copilot Memory Goes GA",
-        "YC Labs Runs AI Agent Swarms in Minecraft and Mindustry — Multi-Agent Coordination Benchmark"
       ]
     }
   ]

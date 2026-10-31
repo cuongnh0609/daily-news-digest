@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-10-31T15:00:00+09:00",
+  "last_run_at": "2026-10-31T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-10-31T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6600846",
+        "https://news.yahoo.co.jp/pickup/6600855",
+        "https://news.yahoo.co.jp/pickup/6600851",
+        "https://www.jiji.com/jc/article?k=2026103100115&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6600845",
+        "https://www.publickey1.jp/blog/26/aioracle_cloudoracle_app_composeroracle_ai_world_2026.html",
+        "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
+        "https://www.itmedia.co.jp/news/article/2610/29/2000002679/",
+        "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+        "https://www.anthropic.com/news/expanding-partnership-gsa",
+        "https://www.langchain.com/blog/proactive-agents"
+      ],
+      "titles": [
+        "ランサムウェア攻撃が急増、支払い後に4割が追加要求を受ける――専門家「支払いは解決策にならない」",
+        "スペインの列車追突事故、運輸相「前方に青信号が表示されていた」――死者69人に",
+        "元大阪地検トップが性的暴行容疑で保釈――2年以上の勾留を経て",
+        "茂木外相、ロシア外相と約5年ぶりの対面会談――拘束記者の即時解放を要求",
+        "ブラックフライデー先行セール過熱――物価高に対抗し小売各社が「お得感」を競う",
+        "オラクル、社員がAIで業務アプリを自動作成できる「Oracle App Composer」を発表――Oracle AI World 2026",
+        "Google、新フラッグシップ「Gemini 4 Carbon」発表――サイバー防御能力を大幅強化、幻覚半減",
+        "AIエージェントが人間に「仕事を発注」するマーケットプレース「RentAHuman」――悪用リスクを研究者が調査",
+        "Azure's Weakest Link — Five Full Cross-Tenant Privilege Escalation Vulnerabilities Disclosed",
+        "Anthropic Expands GSA Partnership — 40% Discount Brings Claude to All Levels of US Government",
+        "LangChain: Why Aren't You Building Proactive Agents Yet? — The Schedules SDK and Cron-Driven Agentic Patterns"
+      ]
+    },
     {
       "run_at": "2026-10-31T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Donates Agent Skills to the Agentic AI Foundation — 70+ Platforms Already Integrated",
         "GitHub Universe 2026: Copilot Projects, Computer Use Preview, and Copilot Memory Goes GA",
         "YC Labs Runs AI Agent Swarms in Minecraft and Mindustry — Multi-Agent Coordination Benchmark"
-      ]
-    },
-    {
-      "run_at": "2026-10-30T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102900991&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6600615?source=rss",
-        "https://news.yahoo.co.jp/pickup/6600609?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/29/2000002716/",
-        "https://www.itmedia.co.jp/news/article/2610/29/2000002723/",
-        "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/",
-        "https://www.itmedia.co.jp/news/article/2610/29/2000002679/",
-        "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
-        "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-        "https://www.anthropic.com/claude-opus-5-5",
-        "https://www.anthropic.com/news/public-benefit-fund"
-      ],
-      "titles": [
-        "次期戦闘機、ドイツの参加意欲に苦慮——日本政府、開発遅れ懸念",
-        "梨泰院事故4年で追悼式 160人犠牲",
-        "ネパール高峰で発見の2遺体は邦人",
-        "グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か",
-        "ローソン・郵便局が「ドローン基地」に　回線はStarlinkで　ドローンインフラを急ピッチで作るKDDI",
-        "ChatGPTのPro・Businessプランで「API利用」可能に　月最大500ドル分",
-        "AIが人間に「仕事を発注」する求人サイト「RentAHuman」——AIエージェントによる人間雇用の安全リスク調査",
-        "Oracle CloudがGoogle TPU導入へ　2027年に提供を開始",
-        "Building a Multiplayer Game World with Autonomous Fable-Class Agents — Spawn Spends $3M/Month on AI Tokens",
-        "Anthropic Releases Claude Opus 5.5 — New Frontier Model with Extended Thinking and Deep Reasoning",
-        "Anthropic Commits Shares to Public Benefit Fund — Structural Change Grows Stake as Company Scales"
-      ]
-    },
-    {
-      "run_at": "2026-10-30T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026102901064&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102901213&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026102900572&g=prk&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/29/2000002730/",
-        "https://www.itmedia.co.jp/news/article/2610/29/2000002717/",
-        "https://zenn.dev/devlog/articles/abc194ecf04dfc",
-        "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/",
-        "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002632/",
-        "https://mistral.ai/news/mistral-large-4-oss/",
-        "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-        "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/"
-      ],
-      "titles": [
-        "電気・ガス代補助、12月から再開へ——高市首相、ガソリン補助は段階的縮小方針",
-        "米GDP、7〜9月期に3.4%増——個人消費・設備投資が堅調、インフレ圧力も継続",
-        "北朝鮮、短距離弾道ミサイル10発余りを発射——日本のEEZ外に落下か",
-        "不正アクセスによる個人情報漏えい、半年で延べ2億6000万人——日本人口の2倍超",
-        "ソニー生命に不正アクセス——個人情報約38.5万件が漏えい、氏名・住所・契約内容含む",
-        "Claude Codeを褒めちぎったら、失敗リストを返された——AI協働における「判断の分業」を考える",
-        "GitHub Octoverse 2026：TypeScriptがPythonを抜いて首位——AI支援コーディングが言語トレンドを塗り替える",
-        "AIエージェントは「増やせば賢くなる」のか——MetaとHarvardが示す分業の条件と情報共有設計の重要性",
-        "Mistral Large 4 \"Le Chonk\" Goes Open Weight — 1 Trillion Parameters, Coding and Cybersecurity Frontier",
-        "Gemini 4 Carbon Tops Artificial Analysis Intelligence Index v5 — Near-Zero Hallucinations, #2 Agentic Coding",
-        "GitHub Octoverse 2026: Agentic Engineering Drives Commits and PRs to Triple in Two Years"
       ]
     }
   ]

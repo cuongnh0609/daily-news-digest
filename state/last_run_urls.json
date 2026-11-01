@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-01T05:00:00+09:00",
+  "last_run_at": "2026-11-01T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-01T10:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+        "https://www.jiji.com/jc/article?k=2026103100286&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026103100302&g=pol&m=rss",
+        "https://news.yahoo.co.jp/articles/9a08d0314bde1d54c2df07bfb049869c7e296e68",
+        "https://news.yahoo.co.jp/articles/09ea1da836acbf7bcd4b9a3c4afe1836fa175188",
+        "https://zenn.dev/acerola_jp/books/claude-code-unattended-ops",
+        "https://zenn.dev/yunisuta/articles/oss-hindsight-claude-api-ai-llm-python-meq5so",
+        "https://zenn.dev/swdrk/articles/a4b8aa3ecc3f26",
+        "https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases",
+        "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+        "https://simonwillison.net/2026/Oct/31/datasette-llm/"
+      ],
+      "titles": [
+        "ウェブサイトのAI学習利用拒否、robots.txtで一括対応へ――OpenAIとGoogleが業界標準化に動く",
+        "消費減税法案、与党が6日の衆院通過目指す――財源論めぐり与野党の攻防激化",
+        "米中間選挙前夜、民主党が「赤い州」で攻勢――接戦州でも予想外の善戦",
+        "福岡市長選、戦後最多の13人が届け出――争点は都市開発と少子化対策",
+        "三重県沖でM6.1の地震――異常震域で遠く離れた福島県で震度3を観測",
+        "Claude Codeを無人で回す仕組み一式——起動・委任・見張り・ゲートの設計パターン",
+        "エージェントの記憶喪失を治す——OSS「Hindsight」でClaude APIに長期記憶を持たせる",
+        "AIコーディングツールを狙った攻撃から開発環境を守る——Nxのs1ngularity事件と手元での検証",
+        "GitHub Copilot in VS Code — Agent Host Protocol, Cloud Sessions, and Side-by-Side Model Comparison",
+        "Anthropic Restricts Users from Sharing Outputs That Train Competing Large Models",
+        "datasette-llm 0.1a9: Simon Willison's LLM Tool Now Stores, Queries, and Compares Every Model Conversation"
+      ]
+    },
     {
       "run_at": "2026-11-01T05:00:00+09:00",
       "urls": [

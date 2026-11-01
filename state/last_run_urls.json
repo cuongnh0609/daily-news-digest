@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-01T15:00:00+09:00",
+  "last_run_at": "2026-11-01T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-01T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6600974",
+        "https://news.yahoo.co.jp/pickup/6600978",
+        "https://news.yahoo.co.jp/pickup/6600965",
+        "https://news.yahoo.co.jp/pickup/6600935",
+        "https://www.jiji.com/jc/article?k=2026110100170&g=int&m=rss",
+        "https://zenn.dev/catatsuy/articles/159edffe202c0c",
+        "https://zenn.dev/nrs/articles/c777388530aa84",
+        "https://www.itmedia.co.jp/business/articles/2610/30/news090.html",
+        "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+        "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+        "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations"
+      ],
+      "titles": [
+        "堤防で釣りの男性4人が海に転落——茨城・鹿嶋、2人が行方不明",
+        "エムバペ選手とサンリオが相次いで中国の反発を招く——謝罪に追い込まれた背景",
+        "高市政権は「脱リフレ」へ舵を切るか——2027年度予算と日銀政策が試金石に",
+        "憲法公布80年——緊急事態条項の創設に賛否、識者3人が見解",
+        "G20外相会合閉幕——「結束」を訴えつつ共同声明なし、ウクライナ・イラン問題で溝",
+        "ISUCON 2026にCodexエージェントで単独参戦——「人間は方針だけ、コードはAIに任せる」実験",
+        "AIが生成したPRをコードを読まずにマージする——「ノールックマージ」の組織論的条件",
+        "キオクシア、上半期純利益1.35兆円で過去最高——NAND需要がAI投資で急回復",
+        "Brazilian Court Sanctions Lawyers for Hiding Prompt Injection in Court Filing",
+        "The AI Cost of JavaScript Frameworks: Claude Opus 5.5 Benchmarks 12 Setups",
+        "GitHub Copilot Shared Automations: Team-Owned AI Workflows That Survive Staff Turnover"
+      ]
+    },
     {
       "run_at": "2026-11-01T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Expands AI for Science Program to 20 Foundations and Research Institutions",
         "Google Research Proposes SLEEP Framework for LLM Continual Learning — Near-Zero Forgetting",
         "Cisco President Gives 27-Year-Old Engineer Unlimited AI Tokens to Rewrite Legacy Codebase in 24 Months"
-      ]
-    },
-    {
-      "run_at": "2026-10-31T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6600759?source=rss",
-        "https://news.yahoo.co.jp/pickup/6600753?source=rss",
-        "https://news.yahoo.co.jp/pickup/6600770?source=rss",
-        "https://news.yahoo.co.jp/pickup/6600754?source=rss",
-        "https://news.yahoo.co.jp/pickup/6600762?source=rss",
-        "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
-        "https://www.itmedia.co.jp/enterprise/articles/2610/31/news008.html",
-        "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
-        "https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents",
-        "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-        "https://www.anthropic.com/research/early-progress-drug-development"
-      ],
-      "titles": [
-        "トランプ氏の選挙遊説、予定が二転三転——陣営の混乱が露わに",
-        "発達障害の子どもが増加——支援学校の教員不足が深刻化",
-        "東京メトロ、2029年3月の運賃値上げを目指す方針を決定",
-        "列車がクマと衝突——乗客37人が一夜を車内で過ごす事態に",
-        "「AIで描いた」と中傷された小学生の絵——保護者が公開中止を決断",
-        "Claude Enterpriseに3つの新機能——AI投資対効果の「見える化」に本格対応",
-        "AIエージェントは「実運用」が主流に——成果を出す企業の共通点とは",
-        "Claude Code「Auto mode」時代のセキュリティ対策——個人・チーム・組織別の10キット",
-        "LangChain Managed Deep Agents v0.10: Browser Use and Asynchronous Subagents Go Live",
-        "AI Isn't Replacing SREs, It's Deskilling Them — A Growing Crisis in Platform Engineering",
-        "Anthropic Reports Early Progress on AI-Accelerated Drug Development — Six Research Partnerships Active"
-      ]
-    },
-    {
-      "run_at": "2026-10-31T05:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/30/2000002753/",
-        "https://news.yahoo.co.jp/pickup/6600723?source=rss",
-        "https://news.yahoo.co.jp/pickup/6600717?source=rss",
-        "https://news.yahoo.co.jp/pickup/6600736?source=rss",
-        "https://www.itmedia.co.jp/news/article/2610/30/2000002751/",
-        "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/",
-        "https://zenn.dev/nttdata_tech/articles/6a06f484ebfab7",
-        "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
-        "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-        "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-        "https://www.anthropic.com/news/s1-sec"
-      ],
-      "titles": [
-        "松屋フーズ公式アプリに不正アクセス——約238万件の個人情報が漏えい",
-        "31日、関東から北海道にかけて天気が急変——落雷・突風に警戒",
-        "六本木の高校生徒が複数回刺されて重傷——都内で白昼の刃傷事件",
-        "米中間選挙、民主党が「赤い州」で攻勢——接戦州で予想外の善戦",
-        "イオン、フィジカルAIで物流改革——配送拠点の自動化率5割を達成",
-        "国産LLM「Sarashina3.2 mini thinking」登場——初の思考モデルでツール呼び出しとWeb検索が大幅向上",
-        "AIエージェントに設計書レビューを任せたら——「レビュワーの楽」が「作成者の負担」に転化した現場",
-        "BunにPrettier互換フォーマッターが追加——最大300倍速でJavaScript/TypeScriptのコードフォーマットを実現",
-        "Backdoor Found in Claude Code VS Code Extension on Cursor Marketplace — Supply Chain Attack Confirmed",
-        "GitHub Copilot Fusion Goes GA — Pick Effort Level, Not Model",
-        "Anthropic Files S-1 with the SEC for Proposed IPO — AI Safety Company Goes Public"
       ]
     }
   ]

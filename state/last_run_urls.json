@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-01T20:00:00+09:00",
+  "last_run_at": "2026-11-02T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-02T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6601002",
+        "https://news.yahoo.co.jp/pickup/6600991",
+        "https://news.yahoo.co.jp/pickup/6600999",
+        "https://news.yahoo.co.jp/pickup/6601000",
+        "https://news.yahoo.co.jp/pickup/6600981",
+        "https://zenn.dev/nttdata_tech/articles/6a06f484ebfab7",
+        "https://zenn.dev/tak848/articles/20261031-isucon2026-writeup",
+        "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/",
+        "https://www.anthropic.com/news/s1-sec",
+        "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+        "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
+      ],
+      "titles": [
+        "農相の政治団体、寄付3000万円超を収支報告書に不記載——政治資金規正法違反の疑い",
+        "GMOへの不正アクセス、北朝鮮系ハッカー集団の関与が濃厚——マルウェアの痕跡が根拠に",
+        "生命起源「彗星説」に異論——新たなシミュレーションが数十年来の定説に疑問を呈す",
+        "『映画ぼっち・ざ・ろっく！ 星のあしあと』制作決定——2027年公開、ヒロインは伊地知星歌",
+        "「家族系」配信の収益化が相次いで停止——子どもの出演とプライバシー保護をめぐる議論が世界的に拡大",
+        "AIエージェントに設計書レビューを任せたら——レビュワーは楽になったが、プロジェクト工数は増えた",
+        "ISUCON 2026に人間1人＋AIエージェント軍団で挑戦——自動ループで約67倍のスコア向上、教訓まとめ",
+        "国産LLM「Sarashina3.2 mini thinking」発表——SB Intuitionsが初の思考モデル、Web検索・ツール呼び出しに対応",
+        "Anthropic Files S-1 with SEC for Proposed IPO on Nasdaq Under Ticker ANT",
+        "GitHub Copilot Fusion Goes GA: Multi-Model Orchestration Matches Claude Code at Half the Cost",
+        "Full ChatGPT Account Takeover via Chained Cross-Frame JavaScript Injection — $5K Bounty Paid"
+      ]
+    },
     {
       "run_at": "2026-11-01T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Azure's Weakest Link — Five Full Cross-Tenant Privilege Escalation Vulnerabilities Disclosed",
         "Anthropic Expands GSA Partnership — 40% Discount Brings Claude to All Levels of US Government",
         "LangChain: Why Aren't You Building Proactive Agents Yet? — The Schedules SDK and Cron-Driven Agentic Patterns"
-      ]
-    },
-    {
-      "run_at": "2026-10-31T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6600811",
-        "https://news.yahoo.co.jp/pickup/6600804",
-        "https://news.yahoo.co.jp/pickup/6600786",
-        "https://news.yahoo.co.jp/pickup/6600808",
-        "https://news.yahoo.co.jp/pickup/6600812",
-        "https://zenn.dev/densan_techblog/articles/e124c1d23d6b68",
-        "https://zenn.dev/jeynari/books/d8d75041c2b4f4",
-        "https://zenn.dev/aiai_tool/articles/817fdd68c577d0",
-        "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-        "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-        "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/"
-      ],
-      "titles": [
-        "台風31号、11月上旬に小笠原諸島へ接近か——気象庁が警戒呼びかけ",
-        "半導体大手インテル、7〜9月期決算で株価が29%急落——AI競争での出遅れ鮮明に",
-        "保育園に「死ね」と書かれた人形が送られる——脅迫容疑で40代男を逮捕",
-        "大企業出身のシニア人材採用に潜む落とし穴——中小企業との文化摩擦が表面化",
-        "11月1日早朝、関東などでISS（国際宇宙ステーション）の観測好条件——肉眼で確認可能",
-        "Agentic AI Summit '26 Fall Day 2 基調講演速報——「エージェント境界設計」が本番運用の鍵に",
-        "sandbox-runtime実走ガイド——AIエージェントを「囲って」動かすための導入とエラー辞典",
-        "AI AgentのSkill更新で自動化を壊さないための「Version Pinning」設計パターン",
-        "Anthropic Expands AI for Science Program to 20 Foundations and Research Institutions",
-        "Google Research Proposes SLEEP Framework for LLM Continual Learning — Near-Zero Forgetting",
-        "Cisco President Gives 27-Year-Old Engineer Unlimited AI Tokens to Rewrite Legacy Codebase in 24 Months"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-02T00:00:00+09:00",
+  "last_run_at": "2026-11-02T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-02T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026110100288&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026110100269&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026110100135&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
+        "https://news.yahoo.co.jp/pickup/6600996",
+        "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
+        "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
+        "https://www.itmedia.co.jp/news/article/2610/30/2000002751/",
+        "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+        "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+        "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
+      ],
+      "titles": [
+        "防災庁、11月2日に発足——大規模災害の司令塔として平時から復旧まで一元対応",
+        "米中間選挙、3日に投開票——トランプ大統領が最後の週末に支持呼びかけ、民主党の逆風か",
+        "スペインが称賛する日本の新幹線——「模倣困難な偉業」、列車衝突事故との対比で注目",
+        "総務省、GMO攻撃者サイトのブロッキングを通信各社に要請——前例なき緊急措置の背景",
+        "望月衣塑子記者の対談本、発売後に回収決定——共著者の発言めぐり出版社が異例の判断",
+        "OpenAI、「Model Spec」を改定——AIの記憶利用と人間による監督の指針を明文化",
+        "GitHub「Copilot Fusion」正式GA——タスクに応じた最適モデル自動選択でコスト半減",
+        "イオン、フィジカルAIで物流革命——配送拠点の自動化率50%達成、深刻な人手不足に対応",
+        "Anthropic Expands AI for Science Program to Foundations and Research Institutions",
+        "GitHub Enterprise Now Includes Copilot Access — Redefining the All-in-One Developer Platform",
+        "The October Inflection Point for Vibe Game Development — Simon Willison on Autonomous Fable-Class Agents"
+      ]
+    },
     {
       "run_at": "2026-11-02T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "NESformer: A Working NES Emulator Baked Into Qwen3.5-4B Model Weights",
         "Researchers Achieve Full ChatGPT Account Takeover via Cross-Frame JavaScript Injection — OpenAI Pays $5K Bounty",
         "AWS and Google Cloud Open-Source PyTorch Backends for Trainium and TPU — Challenging NVIDIA's AI Compute Dominance"
-      ]
-    },
-    {
-      "run_at": "2026-10-31T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6600846",
-        "https://news.yahoo.co.jp/pickup/6600855",
-        "https://news.yahoo.co.jp/pickup/6600851",
-        "https://www.jiji.com/jc/article?k=2026103100115&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6600845",
-        "https://www.publickey1.jp/blog/26/aioracle_cloudoracle_app_composeroracle_ai_world_2026.html",
-        "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
-        "https://www.itmedia.co.jp/news/article/2610/29/2000002679/",
-        "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-        "https://www.anthropic.com/news/expanding-partnership-gsa",
-        "https://www.langchain.com/blog/proactive-agents"
-      ],
-      "titles": [
-        "ランサムウェア攻撃が急増、支払い後に4割が追加要求を受ける――専門家「支払いは解決策にならない」",
-        "スペインの列車追突事故、運輸相「前方に青信号が表示されていた」――死者69人に",
-        "元大阪地検トップが性的暴行容疑で保釈――2年以上の勾留を経て",
-        "茂木外相、ロシア外相と約5年ぶりの対面会談――拘束記者の即時解放を要求",
-        "ブラックフライデー先行セール過熱――物価高に対抗し小売各社が「お得感」を競う",
-        "オラクル、社員がAIで業務アプリを自動作成できる「Oracle App Composer」を発表――Oracle AI World 2026",
-        "Google、新フラッグシップ「Gemini 4 Carbon」発表――サイバー防御能力を大幅強化、幻覚半減",
-        "AIエージェントが人間に「仕事を発注」するマーケットプレース「RentAHuman」――悪用リスクを研究者が調査",
-        "Azure's Weakest Link — Five Full Cross-Tenant Privilege Escalation Vulnerabilities Disclosed",
-        "Anthropic Expands GSA Partnership — 40% Discount Brings Claude to All Levels of US Government",
-        "LangChain: Why Aren't You Building Proactive Agents Yet? — The Schedules SDK and Cron-Driven Agentic Patterns"
       ]
     }
   ]

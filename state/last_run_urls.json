@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-03T00:00:00+09:00",
+  "last_run_at": "2026-11-03T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-03T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026110200090&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6601104?source=rss",
+        "https://www.jiji.com/jc/article?k=2026110200758&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026110200775&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026110200853&g=pol&m=rss",
+        "https://zenn.dev/ryuyanishino/articles/0e09a4de21d74587b081b2b444681364",
+        "https://zenn.dev/tappers/articles/ai-labo-e20-episodic-gotchas-memory",
+        "https://zenn.dev/zundokobaum/articles/2026-11-02_pointer_dictionary_mcp_architecture",
+        "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+        "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+        "https://arxiv.org/abs/2610.37741"
+      ],
+      "titles": [
+        "国会答弁案をAI作成　政府試行、議員質問も分析",
+        "ノジマ 700万人分の個人情報流出",
+        "三の丸尚蔵館、３日全面開館　報道陣に公開―皇居・東御苑",
+        "ＡＰＥＣ外務・貿易相会合、３日開催　オンラインで―中国",
+        "沖縄協議会、６日開催　１３年ぶり、高市首相出席調整",
+        "CLAUDE.mdに「絶対」と書いても守られないとき：指示文に残すルールと、hook・denyルールで止めるルール",
+        "同じリポジトリでAIが毎回同じ罠を踏むのを防ぐ！「毎回コールドスタート探索」vs「5項目のMEMORY.md継承」実機検証",
+        "ぼくのかんがえたさいきょうのAI×個人開発環境【第2弾：プロンプト肥大化と辞書MCP】",
+        "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+        "[AINews] Building AIE CODE: The top Coding Agent Conference",
+        "Agentic backdoors via pretraining poisoning"
+      ]
+    },
     {
       "run_at": "2026-11-03T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Brazilian Court Sanctions Lawyers for Hiding Prompt Injection in Court Filing",
         "The AI Cost of JavaScript Frameworks: Claude Opus 5.5 Benchmarks 12 Setups",
         "GitHub Copilot Shared Automations: Team-Owned AI Workflows That Survive Staff Turnover"
-      ]
-    },
-    {
-      "run_at": "2026-11-01T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6600942",
-        "https://news.yahoo.co.jp/pickup/6600930",
-        "https://news.yahoo.co.jp/pickup/6600914",
-        "https://news.yahoo.co.jp/pickup/6600907",
-        "https://news.yahoo.co.jp/pickup/6600929",
-        "https://zenn.dev/kauche/articles/f3736c660aab77",
-        "https://zenn.dev/layerx/articles/a277f83a93d300",
-        "https://zenn.dev/ayutaso/articles/ftllm2026-ja-speech-llm",
-        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-        "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-        "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/"
-      ],
-      "titles": [
-        "給食巡る投稿炎上 後悔ないと市議——SNSのデマと誹謗中傷がもたらす「デジタルタトゥー」",
-        "北海道・小樽で兄の遺体遺棄——妹を再逮捕、80代の父親の関与も捜査",
-        "消費減税法案、6日の衆院通過へ——首相の質疑出席が最大の焦点に",
-        "英首相、大西洋奴隷貿易への正式謝罪を検討——金銭的賠償は否定",
-        "漫画家・佐伯俊氏、集英社との専属契約が満了——「食戟のソーマ」作画担当が独立へ",
-        "3人それぞれのClaude CodeをSlackでつないでISUCON2026に参加——スコア207,039点達成の設計パターン",
-        "LayerX「yoro」——AKS上のリモートコーディングエージェント環境でClaude CodeとCodexが設計からPRまで",
-        "学生2人でFT-LLM 2026自由形タスク1位——日本語音声LLMをLLM-jp-4 8Bベースで開発",
-        "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation Under Linux Foundation",
-        "Memdoor: 5-Agent Qwen3.8-27B Team Beats Fable 5 on LiveCodeBench Hard",
-        "How I Built the Most AI-Pilled Company in the World: Spawn Ships to Production Hourly with Autonomous Agents"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-02T15:00:00+09:00",
+  "last_run_at": "2026-11-02T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-02T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6601063",
+        "https://news.yahoo.co.jp/pickup/6601090",
+        "https://news.yahoo.co.jp/pickup/6601077",
+        "https://www.itmedia.co.jp/news/article/2611/02/2000002800/",
+        "https://www.itmedia.co.jp/news/article/2611/02/2000002795/",
+        "https://www.itmedia.co.jp/enterprise/articles/2610/31/news008.html",
+        "https://note.com/hgffdgn654/n/n92467b83a1c1",
+        "https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1",
+        "https://github.com/vercel-labs/agent-desktop",
+        "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+        "https://trigger.dev/blog/security-incident-nov-2026"
+      ],
+      "titles": [
+        "防衛費、5年間で70〜80兆円案——政府・与党が2027年度以降の整備計画見直しへ",
+        "警視庁、GMOサイバー攻撃で捜査本部設置——約70人態勢で不正アクセス法違反を捜査",
+        "SBIとフジHD、資本業務提携を発表——メディア・コンテンツ分野で折半出資の合弁会社設立へ",
+        "兵庫県警とヤマップが協定——登山者の位置情報を捜索救助に活用、全国35例目",
+        "アットコスメ、会員約300万人分の情報漏えい——不正アクセスで氏名・住所・メールなど流出か",
+        "AIエージェントは「実運用」が主流に——成果を出す企業の共通点は「経営層の関与」と「広範な展開」",
+        "FigmaよりClaude CodeでUIデザインする時代——コード起点設計への移行と「コンポーネント思考」の変化",
+        "Agent DX — AI時代にフレームワーク「Hono」は必要か？ Yusuke Wada氏が問う「開発体験」の再定義",
+        "Vercel Labs Releases agent-desktop: Computer Use for AI Agents via OS Accessibility Tree",
+        "OpenAI Releases GPT-6.1 Terra: Mid-Range Vision and Computer-Use Model at Half the Cost of Sol",
+        "Trigger.dev Security Incident: Attacker Accessed Customer Environment Variables in Production"
+      ]
+    },
     {
       "run_at": "2026-11-02T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation Under Linux Foundation",
         "Memdoor: 5-Agent Qwen3.8-27B Team Beats Fable 5 on LiveCodeBench Hard",
         "How I Built the Most AI-Pilled Company in the World: Spawn Ships to Production Hourly with Autonomous Agents"
-      ]
-    },
-    {
-      "run_at": "2026-11-01T10:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
-        "https://www.jiji.com/jc/article?k=2026103100286&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026103100302&g=pol&m=rss",
-        "https://news.yahoo.co.jp/articles/9a08d0314bde1d54c2df07bfb049869c7e296e68",
-        "https://news.yahoo.co.jp/articles/09ea1da836acbf7bcd4b9a3c4afe1836fa175188",
-        "https://zenn.dev/acerola_jp/books/claude-code-unattended-ops",
-        "https://zenn.dev/yunisuta/articles/oss-hindsight-claude-api-ai-llm-python-meq5so",
-        "https://zenn.dev/swdrk/articles/a4b8aa3ecc3f26",
-        "https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases",
-        "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-        "https://simonwillison.net/2026/Oct/31/datasette-llm/"
-      ],
-      "titles": [
-        "ウェブサイトのAI学習利用拒否、robots.txtで一括対応へ——OpenAIとGoogleが業界標準化に動く",
-        "消費減税法案、与党が6日の衆院通過目指す——財源論めぐり与野党の攻防激化",
-        "米中間選挙前夜、民主党が「赤い州」で攻勢——接戦州でも予想外の善戦",
-        "福岡市長選、戦後最多の13人が届け出——争点は都市開発と少子化対策",
-        "三重県沖でM6.1の地震——異常震域で遠く離れた福島県で震度3を観測",
-        "Claude Codeを無人で回す仕組み一式——起動・委任・見張り・ゲートの設計パターン",
-        "エージェントの記憶喪失を治す——OSS「Hindsight」でClaude APIに長期記憶を持たせる",
-        "AIコーディングツールを狙った攻撃から開発環境を守る——Nxのs1ngularity事件と手元での検証",
-        "GitHub Copilot in VS Code — Agent Host Protocol, Cloud Sessions, and Side-by-Side Model Comparison",
-        "Anthropic Restricts Users from Sharing Outputs That Train Competing Large Models",
-        "datasette-llm 0.1a9: Simon Willison's LLM Tool Now Stores, Queries, and Compares Every Model Conversation"
-      ]
-    },
-    {
-      "run_at": "2026-11-01T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026103100292&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026103000576&g=flash&m=rss",
-        "https://www.jiji.com/jc/article?k=2026103100241&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/31/2000002775/",
-        "https://news.yahoo.co.jp/pickup/6600861",
-        "https://zenn.dev/web_benriya/articles/claude-code-opentelemetry-bigquery-observability",
-        "https://zenn.dev/growl/articles/d7dafe774009b7",
-        "https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html",
-        "https://latent.space/p/arca/",
-        "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
-        "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
-      ],
-      "titles": [
-        "GMO不正アクセス被害者、FXで一晩430万円の損失——「何が起きたのか明らかに」と利用者が訴え",
-        "日銀、ETFの年間売却額を8600億円に増加——市場安定策として段階的縮小へ",
-        "日米韓外相、北朝鮮のサイバー攻撃対処で連携強化——北極圏協力にも覚書",
-        "Binance約1兆円流出、北朝鮮ハッカー集団「TraderTraitor」の犯行か——当局が捜査",
-        "参政党・神谷代表、独AfD幹部と政策共鳴——移民・エネルギー政策で一致、連携模索",
-        "Claude CodeのOpenTelemetryをBigQueryに流してAIコーディングのコストと失敗を可視化する",
-        "AIエージェントの二重実行を止める「冪等性キー」の最小実装——本番エージェント運用の必須パターン",
-        "Oracle Cloud、Google TPU導入へ——2027年提供開始、Oracleが自社クラウドで他社チップを採用",
-        "Agents Prompt People: Using AI Agents for Long-Horizon Financial Work — Latent Space",
-        "GitHub Intelligence: Your Code, Context, and History — All Searchable by Copilot",
-        "Granite Switch 4.1.1: IBM Releases Model-Update-as-Software — Swap Granite Versions Like Updating a Package"
-      ]
-    },
-    {
-      "run_at": "2026-11-01T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6600879",
-        "https://news.yahoo.co.jp/pickup/6600875",
-        "https://news.yahoo.co.jp/pickup/6600866",
-        "https://news.yahoo.co.jp/pickup/6600828",
-        "https://news.yahoo.co.jp/pickup/6600868",
-        "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/",
-        "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/",
-        "https://monoist.itmedia.co.jp/mn/articles/2610/31/news013.html",
-        "https://simonwillison.net/2026/Oct/30/nesformer/",
-        "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-        "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html"
-      ],
-      "titles": [
-        "GMOインターネット、不正アクセス問題で11月2日に初の記者会見——社長が直接説明へ",
-        "クラブツーリズム、不正アクセスで432万件の個人情報が漏えいか——旅行大手に被害",
-        "ウクライナ、製油所攻撃を再開——ロシア副首相が軽油輸出の減少を警告",
-        "国交省、「第2青函トンネル」構想を検討——建設費1兆円規模、物流強化に期待",
-        "高市首相、殉職警察官らを追悼——「安全・安心な日本を次世代に」と決意表明",
-        "Mistral AI、1兆パラメータの「Le Chonk」重みを公開——MoE方式で中国勢に対抗するオープンウェイトモデル",
-        "Gemini Notebook、数百冊の教科書を無料ソースに追加——コンピュータサイエンスから医学まで対応",
-        "GMOサイバー攻撃、AI時代の「懸賞金型」防衛戦略が注目——業界全体へのセキュリティ意識向上を促す",
-        "NESformer: A Working NES Emulator Baked Into Qwen3.5-4B Model Weights",
-        "Researchers Achieve Full ChatGPT Account Takeover via Cross-Frame JavaScript Injection — OpenAI Pays $5K Bounty",
-        "AWS and Google Cloud Open-Source PyTorch Backends for Trainium and TPU — Challenging NVIDIA's AI Compute Dominance"
       ]
     }
   ]

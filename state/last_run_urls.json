@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-02T10:00:00+09:00",
+  "last_run_at": "2026-11-02T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-02T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026110200087&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026110200127&g=spo&m=rss",
+        "https://www.jiji.com/jc/article?k=2026110200085&g=pol&m=rss",
+        "https://www.itmedia.co.jp/news/article/2611/02/2000002785/",
+        "https://www.itmedia.co.jp/news/article/2611/02/2000002783/",
+        "https://zenn.dev/hach/articles/chat-agent-partial-tool-outage-degradation-design",
+        "https://zenn.dev/upgradetech/articles/2026-11-kiro-crew-api-key-intro",
+        "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/",
+        "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+        "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+        "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
+      ],
+      "titles": [
+        "官邸突入の被告、無罪主張へ——東京地裁で初公判、自民党本部への火炎瓶事件も同日審理",
+        "島田麻央、GPシリーズ初戦で優勝——フィギュアスケートカナダ大会、19歳が世界トップに",
+        "防災庁が本格始動——「家具固定・備蓄を今すぐ」と全国に緊急呼びかけ",
+        "楽天証券に不正アクセス——NTTデータ委託先経由で顧客情報362件が漏えいか",
+        "「RAGTAG」運営のワールド子会社に不正アクセス——会員情報最大120万件が流出の可能性",
+        "常駐型AIエージェントが連携ツール障害でも止まらない設計——部分障害時の「縮退運転」パターン",
+        "Kiro CLIとKiro Crewを改めて入門——AWS上でSpec-Driven Agentを動かすまでの実践記",
+        "ChatGPTの「Chat」と「Work」が統合へ——利用制限をCodexと共通化、OpenAIがUI刷新を発表",
+        "Kyle Kingsbury: LLMs Are Making It Harder to Trust Software Documentation and Code Quality",
+        "Google Admits AI Mode Hurts Search Revenue — 15% Drop, $500B Market Loss Worst Since 2004 IPO",
+        "Postgres 19 Is Late Because LLMs Are Finding Bugs Faster Than Maintainers Can Fix Them"
+      ]
+    },
     {
       "run_at": "2026-11-02T10:00:00+09:00",
       "urls": [
@@ -81,7 +110,7 @@
         "『映画ぼっち・ざ・ろっく！ 星のあしあと』制作決定——2027年公開、ヒロインは伊地知星歌",
         "「家族系」配信の収益化が相次いで停止——子どもの出演とプライバシー保護をめぐる議論が世界的に拡大",
         "AIエージェントに設計書レビューを任せたら——レビュワーは楽になったが、プロジェクト工数は増えた",
-        "ISUCON 2026に人間1人＋AIエージェント軍団で挑戦——自動ループで約67倍のスコア向上、教訓まとめ",
+        "ISUCON 2026に人間1人＋AIエージェント軍団で出て19.6万点、ループは閉じたけど中身が弱かった反省文",
         "国産LLM「Sarashina3.2 mini thinking」発表——SB Intuitionsが初の思考モデル、Web検索・ツール呼び出しに対応",
         "Anthropic Files S-1 with SEC for Proposed IPO on Nasdaq Under Ticker ANT",
         "GitHub Copilot Fusion Goes GA: Multi-Model Orchestration Matches Claude Code at Half the Cost",
@@ -162,11 +191,11 @@
         "https://simonwillison.net/2026/Oct/31/datasette-llm/"
       ],
       "titles": [
-        "ウェブサイトのAI学習利用拒否、robots.txtで一括対応へ――OpenAIとGoogleが業界標準化に動く",
-        "消費減税法案、与党が6日の衆院通過目指す――財源論めぐり与野党の攻防激化",
-        "米中間選挙前夜、民主党が「赤い州」で攻勢――接戦州でも予想外の善戦",
-        "福岡市長選、戦後最多の13人が届け出――争点は都市開発と少子化対策",
-        "三重県沖でM6.1の地震――異常震域で遠く離れた福島県で震度3を観測",
+        "ウェブサイトのAI学習利用拒否、robots.txtで一括対応へ——OpenAIとGoogleが業界標準化に動く",
+        "消費減税法案、与党が6日の衆院通過目指す——財源論めぐり与野党の攻防激化",
+        "米中間選挙前夜、民主党が「赤い州」で攻勢——接戦州でも予想外の善戦",
+        "福岡市長選、戦後最多の13人が届け出——争点は都市開発と少子化対策",
+        "三重県沖でM6.1の地震——異常震域で遠く離れた福島県で震度3を観測",
         "Claude Codeを無人で回す仕組み一式——起動・委任・見張り・ゲートの設計パターン",
         "エージェントの記憶喪失を治す——OSS「Hindsight」でClaude APIに長期記憶を持たせる",
         "AIコーディングツールを狙った攻撃から開発環境を守る——Nxのs1ngularity事件と手元での検証",

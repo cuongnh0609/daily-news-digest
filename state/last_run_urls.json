@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-04T00:00:00+09:00",
+  "last_run_at": "2026-11-04T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-04T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6601226?source=rss",
+        "https://news.yahoo.co.jp/pickup/6601163?source=rss",
+        "https://news.yahoo.co.jp/pickup/6601233?source=rss",
+        "https://news.yahoo.co.jp/pickup/6601220?source=rss",
+        "https://www.itmedia.co.jp/news/article/2611/03/2000002829/",
+        "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
+        "https://zenn.dev/aishift/articles/e761cff4f079cd",
+        "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
+        "https://github.com/postmanlabs/postman-app-support/issues/14370",
+        "https://news.ycombinator.com/item?id=codex-training-thread",
+        "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+      ],
+      "titles": [
+        "米中間選挙、開票作業が長期化へ　激戦州で集計に遅れ",
+        "ロシア軍、外国人兵士に入れ墨で識別番号を刻む　人権団体が告発",
+        "タイ、輸入電気自動車の物品税を引き上げへ　国内産業保護が目的",
+        "スペイン2部リーグ、試合中に搬送されたFWが死去　心停止で倒れる",
+        "GMOグループへのサイバー攻撃、熊谷代表が責任を認め謝罪会見　被害規模なお調査中",
+        "バイブコーディングで見えてきたClaude Codeの実装パターン——大規模プロジェクトで露呈する「盲点」",
+        "LLMOpsの実践：AIエージェント開発を支えるトレーシング基盤の設計と実装",
+        "GitHub、AIが最適モデルを自動選択する「Copilot Fusion」を正式リリース　コストと性能を両立",
+        "Postman Silently Auto-Installs AI Plugins and Attempts to Share All API Request Data",
+        "OpenAI Appears to Be Silently Re-Enabling Model Training on Codex Chat Sessions",
+        "Qwen 3.8 27B Running Locally Can Interpret Neural Network Weights — Weight-Space Programming Spreads Beyond GPT"
+      ]
+    },
     {
       "run_at": "2026-11-04T00:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "The U.S. Census Bureau and Super Intelligence",
         "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
         "Oracle App Composer: AI-Generated Business Apps Deployed to Oracle Cloud via Chat Interface"
-      ]
-    },
-    {
-      "run_at": "2026-11-02T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601063",
-        "https://news.yahoo.co.jp/pickup/6601090",
-        "https://news.yahoo.co.jp/pickup/6601077",
-        "https://www.itmedia.co.jp/news/article/2611/02/2000002800/",
-        "https://www.itmedia.co.jp/news/article/2611/02/2000002795/",
-        "https://www.itmedia.co.jp/enterprise/articles/2610/31/news008.html",
-        "https://note.com/hgffdgn654/n/n92467b83a1c1",
-        "https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1",
-        "https://github.com/vercel-labs/agent-desktop",
-        "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-        "https://trigger.dev/blog/security-incident-nov-2026"
-      ],
-      "titles": [
-        "防衛費、5年間で70〜80兆円案——政府・与党が2027年度以降の整備計画見直しへ",
-        "警視庁、GMOサイバー攻撃で捜査本部設置——約70人態勢で不正アクセス法違反を捜査",
-        "SBIとフジHD、資本業務提携を発表——メディア・コンテンツ分野で折半出資の合弁会社設立へ",
-        "兵庫県警とヤマップが協定——登山者の位置情報を捜索救助に活用、全国35例目",
-        "アットコスメ、会員約300万人分の情報漏えい——不正アクセスで氏名・住所・メールなど流出か",
-        "AIエージェントは「実運用」が主流に——成果を出す企業の共通点は「経営層の関与」と「広範な展開」",
-        "FigmaよりClaude CodeでUIデザインする時代——コード起点設計への移行と「コンポーネント思考」の変化",
-        "Agent DX — AI時代にフレームワーク「Hono」は必要か？ Yusuke Wada氏が問う「開発体験」の再定義",
-        "Vercel Labs Releases agent-desktop: Computer Use for AI Agents via OS Accessibility Tree",
-        "OpenAI Releases GPT-6.1 Terra: Mid-Range Vision and Computer-Use Model at Half the Cost of Sol",
-        "Trigger.dev Security Incident: Attacker Accessed Customer Environment Variables in Production"
-      ]
-    },
-    {
-      "run_at": "2026-11-02T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026110200087&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110200127&g=spo&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110200085&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2611/02/2000002785/",
-        "https://www.itmedia.co.jp/news/article/2611/02/2000002783/",
-        "https://zenn.dev/hach/articles/chat-agent-partial-tool-outage-degradation-design",
-        "https://zenn.dev/upgradetech/articles/2026-11-kiro-crew-api-key-intro",
-        "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/",
-        "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-        "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
-        "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
-      ],
-      "titles": [
-        "官邸突入の被告、無罪主張へ——東京地裁で初公判、自民党本部への火炎瓶事件も同日審理",
-        "島田麻央、GPシリーズ初戦で優勝——フィギュアスケートカナダ大会、19歳が世界トップに",
-        "防災庁が本格始動——「家具固定・備蓄を今すぐ」と全国に緊急呼びかけ",
-        "楽天証券に不正アクセス——NTTデータ委託先経由で顧客情報362件が漏えいか",
-        "「RAGTAG」運営のワールド子会社に不正アクセス——会員情報最大120万件が流出の可能性",
-        "常駐型AIエージェントが連携ツール障害でも止まらない設計——部分障害時の「縮退運転」パターン",
-        "Kiro CLIとKiro Crewを改めて入門——AWS上でSpec-Driven Agentを動かすまでの実践記",
-        "ChatGPTの「Chat」と「Work」が統合へ——利用制限をCodexと共通化、OpenAIがUI刷新を発表",
-        "Kyle Kingsbury: LLMs Are Making It Harder to Trust Software Documentation and Code Quality",
-        "Google Admits AI Mode Hurts Search Revenue — 15% Drop, $500B Market Loss Worst Since 2004 IPO",
-        "Postgres 19 Is Late Because LLMs Are Finding Bugs Faster Than Maintainers Can Fix Them"
       ]
     }
   ]

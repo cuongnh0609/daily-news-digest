@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-03T15:00:00+09:00",
+  "last_run_at": "2026-11-03T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-03T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026110300278&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6601194?source=rss",
+        "https://news.yahoo.co.jp/pickup/6601209?source=rss",
+        "https://www.jiji.com/jc/article?k=2026110300379&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026110300439&g=spo&m=rss",
+        "https://zenn.dev/marvelousu/articles/deepseek-super-agent-design",
+        "https://zenn.dev/babarot/articles/regomark-adr-checker",
+        "https://zenn.dev/aishift/articles/e761cff4f079cd",
+        "https://www.anthropic.com/research/early-progress-drug-development",
+        "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+        "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status"
+      ],
+      "titles": [
+        "米軍、イラン・ケシム島を空爆　トランプ大統領「急がない」と大規模作戦を示唆",
+        "米中間選挙、明日投開票　民主党が勝利した場合の政策転換を各メディアが分析",
+        "GMOへの不正アクセス、「設計上の不備」が原因か　警視庁が捜査本部を設置",
+        "日本・ベトナム、犯罪者情報を相互通報する新協定を検討　9日の首脳会談で確認へ",
+        "サッカー・アジアカップ、来年12月に延期決定　森保監督の最後の指揮に",
+        "DeepSeekが「Super-agent」構想を公開——複数タスクを並行処理しGitHubやチャットにも自律対応",
+        "ADRをregoでlintする——Claude Codeが書くADRのフォーマット崩れをOPA Regoで自動検査",
+        "FDE向けLLMOpsトレーシング基盤の構築——AIエージェント導入後の「実行履歴の空白」を埋める",
+        "Anthropic Reports Early Drug Discovery Breakthroughs: Claude Helps Design CAR-T, Antibody, and Manufacturing Solutions",
+        "Ubuntu LTS Kernels Still Unpatched After 3 Weeks for Critical CVE-2026-98432 (CVSS 9.8)",
+        "GitHub Security Risk Assessments Now Show Repository Protection Status — Easier to Spot Coverage Gaps"
+      ]
+    },
     {
       "run_at": "2026-11-03T15:00:00+09:00",
       "urls": [

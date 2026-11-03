@@ -31,6 +31,35 @@
       ]
     },
     {
+      "run_at": "2026-11-03T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026110300379&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026110300439&g=spo&m=rss",
+        "https://www.itmedia.co.jp/news/article/2611/03/2000002840/",
+        "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
+        "https://www.jiji.com/jc/article?k=2026110200573&g=pol&m=rss",
+        "https://zenn.dev/marvelousu/articles/deepseek-super-agent-design",
+        "https://zenn.dev/babarot/articles/regomark-adr-checker",
+        "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
+        "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+        "https://openai.com/index/scaling-git-at-openai/",
+        "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/"
+      ],
+      "titles": [
+        "日本・ベトナム間で逮捕情報の相互通報協定を検討、9日の首脳会談で確認へ",
+        "サッカー・アジア杯、来年12月に延期　森保監督が最後の指揮へ",
+        "Apple、第4四半期として過去最高の増収増益　ターナスCEO初の決算「Siriは望んでいたSiriに」",
+        "Marvell、光通信技術のLumentumを約18兆円で買収　AIデータセンター需要に対応",
+        "SNSで揺らぐ表現の自由　偽情報拡散と自主規制の難しさ、識者が警鐘",
+        "DeepSeekが描くAIエージェントの未来像：Router＋Workerアーキテクチャで「スーパーエージェント」を実現",
+        "ADRをregoでlintする：AIが書く「読みづらいADR」をOPA＋LLM判定で自動チェック",
+        "Cloudflare、TypeScriptをRustで再実装した「tsrs」発表　TypeScript 7比で8倍高速・メモリ70%削減",
+        "Ubuntu LTS Kernels Still Unpatched for Critical CVE-2026-98432 After Three Weeks",
+        "Scaling Git at OpenAI: How One of the World's Largest Repositories Stays Fast",
+        "OSINT Trick: Background Aircraft Audio Leaks Exact Video Recording Location via ADS-B Cross-Reference"
+      ]
+    },
+    {
       "run_at": "2026-11-03T15:00:00+09:00",
       "urls": [
         "https://www.jiji.com/jc/article?k=2026110300142&g=pol&m=rss",

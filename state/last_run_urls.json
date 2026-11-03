@@ -4,30 +4,30 @@
     {
       "run_at": "2026-11-03T20:00:00+09:00",
       "urls": [
-        "https://www.jiji.com/jc/article?k=2026110300278&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6601194?source=rss",
-        "https://news.yahoo.co.jp/pickup/6601209?source=rss",
         "https://www.jiji.com/jc/article?k=2026110300379&g=pol&m=rss",
         "https://www.jiji.com/jc/article?k=2026110300439&g=spo&m=rss",
+        "https://www.itmedia.co.jp/news/article/2611/03/2000002840/",
+        "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
+        "https://www.jiji.com/jc/article?k=2026110200573&g=pol&m=rss",
         "https://zenn.dev/marvelousu/articles/deepseek-super-agent-design",
         "https://zenn.dev/babarot/articles/regomark-adr-checker",
-        "https://zenn.dev/aishift/articles/e761cff4f079cd",
-        "https://www.anthropic.com/research/early-progress-drug-development",
+        "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
         "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-        "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status"
+        "https://openai.com/index/scaling-git-at-openai/",
+        "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/"
       ],
       "titles": [
-        "米軍、イラン・ケシム島を空爆　トランプ大統領「急がない」と大規模作戦を示唆",
-        "米中間選挙、明日投開票　民主党が勝利した場合の政策転換を各メディアが分析",
-        "GMOへの不正アクセス、「設計上の不備」が原因か　警視庁が捜査本部を設置",
-        "日本・ベトナム、犯罪者情報を相互通報する新協定を検討　9日の首脳会談で確認へ",
-        "サッカー・アジアカップ、来年12月に延期決定　森保監督の最後の指揮に",
-        "DeepSeekが「Super-agent」構想を公開——複数タスクを並行処理しGitHubやチャットにも自律対応",
-        "ADRをregoでlintする——Claude Codeが書くADRのフォーマット崩れをOPA Regoで自動検査",
-        "FDE向けLLMOpsトレーシング基盤の構築——AIエージェント導入後の「実行履歴の空白」を埋める",
-        "Anthropic Reports Early Drug Discovery Breakthroughs: Claude Helps Design CAR-T, Antibody, and Manufacturing Solutions",
-        "Ubuntu LTS Kernels Still Unpatched After 3 Weeks for Critical CVE-2026-98432 (CVSS 9.8)",
-        "GitHub Security Risk Assessments Now Show Repository Protection Status — Easier to Spot Coverage Gaps"
+        "日本・ベトナム間で逮捕情報の相互通報協定を検討、9日の首脳会談で確認へ",
+        "サッカー・アジア杯、来年12月に延期　森保監督が最後の指揮へ",
+        "Apple、第4四半期として過去最高の増収増益　ターナスCEO初の決算「Siriは望んでいたSiriに」",
+        "Marvell、光通信技術のLumentumを約18兆円で買収　AIデータセンター需要に対応",
+        "SNSで揺らぐ表現の自由　偽情報拡散と自主規制の難しさ、識者が警鐘",
+        "DeepSeekが描くAIエージェントの未来像：Router＋Workerアーキテクチャで「スーパーエージェント」を実現",
+        "ADRをregoでlintする：AIが書く「読みづらいADR」をOPA＋LLM判定で自動チェック",
+        "Cloudflare、TypeScriptをRustで再実装した「tsrs」発表　TypeScript 7比で8倍高速・メモリ70%削減",
+        "Ubuntu LTS Kernels Still Unpatched for Critical CVE-2026-98432 After Three Weeks",
+        "Scaling Git at OpenAI: How One of the World's Largest Repositories Stays Fast",
+        "OSINT Trick: Background Aircraft Audio Leaks Exact Video Recording Location via ADS-B Cross-Reference"
       ]
     },
     {
@@ -202,122 +202,6 @@
         "Kyle Kingsbury: LLMs Are Making It Harder to Trust Software Documentation and Code Quality",
         "Google Admits AI Mode Hurts Search Revenue — 15% Drop, $500B Market Loss Worst Since 2004 IPO",
         "Postgres 19 Is Late Because LLMs Are Finding Bugs Faster Than Maintainers Can Fix Them"
-      ]
-    },
-    {
-      "run_at": "2026-11-02T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601023",
-        "https://www.jiji.com/jc/article?k=2026110200099&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110100274&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6601025",
-        "https://news.yahoo.co.jp/pickup/6601022",
-        "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
-        "https://www.itmedia.co.jp/business/articles/2611/02/news032.html",
-        "https://zenn.dev/ntk221/articles/98b17a773669a1",
-        "https://www.itmedia.co.jp/news/article/2611/02/2000002779/",
-        "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
-        "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/"
-      ],
-      "titles": [
-        "スペイン事故 邦人1人の死亡確認——69人死亡の衝突事故に国際的な衝撃",
-        "ウクライナ南部で局地停戦終了——6日間の人道支援は成功も、双方が違反を主張",
-        "米中間選挙を前に急進左派が存在感——「民主社会主義」が格差是正の旗手に",
-        "内定後2年間の入社猶予OK——化粧品会社「シロ」が異例の「インターバル採用」導入へ",
-        "滋賀・甲賀市の住宅火災——焼け跡から3人の遺体、身元確認急ぐ",
-        "AnthropicがClaudeの「Max 20x」を「Ultra」に改称——月200ドルで5時間ごとの利用制限を撤廃",
-        "メルカリが「業務を止めた日」——全社AI利用率100%達成とエージェント前提の組織設計",
-        "ISUCON2026初参加記——Claude Codeをチームで共有しながらリージョン分散のボトルネックに挑む",
-        "Google Receives First AI Response from Orbital TPU — Project Suncatcher 'Hello World' Milestone",
-        "Anthropic Adds Three ROI Measurement Tools to Claude Enterprise — Smart Reports, In-App Surveys, Pooled Budgets",
-        "Simon Willison: 'If in Doubt, Delete the uv.lock File' — The Fastest Fix for Broken Python Environments"
-      ]
-    },
-    {
-      "run_at": "2026-11-02T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026110100288&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110100269&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110100135&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
-        "https://news.yahoo.co.jp/pickup/6600996",
-        "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
-        "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
-        "https://www.itmedia.co.jp/news/article/2610/30/2000002751/",
-        "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-        "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-        "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
-      ],
-      "titles": [
-        "防災庁、11月2日に発足——大規模災害の司令塔として平時から復旧まで一元対応",
-        "米中間選挙、3日に投開票——トランプ大統領が最後の週末に支持呼びかけ、民主党の逆風か",
-        "スペインが称賛する日本の新幹線——「模倣困難な偉業」、列車衝突事故との対比で注目",
-        "総務省、GMO攻撃者サイトのブロッキングを通信各社に要請——前例なき緊急措置の背景",
-        "望月衣塑子記者の対談本、発売後に回収決定——共著者の発言めぐり出版社が異例の判断",
-        "OpenAI、「Model Spec」を改定——AIの記憶利用と人間による監督の指針を明文化",
-        "GitHub「Copilot Fusion」正式GA——タスクに応じた最適モデル自動選択でコスト半減",
-        "イオン、フィジカルAIで物流革命——配送拠点の自動化率50%達成、深刻な人手不足に対応",
-        "Anthropic Expands AI for Science Program to Foundations and Research Institutions",
-        "GitHub Enterprise Now Includes Copilot Access — Redefining the All-in-One Developer Platform",
-        "The October Inflection Point for Vibe Game Development — Simon Willison on Autonomous Fable-Class Agents"
-      ]
-    },
-    {
-      "run_at": "2026-11-02T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601002",
-        "https://news.yahoo.co.jp/pickup/6600991",
-        "https://news.yahoo.co.jp/pickup/6600999",
-        "https://news.yahoo.co.jp/pickup/6601000",
-        "https://news.yahoo.co.jp/pickup/6600981",
-        "https://zenn.dev/nttdata_tech/articles/6a06f484ebfab7",
-        "https://zenn.dev/tak848/articles/20261031-isucon2026-writeup",
-        "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/",
-        "https://www.anthropic.com/news/s1-sec",
-        "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-        "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
-      ],
-      "titles": [
-        "農相の政治団体、寄付3000万円超を収支報告書に不記載——政治資金規正法違反の疑い",
-        "GMOへの不正アクセス、北朝鮮系ハッカー集団の関与が濃厚——マルウェアの痕跡が根拠に",
-        "生命起源「彗星説」に異論——新たなシミュレーションが数十年来の定説に疑問を呈す",
-        "『映画ぼっち・ざ・ろっく！ 星のあしあと』制作決定——2027年公開、ヒロインは伊地知星歌",
-        "「家族系」配信の収益化が相次いで停止——子どもの出演とプライバシー保護をめぐる議論が世界的に拡大",
-        "AIエージェントに設計書レビューを任せたら——レビュワーは楽になったが、プロジェクト工数は増えた",
-        "ISUCON 2026に人間1人＋AIエージェント軍団で出て19.6万点、ループは閉じたけど中身が弱かった反省文",
-        "国産LLM「Sarashina3.2 mini thinking」発表——SB Intuitionsが初の思考モデル、Web検索・ツール呼び出しに対応",
-        "Anthropic Files S-1 with SEC for Proposed IPO on Nasdaq Under Ticker ANT",
-        "GitHub Copilot Fusion Goes GA: Multi-Model Orchestration Matches Claude Code at Half the Cost",
-        "Full ChatGPT Account Takeover via Chained Cross-Frame JavaScript Injection — $5K Bounty Paid"
-      ]
-    },
-    {
-      "run_at": "2026-11-01T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6600974",
-        "https://news.yahoo.co.jp/pickup/6600978",
-        "https://news.yahoo.co.jp/pickup/6600965",
-        "https://news.yahoo.co.jp/pickup/6600935",
-        "https://www.jiji.com/jc/article?k=2026110100170&g=int&m=rss",
-        "https://zenn.dev/catatsuy/articles/159edffe202c0c",
-        "https://zenn.dev/nrs/articles/c777388530aa84",
-        "https://www.itmedia.co.jp/business/articles/2610/30/news090.html",
-        "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-        "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-        "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations"
-      ],
-      "titles": [
-        "堤防で釣りの男性4人が海に転落——茨城・鹿嶋、2人が行方不明",
-        "エムバペ選手とサンリオが相次いで中国の反発を招く——謝罪に追い込まれた背景",
-        "高市政権は「脱リフレ」へ舵を切るか——2027年度予算と日銀政策が試金石に",
-        "憲法公布80年——緊急事態条項の創設に賛否、識者3人が見解",
-        "G20外相会合閉幕——「結束」を訴えつつ共同声明なし、ウクライナ・イラン問題で溝",
-        "ISUCON 2026にCodexエージェントで単独参戦——「人間は方針だけ、コードはAIに任せる」実験",
-        "AIが生成したPRをコードを読まずにマージする——「ノールックマージ」の組織論的条件",
-        "キオクシア、上半期純利益1.35兆円で過去最高——NAND需要がAI投資で急回復",
-        "Brazilian Court Sanctions Lawyers for Hiding Prompt Injection in Court Filing",
-        "The AI Cost of JavaScript Frameworks: Claude Opus 5.5 Benchmarks 12 Setups",
-        "GitHub Copilot Shared Automations: Team-Owned AI Workflows That Survive Staff Turnover"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-04T10:00:00+09:00",
+  "last_run_at": "2026-11-04T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-04T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
+        "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
+        "https://news.yahoo.co.jp/pickup/6601258",
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
+        "https://zenn.dev/o8n/articles/isucon2026-app-agent-retrospective",
+        "https://zenn.dev/topics/claudecode/feed",
+        "https://zenn.dev/topics/claudecode/feed",
+        "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air/",
+        "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api/",
+        "https://news.ycombinator.com/item?id=fujifilm-tape-ai"
+      ],
+      "titles": [
+        "米中間選挙、民主党が上下両院で過半数を確保　トランプ政権に痛手",
+        "日経平均が一時3,000円超の急落　米中間選挙と円高進行を嫌気",
+        "ビックカメラグループで約1,490万件の個人情報が漏えいか　業者経由の不正アクセス",
+        "自治体のシステム移行費めぐり公正取引委員会が調査へ　独禁法違反の疑い",
+        "サッカー日本代表、南野拓実が負傷から復帰　11月のアジア最終予選に合流",
+        "ISUCON2026参戦記：AIエージェント（Claude Code + Codex）をハーネスで制御し126,634点獲得",
+        "Claude Codeを「49エージェントのゲームスタジオ」に：マルチエージェント並列開発テンプレートが公開",
+        "Tech Watch 2026-11-04：「実行を守るハーネス」——AIエージェントの誤動作を防ぐ制御レイヤー設計",
+        "GitHub Copilot Now Available in JetBrains AI IDE \"Air\" — Expanding Agentic Coding Ecosystem",
+        "GitHub Copilot Usage API Now Supports BYOK and Enterprise Custom Models",
+        "Fujifilm to Boost Tape Storage Production 5× as AI-Driven Archiving Demand Surges"
+      ]
+    },
     {
       "run_at": "2026-11-04T10:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Astra Can Read and Write Neural Network Weights Directly — Weight-Space Programming Emerges",
         "Simon Willison Releases llm 0.37: New Models, OpenAI-Compatible Endpoints, and AI-Assisted Contributors",
         "Terence Tao: \"Egoless Mathematics\" — How AI Challenges Mathematicians to Rethink the Value of Their Work"
-      ]
-    },
-    {
-      "run_at": "2026-11-03T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026110200090&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6601104?source=rss",
-        "https://www.jiji.com/jc/article?k=2026110200758&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110200775&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110200853&g=pol&m=rss",
-        "https://zenn.dev/ryuyanishino/articles/0e09a4de21d74587b081b2b444681364",
-        "https://zenn.dev/tappers/articles/ai-labo-e20-episodic-gotchas-memory",
-        "https://zenn.dev/zundokobaum/articles/2026-11-02_pointer_dictionary_mcp_architecture",
-        "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-        "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
-        "https://arxiv.org/abs/2610.37741"
-      ],
-      "titles": [
-        "国会答弁案をAI作成　政府試行、議員質問も分析",
-        "ノジマ 700万人分の個人情報流出",
-        "三の丸尚蔵館、３日全面開館　報道陣に公開―皇居・東御苑",
-        "ＡＰＥＣ外務・貿易相会合、３日開催　オンラインで―中国",
-        "沖縄協議会、６日開催　１３年ぶり、高市首相出席調整",
-        "CLAUDE.mdに「絶対」と書いても守られないとき：指示文に残すルールと、hook・denyルールで止めるルール",
-        "同じリポジトリでAIが毎回同じ罠を踏むのを防ぐ！「毎回コールドスタート探索」vs「5項目のMEMORY.md継承」実機検証",
-        "ぼくのかんがえたさいきょうのAI×個人開発環境【第2弾：プロンプト肥大化と辞書MCP】",
-        "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-        "[AINews] Building AIE CODE: The top Coding Agent Conference",
-        "Agentic backdoors via pretraining poisoning"
-      ]
-    },
-    {
-      "run_at": "2026-11-03T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026110200952&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110200941&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110200891&g=soc&m=rss",
-        "https://www.itmedia.co.jp/news/article/2611/02/2000002786/",
-        "https://www.itmedia.co.jp/news/article/2611/02/2000002782/",
-        "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
-        "https://zenn.dev/melville/articles/953aa2b41f674b",
-        "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-        "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-        "https://latent.space/p/arca/",
-        "https://www.publickey1.jp/blog/26/aioracle_cloudoracle_app_composeroracle_ai_world_2026.html"
-      ],
-      "titles": [
-        "都立六本木高校の同級生刺傷事件　「仲直りできないなら心中しよう」　逮捕の加害生徒が供述",
-        "ベルギー首相が辞意表明　予算協議難航、国王は判断保留",
-        "「少林寺レーシング」巡り少年逮捕　ＳＮＳで迷惑行為呼び掛けか―大阪府警",
-        "ニコニコレンタカー、免許証画像の事前登録を廃止　保存済み画像も全削除　サイバー攻撃の増加受け",
-        "クラブツーリズムに不正アクセス　個人情報約432万件漏えいの可能性、サイト停止",
-        "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
-        "ペイントツール上でニューラルネットワークを動かす",
-        "日本の全法令をgitの履歴にしてみた",
-        "The U.S. Census Bureau and Super Intelligence",
-        "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
-        "Oracle App Composer: AI-Generated Business Apps Deployed to Oracle Cloud via Chat Interface"
       ]
     }
   ]

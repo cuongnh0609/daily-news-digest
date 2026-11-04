@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-05T00:00:00+09:00",
+  "last_run_at": "2026-11-05T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-05T05:00:00+09:00",
+      "urls": [
+        "https://www3.nhk.or.jp/news/html/20261105/k10014673001000.html",
+        "https://www.nikkei.com/article/DGXZQOUC050EV0V01C26A1000000/",
+        "https://www.jiji.com/jc/article?k=2026110500089&g=pol",
+        "https://news.yahoo.co.jp/pickup/6601399",
+        "https://www3.nhk.or.jp/news/html/20261105/k10014673501000.html",
+        "https://zenn.dev/langchain_jp/articles/langgraph-v04-release-notes",
+        "https://qiita.com/spec_first_dev/items/agents-md-spec-driven-workflow",
+        "https://zenn.dev/sec_ai_dev/articles/mcp-server-security-design",
+        "https://docs.anthropic.com/en/release-notes/claude-code",
+        "https://github.com/pydantic/pydantic-ai/releases/tag/v0.0.21",
+        "https://github.com/princeton-nlp/tau-bench"
+      ],
+      "titles": [
+        "衆院予算委、石破首相が財政再建と防衛増税の「両立」を明言 — 野党は具体策を追及",
+        "トヨタ・ホンダ・日産が共同で次世代EV電池リサイクル拠点を設立へ — 2028年稼働目標",
+        "日米首脳会談、11月中旬にワシントンで開催へ — 関税問題・安保協力を協議",
+        "大阪・関西万博、開幕から1カ月で入場者数100万人を突破 — 外国人来場が想定超え",
+        "能登半島豪雨復旧、仮設住宅の整備が遅延 — 被災者から不安の声、冬を前に行政に強い批判",
+        "LangGraph v0.4リリース — ステートフルなマルチエージェント実行ループとCheckpointストリーミングAPIが刷新",
+        "AGENTS.mdとSPEC.mdで「AIエージェント作業契約」を明文化する実践——Spec-First開発の国内事例",
+        "MCPサーバーのセキュリティ設計入門——ツール呼び出し検証とプロンプトインジェクション対策の実装パターン",
+        "Claude Code 1.0.44 Ships Sub-Agent Isolation, Worktree Sandboxing, and Per-Agent Memory Scoping",
+        "Pydantic AI v0.0.21 Introduces Typed Agent Graphs — Compile-Time Contract Enforcement for Multi-Agent Systems",
+        "τ-bench 1.5 Released — New Real-World Agent Evaluation Suite Exposes Gaps in Tool-Call Reliability Under Adversarial Conditions"
+      ]
+    },
     {
       "run_at": "2026-11-05T00:00:00+09:00",
       "urls": [

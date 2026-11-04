@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-04T20:00:00+09:00",
+  "last_run_at": "2026-11-05T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-05T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6601365",
+        "https://news.yahoo.co.jp/pickup/6601361",
+        "https://news.yahoo.co.jp/pickup/6601351",
+        "https://news.yahoo.co.jp/pickup/6601363",
+        "https://news.yahoo.co.jp/pickup/6601344",
+        "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
+        "https://zenn.dev/kauche/articles/f3736c660aab77",
+        "https://www.publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html",
+        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+        "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+        "https://news.ycombinator.com/item?id=50363461"
+      ],
+      "titles": [
+        "リニア中央新幹線の工事費、再び増額へ — JR東海が11兆円超で見直し検討",
+        "国税庁の「e-Tax」に不審な通信 — 緊急メンテで一時停止、年末調整シーズンに波紋",
+        "関東で5日朝に警報級の大雨 — 1時間50ミリ、通勤・通学時間帯に直撃のおそれ",
+        "竜王戦の対局中に巨大カメムシ出現 — 仁和寺の僧侶が颯爽と捕獲、藤井竜王も苦笑い",
+        "ガザで児童婚が急増 — 戦闘と貧困が少女たちを追い詰め、深刻な性暴力も",
+        "ISUCON2026で優勝 — 人間ゼロ介入の完全自律AIエージェントが625,857点を叩き出す",
+        "3人のClaude CodeをSlackで連携 — チーム分散エージェント開発でISUCON2026 207,039点",
+        "「GitHub Copilot Dreaming」発表 — 作業履歴からAIへの指示を自動更新、メモリが"夢"を見る",
+        "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation Under Linux Foundation",
+        "PHP2Shell Vulnerability: AI Is Forcing Us to Pay Off 40 Years of Technical Debt in Cybersecurity",
+        "Gemini Trains on Your Chat History Even When You Pay — Personal Google AI Subscribers Not Exempt"
+      ]
+    },
     {
       "run_at": "2026-11-04T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Ubuntu LTS Kernels Still Unpatched for Critical CVE-2026-98432 After Three Weeks",
         "Scaling Git at OpenAI: How One of the World's Largest Repositories Stays Fast",
         "OSINT Trick: Background Aircraft Audio Leaks Exact Video Recording Location via ADS-B Cross-Reference"
-      ]
-    },
-    {
-      "run_at": "2026-11-03T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026110300142&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110300278&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110300309&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6601164?source=rss",
-        "https://news.yahoo.co.jp/pickup/6601143?source=rss",
-        "https://zenn.dev/ai_labo/articles/ai-labo-e21-treesitter-skeleton-context",
-        "https://zenn.dev/git-push-contention-agents",
-        "https://zenn.dev/ponyo877/articles/2a8a24acc2ea3b",
-        "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
-        "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
-        "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/"
-      ],
-      "titles": [
-        "文化の日に皇居で文化勲章の親授式　受章者ら「名誉の重み実感」",
-        "米軍がイラン・ケシム島攻撃　トランプ氏、大規模作戦再開「急がず」―報道",
-        "長生炭鉱、遺骨返還へ連携　日韓外務次官が戦略対話で合意",
-        "大阪市の行政システムで個人情報漏えいか　市民数千人分が対象の可能性",
-        "「家族じまい」相談が急増　親との縁切りを専門家に求める動きが加速",
-        "依存ファイル全文投入 vs Tree-sitterスケルトン注入でトークン入力を94.9%削減できた話",
-        "AIエージェントを並列実行するとGitが詰まる理由：5.5万回の同時push実験で判明したこと",
-        "Human-out-of-the-loopでISUCON2026を制す　Claude Codeエージェントが完全自律で12位",
-        "Weight Space Programming: LLMs Now Read and Write Neural Network Weights Directly",
-        "GitHub Actions: pull_request_target Blocked by Default Starting December 2, 2026",
-        "The SEC Should Block Anthropic's IPO — Tech Policy Advocates Raise AI Governance Concerns"
       ]
     }
   ]

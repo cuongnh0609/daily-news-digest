@@ -4,6 +4,35 @@
     {
       "run_at": "2026-11-05T05:00:00+09:00",
       "urls": [
+        "https://news.yahoo.co.jp/pickup/6601349",
+        "https://news.yahoo.co.jp/pickup/6601322",
+        "https://news.yahoo.co.jp/pickup/6601357",
+        "https://news.yahoo.co.jp/pickup/6601358",
+        "https://www.itmedia.co.jp/news/article/2611/04/2000002884/",
+        "https://zenn.dev/haruto_miyakawa/articles/claude-code-transcript-cost-pitfalls",
+        "https://zenn.dev/shirochan/articles/7b6f7bb878fe68",
+        "https://www.publickey1.jp/blog/26/github2typescriptrustosscc_switchomarchygithub_octoverse_2026.html",
+        "https://www.anthropic.com/news/claude-haiku-5-5",
+        "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+        "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
+      ],
+      "titles": [
+        "高市首相、COP31欠席の見通し — 国内政務を優先、気候外交に課題",
+        "財務省、特定健診・保健指導の支援見直しを提言 — 自治体格差解消が焦点",
+        "沖縄・米海兵隊員が訓練中に死亡 — 訓練内容や原因を米軍が調査中",
+        "無痛分娩に対応する施設は全国の約6割 — 普及格差と費用負担が課題",
+        "中国製Android端末130万台超にバックドア — Googleが取引停止・犯罪利用の疑い",
+        "Claude Code の会話履歴からコストを正確に計測するときにはまった4つの落とし穴",
+        "Claude Code で理解する「ハーネス」入門 — エージェントの暴走を防ぐ制御レイヤーの設計と実践",
+        "GitHub Octoverse 2026：TypeScriptが2年連続首位、AIエージェントが起点のPRが急増",
+        "Introducing Claude Haiku 5.5 — Anthropic's Fastest Model Now With Extended Thinking",
+        "Nvidia RTX Spark Encrypted Firmware Throttles Linux Inference to 35% — A Costly Surprise",
+        "North Korean Fake Job Interview Social Engineering Led to $6.3B Binance Heist"
+      ]
+    },
+    {
+      "run_at": "2026-11-05T05:00:00+09:00",
+      "urls": [
         "https://www3.nhk.or.jp/news/html/20261105/k10014673001000.html",
         "https://www.nikkei.com/article/DGXZQOUC050EV0V01C26A1000000/",
         "https://www.jiji.com/jc/article?k=2026110500089&g=pol",
@@ -53,7 +82,7 @@
         "ガザで児童婚が急増 — 戦闘と貧困が少女たちを追い詰め、深刻な性暴力も",
         "ISUCON2026で優勝 — 人間ゼロ介入の完全自律AIエージェントが625,857点を叩き出す",
         "3人のClaude CodeをSlackで連携 — チーム分散エージェント開発でISUCON2026 207,039点",
-        "「GitHub Copilot Dreaming」発表 — 作業履歴からAIへの指示を自動更新、メモリが"夢"を見る",
+        "「GitHub Copilot Dreaming」発表 — 作業履歴からAIへの指示を自動更新、メモリが「夢」を見る",
         "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation Under Linux Foundation",
         "PHP2Shell Vulnerability: AI Is Forcing Us to Pay Off 40 Years of Technical Debt in Cybersecurity",
         "Gemini Trains on Your Chat History Even When You Pay — Personal Google AI Subscribers Not Exempt"

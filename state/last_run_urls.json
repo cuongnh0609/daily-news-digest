@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-04T05:00:00+09:00",
+  "last_run_at": "2026-11-04T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-04T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6601258?source=rss",
+        "https://news.yahoo.co.jp/pickup/6601259?source=rss",
+        "https://news.yahoo.co.jp/pickup/6601253?source=rss",
+        "https://news.yahoo.co.jp/pickup/6601264?source=rss",
+        "https://news.yahoo.co.jp/pickup/6601251?source=rss",
+        "https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1",
+        "https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude",
+        "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
+        "https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents",
+        "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
+        "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
+      ],
+      "titles": [
+        "自治体システム移行費めぐり公取委が調査へ　独禁法違反の疑い",
+        "トランプ大統領、イスラエルへの年40億ドル軍事支援を年内終了へ",
+        "関東一部で5日朝に警報級大雨のおそれ　気象庁が厳重注意を呼びかけ",
+        "バイナンスから約1兆円窃取、FBI「北朝鮮TraderTraitor」と断定　手口を公表",
+        "マリナーズ、異例の36歳を新監督に抜擢　MLB史上最年少クラスで就任",
+        "Agent DX 〜 AI時代にフレームワークHonoは必要か：AIエージェント向けDXの実測",
+        "AIでPlaywrightテストコードを生成するために調整したこと：Claude活用のQA実践知",
+        "GitHub、高精度AIコードレビュー「Copilot Code Review Max」をパブリックプレビュー公開",
+        "How LangChain Optimized Browser Use for Deep Agents: Stagehand vs. Playwright MCP",
+        "Anthropic Renames \"Claude Max 20x\" to \"Claude Ultra\" — Removes 5-Hour Usage Cap",
+        "US Tech Giants' Hidden AI Debt Swells 90% to $3.2 Trillion in Six Months"
+      ]
+    },
     {
       "run_at": "2026-11-04T05:00:00+09:00",
       "urls": [

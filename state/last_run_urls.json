@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-06T00:00:00+09:00",
+  "last_run_at": "2026-11-06T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-06T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6601460",
+        "https://www.jiji.com/jc/article?k=2026110500942&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6601471",
+        "https://news.yahoo.co.jp/pickup/6601474",
+        "https://www.jiji.com/jc/article?k=2026110501010&g=flash&m=rss",
+        "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
+        "https://www.publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html",
+        "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/",
+        "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+        "https://mcp-explained.com/",
+        "https://simonwillison.net/2026/Nov/2/llm/"
+      ],
+      "titles": [
+        "自転車の青切符、施行半年で約1万6000件 — スマホ「ながら運転」が最多",
+        "「サイバー救援隊」創設へ　政府緊急対策、６日決定",
+        "「ドンキ流トイザらス」が始動 — クリスマス商戦を先取り",
+        "蔵内前福岡県議長が初会見 — 金銭授受疑惑めぐり「制限付き」の異例対応",
+        "米中間選挙受け高市首相がトランプ大統領に連携表明 — 日米関係強化へ",
+        "ISUCON2026で優勝 — 人間不介在のAIエージェント競技基盤を構築して207,039点",
+        "GitHub Copilot Dreaming発表 — バックグラウンドでAIへの指示を自動メンテナンス",
+        "AI生成画像を「99%検出」するChrome拡張が登場 — Pangram Labs、動画にも対応",
+        "Building a Multi-Agent System from Scratch: Architecture Patterns That Actually Hold in Production",
+        "MCP Explained — Interactive Visual Guide to the Model Context Protocol (Runlayer)",
+        "llm 0.37 — Simon Willison's CLI Gets OpenAI-Compatible Endpoint + Embedding Content-Type Support"
+      ]
+    },
     {
       "run_at": "2026-11-06T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Dependabot Now Tracks and Auto-Updates Agent Skills via Agent Package Manager (APM) Support",
         "Figma Trains Its Own Design-Editing Model on Qwen 3.8 27B with RL — An Agentic Architecture Case Study",
         "Octoverse 2026: Agent-Started Pull Requests Cross 40% of All PRs — The Agentic Inflection Point is Here"
-      ]
-    },
-    {
-      "run_at": "2026-11-04T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
-        "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
-        "https://news.yahoo.co.jp/pickup/6601258",
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
-        "https://zenn.dev/o8n/articles/isucon2026-app-agent-retrospective",
-        "https://zenn.dev/topics/claudecode/feed",
-        "https://zenn.dev/topics/claudecode/feed",
-        "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air/",
-        "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api/",
-        "https://news.ycombinator.com/item?id=fujifilm-tape-ai"
-      ],
-      "titles": [
-        "米中間選挙、民主党が上下両院で過半数を確保　トランプ政権に痛手",
-        "日経平均が一時3,000円超の急落　米中間選挙と円高進行を嫌気",
-        "ビックカメラグループで約1,490万件の個人情報が漏えいか　業者経由の不正アクセス",
-        "自治体のシステム移行費めぐり公正取引委員会が調査へ　独禁法違反の疑い",
-        "サッカー日本代表、南野拓実が負傷から復帰　11月のアジア最終予選に合流",
-        "ISUCON2026参戦記：AIエージェント（Claude Code + Codex）をハーネスで制御し126,634点獲得",
-        "Claude Codeを「49エージェントのゲームスタジオ」に：マルチエージェント並列開発テンプレートが公開",
-        "Tech Watch 2026-11-04：「実行を守るハーネス」——AIエージェントの誤動作を防ぐ制御レイヤー設計",
-        "GitHub Copilot Now Available in JetBrains AI IDE \"Air\" — Expanding Agentic Coding Ecosystem",
-        "GitHub Copilot Usage API Now Supports BYOK and Enterprise Custom Models",
-        "Fujifilm to Boost Tape Storage Production 5× as AI-Driven Archiving Demand Surges"
       ]
     }
   ]

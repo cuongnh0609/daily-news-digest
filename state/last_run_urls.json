@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-05T05:00:00+09:00",
+  "last_run_at": "2026-11-05T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-05T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6601376",
+        "https://news.yahoo.co.jp/pickup/6601377",
+        "https://www.jiji.com/jc/article?k=2026110401033&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026110500182&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6601381",
+        "https://zenn.dev/laiken/articles/20261105-tech-watch",
+        "https://zenn.dev/ikuokuotiak/articles/claude-gemini-script-generation-dynamic-execution",
+        "https://www.publickey1.jp/blog/26/aws26google_cloud1620263synergy_research.html",
+        "https://www.anthropic.com/research/provable-inference",
+        "https://www.ricursive.com/ripple",
+        "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+      ],
+      "titles": [
+        "消費税引き下げ法案、6日に衆院通過の見通し — 食料品税率を2年間1%へ",
+        "川崎市の幹部職員を逮捕 — 公共工事の予定価格を業者に漏洩した疑い",
+        "高市首相、早期の日米首脳会談を模索 — 中朝ロ接近するトランプ政権への警戒感",
+        "NY株、1500ドル超の急伸 — 米中間選挙終了と原油安が追い風に",
+        "「哲代おばあちゃん」石井哲代さん死去、享年106歳",
+        "Claude Code 2.1.318リリース — クロスアカウントロール対応とサブタスク推論コスト制御が追加",
+        "Claude CodeでGemini APIスクリプトを自動生成し動的実行 — 13エージェント体制のAI処理基盤を構築",
+        "クラウドインフラ市場、2026年Q3は前年比55%増で過去最高 — ネオクラウドがAWSシェアを侵食",
+        "Anthropic Demonstrates Provable LLM Inference Using zkSNARKs — FlashProve Runs at 110 tok/s on Llama 4",
+        "Ripple-65B Preview: US Open-Weight SOTA on Agentic Coding — 80.52 on TerminalBench 2.1",
+        "Moonshot AI Releases Kimi K3.1 Pro Weights — Strong Multilingual Reasoning"
+      ]
+    },
     {
       "run_at": "2026-11-05T05:00:00+09:00",
       "urls": [

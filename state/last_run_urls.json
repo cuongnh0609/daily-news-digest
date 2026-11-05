@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-05T10:00:00+09:00",
+  "last_run_at": "2026-11-05T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-05T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6601409",
+        "https://www.itmedia.co.jp/news/article/2611/05/2000002904/",
+        "https://www.jiji.com/jc/article?k=2026110500182&g=spo&m=rss",
+        "https://news.yahoo.co.jp/pickup/6601418",
+        "https://www.itmedia.co.jp/news/article/2611/05/2000002907/",
+        "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html",
+        "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
+        "https://openai.com/index/openai-to-acquire-pierre/",
+        "https://www.conductor.build/announcement",
+        "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+      ],
+      "titles": [
+        "「黒字リストラ」が日本企業にも拡大か — 人員削減の新潮流と雇用への影響",
+        "ドコモ、全国で通信障害 — 通話・データとも利用困難、「My docomo」も緊急メンテ",
+        "なでしこU-17、FIFA女子ワールドカップ決勝へ — 歴史的快進撃で初の頂点を狙う",
+        "フジテレビ、全ドラマに生成AI導入へ — 2027年10月をめど、「救命病棟24時」で先行実施",
+        "アララへの不正アクセスで複数企業が顧客情報漏洩 — モス・ワークマン・IIJmioなど相次いで公表",
+        "PFN、翻訳特化LLM「PLaMo 3 Translate」を公開 — 0.8〜31Bの4サイズ、オンデバイスにも対応",
+        "OSSのPR文化が変わる？ AI生成PRの氾濫でメンテナーが「受け付けない」と宣言した理由",
+        "OpenAI、「Images 2.6」発表 — 生成速度50%向上、ループGIFアニメ作成も可能に",
+        "OpenAI Acquires Pierre Computer Company — Bet on Agentic Coding Infrastructure",
+        "Conductor Is Joining Meta — Agentic Coding Tool Consolidation Accelerates",
+        "OpenAI: \"A Thousand Fewer Paths to Root\" — Radical Privileged Access Hardening"
+      ]
+    },
     {
       "run_at": "2026-11-05T10:00:00+09:00",
       "urls": [
@@ -60,7 +89,7 @@
       ]
     },
     {
-      "run_at": "2026-11-05T05:00:00+09:00",
+      "run_at": "2026-11-05T00:00:00+09:00",
       "urls": [
         "https://www3.nhk.or.jp/news/html/20261105/k10014673001000.html",
         "https://www.nikkei.com/article/DGXZQOUC050EV0V01C26A1000000/",
@@ -86,35 +115,6 @@
         "Claude Code 1.0.44 Ships Sub-Agent Isolation, Worktree Sandboxing, and Per-Agent Memory Scoping",
         "Pydantic AI v0.0.21 Introduces Typed Agent Graphs — Compile-Time Contract Enforcement for Multi-Agent Systems",
         "τ-bench 1.5 Released — New Real-World Agent Evaluation Suite Exposes Gaps in Tool-Call Reliability Under Adversarial Conditions"
-      ]
-    },
-    {
-      "run_at": "2026-11-05T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601365",
-        "https://news.yahoo.co.jp/pickup/6601361",
-        "https://news.yahoo.co.jp/pickup/6601351",
-        "https://news.yahoo.co.jp/pickup/6601363",
-        "https://news.yahoo.co.jp/pickup/6601344",
-        "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-        "https://zenn.dev/kauche/articles/f3736c660aab77",
-        "https://www.publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html",
-        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-        "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-        "https://news.ycombinator.com/item?id=50363461"
-      ],
-      "titles": [
-        "リニア中央新幹線の工事費、再び増額へ — JR東海が11兆円超で見直し検討",
-        "国税庁の「e-Tax」に不審な通信 — 緊急メンテで一時停止、年末調整シーズンに波紋",
-        "関東で5日朝に警報級の大雨 — 1時間50ミリ、通勤・通学時間帯に直撃のおそれ",
-        "竜王戦の対局中に巨大カメムシ出現 — 仁和寺の僧侶が颯爽と捕獲、藤井竜王も苦笑い",
-        "ガザで児童婚が急増 — 戦闘と貧困が少女たちを追い詰め、深刻な性暴力も",
-        "ISUCON2026で優勝 — 人間ゼロ介入の完全自律AIエージェントが625,857点を叩き出す",
-        "3人のClaude CodeをSlackで連携 — チーム分散エージェント開発でISUCON2026 207,039点",
-        "「GitHub Copilot Dreaming」発表 — 作業履歴からAIへの指示を自動更新、メモリが「夢」を見る",
-        "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation Under Linux Foundation",
-        "PHP2Shell Vulnerability: AI Is Forcing Us to Pay Off 40 Years of Technical Debt in Cybersecurity",
-        "Gemini Trains on Your Chat History Even When You Pay — Personal Google AI Subscribers Not Exempt"
       ]
     },
     {
@@ -231,64 +231,6 @@
         "Postman Silently Auto-Installs AI Plugins and Attempts to Share All API Request Data",
         "OpenAI Appears to Be Silently Re-Enabling Model Training on Codex Chat Sessions",
         "Qwen 3.8 27B Running Locally Can Interpret Neural Network Weights — Weight-Space Programming Spreads Beyond GPT"
-      ]
-    },
-    {
-      "run_at": "2026-11-04T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026110300378&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110300417&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6601234?source=rss",
-        "https://news.yahoo.co.jp/pickup/6601222?source=rss",
-        "https://news.yahoo.co.jp/pickup/6601219?source=rss",
-        "https://zenn.dev/gokigentachiuo/articles/6606034f14da02",
-        "https://zenn.dev/corecode/articles/c13808e71431ec",
-        "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html",
-        "https://www.anthropic.com/news/s1-sec",
-        "https://honnibal.dev/blog/astra-read-write-misleading",
-        "https://momentic.ai/"
-      ],
-      "titles": [
-        "米中間選挙、投票始まる　上下両院の多数派争いが最大の焦点",
-        "憲法はなぜ改正されないか　公布80周年、識者が問い直す",
-        "アソビュー、1500万件超の個人情報流出か　不正アクセスで深刻な被害",
-        "武部農相に新たな献金疑惑　政治資金問題で野党が追及姿勢",
-        "台湾・九份で日本人男性が行方不明　現地当局が捜索を継続",
-        "Claude Code の Hooks 入門：ファイル編集後に自動フォーマットする設定を全公開",
-        "Claude Code の ANTHROPIC_BASE_URL の仕組みと、リレーが本物の Claude か確認する方法",
-        "GitHub、AIエージェント時代に向け従来比180倍のスループット向上へ — GitHub Universe 2026",
-        "Anthropic Files S-1 with the SEC for Proposed IPO, Plans Nasdaq Listing Under \"ANT\"",
-        "\"Astra Can Read and Write Neural Network Weights\" — A Critical Examination",
-        "Launch HN: Momentic — AI Agents That Catch Bugs by Actually Using Your App"
-      ]
-    },
-    {
-      "run_at": "2026-11-03T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026110300379&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110300439&g=spo&m=rss",
-        "https://www.itmedia.co.jp/news/article/2611/03/2000002840/",
-        "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
-        "https://www.jiji.com/jc/article?k=2026110200573&g=pol&m=rss",
-        "https://zenn.dev/marvelousu/articles/deepseek-super-agent-design",
-        "https://zenn.dev/babarot/articles/regomark-adr-checker",
-        "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
-        "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-        "https://openai.com/index/scaling-git-at-openai/",
-        "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/"
-      ],
-      "titles": [
-        "日本・ベトナム間で逮捕情報の相互通報協定を検討、9日の首脳会談で確認へ",
-        "サッカー・アジア杯、来年12月に延期　森保監督が最後の指揮へ",
-        "Apple、第4四半期として過去最高の増収増益　ターナスCEO初の決算「Siriは望んでいたSiriに」",
-        "Marvell、光通信技術のLumentumを約18兆円で買収　AIデータセンター需要に対応",
-        "SNSで揺らぐ表現の自由　偽情報拡散と自主規制の難しさ、識者が警鐘",
-        "DeepSeekが描くAIエージェントの未来像：Router＋Workerアーキテクチャで「スーパーエージェント」を実現",
-        "ADRをregoでlintする：AIが書く「読みづらいADR」をOPA＋LLM判定で自動チェック",
-        "Cloudflare、TypeScriptをRustで再実装した「tsrs」発表　TypeScript 7比で8倍高速・メモリ70%削減",
-        "Ubuntu LTS Kernels Still Unpatched for Critical CVE-2026-98432 After Three Weeks",
-        "Scaling Git at OpenAI: How One of the World's Largest Repositories Stays Fast",
-        "OSINT Trick: Background Aircraft Audio Leaks Exact Video Recording Location via ADS-B Cross-Reference"
       ]
     }
   ]

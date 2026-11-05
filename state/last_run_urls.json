@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-05T15:00:00+09:00",
+  "last_run_at": "2026-11-05T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-05T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6601453",
+        "https://news.yahoo.co.jp/pickup/6601446",
+        "https://news.yahoo.co.jp/pickup/6601450",
+        "https://news.yahoo.co.jp/pickup/6601452",
+        "https://www.itmedia.co.jp/news/article/2611/05/2000002889/",
+        "https://zenn.dev/yunisuta/articles/claude-code-sessionstart-sessionend-2v5are",
+        "https://zenn.dev/tpdd_gm/articles/vscode-chat-instruction-orchestration",
+        "https://www.itmedia.co.jp/news/article/2611/03/2000002831/",
+        "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+        "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+        "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant"
+      ],
+      "titles": [
+        "明日6日、全国的に気温高く各地で夏日の予想 — 11月に入っても記録的な暖かさ続く",
+        "会計検査院、税金の無駄遣いなど1445億円を指摘 — 財政管理の在り方に問題提起",
+        "映画監督の榊英雄被告に実刑判決確定へ — 性的暴行の事案で控訴棄却",
+        "10月就任の横浜市長が療養中 — 就任直後の過労が原因か、公務への影響懸念",
+        "SpaceX、Qualcommと複数年契約締結 — Starlink Mobileの地上5G網を2027年から全米展開へ",
+        "Claude Code × SessionStart/SessionEnd Hooks — セッション間の文脈を自作メモリで引き継ぐ実践",
+        "VS Codeのチャットで複数AIエージェントが分担して働く環境を指示ファイルだけで構築する",
+        "Anthropic、IPO申請書（S-1/A）を修正提出 — 7〜9月売上高は約170億ドルで前年同期比12倍超",
+        "AI Is Forcing Us to Pay Off 40 Years of Technical Debt — The Security Crisis Hidden in Legacy Code",
+        "Datasette-Apps 0.3a0: LLM-Driven In-App Editor Lets Agents Build and Tag Custom Apps Inside Datasette",
+        "GitHub Copilot Is Now Available in Xcode's Coding Assistant — Public Preview for Apple Developers"
+      ]
+    },
     {
       "run_at": "2026-11-05T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "GitHub Copilot Now Available in JetBrains AI IDE \"Air\" — Expanding Agentic Coding Ecosystem",
         "GitHub Copilot Usage API Now Supports BYOK and Enterprise Custom Models",
         "Fujifilm to Boost Tape Storage Production 5× as AI-Driven Archiving Demand Surges"
-      ]
-    },
-    {
-      "run_at": "2026-11-04T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601258?source=rss",
-        "https://news.yahoo.co.jp/pickup/6601259?source=rss",
-        "https://news.yahoo.co.jp/pickup/6601253?source=rss",
-        "https://news.yahoo.co.jp/pickup/6601264?source=rss",
-        "https://news.yahoo.co.jp/pickup/6601251?source=rss",
-        "https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1",
-        "https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude",
-        "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
-        "https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents",
-        "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
-        "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
-      ],
-      "titles": [
-        "自治体システム移行費めぐり公取委が調査へ　独禁法違反の疑い",
-        "トランプ大統領、イスラエルへの年40億ドル軍事支援を年内終了へ",
-        "関東一部で5日朝に警報級大雨のおそれ　気象庁が厳重注意を呼びかけ",
-        "バイナンスから約1兆円窃取、FBI「北朝鮮TraderTraitor」と断定　手口を公表",
-        "マリナーズ、異例の36歳を新監督に抜擢　MLB史上最年少クラスで就任",
-        "Agent DX 〜 AI時代にフレームワークHonoは必要か：AIエージェント向けDXの実測",
-        "AIでPlaywrightテストコードを生成するために調整したこと：Claude活用のQA実践知",
-        "GitHub、高精度AIコードレビュー「Copilot Code Review Max」をパブリックプレビュー公開",
-        "How LangChain Optimized Browser Use for Deep Agents: Stagehand vs. Playwright MCP",
-        "Anthropic Renames \"Claude Max 20x\" to \"Claude Ultra\" — Removes 5-Hour Usage Cap",
-        "US Tech Giants' Hidden AI Debt Swells 90% to $3.2 Trillion in Six Months"
-      ]
-    },
-    {
-      "run_at": "2026-11-04T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601226?source=rss",
-        "https://news.yahoo.co.jp/pickup/6601163?source=rss",
-        "https://news.yahoo.co.jp/pickup/6601233?source=rss",
-        "https://news.yahoo.co.jp/pickup/6601220?source=rss",
-        "https://www.itmedia.co.jp/news/article/2611/03/2000002829/",
-        "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-        "https://zenn.dev/aishift/articles/e761cff4f079cd",
-        "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
-        "https://github.com/postmanlabs/postman-app-support/issues/14370",
-        "https://news.ycombinator.com/item?id=codex-training-thread",
-        "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
-      ],
-      "titles": [
-        "米中間選挙、開票作業が長期化へ　激戦州で集計に遅れ",
-        "ロシア軍、外国人兵士に入れ墨で識別番号を刻む　人権団体が告発",
-        "タイ、輸入電気自動車の物品税を引き上げへ　国内産業保護が目的",
-        "スペイン2部リーグ、試合中に搬送されたFWが死去　心停止で倒れる",
-        "GMOグループへのサイバー攻撃、熊谷代表が責任を認め謝罪会見　被害規模なお調査中",
-        "バイブコーディングで見えてきたClaude Codeの実装パターン——大規模プロジェクトで露呈する「盲点」",
-        "LLMOpsの実践：AIエージェント開発を支えるトレーシング基盤の設計と実装",
-        "GitHub、AIが最適モデルを自動選択する「Copilot Fusion」を正式リリース　コストと性能を両立",
-        "Postman Silently Auto-Installs AI Plugins and Attempts to Share All API Request Data",
-        "OpenAI Appears to Be Silently Re-Enabling Model Training on Codex Chat Sessions",
-        "Qwen 3.8 27B Running Locally Can Interpret Neural Network Weights — Weight-Space Programming Spreads Beyond GPT"
       ]
     }
   ]

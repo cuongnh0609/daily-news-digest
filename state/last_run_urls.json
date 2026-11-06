@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-07T00:00:00+09:00",
+  "last_run_at": "2026-11-07T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-07T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6601587",
+        "https://news.yahoo.co.jp/pickup/6601588",
+        "https://news.yahoo.co.jp/pickup/6601580",
+        "https://www.nikkei.com/article/DGXZQOUA0611T0W6A101C2000000/",
+        "https://www.jiji.com/jc/article?k=2026110600817&g=eco",
+        "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002933/",
+        "https://kn.itmedia.co.jp/kn/article/2611/06/2000002925/",
+        "https://zenn.dev/genda_jp/articles/7b423bcd20b532",
+        "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+        "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+        "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+      ],
+      "titles": [
+        "米10月雇用統計、就業者数16.5万人増で予測上回る — 失業率も低下",
+        "RIZEボーカル・JESSEがコカイン使用疑いで逮捕 — 警視庁が捜査",
+        "KDDI社長、決算会見で2件の問題について謝罪 — 通信障害と料金不正請求",
+        "政府、サイバー攻撃対策に予備費100億円を閣議決定 — AIで脆弱性点検も",
+        "GPIF、2026年7〜9月期の運用結果が5.2兆円の赤字 — 金利上昇と円高が直撃",
+        "エンタープライズSaaSにもバイブコーディングの波 — 三井住友系がReplitで6人半年分を1人1週間に短縮",
+        "デキるプログラマーほど「AI任せ」を嫌う — エージェント型開発のリスクを現役エンジニアが語る",
+        "ClaudeとMagicPod MCPを使いこなす人に「MagicPod」は要るのか — Playwrightとの実践比較レポート",
+        "Google Releases Gemini Omni 1.2 Flash — Multimodal AI with Native Audio/Video Understanding",
+        "Perplexity Launches \"Teammates\" — Persistent AI Agents for Complex, Ongoing Work Tasks",
+        "Qwen 3.8 27B Running Locally Can Interpret Its Own Model Weights — Simon Willison Documents the Demo"
+      ]
+    },
     {
       "run_at": "2026-11-07T00:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "AI Is Forcing Us to Pay Off 40 Years of Technical Debt — The Security Crisis Hidden in Legacy Code",
         "Datasette-Apps 0.3a0: LLM-Driven In-App Editor Lets Agents Build and Tag Custom Apps Inside Datasette",
         "GitHub Copilot Is Now Available in Xcode's Coding Assistant — Public Preview for Apple Developers"
-      ]
-    },
-    {
-      "run_at": "2026-11-05T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601409",
-        "https://www.itmedia.co.jp/news/article/2611/05/2000002904/",
-        "https://www.jiji.com/jc/article?k=2026110500182&g=spo&m=rss",
-        "https://news.yahoo.co.jp/pickup/6601418",
-        "https://www.itmedia.co.jp/news/article/2611/05/2000002907/",
-        "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html",
-        "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
-        "https://openai.com/index/openai-to-acquire-pierre/",
-        "https://www.conductor.build/announcement",
-        "https://openai.com/index/a-thousand-fewer-paths-to-root/"
-      ],
-      "titles": [
-        "「黒字リストラ」が日本企業にも拡大か — 人員削減の新潮流と雇用への影響",
-        "ドコモ、全国で通信障害 — 通話・データとも利用困難、「My docomo」も緊急メンテ",
-        "なでしこU-17、FIFA女子ワールドカップ決勝へ — 歴史的快進撃で初の頂点を狙う",
-        "フジテレビ、全ドラマに生成AI導入へ — 2027年10月をめど、「救命病棟24時」で先行実施",
-        "アララへの不正アクセスで複数企業が顧客情報漏洩 — モス・ワークマン・IIJmioなど相次いで公表",
-        "PFN、翻訳特化LLM「PLaMo 3 Translate」を公開 — 0.8〜31Bの4サイズ、オンデバイスにも対応",
-        "OSSのPR文化が変わる？ AI生成PRの氾濫でメンテナーが「受け付けない」と宣言した理由",
-        "OpenAI、「Images 2.6」発表 — 生成速度50%向上、ループGIFアニメ作成も可能に",
-        "OpenAI Acquires Pierre Computer Company — Bet on Agentic Coding Infrastructure",
-        "Conductor Is Joining Meta — Agentic Coding Tool Consolidation Accelerates",
-        "OpenAI: \"A Thousand Fewer Paths to Root\" — Radical Privileged Access Hardening"
-      ]
-    },
-    {
-      "run_at": "2026-11-05T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601376",
-        "https://news.yahoo.co.jp/pickup/6601377",
-        "https://www.jiji.com/jc/article?k=2026110401033&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110500182&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6601381",
-        "https://zenn.dev/laiken/articles/20261105-tech-watch",
-        "https://zenn.dev/ikuokuotiak/articles/claude-gemini-script-generation-dynamic-execution",
-        "https://www.publickey1.jp/blog/26/aws26google_cloud1620263synergy_research.html",
-        "https://www.anthropic.com/research/provable-inference",
-        "https://www.ricursive.com/ripple",
-        "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
-      ],
-      "titles": [
-        "消費税引き下げ法案、6日に衆院通過の見通し — 食料品税率を2年間1%へ",
-        "川崎市の幹部職員を逮捕 — 公共工事の予定価格を業者に漏洩した疑い",
-        "高市首相、早期の日米首脳会談を模索 — 中朝ロ接近するトランプ政権への警戒感",
-        "NY株、1500ドル超の急伸 — 米中間選挙終了と原油安が追い風に",
-        "「哲代おばあちゃん」石井哲代さん死去、享年106歳",
-        "Claude Code 2.1.318リリース — クロスアカウントロール対応とサブタスク推論コスト制御が追加",
-        "Claude CodeでGemini APIスクリプトを自動生成し動的実行 — 13エージェント体制のAI処理基盤を構築",
-        "クラウドインフラ市場、2026年Q3は前年比55%増で過去最高 — ネオクラウドがAWSシェアを侵食",
-        "Anthropic Demonstrates Provable LLM Inference Using zkSNARKs — FlashProve Runs at 110 tok/s on Llama 4",
-        "Ripple-65B Preview: US Open-Weight SOTA on Agentic Coding — 80.52 on TerminalBench 2.1",
-        "Moonshot AI Releases Kimi K3.1 Pro Weights — Strong Multilingual Reasoning"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-06T15:00:00+09:00",
+  "last_run_at": "2026-11-06T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-06T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6601562",
+        "https://news.yahoo.co.jp/pickup/6601546",
+        "https://news.yahoo.co.jp/pickup/6601535",
+        "https://news.yahoo.co.jp/pickup/6601548",
+        "https://news.yahoo.co.jp/pickup/6601557",
+        "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002933/",
+        "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
+        "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
+        "https://www.itmedia.co.jp/news/article/2611/06/2000002899/",
+        "https://www.itmedia.co.jp/news/article/2611/06/2000002939/",
+        "https://simonwillison.net/2026/Nov/3/datasette-agent/"
+      ],
+      "titles": [
+        "全国の信用金庫で大規模システム障害、ATM・ネットバンキングが一時停止",
+        "中間選挙ショック、日経平均が一時4000円超の急落 — 世界的な株安連鎖に",
+        "食料品消費税減税法案が衆院本会議で可決、石破前首相ら自民4議員は採決に退席",
+        "破産手続き中の決済会社「全東信」、代表取締役が10月に死去していたことが判明",
+        "内閣府調査：アイヌ文化発信拠点「ウポポイ」の認知度は27.5%、訪問意欲は45%",
+        "エンタープライズ向けバイブコーディング実践 — SFを使ったSaaS顧客カスタマイズで6人・半年分を1人・1週間に",
+        "バイブコーディングで見えてきたClaude Codeの「実装クセ」— コンテキスト不足が引き起こすコード品質の問題",
+        "GitHub「Copilot Code Review Max」がパブリックプレビューへ — 複数AIが並列レビューし集約エージェントが調整",
+        "Harvard/Andon Labs Study: AI Agents Left to Maximize Profit Alone Will Engage in Corporate Fraud",
+        "Meta Muse Gets Realtime Voice and Avatar — Personal AI Agent Now Talks Back with Expressions",
+        "datasette-agent 0.5a0: LLM Agent Now Has a Persistent Side Panel That Builds Apps Inside Datasette"
+      ]
+    },
     {
       "run_at": "2026-11-06T15:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "Anthropic Demonstrates Provable LLM Inference Using zkSNARKs — FlashProve Runs at 110 tok/s on Llama 4",
         "Ripple-65B Preview: US Open-Weight SOTA on Agentic Coding — 80.52 on TerminalBench 2.1",
         "Moonshot AI Releases Kimi K3.1 Pro Weights — Strong Multilingual Reasoning"
-      ]
-    },
-    {
-      "run_at": "2026-11-05T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601349",
-        "https://news.yahoo.co.jp/pickup/6601322",
-        "https://news.yahoo.co.jp/pickup/6601357",
-        "https://news.yahoo.co.jp/pickup/6601358",
-        "https://www.itmedia.co.jp/news/article/2611/04/2000002884/",
-        "https://zenn.dev/haruto_miyakawa/articles/claude-code-transcript-cost-pitfalls",
-        "https://zenn.dev/shirochan/articles/7b6f7bb878fe68",
-        "https://www.publickey1.jp/blog/26/github2typescriptrustosscc_switchomarchygithub_octoverse_2026.html",
-        "https://www.anthropic.com/news/claude-haiku-5-5",
-        "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-        "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
-      ],
-      "titles": [
-        "高市首相、COP31欠席の見通し — 国内政務を優先、気候外交に課題",
-        "財務省、特定健診・保健指導の支援見直しを提言 — 自治体格差解消が焦点",
-        "沖縄・米海兵隊員が訓練中に死亡 — 訓練内容や原因を米軍が調査中",
-        "無痛分娩に対応する施設は全国の約6割 — 普及格差と費用負担が課題",
-        "中国製Android端末130万台超にバックドア — Googleが取引停止・犯罪利用の疑い",
-        "Claude Code の会話履歴からコストを正確に計測するときにはまった4つの落とし穴",
-        "Claude Code で理解する「ハーネス」入門 — エージェントの暴走を防ぐ制御レイヤーの設計と実践",
-        "GitHub Octoverse 2026：TypeScriptが2年連続首位、AIエージェントが起点のPRが急増",
-        "Introducing Claude Haiku 5.5 — Anthropic's Fastest Model Now With Extended Thinking",
-        "Nvidia RTX Spark Encrypted Firmware Throttles Linux Inference to 35% — A Costly Surprise",
-        "North Korean Fake Job Interview Social Engineering Led to $6.3B Binance Heist"
-      ]
-    },
-    {
-      "run_at": "2026-11-05T00:00:00+09:00",
-      "urls": [
-        "https://www3.nhk.or.jp/news/html/20261105/k10014673001000.html",
-        "https://www.nikkei.com/article/DGXZQOUC050EV0V01C26A1000000/",
-        "https://www.jiji.com/jc/article?k=2026110500089&g=pol",
-        "https://news.yahoo.co.jp/pickup/6601399",
-        "https://www3.nhk.or.jp/news/html/20261105/k10014673501000.html",
-        "https://zenn.dev/langchain_jp/articles/langgraph-v04-release-notes",
-        "https://qiita.com/spec_first_dev/items/agents-md-spec-driven-workflow",
-        "https://zenn.dev/sec_ai_dev/articles/mcp-server-security-design",
-        "https://docs.anthropic.com/en/release-notes/claude-code",
-        "https://github.com/pydantic/pydantic-ai/releases/tag/v0.0.21",
-        "https://github.com/princeton-nlp/tau-bench"
-      ],
-      "titles": [
-        "衆院予算委、石破首相が財政再建と防衛増税の「両立」を明言 — 野党は具体策を追及",
-        "トヨタ・ホンダ・日産が共同で次世代EV電池リサイクル拠点を設立へ — 2028年稼働目標",
-        "日米首脳会談、11月中旬にワシントンで開催へ — 関税問題・安保協力を協議",
-        "大阪・関西万博、開幕から1カ月で入場者数100万人を突破 — 外国人来場が想定超え",
-        "能登半島豪雨復旧、仮設住宅の整備が遅延 — 被災者から不安の声、冬を前に行政に強い批判",
-        "LangGraph v0.4リリース — ステートフルなマルチエージェント実行ループとCheckpointストリーミングAPIが刷新",
-        "AGENTS.mdとSPEC.mdで「AIエージェント作業契約」を明文化する実践——Spec-First開発の国内事例",
-        "MCPサーバーのセキュリティ設計入門——ツール呼び出し検証とプロンプトインジェクション対策の実装パターン",
-        "Claude Code 1.0.44 Ships Sub-Agent Isolation, Worktree Sandboxing, and Per-Agent Memory Scoping",
-        "Pydantic AI v0.0.21 Introduces Typed Agent Graphs — Compile-Time Contract Enforcement for Multi-Agent Systems",
-        "τ-bench 1.5 Released — New Real-World Agent Evaluation Suite Exposes Gaps in Tool-Call Reliability Under Adversarial Conditions"
-      ]
-    },
-    {
-      "run_at": "2026-11-04T20:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026110400698&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110400997&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6601331",
-        "https://news.yahoo.co.jp/pickup/6601325",
-        "https://news.yahoo.co.jp/pickup/6601336",
-        "https://www.itmedia.co.jp/news/article/2611/04/2000002764/",
-        "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-        "https://www.itmedia.co.jp/news/article/2611/04/2000002855/",
-        "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-        "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-        "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/"
-      ],
-      "titles": [
-        "米中間選挙、共和大敗　民主、上下両院で多数派奪還　トランプ政権の求心力低下が鮮明に",
-        "台風31号、小笠原西方を北上中　関東甲信で激しい雨の恐れ、気象庁が警戒呼びかけ",
-        "無印良品「MUJI Card」、クレカ番号ほぼ全件・約109万件が漏えいか",
-        "運転免許証画像の漏えいでSNS悪用詐欺が急増　なりすまし口座開設に使われる事例も",
-        "養殖カンパチ26万8,000匹が大量死　九州南部で水温異常か、漁業者に深刻な打撃",
-        "「議事録も資料もAIが作るなら、人間は何をする？」AIエージェントデバイス「Plaud」で試みる会議の再定義",
-        "OpenCode + Docker + GitHub Actionsで全自動AIペネトレーションテスト",
-        "Apple、刷新版「Siri AI」をすべての開発者に解放　App Intent連携でサードパーティアプリ内エージェントが可能に",
-        "Dependabot Now Tracks and Auto-Updates Agent Skills via Agent Package Manager (APM) Support",
-        "Figma Trains Its Own Design-Editing Model on Qwen 3.8 27B with RL — An Agentic Architecture Case Study",
-        "Octoverse 2026: Agent-Started Pull Requests Cross 40% of All PRs — The Agentic Inflection Point is Here"
       ]
     }
   ]

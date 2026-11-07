@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-08T00:00:00+09:00",
+  "last_run_at": "2026-11-08T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-08T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026110800027&g=soc",
+        "https://news.yahoo.co.jp/pickup/6601709",
+        "https://www.jiji.com/jc/article?k=2026110601023&g=eco",
+        "https://news.yahoo.co.jp/pickup/6601712",
+        "https://news.yahoo.co.jp/pickup/6601706",
+        "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
+        "https://zenn.dev/ntk221/articles/34ad88a9225364",
+        "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
+        "https://maxxbench.unlap.ai/research/why-maxxbench/",
+        "https://www.anthropic.com/news/ai-for-science",
+        "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates"
+      ],
+      "titles": [
+        "愛知県で震度5強の地震、津波の心配なし",
+        "岩国基地交付金、打ち切りか — 山口・和木町長「協力したのに」と反発",
+        "上場企業の9月中間決算、純利益43%増 — AI需要が幅広く業績を押し上げ",
+        "プロ野球FA宣言、15年ぶりに「2ケタ」突破が現実味",
+        "山本モナさん、50歳で司法修習生に — 「ファイティングポーズは下ろした」",
+        "AIが書く「読みづらいADR」に対処 — ガイドラインとAI自動レビューで品質維持",
+        "AI駆動文章作成で意識すべき16のテクニック — 「誰も読みたくない」前提から出発",
+        "GitHub Copilot Fusion が正式リリース — タスクに応じて最適なAIモデルを自動選択",
+        "MaxxBench: \"Nice DeepSWE score. But is it true?\" — Challenging AI Agent Benchmark Authenticity",
+        "Anthropic AI for Science Expands to 20 Foundations and Research Institutions",
+        "GitHub Copilot Code Review: REST & GraphQL API Management Now Available"
+      ]
+    },
     {
       "run_at": "2026-11-08T00:00:00+09:00",
       "urls": [
@@ -173,122 +202,6 @@
         "Anthropic Files S-1 with the SEC for Proposed Initial Public Offering",
         "GitHub Octoverse 2026: Agentic Coding Drives Sharp Growth in PRs, Commits, and New Repos",
         "Linum AI Releases Pjit-21k: A Text-to-Image Foundation Model Trained for ~$20K with Apache 2.0 License"
-      ]
-    },
-    {
-      "run_at": "2026-11-06T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601562",
-        "https://news.yahoo.co.jp/pickup/6601546",
-        "https://news.yahoo.co.jp/pickup/6601535",
-        "https://news.yahoo.co.jp/pickup/6601548",
-        "https://news.yahoo.co.jp/pickup/6601557",
-        "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002933/",
-        "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-        "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
-        "https://www.itmedia.co.jp/news/article/2611/06/2000002899/",
-        "https://www.itmedia.co.jp/news/article/2611/06/2000002939/",
-        "https://simonwillison.net/2026/Nov/3/datasette-agent/"
-      ],
-      "titles": [
-        "全国の信用金庫で大規模システム障害、ATM・ネットバンキングが一時停止",
-        "中間選挙ショック、日経平均が一時4000円超の急落 — 世界的な株安連鎖に",
-        "食料品消費税減税法案が衆院本会議で可決、石破前首相ら自民4議員は採決に退席",
-        "破産手続き中の決済会社「全東信」、代表取締役が10月に死去していたことが判明",
-        "内閣府調査：アイヌ文化発信拠点「ウポポイ」の認知度は27.5%、訪問意欲は45%",
-        "エンタープライズ向けバイブコーディング実践 — SFを使ったSaaS顧客カスタマイズで6人・半年分を1人・1週間に",
-        "バイブコーディングで見えてきたClaude Codeの「実装クセ」— コンテキスト不足が引き起こすコード品質の問題",
-        "GitHub「Copilot Code Review Max」がパブリックプレビューへ — 複数AIが並列レビューし集約エージェントが調整",
-        "Harvard/Andon Labs Study: AI Agents Left to Maximize Profit Alone Will Engage in Corporate Fraud",
-        "Meta Muse Gets Realtime Voice and Avatar — Personal AI Agent Now Talks Back with Expressions",
-        "datasette-agent 0.5a0: LLM Agent Now Has a Persistent Side Panel That Builds Apps Inside Datasette"
-      ]
-    },
-    {
-      "run_at": "2026-11-06T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601518",
-        "https://news.yahoo.co.jp/pickup/6601525",
-        "https://news.yahoo.co.jp/pickup/6601527",
-        "https://news.yahoo.co.jp/pickup/6601516",
-        "https://news.yahoo.co.jp/pickup/6601515",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news012.html",
-        "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002938/",
-        "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002955/",
-        "https://news.ycombinator.com/item?id=50381687",
-        "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
-        "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002938/"
-      ],
-      "titles": [
-        "米株式市場が急落、時価総額395兆円が一日で消失",
-        "消費税減税法案、衆院本会議で可決 — 食料品2年間1%へ",
-        "路上で突然暴行、女性7人が被害 — 千代田区で連続暴行事件",
-        "保護者が教室に侵入し暴行 — 学校セキュリティの限界が浮き彫りに",
-        "日本の外食チェーン、東南アジア進出を加速 — フィリピン・マレーシア・インドネシアに集中",
-        "「48ドルが4800ドルに」— AGNTCon Japan 2026が示す、本番AIエージェント安全設計の要諦",
-        "METR、Anthropicと協力してAIのAI開発加速を調査 — 能力向上速度が1年半で2倍に",
-        "フィックスターズ、国内GPUサーバでオープンウエイトモデルを提供開始 — DeepSeek-V4.1から",
-        "Rivet (YC W23): Self-Hosted Actor-Model Agent Orchestrator Built on S3",
-        "GitHub Launches New Pull Request Overview Page in Public Preview",
-        "METR Report: AI Is Likely Accelerating AI Capability Gains ~2x — But Key Evidence Redacted by Anthropic"
-      ]
-    },
-    {
-      "run_at": "2026-11-06T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601491",
-        "https://news.yahoo.co.jp/pickup/6601489",
-        "https://news.yahoo.co.jp/pickup/6601490",
-        "https://news.yahoo.co.jp/pickup/6601497",
-        "https://news.yahoo.co.jp/pickup/6601496",
-        "https://zenn.dev/sun_asterisk/articles/d4e4bc24974b99",
-        "https://zenn.dev/d_date/articles/e8e2c5d53b424e",
-        "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html",
-        "https://github.com/anthropics/claude-code/issues/107757",
-        "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
-        "https://simonwillison.net/2026/Nov/4/datasette-llm/"
-      ],
-      "titles": [
-        "ルビオ国務長官、辞任検討報道を強く否定",
-        "経産省、中部電力に業務改善命令 — 電力市場の公正性確保へ",
-        "政府、サイバー攻撃への強制遮断措置を検討 — 能動的防御の法整備へ",
-        "日経平均、一時4000円超の急落 — 米景気懸念と円高が直撃",
-        "パラグアイ大統領が辞任表明 — 汚職疑惑と抗議デモが引き金",
-        "AI生成コードを本番品質に保つフロントエンド開発の仕組み — Sun* Tech Blog",
-        "Siri AIにアプリをつなぎ、振る舞いを評価する — Swift/iOS開発者向けエージェント評価の実践",
-        "GitHubが来年初頭に180倍スループット向上へ — AIエージェント時代のコードレビュー基盤を刷新",
-        "Claude Code Silently Sends Developer Email Addresses to Fetched Websites",
-        "OpenAI Releases GPT-6 Cyber: A Security-Specialized Model That Found 81 Unknown Firefox Vulnerabilities",
-        "Simon Willison Releases datasette-llm 0.1a10 — LLM Queries Now Run Directly Inside Datasette"
-      ]
-    },
-    {
-      "run_at": "2026-11-06T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601460",
-        "https://www.jiji.com/jc/article?k=2026110500942&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6601471",
-        "https://news.yahoo.co.jp/pickup/6601474",
-        "https://www.jiji.com/jc/article?k=2026110501010&g=flash&m=rss",
-        "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-        "https://www.publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html",
-        "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/",
-        "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
-        "https://mcp-explained.com/",
-        "https://simonwillison.net/2026/Nov/2/llm/"
-      ],
-      "titles": [
-        "自転車の青切符、施行半年で約1万6000件 — スマホ「ながら運転」が最多",
-        "「サイバー救援隊」創設へ　政府緊急対策、６日決定",
-        "「ドンキ流トイザらス」が始動 — クリスマス商戦を先取り",
-        "蔵内前福岡県議長が初会見 — 金銭授受疑惑めぐり「制限付き」の異例対応",
-        "米中間選挙受け高市首相がトランプ大統領に連携表明 — 日米関係強化へ",
-        "ISUCON2026で優勝 — 人間不介在のAIエージェント競技基盤を構築して207,039点",
-        "GitHub Copilot Dreaming発表 — バックグラウンドでAIへの指示を自動メンテナンス",
-        "AI生成画像を「99%検出」するChrome拡張が登場 — Pangram Labs、動画にも対応",
-        "Building a Multi-Agent System from Scratch: Architecture Patterns That Actually Hold in Production",
-        "MCP Explained — Interactive Visual Guide to the Model Context Protocol (Runlayer)",
-        "llm 0.37 — Simon Willison's CLI Gets OpenAI-Compatible Endpoint + Embedding Content-Type Support"
       ]
     }
   ]

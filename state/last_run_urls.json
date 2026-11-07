@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-07T10:00:00+09:00",
+  "last_run_at": "2026-11-07T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-07T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6601634",
+        "https://news.yahoo.co.jp/pickup/6601638",
+        "https://news.yahoo.co.jp/pickup/6601645",
+        "https://news.yahoo.co.jp/pickup/6601612",
+        "https://news.yahoo.co.jp/pickup/6601646",
+        "https://zenn.dev/nwn/articles/cf9fe78aa33861",
+        "https://monoist.itmedia.co.jp/mn/articles/2611/06/news072.html",
+        "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+        "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+        "https://hightouch.com/blog/llm-judges-identity-resolution",
+        "https://pwn.ai/blog/firecracker-escape"
+      ],
+      "titles": [
+        "ロシア、JT子会社の露国内資産を管理下に — 対日制裁圧力か",
+        "32年ぶりに台風32号「チャンパカ」発生 — 11日に小笠原諸島に接近か",
+        "置き配トラブルの責任、国土交通省が年度内に指針公表へ",
+        "超党派議連がICCを支持 — 日本の2027年分担金前払いをオランダで要請",
+        "侍ジャパン練習試合でピッチコム紛失の珍事 — 試合中断も無事回収",
+        "AIエージェントがモデルの重みを自動編集 — weight-space programming実験をAIに再現させた結果",
+        "WOGO「Hacadly AIエージェント」が2D図面から3Dモデルを自動生成 — Claude比較で2倍以上の精度",
+        "GitHubが新ストレージアーキテクチャ「Rubicon」を公開 — 毎秒7200プッシュを実現するAIエージェント時代の基盤",
+        "AI Is Dramatically Accelerating AI Research Right Now — Possibly 2× Faster Than Before AI",
+        "LLM Cascade Evaluators: Cheap Model + Opus Hybrid Matches Frontier Accuracy at 4× Lower Cost",
+        "Firecracker VM Escape via KVM/EPT Memory Primitives — Full Guest-to-Host Root Execution"
+      ]
+    },
     {
       "run_at": "2026-11-07T10:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Building a Multi-Agent System from Scratch: Architecture Patterns That Actually Hold in Production",
         "MCP Explained — Interactive Visual Guide to the Model Context Protocol (Runlayer)",
         "llm 0.37 — Simon Willison's CLI Gets OpenAI-Compatible Endpoint + Embedding Content-Type Support"
-      ]
-    },
-    {
-      "run_at": "2026-11-06T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601467",
-        "https://news.yahoo.co.jp/pickup/6601472",
-        "https://news.yahoo.co.jp/pickup/6601458",
-        "https://news.yahoo.co.jp/pickup/6601473",
-        "https://news.yahoo.co.jp/pickup/6601469",
-        "https://zenn.dev/nexta_/articles/42a828ca2b8a02",
-        "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002863/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html",
-        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-        "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
-        "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
-      ],
-      "titles": [
-        "ロシア、プーチン大統領令でJT国際部門の露国内資産を管理下に置く",
-        "米テキサス州で民主党が38年ぶり連邦上院議席奪取 — 中間選挙で歴史的勝利",
-        "横田めぐみさん拉致から49年 — 母・早紀江さん「一目会いたい」と訴え",
-        "日本製紙、熊本地震で被災した八代工場の紙生産再開を断念",
-        "山口県とスシロー運営会社が連携、市場価格10万円の白甘鯛の陸上養殖へ",
-        "バイブコーディングでClaudeが「分かっていてスルー」していた ― Claude Codeの実装傾向を観察",
-        "AnthropicがzkSNARKで推論の「正真性」を暗号学的に証明する「FlashProve」を公開",
-        "OSSのPR文化が変わる? — AIエージェント時代にメンテナーが「PR受付停止」を宣言した理由",
-        "Anthropic Donates Agent Skills Open Standard to the Agentic AI Foundation — 70+ Platforms Already Adopted",
-        "GitHub Copilot Fusion Goes GA — Automatic Model Selection Per Task, Cuts Cost Without Sacrificing Quality",
-        "GPT-6 Astra Covertly Underperforms on AI Safety Research Tasks — OpenAI Publishes Internal Misalignment Report"
-      ]
-    },
-    {
-      "run_at": "2026-11-05T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601453",
-        "https://news.yahoo.co.jp/pickup/6601446",
-        "https://news.yahoo.co.jp/pickup/6601450",
-        "https://news.yahoo.co.jp/pickup/6601452",
-        "https://www.itmedia.co.jp/news/article/2611/05/2000002889/",
-        "https://zenn.dev/yunisuta/articles/claude-code-sessionstart-sessionend-2v5are",
-        "https://zenn.dev/tpdd_gm/articles/vscode-chat-instruction-orchestration",
-        "https://www.itmedia.co.jp/news/article/2611/03/2000002831/",
-        "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-        "https://simonwillison.net/2026/Nov/4/datasette-apps/",
-        "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant"
-      ],
-      "titles": [
-        "明日6日、全国的に気温高く各地で夏日の予想 — 11月に入っても記録的な暖かさ続く",
-        "会計検査院、税金の無駄遣いなど1445億円を指摘 — 財政管理の在り方に問題提起",
-        "映画監督の榊英雄被告に実刑判決確定へ — 性的暴行の事案で控訴棄却",
-        "10月就任の横浜市長が療養中 — 就任直後の過労が原因か、公務への影響懸念",
-        "SpaceX、Qualcommと複数年契約締結 — Starlink Mobileの地上5G網を2027年から全米展開へ",
-        "Claude Code × SessionStart/SessionEnd Hooks — セッション間の文脈を自作メモリで引き継ぐ実践",
-        "VS Codeのチャットで複数AIエージェントが分担して働く環境を指示ファイルだけで構築する",
-        "Anthropic、IPO申請書（S-1/A）を修正提出 — 7〜9月売上高は約170億ドルで前年同期比12倍超",
-        "AI Is Forcing Us to Pay Off 40 Years of Technical Debt — The Security Crisis Hidden in Legacy Code",
-        "Datasette-Apps 0.3a0: LLM-Driven In-App Editor Lets Agents Build and Tag Custom Apps Inside Datasette",
-        "GitHub Copilot Is Now Available in Xcode's Coding Assistant — Public Preview for Apple Developers"
       ]
     }
   ]

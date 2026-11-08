@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-08T10:00:00+09:00",
+  "last_run_at": "2026-11-08T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-08T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6601782",
+        "https://news.yahoo.co.jp/pickup/6601779",
+        "https://news.yahoo.co.jp/pickup/6601775",
+        "https://news.yahoo.co.jp/pickup/6601787",
+        "https://news.yahoo.co.jp/pickup/6601783",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+        "https://zenn.dev/kingyosun/articles/kukuri-ai-dev",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news012.html",
+        "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "https://hunch.net/?p=13764006",
+        "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner"
+      ],
+      "titles": [
+        "自民党、消費減税採決での棄権議員4名に党紀処分を検討",
+        "ロシアの衛星、軍事利用が開始か — ウクライナ側が警戒強める",
+        "ガザで豪雨、避難民のテントが浸水 — 人道危機がさらに深刻化",
+        "個人情報「手放す」企業が相次ぐ — データ管理のリスクを外部委託で回避へ",
+        "増える遺産相続トラブル — 核家族化と高齢化が生む「争続」の実態",
+        "マルチエージェント設計「15のパターン」— GitHub・Google・Siemensの知見を体系的に整理",
+        "意思決定だけで週100コミット積むAI開発手法 — エージェントへの指示最適化で実現",
+        "「48ドルの返金が4800ドルに」— AIエージェントの暴走を防ぐ本番運用の勘所",
+        "Claude Code's \"Don't Ask Again\" Feature Leaks Secrets Across 1,122 Public GitHub Repos",
+        "Microsoft Research Closes AI Frontiers Lab — 200+ Researchers Reassigned as AI Strategy Shifts",
+        "GitHub Secret Scanning Adds SpaceX as Detection Partner, Upgrades 15 Detectors"
+      ]
+    },
     {
       "run_at": "2026-11-08T10:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Replit Rebuilds Sandbox Engine with microVMs — Agent-Native Infrastructure for Safe Code Execution",
         "GitHub Copilot in Slack and Microsoft Teams Goes Generally Available",
         "Simon Willison: Building a Persistent Multiplayer World with Autonomous Fable-Class AI Agents"
-      ]
-    },
-    {
-      "run_at": "2026-11-07T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601587",
-        "https://news.yahoo.co.jp/pickup/6601588",
-        "https://news.yahoo.co.jp/pickup/6601580",
-        "https://www.nikkei.com/article/DGXZQOUA0611T0W6A101C2000000/",
-        "https://www.jiji.com/jc/article?k=2026110600817&g=eco",
-        "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002933/",
-        "https://kn.itmedia.co.jp/kn/article/2611/06/2000002925/",
-        "https://zenn.dev/genda_jp/articles/7b423bcd20b532",
-        "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-        "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-        "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
-      ],
-      "titles": [
-        "米10月雇用統計、就業者数16.5万人増で予測上回る — 失業率も低下",
-        "RIZEボーカル・JESSEがコカイン使用疑いで逮捕 — 警視庁が捜査",
-        "KDDI社長、決算会見で2件の問題について謝罪 — 通信障害と料金不正請求",
-        "政府、サイバー攻撃対策に予備費100億円を閣議決定 — AIで脆弱性点検も",
-        "GPIF、2026年7〜9月期の運用結果が5.2兆円の赤字 — 金利上昇と円高が直撃",
-        "エンタープライズSaaSにもバイブコーディングの波 — 三井住友系がReplitで6人半年分を1人1週間に短縮",
-        "デキるプログラマーほど「AI任せ」を嫌う — エージェント型開発のリスクを現役エンジニアが語る",
-        "ClaudeとMagicPod MCPを使いこなす人に「MagicPod」は要るのか — Playwrightとの実践比較レポート",
-        "Google Releases Gemini Omni 1.2 Flash — Multimodal AI with Native Audio/Video Understanding",
-        "Perplexity Launches \"Teammates\" — Persistent AI Agents for Complex, Ongoing Work Tasks",
-        "Qwen 3.8 27B Running Locally Can Interpret Its Own Model Weights — Simon Willison Documents the Demo"
-      ]
-    },
-    {
-      "run_at": "2026-11-07T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601568",
-        "https://news.yahoo.co.jp/pickup/6601586",
-        "https://news.yahoo.co.jp/pickup/6601566",
-        "https://news.yahoo.co.jp/pickup/6601583",
-        "https://news.yahoo.co.jp/pickup/6601584",
-        "https://zenn.dev/ruri/articles/code-as-spec",
-        "https://qiita.com/Syoitu/items/9364a0a175893bb15219",
-        "https://zenn.dev/salt2/articles/2b6e403e059b10",
-        "https://www.anthropic.com/news/s1-sec",
-        "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
-        "https://www.linum.ai/field-notes/pjit-21k"
-      ],
-      "titles": [
-        "消費税法案採決で石破元首相ら自民4議員が退席、岸田首相はコメントを控える",
-        "自衛隊戦車の「暴発」事故、砲身内の残留砲弾が原因か — 4月に発生した事案を再調査",
-        "NTTドコモ、不正アクセスによる情報流出の対象者に見舞金の支払いを検討",
-        "池袋女性刺殺事件、容疑者の死亡により不起訴処分に — 遺族に衝撃広がる",
-        "久邇邦昭氏が逝去 — 上皇陛下のいとこ、旧皇族として文化活動に尽力",
-        "「code as spec」— 仕様書として機能するコードを書くことでAIとの協働を最適化する新アプローチ",
-        "AI駆動開発の次段階「ソフトウェアファクトリー」— AWS・GitHub連携でエージェントが並列開発する未来像",
-        "Claude CodeでPremiere Proを290回自動操作 — 53分のPodcastを全自動編集",
-        "Anthropic Files S-1 with the SEC for Proposed Initial Public Offering",
-        "GitHub Octoverse 2026: Agentic Coding Drives Sharp Growth in PRs, Commits, and New Repos",
-        "Linum AI Releases Pjit-21k: A Text-to-Image Foundation Model Trained for ~$20K with Apache 2.0 License"
       ]
     }
   ]

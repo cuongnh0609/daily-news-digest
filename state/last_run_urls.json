@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-08T15:00:00+09:00",
+  "last_run_at": "2026-11-08T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-08T20:00:00+09:00",
+      "urls": [
+        "https://news.web.nhk.or.jp/newsweb/genre/politics",
+        "https://www.itmedia.co.jp/news/subtop/security/",
+        "https://news.web.nhk.or.jp/newsweb/",
+        "https://news.yahoo.co.jp/pickup/6601792",
+        "https://news.yahoo.co.jp/pickup/6601790",
+        "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
+        "https://zenn.dev/genda_jp/articles/7b423bcd20b532",
+        "https://www.publickey1.jp/blog/26/github2typescriptrustosscc_switchomarchygithub_octoverse_2026.html",
+        "https://www.anthropic.com/news/s1-sec",
+        "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+        "https://www.itmedia.co.jp/news/article/2611/06/2000002931/"
+      ],
+      "titles": [
+        "消費税減税法案が衆院を通過 — 参院での合意形成が最大の焦点に",
+        "個人情報漏洩ラッシュ — ビックカメラ1490万件、アソビュー1582万件など複数社が同時期に被害発表",
+        "高市首相、北朝鮮との対話に意欲 — 拉致問題解決へキム総書記との直接交渉を検討",
+        "台風32号が強い勢力を保ちながら小笠原諸島に接近か — 11日にかけ警戒が必要",
+        "Perfumeのっち&渋谷謙人が結婚を発表 — 同日に事務所通じて報告",
+        "バイブコーディングで機能を継ぎ足し続けて見えてきたClaude Codeの実装のクセ",
+        "Claudeを使いこなす人に、MagicPodは要るのか — 未知のアプリでPlaywrightと比較した記録",
+        "GitHub Octoverse 2026：TypeScriptが2年連続で最多利用言語に — MCP関連リポジトリが急成長",
+        "Anthropic Files S-1 with the SEC — Proposed IPO on Nasdaq Under Symbol \"ANT\"",
+        "Qwen 3.8 27B Running Locally Can Identify Neural Network Weights Without Tools",
+        "OpenAI Launches GPT-6 Cyber — Security-Specialized AI Discovers 81 Unknown Firefox Vulnerabilities"
+      ]
+    },
     {
       "run_at": "2026-11-08T15:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "AI Is Dramatically Accelerating AI Research Right Now — Possibly 2× Faster Than Before AI",
         "LLM Cascade Evaluators: Cheap Model + Opus Hybrid Matches Frontier Accuracy at 4× Lower Cost",
         "Firecracker VM Escape via KVM/EPT Memory Primitives — Full Guest-to-Host Root Execution"
-      ]
-    },
-    {
-      "run_at": "2026-11-07T10:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026110700153&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110601135&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110600730&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026110700155&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2611/06/2000002984/",
-        "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-        "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
-        "https://www.publickey1.jp/blog/26/aws26google_cloud1620263synergy_research.html",
-        "https://frontier.replit.com",
-        "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-        "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/"
-      ],
-      "titles": [
-        "米大統領首席補佐官が退任　中間選挙大敗の引責か",
-        "消費減税「本丸」参院へ　公・国の協力なお見えず",
-        "日中経済「選択的依存」深化　供給網分散でも商機は逃さず",
-        "テスラ、サイバートラック生産縮小へ　普及進まず需要低迷",
-        "ロート製薬、約280万人の個人情報が流出　カード情報も含まれる",
-        "タスク管理までAIエージェントに委ねたら、確認待ちに答えるだけの人間になった",
-        "AnthropicがClaudeに「Personal Finance」機能を追加　銀行口座と連携してβ提供",
-        "クラウドシェア2026 Q3：AWSが26%に後退、Google Cloudは16%に上昇",
-        "Replit Rebuilds Sandbox Engine with microVMs — Agent-Native Infrastructure for Safe Code Execution",
-        "GitHub Copilot in Slack and Microsoft Teams Goes Generally Available",
-        "Simon Willison: Building a Persistent Multiplayer World with Autonomous Fable-Class AI Agents"
       ]
     }
   ]

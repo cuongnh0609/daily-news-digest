@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-09T05:00:00+09:00",
+  "last_run_at": "2026-11-09T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-09T10:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/09/2000002999/",
+        "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
+        "https://news.yahoo.co.jp/pickup/6601870",
+        "https://news.yahoo.co.jp/pickup/6601876",
+        "https://news.yahoo.co.jp/pickup/6601864",
+        "https://zenn.dev/5alt_nacl/articles/isucon2026-solo-ai-agent",
+        "https://zenn.dev/otar/articles/switchboard-own-dev-environment",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+        "https://www.anthropic.com/research/early-progress-drug-development",
+        "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/"
+      ],
+      "titles": [
+        "128信用金庫の基幹システムで大規模障害、約6時間で復旧 — 原因は機器故障",
+        "NVIDIAがフアンCEOへの中国スパイ工作疑惑で独立調査 — 本人は不倫を認め謝罪",
+        "北朝鮮ハッカー集団のチャット入手か — 「優先ターゲットはアメリカ・日本」",
+        "高知でパラグライダー墜落か、72歳男性が死亡",
+        "日暮里・舎人ライナー、2033年度に資金不足の可能性 — 乗客数の伸び悩みが原因",
+        "ISUCON2026 ソロ参加記：自作ハーネスで Claude Code をほぼ無人運転 — 579チーム中38位",
+        "AIエージェントに自分の開発環境を作らせ続けた2か月 — ツール「Switchboard」の実録",
+        "マルチエージェント設計「15のパターン」— GitHub・Google・Siemensの知見を体系的に整理",
+        "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation Under Linux Foundation",
+        "Anthropic Reports Early Progress on Accelerating Drug Development with Claude",
+        "Simon Willison: parse_number() as a SQLite Extension — C vs Rust Performance Deep-Dive"
+      ]
+    },
     {
       "run_at": "2026-11-09T05:00:00+09:00",
       "urls": [

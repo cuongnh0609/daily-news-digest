@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-09T15:00:00+09:00",
+  "last_run_at": "2026-11-09T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-09T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6601939?source=rss",
+        "https://news.yahoo.co.jp/pickup/6601941?source=rss",
+        "https://www.jiji.com/jc/article?k=2026110900659&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6601946?source=rss",
+        "https://www.jiji.com/jc/article?k=2026110900782&g=soc&m=rss",
+        "https://zenn.dev/hakumaigenki/articles/claudecode-subagent-cost-1109",
+        "https://zenn.dev/numarn/articles/spec-upfront-vs-fix-in-chat-handson",
+        "https://www.itmedia.co.jp/aiplus/article/2611/09/2000003008/",
+        "https://www.anthropic.com/news/distillation-defenses",
+        "https://simonwillison.net/2026/Nov/9/details-summary/",
+        "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant"
+      ],
+      "titles": [
+        "米共和党、中間選大敗後にMAGAから急進左派へ — 揺れる米国政治の行方",
+        "NTT、保有するNEC全株式の売却を発表 — 資本関係解消で経営独立性を高める方針",
+        "自民党、採決棄権の石破前首相ら4議員に戒告処分 — 消費税減税法案めぐり",
+        "JT株が2営業日連続のストップ安 — たばこ規制強化と海外事業不振で投資家が懸念",
+        "愛知で震度5強 — 30年ぶりの規模、3県で24人が重軽傷・津波の心配なし",
+        "Claude Codeを「司令塔」にしてサブエージェントを増やしたら、先に壊れたのは効率ではなく予算だった",
+        "Claude Codeに1行で頼んで会話で直す方法 — 呼び出し2倍でもコスト0.893倍に",
+        "Sakana AI、初のモバイルアプリを開発中 — ベータテスターを募集",
+        "Anthropic Cuts Distillation Attacks by Over 90% with New Defense Layer",
+        "Simon Willison: Hide Your AI-Written PR Descriptions Behind <details> Tags",
+        "GitHub Copilot Now Available in Xcode — Public Preview for Apple Developers"
+      ]
+    },
     {
       "run_at": "2026-11-09T15:00:00+09:00",
       "urls": [

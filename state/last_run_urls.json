@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-09T20:00:00+09:00",
+  "last_run_at": "2026-11-10T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-10T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6601970?source=rss",
+        "https://news.yahoo.co.jp/pickup/6601956?source=rss",
+        "https://news.yahoo.co.jp/pickup/6601961?source=rss",
+        "https://www.jiji.com/jc/article?k=2026110900930&g=pol",
+        "https://www.jiji.com/jc/article?k=2026110900800&g=pol",
+        "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
+        "https://zenn.dev/painter/articles/663816c3195cec",
+        "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
+        "https://twitter.com/shanemelaugh/status/2119192075505893695",
+        "https://arxiv.org/abs/2610.14162",
+        "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc"
+      ],
+      "titles": [
+        "リニア名古屋駅完成は2033年以降 — 工期延長で開業スケジュールに影響",
+        "低体温症、発症の8割近くが屋内 — 冬の室内環境に潜む見えないリスク",
+        "日本海溝でエネルギー蓄積か — 大規模地震の発生リスクを研究者が指摘",
+        "日越首脳会談、重要鉱物の協力加速で合意 — ベトナム国家主席が国会で演説",
+        "サイバー防衛法改正、国内通信も監視対象に — 政府与党が方針を決定",
+        "クリニック院長がClaude Codeでローカル医療LLMを構築 — 電子カルテと連携し問診補助に活用",
+        "LLMアプリのプロンプト、どこで管理すべきか — OpenAIのreusable prompts廃止が問いかける設計判断",
+        "GoogleがAgent SubstrateとgVisorをCNCFに寄贈 — Kubernetes上でAIエージェントを高密度運用",
+        "Is Claude Opus 5.5 Nerfed? Developers Report Thinking Pattern Changes Since November 3",
+        "Next-Concept Modeling: Parallel Coarse-to-Fine Text Generation Cuts Latency Without Quality Loss",
+        "Outlook.com Now Rejects Email From Domains Without DMARC — Millions of Self-Hosted Senders Affected"
+      ]
+    },
     {
       "run_at": "2026-11-09T20:00:00+09:00",
       "urls": [

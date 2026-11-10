@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-10T10:00:00+09:00",
+  "last_run_at": "2026-11-10T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-10T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6602029?source=rss",
+        "https://news.yahoo.co.jp/pickup/6602021?source=rss",
+        "https://www.jiji.com/jc/article?k=2026111000360&g=int&m=rss",
+        "https://news.yahoo.co.jp/pickup/6602024?source=rss",
+        "https://www.jiji.com/jc/article?k=2026111000519&g=soc&m=rss",
+        "https://zenn.dev/karamage/articles/f59f4109030d93",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2611/10/news003.html",
+        "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
+        "https://github.com/thisisme6598/gemini_files/",
+        "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+        "https://research.meta.ai/blog/muse-ember"
+      ],
+      "titles": [
+        "内水氾濫の被害軽減へ — 国土交通省が時間100mmの豪雨に対応する新方針を公表",
+        "ヘグセス米国防長官に弾劾決議案 — イラン開戦の議会承認なしなど8項目を列挙、共和党内からも提出",
+        "NVIDIAのフアンCEOにスパイ疑惑 — FBIが中国情報機関との接触を捜査、株価下落",
+        "徳島・阿波市長を詐欺容疑で逮捕 — 交通事故の修理代350万円を公共工事費に水増し計上か",
+        "乳幼児のSNS長時間視聴を回避へ — こども家庭庁が0〜18歳の年代別ガイドライン論点案を公表",
+        "危ないPRだけ人間が見る — リスクスコアでAIと人間のレビューを自動振り分けする「CC Auto Review」",
+        "「MCPはもう特別な存在ではない」— 2026年7月の仕様改訂でステートレス化、Webサービス的運用が可能に",
+        "MCP公式Ruby SDKが「Tier 1」に到達 — TypeScript・Python・Go・Rustと並ぶ最高位サポートへ",
+        "Google Gemini Quietly Routes Personal Gmail and Drive Files to Human Annotators",
+        "Simon Willison: Telling Claude Fable 5.2 \"This Codebase Is Yours\" Changes Its Refactoring Behavior",
+        "Meta Launches Muse Ember: Smallest Model in the Muse Family, Built for Repetitive Agent Tasks"
+      ]
+    },
     {
       "run_at": "2026-11-10T10:00:00+09:00",
       "urls": [

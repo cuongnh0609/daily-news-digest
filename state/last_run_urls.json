@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-10T05:00:00+09:00",
+  "last_run_at": "2026-11-10T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-10T10:00:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73219",
+        "https://news.web.nhk/newsweb/na/nd-20261110de73220",
+        "https://weathernews.jp/news/202611/080061/",
+        "https://www.nippon.com/en/news/yjj2026082600268/",
+        "https://news.yahoo.co.jp/pickup/6601995",
+        "https://qiita.com/Sidejob/items/1216dd1174ad3e039a2c",
+        "https://qiita.com/tntetsu/items/ecdbcafdfb553224dbda",
+        "https://qiita.com/hathibei7/items/eb0b11156491d10591ad",
+        "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+        "https://pasqualepillitteri.it/en/news/30706/claude-code-cloud-automatic-setup-dependencies-api-keys",
+        "https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development"
+      ],
+      "titles": [
+        "G7外相会合がパリで開幕 — 台湾海峡など「現状変更の試み」に強く反対",
+        "高市首相、AIの急速な進展に「国際社会の連携が必要」とフランスで訴え",
+        "台風32号「チャンパカ」が小笠原諸島に接近 — 32年ぶりの32号発生で警戒呼びかけ",
+        "ホンダ、米国でハイブリッド車新工場の建設を検討 — 旺盛な需要に対応へ",
+        "マンション敷地内に2人が倒れ死亡 — 詳細を警察が捜査中",
+        "Claude Code v2.1.319 — 企業のカスタムLLMゲートウェイ利用者に影響する変更5点",
+        "コードを1行も書かずに5か月 — Agentic Codingの基本ループを体で覚えた記録",
+        "AI・クラウド週間アップデートまとめ（11/04〜11/09）— Claude Code・Anthropic・OpenAI動向",
+        "Meta Acquires Conductor — The Startup That Runs Multiple AI Coding Agents in Parallel",
+        "Claude Code Cloud Gains Automatic Dependency and API Key Setup for Cloud Sessions",
+        "Agentic Coding at Enterprise Scale Demands Spec-Driven Development, Research and Industry Both Conclude"
+      ]
+    },
     {
       "run_at": "2026-11-10T05:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Goldman Sachs Restricts Claude Code Access for Traders and Bankers",
         "Anthropic Invests $100M to Train 10,000 Frontier Deployed Engineers by End of 2027",
         "llama-modchip: Run 284B Parameter DeepSeek on 64GB RAM with No GPU Required"
-      ]
-    },
-    {
-      "run_at": "2026-11-09T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601843",
-        "https://news.yahoo.co.jp/pickup/6601851",
-        "https://news.yahoo.co.jp/pickup/6601853",
-        "https://news.yahoo.co.jp/pickup/6601845",
-        "https://news.yahoo.co.jp/pickup/6601846",
-        "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-        "https://zenn.dev/mickamy/articles/c5e90829fb397a",
-        "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
-        "https://www.lorekit.io/blog/open-agent-memory-format",
-        "https://caleb.software/posts/claude-to-pi.html",
-        "https://simonwillison.net/2026/Nov/3/datasette-agent/"
-      ],
-      "titles": [
-        "欧州右派政党、トランプ離れが鮮明に — 中間選大敗受けて距離置く動き加速",
-        "日米外相会談、パリG7に合わせ調整 — 中間選後初の対話で安保文書改定も議題に",
-        "福井の山中で女性遺体発見、死因は窒息 — 石川の26歳女性と判明、監禁事件と関連か",
-        "死産した子に産着を無償提供 — 全国の自治体・団体に広がる温かい支援の輪",
-        "「不揃い」な商品がバズる理由 — 個体差をウリにする農産物マーケティングの新潮流",
-        "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった — Claude Code司令塔パターンの実録",
-        "Claude Codeに開発チームを組ませて自分は「判断」だけする — plugin「crew」の設計と実装",
-        "MCP公式のRuby SDKが最高位「Tier 1」に到達 — 全プロトコル機能をフルサポート",
-        "Agent Memory Needs Its OpenTelemetry Moment — Toward a Shared Memory Format for Coding Agents",
-        "Goodbye Claude Code, Hello Pi — A Developer Leaves Claude Code for a Minimal Coding Harness",
-        "datasette-agent 0.5a0: LLM-Powered Agent with Tool Loops Now Works Inside Datasette's Plugin Ecosystem"
-      ]
-    },
-    {
-      "run_at": "2026-11-08T20:00:00+09:00",
-      "urls": [
-        "https://news.web.nhk.or.jp/newsweb/genre/politics",
-        "https://www.itmedia.co.jp/news/subtop/security/",
-        "https://news.web.nhk.or.jp/newsweb/",
-        "https://news.yahoo.co.jp/pickup/6601792",
-        "https://news.yahoo.co.jp/pickup/6601790",
-        "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-        "https://zenn.dev/genda_jp/articles/7b423bcd20b532",
-        "https://www.publickey1.jp/blog/26/github2typescriptrustosscc_switchomarchygithub_octoverse_2026.html",
-        "https://www.anthropic.com/news/s1-sec",
-        "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-        "https://www.itmedia.co.jp/news/article/2611/06/2000002931/"
-      ],
-      "titles": [
-        "消費税減税法案が衆院を通過 — 参院での合意形成が最大の焦点に",
-        "個人情報漏洩ラッシュ — ビックカメラ1490万件、アソビュー1582万件など複数社が同時期に被害発表",
-        "高市首相、北朝鮮との対話に意欲 — 拉致問題解決へキム総書記との直接交渉を検討",
-        "台風32号が強い勢力を保ちながら小笠原諸島に接近か — 11日にかけ警戒が必要",
-        "Perfumeのっち&渋谷謙人が結婚を発表 — 同日に事務所通じて報告",
-        "バイブコーディングで機能を継ぎ足し続けて見えてきたClaude Codeの実装のクセ",
-        "Claudeを使いこなす人に、MagicPodは要るのか — 未知のアプリでPlaywrightと比較した記録",
-        "GitHub Octoverse 2026：TypeScriptが2年連続で最多利用言語に — MCP関連リポジトリが急成長",
-        "Anthropic Files S-1 with the SEC — Proposed IPO on Nasdaq Under Symbol \"ANT\"",
-        "Qwen 3.8 27B Running Locally Can Identify Neural Network Weights Without Tools",
-        "OpenAI Launches GPT-6 Cyber — Security-Specialized AI Discovers 81 Unknown Firefox Vulnerabilities"
       ]
     }
   ]

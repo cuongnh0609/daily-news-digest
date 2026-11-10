@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-10T20:00:00+09:00",
+  "last_run_at": "2026-11-11T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-11T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6602085",
+        "https://news.yahoo.co.jp/pickup/6602093",
+        "https://news.yahoo.co.jp/pickup/6602082",
+        "https://news.yahoo.co.jp/pickup/6602099",
+        "https://news.yahoo.co.jp/pickup/6602100",
+        "https://zenn.dev/oikon/articles/claude-code-recipe",
+        "https://zenn.dev/watany/articles/342b9815dd0553",
+        "https://zenn.dev/mappy55/articles/rulebook-rag-01",
+        "https://deepmind.google/blog/introducing-alphaproof-code/",
+        "https://www.langchain.com/blog/agents-are-going-async",
+        "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories"
+      ],
+      "titles": [
+        "米・露・ウクライナの協議が9カ月ぶりに再開 — 戦後の安全保障が焦点に",
+        "日中首脳会談の実現調整が不調 — 中国、台湾をめぐる首相答弁に反発",
+        "不正アプリでスマホ遠隔操作し詐欺 — 中国籍の男2人を逮捕、全国初の手口",
+        "タマホーム社員による保険金不正請求が発覚 — 損保大手3社が調査、200件超か",
+        "59歳の海将が保育士資格を取得 — 退官後は「福田先生」として保育園へ",
+        "Claude Codeで最近使っているTips【2026/11】— /btwコマンド・HTMLレポート・Modsなど実践5選",
+        "退屈なCoding AgentはMetaのMuseにやらせよう — 無料枠でDAWアプリや翻訳ツールを自動生成",
+        "少年団役員向けRAGを作成 — チャンク設計だけで正答率52%→72%、ハイブリッド検索は効かず",
+        "Google DeepMind's AlphaProof Code Formally Verifies Signal's Cryptographic Protocol Using AI Agents",
+        "LangChain Deep Agents Go Async: Orchestrators Can Now Delegate to Background Subagents",
+        "GitHub Dependabot Alerts Will Automatically Pause on Inactive Repositories Starting December 8"
+      ]
+    },
     {
       "run_at": "2026-11-10T20:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "How I Fight AI Brain Fry — Managing Multiple Coding Agents Without Losing Your Mind",
         "Weight-Space Programming やってみた(やらせてみた)",
         "I'm Not Convinced The AI Bubble Exists"
-      ]
-    },
-    {
-      "run_at": "2026-11-09T10:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/09/2000002999/",
-        "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
-        "https://news.yahoo.co.jp/pickup/6601870",
-        "https://news.yahoo.co.jp/pickup/6601876",
-        "https://news.yahoo.co.jp/pickup/6601864",
-        "https://zenn.dev/5alt_nacl/articles/isucon2026-solo-ai-agent",
-        "https://zenn.dev/otar/articles/switchboard-own-dev-environment",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
-        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-        "https://www.anthropic.com/research/early-progress-drug-development",
-        "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/"
-      ],
-      "titles": [
-        "128信用金庫の基幹システムで大規模障害、約6時間で復旧 — 原因は機器故障",
-        "NVIDIAがフアンCEOへの中国スパイ工作疑惑で独立調査 — 本人は不倫を認め謝罪",
-        "北朝鮮ハッカー集団のチャット入手か — 「優先ターゲットはアメリカ・日本」",
-        "高知でパラグライダー墜落か、72歳男性が死亡",
-        "日暮里・舎人ライナー、2033年度に資金不足の可能性 — 乗客数の伸び悩みが原因",
-        "ISUCON2026 ソロ参加記：自作ハーネスで Claude Code をほぼ無人運転 — 579チーム中38位",
-        "AIエージェントに自分の開発環境を作らせ続けた2か月 — ツール「Switchboard」の実録",
-        "マルチエージェント設計「15のパターン」— GitHub・Google・Siemensの知見を体系的に整理",
-        "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation Under Linux Foundation",
-        "Anthropic Reports Early Progress on Accelerating Drug Development with Claude",
-        "Simon Willison: parse_number() as a SQLite Extension — C vs Rust Performance Deep-Dive"
-      ]
-    },
-    {
-      "run_at": "2026-11-09T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/articles/142b097763afb3ae52670819f83573d1da2d278e",
-        "https://news.web.nhk.or.jp/newsweb/na/nd-20261108de72476",
-        "https://www.jiji.com/jc/article?k=2026110800320&g=pol",
-        "https://www.nikkei.com/article/semiconductor-ai-370trillion",
-        "https://news.yahoo.co.jp/pickup/6601788",
-        "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
-        "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002933/",
-        "https://kn.itmedia.co.jp/kn/article/2611/06/2000002925/",
-        "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-        "https://www.anthropic.com/news/claude-frontier-academy",
-        "https://github.com/synchopate/llama-modchip"
-      ],
-      "titles": [
-        "高市首相、金正恩氏との直接対話に強い意欲 — 拉致問題解決へ首脳会談を検討",
-        "小泉防衛相、自衛隊の統合組織化を本格検討 — 陸海空の垣根越えた新体制へ",
-        "拉致被害者家族が東京で大規模集会 — 「親世代ぎりぎり」と即時帰国を訴え 800人参加",
-        "日本、半導体・AIなど28品目を投資優先分野に選定 — 官民370兆円規模の産業戦略",
-        "フランス全土で大規模抗議デモ 360人拘束 — 移民政策と生活費高騰に怒り",
-        "Anthropic、「Claude」に家計管理機能「Personal Finance」— 銀行口座と連携、米国でβ提供開始",
-        "エンタープライズSaaSにもバイブコーディングの波 — 三井住友系がReplit活用で開発6ヶ月→1週間に短縮",
-        "デキるプログラマーほど「AI任せ」を嫌う — Thoughtworks CTOが語るエージェント型開発の死角",
-        "Goldman Sachs Restricts Claude Code Access for Traders and Bankers",
-        "Anthropic Invests $100M to Train 10,000 Frontier Deployed Engineers by End of 2027",
-        "llama-modchip: Run 284B Parameter DeepSeek on 64GB RAM with No GPU Required"
       ]
     }
   ]

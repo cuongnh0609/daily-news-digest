@@ -993,20 +993,20 @@
   <!-- B-2 -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">B2</span>マイクロソフト、.NET 11正式リリース — C#共用型導入・JIT高速化、.NET 8/9はサポート終了</h3>
+      <h3><span class="news-no">B2</span>スペック駆動開発とcc-sddの仕組みを図解 — requirements・design・tasksの3文書ループとAIエージェント承認ゲート</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 本文 + 和越対訳</div>
         <p class="content-text lang-ja">
-          マイクロソフトは.NETの新世代バージョン「.NET 11」を正式リリースした。今回の最大の目玉はC#への「共用型（shared types）」の導入で、異なるアセンブリ間で型を安全に共有できるようになり、マイクロサービス間でのデータ共有が大幅に簡素化される。また、JITコンパイラとAOTコンパイルが双方とも高速化され、起動時間の短縮とスループットの向上が実現した。コマンドラインツール「dotnet」も多数の改善が加えられ、より直感的な操作が可能になっている。一方で、.NET 8と.NET 9のサポートが10日をもって終了しており、既存のプロジェクトを.NET 10もしくは.NET 11へ移行することをマイクロソフトは強く推奨している。.NET MAUI 11ではXamarin由来のMonoランタイムからCoreCLRに統一されるという大きな変更もあった。
+          Zennに投稿されたこの記事では、AIコーディングツール向けの仕様駆動開発（SDD）ハーネス「cc-sdd」の仕組みが、フロー図を交えて丁寧に解説されている。著者がとくに強調するのは「仕様書はスタート地点だけでなく、レビューや検証のたびに再参照される生きたドキュメントである」という点だ。cc-sddは`.kiro/specs/<feature>/`ディレクトリに`requirements.md`・`design.md`・`tasks.md`の3文書を置き、Claude Codeのスラッシュコマンドで「要件定義→設計→設計レビュー（Go/No-Go）→タスク分解→テスト先行実装→コードレビュー」の6ステップループを回す。v3.0ではSkillsモードがデフォルト化され、エントリポイントが`/kiro-discovery`に統一された。自律モードでは実装者と検証者の2体のサブエージェントが並行稼働し、マニュアルモードではメイン会話でテスト先行の作業を行う。タスクには`(P)`フラグで並列実行指示、`_Depends:_`で依存関係を明示できる。
         </p>
         <div class="translation-vi">
-          Microsoft đã chính thức phát hành phiên bản mới ".NET 11". Điểm nổi bật lớn nhất là việc giới thiệu "shared types" vào C#, cho phép chia sẻ kiểu dữ liệu an toàn giữa các assembly khác nhau, giúp đơn giản hóa đáng kể việc chia sẻ dữ liệu giữa các microservice. Ngoài ra, cả JIT compiler và AOT compile đều được tăng tốc, giảm thời gian khởi động và cải thiện throughput. Công cụ dòng lệnh "dotnet" cũng có nhiều cải tiến giúp thao tác trực quan hơn. Đáng lưu ý là .NET 8 và .NET 9 đã kết thúc hỗ trợ từ ngày 10, và Microsoft khuyến nghị mạnh mẽ migrate lên .NET 10 hoặc .NET 11. .NET MAUI 11 cũng có thay đổi lớn khi chuyển từ Mono runtime sang CoreCLR.
+          Bài viết trên Zenn này giải thích chi tiết cơ chế hoạt động của "cc-sdd" — một harness phát triển theo hướng đặc tả (SDD) dành cho các công cụ AI coding, kèm sơ đồ flow minh họa. Điểm tác giả nhấn mạnh nhất là "tài liệu đặc tả không chỉ là điểm xuất phát mà còn là tài liệu sống được tham chiếu lại trong mỗi bước review và xác nhận". cc-sdd đặt 3 file `requirements.md`, `design.md`, `tasks.md` trong thư mục `.kiro/specs/<feature>/`, rồi chạy vòng lặp 6 bước qua slash command của Claude Code: xác định yêu cầu → thiết kế → review thiết kế (Go/No-Go) → phân rã task → implement test-first → review code. Phiên bản v3.0 đã đặt Skills mode làm mặc định và thống nhất entry point thành `/kiro-discovery`. Ở chế độ tự động, 2 sub-agent implementer và reviewer chạy song song; ở chế độ thủ công, test-first được thực hiện trong hội thoại chính. Task có thể gắn flag `(P)` để chạy song song và `_Depends:_` để chỉ định phụ thuộc.
         </div>
         <div class="source">
-          出典: Publickey · 2026-11-10 17:58 JST ·
-          <a href="https://www.publickey1.jp/blog/26/net_11cjitaot.html" target="_blank">原文を読む →</a>
+          出典: Zenn (@tukiyubi) · 2026-08-14 ·
+          <a href="https://zenn.dev/tukiyubi/articles/88cb22b6fded78" target="_blank">原文を読む →</a>
         </div>
       </div>
       <div class="col col-right">
@@ -1016,51 +1016,57 @@
           <table class="vocab">
             <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
             <tr>
-              <td class="jp-word">正式リリース</td>
-              <td class="reading">せいしきリリース</td>
-              <td class="hanviet">chính thức —</td>
-              <td class="meaning">phát hành chính thức (general availability)</td>
+              <td class="jp-word">仕様書</td>
+              <td class="reading">しようしょ</td>
+              <td class="hanviet">tư dạng thư</td>
+              <td class="meaning">tài liệu đặc tả, specification document</td>
             </tr>
             <tr>
-              <td class="jp-word">起動時間</td>
-              <td class="reading">きどうじかん</td>
-              <td class="hanviet">khởi động thời gian</td>
-              <td class="meaning">thời gian khởi động (startup time)</td>
+              <td class="jp-word">承認ゲート</td>
+              <td class="reading">しょうにんゲート</td>
+              <td class="hanviet">thừa nhận —</td>
+              <td class="meaning">approval gate, checkpoint con người phê duyệt</td>
             </tr>
             <tr>
-              <td class="jp-word">移行</td>
-              <td class="reading">いこう</td>
-              <td class="hanviet">di hành</td>
-              <td class="meaning">chuyển đổi, migrate</td>
+              <td class="jp-word">並行稼働</td>
+              <td class="reading">へいこうかどう</td>
+              <td class="hanviet">tịnh hành giá động</td>
+              <td class="meaning">chạy song song, concurrent operation</td>
             </tr>
             <tr>
-              <td class="jp-word">簡素化</td>
-              <td class="reading">かんそか</td>
-              <td class="hanviet">giản tố hóa</td>
-              <td class="meaning">đơn giản hóa (simplification)</td>
+              <td class="jp-word">依存関係</td>
+              <td class="reading">いぞんかんけい</td>
+              <td class="hanviet">y tồn quan hệ</td>
+              <td class="meaning">dependency relationship</td>
             </tr>
             <tr>
-              <td class="jp-word">アセンブリ</td>
-              <td class="reading">アセンブリ</td>
-              <td class="hanviet">—</td>
-              <td class="meaning">assembly (.NET unit of deployment)</td>
+              <td class="jp-word">分解</td>
+              <td class="reading">ぶんかい</td>
+              <td class="hanviet">phân giải</td>
+              <td class="meaning">phân rã, decomposition</td>
+            </tr>
+            <tr>
+              <td class="jp-word">検証</td>
+              <td class="reading">けんしょう</td>
+              <td class="hanviet">kiểm chứng</td>
+              <td class="meaning">kiểm chứng, verification</td>
             </tr>
           </table>
         </div>
         <div class="edu-block">
           <h4>📗 文法</h4>
           <div class="grammar-item">
-            <strong>～をもって終了する</strong> — kết thúc vào ~, chấm dứt tại thời điểm ~
+            <strong>～だけでなく、～でもある</strong> — không chỉ ~, mà còn là ~
             <div class="example">
-              <span class="jp">.NET 8と.NET 9のサポートが10日をもって終了した。</span>
-              <span class="vi">Hỗ trợ cho .NET 8 và .NET 9 đã kết thúc vào ngày 10.</span>
+              <span class="jp">仕様書はスタート地点だけでなく、レビューのたびに参照される生きたドキュメントでもある。</span>
+              <span class="vi">Tài liệu đặc tả không chỉ là điểm xuất phát, mà còn là tài liệu sống được tham chiếu trong mỗi lần review.</span>
             </div>
           </div>
           <div class="grammar-item">
-            <strong>～に統一される</strong> — được thống nhất về ~, chuyển sang ~ (một nền thống nhất)
+            <strong>～に統一される</strong> — được thống nhất thành ~
             <div class="example">
-              <span class="jp">MonoランタイムからCoreCLRに統一される大きな変更があった。</span>
-              <span class="vi">Có sự thay đổi lớn khi được thống nhất từ Mono runtime sang CoreCLR.</span>
+              <span class="jp">エントリポイントが/kiro-discoveryに統一された。</span>
+              <span class="vi">Entry point đã được thống nhất thành /kiro-discovery.</span>
             </div>
           </div>
         </div>
@@ -1212,53 +1218,53 @@
   <!-- C-2 -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">C2</span>Google DeepMind's AlphaProof Code Formally Verifies Signal's Cryptographic Protocol Using AI Agents</h3>
+      <h3><span class="news-no">C2</span>Thoughtworks Tech Radar Promotes OpenSpec from Assess to Trial — Spec-Driven AI Dev Goes Mainstream</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 Article (English)</div>
         <p class="content-text lang-en">
-          Google DeepMind has announced AlphaProof Code, a new AI system that uses agentic workflows to perform formal verification of real-world cryptographic protocols. As its first production deployment, the system successfully produced a machine-verified formal proof of Signal's end-to-end encryption protocol — a proof that would have taken a team of expert mathematicians years to complete manually. AlphaProof Code works by decomposing complex proof goals into sub-goals, delegating each to specialized sub-agents, and assembling the verified components into a coherent whole using the Lean 4 proof assistant. The system is not restricted to cryptography; DeepMind expects it to be applicable to any domain where formal correctness is critical, including operating system kernels, smart contracts, and distributed consensus algorithms. For software engineering, the announcement signals a pathway toward systems where security-critical components can be mechanically verified rather than relying solely on audits and testing.
+          Thoughtworks' November 2026 Technology Radar update promoted OpenSpec from the Assess ring to the Trial ring, the strongest buy-in signal the Radar gives short of Adopt. OpenSpec is a lightweight spec-driven development framework that works with any AI coding agent — unlike GitHub Spec Kit, which Thoughtworks notes is better suited to greenfield projects, OpenSpec is explicitly designed for brownfield codebases where you're modifying existing code. Its core mechanism is a persistent source-of-truth spec file paired with a change-delta workflow: when an agent proposes a change, it generates a delta against the spec rather than rewriting the whole document, making the spec easier to audit and keep current. Teams that trialed OpenSpec reported more predictable agent output and fewer unintended side-effects compared to prompting agents without a spec. The Thoughtworks reviewers warn that the main discipline required is keeping the persistent spec updated — agents can generate a large volume of Markdown files, and OpenSpec's delta-archiving helps but does not eliminate that overhead. The entry notes that the broader category of spec-driven development tools (including Spec Kit and Kiro) is growing rapidly as organizations move AI coding from experiments to production workflows.
         </p>
         <div class="impact-row">
           <span class="impact-badge high">🔴 HIGH</span>
-          <span class="impact-text">Formal verification of real-world crypto protocols by AI agents changes the security assurance landscape for critical systems.</span>
+          <span class="impact-text">Industry standard-setter Thoughtworks endorsing OpenSpec for brownfield AI coding is a strong signal to adopt spec-driven workflows now.</span>
         </div>
         <div class="source">
-          Source: Google DeepMind Blog · 2026-11-10 · <a href="https://deepmind.google/blog/introducing-alphaproof-code/" target="_blank">Read original →</a>
+          Source: Thoughtworks Technology Radar · 2026-11-04 · <a href="https://www.thoughtworks.com/radar/tools/openspec" target="_blank">Read original →</a>
         </div>
       </div>
       <div class="col col-right">
         <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
         <div class="translation-vi">
-          Google DeepMind đã công bố AlphaProof Code — một hệ thống AI mới sử dụng các workflow theo kiểu agentic để thực hiện kiểm chứng hình thức (formal verification) các giao thức mật mã học thực tế. Trong lần triển khai đầu tiên, hệ thống đã thành công tạo ra một bằng chứng toán học được xác minh bằng máy cho giao thức mã hóa đầu cuối của Signal — điều mà một nhóm các nhà toán học chuyên gia sẽ mất nhiều năm để hoàn thành thủ công. AlphaProof Code hoạt động bằng cách phân rã các mục tiêu chứng minh phức tạp thành các mục tiêu con, giao cho các sub-agent chuyên biệt xử lý, và ghép các thành phần đã được xác minh thành một tổng thể nhất quán bằng công cụ hỗ trợ chứng minh Lean 4. Hệ thống không giới hạn trong mật mã học — DeepMind kỳ vọng có thể áp dụng cho bất kỳ lĩnh vực nào cần độ chính xác hình thức, bao gồm nhân hệ điều hành, smart contract, và thuật toán đồng thuận phân tán. Với kỹ sư phần mềm, đây là tín hiệu về lộ trình hướng tới các hệ thống có thể được xác minh cơ học thay vì chỉ dựa vào kiểm tra và audit thủ công.
+          Bản cập nhật Technology Radar tháng 11/2026 của Thoughtworks đã nâng cấp OpenSpec từ vòng "Assess" lên "Trial" — tín hiệu mạnh nhất mà Radar đưa ra trước khi vào vòng Adopt. OpenSpec là framework phát triển theo hướng đặc tả (spec-driven) gọn nhẹ, hoạt động với bất kỳ AI coding agent nào. Điểm khác biệt so với GitHub Spec Kit là OpenSpec được thiết kế rõ ràng cho codebase brownfield — tức là code đang tồn tại cần chỉnh sửa — trong khi Spec Kit phù hợp hơn với greenfield. Cơ chế cốt lõi là file spec là nguồn sự thật bền vững kết hợp với workflow change-delta: khi agent đề xuất thay đổi, nó sinh ra một delta so với spec thay vì viết lại toàn bộ tài liệu, giúp spec dễ audit và dễ cập nhật hơn. Các team thử nghiệm OpenSpec báo cáo output từ agent dự đoán được hơn và ít tác dụng phụ ngoài ý muốn hơn so với khi prompt agent không có spec. Reviewers của Thoughtworks cảnh báo rằng thách thức chính là kỷ luật duy trì spec cập nhật — agent có thể sinh ra lượng lớn Markdown file, và cơ chế lưu trữ delta của OpenSpec giúp ích nhưng không loại bỏ hoàn toàn overhead này.
         </div>
         <div class="impact-note">
-          Đây là bước đột phá lớn với security engineer và những ai xây dựng hệ thống critical. Trong tương lai gần, formal verification có thể áp dụng cho smart contract, distributed consensus, và kernel — thay đổi cách tiếp cận security assurance.
+          Với team đang dùng AI coding agent (Claude Code, Cursor...) trên codebase hiện có, đây là thời điểm để thử OpenSpec. Việc Thoughtworks chuyển từ Assess sang Trial có nghĩa là "chúng tôi đã thấy đủ bằng chứng thực tế để khuyến khích áp dụng thử" — đây không còn là lý thuyết.
         </div>
         <div class="edu-block">
           <h4>📖 Thuật ngữ khó</h4>
           <table class="term-table">
             <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
             <tr>
-              <td class="term-en">formal verification</td>
-              <td class="term-pron">/ˈfɔːrml ˌvɛrɪfɪˈkeɪʃn/</td>
-              <td class="term-explain">Kiểm chứng hình thức — phương pháp toán học chứng minh một chương trình hoặc giao thức hoạt động đúng theo đặc tả, không phụ thuộc vào test cases.</td>
+              <td class="term-en">Technology Radar</td>
+              <td class="term-pron">/ˌtɛknɒlədʒi ˈreɪdɑːr/</td>
+              <td class="term-explain">Báo cáo kỹ thuật 2 lần/năm của Thoughtworks đánh giá các tools, techniques, platforms, languages ở 4 vòng: Adopt, Trial, Assess, Hold — được coi là chỉ số ngành đáng tin cậy.</td>
             </tr>
             <tr>
-              <td class="term-en">proof assistant</td>
-              <td class="term-pron">/pruːf əˈsɪstənt/</td>
-              <td class="term-explain">Phần mềm hỗ trợ viết và kiểm tra các chứng minh toán học một cách tự động (ví dụ: Lean 4, Coq, Isabelle).</td>
+              <td class="term-en">brownfield codebase</td>
+              <td class="term-pron">/ˈbraʊnfiːld/</td>
+              <td class="term-explain">Codebase đang tồn tại với lịch sử dài, cần được chỉnh sửa và mở rộng — đối lập với greenfield (dự án mới xây từ đầu).</td>
             </tr>
             <tr>
-              <td class="term-en">end-to-end encryption</td>
-              <td class="term-pron">/ɛnd tuː ɛnd/</td>
-              <td class="term-explain">Mã hóa đầu cuối — chỉ người gửi và người nhận đọc được tin nhắn, server trung gian không thể giải mã.</td>
+              <td class="term-en">change delta</td>
+              <td class="term-pron">/tʃeɪndʒ ˈdɛltə/</td>
+              <td class="term-explain">Bản ghi chỉ những phần thay đổi so với tài liệu gốc, thay vì ghi lại toàn bộ — giúp spec nhỏ gọn và dễ track lịch sử.</td>
             </tr>
             <tr>
-              <td class="term-en">distributed consensus</td>
-              <td class="term-pron">/dɪˈstrɪbjuːtɪd kənˈsɛnsəs/</td>
-              <td class="term-explain">Thuật toán đồng thuận phân tán — cơ chế giúp nhiều node trong hệ thống phân tán đồng ý về một giá trị hoặc trạng thái (ví dụ: Raft, Paxos).</td>
+              <td class="term-en">source of truth</td>
+              <td class="term-pron">/sɔːrs əv truːθ/</td>
+              <td class="term-explain">Nguồn sự thật — tài liệu hoặc hệ thống được coi là chính xác tuyệt đối khi có xung đột thông tin giữa các nguồn khác nhau.</td>
             </tr>
           </table>
         </div>

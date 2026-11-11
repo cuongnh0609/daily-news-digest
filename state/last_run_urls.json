@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-11T15:00:00+09:00",
+  "last_run_at": "2026-11-11T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-11T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6602169",
+        "https://news.yahoo.co.jp/pickup/6602170",
+        "https://news.yahoo.co.jp/pickup/6602173",
+        "https://news.yahoo.co.jp/pickup/6602171",
+        "https://news.yahoo.co.jp/pickup/6602175",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news011.html",
+        "https://zenn.dev/sun_asterisk/articles/1d1c65b1fe409a",
+        "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
+        "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+        "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+        "https://github.com/GoogleChrome/modern-web-guidance"
+      ],
+      "titles": [
+        "札幌マンションで兄弟が転落死 — 室内に血の付いた刃物、警察が経緯を調査",
+        "介護現場のスポットワーカー依存が急拡大 — 施設の8割が活用、月収2.5倍の例も",
+        "ドコモ5G SA障害、不正アクセスを否定 — 午前中から全国で通話・データに影響",
+        "松坂桃李、2027年NHK大河ドラマの主演に意欲 — 「最後まで走り抜けたい」",
+        "参院選の「一票の格差」、最高裁が「違憲状態」と初認定 — 格差3倍超で",
+        "Gemini NotebookLMに公式REST APIとMCPサーバーが登場 — AIエージェントからノートブック操作が可能に",
+        "週間制限に3日で到達していたClaudeが、ModelとEffortの使い分けで5日持つようになった話",
+        "Google、AIエージェントをKubernetesで10倍高密度に実行できる「Agent Sustrate」をCNCFへ寄贈",
+        "Tracking Anthropic-Discovered Vulnerabilities: Seven Months In, the Numbers Surprise",
+        "llm-anthropic 0.31 Released — Adds Claude Fable 5.2 & Mythos 5.2, Reveals Pricing and Effort Differences",
+        "Show HN: Modern Web Guidance — Chrome/Edge/Firefox/MDN Teams Ship Agent Skills to Modernize Stale JS"
+      ]
+    },
     {
       "run_at": "2026-11-11T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Meta Acquires Conductor — The Startup That Runs Multiple AI Coding Agents in Parallel",
         "Claude Code Cloud Gains Automatic Dependency and API Key Setup for Cloud Sessions",
         "Agentic Coding at Enterprise Scale Demands Spec-Driven Development, Research and Industry Both Conclude"
-      ]
-    },
-    {
-      "run_at": "2026-11-10T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601951",
-        "https://news.yahoo.co.jp/pickup/6601947",
-        "https://news.yahoo.co.jp/pickup/6601968",
-        "https://news.yahoo.co.jp/pickup/6601972",
-        "https://news.yahoo.co.jp/pickup/6601925",
-        "https://zenn.dev/koheidisney/articles/729394f8be42c5",
-        "https://www.itmedia.co.jp/aiplus/article/2611/09/2000003002/",
-        "https://zenn.dev/torudev/articles/dd45de860fc7c3",
-        "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-        "https://www.langchain.com/blog/what-is-eval-driven-development",
-        "https://vercel.com/blog/ai-gateway-production-index-november-2026"
-      ],
-      "titles": [
-        "自民党、石破前首相ら４人に戒告処分　消費税採決棄権を「看過できず」",
-        "同僚の頭や背中を踏みつけ死亡させた疑い　那覇市で43歳の男を逮捕",
-        "体重270kgの巨大ヒグマを駆除　養鶏場近くの箱わなで捕獲　北海道岩見沢市",
-        "自動運転バスが運行初日に石垣に接触　乗客8人を乗せ走行中　兵庫・豊岡市が運休を決定",
-        "地方銀行のサイバーセキュリティ強化に補助金　政府が支援策を調整",
-        "GTX 1080（8GB VRAM）でローカルLLMを動かし「ひみつ道具問題」でベンチマーク",
-        "Qwen3.8-27Bベースに「西洋の価値観を強化」したオープンモデル「Hermes Agent」が登場",
-        "静的型付けはAIのバグを減らすか？TypeScriptとJavaScriptで同じGit互換CLIを3本ずつ書かせて比較",
-        "Anthropic Introduces Claude Fable 5.2 and Claude Mythos 5.2",
-        "LangChain Introduces Eval-Driven Development — A Systematic Framework for Building Reliable AI Agents",
-        "Vercel AI Gateway Production Index: Anthropic Wins New Teams 2:1 — Decision Models Now Handle 26% of All Requests"
       ]
     }
   ]

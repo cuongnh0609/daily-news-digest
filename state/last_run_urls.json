@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-11T10:00:00+09:00",
+  "last_run_at": "2026-11-11T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-11T15:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/11/2000003105/",
+        "https://www.itmedia.co.jp/news/article/2611/11/2000003100/",
+        "https://www.itmedia.co.jp/news/article/2611/11/2000003095/",
+        "https://www.itmedia.co.jp/news/article/2611/11/2000003091/",
+        "https://news.yahoo.co.jp/pickup/6602168",
+        "https://zenn.dev/tree_and_tree/articles/thoughts-on-claude-fable-5-2",
+        "https://www.publickey1.jp/blog/26/net_11cjitaot.html",
+        "https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi",
+        "https://www.anthropic.com/news/roadshow-launch",
+        "https://deepmind.google/blog/introducing-alphaproof-code/",
+        "https://simonwillison.net/2026/Nov/10/llm-gemini/"
+      ],
+      "titles": [
+        "内閣府メールマガジン利用者6万件超のメールアドレスが漏えい — 氏名なども流出の可能性",
+        "タッチ不要の「ウォークスルー改札」、山手線など40駅に拡大 — JR東日本が2028年春導入へ",
+        "ドコモ、全国で通話・データ利用しづらい障害が発生 — 「5G SAがつながらない」の声多数",
+        "エディオンにサイバー攻撃 — クレジットカード番号・セキュリティコードも一部漏えいか",
+        "ブルガリアで多重交通事故、12人死亡 — 高速道路上の玉突き衝突",
+        "Claude Fable 5.2のプロンプトガイドを読んで正直に思ったこと — 「モデルは今やコードベースを所有している」",
+        "マイクロソフト、.NET 11正式リリース — C#共用型導入・JIT高速化、.NET 8/9はサポート終了",
+        "Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
+        "Anthropic Launches IPO Roadshow — Pricing Set at $70–$78 Per Share, Raising Up to $6.4B",
+        "Google DeepMind's AlphaProof Code Formally Verifies Signal's Cryptographic Protocol Using AI Agents",
+        "Simon Willison Releases llm-gemini 0.36 — Adds Gemini 4 Carbon Support and Streaming Tool Calls"
+      ]
+    },
     {
       "run_at": "2026-11-11T10:00:00+09:00",
       "urls": [
@@ -113,7 +142,7 @@
         "エージェント2体による「異方向検証」パターン — ゴール視点と実行視点で見落としを相互補完",
         "Google、第8世代TPUに「8tx」と「8i Max」を追加 — 機密データ処理と大規模AIエージェントに特化",
         "Amazon Saves Millions Annually by Replacing Claude Sonnet 4.6 with Strands Decider in Agent Workflows",
-        "Anthropic Files S-1 with the SEC for Proposed IPO — Claude Enterprise and Claude Code Drive Revenue",
+        "Anthropic Files S-1 with the SEC for Proposed Initial Public Offering — Claude Enterprise and Claude Code Drive Revenue",
         "Claude Fable 5.2 Is Now Generally Available in GitHub Copilot — Admin Opt-In Required for Enterprise"
       ]
     },
@@ -202,93 +231,6 @@
         "Anthropic Introduces Claude Fable 5.2 and Claude Mythos 5.2",
         "LangChain Introduces Eval-Driven Development — A Systematic Framework for Building Reliable AI Agents",
         "Vercel AI Gateway Production Index: Anthropic Wins New Teams 2:1 — Decision Models Now Handle 26% of All Requests"
-      ]
-    },
-    {
-      "run_at": "2026-11-10T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601970?source=rss",
-        "https://news.yahoo.co.jp/pickup/6601956?source=rss",
-        "https://news.yahoo.co.jp/pickup/6601961?source=rss",
-        "https://www.jiji.com/jc/article?k=2026110900930&g=pol",
-        "https://www.jiji.com/jc/article?k=2026110900800&g=pol",
-        "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
-        "https://zenn.dev/painter/articles/663816c3195cec",
-        "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
-        "https://twitter.com/shanemelaugh/status/2119192075505893695",
-        "https://arxiv.org/abs/2610.14162",
-        "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc"
-      ],
-      "titles": [
-        "リニア名古屋駅完成は2033年以降 — 工期延長で開業スケジュールに影響",
-        "低体温症、発症の8割近くが屋内 — 冬の室内環境に潜む見えないリスク",
-        "日本海溝でエネルギー蓄積か — 大規模地震の発生リスクを研究者が指摘",
-        "日越首脳会談、重要鉱物の協力加速で合意 — ベトナム国家主席が国会で演説",
-        "サイバー防衛法改正、国内通信も監視対象に — 政府与党が方針を決定",
-        "クリニック院長がClaude Codeでローカル医療LLMを構築 — 電子カルテと連携し問診補助に活用",
-        "LLMアプリのプロンプト、どこで管理すべきか — OpenAIのreusable prompts廃止が問いかける設計判断",
-        "GoogleがAgent SubstrateとgVisorをCNCFに寄贈 — Kubernetes上でAIエージェントを高密度運用",
-        "Is Claude Opus 5.5 Nerfed? Developers Report Thinking Pattern Changes Since November 3",
-        "Next-Concept Modeling: Parallel Coarse-to-Fine Text Generation Cuts Latency Without Quality Loss",
-        "Outlook.com Now Rejects Email From Domains Without DMARC — Millions of Self-Hosted Senders Affected"
-      ]
-    },
-    {
-      "run_at": "2026-11-09T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6601939?source=rss",
-        "https://news.yahoo.co.jp/pickup/6601941?source=rss",
-        "https://www.jiji.com/jc/article?k=2026110900659&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6601946?source=rss",
-        "https://www.jiji.com/jc/article?k=2026110900782&g=soc&m=rss",
-        "https://zenn.dev/hakumaigenki/articles/claudecode-subagent-cost-1109",
-        "https://zenn.dev/numarn/articles/spec-upfront-vs-fix-in-chat-handson",
-        "https://www.itmedia.co.jp/aiplus/article/2611/09/2000003008/",
-        "https://www.anthropic.com/news/distillation-defenses",
-        "https://simonwillison.net/2026/Nov/9/details-summary/",
-        "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant"
-      ],
-      "titles": [
-        "米共和党、中間選大敗後にMAGAから急進左派へ — 揺れる米国政治の行方",
-        "NTT、保有するNEC全株式の売却を発表 — 資本関係解消で経営独立性を高める方針",
-        "自民党、採決棄権の石破前首相ら4議員に戒告処分 — 消費税減税法案めぐり",
-        "JT株が2営業日連続のストップ安 — たばこ規制強化と海外事業不振で投資家が懸念",
-        "愛知で震度5強 — 30年ぶりの規模、3県で24人が重軽傷・津波の心配なし",
-        "Claude Codeを「司令塔」にしてサブエージェントを増やしたら、先に壊れたのは効率ではなく予算だった",
-        "Claude Codeに1行で頼んで会話で直す方法 — 呼び出し2倍でもコスト0.893倍に",
-        "Sakana AI、初のモバイルアプリを開発中 — ベータテスターを募集",
-        "Anthropic Cuts Distillation Attacks by Over 90% with New Defense Layer",
-        "Simon Willison: Hide Your AI-Written PR Descriptions Behind <details> Tags",
-        "GitHub Copilot Now Available in Xcode — Public Preview for Apple Developers"
-      ]
-    },
-    {
-      "run_at": "2026-11-09T15:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/09/2000003005/",
-        "https://www.itmedia.co.jp/news/article/2611/09/2000003009/",
-        "https://www.itmedia.co.jp/news/article/2611/09/2000003012/",
-        "https://news.yahoo.co.jp/pickup/6601906",
-        "https://news.yahoo.co.jp/pickup/6601907",
-        "https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c",
-        "https://zenn.dev/samurai_works/articles/114a5e654ca295",
-        "https://www.publickey1.jp/blog/26/aws26google_cloud1620263synergy_research.html",
-        "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-        "https://zenn.dev/nwn/articles/cf9fe78aa33861",
-        "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html"
-      ],
-      "titles": [
-        "サイバー攻撃への緊急対策、「トップガン人材」チーム設立へ　予備費100億円支出",
-        "ドコモ傘下の電子チケット「teket」不正アクセス、全会員の氏名やメアド流出　サービス停止",
-        "早稲田大、PHP脆弱性への対応中に不正アクセス発見　個人情報約3400件流出確認",
-        "採決直前に退席 石破氏が理由説明",
-        "26年の熊本地震 初の災害関連死",
-        "Herdr.app と hc の上で Claude Code の司令塔を回している",
-        "自宅サーバーにClaude Codeを常駐させ、スマホから24時間指示を出す（Remote Control＋systemd）",
-        "クラウドインフラのシェア、AWSが26％に後退、Google Cloudは16％に上昇。クラウドインフラ市場全体は過去最大の高成長率へ。2026年第3四半期、Synergy Research",
-        "How I Fight AI Brain Fry — Managing Multiple Coding Agents Without Losing Your Mind",
-        "Weight-Space Programming やってみた(やらせてみた)",
-        "I'm Not Convinced The AI Bubble Exists"
       ]
     }
   ]

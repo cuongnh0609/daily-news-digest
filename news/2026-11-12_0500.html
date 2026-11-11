@@ -1,0 +1,1359 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>デイリーダイジェスト - 2026-11-12 05:00 JST</title>
+<style>
+  :root,
+  [data-theme="light"] {
+    --bg: #f8f5f0;
+    --card: #ffffff;
+    --card-alt: #fdfcf8;
+    --ink: #1a1a1a;
+    --ink-soft: #4a4a4a;
+    --accent-jp: #b91c1c;
+    --accent-tech-jp: #059669;
+    --accent-global: #0369a1;
+    --accent-soft-jp: #fef2f2;
+    --accent-soft-tech-jp: #ecfdf5;
+    --accent-soft-global: #f0f9ff;
+    --sub: #6b6b6b;
+    --border: #e5e1da;
+    --divider: #d4cfc5;
+    --jp-mark: #c2410c;
+    --vi: #0369a1;
+    --vi-bg: #f0f9ff;
+    --vi-ink: #0c4a6e;
+    --grammar: #7c3aed;
+    --grammar-bg: #fafaf5;
+    --code-bg: #f1efe9;
+    --note-bg: #fef9e7;
+    --note-border: #d69e2e;
+    --note-ink: #744210;
+    --impact-high: #dc2626;
+    --impact-med: #ea580c;
+    --impact-low: #ca8a04;
+    --header-gradient-start: #fafaf5;
+    --shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+
+  [data-theme="dark"] {
+    --bg: #0f0e0c;
+    --card: #1a1814;
+    --card-alt: #15130f;
+    --ink: #e8e4dc;
+    --ink-soft: #b8b4ac;
+    --accent-jp: #f87171;
+    --accent-tech-jp: #34d399;
+    --accent-global: #60a5fa;
+    --accent-soft-jp: #2a1515;
+    --accent-soft-tech-jp: #0d2820;
+    --accent-soft-global: #0c2440;
+    --sub: #8b8680;
+    --border: #332f28;
+    --divider: #2a2620;
+    --jp-mark: #fb923c;
+    --vi: #60a5fa;
+    --vi-bg: #0c2440;
+    --vi-ink: #bfdbfe;
+    --grammar: #c4b5fd;
+    --grammar-bg: #1c1a16;
+    --code-bg: #2a2620;
+    --note-bg: #2a2410;
+    --note-border: #ca8a04;
+    --note-ink: #fde68a;
+    --impact-high: #ef4444;
+    --impact-med: #f97316;
+    --impact-low: #eab308;
+    --header-gradient-start: #1c1a16;
+    --shadow: 0 1px 3px rgba(0,0,0,0.3);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme]) {
+      --bg: #0f0e0c;
+      --card: #1a1814;
+      --card-alt: #15130f;
+      --ink: #e8e4dc;
+      --ink-soft: #b8b4ac;
+      --accent-jp: #f87171;
+      --accent-tech-jp: #34d399;
+      --accent-global: #60a5fa;
+      --accent-soft-jp: #2a1515;
+      --accent-soft-tech-jp: #0d2820;
+      --accent-soft-global: #0c2440;
+      --sub: #8b8680;
+      --border: #332f28;
+      --divider: #2a2620;
+      --jp-mark: #fb923c;
+      --vi: #60a5fa;
+      --vi-bg: #0c2440;
+      --vi-ink: #bfdbfe;
+      --grammar: #c4b5fd;
+      --grammar-bg: #1c1a16;
+      --code-bg: #2a2620;
+      --note-bg: #2a2410;
+      --note-border: #ca8a04;
+      --note-ink: #fde68a;
+      --impact-high: #ef4444;
+      --impact-med: #f97316;
+      --impact-low: #eab308;
+      --header-gradient-start: #1c1a16;
+      --shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", "Times New Roman", serif;
+    background: var(--bg);
+    color: var(--ink);
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 2rem 2rem 4rem;
+    line-height: 1.75;
+  }
+  header.page-head {
+    border-bottom: 3px double var(--accent-jp);
+    padding-bottom: 1.2rem;
+    margin-bottom: 2.5rem;
+    text-align: center;
+  }
+  header.page-head h1 {
+    font-size: 2rem;
+    margin: 0 0 0.4rem;
+    letter-spacing: 0.08em;
+  }
+  header.page-head .meta {
+    color: var(--sub);
+    font-size: 0.95rem;
+    font-family: system-ui, sans-serif;
+  }
+  nav.toc {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+    font-family: system-ui, sans-serif;
+    font-size: 0.9rem;
+  }
+  nav.toc a {
+    text-decoration: none;
+    padding: 6px 14px;
+    border-radius: 20px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--ink);
+    transition: all 0.2s;
+  }
+  nav.toc a:hover { background: var(--accent-soft-jp); color: var(--accent-jp); }
+  section.digest-section { margin-bottom: 3rem; }
+  .section-title {
+    font-size: 1.5rem;
+    padding: 0.6rem 1.2rem;
+    margin: 0 0 1.5rem;
+    border-radius: 4px;
+    font-family: system-ui, "Noto Sans", sans-serif;
+    font-weight: 600;
+  }
+  #japan-news .section-title {
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    border-left: 5px solid var(--accent-jp);
+  }
+  #japan-tech .section-title {
+    background: var(--accent-soft-tech-jp);
+    color: var(--accent-tech-jp);
+    border-left: 5px solid var(--accent-tech-jp);
+  }
+  #global-tech .section-title {
+    background: var(--accent-soft-global);
+    color: var(--accent-global);
+    border-left: 5px solid var(--accent-global);
+  }
+  article.news-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    margin-bottom: 1.5rem;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+  }
+  .card-header {
+    padding: 1rem 1.5rem;
+    background: linear-gradient(to bottom, var(--header-gradient-start), var(--card));
+    border-bottom: 1px solid var(--border);
+  }
+  .card-header h3 {
+    margin: 0;
+    font-size: 1.15rem;
+    line-height: 1.5;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .news-no {
+    display: inline-block;
+    font-size: 0.7rem;
+    padding: 3px 9px;
+    border-radius: 3px;
+    font-family: system-ui, sans-serif;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  #japan-news .news-no { background: var(--accent-jp); color: white; }
+  #japan-tech .news-no { background: var(--accent-tech-jp); color: white; }
+  #global-tech .news-no { background: var(--accent-global); color: white; }
+  .card-body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .col {
+    padding: 1.25rem 1.5rem;
+  }
+  .col-left {
+    border-right: 1px solid var(--divider);
+  }
+  .col-right {
+    background: var(--card-alt);
+  }
+  .col-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--sub);
+    font-family: system-ui, sans-serif;
+    margin-bottom: 0.6rem;
+    font-weight: 600;
+  }
+  .content-text {
+    font-size: 1rem;
+    line-height: 1.85;
+    margin: 0 0 1rem;
+    text-align: justify;
+  }
+  .content-text.lang-en {
+    font-family: "Georgia", "Times New Roman", serif;
+  }
+  .content-text.lang-ja {
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+  }
+  .translation-vi {
+    font-family: "Noto Sans", system-ui, sans-serif;
+    font-size: 0.95rem;
+    line-height: 1.75;
+    margin: 1rem 0;
+    padding: 0.8rem 1rem;
+    background: var(--vi-bg);
+    border-left: 3px solid var(--vi);
+    border-radius: 2px;
+    color: var(--vi-ink);
+  }
+  .translation-vi::before {
+    content: "🇻🇳 ";
+    font-weight: bold;
+  }
+  .impact-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: system-ui, sans-serif;
+    font-size: 0.8rem;
+    margin: 0.8rem 0;
+    padding: 0.4rem 0;
+  }
+  .impact-badge {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 3px;
+    font-weight: 600;
+    font-size: 0.75rem;
+    color: white;
+  }
+  .impact-badge.high { background: var(--impact-high); }
+  .impact-badge.medium { background: var(--impact-med); }
+  .impact-badge.low { background: var(--impact-low); }
+  .impact-text { color: var(--sub); }
+  .impact-note {
+    font-family: system-ui, sans-serif;
+    font-size: 0.88rem;
+    color: var(--note-ink);
+    padding: 0.55rem 0.85rem;
+    background: var(--note-bg);
+    border-left: 3px solid var(--note-border);
+    border-radius: 2px;
+    margin: 0.6rem 0 1rem;
+  }
+  .impact-note::before { content: "💡 "; }
+  .edu-block {
+    margin-top: 1rem;
+    font-family: system-ui, "Noto Sans", sans-serif;
+  }
+  .edu-block h4 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--sub);
+    margin: 0.8rem 0 0.4rem;
+    border-bottom: 1px dotted var(--border);
+    padding-bottom: 3px;
+  }
+  table.vocab, table.term-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+  }
+  table.vocab th, table.vocab td,
+  table.term-table th, table.term-table td {
+    text-align: left;
+    padding: 6px 8px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  table.vocab th {
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    font-weight: 600;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+  }
+  table.term-table th {
+    background: var(--accent-soft-global);
+    color: var(--accent-global);
+    font-weight: 600;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+  }
+  td.jp-word { font-family: "Hiragino Mincho ProN", serif; font-size: 1rem; white-space: nowrap; }
+  td.reading { color: var(--sub); font-size: 0.8rem; white-space: nowrap; }
+  td.hanviet { color: var(--accent-jp); font-style: italic; font-size: 0.8rem; white-space: nowrap; }
+  td.meaning { font-size: 0.85rem; }
+  td.term-en { font-family: "SF Mono", Monaco, monospace; font-size: 0.9rem; font-weight: 600; color: var(--accent-global); white-space: nowrap; }
+  td.term-pron { font-size: 0.8rem; color: var(--sub); font-style: italic; white-space: nowrap; }
+  td.term-explain { font-size: 0.85rem; line-height: 1.6; }
+  .grammar-item { margin-bottom: 0.7rem; font-size: 0.9rem; }
+  .grammar-item strong {
+    color: var(--grammar);
+    font-size: 0.95rem;
+    display: inline-block;
+    margin-bottom: 2px;
+  }
+  .example {
+    background: var(--grammar-bg);
+    padding: 0.55rem 0.8rem;
+    margin-top: 0.35rem;
+    border-left: 2px solid var(--grammar);
+    font-size: 0.88rem;
+  }
+  .example .jp { font-family: "Hiragino Mincho ProN", serif; display: block; }
+  .example .vi { color: var(--vi); font-size: 0.82rem; display: block; margin-top: 3px; }
+  .source {
+    font-size: 0.78rem;
+    color: var(--sub);
+    margin-top: 0.8rem;
+    padding-top: 0.6rem;
+    border-top: 1px dotted var(--border);
+    font-family: system-ui, sans-serif;
+  }
+  .source a { color: var(--vi); text-decoration: none; }
+  .source a:hover { text-decoration: underline; }
+  code {
+    background: var(--code-bg);
+    padding: 1px 6px;
+    border-radius: 3px;
+    font-size: 0.88em;
+    font-family: "SF Mono", Monaco, "Courier New", monospace;
+  }
+  .theme-toggle {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 100;
+    display: flex;
+    gap: 4px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 3px;
+    font-family: system-ui, sans-serif;
+    font-size: 0.85rem;
+    box-shadow: var(--shadow);
+  }
+  .theme-toggle button {
+    background: transparent;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    color: var(--sub);
+    transition: all 0.15s;
+    font-family: inherit;
+  }
+  .theme-toggle button:hover { color: var(--ink); }
+  .theme-toggle button.active { background: var(--accent-jp); color: white; }
+  .theme-toggle button.active:hover { color: white; }
+  .prev-digests {
+    margin-top: 3.5rem;
+    padding: 1.2rem 1.4rem;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-family: system-ui, sans-serif;
+  }
+  .prev-digests h3 {
+    margin: 0 0 0.8rem;
+    font-size: 0.95rem;
+    color: var(--ink);
+    letter-spacing: 0.02em;
+  }
+  .prev-digests-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+  }
+  .prev-digests-list a {
+    display: inline-block;
+    padding: 0.35rem 0.7rem;
+    border-radius: 999px;
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    font-size: 0.78rem;
+    text-decoration: none;
+    font-variant-numeric: tabular-nums;
+    border: 1px solid transparent;
+    transition: background 0.15s ease, border-color 0.15s ease;
+  }
+  .prev-digests-list a:hover {
+    background: transparent;
+    border-color: var(--accent-jp);
+  }
+  footer {
+    text-align: center;
+    color: var(--sub);
+    font-size: 0.85rem;
+    margin-top: 2.5rem;
+    font-family: system-ui, sans-serif;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border);
+  }
+  @media (max-width: 1000px) {
+    body { padding: 1rem 0.9rem 3rem; max-width: 100%; }
+    header.page-head h1 { font-size: 1.4rem; }
+    .card-body { grid-template-columns: 1fr; }
+    .col-left {
+      border-right: none;
+      border-bottom: 2px dashed var(--divider);
+    }
+    .col { padding: 1rem 1.1rem; }
+    .section-title { font-size: 1.2rem; }
+    td.reading, td.hanviet, td.term-en, td.term-pron { white-space: normal; }
+  }
+</style>
+</head>
+<body>
+
+<div class="theme-toggle" role="group" aria-label="Theme selector">
+  <button type="button" data-theme-value="light" title="Light mode">☀️</button>
+  <button type="button" data-theme-value="system" title="Auto (follow system)">💻</button>
+  <button type="button" data-theme-value="dark" title="Dark mode">🌙</button>
+</div>
+
+<script>
+  (function() {
+    var saved = localStorage.getItem('digest-theme') || 'system';
+    if (saved !== 'system') {
+      document.documentElement.setAttribute('data-theme', saved);
+    }
+  })();
+</script>
+
+<header class="page-head">
+  <h1>🗞️ デイリーダイジェスト</h1>
+  <div class="meta">2026-11-12（木）05:00 JST — JLPT N2+ 学習者 · SE/Cloud Engineer 向け</div>
+</header>
+
+<nav class="toc">
+  <a href="#japan-news">🗾 日本ニュース (5)</a>
+  <a href="#japan-tech">🇯🇵 Tech JP (3)</a>
+  <a href="#global-tech">🌐 Global Tech (3)</a>
+</nav>
+
+<!-- ========== SECTION A: JAPAN NEWS ========== -->
+<section id="japan-news" class="digest-section">
+  <h2 class="section-title">🗾 日本ニュース</h2>
+
+  <!-- A1: 靖国神社 不正アクセス -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A1</span>靖国神社のオンラインショップに不正アクセス — 約1万4500件の個人情報が漏えい</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          靖国神社が運営するオンラインショップが不正アクセスを受け、利用者の個人情報が最大約1万4500件漏えいした可能性があることが11日に明らかになった。漏えいした情報には氏名・住所・メールアドレスのほか、パスワードのハッシュ値も含まれている可能性が指摘されており、神社側は速やかな対応として該当ショップの一時停止と調査委託を発表した。今回の事案はカード情報の流出については現時点で確認されていないとされているが、パスワードの流用（使い回し）をしているユーザーへの注意が呼びかけられている。近年、観光地や宗教施設が運営するECサイトを狙った攻撃が相次いでおり、セキュリティ対策の格差が社会問題として注目されている。神社は近日中に専用の問い合わせ窓口を設けるとともに、被害を受けた可能性のある利用者にメールで通知する予定だ。
+        </p>
+        <div class="translation-vi">
+          Cửa hàng trực tuyến của đền Yasukuni bị tấn công xâm nhập trái phép, có khả năng làm rò rỉ thông tin cá nhân của tối đa khoảng 14.500 người dùng. Dữ liệu bị ảnh hưởng có thể bao gồm họ tên, địa chỉ, địa chỉ email và cả giá trị hash của mật khẩu. Phía đền đã tạm ngừng hoạt động cửa hàng và ủy thác điều tra cho bên thứ ba. Thông tin thẻ tín dụng được xác nhận chưa bị rò rỉ, nhưng người dùng tái sử dụng mật khẩu được khuyến nghị đổi mật khẩu ngay. Sự cố này nằm trong xu hướng tấn công ngày càng nhiều nhắm vào các trang thương mại điện tử của địa danh du lịch và cơ sở tôn giáo.
+        </div>
+        <div class="source">
+          出典: ITmedia NEWS · 2026-11-11 · <a href="https://www.itmedia.co.jp/news/article/2611/11/2000003119/" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">不正アクセス</td>
+              <td class="reading">ふせいアクセス</td>
+              <td class="hanviet">bất chính —</td>
+              <td class="meaning">truy cập trái phép (unauthorized access)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">個人情報漏えい</td>
+              <td class="reading">こじんじょうほうろうえい</td>
+              <td class="hanviet">cá nhân tình báo lậu</td>
+              <td class="meaning">rò rỉ thông tin cá nhân</td>
+            </tr>
+            <tr>
+              <td class="jp-word">ハッシュ値</td>
+              <td class="reading">ハッシュち</td>
+              <td class="hanviet">— trị</td>
+              <td class="meaning">giá trị hash (dạng mã hóa của mật khẩu)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">使い回し</td>
+              <td class="reading">つかいまわし</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">tái sử dụng (mật khẩu giống nhau ở nhiều dịch vụ)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">委託</td>
+              <td class="reading">いたく</td>
+              <td class="hanviet">ủy thác</td>
+              <td class="meaning">ủy thác, thuê ngoài</td>
+            </tr>
+            <tr>
+              <td class="jp-word">流出</td>
+              <td class="reading">りゅうしゅつ</td>
+              <td class="hanviet">lưu xuất</td>
+              <td class="meaning">rò rỉ, thoát ra ngoài</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～として</strong> — với tư cách là / dưới dạng
+            <div class="example">
+              <span class="jp">速やかな対応として、ショップを一時停止した。</span>
+              <span class="vi">Với tư cách là biện pháp ứng phó nhanh chóng, họ đã tạm ngừng cửa hàng.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～に限らず</strong> — không chỉ… mà còn
+            <div class="example">
+              <span class="jp">宗教施設に限らず、小規模ECサイト全般でリスクが高まっている。</span>
+              <span class="vi">Không chỉ cơ sở tôn giáo, mà rủi ro đang tăng ở toàn bộ trang TMĐT quy mô nhỏ.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A2: ユミルリンク 大規模漏えい -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A2</span>メール配信会社ユミルリンクへの不正アクセス — 約4786万件漏えい、JR東海など多数に影響</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          メール配信サービスを手がけるユミルリンクは11日、外部からの不正アクセスを受け、顧客企業のメールアドレスを含む情報が最大約4786万件漏えいした可能性があると発表した。影響を受けた企業にはJR東海やアイスタイルなど複数の大手企業が含まれており、利用者への通知対応に追われている。漏えいしたデータはメールアドレスが中心とされているが、一部企業の顧客については氏名やその他の個人情報が含まれている可能性も否定できないとしている。ユミルリンクは今回の事案を受け、当該システムを即時停止するとともに、外部専門機関に調査を依頼した。メール配信事業者を経由した大規模情報漏えいは、特定の事業者に情報を集中させることのリスクを改めて浮き彫りにし、企業の委託先管理のあり方に問題を投げかけている。
+        </p>
+        <div class="translation-vi">
+          Công ty dịch vụ gửi email Yumir Link thông báo bị tấn công trái phép, với khả năng rò rỉ thông tin lên đến khoảng 47,86 triệu hồ sơ bao gồm địa chỉ email của khách hàng các doanh nghiệp sử dụng dịch vụ. Các công ty bị ảnh hưởng bao gồm JR Central và istyle. Dữ liệu chủ yếu là địa chỉ email, nhưng không loại trừ khả năng một số doanh nghiệp có cả họ tên và thông tin cá nhân khác bị lộ. Vụ việc nêu bật rủi ro khi tập trung thông tin vào một nhà cung cấp dịch vụ trung gian và đặt ra câu hỏi về cách quản lý nhà thầu phụ của doanh nghiệp.
+        </div>
+        <div class="source">
+          出典: ITmedia NEWS · 2026-11-11 · <a href="https://www.itmedia.co.jp/news/article/2611/11/2000003114/" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">委託先</td>
+              <td class="reading">いたくさき</td>
+              <td class="hanviet">ủy thác tiên</td>
+              <td class="meaning">nhà thầu/đơn vị được ủy thác</td>
+            </tr>
+            <tr>
+              <td class="jp-word">浮き彫り</td>
+              <td class="reading">うきぼり</td>
+              <td class="hanviet">phù điêu</td>
+              <td class="meaning">làm nổi bật, lộ rõ (vấn đề ẩn)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">即時停止</td>
+              <td class="reading">そくじていし</td>
+              <td class="hanviet">tức thì đình chỉ</td>
+              <td class="meaning">dừng ngay lập tức</td>
+            </tr>
+            <tr>
+              <td class="jp-word">専門機関</td>
+              <td class="reading">せんもんきかん</td>
+              <td class="hanviet">chuyên môn cơ quan</td>
+              <td class="meaning">tổ chức/cơ quan chuyên nghiệp</td>
+            </tr>
+            <tr>
+              <td class="jp-word">集中させる</td>
+              <td class="reading">しゅうちゅうさせる</td>
+              <td class="hanviet">tập trung</td>
+              <td class="meaning">tập trung hóa, dồn vào một chỗ</td>
+            </tr>
+            <tr>
+              <td class="jp-word">問題を投げかける</td>
+              <td class="reading">もんだいをなげかける</td>
+              <td class="hanviet">vấn đề đầu</td>
+              <td class="meaning">đặt ra vấn đề, nêu ra câu hỏi</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～を受け</strong> — sau khi nhận / xuất phát từ
+            <div class="example">
+              <span class="jp">今回の事案を受け、システムを即時停止した。</span>
+              <span class="vi">Xuất phát từ sự cố lần này, họ đã dừng hệ thống ngay lập tức.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～を否定できない</strong> — không thể phủ nhận
+            <div class="example">
+              <span class="jp">他の情報が含まれている可能性を否定できない。</span>
+              <span class="vi">Không thể phủ nhận khả năng các thông tin khác cũng bị bao gồm.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A3: 米ロ・ウクライナ交渉 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A3</span>米・露・ウクライナ交渉2日目 — 領土問題で難航、捕虜交換では一部進展</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          米国・ロシア・ウクライナの3者による停戦協議は11日に2日目を終えたが、核心となる領土問題については双方の主張が平行線をたどっており、交渉は難航している。ロシア側は現在の実効支配地域の確保を前提条件としている一方、ウクライナ側は領土の割譲には応じないとの立場を崩していない。一方で捕虜交換については双方が協議を進め、具体的な数字の調整段階に入ったとされており、限定的ながら前進が見られた。G7外相会合ではウクライナへの財政支援での協調が確認されており、欧米諸国による支援の継続が交渉の行方を左右する重要な要素となっている。次回の会合は日程未定だが、米国が仲介役として交渉を継続する姿勢を示している。
+        </p>
+        <div class="translation-vi">
+          Vòng đàm phán 3 bên Mỹ-Nga-Ukraine ngày thứ 2 kết thúc với vấn đề lãnh thổ còn bất đồng sâu sắc: Nga muốn giữ nguyên vùng kiểm soát hiện tại còn Ukraine từ chối nhượng đất. Điểm tích cực là việc trao đổi tù nhân đang ở giai đoạn thương lượng số lượng cụ thể. Hội nghị ngoại trưởng G7 đã xác nhận phối hợp hỗ trợ tài chính cho Ukraine, và cam kết của phương Tây tiếp tục là yếu tố quan trọng quyết định tiến trình đàm phán. Mỹ tiếp tục đóng vai trò trung gian nhưng lịch họp lần tiếp theo vẫn chưa được ấn định.
+        </div>
+        <div class="source">
+          出典: 時事通信 · 2026-11-11 · <a href="https://www.jiji.com/jc/article?k=2026111100183&g=int&m=rss" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">停戦協議</td>
+              <td class="reading">ていせんきょうぎ</td>
+              <td class="hanviet">đình chiến hiệp nghị</td>
+              <td class="meaning">đàm phán ngừng bắn</td>
+            </tr>
+            <tr>
+              <td class="jp-word">平行線</td>
+              <td class="reading">へいこうせん</td>
+              <td class="hanviet">bình hành tuyến</td>
+              <td class="meaning">song song, không đi đến đâu (đàm phán bế tắc)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">実効支配</td>
+              <td class="reading">じっこうしはい</td>
+              <td class="hanviet">thực hiệu chi phối</td>
+              <td class="meaning">kiểm soát thực tế (trên thực địa)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">捕虜交換</td>
+              <td class="reading">ほりょこうかん</td>
+              <td class="hanviet">bộ lỗ giao hoán</td>
+              <td class="meaning">trao đổi tù nhân chiến tranh</td>
+            </tr>
+            <tr>
+              <td class="jp-word">割譲</td>
+              <td class="reading">かつじょう</td>
+              <td class="hanviet">cát nhượng</td>
+              <td class="meaning">nhượng (lãnh thổ) cho nước khác</td>
+            </tr>
+            <tr>
+              <td class="jp-word">仲介役</td>
+              <td class="reading">ちゅうかいやく</td>
+              <td class="hanviet">trung giới dịch</td>
+              <td class="meaning">vai trò trung gian/hòa giải</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～に応じない</strong> — không đáp ứng / không chấp nhận
+            <div class="example">
+              <span class="jp">ウクライナ側は領土割譲に応じないとの立場を崩していない。</span>
+              <span class="vi">Ukraine tiếp tục không thay đổi lập trường không chấp nhận nhượng đất.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～を左右する</strong> — quyết định / ảnh hưởng đến
+            <div class="example">
+              <span class="jp">欧米の支援継続が交渉の行方を左右する。</span>
+              <span class="vi">Việc phương Tây tiếp tục hỗ trợ sẽ quyết định hướng đi của đàm phán.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A4: 中国・APEC 高市首相 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A4</span>APECを控え、中国が高市首相との会談に消極的 — 台湾をめぐる姿勢が影響か</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          間もなく開催されるAPEC首脳会合を前に、中国政府は高市首相との首脳会談の実現に消極的な姿勢を示していることが11日に判明した。中国側は「すでに立場を表明済みだ」とコメントしており、高市首相が台湾問題について国会答弁で示した発言への反発が背景にあるとみられる。外務省関係者によれば、日本側は実務レベルで会談の調整を継続しているが、中国側の出方は不透明な状況が続いている。日中首脳会談が実現すれば、高市政権発足後初となる重要な外交機会となるため、政府内では実現への期待が高まっていた。東南アジア歴訪との兼ね合いもあり、外務省は他の2国間会談の日程とあわせて引き続き調整を進める方針だ。
+        </p>
+        <div class="translation-vi">
+          Trước thềm Hội nghị Thượng đỉnh APEC sắp diễn ra, Trung Quốc đang tỏ ra dè dặt trong việc tổ chức cuộc gặp cấp cao với Thủ tướng Takaichi. Phía Trung Quốc nói "đã bày tỏ lập trường rồi", điều này được cho là phản ứng trước phát biểu của Thủ tướng về vấn đề Đài Loan tại Quốc hội. Nếu cuộc gặp Nhật-Trung được thực hiện, đây sẽ là cơ hội ngoại giao quan trọng đầu tiên kể từ khi chính quyền Takaichi ra mắt. Bộ Ngoại giao Nhật Bản tiếp tục điều chỉnh lịch trình ở cấp thực tế nhưng phản ứng của Trung Quốc vẫn chưa rõ ràng.
+        </div>
+        <div class="source">
+          出典: 時事通信 · 2026-11-11 · <a href="https://www.jiji.com/jc/article?k=2026111100963&g=int&m=rss" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">消極的</td>
+              <td class="reading">しょうきょくてき</td>
+              <td class="hanviet">tiêu cực đích</td>
+              <td class="meaning">dè dặt, thụ động, không nhiệt tình</td>
+            </tr>
+            <tr>
+              <td class="jp-word">首脳会談</td>
+              <td class="reading">しゅのうかいだん</td>
+              <td class="hanviet">thủ não hội đàm</td>
+              <td class="meaning">hội nghị thượng đỉnh</td>
+            </tr>
+            <tr>
+              <td class="jp-word">反発</td>
+              <td class="reading">はんぱつ</td>
+              <td class="hanviet">phản phát</td>
+              <td class="meaning">phản ứng mạnh, chống lại</td>
+            </tr>
+            <tr>
+              <td class="jp-word">実務レベル</td>
+              <td class="reading">じつむレベル</td>
+              <td class="hanviet">thực vụ —</td>
+              <td class="meaning">cấp độ thực tế/kỹ thuật (không phải cấp chính trị)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">兼ね合い</td>
+              <td class="reading">かねあい</td>
+              <td class="hanviet">kiêm hợp</td>
+              <td class="meaning">sự cân đối, xem xét kết hợp nhiều yếu tố</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～を前に</strong> — trước thềm / ngay trước
+            <div class="example">
+              <span class="jp">APEC開催を前に、外交調整が大詰めを迎えている。</span>
+              <span class="vi">Trước thềm APEC, các cuộc điều chỉnh ngoại giao đang bước vào giai đoạn cuối.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～とみられる</strong> — được cho là / có vẻ như
+            <div class="example">
+              <span class="jp">台湾問題への発言が影響しているとみられる。</span>
+              <span class="vi">Phát biểu về vấn đề Đài Loan được cho là đang có ảnh hưởng.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A5: 2026年司法試験 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A5</span>2026年司法試験で1595人合格 — 女性合格者が現行制度で最高の31%を記録</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          法務省は11日、今年の司法試験の合格者数が1595人だったと発表した。合格率は35.4%となっており、前年比で微増した。特筆すべきは、女性合格者の割合が31%に達したことで、2006年の新司法試験制度導入後で最高を更新した。法曹界における女性参画の推進は長年の課題とされており、今回の数字はその取り組みに一定の成果が出ていることを示している。ロースクール修了者の合格率では、特定のスクールが高い実績を維持しているものの、全体的には在学中に受験できる「在学中受験制度」の活用が合格者増加に貢献しているとみられる。法務大臣は「多様な人材が法曹界を担う礎になってほしい」とコメントした。
+        </p>
+        <div class="translation-vi">
+          Bộ Tư pháp Nhật Bản thông báo 1.595 người đã vượt qua kỳ thi tư pháp năm 2026, với tỷ lệ đỗ 35,4%, tăng nhẹ so với năm trước. Điểm đáng chú ý là tỷ lệ nữ đỗ đạt 31%, mức cao nhất từ trước đến nay kể từ khi chế độ thi tư pháp mới được áp dụng năm 2006. Việc tăng tỷ lệ phụ nữ trong ngành luật là mục tiêu được theo đuổi lâu dài và kết quả lần này cho thấy những nỗ lực đó đang có hiệu quả. Chế độ thi khi vẫn còn đang theo học trường luật cũng được đánh giá là góp phần tăng tổng số người đỗ.
+        </div>
+        <div class="source">
+          出典: 時事通信 · 2026-11-11 · <a href="https://www.jiji.com/jc/article?k=2026111100952&g=pol&m=rss" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">司法試験</td>
+              <td class="reading">しほうしけん</td>
+              <td class="hanviet">tư pháp thí nghiệm</td>
+              <td class="meaning">kỳ thi tư pháp (để trở thành luật sư, thẩm phán, công tố viên)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">法曹界</td>
+              <td class="reading">ほうそうかい</td>
+              <td class="hanviet">pháp tào giới</td>
+              <td class="meaning">giới luật pháp, cộng đồng pháp lý</td>
+            </tr>
+            <tr>
+              <td class="jp-word">参画</td>
+              <td class="reading">さんかく</td>
+              <td class="hanviet">tham hoạch</td>
+              <td class="meaning">tham gia (vào kế hoạch/tổ chức), tham dự tích cực</td>
+            </tr>
+            <tr>
+              <td class="jp-word">在学中受験</td>
+              <td class="reading">ざいがくちゅうじゅけん</td>
+              <td class="hanviet">tại học trung thụ nghiệm</td>
+              <td class="meaning">thi trong khi vẫn đang theo học</td>
+            </tr>
+            <tr>
+              <td class="jp-word">礎</td>
+              <td class="reading">いしずえ</td>
+              <td class="hanviet">sở</td>
+              <td class="meaning">nền tảng, cơ sở</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～に達する</strong> — đạt đến / lên đến
+            <div class="example">
+              <span class="jp">女性合格者の割合が31%に達した。</span>
+              <span class="vi">Tỷ lệ nữ đỗ đã đạt đến 31%.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～に貢献する</strong> — đóng góp vào / góp phần vào
+            <div class="example">
+              <span class="jp">在学中受験制度が合格者増加に貢献している。</span>
+              <span class="vi">Chế độ thi trong khi đang học đang góp phần vào việc tăng số người đỗ.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<!-- ========== SECTION B: JAPAN TECH ========== -->
+<section id="japan-tech" class="digest-section">
+  <h2 class="section-title">🇯🇵 Tech / AI in Japanese</h2>
+
+  <!-- B1: AWS Nitro Sandboxes -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B1</span>AWS、AIエージェント向け軽量VM「AWS Nitro Sandboxes」提供開始 — ハードウェア分離でEC2性能をそのまま活用</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          AWSは11日、AIエージェントが生成した信頼できないコードを安全に実行するための軽量仮想マシン「AWS Nitro Sandboxes」の提供を開始した。Nitroハイパーバイザーを基盤とし、ハードウェアレベルの強力な分離環境を持ちながら、通常のEC2インスタンスと同等のネイティブパフォーマンスを実現している点が最大の特徴だ。コンテナベースの分離では不十分とされる場面でも、VM単位での隔離を維持することで、マルチテナント環境やセキュリティ要件の厳しいワークロードに対応できる。起動時間は従来の重量級VMと比較して大幅に短縮されており、エージェントの並列実行や瞬時のスケールアウトを想定した設計になっている。AIコードエージェントが実装フェーズで実際にコードを実行するユースケースが急増するなか、このようなサンドボックス専用インフラの重要性は今後さらに高まると予想されている。
+        </p>
+        <div class="translation-vi">
+          AWS ra mắt "AWS Nitro Sandboxes", máy ảo nhẹ dùng để chạy an toàn code không đáng tin cậy do AI agent tạo ra. Dựa trên Nitro hypervisor, giải pháp này cung cấp cách ly ở cấp phần cứng trong khi vẫn giữ được hiệu năng native của EC2. Khác với cách ly container, từng VM được cô lập hoàn toàn, phù hợp với môi trường multi-tenant và workload yêu cầu bảo mật cao. Thời gian khởi động được rút ngắn đáng kể so với VM truyền thống, thiết kế cho việc chạy song song nhiều agent. Đây là cơ sở hạ tầng thiết yếu khi các AI coding agent ngày càng cần thực thi code trong giai đoạn implementation.
+        </div>
+        <div class="source">
+          出典: Publickey · 2026-11-11 · <a href="https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">軽量仮想マシン</td>
+              <td class="reading">けいりょうかそうマシン</td>
+              <td class="hanviet">khinh lượng giả tưởng —</td>
+              <td class="meaning">lightweight virtual machine (VM nhẹ)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">隔離環境</td>
+              <td class="reading">かくりかんきょう</td>
+              <td class="hanviet">cách ly hoàn cảnh</td>
+              <td class="meaning">môi trường cô lập/sandboxed</td>
+            </tr>
+            <tr>
+              <td class="jp-word">並列実行</td>
+              <td class="reading">へいれつじっこう</td>
+              <td class="hanviet">tịnh liệt thực hành</td>
+              <td class="meaning">thực thi song song (parallel execution)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">マルチテナント</td>
+              <td class="reading">マルチテナント</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">multi-tenant (nhiều khách hàng dùng chung hạ tầng)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">スケールアウト</td>
+              <td class="reading">スケールアウト</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">scale out (mở rộng theo chiều ngang)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">ハイパーバイザー</td>
+              <td class="reading">ハイパーバイザー</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">hypervisor (phần mềm quản lý máy ảo)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～として</strong> — dưới dạng / để làm
+            <div class="example">
+              <span class="jp">信頼できないコードを実行する環境として設計された。</span>
+              <span class="vi">Được thiết kế như là môi trường để thực thi code không đáng tin cậy.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～に対応できる</strong> — có thể đáp ứng / có thể xử lý
+            <div class="example">
+              <span class="jp">VM単位での隔離で、厳しいセキュリティ要件に対応できる。</span>
+              <span class="vi">Với cách ly từng VM, có thể đáp ứng được các yêu cầu bảo mật khắt khe.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- B2: Playwright + Bun -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B2</span>テストフレームワーク「Playwright」がBunを正式サポート — Node.jsと並ぶランタイム選択肢に</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          MicrosoftのE2Eテストフレームワーク「Playwright」がv1.65.0のリリースにより、JavaScriptランタイム「Bun」を正式サポートしたことが11日に確認された。これまでPlaywrightはNode.jsを前提としたランタイムで動作していたが、今回の対応でBunのテストランナーとしての利用が可能になった。BunはNode.js互換でありながら、起動速度やバンドル速度で大幅な優位性を持つランタイムとして開発者コミュニティで注目を集めており、Playwrightのサポートはエコシステムのさらなる成熟を示している。AIエージェントやCI/CDパイプラインでのテスト実行時間短縮のニーズが高まる中、Bunの高速起動特性との組み合わせはCI効率化に直接貢献できる。今後はBunのパッケージマネージャーとの統合も改善される見込みで、フロントエンド開発環境の一層の軽量化が期待される。
+        </p>
+        <div class="translation-vi">
+          Framework E2E testing "Playwright" phiên bản v1.65.0 đã chính thức hỗ trợ JavaScript runtime "Bun", mở ra lựa chọn thay thế cho Node.js. Bun nổi bật với tốc độ khởi động và bundle nhanh hơn đáng kể so với Node.js. Sự hỗ trợ này đáp ứng nhu cầu giảm thời gian test trong CI/CD pipeline và agent-driven development. Khả năng kết hợp Playwright với tốc độ khởi động nhanh của Bun có thể cải thiện đáng kể hiệu quả CI. Trong tương lai, tích hợp với package manager của Bun cũng sẽ được cải thiện, hướng đến môi trường phát triển frontend nhẹ hơn.
+        </div>
+        <div class="source">
+          出典: Publickey · 2026-11-11 · <a href="https://www.publickey1.jp/blog/26/playwrightbun.html" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">フレームワーク</td>
+              <td class="reading">フレームワーク</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">framework (khung phát triển phần mềm)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">起動速度</td>
+              <td class="reading">きどうそくど</td>
+              <td class="hanviet">khởi động tốc độ</td>
+              <td class="meaning">tốc độ khởi động</td>
+            </tr>
+            <tr>
+              <td class="jp-word">互換</td>
+              <td class="reading">ごかん</td>
+              <td class="hanviet">hỗ hoán</td>
+              <td class="meaning">tương thích (compatibility)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">エコシステム</td>
+              <td class="reading">エコシステム</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">ecosystem (hệ sinh thái phần mềm)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">パイプライン</td>
+              <td class="reading">パイプライン</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">pipeline (CI/CD pipeline)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～を前提とした</strong> — dựa trên tiền đề là / giả định rằng
+            <div class="example">
+              <span class="jp">これまでNode.jsを前提とした動作だったが、Bunも対応した。</span>
+              <span class="vi">Trước đây hoạt động dựa trên tiền đề là Node.js, nhưng nay đã hỗ trợ cả Bun.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～の見込みで</strong> — dự kiến sẽ / có vẻ sẽ
+            <div class="example">
+              <span class="jp">今後はBunとの統合がさらに改善される見込みだ。</span>
+              <span class="vi">Dự kiến trong tương lai, tích hợp với Bun sẽ tiếp tục được cải thiện.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- B3: AIですぐに作れる時代 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B3</span>AIですぐに作れる時代に何と向き合うか — エンジニアの重点はDB設計・アーキテクチャへ移行</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          AIがコードを高品質に自動生成できるようになった現在、エンジニアが集中すべき仕事はどこへ移っているのか――この問いを正面から論じた記事がZennで注目を集めている。著者は、実装そのものはAIに任せられる場面が増える一方で、データベース設計やシステムアーキテクチャ、またどのような抽象化レイヤーを置くかといった「後戻りが難しい判断」こそがエンジニアの核心的な価値になりつつあると指摘する。生成AIによるコーディングが普及するほど、設計の質が最終的なプロダクト品質を直接左右する構造になる。AIが失敗しやすいポイントとして、ビジネスロジックの暗黙のルールや整合性制約の見落とし、スケーラビリティを考慮しないテーブル設計などが挙げられており、そこにこそ人間の介在価値があるとしている。ソフトウェアエンジニアのキャリアにとっても、設計・思考力の磨き方が今後の差別化要因になるという示唆に富む内容だ。
+        </p>
+        <div class="translation-vi">
+          Khi AI có thể tạo ra code chất lượng cao một cách tự động, điểm tập trung của kỹ sư phần mềm đang dần dịch chuyển sang thiết kế database, kiến trúc hệ thống và những quyết định "khó quay đầu". Tác giả lập luận rằng càng nhiều AI-driven coding, chất lượng thiết kế càng trở thành yếu tố quyết định chất lượng sản phẩm cuối. AI thường bỏ sót các ràng buộc nghiệp vụ ngầm định, consistency constraint và thiết kế table thiếu khả năng mở rộng — đây chính là giá trị còn lại của con người. Đối với sự nghiệp kỹ sư, khả năng tư duy thiết kế sẽ trở thành yếu tố khác biệt trong tương lai.
+        </div>
+        <div class="source">
+          出典: Zenn · 2026-11-09 · <a href="https://zenn.dev/peoplex_blog/articles/2611-what-to-face-when-ai-builds-fast" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">抽象化レイヤー</td>
+              <td class="reading">ちゅうしょうかレイヤー</td>
+              <td class="hanviet">trừu tượng hóa —</td>
+              <td class="meaning">abstraction layer (tầng trừu tượng)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">暗黙のルール</td>
+              <td class="reading">あんもくのルール</td>
+              <td class="hanviet">ám mặc —</td>
+              <td class="meaning">quy tắc ngầm định, implicit rules</td>
+            </tr>
+            <tr>
+              <td class="jp-word">整合性制約</td>
+              <td class="reading">せいごうせいせいやく</td>
+              <td class="hanviet">chỉnh hợp tính chế ước</td>
+              <td class="meaning">consistency constraint (ràng buộc tính nhất quán)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">差別化要因</td>
+              <td class="reading">さべつかよういん</td>
+              <td class="hanviet">sai biệt hóa yếu nhân</td>
+              <td class="meaning">yếu tố khác biệt hóa, differentiation factor</td>
+            </tr>
+            <tr>
+              <td class="jp-word">スケーラビリティ</td>
+              <td class="reading">スケーラビリティ</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">scalability (khả năng mở rộng)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～こそが</strong> — chính … mới là (nhấn mạnh)
+            <div class="example">
+              <span class="jp">後戻りが難しい判断こそがエンジニアの核心的な価値だ。</span>
+              <span class="vi">Chính những quyết định khó quay đầu mới là giá trị cốt lõi của kỹ sư.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～につれて</strong> — khi … thì … (cùng với sự thay đổi)
+            <div class="example">
+              <span class="jp">AIが普及するにつれて、設計力の重要性が増している。</span>
+              <span class="vi">Khi AI ngày càng phổ biến, tầm quan trọng của tư duy thiết kế ngày càng tăng.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<!-- ========== SECTION C: GLOBAL TECH ========== -->
+<section id="global-tech" class="digest-section">
+  <h2 class="section-title">🌐 Global Tech / AI (English)</h2>
+
+  <!-- C1: AWS Emulator + Engineer's Role -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C1</span>AWS Emulator Released: Local Offline AWS Replica Built by AI Agents — The Engineer's New Job Is Writing Specs, Not Code</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Original Article (EN)</div>
+        <p class="content-text lang-en">
+          AWS has open-sourced AWS Emulator, a fully local offline replica of AWS services that lets developers and AI coding agents test infrastructure changes without touching real cloud endpoints. What makes this release remarkable is not just the tool itself, but how it was built: AWS engineering teams used their own AI agents to generate the emulator from AWS's public API surface models, then validated correctness via fidelity tests comparing emulator behavior against live AWS responses. The agent-built-agent loop is now production-grade. In his All Things Distributed post, Swami Sivasubramanian argues that the engineer's role has fundamentally shifted: writing code is increasingly what agents do, while humans own the specs, tests, and guardrails that define "correct." The emulator enables a full local development loop where agents can propose, test, and iterate on infrastructure code entirely offline — including complex multi-service architectures — before any real cloud resource is provisioned. This reduces both cost and feedback cycle time dramatically.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge high">🔴 HIGH</span>
+          <span class="impact-text">Redefines local AWS dev workflow; agents can now run full infra tests offline</span>
+        </div>
+        <div class="source">
+          Source: All Things Distributed (Swami Sivasubramanian) · 2026-11-11 · <a href="https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 Dịch + Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          AWS đã open-source "AWS Emulator" — một bản replica offline hoàn chỉnh của các dịch vụ AWS, cho phép developer và AI coding agent test thay đổi infrastructure mà không cần chạm vào cloud thực. Điều đáng chú ý là emulator này được xây dựng bởi chính các AI agent của AWS từ mô hình API công khai, sau đó được xác thực bằng fidelity test so sánh hành vi emulator với AWS thực. Bài blog của Swami Sivasubramanian lập luận rằng vai trò kỹ sư đã thay đổi căn bản: viết code ngày càng là việc của agent, còn con người sở hữu spec, test và guardrail định nghĩa "đúng là gì". Emulator cho phép vòng lặp phát triển cục bộ hoàn chỉnh — agent có thể đề xuất, test, và iterate trên infrastructure code hoàn toàn offline trước khi deploy lên cloud, giảm cả chi phí lẫn thời gian feedback cycle.
+        </div>
+        <div class="impact-note">
+          Đây là bước ngoặt cho Cloud Engineer: CI/CD pipeline và agent workflow có thể chạy full infra test ngay trên laptop. Cũng là minh chứng sống cho "spec-first development" — AWS chứng minh agent có thể xây dựng công cụ quan trọng từ spec mà không cần lập trình viên viết từng dòng code.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ (EN)</th><th>Phát âm</th><th>Giải thích</th></tr>
+            <tr>
+              <td class="term-en">Fidelity test</td>
+              <td class="term-pron">/fɪˈdelɪti/</td>
+              <td class="term-explain">Test kiểm tra độ trung thực — so sánh output của hệ thống mô phỏng với hệ thống thực để xác nhận chúng hành xử giống nhau</td>
+            </tr>
+            <tr>
+              <td class="term-en">Guardrail</td>
+              <td class="term-pron">/ˈɡɑːrdreɪl/</td>
+              <td class="term-explain">Rào chắn an toàn — constraint/rule giới hạn hành vi của AI agent để tránh output nguy hiểm</td>
+            </tr>
+            <tr>
+              <td class="term-en">Feedback cycle</td>
+              <td class="term-pron">/ˈfiːdbæk/</td>
+              <td class="term-explain">Vòng phản hồi — thời gian từ khi code được viết đến khi nhận được kết quả test/deploy</td>
+            </tr>
+            <tr>
+              <td class="term-en">API surface</td>
+              <td class="term-pron">/ˈeɪpiˌaɪ ˈsɜːrfɪs/</td>
+              <td class="term-explain">Bề mặt API — tập hợp toàn bộ endpoints/methods công khai mà một service cung cấp ra ngoài</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- C2: Apple ML RAG Faster Retrieval -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C2</span>Apple ML Research: Faster Retrieval for Better RAG — New Techniques Improve Both Speed and Quality</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Original Article (EN)</div>
+        <p class="content-text lang-en">
+          Apple Machine Learning Research has published new findings on retrieval optimization in Retrieval-Augmented Generation (RAG) pipelines, introducing techniques that improve both retrieval speed and answer quality simultaneously. Traditional RAG pipelines face a fundamental trade-off: larger, more accurate embedding models produce better retrieval results but add latency, while smaller models are faster but less accurate. The Apple ML team demonstrates a two-stage approach using lightweight approximate retrieval to rapidly narrow the candidate set, followed by a reranking pass that applies a heavier model only to the smaller pool. This reduces total retrieval compute by roughly 60% without measurably degrading answer quality on standard benchmarks. The team also introduces a new metric for measuring retrieval efficiency that accounts for both latency and accuracy, providing a principled way to tune RAG systems for production. The techniques are model-agnostic and applicable to any vector-store-backed retrieval system.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge medium">🟠 MEDIUM</span>
+          <span class="impact-text">Actionable RAG optimization: ~60% retrieval compute reduction, model-agnostic</span>
+        </div>
+        <div class="source">
+          Source: Apple Machine Learning Research · 2026-11-11 · <a href="https://machinelearning.apple.com/research/faster-retrieval" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 Dịch + Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          Nhóm nghiên cứu Apple Machine Learning công bố kỹ thuật tối ưu hóa retrieval trong pipeline RAG, cải thiện đồng thời cả tốc độ và chất lượng. Pipeline RAG truyền thống đối mặt với đánh đổi: model embedding lớn cho kết quả tốt hơn nhưng thêm độ trễ, trong khi model nhỏ nhanh hơn nhưng kém chính xác. Apple ML giới thiệu phương pháp 2 giai đoạn: đầu tiên dùng approximate retrieval nhẹ để thu hẹp nhanh tập ứng viên, sau đó áp dụng reranking với model nặng hơn chỉ trên tập nhỏ này. Phương pháp này giảm khoảng 60% compute cho retrieval mà không làm giảm chất lượng câu trả lời đáng kể trên benchmark chuẩn. Các kỹ thuật này không phụ thuộc vào model cụ thể và áp dụng được cho bất kỳ vector store nào.
+        </div>
+        <div class="impact-note">
+          Với Cloud/ML Engineer đang triển khai RAG: đây là kỹ thuật thực tế có thể áp dụng ngay để giảm chi phí inference. Pipeline 2-stage (approximate → rerank) là pattern quan trọng để tối ưu production RAG system mà không cần đánh đổi chất lượng.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ (EN)</th><th>Phát âm</th><th>Giải thích</th></tr>
+            <tr>
+              <td class="term-en">Retrieval-Augmented Generation</td>
+              <td class="term-pron">/rɪˈtriːvəl ˈɔːɡmentɪd/</td>
+              <td class="term-explain">RAG — kỹ thuật kết hợp tìm kiếm document với LLM generation để trả lời câu hỏi dựa trên dữ liệu riêng</td>
+            </tr>
+            <tr>
+              <td class="term-en">Reranking</td>
+              <td class="term-pron">/riːˈræŋkɪŋ/</td>
+              <td class="term-explain">Xếp hạng lại — sau khi retrieval lấy ra nhiều ứng viên, dùng model mạnh hơn để sắp xếp lại theo độ phù hợp thực sự</td>
+            </tr>
+            <tr>
+              <td class="term-en">Approximate retrieval</td>
+              <td class="term-pron">/əˈprɒksɪmɪt/</td>
+              <td class="term-explain">Tìm kiếm gần đúng — phương pháp tìm vector tương đồng nhanh (ANN) thay vì chính xác tuyệt đối, đánh đổi chính xác lấy tốc độ</td>
+            </tr>
+            <tr>
+              <td class="term-en">Vector store</td>
+              <td class="term-pron">/ˈvektər stɔːr/</td>
+              <td class="term-explain">Kho vector — database chuyên lưu trữ embedding vector và hỗ trợ tìm kiếm similarity (Pinecone, pgvector, Qdrant...)</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- C3: Google AI Agents + Maya Pyramid -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C3</span>48 Google AI Agents Point NASA LiDAR Data at Guatemala — Unmapped Maya Pyramid Found in 72 Hours</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Original Article (EN)</div>
+        <p class="content-text lang-en">
+          A team at Google's Software Engineering Research group deployed 48 AI agents in parallel against NASA LiDAR aerial survey data covering a large region of Guatemala, tasking them with identifying candidate Maya archaeological sites. Within 72 hours, the multi-agent system identified a previously unmapped pyramid structure that field archaeologists subsequently confirmed on the ground. The agents coordinated in a planner-executor architecture: a central orchestrator decomposed the search space into sub-regions, dispatched specialist "scanner" agents for each, and aggregated results using a consensus-and-escalation protocol that prioritized high-confidence detections for human review. The speed factor is the key result: a traditional human expert analysis would have taken months. The team notes that the same agent-mesh pattern — parallel scan, consensus-based escalation, human verification at the final gate — is directly applicable to any task involving large-scale signal extraction from structured data, from security log analysis to genome research.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge high">🔴 HIGH</span>
+          <span class="impact-text">Proof of production multi-agent orchestration at scale — planner-executor pattern validated</span>
+        </div>
+        <div class="source">
+          Source: Pietro Miotti (pietromiotti.com) via Hacker News · 2026-11-11 · <a href="https://pietromiotti.com/latest/maya-site/?maya" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 Dịch + Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          Nhóm nghiên cứu Software Engineering của Google đã triển khai 48 AI agent song song để phân tích dữ liệu LiDAR hàng không của NASA bao phủ vùng rộng lớn ở Guatemala. Chỉ trong 72 giờ, hệ thống multi-agent đã xác định được một cấu trúc kim tự tháp Maya chưa được lập bản đồ, sau đó được nhà khảo cổ xác nhận tại thực địa. Các agent hoạt động theo kiến trúc planner-executor: orchestrator trung tâm chia không gian tìm kiếm thành các vùng con, gửi agent "scanner" chuyên dụng cho từng vùng, và tổng hợp kết quả theo giao thức consensus có ưu tiên cho review của con người. Tốc độ là kết quả chính: phân tích thủ công của chuyên gia sẽ mất nhiều tháng. Pattern này — scan song song, leo thang theo consensus, con người xác nhận cuối — có thể áp dụng cho bất kỳ tác vụ nào từ phân tích log bảo mật đến nghiên cứu genome.
+        </div>
+        <div class="impact-note">
+          Đây là validation thực tế mạnh nhất cho Agentic Engineering: planner-executor với 48 agent chạy parallel đã vượt qua hàng tháng công việc của chuyên gia con người. Pattern này (chia nhỏ, scan song song, consensus escalation) là blueprint áp dụng ngay cho codebase analysis, log triage, hay bất kỳ tác vụ structured data extraction nào.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ (EN)</th><th>Phát âm</th><th>Giải thích</th></tr>
+            <tr>
+              <td class="term-en">LiDAR</td>
+              <td class="term-pron">/ˈlaɪdɑːr/</td>
+              <td class="term-explain">Light Detection and Ranging — kỹ thuật đo đạc từ xa dùng laser để tạo bản đồ 3D bề mặt, có thể "nhìn xuyên" tán cây rừng</td>
+            </tr>
+            <tr>
+              <td class="term-en">Planner-executor</td>
+              <td class="term-pron">/ˈplænər ɪɡˈzekjətər/</td>
+              <td class="term-explain">Mô hình agent gồm 2 role: planner (lập kế hoạch, chia task) và executor (thực thi từng bước cụ thể)</td>
+            </tr>
+            <tr>
+              <td class="term-en">Consensus escalation</td>
+              <td class="term-pron">/kənˈsensəs eskəˈleɪʃən/</td>
+              <td class="term-explain">Cơ chế leo thang theo đồng thuận — kết quả chỉ được đưa lên tầng trên khi đủ số agent đồng ý, lọc bỏ false positive</td>
+            </tr>
+            <tr>
+              <td class="term-en">Orchestrator</td>
+              <td class="term-pron">/ˈɔːrkɪstreɪtər/</td>
+              <td class="term-explain">Agent điều phối — quản lý và phân phối task cho các sub-agent, thu thập và tổng hợp kết quả</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<!-- ========== PREV DIGESTS NAV ========== -->
+<div class="prev-digests">
+  <h3>📂 過去のダイジェスト</h3>
+  <ul class="prev-digests-list">
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-12_0000.html">2026-11-12 00:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-11_2000.html">2026-11-11 20:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-11_1500.html">2026-11-11 15:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-11_1000.html">2026-11-11 10:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-11_0500.html">2026-11-11 05:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-11_0000.html">2026-11-11 00:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-10_2000.html">2026-11-10 20:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-10_1500.html">2026-11-10 15:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-10_1000.html">2026-11-10 10:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-10_0500.html">2026-11-10 05:00</a></li>
+  </ul>
+</div>
+
+<footer>
+  デイリーダイジェスト · 2026-11-12 05:00 JST · SE/Cloud Engineer 向け · <a href="https://cuongnh0609.github.io/daily-news-digest/">最新版はこちら →</a>
+</footer>
+
+<script>
+  (function() {
+    var btns = document.querySelectorAll('.theme-toggle button');
+    var html = document.documentElement;
+    function setTheme(val) {
+      localStorage.setItem('digest-theme', val);
+      if (val === 'system') {
+        html.removeAttribute('data-theme');
+      } else {
+        html.setAttribute('data-theme', val);
+      }
+      btns.forEach(function(b) {
+        b.classList.toggle('active', b.dataset.themeValue === val);
+      });
+    }
+    var saved = localStorage.getItem('digest-theme') || 'system';
+    setTheme(saved);
+    btns.forEach(function(b) {
+      b.addEventListener('click', function() { setTheme(b.dataset.themeValue); });
+    });
+  })();
+</script>
+
+</body>
+</html>

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-12T00:00:00+09:00",
+  "last_run_at": "2026-11-12T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-12T05:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
+        "https://www.itmedia.co.jp/news/article/2611/11/2000003114/",
+        "https://www.jiji.com/jc/article?k=2026111100183&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026111100963&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026111100952&g=pol&m=rss",
+        "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html",
+        "https://www.publickey1.jp/blog/26/playwrightbun.html",
+        "https://zenn.dev/peoplex_blog/articles/2611-what-to-face-when-ai-builds-fast",
+        "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+        "https://machinelearning.apple.com/research/faster-retrieval",
+        "https://pietromiotti.com/latest/maya-site/?maya"
+      ],
+      "titles": [
+        "靖国神社のオンラインショップに不正アクセス — 約1万4500件の個人情報が漏えい",
+        "メール配信会社ユミルリンクへの不正アクセス — 約4786万件漏えい、JR東海など多数に影響",
+        "米・露・ウクライナ交渉2日目 — 領土問題で難航、捕虜交換では一部進展",
+        "APECを控え、中国が高市首相との会談に消極的 — 台湾をめぐる姿勢が影響か",
+        "2026年司法試験で1595人合格 — 女性合格者が現行制度で最高の31%を記録",
+        "AWS、AIエージェント向け軽量VM「AWS Nitro Sandboxes」提供開始 — ハードウェア分離でEC2性能をそのまま活用",
+        "テストフレームワーク「Playwright」がBunを正式サポート — Node.jsと並ぶランタイム選択肢に",
+        "AIですぐに作れる時代に何と向き合うか — エンジニアの重点はDB設計・アーキテクチャへ移行",
+        "AWS Emulator Released: Local Offline AWS Replica Built by AI Agents — The Engineer's New Job Is Writing Specs, Not Code",
+        "Apple ML Research: Faster Retrieval for Better RAG — New Techniques Improve Both Speed and Quality",
+        "48 Google AI Agents Point NASA LiDAR Data at Guatemala — Unmapped Maya Pyramid Found in 72 Hours"
+      ]
+    },
     {
       "run_at": "2026-11-12T00:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Amazon Saves Millions Annually by Replacing Claude Sonnet 4.6 with Strands Decider in Agent Workflows",
         "Anthropic Files S-1 with the SEC for Proposed Initial Public Offering — Claude Enterprise and Claude Code Drive Revenue",
         "Claude Fable 5.2 Is Now Generally Available in GitHub Copilot — Admin Opt-In Required for Enterprise"
-      ]
-    },
-    {
-      "run_at": "2026-11-10T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602029?source=rss",
-        "https://news.yahoo.co.jp/pickup/6602021?source=rss",
-        "https://www.jiji.com/jc/article?k=2026111000360&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6602024?source=rss",
-        "https://www.jiji.com/jc/article?k=2026111000519&g=soc&m=rss",
-        "https://zenn.dev/karamage/articles/f59f4109030d93",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2611/10/news003.html",
-        "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
-        "https://github.com/thisisme6598/gemini_files/",
-        "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-        "https://research.meta.ai/blog/muse-ember"
-      ],
-      "titles": [
-        "内水氾濫の被害軽減へ — 国土交通省が時間100mmの豪雨に対応する新方針を公表",
-        "ヘグセス米国防長官に弾劾決議案 — イラン開戦の議会承認なしなど8項目を列挙、共和党内からも提出",
-        "NVIDIAのフアンCEOにスパイ疑惑 — FBIが中国情報機関との接触を捜査、株価下落",
-        "徳島・阿波市長を詐欺容疑で逮捕 — 交通事故の修理代350万円を公共工事費に水増し計上か",
-        "乳幼児のSNS長時間視聴を回避へ — こども家庭庁が0〜18歳の年代別ガイドライン論点案を公表",
-        "危ないPRだけ人間が見る — リスクスコアでAIと人間のレビューを自動振り分けする「CC Auto Review」",
-        "「MCPはもう特別な存在ではない」— 2026年7月の仕様改訂でステートレス化、Webサービス的運用が可能に",
-        "MCP公式Ruby SDKが「Tier 1」に到達 — TypeScript・Python・Go・Rustと並ぶ最高位サポートへ",
-        "Google Gemini Quietly Routes Personal Gmail and Drive Files to Human Annotators",
-        "Simon Willison: Telling Claude Fable 5.2 \"This Codebase Is Yours\" Changes Its Refactoring Behavior",
-        "Meta Launches Muse Ember: Smallest Model in the Muse Family, Built for Repetitive Agent Tasks"
-      ]
-    },
-    {
-      "run_at": "2026-11-10T10:00:00+09:00",
-      "urls": [
-        "https://news.web.nhk/newsweb/na/nd-20261110de73219",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73220",
-        "https://weathernews.jp/news/202611/080061/",
-        "https://www.nippon.com/en/news/yjj2026082600268/",
-        "https://news.yahoo.co.jp/pickup/6601995",
-        "https://qiita.com/Sidejob/items/1216dd1174ad3e039a2c",
-        "https://qiita.com/tntetsu/items/ecdbcafdfb553224dbda",
-        "https://qiita.com/hathibei7/items/eb0b11156491d10591ad",
-        "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-        "https://pasqualepillitteri.it/en/news/30706/claude-code-cloud-automatic-setup-dependencies-api-keys",
-        "https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development"
-      ],
-      "titles": [
-        "G7外相会合がパリで開幕 — 台湾海峡など「現状変更の試み」に強く反対",
-        "高市首相、AIの急速な進展に「国際社会の連携が必要」とフランスで訴え",
-        "台風32号「チャンパカ」が小笠原諸島に接近 — 32年ぶりの32号発生で警戒呼びかけ",
-        "ホンダ、米国でハイブリッド車新工場の建設を検討 — 旺盛な需要に対応へ",
-        "マンション敷地内に2人が倒れ死亡 — 詳細を警察が捜査中",
-        "Claude Code v2.1.319 — 企業のカスタムLLMゲートウェイ利用者に影響する変更5点",
-        "コードを1行も書かずに5か月 — Agentic Codingの基本ループを体で覚えた記録",
-        "AI・クラウド週間アップデートまとめ（11/04〜11/09）— Claude Code・Anthropic・OpenAI動向",
-        "Meta Acquires Conductor — The Startup That Runs Multiple AI Coding Agents in Parallel",
-        "Claude Code Cloud Gains Automatic Dependency and API Key Setup for Cloud Sessions",
-        "Agentic Coding at Enterprise Scale Demands Spec-Driven Development, Research and Industry Both Conclude"
       ]
     }
   ]

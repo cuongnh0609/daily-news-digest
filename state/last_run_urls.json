@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-12T05:00:00+09:00",
+  "last_run_at": "2026-11-12T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-12T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6602256?source=rss",
+        "https://news.yahoo.co.jp/pickup/6602248?source=rss",
+        "https://news.yahoo.co.jp/pickup/6602254?source=rss",
+        "https://news.yahoo.co.jp/pickup/6602244?source=rss",
+        "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2611/12/news004.html",
+        "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/",
+        "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
+        "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+        "https://github.blog/engineering/beyond-code-generation-agentic-engineering/",
+        "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+      ],
+      "titles": [
+        "露・ウクライナ、大規模な捕虜交換で合意 — 交渉2日目で初の前進",
+        "エヌビディア、ジェンスン・ファンCEO解任準備との報道 — 社内スキャンダルが背景か",
+        "EU、「ダークパターン」を法的に禁止へ — デジタルサービス規制を強化",
+        "「違憲状態」の一票の格差、解決策なく — 参院選の合区制度に限界",
+        "ニトリに不正アクセス — 約3762万件の個人情報が漏えいの可能性",
+        "「APIを呼ぶのは、もう人間ではない」— MCPとOpenAPIの新しい関係性",
+        "Google、「Gemini Decisions API」発表 — テキスト生成なし、確率だけを返す新パラダイム",
+        "MCP Ruby SDKが最高格付け「Tier 1」に昇格 — ステートレス接続など最新仕様に完全対応",
+        "United Airlines Bans AI Agents From Booking Flights on Behalf of Travelers",
+        "GitHub Engineering: Beyond Code Generation — A Guide to Agentic Software Engineering",
+        "Google Launches Gemini Decisions API — A New Primitive That Returns Probabilities, Not Text"
+      ]
+    },
     {
       "run_at": "2026-11-12T05:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Introducing Claude Haiku 5.5 — Anthropic's Fastest and Most Capable Small Model",
         "AI Usage Generates a Fragile Codebase — Four Technical Debt Patterns from Production",
         "Introducing Claude Whiteboards, Claude Sheets, and Claude Data — Anthropic Expands Collaboration Surfaces"
-      ]
-    },
-    {
-      "run_at": "2026-11-11T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602085",
-        "https://news.yahoo.co.jp/pickup/6602093",
-        "https://news.yahoo.co.jp/pickup/6602082",
-        "https://news.yahoo.co.jp/pickup/6602099",
-        "https://news.yahoo.co.jp/pickup/6602100",
-        "https://zenn.dev/oikon/articles/claude-code-recipe",
-        "https://zenn.dev/watany/articles/342b9815dd0553",
-        "https://zenn.dev/mappy55/articles/rulebook-rag-01",
-        "https://deepmind.google/blog/introducing-alphaproof-code/",
-        "https://www.langchain.com/blog/agents-are-going-async",
-        "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories"
-      ],
-      "titles": [
-        "米・露・ウクライナの協議が9カ月ぶりに再開 — 戦後の安全保障が焦点に",
-        "日中首脳会談の実現調整が不調 — 中国、台湾をめぐる首相答弁に反発",
-        "不正アプリでスマホ遠隔操作し詐欺 — 中国籍の男2人を逮捕、全国初の手口",
-        "タマホーム社員による保険金不正請求が発覚 — 損保大手3社が調査、200件超か",
-        "59歳の海将が保育士資格を取得 — 退官後は「福田先生」として保育園へ",
-        "Claude Codeで最近使っているTips【2026/11】— /btwコマンド・HTMLレポート・Modsなど実践5選",
-        "退屈なCoding AgentはMetaのMuseにやらせよう — 無料枠でDAWアプリや翻訳ツールを自動生成",
-        "少年団役員向けRAGを作成 — チャンク設計だけで正答率52%→72%、ハイブリッド検索は効かず",
-        "Google DeepMind's AlphaProof Code Formally Verifies Signal's Cryptographic Protocol Using AI Agents",
-        "LangChain Deep Agents Go Async: Orchestrators Can Now Delegate to Background Subagents",
-        "GitHub Dependabot Alerts Will Automatically Pause on Inactive Repositories Starting December 8"
-      ]
-    },
-    {
-      "run_at": "2026-11-10T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602067?source=rss",
-        "https://news.yahoo.co.jp/pickup/6602072?source=rss",
-        "https://www.jiji.com/jc/article?k=2026111001234&g=pol&m=rss",
-        "https://news.yahoo.co.jp/pickup/6602077?source=rss",
-        "https://www.jiji.com/jc/article?k=2026111000987&g=soc&m=rss",
-        "https://zenn.dev/litalico/articles/20261029-test-with-ai",
-        "https://zenn.dev/kokagex/articles/75f89df3b007cc",
-        "https://www.itmedia.co.jp/news/article/2611/10/2000003043/",
-        "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-        "https://www.anthropic.com/news/s1-sec",
-        "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot"
-      ],
-      "titles": [
-        "原子力潜水艦の導入を視野に — 政府・与党が検討へ、海上防衛力の抜本強化を議論",
-        "ソフトバンクグループ、中間決算で7680億円の最終赤字 — AI投資先の評価損が影響",
-        "高市首相、フィリピン・中国を訪問へ — 16〜19日の日程、重要鉱物・安保で協議",
-        "日商簿記検定など試験の合否・得点が流出か — 日本商工会議所が事実確認を急ぐ",
-        "陸上自衛隊員が大麻所持容疑で逮捕 — 「転落した」と救急要請、当直隊員が発見",
-        "AIでテストカバレッジを23%から84%に引き上げた1.5年の記録 — 失敗も含めた全プロセス公開",
-        "エージェント2体による「異方向検証」パターン — ゴール視点と実行視点で見落としを相互補完",
-        "Google、第8世代TPUに「8tx」と「8i Max」を追加 — 機密データ処理と大規模AIエージェントに特化",
-        "Amazon Saves Millions Annually by Replacing Claude Sonnet 4.6 with Strands Decider in Agent Workflows",
-        "Anthropic Files S-1 with the SEC for Proposed Initial Public Offering — Claude Enterprise and Claude Code Drive Revenue",
-        "Claude Fable 5.2 Is Now Generally Available in GitHub Copilot — Admin Opt-In Required for Enterprise"
       ]
     }
   ]

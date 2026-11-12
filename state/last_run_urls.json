@@ -5,29 +5,29 @@
       "run_at": "2026-11-13T05:00:00+09:00",
       "urls": [
         "https://news.yahoo.co.jp/pickup/6602348",
-        "https://news.yahoo.co.jp/pickup/6602356",
         "https://news.yahoo.co.jp/pickup/6602338",
+        "https://news.yahoo.co.jp/pickup/6602356",
+        "https://news.yahoo.co.jp/pickup/6602332",
         "https://news.yahoo.co.jp/pickup/6602285",
-        "https://news.yahoo.co.jp/pickup/6602251",
-        "https://dev.classmethod.jp/articles/claude-code-skill-inventory-issue-to-pr/",
         "https://zenn.dev/joemike/articles/claude-code-fork-subagent-guide-2026",
         "https://zenn.dev/chukidx_dev/articles/claude-md-user-and-repo-split",
+        "https://dev.classmethod.jp/articles/claude-code-skill-inventory-issue-to-pr/",
         "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-        "https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available/",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
         "https://www.langchain.com/blog/agents-are-going-async"
       ],
       "titles": [
-        "タマホーム、5年以上前から不正施工か — 国土交通省が調査へ",
-        "米ワシントンDCで銃撃事件 — 5人が負傷、容疑者は逃走中",
-        "与党、新築マンション転売抑制へ「空室税」検討 — 住宅市場の過熱に対応",
-        "駐米ロシア大使が死去 — 疾患が原因、後任人事は未定",
-        "「毛沢東」ブームが中国の若者の間で再燃 — 格差社会への不満が背景に",
-        "Issue から PR まで任せている Claude Code のスキルを棚卸ししてみた",
+        "タマホーム、5年以上前から火災保険を不正請求か — 数千万円規模の疑い",
+        "与党、新築マンション転売抑制へ「空室税」新設を検討",
+        "米ワシントン中心部のジムで銃撃事件 — 5人負傷、容疑者は逃走中",
+        "芥川龍之介「藪の中」、原稿公開で当初と異なる題名・結末が判明",
+        "駐米ロシア大使ダルチエフ氏が死去 — 66歳、慢性疾患が原因",
         "Claude Code fork() の使いどき — 並列エージェント設計の判断基準",
-        "CLAUDE.md をユーザー共通とリポジトリごとに分けて運用している話",
-        "Anthropic Donates Agent Skills to the Agentic AI Foundation",
-        "GitHub Agentic Workflows Now Generally Available",
-        "LangChain: Agents Are Going Async — Why Long-Running Tasks Demand a New Execution Model"
+        "CLAUDE.md をユーザー共通とリポジトリごとに分けて運用する — 判断軸と実例",
+        "Issue から PR まで任せている Claude Code のスキルを棚卸ししてみた",
+        "Anthropic Donates Agent Skills Standard to Agentic AI Foundation Under Linux Foundation",
+        "Introducing Gemini 4 Hydrogen: Google's Fast Agent-Optimized Model with 2.5× Speed Gains",
+        "Agents Are Going Async: LangChain's Blueprint for Responsive, Multi-Task AI Agents"
       ]
     },
     {
@@ -202,6 +202,35 @@
         "Atuin Threads: Search and Sync Your AI Agent Sessions Across Every Machine",
         "LangChain Introduces Eval-Driven Development (EDD): Write Evals First, Build Agents Toward Them",
         "Gemini 4 Carbon Now Generally Available in GitHub Copilot — Billed at Provider List Price"
+      ]
+    },
+    {
+      "run_at": "2026-11-11T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6602169",
+        "https://news.yahoo.co.jp/pickup/6602170",
+        "https://news.yahoo.co.jp/pickup/6602173",
+        "https://news.yahoo.co.jp/pickup/6602171",
+        "https://news.yahoo.co.jp/pickup/6602175",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news011.html",
+        "https://zenn.dev/sun_asterisk/articles/1d1c65b1fe409a",
+        "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
+        "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+        "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+        "https://github.com/GoogleChrome/modern-web-guidance"
+      ],
+      "titles": [
+        "札幌マンションで兄弟が転落死 — 室内に血の付いた刃物、警察が経緯を調査",
+        "介護現場のスポットワーカー依存が急拡大 — 施設の8割が活用、月収2.5倍の例も",
+        "ドコモ5G SA障害、不正アクセスを否定 — 午前中から全国で通話・データに影響",
+        "松坂桃李、2027年NHK大河ドラマの主演に意欲 — 「最後まで走り抜けたい」",
+        "参院選の「一票の格差」、最高裁が「違憲状態」と初認定 — 格差3倍超で",
+        "Gemini NotebookLMに公式REST APIとMCPサーバーが登場 — AIエージェントからノートブック操作が可能に",
+        "週間制限に3日で到達していたClaudeが、ModelとEffortの使い分けで5日持つようになった話",
+        "Google、AIエージェントをKubernetesで10倍高密度に実行できる「Agent Sustrate」をCNCFへ寄贈",
+        "Tracking Anthropic-Discovered Vulnerabilities: Seven Months In, the Numbers Surprise",
+        "llm-anthropic 0.31 Released — Adds Claude Fable 5.2 & Mythos 5.2, Reveals Pricing and Effort Differences",
+        "Show HN: Modern Web Guidance — Chrome/Edge/Firefox/MDN Teams Ship Agent Skills to Modernize Stale JS"
       ]
     }
   ]

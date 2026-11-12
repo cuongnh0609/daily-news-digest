@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-12T15:00:00+09:00",
+  "last_run_at": "2026-11-12T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-12T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6602328",
+        "https://www.jiji.com/jc/article?k=2026111200729&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026111200826&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6602316",
+        "https://www.jiji.com/jc/article?k=2026111200861&g=int&m=rss",
+        "https://zenn.dev/dress_code/articles/568fd547315abe",
+        "https://zenn.dev/sae_eng/articles/0e9ed7205ebc41",
+        "https://zenn.dev/canly/articles/9943093ef0c25c",
+        "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot/",
+        "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories/",
+        "https://simonwillison.net/2026/Nov/11/llm/"
+      ],
+      "titles": [
+        "エヌビディアCEOとの不倫疑惑の中国人女性、台湾に8回訪問 — スパイ疑惑で米台が調査",
+        "麻生副総裁、石破前首相の消費減税採決棄権を「遺憾」と批判 — 自民党内の亀裂鮮明に",
+        "北海道新聞、ロシア拘束記者の実名公表 — 今井裕紀記者、拘束から1カ月で",
+        "丸亀製麺、かけうどんを440円→390円に値下げ — 消費減税を機に、社長が「危機感」語る",
+        "金正恩総書記、東海岸の海軍基地建設を視察 — 「重大な核心事業」と軍拡を加速",
+        "AIエージェントがADRの決定を「勝手に変えた」5つのパターンと対策 — spec管理の新しい課題",
+        "Claude Codeのトークン使用量を4割削減 — autoCompactWindow設定とアイドル時compact術",
+        "Claude Data・Sheets・Whiteboards をTeamプランで実際に試した — できること・できないことの全体像",
+        "Claude Fable 5.2 Now in GitHub Copilot — But Requires Data Retention by Default",
+        "GitHub Dependabot Will Pause Alerts on Inactive Repositories Starting December 8",
+        "llm 0.37.2 Security Release: API Keys Were Being Leaked to Other Providers' Endpoints"
+      ]
+    },
     {
       "run_at": "2026-11-12T15:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Anthropic Launches IPO Roadshow — Pricing Set at $70–$78 Per Share, Raising Up to $6.4B",
         "Thoughtworks Tech Radar Promotes OpenSpec from Assess to Trial — Spec-Driven AI Dev Goes Mainstream",
         "Simon Willison Releases llm-gemini 0.36 — Adds Gemini 4 Carbon Support and Streaming Tool Calls"
-      ]
-    },
-    {
-      "run_at": "2026-11-11T10:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/11/2000003084/",
-        "https://www.itmedia.co.jp/news/article/2611/11/2000003085/",
-        "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
-        "https://www.itmedia.co.jp/news/article/2611/11/2000003087/",
-        "https://www.itmedia.co.jp/news/article/2611/10/2000003072/",
-        "https://zenn.dev/aws_japan/articles/4399262cf00559",
-        "https://zenn.dev/pksha/articles/laplace-build-guide",
-        "https://www.publickey1.jp/blog/26/net_11cjitaot.html",
-        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-        "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
-        "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
-      ],
-      "titles": [
-        "日商ネット試験に不正アクセス — 受験者最大98万人の個人情報が漏えいか",
-        "Anthropic、IPO仮条件を発表 — 1株70～78ドル、調達額は最大約644億ドル",
-        "Google、「Gemini 4 Carbon」一般提供を開始 — 最上位AIはUltraプラン限定",
-        "GMOあおぞらネット銀行、不正通信を検知しAPI一時停止 — 金融・暗号資産サービスに影響",
-        "スキマバイト「シェアフル」に不正アクセス — 最大750万アカウント、口座情報も漏えいか",
-        "LiteLLM Adaptive Routerを実環境で検証 — 日本語の落とし穴とマルチモデル最適配分の知見",
-        "AIネイティブなデータ分析基盤「Laplace」の設計 — MCPとBigQueryで「誰でも・安全に」を実現",
-        "マイクロソフト、.NET 11正式リリース — C#共用型導入・JIT高速化、.NET 8/9はサポート終了",
-        "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation — 1M Skills, 70+ Platforms Integrating",
-        "Google Gemini 4 Carbon Goes GA — Top AI Model Unlocked, /swarm Multi-Agent Preview Debuts",
-        "Apple's \"Harbor\" App Turns Your Mac Into a Private Local AI Inference Server — Thunderbolt Clustering Included"
-      ]
-    },
-    {
-      "run_at": "2026-11-11T05:00:00+09:00",
-      "urls": [
-        "https://news.web.nhk/newsweb/na/nd-20261111de73840",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73861",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73843",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73528",
-        "https://news.yahoo.co.jp/pickup/6602095",
-        "https://zenn.dev/kazuph/articles/5a6cc61ae21940",
-        "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-        "https://zenn.dev/takuh/articles/a56d21a48e0ca8",
-        "https://www.anthropic.com/claude-haiku-5-5",
-        "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-        "https://claude.com/resources/articles/sheets-whiteboards-data"
-      ],
-      "titles": [
-        "消費税減税法案 参院できょう審議入り — 与党少数の国会で論戦へ",
-        "米・露・ウクライナ高官協議 — ゼレンスキー大統領「建設的」と評価",
-        "タマホーム社員に火災保険不正請求の疑い — 損害保険大手が調査要請",
-        "JR東日本「ウォークスルー改札」— 山手線全駅など2028年春に導入へ",
-        "「もう終わりやで」— 明石ダコが深刻な不漁、漁業者に衝撃",
-        "いつのまにかClaude CodeをMCPサーバー化してClaude Desktopから使えるようになっていた件",
-        "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
-        "Claude Fable 5.2 は 5.1 から何が変わった？ — 性能・料金・effort・APIの違いを整理",
-        "Introducing Claude Haiku 5.5 — Anthropic's Fastest and Most Capable Small Model",
-        "AI Usage Generates a Fragile Codebase — Four Technical Debt Patterns from Production",
-        "Introducing Claude Whiteboards, Claude Sheets, and Claude Data — Anthropic Expands Collaboration Surfaces"
       ]
     }
   ]

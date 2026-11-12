@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-12T20:00:00+09:00",
+  "last_run_at": "2026-11-13T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-13T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6602353",
+        "https://news.yahoo.co.jp/pickup/6602355",
+        "https://news.yahoo.co.jp/pickup/6602347",
+        "https://news.yahoo.co.jp/pickup/6602354",
+        "https://news.yahoo.co.jp/pickup/6602352",
+        "https://zenn.dev/tokium_dev/articles/llm-admin-interface",
+        "https://zenn.dev/theoj/articles/opencode-development-log",
+        "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
+        "https://www.publickey1.jp/blog/26/net_11cjitaot.html",
+        "https://hugovk.dev/blog/2026/lock-github-actions/",
+        "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
+      ],
+      "titles": [
+        "エヌビディアのジェンスン・ファン創業者CEOが辞任、CFOが暫定トップへ",
+        "ニューヨーク・ブルックリンで3階建て建物が崩壊 — 8人死亡・17人以上負傷",
+        "元経理担当者が21億円超を横領か — さいたま地検が逮捕",
+        "米退役軍人の日、国防長官ら墓地で衛兵に叱責 — 追悼式典中の「私語」が問題に",
+        "銭湯ロッカー荒らしの背後に国際犯罪グループか — 中国籍の容疑者を逮捕",
+        "「AIが管理画面を操作する時代」— WebMCPを使ったAI-first管理画面の設計とPoC実践",
+        "OpenCodeをマルチエージェント対応に拡張 — 「いちょまる」開発ログ全公開",
+        "Google Antigravity、クラウド「リモートエージェント」機能を追加 — PCがオフでもタスク継続",
+        "Microsoft Releases .NET 11 — C# Union Types, Faster JIT/AOT, and New dotnetup Toolchain Manager",
+        "Lock Your GitHub Actions — New Official Lockfile Support Ends SHA-Pinning Toil",
+        "How a False Smoke Alarm Almost Drowned Jane Street's NYC Datacenter — And the OCaml Monitor Built After"
+      ]
+    },
     {
       "run_at": "2026-11-12T20:00:00+09:00",
       "urls": [
@@ -121,7 +150,7 @@
       "run_at": "2026-11-12T00:00:00+09:00",
       "urls": [
         "https://www.jiji.com/jc/article?k=2026111100661&g=pol",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73933",
+        "https://news.web.nhk.or.jp/newsweb/na/nd-20261111de73933",
         "https://news.yahoo.co.jp/pickup/6602215",
         "https://www.jiji.com/jc/article?k=2026111100665&g=eco",
         "https://www.jiji.com/jc/article?k=2026111100844&g=eco",

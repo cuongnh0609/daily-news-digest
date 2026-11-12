@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-13T00:00:00+09:00",
+  "last_run_at": "2026-11-13T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-13T05:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6602348",
+        "https://news.yahoo.co.jp/pickup/6602356",
+        "https://news.yahoo.co.jp/pickup/6602338",
+        "https://news.yahoo.co.jp/pickup/6602285",
+        "https://news.yahoo.co.jp/pickup/6602251",
+        "https://dev.classmethod.jp/articles/claude-code-skill-inventory-issue-to-pr/",
+        "https://zenn.dev/joemike/articles/claude-code-fork-subagent-guide-2026",
+        "https://zenn.dev/chukidx_dev/articles/claude-md-user-and-repo-split",
+        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+        "https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available/",
+        "https://www.langchain.com/blog/agents-are-going-async"
+      ],
+      "titles": [
+        "タマホーム、5年以上前から不正施工か — 国土交通省が調査へ",
+        "米ワシントンDCで銃撃事件 — 5人が負傷、容疑者は逃走中",
+        "与党、新築マンション転売抑制へ「空室税」検討 — 住宅市場の過熱に対応",
+        "駐米ロシア大使が死去 — 疾患が原因、後任人事は未定",
+        "「毛沢東」ブームが中国の若者の間で再燃 — 格差社会への不満が背景に",
+        "Issue から PR まで任せている Claude Code のスキルを棚卸ししてみた",
+        "Claude Code fork() の使いどき — 並列エージェント設計の判断基準",
+        "CLAUDE.md をユーザー共通とリポジトリごとに分けて運用している話",
+        "Anthropic Donates Agent Skills to the Agentic AI Foundation",
+        "GitHub Agentic Workflows Now Generally Available",
+        "LangChain: Agents Are Going Async — Why Long-Running Tasks Demand a New Execution Model"
+      ]
+    },
     {
       "run_at": "2026-11-13T00:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Atuin Threads: Search and Sync Your AI Agent Sessions Across Every Machine",
         "LangChain Introduces Eval-Driven Development (EDD): Write Evals First, Build Agents Toward Them",
         "Gemini 4 Carbon Now Generally Available in GitHub Copilot — Billed at Provider List Price"
-      ]
-    },
-    {
-      "run_at": "2026-11-11T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602169",
-        "https://news.yahoo.co.jp/pickup/6602170",
-        "https://news.yahoo.co.jp/pickup/6602173",
-        "https://news.yahoo.co.jp/pickup/6602171",
-        "https://news.yahoo.co.jp/pickup/6602175",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news011.html",
-        "https://zenn.dev/sun_asterisk/articles/1d1c65b1fe409a",
-        "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
-        "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-        "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
-        "https://github.com/GoogleChrome/modern-web-guidance"
-      ],
-      "titles": [
-        "札幌マンションで兄弟が転落死 — 室内に血の付いた刃物、警察が経緯を調査",
-        "介護現場のスポットワーカー依存が急拡大 — 施設の8割が活用、月収2.5倍の例も",
-        "ドコモ5G SA障害、不正アクセスを否定 — 午前中から全国で通話・データに影響",
-        "松坂桃李、2027年NHK大河ドラマの主演に意欲 — 「最後まで走り抜けたい」",
-        "参院選の「一票の格差」、最高裁が「違憲状態」と初認定 — 格差3倍超で",
-        "Gemini NotebookLMに公式REST APIとMCPサーバーが登場 — AIエージェントからノートブック操作が可能に",
-        "週間制限に3日で到達していたClaudeが、ModelとEffortの使い分けで5日持つようになった話",
-        "Google、AIエージェントをKubernetesで10倍高密度に実行できる「Agent Sustrate」をCNCFへ寄贈",
-        "Tracking Anthropic-Discovered Vulnerabilities: Seven Months In, the Numbers Surprise",
-        "llm-anthropic 0.31 Released — Adds Claude Fable 5.2 & Mythos 5.2, Reveals Pricing and Effort Differences",
-        "Show HN: Modern Web Guidance — Chrome/Edge/Firefox/MDN Teams Ship Agent Skills to Modernize Stale JS"
-      ]
-    },
-    {
-      "run_at": "2026-11-11T15:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/11/2000003105/",
-        "https://www.itmedia.co.jp/news/article/2611/11/2000003100/",
-        "https://www.itmedia.co.jp/news/article/2611/11/2000003095/",
-        "https://www.itmedia.co.jp/news/article/2611/11/2000003091/",
-        "https://news.yahoo.co.jp/pickup/6602168",
-        "https://zenn.dev/tree_and_tree/articles/thoughts-on-claude-fable-5-2",
-        "https://zenn.dev/tukiyubi/articles/88cb22b6fded78",
-        "https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi",
-        "https://www.anthropic.com/news/roadshow-launch",
-        "https://www.thoughtworks.com/radar/tools/openspec",
-        "https://simonwillison.net/2026/Nov/10/llm-gemini/"
-      ],
-      "titles": [
-        "内閣府メールマガジン利用者6万件超のメールアドレスが漏えい — 氏名なども流出の可能性",
-        "タッチ不要の「ウォークスルー改札」、山手線など40駅に拡大 — JR東日本が2028年春導入へ",
-        "ドコモ、全国で通話・データ利用しづらい障害が発生 — 「5G SAがつながらない」の声多数",
-        "エディオンにサイバー攻撃 — クレジットカード番号・セキュリティコードも一部漏えいか",
-        "ブルガリアで多重交通事故、12人死亡 — 高速道路上の玉突き衝突",
-        "Claude Fable 5.2のプロンプトガイドを読んで正直に思ったこと — 「モデルは今やコードベースを所有している」",
-        "スペック駆動開発とcc-sddの仕組みを図解 — requirements・design・tasksの3文書ループとAIエージェント承認ゲート",
-        "Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
-        "Anthropic Launches IPO Roadshow — Pricing Set at $70–$78 Per Share, Raising Up to $6.4B",
-        "Thoughtworks Tech Radar Promotes OpenSpec from Assess to Trial — Spec-Driven AI Dev Goes Mainstream",
-        "Simon Willison Releases llm-gemini 0.36 — Adds Gemini 4 Carbon Support and Streaming Tool Calls"
       ]
     }
   ]

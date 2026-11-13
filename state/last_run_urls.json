@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-13T05:00:00+09:00",
+  "last_run_at": "2026-11-13T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-13T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6602377",
+        "https://news.yahoo.co.jp/pickup/6602369",
+        "https://news.yahoo.co.jp/pickup/6602385",
+        "https://news.yahoo.co.jp/pickup/6602362",
+        "https://news.yahoo.co.jp/pickup/6602380",
+        "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
+        "https://zenn.dev/fusic/articles/4dc357178cbc1e",
+        "https://zenn.dev/rakko_inc/articles/nodejs-security-nov-2026-proxy",
+        "https://www.anthropic.com/news/roadshow-launch",
+        "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+        "https://developer.apple.com/foundation-models-framework/"
+      ],
+      "titles": [
+        "米国、日本に「思いやり予算」5年間で3兆円超を要求",
+        "首相、防衛費増額に向けた「大幅増税」には慎重な姿勢",
+        "参議院議員の山崎正昭氏が死去",
+        "「Microsoft 365」で大規模障害 — OutlookやTeamsなど複数サービスに影響",
+        "ワタミがMBO検討 — 渡邉美樹会長が株式非公開化を模索",
+        "Sakana AI、「イチからモデルを作る」新戦略を発表",
+        "Amazon Bedrock AgentCore Gatewayで自社vLLMとBedrockを統合",
+        "Node.js 22/24/26に16件のCVE — HTTP/2・TLS直接終端アプリは緊急対応が必要",
+        "Anthropic Launches IPO Roadshow — 825M Shares Offered on Nasdaq Under Ticker ANT",
+        "Rust 1.100.0 Released — Never Type Stabilized, Custom Allocators, and Cargo Unused Dependency Warnings",
+        "Apple Launches Foundation Models Framework — On-Device LLM API with Third-Party Provider Support"
+      ]
+    },
     {
       "run_at": "2026-11-13T05:00:00+09:00",
       "urls": [

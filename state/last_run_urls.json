@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-14T00:00:00+09:00",
+  "last_run_at": "2026-11-14T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-14T05:00:00+09:00",
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQOUB140000U6A111C2000000/",
+        "https://www3.nhk.or.jp/news/html/20261114/k10015010001000.html",
+        "https://www.jiji.com/jc/article?k=2026111400234&g=soc",
+        "https://www.nikkei.com/article/DGXZQOUF130XA0T11C2A1000000/",
+        "https://news.yahoo.co.jp/pickup/6602510",
+        "https://zenn.dev/ubie_dev/articles/45501469c9c044",
+        "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
+        "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
+        "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
+        "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
+        "https://simonwillison.net/2026/Nov/9/mysterious-beeps/"
+      ],
+      "titles": [
+        "日銀、12月の利上げ観測が強まる——円相場は一時152円台に上昇",
+        "G7外相会合、ウクライナ復興支援と対ロ制裁強化を共同声明に明記へ",
+        "能登半島地震の復旧工事、仮設住宅の移転先確保に遅れ——石川県が対策会議",
+        "セブン&アイ、コンビニ事業に特化する再編計画を正式発表——スーパー部門を分離へ",
+        "大谷翔平、来季のドジャース開幕戦は東京で——MLB公式が日程を正式発表",
+        "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
+        "AIエージェントを「追えない、止められない」——約半数が経験する"暴走"、浮上する3つの盲点",
+        "MCP公式Ruby SDKが「Tier 1」認定——Agentic AI FoundationがMCPの完全仕様サポートを発表",
+        "AWS Launches Nitro Sandboxes — Hardware-Isolated Lightweight VMs Purpose-Built for AI Agent Workloads",
+        "Google Donates Agent Substrate and gVisor to CNCF — Claims 10× Denser AI Agent Execution on Kubernetes",
+        "Locating a Mysterious Beep with Claude Code — Simon Willison's Multi-Device Audio Triangulation Experiment"
+      ]
+    },
     {
       "run_at": "2026-11-14T00:00:00+09:00",
       "urls": [

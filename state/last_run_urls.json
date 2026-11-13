@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-13T15:00:00+09:00",
+  "last_run_at": "2026-11-13T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-13T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6602431",
+        "https://news.yahoo.co.jp/pickup/6602448",
+        "https://news.yahoo.co.jp/pickup/6602444",
+        "https://news.yahoo.co.jp/pickup/6602445",
+        "https://news.yahoo.co.jp/pickup/6602442",
+        "https://zenn.dev/safie_inc/articles/b6fa3de06606be",
+        "https://zenn.dev/ca_kagglers/articles/two-tower-mechanism",
+        "https://zenn.dev/atrae/articles/032b9fccca0ff7",
+        "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+        "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+        "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+      ],
+      "titles": [
+        "支援金の対象拡大へ——勤労者全体の5割以上をカバーする所得上限の引き上げを検討",
+        "ニデック、年内の臨時株主総会を断念——会計不正の監査が長引き、議決権基準日を取り消し",
+        "損保3社、タマホームとの保険販売停止を検討——不正請求疑惑で取引関係の見直しへ",
+        "大阪・枚方で3歳長女への暴行死事件——父親を殺人容疑で、母親を保護責任者遺棄致死容疑で逮捕",
+        "アジアプロ野球チャンピオンシップ——侍ジャパン対韓国の大一番、連勝へ正木の2戦連発に期待",
+        "フィーチャーチームに配属された新卒エンジニアのAI活用術——Claude Codeをスキルで使い分け、「振り回されない」運用を確立",
+        "Two-Tower検索システムの仕組みを徹底解説——学習・推論・配信の全工程とバイアス対策",
+        "AIに頼る3年目エンジニアが選んだ技術書10冊——アーキテクチャ・DB設計・DDDを体系的に学び直す",
+        "Google Antigravity Launches Gemini 4 Hydrogen with Multi-Model Orchestrator — 24% Less Quota, 19% Faster on Terminal-Bench",
+        "22-Year-Old PostgreSQL Type-Confusion Bug Turned Into RCE — CVE-2026-6460 Drops with 52 Security Commits",
+        "Gemini 4 Hydrogen Pricing Deep Dive — Simon Willison on the Confusing Cost Structure and Pelican Test Comparisons"
+      ]
+    },
     {
       "run_at": "2026-11-13T15:00:00+09:00",
       "urls": [
@@ -202,93 +231,6 @@
         "United Airlines Bans AI Agents From Booking Flights on Behalf of Travelers",
         "GitHub Engineering: Beyond Code Generation — A Guide to Agentic Software Engineering",
         "Google Launches Gemini Decisions API — A New Primitive That Returns Probabilities, Not Text"
-      ]
-    },
-    {
-      "run_at": "2026-11-12T05:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
-        "https://www.itmedia.co.jp/news/article/2611/11/2000003114/",
-        "https://www.jiji.com/jc/article?k=2026111100183&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026111100963&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026111100952&g=pol&m=rss",
-        "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html",
-        "https://www.publickey1.jp/blog/26/playwrightbun.html",
-        "https://zenn.dev/peoplex_blog/articles/2611-what-to-face-when-ai-builds-fast",
-        "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
-        "https://machinelearning.apple.com/research/faster-retrieval",
-        "https://pietromiotti.com/latest/maya-site/?maya"
-      ],
-      "titles": [
-        "靖国神社のオンラインショップに不正アクセス — 約1万4500件の個人情報が漏えい",
-        "メール配信会社ユミルリンクへの不正アクセス — 約4786万件漏えい、JR東海など多数に影響",
-        "米・露・ウクライナ交渉2日目 — 領土問題で難航、捕虜交換では一部進展",
-        "APECを控え、中国が高市首相との会談に消極的 — 台湾をめぐる姿勢が影響か",
-        "2026年司法試験で1595人合格 — 女性合格者が現行制度で最高の31%を記録",
-        "AWS、AIエージェント向け軽量VM「AWS Nitro Sandboxes」提供開始 — ハードウェア分離でEC2性能をそのまま活用",
-        "テストフレームワーク「Playwright」がBunを正式サポート — Node.jsと並ぶランタイム選択肢に",
-        "AIですぐに作れる時代に何と向き合うか — エンジニアの重点はDB設計・アーキテクチャへ移行",
-        "AWS Emulator Released: Local Offline AWS Replica Built by AI Agents — The Engineer's New Job Is Writing Specs, Not Code",
-        "Apple ML Research: Faster Retrieval for Better RAG — New Techniques Improve Both Speed and Quality",
-        "48 Google AI Agents Point NASA LiDAR Data at Guatemala — Unmapped Maya Pyramid Found in 72 Hours"
-      ]
-    },
-    {
-      "run_at": "2026-11-12T00:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026111100661&g=pol",
-        "https://news.web.nhk.or.jp/newsweb/na/nd-20261111de73933",
-        "https://news.yahoo.co.jp/pickup/6602215",
-        "https://www.jiji.com/jc/article?k=2026111100665&g=eco",
-        "https://www.jiji.com/jc/article?k=2026111100844&g=eco",
-        "https://zenn.dev/knowledgesense/articles/bd917ed6829121",
-        "https://www.publickey1.jp/blog/26/github_copilot_dreaming_github_universe_2026.html",
-        "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-        "https://blog.atuin.sh/threads-agent-sessions/",
-        "https://www.langchain.com/blog/what-is-eval-driven-development",
-        "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot"
-      ],
-      "titles": [
-        "昨年参院選は「違憲状態」— 最高裁大法廷が格差3.13倍を初認定、合区導入後で初判断",
-        "アマゾンジャパン、独禁法調査で改善計画を提出 — 公取委が承認、出品価格条件を緩和へ",
-        "食料品消費税減税法案、参院で審議入り — 財源・支援金の具体策示されず、野党が追及",
-        "COP31首脳級会合が開幕、主要国が相次いで欠席 — 国際連携に乱れ、1.5度目標の超過も確実視",
-        "国民健康保険料の上限を3万円引き上げ — 厚労省が6年連続の見直し案を提示",
-        "NVIDIAの「長文コンテキスト不要」論文 — エージェンティックな圧縮・選択的読み込みでLLMコスト削減",
-        "GitHub Copilot Dreamingが発表 — バックグラウンドでメモリを再編成、個人化されたガイダンスを提供",
-        "ISUCON2026で優勝 — AIエージェントに全作業を委ねる戦略で初の「AI完全自動最適化」を達成",
-        "Atuin Threads: Search and Sync Your AI Agent Sessions Across Every Machine",
-        "LangChain Introduces Eval-Driven Development (EDD): Write Evals First, Build Agents Toward Them",
-        "Gemini 4 Carbon Now Generally Available in GitHub Copilot — Billed at Provider List Price"
-      ]
-    },
-    {
-      "run_at": "2026-11-11T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602169",
-        "https://news.yahoo.co.jp/pickup/6602170",
-        "https://news.yahoo.co.jp/pickup/6602173",
-        "https://news.yahoo.co.jp/pickup/6602171",
-        "https://news.yahoo.co.jp/pickup/6602175",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news011.html",
-        "https://zenn.dev/sun_asterisk/articles/1d1c65b1fe409a",
-        "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
-        "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-        "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
-        "https://github.com/GoogleChrome/modern-web-guidance"
-      ],
-      "titles": [
-        "札幌マンションで兄弟が転落死 — 室内に血の付いた刃物、警察が経緯を調査",
-        "介護現場のスポットワーカー依存が急拡大 — 施設の8割が活用、月収2.5倍の例も",
-        "ドコモ5G SA障害、不正アクセスを否定 — 午前中から全国で通話・データに影響",
-        "松坂桃李、2027年NHK大河ドラマの主演に意欲 — 「最後まで走り抜けたい」",
-        "参院選の「一票の格差」、最高裁が「違憲状態」と初認定 — 格差3倍超で",
-        "Gemini NotebookLMに公式REST APIとMCPサーバーが登場 — AIエージェントからノートブック操作が可能に",
-        "週間制限に3日で到達していたClaudeが、ModelとEffortの使い分けで5日持つようになった話",
-        "Google、AIエージェントをKubernetesで10倍高密度に実行できる「Agent Sustrate」をCNCFへ寄贈",
-        "Tracking Anthropic-Discovered Vulnerabilities: Seven Months In, the Numbers Surprise",
-        "llm-anthropic 0.31 Released — Adds Claude Fable 5.2 & Mythos 5.2, Reveals Pricing and Effort Differences",
-        "Show HN: Modern Web Guidance — Chrome/Edge/Firefox/MDN Teams Ship Agent Skills to Modernize Stale JS"
       ]
     }
   ]

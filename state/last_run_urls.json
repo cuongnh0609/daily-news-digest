@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-13T20:00:00+09:00",
+  "last_run_at": "2026-11-14T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-14T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6602480",
+        "https://news.yahoo.co.jp/pickup/6602465",
+        "https://www.jiji.com/jc/article?k=2026111301024&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026111301173&g=soc&m=rss",
+        "https://www.jiji.com/jc/article?k=2026111301083&g=pol&m=rss",
+        "https://zenn.dev/watany/muse-agent-coding-routine",
+        "https://zenn.dev/oikon/claude-code-tips-nov-2026",
+        "https://zenn.dev/unsoluble_sugar/wordpress-to-astro-cloudflare",
+        "https://github.blog/engineering/build-once-run-on-any-agent-skills/",
+        "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+        "https://brave.com/blog/search-api-x402-agentic-payments/"
+      ],
+      "titles": [
+        "自衛官の給与引き上げ法が成立——防衛力強化に向けた人材確保策",
+        "秋田・由利本荘の大雨被害、死者を「災害死」と認定——義援金・支援金対象に",
+        "マイクロソフト大規模障害、70か国超に影響——解消に時間かかる見通し",
+        "神奈川でトラックにひき逃げか——女性2人が死亡、運転手の行方追う",
+        "大阪市のメールアドレス100万件超が漏えい——配信事業者への不正アクセスで",
+        "Muse AIエージェントを日常コーディングに組み込む——「考えさせる」設計パターンの実践",
+        "Claude Code Tips 2026年11月版——コンテキスト管理・並列エージェント・費用最適化の最前線",
+        "10年超の個人ブログをWordPressからAstro + Cloudflare Workersへ移行——理由と実践メモ",
+        "Build Once, Run on Any Agent: GitHub's Practical Guide to Agent Skills",
+        "Gemini Decisions API: Google's New Primitive That Returns Probabilities, Not Text",
+        "Brave Search API Now Accepts Agentic Payments via x402 Protocol"
+      ]
+    },
     {
       "run_at": "2026-11-13T20:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Claude Fable 5.2 Now in GitHub Copilot — But Requires Data Retention by Default",
         "GitHub Dependabot Will Pause Alerts on Inactive Repositories Starting December 8",
         "llm 0.37.2 Security Release: API Keys Were Being Leaked to Other Providers' Endpoints"
-      ]
-    },
-    {
-      "run_at": "2026-11-12T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602302",
-        "https://news.yahoo.co.jp/pickup/6602290",
-        "https://news.yahoo.co.jp/pickup/6602286",
-        "https://news.yahoo.co.jp/pickup/6602300",
-        "https://news.yahoo.co.jp/pickup/6602293",
-        "https://zenn.dev/ubie_dev/articles/45501469c9c044",
-        "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/",
-        "https://www.itmedia.co.jp/enterprise/articles/2611/11/news089.html",
-        "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
-        "https://www.itmedia.co.jp/business/articles/2611/12/news037.html",
-        "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability"
-      ],
-      "titles": [
-        "良品計画、廃棄すべき会員情報を保管し続け漏洩か — 社長が謝罪",
-        "高市首相再選へ支持広がる — 国力研究会に129人、小泉・小林氏が相次ぎ表明",
-        "米ミシシッピ州上院選 — 民主党が44年ぶりに勝利、初の黒人上院議員へ",
-        "すかいらーくHD、博多発祥の人気ラーメン「Shin-Shin」を買収 — 国内外に展開へ",
-        "「故意ではなかった」— 鳥人間7連覇の東北大チームが危険飛行で失格、"執行猶予付き"処分の内幕",
-        "Ubieが社内クラウドエージェント基盤「Uvin」を公開 — Software Factoryをエージェントで動かす",
-        "Muse AIにメールアドレスが付与 — メールでAIと対話・タスク依頼が可能に",
-        "Gartner 2027年戦略技術トレンド発表 — 「エージェントガバナンス」が最重要課題に",
-        "Google DeepMind Releases AlphaGenome 2 — AI Model Predicts Cell-Type-Specific DNA Variant Effects",
-        "Panasonic Builds \"Physical AI\" Division With 250 Engineers — Turning Craftsmen's Tacit Knowledge Into AI Models",
-        "Critical RCE Vulnerability in Apache HTTP Server — CVE-2026-119618 Affects Apache 2.4.55-2.4.70"
-      ]
-    },
-    {
-      "run_at": "2026-11-12T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602256?source=rss",
-        "https://news.yahoo.co.jp/pickup/6602248?source=rss",
-        "https://news.yahoo.co.jp/pickup/6602254?source=rss",
-        "https://news.yahoo.co.jp/pickup/6602244?source=rss",
-        "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2611/12/news004.html",
-        "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/",
-        "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
-        "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-        "https://github.blog/engineering/beyond-code-generation-agentic-engineering/",
-        "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
-      ],
-      "titles": [
-        "露・ウクライナ、大規模な捕虜交換で合意 — 交渉2日目で初の前進",
-        "エヌビディア、ジェンスン・ファンCEO解任準備との報道 — 社内スキャンダルが背景か",
-        "EU、「ダークパターン」を法的に禁止へ — デジタルサービス規制を強化",
-        "「違憲状態」の一票の格差、解決策なく — 参院選の合区制度に限界",
-        "ニトリに不正アクセス — 約3762万件の個人情報が漏えいの可能性",
-        "「APIを呼ぶのは、もう人間ではない」— MCPとOpenAPIの新しい関係性",
-        "Google、「Gemini Decisions API」発表 — テキスト生成なし、確率だけを返す新パラダイム",
-        "MCP Ruby SDKが最高格付け「Tier 1」に昇格 — ステートレス接続など最新仕様に完全対応",
-        "United Airlines Bans AI Agents From Booking Flights on Behalf of Travelers",
-        "GitHub Engineering: Beyond Code Generation — A Guide to Agentic Software Engineering",
-        "Google Launches Gemini Decisions API — A New Primitive That Returns Probabilities, Not Text"
       ]
     }
   ]

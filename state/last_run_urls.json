@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-14T10:00:00+09:00",
+  "last_run_at": "2026-11-14T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-14T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6602549",
+        "https://news.yahoo.co.jp/pickup/6602537",
+        "https://news.yahoo.co.jp/pickup/6602532",
+        "https://news.yahoo.co.jp/pickup/6602546",
+        "https://news.yahoo.co.jp/pickup/6602520",
+        "https://zenn.dev/canly/articles/e2bd67c9a4c18b",
+        "https://zenn.dev/karamage/articles/5c3f8370b2b370",
+        "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
+        "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+        "https://haddyalchaer.com/jepa",
+        "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+      ],
+      "titles": [
+        "侍ジャパン、アジアCS決勝進出——オーストラリアに16対1の大勝、宗山が満塁弾",
+        "全米の空路に大規模混乱——FAA、通信障害で4時間超の離陸禁止令、150万人足止め",
+        "米中露首脳会談、来週APECに合わせ開催へ——核軍縮・イラン情勢が主要議題",
+        "マイクロソフト、個人向けサービスが完全復旧——大規模障害は約6時間で収束",
+        "「銀だこ」が赤字転落——食材コスト急騰と価格転嫁の難しさで経営に岐路",
+        "Claude Duet を Team プランで使ってみた——組織管理・権限設定・注意点を総まとめ",
+        "AIに「敵対的レビュー」をさせるな——トークンは検証と実行に使え",
+        "AWS公式「AWSエミュレータ」正式リリース——AWSアカウント不要でローカルにAPI環境を再現",
+        "GitHub Copilot: Six AI Models Deprecated on December 14 — Claude Fable 5, Haiku 4.5, Gemini Argon, Grok 4.6 Removed",
+        "After 600 Experiments: What JEPA World Models Actually Learn (And What They Don't)",
+        "ggml v1.0.0 Released — The Foundational Inference Library Behind llama.cpp Hits Stable API"
+      ]
+    },
     {
       "run_at": "2026-11-14T10:00:00+09:00",
       "urls": [
@@ -231,35 +260,6 @@
         "Microsoft Releases .NET 11 — C# Union Types, Faster JIT/AOT, and New dotnetup Toolchain Manager",
         "Lock Your GitHub Actions — New Official Lockfile Support Ends SHA-Pinning Toil",
         "How a False Smoke Alarm Almost Drowned Jane Street's NYC Datacenter — And the OCaml Monitor Built After"
-      ]
-    },
-    {
-      "run_at": "2026-11-12T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602328",
-        "https://www.jiji.com/jc/article?k=2026111200729&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026111200826&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6602316",
-        "https://www.jiji.com/jc/article?k=2026111200861&g=int&m=rss",
-        "https://zenn.dev/dress_code/articles/568fd547315abe",
-        "https://zenn.dev/sae_eng/articles/0e9ed7205ebc41",
-        "https://zenn.dev/canly/articles/9943093ef0c25c",
-        "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot/",
-        "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories/",
-        "https://simonwillison.net/2026/Nov/11/llm/"
-      ],
-      "titles": [
-        "エヌビディアCEOとの不倫疑惑の中国人女性、台湾に8回訪問 — スパイ疑惑で米台が調査",
-        "麻生副総裁、石破前首相の消費減税採決棄権を「遺憾」と批判 — 自民党内の亀裂鮮明に",
-        "北海道新聞、ロシア拘束記者の実名公表 — 今井裕紀記者、拘束から1カ月で",
-        "丸亀製麺、かけうどんを440円→390円に値下げ — 消費減税を機に、社長が「危機感」語る",
-        "金正恩総書記、東海岸の海軍基地建設を視察 — 「重大な核心事業」と軍拡を加速",
-        "AIエージェントがADRの決定を「勝手に変えた」5つのパターンと対策 — spec管理の新しい課題",
-        "Claude Codeのトークン使用量を4割削減 — autoCompactWindow設定とアイドル時compact術",
-        "Claude Data・Sheets・Whiteboards をTeamプランで実際に試した — できること・できないことの全体像",
-        "Claude Fable 5.2 Now in GitHub Copilot — But Requires Data Retention by Default",
-        "GitHub Dependabot Will Pause Alerts on Inactive Repositories Starting December 8",
-        "llm 0.37.2 Security Release: API Keys Were Being Leaked to Other Providers' Endpoints"
       ]
     }
   ]

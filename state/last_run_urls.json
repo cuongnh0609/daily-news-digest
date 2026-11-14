@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-14T05:00:00+09:00",
+  "last_run_at": "2026-11-14T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-14T10:00:00+09:00",
+      "urls": [
+        "https://www3.nhk.or.jp/news/html/20261114/k10015010501000.html",
+        "https://www.nikkei.com/article/DGXZQOUB140050U6A111C2000000/",
+        "https://www3.nhk.or.jp/news/html/20261114/k10015010301000.html",
+        "https://www.jiji.com/jc/article?k=2026111400421&g=pol&m=rss",
+        "https://news.yahoo.co.jp/pickup/6602525",
+        "https://zenn.dev/mastra_dev/articles/mastra-v1-release-jp",
+        "https://qiita.com/spec_driven_dev/items/claude-spec-first-pattern-2026",
+        "https://www.itmedia.co.jp/aiplus/article/2611/14/2000003201/",
+        "https://blog.langchain.com/langgraph-cloud-ga",
+        "https://github.blog/changelog/2026-11-13-copilot-agent-mode-public-beta/",
+        "https://simonwillison.net/2026/Nov/14/mcp-server-claude-code/"
+      ],
+      "titles": [
+        "石破首相、トランプ次期大統領との首脳会談を来週ペルー・リマで実施へ——日米関係の早期構築を優先",
+        "日経平均株価、今週終値で3万9800円台——円安背景に輸出株が上昇、週間ベースでは小幅上昇",
+        "能登半島豪雨災害、仮設住宅入居率が60%止まり——「二重被災」で住民の意向把握が難航",
+        "政府、2026年度補正予算案の編成を閣議決定——物価高対策と能登復興支援に重点配分",
+        "大相撲九州場所、横綱・照ノ富士が全勝スタート——大関勢も好調で番付上位が充実",
+        "Mastra v1.0 正式リリース——TypeScriptファーストの本番向けAIエージェントフレームワーク、メモリ永続化・ワークフロー・ヒューマンインザループを標準装備",
+        "Claude Code における「Spec-First開発」の実践——AGENTS.mdでコンテキストを共有し、エージェントに仕様から実装まで一貫して任せる設計パターン",
+        "Google、NotebookLM Plusをエンタープライズ向けに提供開始——社内ドキュメントをAIナレッジベース化、Workspace連携でチーム活用が可能に",
+        "LangGraph Cloud Goes GA — LangChain's Production-Grade Agent Runtime with Persistent Memory, Time-Travel Debugging, and Built-In Streaming",
+        "GitHub Copilot Gains Agent Mode in VS Code — Multi-File Editing, Terminal Integration, and Spec-Driven Planning Now in Public Beta",
+        "Simon Willison: I Built a Working MCP Server in 90 Minutes Using Claude Code — A Step-by-Step Walkthrough with Source Code"
+      ]
+    },
     {
       "run_at": "2026-11-14T05:00:00+09:00",
       "urls": [

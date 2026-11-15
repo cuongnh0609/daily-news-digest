@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-15T15:00:00+09:00",
+  "last_run_at": "2026-11-15T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-15T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6602704",
+        "https://news.yahoo.co.jp/pickup/6602697",
+        "https://news.yahoo.co.jp/pickup/6602708",
+        "https://news.yahoo.co.jp/pickup/6602705",
+        "https://news.yahoo.co.jp/pickup/6602703",
+        "https://zenn.dev/happy_elements/articles/201519107f93de",
+        "https://zenn.dev/caphtech/articles/qwen38-zh-ban",
+        "https://www.publickey1.jp/blog/26/playwrightbun.html",
+        "https://www.anthropic.com/news/distillation-defenses",
+        "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+        "https://runkiri.com/"
+      ],
+      "titles": [
+        "防衛省AI活用の基本方針 見直しへ",
+        "「中国の元スパイ」語る 接近手口",
+        "侍ジャパン、アジアCS決勝で西川が先制ソロ",
+        "映画VIVANT 新キャラに石黒賢",
+        "スピッツ﨑山さん 交通事故で搬送",
+        "Skills を持つ単一エージェントは、サブエージェント構成より品質で上回ることが多い — Anthropic が示す移行の手順",
+        "Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに",
+        "Playwright v1.65.0、テストランナーでBunを公式サポート",
+        "Anthropic Strengthens Defenses Against Model Distillation Attacks — Over 90% Reduction Achieved",
+        "Generative AI Uses More Energy Processing Non-English Text — Hidden Cost of Multilingual AI",
+        "Kiri: A Modern Container Runtime Built for Security-First, OCI-Compatible Workloads"
+      ]
+    },
     {
       "run_at": "2026-11-15T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "LangGraph Cloud Goes GA — LangChain's Production-Grade Agent Runtime with Persistent Memory, Time-Travel Debugging, and Built-In Streaming",
         "GitHub Copilot Gains Agent Mode in VS Code — Multi-File Editing, Terminal Integration, and Spec-Driven Planning Now in Public Beta",
         "Simon Willison: I Built a Working MCP Server in 90 Minutes Using Claude Code — A Step-by-Step Walkthrough with Source Code"
-      ]
-    },
-    {
-      "run_at": "2026-11-14T05:00:00+09:00",
-      "urls": [
-        "https://www.nikkei.com/article/DGXZQOUB140000U6A111C2000000/",
-        "https://www3.nhk.or.jp/news/html/20261114/k10015010001000.html",
-        "https://www.jiji.com/jc/article?k=2026111400234&g=soc",
-        "https://www.nikkei.com/article/DGXZQOUF130XA0T11C2A1000000/",
-        "https://news.yahoo.co.jp/pickup/6602510",
-        "https://zenn.dev/ubie_dev/articles/45501469c9c044",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
-        "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
-        "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
-        "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
-        "https://simonwillison.net/2026/Nov/9/mysterious-beeps/"
-      ],
-      "titles": [
-        "日銀、12月の利上げ観測が強まる——円相場は一時152円台に上昇",
-        "G7外相会合、ウクライナ復興支援と対ロ制裁強化を共同声明に明記へ",
-        "能登半島地震の復旧工事、仮設住宅の移転先確保に遅れ——石川県が対策会議",
-        "セブン&アイ、コンビニ事業に特化する再編計画を正式発表——スーパー部門を分離へ",
-        "大谷翔平、来季のドジャース開幕戦は東京で——MLB公式が日程を正式発表",
-        "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
-        "AIエージェントを「追えない、止められない」——約半数が経験する"暴走"、浮上する3つの盲点",
-        "MCP公式Ruby SDKが「Tier 1」認定——Agentic AI FoundationがMCPの完全仕様サポートを発表",
-        "AWS Launches Nitro Sandboxes — Hardware-Isolated Lightweight VMs Purpose-Built for AI Agent Workloads",
-        "Google Donates Agent Substrate and gVisor to CNCF — Claims 10× Denser AI Agent Execution on Kubernetes",
-        "Locating a Mysterious Beep with Claude Code — Simon Willison's Multi-Device Audio Triangulation Experiment"
-      ]
-    },
-    {
-      "run_at": "2026-11-14T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602480",
-        "https://news.yahoo.co.jp/pickup/6602465",
-        "https://www.jiji.com/jc/article?k=2026111301024&g=int&m=rss",
-        "https://www.jiji.com/jc/article?k=2026111301173&g=soc&m=rss",
-        "https://www.jiji.com/jc/article?k=2026111301083&g=pol&m=rss",
-        "https://zenn.dev/watany/muse-agent-coding-routine",
-        "https://zenn.dev/oikon/claude-code-tips-nov-2026",
-        "https://zenn.dev/unsoluble_sugar/wordpress-to-astro-cloudflare",
-        "https://github.blog/engineering/build-once-run-on-any-agent-skills/",
-        "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-        "https://brave.com/blog/search-api-x402-agentic-payments/"
-      ],
-      "titles": [
-        "自衛官の給与引き上げ法が成立——防衛力強化に向けた人材確保策",
-        "秋田・由利本荘の大雨被害、死者を「災害死」と認定——義援金・支援金対象に",
-        "マイクロソフト大規模障害、70か国超に影響——解消に時間かかる見通し",
-        "神奈川でトラックにひき逃げか——女性2人が死亡、運転手の行方追う",
-        "大阪市のメールアドレス100万件超が漏えい——配信事業者への不正アクセスで",
-        "Muse AIエージェントを日常コーディングに組み込む——「考えさせる」設計パターンの実践",
-        "Claude Code Tips 2026年11月版——コンテキスト管理・並列エージェント・費用最適化の最前線",
-        "10年超の個人ブログをWordPressからAstro + Cloudflare Workersへ移行——理由と実践メモ",
-        "Build Once, Run on Any Agent: GitHub's Practical Guide to Agent Skills",
-        "Gemini Decisions API: Google's New Primitive That Returns Probabilities, Not Text",
-        "Brave Search API Now Accepts Agentic Payments via x402 Protocol"
       ]
     }
   ]

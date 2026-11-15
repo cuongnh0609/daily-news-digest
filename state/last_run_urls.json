@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-15T05:00:00+09:00",
+  "last_run_at": "2026-11-15T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-15T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6602629",
+        "https://news.yahoo.co.jp/pickup/6602627",
+        "https://news.yahoo.co.jp/pickup/6602626",
+        "https://news.yahoo.co.jp/pickup/6602623",
+        "https://news.yahoo.co.jp/pickup/6602625",
+        "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/",
+        "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
+        "https://zenn.dev/dress_code/articles/568fd547315abe",
+        "https://www.crissyfield.de/research/lovable-en/",
+        "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+        "https://simonwillison.net/2026/Nov/14/datasette-llm/"
+      ],
+      "titles": [
+        "大阪・阿倍野の再開発が1,822億円の赤字に——40年超の事業が残した「負の遺産」とインバウンドへの期待",
+        "米、ウクライナのNATO加盟と引き換えに東部撤退を打診——ゼレンスキー氏が初めて明かす",
+        "史上初の米中露3首脳会談——ヤルタ会談以来の「大国の取引」、各国の思惑が交錯",
+        "愛知・小牧で住宅強盗——就寝中の82歳女性が棒状の凶器で殴られ重傷、複数の男が逃走",
+        "「VIVANT」スピンオフ「ドラム編」、11月22日に地上波で初放送——日曜劇場枠で登場",
+        "NotionのAIデータ漏えい問題が拡大——ZDRプランの企業にも影響、委託先Fireworks.aiとの契約違反が判明",
+        "Sakana AI、エージェント向け独自モデル「Sawara」の事前学習を12月に開始——「好機が来た」とイチから開発へ",
+        "AIエージェントが決定を勝手に変えてしまう5つのパターン——ADRと決定IDで「記録の改竄」を防ぐ実践",
+        "Lovable AI App Builder Exposes 200K+ Private Messages and Passport Data — Supabase RLS Misconfiguration at Scale",
+        "Google Antigravity's /teamwork: Multi-Agent System Proves Math Conjectures, Rewrites Microkernels in Rust at 50M-Line Scale",
+        "datasette-llm 0.1a11: Simon Willison Adds OpenAI-Compatible Endpoint Support — Local Models (Ollama, LM Studio, llama.cpp) Now Work with Datasette Agent"
+      ]
+    },
     {
       "run_at": "2026-11-15T05:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Build Once, Run on Any Agent: GitHub's Practical Guide to Agent Skills",
         "Gemini Decisions API: Google's New Primitive That Returns Probabilities, Not Text",
         "Brave Search API Now Accepts Agentic Payments via x402 Protocol"
-      ]
-    },
-    {
-      "run_at": "2026-11-13T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602431",
-        "https://news.yahoo.co.jp/pickup/6602448",
-        "https://news.yahoo.co.jp/pickup/6602444",
-        "https://news.yahoo.co.jp/pickup/6602445",
-        "https://news.yahoo.co.jp/pickup/6602442",
-        "https://zenn.dev/safie_inc/articles/b6fa3de06606be",
-        "https://zenn.dev/ca_kagglers/articles/two-tower-mechanism",
-        "https://zenn.dev/atrae/articles/032b9fccca0ff7",
-        "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-        "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-        "https://simonwillison.net/2026/Nov/12/llm-gemini/"
-      ],
-      "titles": [
-        "支援金の対象拡大へ——勤労者全体の5割以上をカバーする所得上限の引き上げを検討",
-        "ニデック、年内の臨時株主総会を断念——会計不正の監査が長引き、議決権基準日を取り消し",
-        "損保3社、タマホームとの保険販売停止を検討——不正請求疑惑で取引関係の見直しへ",
-        "大阪・枚方で3歳長女への暴行死事件——父親を殺人容疑で、母親を保護責任者遺棄致死容疑で逮捕",
-        "アジアプロ野球チャンピオンシップ——侍ジャパン対韓国の大一番、連勝へ正木の2戦連発に期待",
-        "フィーチャーチームに配属された新卒エンジニアのAI活用術——Claude Codeをスキルで使い分け、「振り回されない」運用を確立",
-        "Two-Tower検索システムの仕組みを徹底解説——学習・推論・配信の全工程とバイアス対策",
-        "AIに頼る3年目エンジニアが選んだ技術書10冊——アーキテクチャ・DB設計・DDDを体系的に学び直す",
-        "Google Antigravity Launches Gemini 4 Hydrogen with Multi-Model Orchestrator — 24% Less Quota, 19% Faster on Terminal-Bench",
-        "22-Year-Old PostgreSQL Type-Confusion Bug Turned Into RCE — CVE-2026-6460 Drops with 52 Security Commits",
-        "Gemini 4 Hydrogen Pricing Deep Dive — Simon Willison on the Confusing Cost Structure and Pelican Test Comparisons"
-      ]
-    },
-    {
-      "run_at": "2026-11-13T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602406",
-        "https://news.yahoo.co.jp/pickup/6602397",
-        "https://www.jiji.com/jc/article?k=2026111300308&g=int&m=rss",
-        "https://news.yahoo.co.jp/pickup/6602407",
-        "https://www.jiji.com/jc/article?k=2026111300510&g=pol&m=rss",
-        "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
-        "https://zenn.dev/fixstars/articles/kimi-k31-pro-benchmark",
-        "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
-        "https://www.langchain.com/blog/how-workday-built-an-enterprise-scale-ai-agent-platform-with-langgraph-and-langsmith",
-        "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-        "https://www.cursor.com/blog/projects-multiplayer"
-      ],
-      "titles": [
-        "イラン側、バーレーンの米軍施設を攻撃——中東緊張が一段と高まる",
-        "冬の電気・ガス代補助に6500億円——政府が予備費支出を閣議決定",
-        "Microsoft 365で大規模障害、政府の情報システムにも影響——デジタル相が陳謝",
-        "NHK紅白歌合戦、出場歌手が決定——白組に演歌歌手ゼロで世代交代鮮明",
-        "ペルーのフジモリ大統領が今月19日に初来日——チリ大統領も訪問へ",
-        "Google社内コーディングAI「GfG」、1兆トークンの内部データで学習——タスク時間を半減",
-        "最強オープンウェイトモデル Kimi-K3.1-Pro をセルフホストして独自ベンチで比較してみた",
-        "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
-        "How Workday Built an Enterprise-Scale AI Agent Platform with LangGraph and LangSmith",
-        "Edge0-145B: Frontier-Level AI Capabilities Running on Your Own Hardware",
-        "Cursor Projects Goes Multiplayer — Real-Time Shared AI Agent Sessions"
       ]
     }
   ]

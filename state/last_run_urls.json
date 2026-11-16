@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-16T10:00:00+09:00",
+  "last_run_at": "2026-11-16T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-16T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6602786",
+        "https://news.yahoo.co.jp/pickup/6602785",
+        "https://news.yahoo.co.jp/pickup/6602790",
+        "https://news.yahoo.co.jp/pickup/6602789",
+        "https://news.yahoo.co.jp/pickup/6602779",
+        "https://zenn.dev/takuyousou/articles/agentcore-memory-poisoning-guardrails",
+        "https://zenn.dev/naofumimurata/articles/nono-hc-proxy",
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
+        "https://qwen.ai/blog?id=qwen4-max",
+        "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003224/"
+      ],
+      "titles": [
+        "AI株の売りが広がり、日経平均が一時6万円を下回る——エヌビディア経営の不透明感が引き金に",
+        "東京の分譲マンション賃料が過去最高を更新——5か月連続で記録塗り替え、70㎡換算で月35万円超",
+        "スパコン「富岳」に不正アクセス——理研が明らかに、企業の機密情報流出の懸念も",
+        "斉藤慎二被告が控訴——性的暴行罪で懲役4年の判決を不服として東京高裁へ",
+        "若者に広がる「NISA貧乏」——投資熱の高まりで4人に1人が口座保有、一方で生活費を圧迫する事例も",
+        "AIエージェントは悪意ある外部指示を記憶するのか——AgentCore MemoryとGuardrailsで「記憶汚染攻撃」を検証",
+        "サンドボックス内のClaude CodeからHerdrを安全に操作する——プロキシ経由でエージェントの境界を守る実装パターン",
+        "パスキー対応103サイトを独大学が検証——全てに脆弱性、実装上の欠陥がパスワードより危険なケースも",
+        "Qwen4-Max Released: Alibaba's Latest Flagship LLM Challenges GPT and Claude Across All Benchmarks",
+        "GitHub Copilot Deprecates 6 Models on December 14 — Claude Fable 5, Haiku 4.5, Gemini 3.8, and Grok 4.6 All Retiring",
+        "Fugaku Supercomputer Suffers Unauthorized Access — Corporate Confidential Data Potentially Exposed"
+      ]
+    },
     {
       "run_at": "2026-11-16T10:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Anthropic's IPO Roadshow Transcript: Multi-Chip Compute Strategy and AI Safety Economics Explained",
         "Gemini 4 Hydrogen Now Available in GitHub Copilot — Usage-Based Billing at Provider List Pricing",
         "Lovable-Built Apps Expose 200K+ Private Messages and Passport Details — AI App Builder Security Flaw Disclosed"
-      ]
-    },
-    {
-      "run_at": "2026-11-15T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602584",
-        "https://www.nikkei.com/article/DGXZQODH142PH0U6A111C2000000/",
-        "https://www.nikkei.com/article/DGXZQOUC13CL30T11C26A1000000/",
-        "https://news.yahoo.co.jp/pickup/6602590",
-        "https://news.yahoo.co.jp/pickup/6602587",
-        "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
-        "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
-        "https://www.publickey1.jp/blog/26/net_8net_9net_10.html",
-        "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-        "https://www.langchain.com/blog/series-c",
-        "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/"
-      ],
-      "titles": [
-        "米中露の接近、日本政府に危機感——三大国の協調が加速するなか外交方針の再構築を迫られる",
-        "サッカー日本代表、ブラジルに3-2で劇的逆転勝利——坂元達裕の決勝ゴールで強豪を撃破",
-        "Netflixが国内で2年ぶりの値上げ——広告付きプランは990円に、スタンダードは1890円へ",
-        "日本兵の墓が無縁化——戦後80年を経ても解消されない遺族不明問題、改葬に法の壁",
-        "大相撲力士・魁禅さんが33歳で死去——胃がんとの闘病を経て若くして逝く、角界に衝撃",
-        "「好機が来た」——なぜ今Sakana AIはイチからAIモデルを作るのか。大規模LLMに依存しない独自路線",
-        "Google、高速・低価格の「Gemini 4 Hydrogen」を発表——無料ユーザーも利用可能、GitHub Copilotにも搭載",
-        ".NET 8と.NET 9のサポートが昨日で終了——今すぐ.NET 10への移行を、Microsoftが強く呼びかけ",
-        "Anthropic Introduces Claude Fable 5.2 and Claude Mythos 5.2 — Faster Reasoning, Stronger Coding, Tiered Safety Controls",
-        "LangChain Closes $300M Series C at $3B Valuation — Betting on \"Every Company Owning Its Own Intelligence\"",
-        "Simon Willison Discovers: Telling Claude \"You Own This Code\" Changes Its Behavior Dramatically"
-      ]
-    },
-    {
-      "run_at": "2026-11-14T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602568",
-        "https://news.yahoo.co.jp/pickup/6602573",
-        "https://news.yahoo.co.jp/pickup/6602559",
-        "https://news.yahoo.co.jp/pickup/6602566",
-        "https://news.yahoo.co.jp/pickup/6602582",
-        "https://zenn.dev/ara_ta3/articles/thinking-about-engineers-five-years-from-now",
-        "https://zenn.dev/dress_code/articles/568fd547315abe",
-        "https://www.itmedia.co.jp/news/article/2611/14/2000003201/",
-        "https://www.anthropic.com/engineering",
-        "https://openai.com/blog",
-        "https://www.latent.space/p/jev-revolution/"
-      ],
-      "titles": [
-        "米・FAA通信障害で全土の航空網が4時間以上麻痺——乗客150万人超が足止め、羽田でも影響",
-        "印旛沼の堤防が決壊——記録的豪雨で周辺農地・住宅地が浸水、復旧工事は長期化へ",
-        "大阪・枚方の3歳死亡事件、父親「腹立ってやった」と供述——虐待死として捜査本格化",
-        "菓子店の倒産が過去最多ペース——原材料費・エネルギー費の急騰に価格転嫁が追いつかず",
-        "日本代表がブラジルに先制——森保J、強豪との親善試合で試される守備と連携",
-        "Pydantic AI v0.4 リリース——型安全なエージェント定義・ストリーミング対応・マルチエージェント依存解決が標準化",
-        "Qiita週間トレンド：「AGENTS.md によるマルチリポジトリ設計」——Claude Code に複数リポジトリを横断させる実践パターン",
-        "ITmedia AI+：生成AIの「幻覚」対策、RAGから「検証エージェント」へシフト——国内企業の導入実態レポート",
-        "Anthropic Releases Claude Code SDK — Programmatic Agent Orchestration with Native Subagent Spawning",
-        "OpenAI Launches \"Spec-Driven Coding\" Mode in ChatGPT Canvas — Plan Files Become Executable Contracts for Codex Agents",
-        "The Jev Revolution: What Engineers Are Already Building with System One AI Models"
       ]
     }
   ]

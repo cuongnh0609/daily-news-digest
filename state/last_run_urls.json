@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-17T00:00:00+09:00",
+  "last_run_at": "2026-11-17T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-17T05:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003231/",
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003198/",
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003228/",
+        "https://zenn.dev/polyco/articles/e05cb28c569801",
+        "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
+        "https://zenn.dev/ara_ta3/articles/thinking-about-engineers-five-years-from-now",
+        "https://www.anthropic.com/news/roadshow-launch",
+        "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+        "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories"
+      ],
+      "titles": [
+        "GoogleのAIが人間の関与なしに脆弱性を発見・悪用——GTIG初の観測レポート",
+        "次世代半導体「酸化ガリウム」、埼玉のスタートアップが世界展開を加速",
+        "ジェンスン・フアン退任は「NVIDIAバブル崩壊」の序章か——半導体業界に広がる不透明感",
+        "フリーランス市場、受注者の約8割がAIを利用——発注者との間に情報開示の意識差",
+        "秋葉原のスマートごみ箱、防犯カメラのある場所に設置——不法投棄を事前に想定した設計",
+        "mizchi/mutatorでAIが書いたテストの品質を測る——ミューテーションテストが開発ワークフローに入り込む",
+        "Google Antigravity、クラウド上のリモートエージェント機能を本格展開——PCの電源を切ってもAIが働き続ける",
+        "5年後のエンジニアは、AIが作ったコードへの「説明責任」を担う職業になる",
+        "Anthropic Launches IPO Roadshow at $70–$78/Share — 825M Shares on Nasdaq as ANT",
+        "Gemini 4 Hydrogen Now Generally Available in GitHub Copilot — Optimized for Agentic Coding",
+        "GitHub Launches Bulk AI Scan for Repositories — REST API Now Controls Security Coverage at Scale"
+      ]
+    },
     {
       "run_at": "2026-11-17T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Strengthens Defenses Against Model Distillation Attacks — Over 90% Reduction Achieved",
         "Generative AI Uses More Energy Processing Non-English Text — Hidden Cost of Multilingual AI",
         "Kiri: A Modern Container Runtime Built for Security-First, OCI-Compatible Workloads"
-      ]
-    },
-    {
-      "run_at": "2026-11-15T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602660",
-        "https://news.yahoo.co.jp/pickup/6602665",
-        "https://news.yahoo.co.jp/pickup/6602655",
-        "https://news.yahoo.co.jp/pickup/6602654",
-        "https://news.yahoo.co.jp/pickup/6602663",
-        "https://www.itmedia.co.jp/news/article/2611/12/2000003160/",
-        "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2611/12/news004.html",
-        "https://projectzero.google/2026/11/disclosure-policy.html",
-        "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-        "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
-      ],
-      "titles": [
-        "米中露首脳会談——日本は「蚊帳の外」か、大国の再編に揺れる外交",
-        "古書にヒ素——江戸〜明治期の書物100点超に有毒顔料、全国図書館が対応検討",
-        "福岡市のマンション価格が止まらない——4割高の年も、若い世代が諦める住宅市場",
-        "慶大・広池投手、ヤンキースと契約へ——最速156km/h、東京六大学リーグの右腕がMLBへ",
-        "日光「いろは坂」右折禁止で渋滞が大幅改善——80分短縮・300台減、秋の紅葉シーズンに効果",
-        "NVIDIAの"革ジャンCEO"ジェンスン・フアン氏が電撃辞任——CFOクレス氏が暫定CEOに就任",
-        "GoogleがGeminiを社内データで鍛えたコーディングAI「GfG」を公開——業務時間を半分にした事例も",
-        "「APIを呼ぶのは、もはや人間ではない」——MCPとOpenAPIが切り開くエージェント時代の新しいAPI設計",
-        "Google Project Zero Accelerates to Full 30-Day Disclosure by 2028 — AI-Assisted Exploitation Makes Old Timelines Obsolete",
-        "Simon Willison: llm-gemini 0.37 — Gemini 4 Hydrogen Pricing Puzzle, 15× More Expensive Than Haiku 5.5",
-        "PyPI Redesigns Project Pages with Security Signals — Provenance, Attestations, and Supply Chain Warnings Now Live"
       ]
     }
   ]

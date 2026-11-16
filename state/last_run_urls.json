@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-16T15:00:00+09:00",
+  "last_run_at": "2026-11-16T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-16T20:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003233/",
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003222/",
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003215/",
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003231/",
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
+        "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
+        "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
+        "https://zenn.dev/kent_code/articles/5892898be90cac",
+        "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "https://iter.ca/post/ubo-uxss/",
+        "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/"
+      ],
+      "titles": [
+        "ドコモ「5G SA」今月3度目の障害——約6時間で復旧、原因は毎回同じ「交換機への通信集中」",
+        "マネックス証券、個人情報113万件漏えいか——免許証画像など1,592件の身分証も対象に",
+        "paiza、最大90万件の個人情報が約13年間にわたり閲覧可能な状態に——開発環境のマスク漏れが原因",
+        "次世代パワー半導体「酸化ガリウム」、埼玉のスタートアップが世界市場を狙う——2030年代の本格普及へ",
+        "ジェンスン・フアン退任は「NVIDIAバブル崩壊」の序章か——半導体業界に広がる不透明感",
+        "GoogleがKubernetes上でAIエージェントを10倍高密度実行する「Agent Substrate」と「gVisor」をCNCFに寄贈",
+        "GitHub IssueにHTMLとMarkdownのArtifactを添付できるように——Issue Artifact機能がPublic Previewに",
+        "AIの回答が長すぎて実装してしまう「理解負債」——CLAUDE.mdの回答スタイル設定で解消する実践",
+        "Introducing Claude Fable 5.2 and Claude Mythos 5.2 — Anthropic's Most Capable Models with 30% Speed Improvement",
+        "Universal XSS in uBlock Origin Found by GPT-5.6 — Extension's Element Picker Allowed Any Site to Execute Scripts Everywhere",
+        "Prompting Claude Fable 5.2: Tell It \"You Own This Code\" to Get 75% Consolidation Rate vs 10% Without"
+      ]
+    },
     {
       "run_at": "2026-11-16T15:00:00+09:00",
       "urls": [

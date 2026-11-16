@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-16T20:00:00+09:00",
+  "last_run_at": "2026-11-17T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-17T00:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
+        "https://www.itmedia.co.jp/news/article/2611/13/2000003186/",
+        "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
+        "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
+        "https://zenn.dev/karamage/articles/5c3f8370b2b370",
+        "https://zenn.dev/jammaru_lab/articles/sakutto-local-llm-chrome-extension",
+        "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
+        "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+        "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+        "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api"
+      ],
+      "titles": [
+        "GoogleのAIが人間の関与なしに脆弱性を発見・悪用——GTIG初の観測レポート",
+        "ドコモ「5G SA」今月3度目の通信障害——「交換機への通信集中」が原因",
+        "「Qoo10」に不正アクセス——住所の地理座標や身体的特徴も漏えい対象に",
+        "データセンターの排熱でエビ養殖——NTT系が実験、育ったら食べられる？",
+        "ユナイテッド航空、外部AIアシスタントによる航空券予約を禁止——「チェックインには人間の確認が必要」",
+        "【pstack】AIに敵対的レビューをさせるな——トークンは検証に使え",
+        "ローカルLLMで動く翻訳拡張機能「Sakutto」を開発した話——プライバシー保護と実用性を両立",
+        "軽量マイクロVMでネイティブより高速起動「Hyperlight-Unikraft」登場——AI推論ワークロードに最適化",
+        "Old Bitly Short Links Being Hijacked and Redirected to Malicious Sites",
+        "What's Next for Nvidia After Jensen Huang's Resignation? — Steve Blank's Strategic Analysis",
+        "GitHub Launches AI Scan for Repositories via REST API — Manage AI-Generated Code Risk at Scale"
+      ]
+    },
     {
       "run_at": "2026-11-16T20:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Google Project Zero Accelerates to Full 30-Day Disclosure by 2028 — AI-Assisted Exploitation Makes Old Timelines Obsolete",
         "Simon Willison: llm-gemini 0.37 — Gemini 4 Hydrogen Pricing Puzzle, 15× More Expensive Than Haiku 5.5",
         "PyPI Redesigns Project Pages with Security Signals — Provenance, Attestations, and Supply Chain Warnings Now Live"
-      ]
-    },
-    {
-      "run_at": "2026-11-15T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602629",
-        "https://news.yahoo.co.jp/pickup/6602627",
-        "https://news.yahoo.co.jp/pickup/6602626",
-        "https://news.yahoo.co.jp/pickup/6602623",
-        "https://news.yahoo.co.jp/pickup/6602625",
-        "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/",
-        "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
-        "https://zenn.dev/dress_code/articles/568fd547315abe",
-        "https://www.crissyfield.de/research/lovable-en/",
-        "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-        "https://simonwillison.net/2026/Nov/14/datasette-llm/"
-      ],
-      "titles": [
-        "大阪・阿倍野の再開発が1,822億円の赤字に——40年超の事業が残した「負の遺産」とインバウンドへの期待",
-        "米、ウクライナのNATO加盟と引き換えに東部撤退を打診——ゼレンスキー氏が初めて明かす",
-        "史上初の米中露3首脳会談——ヤルタ会談以来の「大国の取引」、各国の思惑が交錯",
-        "愛知・小牧で住宅強盗——就寝中の82歳女性が棒状の凶器で殴られ重傷、複数の男が逃走",
-        "「VIVANT」スピンオフ「ドラム編」、11月22日に地上波で初放送——日曜劇場枠で登場",
-        "NotionのAIデータ漏えい問題が拡大——ZDRプランの企業にも影響、委託先Fireworks.aiとの契約違反が判明",
-        "Sakana AI、エージェント向け独自モデル「Sawara」の事前学習を12月に開始——「好機が来た」とイチから開発へ",
-        "AIエージェントが決定を勝手に変えてしまう5つのパターン——ADRと決定IDで「記録の改竄」を防ぐ実践",
-        "Lovable AI App Builder Exposes 200K+ Private Messages and Passport Data — Supabase RLS Misconfiguration at Scale",
-        "Google Antigravity's /teamwork: Multi-Agent System Proves Math Conjectures, Rewrites Microkernels in Rust at 50M-Line Scale",
-        "datasette-llm 0.1a11: Simon Willison Adds OpenAI-Compatible Endpoint Support — Local Models (Ollama, LM Studio, llama.cpp) Now Work with Datasette Agent"
-      ]
-    },
-    {
-      "run_at": "2026-11-15T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602602",
-        "https://news.yahoo.co.jp/pickup/6602606",
-        "https://news.yahoo.co.jp/pickup/6602597",
-        "https://news.yahoo.co.jp/pickup/6602607",
-        "https://news.yahoo.co.jp/pickup/6602605",
-        "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
-        "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
-        "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
-        "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-        "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot/",
-        "https://news.ycombinator.com/item?id=50430271"
-      ],
-      "titles": [
-        "AIを悪用したサイバー攻撃の拠点か——世界各地で約1,000台の感染端末が発見される",
-        "Microsoft大規模障害の原因判明——過去の設備増強工事が引き金に、復旧作業が続く",
-        "縦型ショートドラマをめぐるトラブルが急増——無断転用・著作権侵害の相談が増加",
-        "サッカーW杯予選——ブラジル監督、敗戦後も怒り収まらず「審判の判定に問題あり」と批判",
-        "俳優・大倉士門、妻との間で1日100往復超のメッセージ交換——夫婦の密着ぶりが話題に",
-        "Google Antigravity、クラウドVM上で動作する「リモートエージェント」を正式リリース",
-        "Microsoft 365の大規模障害でChatGPTとClaudeのコネクターも停止——AI統合サービスへの影響が顕在化",
-        "Google DeepMind、AlphaGenome 2を発表——ゲノム配列からの遺伝子発現予測精度が大幅に向上",
-        "Anthropic's IPO Roadshow Transcript: Multi-Chip Compute Strategy and AI Safety Economics Explained",
-        "Gemini 4 Hydrogen Now Available in GitHub Copilot — Usage-Based Billing at Provider List Pricing",
-        "Lovable-Built Apps Expose 200K+ Private Messages and Passport Details — AI App Builder Security Flaw Disclosed"
       ]
     }
   ]

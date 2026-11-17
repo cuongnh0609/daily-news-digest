@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-17T20:00:00+09:00",
+  "last_run_at": "2026-11-18T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-18T00:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003250/",
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003261/",
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003248/",
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003266/",
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003220/",
+        "https://zenn.dev/tree_and_tree/articles/ai-driven-discord-info-server",
+        "https://zenn.dev/port_inc/articles/ff974c7456f4db",
+        "https://www.publickey1.jp/blog/26/postgresql_194ai.html",
+        "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+        "https://simonwillison.net/2026/Nov/16/llm/",
+        "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from"
+      ],
+      "titles": [
+        "京成スカイライナー予約システムに不正アクセス——会員情報最大337万件が漏えいの可能性",
+        "ドコモ5G SAが今月4度目の通信障害——総務省が原因究明と再発防止を要請",
+        "OpenAI、外部AI安全評価機関4社を社内に常駐——モデルの独立評価プログラム始動",
+        "メルカリと駿河屋、米国で合弁会社を設立——日本発のフリマ×中古品目利きで北米市場参入",
+        "「艦これアーケード」など一部再開——不正アクセスで停止したセガALL.Netが試験復旧",
+        "AI駆動開発で自分用の情報収集Discordサーバーを作る——Claude CodeとMCPで555件のイシューを自律処理",
+        "ローカルLLM入門——2026年のOllama・LM Studio・WebLLM完全ガイド",
+        "PostgreSQL 19リリース延期の背景——β4で多数の新機能が取り下げ、AIコードレビューが影響か",
+        "How the Claude Code Team Thinks About Verification — End-to-End Tests, Property Tests, and Adversarial Review",
+        "llm 0.37.3 Released — Simon Willison's LLM CLI Adds Provider Routing and Streaming Fix",
+        "GitHub Copilot Gains Customization Source Control — Organizations Can Now Lock or Restrict Where Copilot Instructions Come From"
+      ]
+    },
     {
       "run_at": "2026-11-17T20:00:00+09:00",
       "urls": [

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-18T00:00:00+09:00",
+  "last_run_at": "2026-11-18T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-18T05:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003254/",
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003253/",
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003246/",
+        "https://www.itmedia.co.jp/news/article/2611/13/2000003178/",
+        "https://www.itmedia.co.jp/news/article/2611/13/2000003167/",
+        "https://zenn.dev/rimo/articles/701d18b7764669",
+        "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+        "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html",
+        "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+      ],
+      "titles": [
+        "OpenAI、児童性的虐待コンテンツ検出ツールを無償公開——生成AI画像も対象に、ChatGPTでの検索は24時間停止措置",
+        "スパコン「富岳」、不正アクセスで運用停止——SSH秘密鍵・研究データが流出の恐れ、他システムへの侵入試みも",
+        "カリフォルニア州、OpenAIを提訴——「AIエージェントの制御を80回以上失った」と主張、安全対策の不備を問題視",
+        "ANA予約システムに障害、国内線タイムセール初日に国内線の予約・確認が一時不能——JALでも同日に不具合",
+        "滋賀県甲賀市の音声放送システムにランサムウェア攻撃——屋外拡声器229か所が使用不能、緊急情報の伝達に支障",
+        "お問い合わせの8割を、AIボットが解決するようになった話——Rimo社がRAGとコンテキスト連携で自社CS業務を自動化",
+        "Cloudflare、AI専用の軽量ヘッドレスブラウザ「Kitesurf」をオープンソースで公開——タブもUIもないAgent向け設計",
+        "AWS、AIエージェント向け軽量VM「AWS Nitro Sandboxes」提供開始——ネイティブなEC2性能と強力な隔離を両立",
+        "OpenAI Introduces GPT-6.2 Astra and Sol — New Flagship Models with Multimodal Reasoning and Real-Time Agent Capabilities",
+        "Microsoft Launches MAI Code 2 and Code 2 Flash — High-Performance Coding Models at Drastically Reduced Cost",
+        "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation — Open Standard with 280M Installs Moves to Linux Foundation"
+      ]
+    },
     {
       "run_at": "2026-11-18T00:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Old Bitly Short Links Being Hijacked and Redirected to Malicious Sites",
         "What's Next for Nvidia After Jensen Huang's Resignation? — Steve Blank's Strategic Analysis",
         "GitHub Launches AI Scan for Repositories via REST API — Manage AI-Generated Code Risk at Scale"
-      ]
-    },
-    {
-      "run_at": "2026-11-16T20:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/16/2000003233/",
-        "https://www.itmedia.co.jp/news/article/2611/16/2000003222/",
-        "https://www.itmedia.co.jp/news/article/2611/16/2000003215/",
-        "https://www.itmedia.co.jp/news/article/2611/16/2000003231/",
-        "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
-        "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
-        "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
-        "https://zenn.dev/kent_code/articles/5892898be90cac",
-        "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-        "https://iter.ca/post/ubo-uxss/",
-        "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/"
-      ],
-      "titles": [
-        "ドコモ「5G SA」今月3度目の障害——約6時間で復旧、原因は毎回同じ「交換機への通信集中」",
-        "マネックス証券、個人情報113万件漏えいか——免許証画像など1,592件の身分証も対象に",
-        "paiza、最大90万件の個人情報が約13年間にわたり閲覧可能な状態に——開発環境のマスク漏れが原因",
-        "次世代パワー半導体「酸化ガリウム」、埼玉のスタートアップが世界市場を狙う——2030年代の本格普及へ",
-        "ジェンスン・フアン退任は「NVIDIAバブル崩壊」の序章か——半導体業界に広がる不透明感",
-        "GoogleがKubernetes上でAIエージェントを10倍高密度実行する「Agent Substrate」と「gVisor」をCNCFに寄贈",
-        "GitHub IssueにHTMLとMarkdownのArtifactを添付できるように——Issue Artifact機能がPublic Previewに",
-        "AIの回答が長すぎて実装してしまう「理解負債」——CLAUDE.mdの回答スタイル設定で解消する実践",
-        "Introducing Claude Fable 5.2 and Claude Mythos 5.2 — Anthropic's Most Capable Models with 30% Speed Improvement",
-        "Universal XSS in uBlock Origin Found by GPT-5.6 — Extension's Element Picker Allowed Any Site to Execute Scripts Everywhere",
-        "Prompting Claude Fable 5.2: Tell It \"You Own This Code\" to Get 75% Consolidation Rate vs 10% Without"
-      ]
-    },
-    {
-      "run_at": "2026-11-16T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602786",
-        "https://news.yahoo.co.jp/pickup/6602785",
-        "https://news.yahoo.co.jp/pickup/6602790",
-        "https://news.yahoo.co.jp/pickup/6602789",
-        "https://news.yahoo.co.jp/pickup/6602779",
-        "https://zenn.dev/takuyousou/articles/agentcore-memory-poisoning-guardrails",
-        "https://zenn.dev/naofumimurata/articles/nono-hc-proxy",
-        "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
-        "https://qwen.ai/blog?id=qwen4-max",
-        "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-        "https://www.itmedia.co.jp/news/article/2611/16/2000003224/"
-      ],
-      "titles": [
-        "AI株の売りが広がり、日経平均が一時6万円を下回る——エヌビディア経営の不透明感が引き金に",
-        "東京の分譲マンション賃料が過去最高を更新——5か月連続で記録塗り替え、70㎡換算で月35万円超",
-        "スパコン「富岳」に不正アクセス——理研が明らかに、企業の機密情報流出の懸念も",
-        "斉藤慎二被告が控訴——性的暴行罪で懲役4年の判決を不服として東京高裁へ",
-        "若者に広がる「NISA貧乏」——投資熱の高まりで4人に1人が口座保有、一方で生活費を圧迫する事例も",
-        "AIエージェントは悪意ある外部指示を記憶するのか——AgentCore MemoryとGuardrailsで「記憶汚染攻撃」を検証",
-        "サンドボックス内のClaude CodeからHerdrを安全に操作する——プロキシ経由でエージェントの境界を守る実装パターン",
-        "パスキー対応103サイトを独大学が検証——全てに脆弱性、実装上の欠陥がパスワードより危険なケースも",
-        "Qwen4-Max Released: Alibaba's Latest Flagship LLM Challenges GPT and Claude Across All Benchmarks",
-        "GitHub Copilot Deprecates 6 Models on December 14 — Claude Fable 5, Haiku 4.5, Gemini 3.8, and Grok 4.6 All Retiring",
-        "Fugaku Supercomputer Suffers Unauthorized Access — Corporate Confidential Data Potentially Exposed"
-      ]
-    },
-    {
-      "run_at": "2026-11-16T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6602758",
-        "https://news.yahoo.co.jp/pickup/6602744",
-        "https://news.yahoo.co.jp/pickup/6602747",
-        "https://news.yahoo.co.jp/pickup/6602759",
-        "https://news.yahoo.co.jp/pickup/6602749",
-        "https://zenn.dev/canly/articles/e2bd67c9a4c18b",
-        "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
-        "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
-        "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-        "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-        "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch"
-      ],
-      "titles": [
-        "7〜9月期GDPが4期ぶりのマイナス成長——個人消費の低迷と悪天候が重なる",
-        "フアン前CEO、NVIDIA復帰を協議中——側近や財界人が「ウォールームーム」で巻き返し図る",
-        "JIC、JSR売却で9000億円超の差益——三井化学への譲渡で半導体素材再編が加速",
-        "コンテナホテル「HOTEL R9 The Yard」、開業8年で145店舗——出張族に愛される独立型客室の成長モデル",
-        "「宿題はAIに任せっきり」——中高生のAI依存が急増、自分で考える力への不安広がる",
-        "Claude DuetをTeamプランで試してみた——組織利用の注意点と管理者が知るべき制限事項",
-        "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」発表——生体認証でカード番号不要の購買を実現",
-        "AWS公式の「AWSエミュレータ」が正式リリース——AIエージェントが全コードを記述、オフラインでAWS APIを再現",
-        "All AI-Generated Code Should Be Open Source — A Legal and Ethical Argument",
-        "Understanding Positional Embeddings in Modern LLMs — From Absolute to RoPE and Beyond",
-        "Vulcan Centaur Rocket Fails on Return-to-Flight — 40 Amazon Project Kuiper Satellites Destroyed"
       ]
     }
   ]

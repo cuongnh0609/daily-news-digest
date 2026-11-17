@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-17T05:00:00+09:00",
+  "last_run_at": "2026-11-17T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-17T10:00:00+09:00",
+      "urls": [
+        "https://www3.nhk.or.jp/news/html/20261117/k10014645001000.html",
+        "https://www3.nhk.or.jp/news/html/20261117/k10014644501000.html",
+        "https://www3.nhk.or.jp/news/html/20261117/k10014645201000.html",
+        "https://www3.nhk.or.jp/news/html/20261117/k10014644801000.html",
+        "https://www3.nhk.or.jp/news/html/20261117/k10014644101000.html",
+        "https://zenn.dev/topics/agent",
+        "https://qiita.com/tags/AI",
+        "https://www.publickey1.jp/atom.xml",
+        "https://www.anthropic.com/news",
+        "https://hn.algolia.com/api/v1/search?tags=front_page",
+        "https://github.blog/changelog/feed/"
+      ],
+      "titles": [
+        "日銀が追加利上げを見送り——円安基調が続く中、政策の方向性に市場の注目集まる",
+        "鳥インフルエンザ、今季初の感染確認——茨城県の養鶏場で高病原性ウイルス検出",
+        "国会で補正予算案の審議入り——物価高対策・能登復興支援が焦点に",
+        "東京都知事、2027年都議選に向け与党との連携強化を表明——少子化対策を最重点に",
+        "衆議院の解散・総選挙、来年春までに実施か——連立協議が難航、政局に不透明感",
+        "Claude Code + Mastraで作るマルチエージェントワークフロー入門——実装パターンと本番運用の要点",
+        "GitHubのSpec-kitを使ったspec-first開発ワークフローの実践——AI駆動開発における「仕様書ファースト」の有効性を検証",
+        "Google CloudがAgent Engineの一般提供を開始——LangChain・LlamaIndex対応のフルマネージドエージェントランタイム",
+        "Anthropic Releases Claude Code 1.0 — Stable Release with Native Skills, Plugins, and MCP v2",
+        "Mastra 1.0 Released — TypeScript-Native Agent Framework Reaches Production Stability",
+        "GitHub Copilot Now Reads AGENTS.md — Copilot Agents Respect Per-Repo Behavior Specifications"
+      ]
+    },
     {
       "run_at": "2026-11-17T05:00:00+09:00",
       "urls": [

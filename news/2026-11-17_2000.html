@@ -1,0 +1,1425 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>デイリーダイジェスト - 2026-11-17 20:00 JST</title>
+<style>
+  :root,
+  [data-theme="light"] {
+    --bg: #f8f5f0;
+    --card: #ffffff;
+    --card-alt: #fdfcf8;
+    --ink: #1a1a1a;
+    --ink-soft: #4a4a4a;
+    --accent-jp: #b91c1c;
+    --accent-tech-jp: #059669;
+    --accent-global: #0369a1;
+    --accent-soft-jp: #fef2f2;
+    --accent-soft-tech-jp: #ecfdf5;
+    --accent-soft-global: #f0f9ff;
+    --sub: #6b6b6b;
+    --border: #e5e1da;
+    --divider: #d4cfc5;
+    --jp-mark: #c2410c;
+    --vi: #0369a1;
+    --vi-bg: #f0f9ff;
+    --vi-ink: #0c4a6e;
+    --grammar: #7c3aed;
+    --grammar-bg: #fafaf5;
+    --code-bg: #f1efe9;
+    --note-bg: #fef9e7;
+    --note-border: #d69e2e;
+    --note-ink: #744210;
+    --impact-high: #dc2626;
+    --impact-med: #ea580c;
+    --impact-low: #ca8a04;
+    --header-gradient-start: #fafaf5;
+    --shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+
+  [data-theme="dark"] {
+    --bg: #0f0e0c;
+    --card: #1a1814;
+    --card-alt: #15130f;
+    --ink: #e8e4dc;
+    --ink-soft: #b8b4ac;
+    --accent-jp: #f87171;
+    --accent-tech-jp: #34d399;
+    --accent-global: #60a5fa;
+    --accent-soft-jp: #2a1515;
+    --accent-soft-tech-jp: #0d2820;
+    --accent-soft-global: #0c2440;
+    --sub: #8b8680;
+    --border: #332f28;
+    --divider: #2a2620;
+    --jp-mark: #fb923c;
+    --vi: #60a5fa;
+    --vi-bg: #0c2440;
+    --vi-ink: #bfdbfe;
+    --grammar: #c4b5fd;
+    --grammar-bg: #1c1a16;
+    --code-bg: #2a2620;
+    --note-bg: #2a2410;
+    --note-border: #ca8a04;
+    --note-ink: #fde68a;
+    --impact-high: #ef4444;
+    --impact-med: #f97316;
+    --impact-low: #eab308;
+    --header-gradient-start: #1c1a16;
+    --shadow: 0 1px 3px rgba(0,0,0,0.3);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme]) {
+      --bg: #0f0e0c;
+      --card: #1a1814;
+      --card-alt: #15130f;
+      --ink: #e8e4dc;
+      --ink-soft: #b8b4ac;
+      --accent-jp: #f87171;
+      --accent-tech-jp: #34d399;
+      --accent-global: #60a5fa;
+      --accent-soft-jp: #2a1515;
+      --accent-soft-tech-jp: #0d2820;
+      --accent-soft-global: #0c2440;
+      --sub: #8b8680;
+      --border: #332f28;
+      --divider: #2a2620;
+      --jp-mark: #fb923c;
+      --vi: #60a5fa;
+      --vi-bg: #0c2440;
+      --vi-ink: #bfdbfe;
+      --grammar: #c4b5fd;
+      --grammar-bg: #1c1a16;
+      --code-bg: #2a2620;
+      --note-bg: #2a2410;
+      --note-border: #ca8a04;
+      --note-ink: #fde68a;
+      --impact-high: #ef4444;
+      --impact-med: #f97316;
+      --impact-low: #eab308;
+      --header-gradient-start: #1c1a16;
+      --shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", "Times New Roman", serif;
+    background: var(--bg);
+    color: var(--ink);
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 2rem 2rem 4rem;
+    line-height: 1.75;
+  }
+  header.page-head {
+    border-bottom: 3px double var(--accent-jp);
+    padding-bottom: 1.2rem;
+    margin-bottom: 2.5rem;
+    text-align: center;
+  }
+  header.page-head h1 {
+    font-size: 2rem;
+    margin: 0 0 0.4rem;
+    letter-spacing: 0.08em;
+  }
+  header.page-head .meta {
+    color: var(--sub);
+    font-size: 0.95rem;
+    font-family: system-ui, sans-serif;
+  }
+
+  nav.toc {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+    font-family: system-ui, sans-serif;
+    font-size: 0.9rem;
+  }
+  nav.toc a {
+    text-decoration: none;
+    padding: 6px 14px;
+    border-radius: 20px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--ink);
+    transition: all 0.2s;
+  }
+  nav.toc a:hover { background: var(--accent-soft-jp); color: var(--accent-jp); }
+
+  section.digest-section { margin-bottom: 3rem; }
+  .section-title {
+    font-size: 1.5rem;
+    padding: 0.6rem 1.2rem;
+    margin: 0 0 1.5rem;
+    border-radius: 4px;
+    font-family: system-ui, "Noto Sans", sans-serif;
+    font-weight: 600;
+  }
+  #japan-news .section-title {
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    border-left: 5px solid var(--accent-jp);
+  }
+  #japan-tech .section-title {
+    background: var(--accent-soft-tech-jp);
+    color: var(--accent-tech-jp);
+    border-left: 5px solid var(--accent-tech-jp);
+  }
+  #global-tech .section-title {
+    background: var(--accent-soft-global);
+    color: var(--accent-global);
+    border-left: 5px solid var(--accent-global);
+  }
+
+  article.news-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    margin-bottom: 1.5rem;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+  }
+  .card-header {
+    padding: 1rem 1.5rem;
+    background: linear-gradient(to bottom, var(--header-gradient-start), var(--card));
+    border-bottom: 1px solid var(--border);
+  }
+  .card-header h3 {
+    margin: 0;
+    font-size: 1.15rem;
+    line-height: 1.5;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .news-no {
+    display: inline-block;
+    font-size: 0.7rem;
+    padding: 3px 9px;
+    border-radius: 3px;
+    font-family: system-ui, sans-serif;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  #japan-news .news-no { background: var(--accent-jp); color: white; }
+  #japan-tech .news-no { background: var(--accent-tech-jp); color: white; }
+  #global-tech .news-no { background: var(--accent-global); color: white; }
+
+  .card-body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .col {
+    padding: 1.25rem 1.5rem;
+  }
+  .col-left {
+    border-right: 1px solid var(--divider);
+  }
+  .col-right {
+    background: var(--card-alt);
+  }
+  .col-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--sub);
+    font-family: system-ui, sans-serif;
+    margin-bottom: 0.6rem;
+    font-weight: 600;
+  }
+
+  .content-text {
+    font-size: 1rem;
+    line-height: 1.85;
+    margin: 0 0 1rem;
+    text-align: justify;
+  }
+  .content-text.lang-en {
+    font-family: "Georgia", "Times New Roman", serif;
+  }
+  .content-text.lang-ja {
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+  }
+
+  .translation-vi {
+    font-family: "Noto Sans", system-ui, sans-serif;
+    font-size: 0.95rem;
+    line-height: 1.75;
+    margin: 1rem 0;
+    padding: 0.8rem 1rem;
+    background: var(--vi-bg);
+    border-left: 3px solid var(--vi);
+    border-radius: 2px;
+    color: var(--vi-ink);
+  }
+  .translation-vi::before {
+    content: "🇻🇳 ";
+    font-weight: bold;
+  }
+
+  .impact-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: system-ui, sans-serif;
+    font-size: 0.8rem;
+    margin: 0.8rem 0;
+    padding: 0.4rem 0;
+  }
+  .impact-badge {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 3px;
+    font-weight: 600;
+    font-size: 0.75rem;
+    color: white;
+  }
+  .impact-badge.high { background: var(--impact-high); }
+  .impact-badge.medium { background: var(--impact-med); }
+  .impact-badge.low { background: var(--impact-low); }
+  .impact-text { color: var(--sub); }
+
+  .impact-note {
+    font-family: system-ui, sans-serif;
+    font-size: 0.88rem;
+    color: var(--note-ink);
+    padding: 0.55rem 0.85rem;
+    background: var(--note-bg);
+    border-left: 3px solid var(--note-border);
+    border-radius: 2px;
+    margin: 0.6rem 0 1rem;
+  }
+  .impact-note::before { content: "💡 "; }
+
+  .edu-block {
+    margin-top: 1rem;
+    font-family: system-ui, "Noto Sans", sans-serif;
+  }
+  .edu-block h4 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--sub);
+    margin: 0.8rem 0 0.4rem;
+    border-bottom: 1px dotted var(--border);
+    padding-bottom: 3px;
+  }
+  table.vocab, table.term-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+  }
+  table.vocab th, table.vocab td,
+  table.term-table th, table.term-table td {
+    text-align: left;
+    padding: 6px 8px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  table.vocab th {
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    font-weight: 600;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+  }
+  table.term-table th {
+    background: var(--accent-soft-global);
+    color: var(--accent-global);
+    font-weight: 600;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+  }
+  td.jp-word { font-family: "Hiragino Mincho ProN", serif; font-size: 1rem; white-space: nowrap; }
+  td.reading { color: var(--sub); font-size: 0.8rem; white-space: nowrap; }
+  td.hanviet { color: var(--accent-jp); font-style: italic; font-size: 0.8rem; white-space: nowrap; }
+  td.meaning { font-size: 0.85rem; }
+  td.term-en { font-family: "SF Mono", Monaco, monospace; font-size: 0.9rem; font-weight: 600; color: var(--accent-global); white-space: nowrap; }
+  td.term-pron { font-size: 0.8rem; color: var(--sub); font-style: italic; white-space: nowrap; }
+  td.term-explain { font-size: 0.85rem; line-height: 1.6; }
+
+  .grammar-item { margin-bottom: 0.7rem; font-size: 0.9rem; }
+  .grammar-item strong {
+    color: var(--grammar);
+    font-size: 0.95rem;
+    display: inline-block;
+    margin-bottom: 2px;
+  }
+  .example {
+    background: var(--grammar-bg);
+    padding: 0.55rem 0.8rem;
+    margin-top: 0.35rem;
+    border-left: 2px solid var(--grammar);
+    font-size: 0.88rem;
+  }
+  .example .jp { font-family: "Hiragino Mincho ProN", serif; display: block; }
+  .example .vi { color: var(--vi); font-size: 0.82rem; display: block; margin-top: 3px; }
+
+  .source {
+    font-size: 0.78rem;
+    color: var(--sub);
+    margin-top: 0.8rem;
+    padding-top: 0.6rem;
+    border-top: 1px dotted var(--border);
+    font-family: system-ui, sans-serif;
+  }
+  .source a { color: var(--vi); text-decoration: none; }
+  .source a:hover { text-decoration: underline; }
+
+  code {
+    background: var(--code-bg);
+    padding: 1px 6px;
+    border-radius: 3px;
+    font-size: 0.88em;
+    font-family: "SF Mono", Monaco, "Courier New", monospace;
+  }
+
+  .theme-toggle {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 100;
+    display: flex;
+    gap: 4px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 3px;
+    font-family: system-ui, sans-serif;
+    font-size: 0.85rem;
+    box-shadow: var(--shadow);
+  }
+  .theme-toggle button {
+    background: transparent;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    color: var(--sub);
+    transition: all 0.15s;
+    font-family: inherit;
+  }
+  .theme-toggle button:hover { color: var(--ink); }
+  .theme-toggle button.active { background: var(--accent-jp); color: white; }
+  .theme-toggle button.active:hover { color: white; }
+
+  .prev-digests {
+    margin-top: 3.5rem;
+    padding: 1.2rem 1.4rem;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-family: system-ui, sans-serif;
+  }
+  .prev-digests h3 {
+    margin: 0 0 0.8rem;
+    font-size: 0.95rem;
+    color: var(--ink);
+    letter-spacing: 0.02em;
+  }
+  .prev-digests-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+  }
+  .prev-digests-list a {
+    display: inline-block;
+    padding: 0.35rem 0.7rem;
+    border-radius: 999px;
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    font-size: 0.78rem;
+    text-decoration: none;
+    font-variant-numeric: tabular-nums;
+    border: 1px solid transparent;
+    transition: background 0.15s ease, border-color 0.15s ease;
+  }
+  .prev-digests-list a:hover {
+    background: transparent;
+    border-color: var(--accent-jp);
+  }
+  footer {
+    text-align: center;
+    color: var(--sub);
+    font-size: 0.85rem;
+    margin-top: 2.5rem;
+    font-family: system-ui, sans-serif;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border);
+  }
+
+  @media (max-width: 1000px) {
+    body { padding: 1rem 0.9rem 3rem; max-width: 100%; }
+    header.page-head h1 { font-size: 1.4rem; }
+    .card-body { grid-template-columns: 1fr; }
+    .col-left { border-right: none; border-bottom: 2px dashed var(--divider); }
+    .col { padding: 1rem 1.1rem; }
+    .section-title { font-size: 1.2rem; }
+    td.reading, td.hanviet, td.term-en, td.term-pron { white-space: normal; }
+  }
+</style>
+</head>
+<body>
+
+<div class="theme-toggle" role="group" aria-label="Theme selector">
+  <button type="button" data-theme-value="light" title="Light mode">☀️</button>
+  <button type="button" data-theme-value="system" title="Auto (follow system)">💻</button>
+  <button type="button" data-theme-value="dark" title="Dark mode">🌙</button>
+</div>
+
+<script>
+  (function() {
+    var saved = localStorage.getItem('digest-theme') || 'system';
+    if (saved !== 'system') {
+      document.documentElement.setAttribute('data-theme', saved);
+    }
+  })();
+</script>
+
+<header class="page-head">
+  <h1>🗞️ デイリーダイジェスト</h1>
+  <div class="meta">2026-11-17（火）20:00 JST — JLPT N2+ 学習者 · SE/Cloud Engineer 向け</div>
+</header>
+
+<nav class="toc">
+  <a href="#japan-news">🗾 日本ニュース (5)</a>
+  <a href="#japan-tech">🇯🇵 Tech JP (3)</a>
+  <a href="#global-tech">🌐 Global Tech (3)</a>
+</nav>
+
+<!-- =========================================================
+     SECTION A: JAPAN NEWS — 5 articles
+     ========================================================= -->
+<section id="japan-news" class="digest-section">
+  <h2 class="section-title">🗾 日本ニュース</h2>
+
+  <!-- A-01 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A-01</span>楽天証券に不正アクセス——最大1125万口座の顧客情報が漏えいした可能性</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          楽天証券は11月17日、外部からの不正アクセスによって最大約1125万口座分の顧客情報が漏えいした可能性があると発表した。流出した恐れがあるのは支店コード・顧客コード・ログインIDで、うち最大約447万口座については氏名・住所・年収・金融資産情報も含まれる。退会済みの顧客についても対象となっており、影響範囲は広い。ただし、パスワードや暗証番号の漏えいは現時点では確認されておらず、不正な取引も見つかっていないという。同社は11月11日にテスト環境から一部情報が流出した可能性に気づき、16日には本番システムの一部への不正アクセスを検知して即座に遮断した。現在は影響を受けた顧客に個別に連絡を進めており、フィッシング詐欺への注意とパスキーの設定を呼びかけている。
+        </p>
+        <div class="translation-vi">
+          Ngày 17/11, Rakuten Securities thông báo rằng có tới 11,25 triệu tài khoản khách hàng có thể đã bị rò rỉ thông tin do một cuộc tấn công trái phép từ bên ngoài. Dữ liệu có nguy cơ bị lộ bao gồm mã chi nhánh, mã khách hàng và ID đăng nhập; đối với khoảng 4,47 triệu tài khoản, còn có cả họ tên, địa chỉ, thu nhập và thông tin tài sản tài chính. Cả khách hàng đã hủy tài khoản cũng nằm trong phạm vi ảnh hưởng. Hiện chưa xác nhận được việc rò rỉ mật khẩu hay mã PIN, và cũng chưa phát hiện giao dịch bất thường nào. Công ty phát hiện sự cố ngày 11/11 từ môi trường test, và ngày 16/11 đã phát hiện và chặn truy cập trái phép vào hệ thống sản xuất. Khách hàng được khuyến cáo cảnh giác với lừa đảo phishing và thiết lập passkey.
+        </div>
+        <div class="source">
+          出典: ITmedia NEWS · 2026-11-17 19:08 JST ·
+          <a href="https://www.itmedia.co.jp/news/article/2611/17/2000003275/" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">不正アクセス</td>
+              <td class="reading">ふせいアクセス</td>
+              <td class="hanviet">bất chính</td>
+              <td class="meaning">truy cập trái phép (unauthorized access)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">漏えい</td>
+              <td class="reading">ろうえい</td>
+              <td class="hanviet">lậu dịch</td>
+              <td class="meaning">rò rỉ, tiết lộ (data leak)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">口座</td>
+              <td class="reading">こうざ</td>
+              <td class="hanviet">khẩu tọa</td>
+              <td class="meaning">tài khoản ngân hàng/chứng khoán</td>
+            </tr>
+            <tr>
+              <td class="jp-word">暗証番号</td>
+              <td class="reading">あんしょうばんごう</td>
+              <td class="hanviet">ám chứng phiên hiệu</td>
+              <td class="meaning">mã PIN, mật mã số</td>
+            </tr>
+            <tr>
+              <td class="jp-word">遮断</td>
+              <td class="reading">しゃだん</td>
+              <td class="hanviet">già đoạn</td>
+              <td class="meaning">ngắt, cắt, chặn (blocking)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">フィッシング詐欺</td>
+              <td class="reading">フィッシングさぎ</td>
+              <td class="hanviet">— tra</td>
+              <td class="meaning">lừa đảo phishing (giả mạo trang web để đánh cắp thông tin)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">金融資産</td>
+              <td class="reading">きんゆうしさん</td>
+              <td class="hanviet">kim dung tư sản</td>
+              <td class="meaning">tài sản tài chính (financial assets)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～した可能性がある</strong> — có khả năng đã xảy ra ~
+            <div class="example">
+              <span class="jp">顧客情報が漏えいした可能性がある。</span>
+              <span class="vi">Có khả năng thông tin khách hàng đã bị rò rỉ.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～おそれがある</strong> — có nguy cơ ~, có lo ngại rằng ~
+            <div class="example">
+              <span class="jp">パスワードが流出したおそれがある。</span>
+              <span class="vi">Có lo ngại rằng mật khẩu có thể đã bị lộ ra ngoài.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A-02 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A-02</span>KARTE不正アクセス——モリサワ・mineoなど多数企業の顧客情報が漏えい</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          マーケティングプラットフォームKARTEを提供するプレイドは11月17日、13日に不正アクセスを受けたことを明らかにした。攻撃者はサーバーの脆弱性を突いて認証情報を盗み、KARTEの管理画面にアクセスした。漏えいの対象は、KARTEアカウントのメールアドレス約7万9000件のほか、利用企業の顧客データの一部、外部サービスとの連携に使うシークレットキーなどが含まれる。阪急阪神ホテルズが最大33万件超、モリサワが約2万4000件の顧客情報漏えいを公表しており、格安SIMサービスの「mineo」を提供するオプテージも調査中としている。現在KARTEの全サービスは停止しており、再開の見通しは立っていない。プレイドは利用企業に対して認証情報の無効化を要請している。
+        </p>
+        <div class="translation-vi">
+          Ngày 17/11, Plaid Inc. — công ty cung cấp nền tảng marketing KARTE — xác nhận đã bị tấn công trái phép vào ngày 13/11. Kẻ tấn công khai thác lỗ hổng server để đánh cắp thông tin xác thực và xâm nhập vào bảng quản trị của KARTE. Dữ liệu bị lộ bao gồm khoảng 79.000 địa chỉ email tài khoản KARTE, một phần dữ liệu khách hàng của các doanh nghiệp sử dụng dịch vụ, cùng các secret key liên kết với dịch vụ bên ngoài. Hankyu Hanshin Hotels thông báo tới 330.000 bản ghi bị ảnh hưởng, Morisawa có khoảng 24.000 trường hợp, còn nhà mạng mineo cũng đang điều tra. Toàn bộ dịch vụ KARTE hiện đã ngừng hoạt động, chưa có lịch khôi phục cụ thể.
+        </div>
+        <div class="source">
+          出典: ITmedia NEWS · 2026-11-17 12:33 JST ·
+          <a href="https://www.itmedia.co.jp/news/article/2611/17/2000003257/" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">脆弱性</td>
+              <td class="reading">ぜいじゃくせい</td>
+              <td class="hanviet">tuy nhược tính</td>
+              <td class="meaning">lỗ hổng bảo mật (vulnerability)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">認証情報</td>
+              <td class="reading">にんしょうじょうほう</td>
+              <td class="hanviet">nhận chứng tình báo</td>
+              <td class="meaning">thông tin xác thực (credentials)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">管理画面</td>
+              <td class="reading">かんりがめん</td>
+              <td class="hanviet">quản lý họa diện</td>
+              <td class="meaning">bảng quản trị (admin panel)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">無効化</td>
+              <td class="reading">むこうか</td>
+              <td class="hanviet">vô hiệu hóa</td>
+              <td class="meaning">vô hiệu hóa, hủy kích hoạt (invalidation)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">停止</td>
+              <td class="reading">ていし</td>
+              <td class="hanviet">đình chỉ</td>
+              <td class="meaning">dừng, ngừng hoạt động (suspension)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">連携</td>
+              <td class="reading">れんけい</td>
+              <td class="hanviet">liên hệ</td>
+              <td class="meaning">tích hợp, liên kết (integration)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～を突いて</strong> — khai thác ~, lợi dụng ~
+            <div class="example">
+              <span class="jp">サーバの脆弱性を突いて認証情報を盗んだ。</span>
+              <span class="vi">Kẻ tấn công khai thác lỗ hổng server để đánh cắp thông tin xác thực.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～としている</strong> — đang ~, có lập trường/thái độ ~
+            <div class="example">
+              <span class="jp">オプテージは現在調査中としている。</span>
+              <span class="vi">Optage cho biết hiện đang trong quá trình điều tra.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A-03 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A-03</span>東京都、水道利用者の個人情報871件含むHDDを紛失</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          東京都水道局は11月17日、水道利用者871件の個人情報が含まれたハードディスクドライブ（HDD）を紛失したと発表した。対象となる情報には氏名・住所・電話番号・口座番号などが含まれており、個人を特定できる内容が含まれる。HDDは廃棄処理を委託した業者が管理中に行方不明になったとみられており、現在も所在は不明だという。都は該当する利用者に対して個別に連絡を取り、謝罪と注意喚起を進めている。今回の事案は、自治体が委託先の情報管理に関して再点検を求められる事例として注目されており、都は委託業者の管理体制を改めて見直す方針を示した。
+        </p>
+        <div class="translation-vi">
+          Ngày 17/11, Cục Cấp nước Tokyo thông báo đã mất một ổ cứng (HDD) chứa thông tin cá nhân của 871 hộ sử dụng nước. Thông tin bao gồm họ tên, địa chỉ, số điện thoại và số tài khoản ngân hàng. HDD được cho là đã thất lạc trong quá trình xử lý tiêu hủy do một đơn vị bên ngoài phụ trách, và hiện vẫn chưa tìm lại được. Tokyo đang liên hệ từng người dùng bị ảnh hưởng để xin lỗi và cảnh báo. Vụ việc đang thu hút sự chú ý như một ví dụ điển hình về sự cần thiết phải tăng cường giám sát đối với nhà thầu được ủy thác xử lý dữ liệu.
+        </div>
+        <div class="source">
+          出典: ITmedia NEWS · 2026-11-17 JST ·
+          <a href="https://www.itmedia.co.jp/news/article/2611/17/2000003270/" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">紛失</td>
+              <td class="reading">ふんしつ</td>
+              <td class="hanviet">phân thất</td>
+              <td class="meaning">mất (đồ vật), thất lạc</td>
+            </tr>
+            <tr>
+              <td class="jp-word">廃棄処理</td>
+              <td class="reading">はいきしょり</td>
+              <td class="hanviet">phế khí xử lý</td>
+              <td class="meaning">xử lý tiêu hủy (disposal processing)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">委託</td>
+              <td class="reading">いたく</td>
+              <td class="hanviet">ủy thác</td>
+              <td class="meaning">ủy thác, thuê ngoài (outsourcing)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">注意喚起</td>
+              <td class="reading">ちゅういかんき</td>
+              <td class="hanviet">chú ý hoán khởi</td>
+              <td class="meaning">cảnh báo, kêu gọi chú ý</td>
+            </tr>
+            <tr>
+              <td class="jp-word">管理体制</td>
+              <td class="reading">かんりたいせい</td>
+              <td class="hanviet">quản lý thể chế</td>
+              <td class="meaning">hệ thống quản lý, cơ chế quản lý</td>
+            </tr>
+            <tr>
+              <td class="jp-word">所在</td>
+              <td class="reading">しょざい</td>
+              <td class="hanviet">sở tại</td>
+              <td class="meaning">vị trí, nơi chốn, tung tích</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～とみられている</strong> — được cho là ~, có vẻ như là ~
+            <div class="example">
+              <span class="jp">業者が管理中に行方不明になったとみられている。</span>
+              <span class="vi">Người ta cho rằng thiết bị đã thất lạc trong quá trình đơn vị bên ngoài quản lý.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A-04 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A-04</span>Microsoft 365大規模障害、原因は7月の修正に潜んでいたバグ——世界規模に波及</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          Microsoftは11月15日（現地時間）、11月12日に発生したMicrosoft 365の大規模障害について暫定インシデントレポートを公表した。原因は7月に適用したネットワークゲートウェイ向けの修正プログラムに含まれていた不具合で、高負荷時にサーバーが応答しなくなるものだった。障害の約15時間前からTeamsの通信が別のゲートウェイに切り替わり負荷が増加し、さらに別の問題によってゲートウェイ容量の約14%が利用不能な状態だったことが重なった。その結果、わずか2時間足らずでサーバーの80%以上が応答不能となり、障害は世界中に広がった。Microsoftは段階的な修正版を展開して復旧を進めたが、即時ロールバックができなかった点に課題が残った。最終レポートは今週中に公開される予定だ。
+        </p>
+        <div class="translation-vi">
+          Ngày 15/11 (giờ địa phương), Microsoft công bố báo cáo sự cố sơ bộ về sự cố lớn của Microsoft 365 xảy ra ngày 12/11. Nguyên nhân là một lỗi ẩn trong bản vá network gateway được áp dụng từ tháng 7, khiến server không phản hồi khi tải cao. Khoảng 15 giờ trước sự cố, lưu lượng Teams đã được chuyển hướng sang gateway khác làm tăng tải, và 14% dung lượng gateway bị mất do một vấn đề khác. Hậu quả là hơn 80% server ngừng phản hồi chỉ trong vòng chưa đầy 2 giờ, sự cố lan rộng toàn cầu. Microsoft không thể rollback ngay lập tức và phải triển khai bản vá dần dần để khôi phục dịch vụ. Báo cáo cuối cùng dự kiến được công bố trong tuần này.
+        </div>
+        <div class="source">
+          出典: ITmedia NEWS · 2026-11-17 07:05 JST ·
+          <a href="https://www.itmedia.co.jp/news/article/2611/17/2000003245/" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">暫定</td>
+              <td class="reading">ざんてい</td>
+              <td class="hanviet">tạm định</td>
+              <td class="meaning">tạm thời, sơ bộ (provisional/interim)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">不具合</td>
+              <td class="reading">ふぐあい</td>
+              <td class="hanviet">bất cụ hợp</td>
+              <td class="meaning">lỗi, trục trặc, bug (defect)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">波及</td>
+              <td class="reading">はきゅう</td>
+              <td class="hanviet">ba cập</td>
+              <td class="meaning">lan rộng, ảnh hưởng lan ra (ripple effect)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">高負荷</td>
+              <td class="reading">こうふか</td>
+              <td class="hanviet">cao phụ hà</td>
+              <td class="meaning">tải cao, high load</td>
+            </tr>
+            <tr>
+              <td class="jp-word">段階的</td>
+              <td class="reading">だんかいてき</td>
+              <td class="hanviet">đoạn giai đích</td>
+              <td class="meaning">dần dần, từng bước (gradual/phased)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">容量</td>
+              <td class="reading">ようりょう</td>
+              <td class="hanviet">dung lượng</td>
+              <td class="meaning">dung lượng, sức chứa (capacity)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～が重なる</strong> — ~ trùng lặp, nhiều yếu tố cùng xảy ra
+            <div class="example">
+              <span class="jp">別の問題と高負荷が重なって、障害が拡大した。</span>
+              <span class="vi">Vấn đề khác kết hợp với tải cao khiến sự cố mở rộng quy mô.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～に課題が残った</strong> — còn vấn đề tồn đọng ở ~
+            <div class="example">
+              <span class="jp">即時ロールバックができなかった点に課題が残った。</span>
+              <span class="vi">Điểm không thể rollback ngay lập tức vẫn là vấn đề còn tồn đọng.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A-05 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A-05</span>メルカリ、Google Playストアでアプリが検索・ダウンロード不能に——原因調査中</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          11月17日午後6時40分ごろから、フリマアプリ最大手「メルカリ」がGoogle Playストアで検索も新規ダウンロードもできない状態になっていることが確認された。Webブラウザでアプリページを検索しても「リクエストされたURLは、このサーバー上に見つかりませんでした」というエラーが表示される。メルカリ社はこの状況を把握しており、原因と詳細を調査中だと説明した。同社は既にアプリをインストール済みのユーザーに対して、削除しないよう注意を促している。なお、既存のアプリの動作自体には問題はなく、取引や閲覧は継続して行える状態だという。Google Play上でのアプリ配信に関わるトラブルは珍しく、早期の原因解明と復旧が期待される。
+        </p>
+        <div class="translation-vi">
+          Từ khoảng 18h40 ngày 17/11, ứng dụng flea market hàng đầu "Mercari" không thể tìm kiếm hay tải xuống mới được trên Google Play Store. Khi tìm kiếm trang ứng dụng qua trình duyệt web, hiển thị lỗi "URL được yêu cầu không tìm thấy trên server này". Mercari cho biết đã nắm bắt được tình trạng này và đang điều tra nguyên nhân. Người dùng đã cài đặt ứng dụng được khuyến cáo không xóa ứng dụng. Chức năng của ứng dụng hiện tại vẫn hoạt động bình thường, người dùng vẫn có thể giao dịch và xem sản phẩm. Sự cố liên quan đến phân phối ứng dụng trên Google Play không phổ biến, và việc khôi phục sớm đang được chờ đợi.
+        </div>
+        <div class="source">
+          出典: ITmedia NEWS · 2026-11-17 18:51 JST ·
+          <a href="https://www.itmedia.co.jp/news/article/2611/17/2000003274/" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">フリマアプリ</td>
+              <td class="reading">フリマアプリ</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">ứng dụng flea market (chợ đồ cũ online)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">把握</td>
+              <td class="reading">はあく</td>
+              <td class="hanviet">bả ác</td>
+              <td class="meaning">nắm bắt, hiểu rõ (grasp/understand)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">促す</td>
+              <td class="reading">うながす</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">thúc đẩy, kêu gọi, khuyến cáo (urge)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">配信</td>
+              <td class="reading">はいしん</td>
+              <td class="hanviet">phối tín</td>
+              <td class="meaning">phân phối, phát sóng (distribution/delivery)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">原因解明</td>
+              <td class="reading">げんいんかいめい</td>
+              <td class="hanviet">nguyên nhân giải minh</td>
+              <td class="meaning">làm rõ nguyên nhân (root cause analysis)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～ようにと促す</strong> — kêu gọi/khuyến cáo hãy ~
+            <div class="example">
+              <span class="jp">アプリを削除しないようにと促している。</span>
+              <span class="vi">Công ty đang kêu gọi người dùng không xóa ứng dụng.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<!-- =========================================================
+     SECTION B: JAPAN TECH — 3 articles
+     ========================================================= -->
+<section id="japan-tech" class="digest-section">
+  <h2 class="section-title">🇯🇵 Tech / AI in Japanese</h2>
+
+  <!-- B-01 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B-01</span>毎月6,000セッションのAIエージェントをキーボードなしで管理する——iPhoneとApple WatchからOrcaを操る実践</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          8月からgit worktreeとOrca ADEへ完全移行したエンジニアが、月6,000セッション規模のAIエージェント運用を支える独自の操作システムを公開した。狙いは「認知負荷」「意思決定コスト」「指示入力コスト」の三つを同時に下げることだ。まず、Claude CodeのTask Tools（<code>TaskCreate</code>/<code>TaskUpdate</code>/<code>TaskGet</code>）を活用してエージェントの進捗状況をOrcaのサイドバーに常時表示する。次に、エージェントが人間に質問待ちの状態（<code>AskUserQuestion</code>）かどうかを自動検知し、通知で知らせる。さらに、次のアクション候補をJSON配列で出力させ、ワンタップで送信できる仕組みを実装した。最終的にはiPhoneとApple WatchのアプリをAIに作らせ、TailscaleとAPNs経由でどこからでも指示を送れる体制を整えた。
+        </p>
+        <div class="translation-vi">
+          Một kỹ sư đã chuyển hoàn toàn sang git worktree và Orca ADE từ tháng 8, và đã công bố hệ thống vận hành riêng để quản lý 6.000 session AI agent mỗi tháng mà không cần bàn phím. Mục tiêu là giảm đồng thời ba loại chi phí: "tải nhận thức" (cognitive load), "chi phí ra quyết định" và "chi phí nhập lệnh". Hệ thống sử dụng Task Tools của Claude Code để hiển thị tiến độ agent trên sidebar của Orca, tự động phát hiện khi agent đang chờ câu hỏi từ người dùng, và cho phép gửi lệnh tiếp theo bằng một thao tác chạm. Cuối cùng, tác giả đã nhờ AI xây dựng ứng dụng iPhone và Apple Watch, kết nối qua Tailscale và APNs để điều khiển agent từ bất kỳ đâu.
+        </div>
+        <div class="source">
+          出典: Zenn (andoshin11) · 2026-11-17 · ⭐ Trending ·
+          <a href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙 (技術日本語)</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">認知負荷</td>
+              <td class="reading">にんちふか</td>
+              <td class="hanviet">nhận tri phụ hà</td>
+              <td class="meaning">tải nhận thức (cognitive load)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">意思決定</td>
+              <td class="reading">いしけってい</td>
+              <td class="hanviet">ý tư quyết định</td>
+              <td class="meaning">ra quyết định (decision making)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">移行</td>
+              <td class="reading">いこう</td>
+              <td class="hanviet">di hành</td>
+              <td class="meaning">chuyển đổi, migration</td>
+            </tr>
+            <tr>
+              <td class="jp-word">検知</td>
+              <td class="reading">けんち</td>
+              <td class="hanviet">kiểm tri</td>
+              <td class="meaning">phát hiện, detect</td>
+            </tr>
+            <tr>
+              <td class="jp-word">体制</td>
+              <td class="reading">たいせい</td>
+              <td class="hanviet">thể chế</td>
+              <td class="meaning">hệ thống, cơ chế, setup</td>
+            </tr>
+            <tr>
+              <td class="jp-word">整える</td>
+              <td class="reading">ととのえる</td>
+              <td class="hanviet">chỉnh</td>
+              <td class="meaning">sắp xếp, chuẩn bị, thiết lập</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～を公開した</strong> — đã công bố ~, đã chia sẻ ~
+            <div class="example">
+              <span class="jp">独自の操作システムを公開した。</span>
+              <span class="vi">Tác giả đã công bố hệ thống thao tác độc đáo của mình.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～体制を整える</strong> — xây dựng/thiết lập hệ thống để ~
+            <div class="example">
+              <span class="jp">どこからでも指示を送れる体制を整えた。</span>
+              <span class="vi">Đã xây dựng hệ thống có thể gửi lệnh từ bất kỳ đâu.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- B-02 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B-02</span>mise + gh skillでdotfilesからAgent Skillsを管理する——バージョン管理と安全な入れ替え戦略</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          Claude CodeとCursorのskillが増えてきたことを受け、あるエンジニアがskillを別リポジトリに切り出し、<code>gh skill</code>コマンドで管理するアーキテクチャを構築した。skillの種類は「公開用」「他者の公開skill」「ローカル限定」の三種類に分類される。検討した方法のうち、<code>--force</code>フラグによる上書きは削除済みファイルが残る問題があり、<code>symlink-each</code>は他者のskillを手動更新する必要があるため採用しなかった。最終的に採用した方式は、<code>gh skill install --dir</code>で一時ディレクトリに全skillをインストールし、成功後にのみ<code>~/.claude/skills</code>と入れ替えるアトミックな方式だ。失敗しても既存のskillが保持されるため安全に運用できる。mise v2026.7.4以降で正式対応した<code>bootstrap</code>と<code>dotfiles</code>機能を活用している。
+        </p>
+        <div class="translation-vi">
+          Khi số lượng skill của Claude Code và Cursor tăng lên, một kỹ sư đã tách skill ra thành repository riêng và xây dựng kiến trúc quản lý bằng lệnh <code>gh skill</code>. Skills được phân loại thành ba loại: "công khai", "skill công khai của người khác" và "chỉ dành cho local". Sau khi cân nhắc các phương án, tác giả không dùng <code>--force</code> (để lại file đã xóa) hay <code>symlink-each</code> (phải cập nhật thủ công). Giải pháp cuối cùng là cài tất cả skill vào thư mục tạm bằng <code>gh skill install --dir</code>, rồi chỉ swap với <code>~/.claude/skills</code> khi thành công — một phương thức atomic đảm bảo không mất skill cũ nếu thất bại. Giải pháp tận dụng tính năng <code>bootstrap</code> và <code>dotfiles</code> chính thức trong mise v2026.7.4 trở lên.
+        </div>
+        <div class="source">
+          出典: Zenn · DRESS CODE TECH BLOG · 2026-11-17 · ⭐ Trending ·
+          <a href="https://zenn.dev/dress_code/articles/30bd78e1a67f87" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙 (技術日本語)</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">切り出す</td>
+              <td class="reading">きりだす</td>
+              <td class="hanviet">thiết xuất</td>
+              <td class="meaning">tách ra, extract (refactor ra module riêng)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">入れ替え</td>
+              <td class="reading">いれかえ</td>
+              <td class="hanviet">nhập thế</td>
+              <td class="meaning">swap, thay thế (replacement)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">採用</td>
+              <td class="reading">さいよう</td>
+              <td class="hanviet">thái dụng</td>
+              <td class="meaning">áp dụng, lựa chọn, adopt</td>
+            </tr>
+            <tr>
+              <td class="jp-word">保持</td>
+              <td class="reading">ほじ</td>
+              <td class="hanviet">bảo trì</td>
+              <td class="meaning">giữ lại, preserve (data retention)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">アトミック</td>
+              <td class="reading">アトミック</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">atomic — thao tác không thể bị gián đoạn giữa chừng</td>
+            </tr>
+            <tr>
+              <td class="jp-word">正式対応</td>
+              <td class="reading">せいしきたいおう</td>
+              <td class="hanviet">chính thức đối ứng</td>
+              <td class="meaning">hỗ trợ chính thức (official support)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～を受け</strong> — do ~ / trước tình hình ~
+            <div class="example">
+              <span class="jp">skillが増えてきたことを受け、管理方法を見直した。</span>
+              <span class="vi">Trước tình hình số lượng skill tăng lên, tác giả đã xem xét lại cách quản lý.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～ため採用しなかった</strong> — do ~ nên không áp dụng
+            <div class="example">
+              <span class="jp">手動更新が必要なため採用しなかった。</span>
+              <span class="vi">Do phải cập nhật thủ công nên không áp dụng phương án này.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- B-03 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B-03</span>Node.jsとnpmをWebブラウザ上で動かす「OpenVessel」——神戸ソフトがOSSで公開</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          神戸ソフトは、WebブラウザのみでNode.jsとnpmを実行できる「OpenVessel」をオープンソースとして公開した。Node.js 26のJavaScript部分をそのまま搭載し、その下にインメモリのファイルシステム・プロセス・シグナル・パイプ・シェルといった最小限のOS機能を実装している。Node.js自身のテストスイートのうちブラウザ上で実行可能な1,237本が全て通過したと報告されており、互換性の高さが注目される。デモではAstroが動作し、Markdownを編集するとリアルタイムでサイトに反映される。npmコマンドでパッケージのインストールも行えるため、フロントエンド開発環境をブラウザ完結にする可能性を示している。AIコーディングエージェントとの組み合わせにより、ブラウザ内での完全なNode.js開発環境の実現が期待される。
+        </p>
+        <div class="translation-vi">
+          Kobe Software đã công bố mã nguồn mở "OpenVessel" — một runtime cho phép chạy Node.js và npm trực tiếp trên trình duyệt web mà không cần cài đặt gì thêm. Giải pháp nhúng toàn bộ phần JavaScript của Node.js 26 và triển khai các tính năng OS tối thiểu (filesystem in-memory, process, signal, pipe, shell) bên dưới. Đáng chú ý là 1.237 test case của Node.js có thể chạy trên trình duyệt đều pass, chứng minh độ tương thích cao. Demo cho thấy Astro chạy bình thường, chỉnh sửa Markdown cập nhật realtime lên site. Khả năng cài package bằng lệnh npm mở ra triển vọng môi trường phát triển frontend hoàn toàn trên trình duyệt, đặc biệt khi kết hợp với AI coding agent.
+        </div>
+        <div class="source">
+          出典: Publickey · 2026-11-17 ·
+          <a href="https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙 (技術日本語)</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">搭載</td>
+              <td class="reading">とうさい</td>
+              <td class="hanviet">trang tải</td>
+              <td class="meaning">tích hợp, nhúng vào, equip (mount/load)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">互換性</td>
+              <td class="reading">ごかんせい</td>
+              <td class="hanviet">hỗ hoán tính</td>
+              <td class="meaning">khả năng tương thích (compatibility)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">完結</td>
+              <td class="reading">かんけつ</td>
+              <td class="hanviet">hoàn kết</td>
+              <td class="meaning">hoàn chỉnh, self-contained</td>
+            </tr>
+            <tr>
+              <td class="jp-word">実装</td>
+              <td class="reading">じっそう</td>
+              <td class="hanviet">thực trang</td>
+              <td class="meaning">triển khai, implement</td>
+            </tr>
+            <tr>
+              <td class="jp-word">注目される</td>
+              <td class="reading">ちゅうもくされる</td>
+              <td class="hanviet">chú mục</td>
+              <td class="meaning">được chú ý, thu hút sự quan tâm</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>～完結にする可能性を示す</strong> — cho thấy khả năng ~ tự hoàn chỉnh
+            <div class="example">
+              <span class="jp">ブラウザ完結にする可能性を示している。</span>
+              <span class="vi">Điều này cho thấy khả năng môi trường phát triển hoàn toàn tự chứa trong trình duyệt.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>～との組み合わせにより</strong> — khi kết hợp với ~
+            <div class="example">
+              <span class="jp">AIエージェントとの組み合わせにより、完全な開発環境が実現できる。</span>
+              <span class="vi">Khi kết hợp với AI agent, có thể hiện thực hóa môi trường phát triển hoàn chỉnh.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<!-- =========================================================
+     SECTION C: GLOBAL TECH — 3 articles
+     ========================================================= -->
+<section id="global-tech" class="digest-section">
+  <h2 class="section-title">🌐 Global Tech / AI (English)</h2>
+
+  <!-- C-01 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C-01</span>Goal Engineering: How AI Agents Should Be Designed Around Outcomes, Not Tasks</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Article (English)</div>
+        <p class="content-text lang-en">
+          As AI agents become capable of handling open-ended work, a new challenge emerges: how do you design an agent's scope so it actually accomplishes what you want? A new post from LangChain co-authored with the team at Actively AI argues that "goal engineering" — the design of what an agent is asked to optimize — will become the defining skill of the AI-native era, outlasting prompt engineering and even context engineering.
+          The core problem is tacit knowledge: agents fail not because they lack capability, but because critical context lives in people's heads. The solution isn't better retrieval — it's making feedback loops easy. Agents should be scoped so that humans can review and correct output at meaningful checkpoints, not after hours of work. As a concrete case study, Actively AI rebuilt their sales agents from account-scoped (one agent per customer) to goal-scoped "motions" built on LangGraph Deep Agents, where each agent owns one type of goal across many accounts. This made feedback transferable: learnings from correcting one outbound motion applied to all accounts, not just one. The authors expect agents in future to be assigned high-level goals autonomously, making goal design the new bottleneck for AI product teams.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge medium">🟠 MEDIUM</span>
+          <span class="impact-text">Actionable framework for structuring agentic systems; directly applicable to AI product design and agent architecture decisions.</span>
+        </div>
+        <div class="source">
+          Source: LangChain Blog · 2026-11-14 · Authors: Harrison Chase, Mihir Garimella, Anshul Gupta ·
+          <a href="https://www.langchain.com/blog/goal-engineering" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          Khi AI agent ngày càng có khả năng xử lý công việc mở rộng, một thách thức mới nổi lên: làm thế nào để thiết kế phạm vi của agent để nó thực sự hoàn thành đúng những gì bạn muốn? Bài viết từ LangChain, cùng viết với nhóm Actively AI, lập luận rằng "goal engineering" — thiết kế những gì agent được yêu cầu tối ưu hóa — sẽ trở thành kỹ năng định nghĩa của kỷ nguyên AI-native, tồn tại lâu hơn cả prompt engineering và context engineering.
+
+          Vấn đề cốt lõi là kiến thức ngầm định (tacit knowledge): agent thất bại không phải vì thiếu năng lực, mà vì những thông tin quan trọng chỉ tồn tại trong đầu người. Giải pháp không phải là retrieval tốt hơn, mà là làm cho vòng lặp phản hồi trở nên dễ dàng. Agent nên được phân phạm vi để con người có thể xem xét và sửa chữa đầu ra tại các điểm kiểm tra có ý nghĩa.
+
+          Ví dụ thực tế: Actively AI xây dựng lại sales agent từ hướng account (một agent mỗi khách hàng) sang "motion" hướng mục tiêu trên LangGraph Deep Agents, mỗi agent sở hữu một loại mục tiêu trên nhiều tài khoản. Điều này làm cho phản hồi có thể chuyển giao: bài học từ việc sửa một outbound motion áp dụng cho tất cả tài khoản.
+        </div>
+        <div class="impact-note">
+          Nếu bạn đang thiết kế hệ thống agentic, bài này cung cấp framework thực tiễn: hãy ưu tiên thiết kế "điểm kiểm tra phản hồi" và phạm vi mục tiêu trước khi code, thay vì tập trung vào prompt engineering.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ khó</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr>
+              <td class="term-en">Goal Engineering</td>
+              <td class="term-pron">/ɡoʊl ˌɛndʒɪˈnɪərɪŋ/</td>
+              <td class="term-explain">Thiết kế mục tiêu cho AI agent — quyết định agent được yêu cầu tối ưu hóa điều gì, khác với prompt engineering (cách diễn đạt) hay context engineering (thông tin cung cấp)</td>
+            </tr>
+            <tr>
+              <td class="term-en">Tacit Knowledge</td>
+              <td class="term-pron">/ˈtæsɪt ˈnɒlɪdʒ/</td>
+              <td class="term-explain">Kiến thức ngầm định — hiểu biết tồn tại trong đầu người nhưng chưa được ghi lại, khó truyền đạt cho AI qua text</td>
+            </tr>
+            <tr>
+              <td class="term-en">Deep Agents</td>
+              <td class="term-pron">/diːp ˈeɪdʒənts/</td>
+              <td class="term-explain">Khái niệm của LangChain — agent có thể chạy long-running tasks bất đồng bộ, với khả năng browser use và sub-agent delegation</td>
+            </tr>
+            <tr>
+              <td class="term-en">Feedback Loop</td>
+              <td class="term-pron">/ˈfiːdbæk luːp/</td>
+              <td class="term-explain">Vòng lặp phản hồi — cơ chế mà output của agent được con người đánh giá và sửa chữa, cải thiện dần theo thời gian</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- C-02 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C-02</span>OpenCode Browse: MCP Server That Lets AI Agents Use Your Real Browser with Your Logins</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Article (English)</div>
+        <p class="content-text lang-en">
+          OpenCode has launched Browse, an MCP server combined with a Chromium browser extension that gives AI coding agents real browser access — not a sandboxed headless browser, but your actual Chrome/Edge/Brave with your existing logged-in sessions, cookies, and extensions already active.
+          The key design insight is "ambient authentication": agents can interact with services that require your real login (internal tools, paid APIs, 2FA-protected sites) without you handing over credentials. When an agent hits a login prompt or 2FA challenge, the tab is surfaced to you, you complete the auth, and the agent continues automatically. You can also "lend" a specific open tab to an agent via a toolbar button, and restrict agent access to an allowlist of approved domains. Agents can read pages, click, type, take screenshots, record network traffic — the full browser surface. Compatible with any MCP client including Claude Code, Cursor, Codex, OpenCode, and Zed. The extension source is open on GitHub (anomalyco/browse). The HN thread had 264 points with 151 comments, with particular interest in the security model and comparison to other browser automation approaches.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge medium">🟠 MEDIUM</span>
+          <span class="impact-text">Practical tool for Claude Code and Cursor users who need agents to access auth-gated internal tools and APIs without credential exposure.</span>
+        </div>
+        <div class="source">
+          Source: OpenCode / Hacker News · 2026-11-17 · HN: 264 pts, 151 comments ·
+          <a href="https://opencode.ai/product/browse" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          OpenCode vừa ra mắt Browse, một MCP server kết hợp extension trình duyệt Chromium, cho phép AI coding agent sử dụng trình duyệt thật của bạn — không phải headless browser sandbox mà là Chrome/Edge/Brave thực tế đang chạy với các phiên đăng nhập, cookie và extension sẵn có.
+
+          Ý tưởng thiết kế chủ chốt là "xác thực môi trường" (ambient authentication): agent có thể tương tác với các dịch vụ yêu cầu đăng nhập thật (công cụ nội bộ, API trả phí, trang bảo vệ bởi 2FA) mà không cần bạn giao credential. Khi agent gặp màn hình đăng nhập hay 2FA, tab được hiển thị cho bạn xử lý, và agent tiếp tục tự động sau đó. Bạn cũng có thể "cho mượn" một tab đang mở cho agent qua nút toolbar, và giới hạn agent chỉ được truy cập danh sách domain cho phép.
+
+          Agent có thể đọc trang, click, gõ văn bản, chụp màn hình, ghi lại network traffic — toàn bộ bề mặt trình duyệt. Tương thích với mọi MCP client bao gồm Claude Code, Cursor, Codex, OpenCode và Zed. Extension được mở nguồn trên GitHub (anomalyco/browse).
+        </div>
+        <div class="impact-note">
+          Rất hữu ích cho người dùng Claude Code và Cursor cần agent truy cập các công cụ nội bộ hoặc API yêu cầu đăng nhập mà không muốn lộ credential. Đây là giải pháp thực tế cho bài toán "agent cần truy cập tài nguyên có xác thực".
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ khó</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr>
+              <td class="term-en">MCP Server</td>
+              <td class="term-pron">/ɛm siː piː ˈsɜːvər/</td>
+              <td class="term-explain">Model Context Protocol server — giao thức chuẩn của Anthropic cho phép AI agent tương tác với tool và resource bên ngoài</td>
+            </tr>
+            <tr>
+              <td class="term-en">Ambient Authentication</td>
+              <td class="term-pron">/ˈæmbiənt ɔːˌθɛntɪˈkeɪʃən/</td>
+              <td class="term-explain">Xác thực môi trường — sử dụng session đăng nhập sẵn có của người dùng thay vì yêu cầu cung cấp credential cho agent</td>
+            </tr>
+            <tr>
+              <td class="term-en">Headless Browser</td>
+              <td class="term-pron">/ˈhɛdlɪs ˈbraʊzər/</td>
+              <td class="term-explain">Trình duyệt không giao diện — chạy ẩn, không hiển thị UI, thường dùng cho automation và testing (Puppeteer, Playwright)</td>
+            </tr>
+            <tr>
+              <td class="term-en">Domain Allowlist</td>
+              <td class="term-pron">/dəˈmeɪn ˈælaʊlɪst/</td>
+              <td class="term-explain">Danh sách domain được phép truy cập — whitelist giới hạn agent chỉ có thể mở và tương tác với các website đã được phê duyệt</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- C-03 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C-03</span>Optimizely Compromised: Malicious JavaScript Served to 178 Organizations Including Zoom, BBC, GitLab via CDN</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Article (English)</div>
+        <p class="content-text lang-en">
+          On November 16, 2026, malicious JavaScript code was injected into Optimizely Web experiments and served to visitors of 178 organizations through Optimizely's own CDN. The attack targeted the "Project JavaScript" field in customer projects — when an attacker gained write access to these projects, their payload was served from Optimizely's trusted domain, bypassing most CSP rules. Among the 178 affected organizations were Zoom, BBC, CNN, GitLab, Salesforce, IKEA, HSBC, and Equifax.
+          The payload was sophisticated: it swapped cryptocurrency addresses, skimmed payment card details typed into site forms, stole browser cookies and screenshots, and on iOS devices delivered the Coruna and DarkSword exploit kits. The attack started at 04:21 UTC on November 16; by 23:11 UTC all infected snippets had been cleaned. Only 24 of 256 (15%) affected organizations had a Content Security Policy that would have blocked the payload. How the attacker obtained write access to Optimizely customer projects remains unknown. The incident is a stark reminder that third-party script providers in the marketing/analytics stack represent a significant supply chain attack surface.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge high">🔴 HIGH</span>
+          <span class="impact-text">Supply chain attack via marketing platform CDN — if your app uses Optimizely Web, audit your CSP and third-party script permissions immediately.</span>
+        </div>
+        <div class="source">
+          Source: Report URI Blog · 2026-11-16 · Author: Scott Helme ·
+          <a href="https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          Ngày 16/11/2026, mã JavaScript độc hại đã được tiêm vào các experiment Optimizely Web và phân phối đến người dùng của 178 tổ chức thông qua CDN của chính Optimizely. Cuộc tấn công nhắm vào trường "Project JavaScript" trong các project của khách hàng — khi kẻ tấn công có quyền ghi vào những project này, payload của chúng được phân phối từ domain tin cậy của Optimizely, vượt qua hầu hết các quy tắc CSP.
+
+          Trong số 178 tổ chức bị ảnh hưởng có Zoom, BBC, CNN, GitLab, Salesforce, IKEA, HSBC và Equifax. Payload rất tinh vi: hoán đổi địa chỉ cryptocurrency, đánh cắp thông tin thẻ thanh toán được nhập vào form, đánh cắp cookie trình duyệt và ảnh chụp màn hình, và trên thiết bị iOS còn phân phối các exploit kit Coruna và DarkSword.
+
+          Cuộc tấn công bắt đầu lúc 04:21 UTC ngày 16/11; đến 23:11 UTC tất cả đoạn code bị nhiễm đã được làm sạch. Chỉ 24/256 (15%) tổ chức bị ảnh hưởng có Content Security Policy đủ mạnh để chặn payload. Cách kẻ tấn công có được quyền ghi vào project Optimizely vẫn chưa rõ. Sự cố này là lời nhắc nhở rõ ràng rằng các nhà cung cấp script của bên thứ ba (marketing/analytics) là bề mặt tấn công supply chain đáng kể.
+        </div>
+        <div class="impact-note">
+          Nếu ứng dụng của bạn tích hợp Optimizely Web hoặc bất kỳ third-party marketing script nào khác, cần kiểm tra ngay: (1) CSP có block inline scripts từ external domain không, (2) ai có quyền chỉnh sửa project JavaScript, (3) có subresource integrity (SRI) cho scripts không. Đây là điển hình của supply chain attack qua marketing stack.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ khó</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr>
+              <td class="term-en">Supply Chain Attack</td>
+              <td class="term-pron">/səˈplaɪ tʃeɪn əˈtæk/</td>
+              <td class="term-explain">Tấn công chuỗi cung ứng — tấn công qua nhà cung cấp bên thứ ba tin cậy thay vì tấn công trực tiếp mục tiêu</td>
+            </tr>
+            <tr>
+              <td class="term-en">CSP (Content Security Policy)</td>
+              <td class="term-pron">/siː ɛs piː/</td>
+              <td class="term-explain">Chính sách bảo mật nội dung — HTTP header giúp trình duyệt chặn tải script/style từ các nguồn không được phép, giảm nguy cơ XSS</td>
+            </tr>
+            <tr>
+              <td class="term-en">CDN Injection</td>
+              <td class="term-pron">/ˌsiː diː ˈɛn ɪnˈdʒɛkʃən/</td>
+              <td class="term-explain">Tiêm mã qua CDN — kẻ tấn công chèn mã độc vào file được phân phối qua Content Delivery Network, khiến mã độc được phục vụ từ domain đáng tin</td>
+            </tr>
+            <tr>
+              <td class="term-en">Skimming</td>
+              <td class="term-pron">/ˈskɪmɪŋ/</td>
+              <td class="term-explain">Kỹ thuật đánh cắp — JavaScript thu thập thông tin thẻ tín dụng/form payment ngay khi người dùng nhập, trước khi submit</td>
+            </tr>
+            <tr>
+              <td class="term-en">Exploit Kit</td>
+              <td class="term-pron">/ɪkˈsplɔɪt kɪt/</td>
+              <td class="term-explain">Bộ công cụ khai thác — tập hợp các exploit tự động nhắm vào lỗ hổng trình duyệt/plugin, thường phân phối malware khi người dùng truy cập trang độc hại</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<section class="prev-digests" aria-label="Bản tin gần đây">
+  <h3>📅 Bản tin trước đó</h3>
+  <ul class="prev-digests-list">
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-17_1500.html">2026-11-17 15:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-17_1000.html">2026-11-17 10:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-17_0500.html">2026-11-17 05:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-17_0000.html">2026-11-17 00:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-16_2000.html">2026-11-16 20:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-16_1500.html">2026-11-16 15:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-16_1000.html">2026-11-16 10:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-16_0500.html">2026-11-16 05:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-16_0000.html">2026-11-16 00:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-15_2000.html">2026-11-15 20:00</a></li>
+  </ul>
+</section>
+
+<footer>
+  <p>📚 デイリーダイジェスト | 2026-11-17 20:00 JST | 11 articles · JLPT N2+ · For SE/Cloud Engineer</p>
+  <p>Auto-generated by Claude Code Routine</p>
+</footer>
+
+<script>
+  (function() {
+    var buttons = document.querySelectorAll('.theme-toggle button');
+    var html = document.documentElement;
+
+    function applyTheme(theme) {
+      if (theme === 'system') {
+        html.removeAttribute('data-theme');
+      } else {
+        html.setAttribute('data-theme', theme);
+      }
+      localStorage.setItem('digest-theme', theme);
+      updateActiveButton(theme);
+    }
+
+    function updateActiveButton(theme) {
+      buttons.forEach(function(btn) {
+        if (btn.getAttribute('data-theme-value') === theme) {
+          btn.classList.add('active');
+        } else {
+          btn.classList.remove('active');
+        }
+      });
+    }
+
+    buttons.forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        applyTheme(btn.getAttribute('data-theme-value'));
+      });
+    });
+
+    var current = localStorage.getItem('digest-theme') || 'system';
+    updateActiveButton(current);
+  })();
+</script>
+
+</body>
+</html>

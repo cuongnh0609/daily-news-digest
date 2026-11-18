@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-18T20:00:00+09:00",
+  "last_run_at": "2026-11-19T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-19T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6603076",
+        "https://news.yahoo.co.jp/pickup/6603084",
+        "https://www.itmedia.co.jp/news/article/2611/18/2000003304/",
+        "https://www.itmedia.co.jp/news/article/2611/18/2000003280/",
+        "https://www.itmedia.co.jp/news/article/2611/18/2000003287/",
+        "https://zenn.dev/dress_code/articles/6c179ae5129131",
+        "https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html",
+        "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
+        "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more/",
+        "https://revscope.co/blog/search-seo-geo-2026/"
+      ],
+      "titles": [
+        "子育て支援金の対象、年収下限「56万円」案が浮上——低所得世帯への配慮を巡り与野党で議論",
+        "G20サミットで日中首脳が握手——正式な二国間会談は見送りへ、関係正常化の道筋なお不透明",
+        "日本で最も使われているパスワードは「pass1111」——NordPass調査、世界1位の「123456」は4位に",
+        "NVIDIA、フアン前CEO退任後初の決算発表——売上高は前年同期比103%増、取締役会「後任CEOは急がない」",
+        "KARTEへの不正アクセス、JINSやRIZAPなど最大1829万件の顧客情報に被害が拡大",
+        "tsrsを導入したらoxlintのtype-aware lintingとtypecheckが爆速になった話——フロント・バック共に10倍近い高速化",
+        "マイクロソフト「Copilot Managed Runtime」正式リリース——AIが生成したアプリをM365テナント内で安全に実行",
+        "フロントエンドのlogicとUIは、エージェントの責任範囲で分けられるのか——7時間45分の実走で見えた課題",
+        "Introducing Claude Fable 5.2 and Claude Mythos 5.2 — Anthropic's Most Capable Technical Models Yet",
+        "GitHub Copilot Code Review: Adaptive Effort, Secret Detection, and Cross-Repository Context Now in Preview",
+        "Google's AI Overviews Cut Website Clicks by 40% — SEO Is Alive but Sending Far Less Traffic"
+      ]
+    },
     {
       "run_at": "2026-11-18T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Goal Engineering: How AI Agents Should Be Designed Around Outcomes, Not Tasks",
         "OpenCode Browse: MCP Server That Lets AI Agents Use Your Real Browser with Your Logins",
         "Optimizely Compromised: Malicious JavaScript Served to 178 Organizations Including Zoom, BBC, GitLab via CDN"
-      ]
-    },
-    {
-      "run_at": "2026-11-17T15:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003246/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003258/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003252/",
-        "https://news.yahoo.co.jp/pickup/6602898",
-        "https://zenn.dev/linkedge/articles/claude-code-instead-of-reading-code",
-        "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
-        "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-        "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
-        "https://www.langchain.com/blog/we-rebuilt-langsmith-around-the-agent",
-        "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
-      ],
-      "titles": [
-        "OpenAIをカリフォルニア州が提訴「AIエージェントの制御を80回以上失った」",
-        "米商務省、中国企業のAIチップ「第三国データセンター経由の遠隔利用」を規制へ",
-        "AIに打ち明けた相談は"広告トラッカー"に筒抜け？ ChatGPT・Claude・Geminiら42サービスを米大学が調査",
-        "NTT社長、宇宙光通信構想を発表——月面インフラや宇宙データセンターの整備も視野に",
-        "江夏豊さん死去 数々の伝説残す",
-        "Claude Codeが書くコードを読む代わりにやっていること——受け入れ基準と検証記録による品質管理",
-        "GoogleのエンジニアリングAI「GfG」全容——1兆トークン社内データでチューニングしたGemini",
-        "QAチームの生産性を上げるQA AIプラットフォーム構築——12のAIスキルでQAプロセスを自動化した実践",
-        "GitHub Copilot Deprecates Claude Opus 4.8, Claude Opus 5, and GPT-5.6 Terra on November 16",
-        "LangChain Rebuilds LangSmith Around the Agent — Observability Platform Redesigned for Agentic Workflows",
-        "Windows 11 Is Silently Collecting Data on Which Coding Agents and Developer Tools You Use"
       ]
     }
   ]

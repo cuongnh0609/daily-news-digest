@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-18T05:00:00+09:00",
+  "last_run_at": "2026-11-18T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-18T10:00:00+09:00",
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQOUB180000X11C26A1000000/",
+        "https://www3.nhk.or.jp/news/html/20261118/k10014646001000.html",
+        "https://www.jnto.go.jp/statistics/data/tourists-visitjapan.html",
+        "https://www.cao.go.jp/ai/index.html",
+        "https://www.kyodo.co.jp/sports/tokyo-olympic/",
+        "https://zenn.dev/gemcook/articles/claude-code-otel-cloudflare",
+        "https://qiita.com/tags/AI/prompt-cache-claude",
+        "https://www.itmedia.co.jp/aiplus/agent-testing-framework/",
+        "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview",
+        "https://aws.amazon.com/blogs/aws/amazon-bedrock-cross-region-inference-now-generally-available/",
+        "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/"
+      ],
+      "titles": [
+        "日銀、12月の利上げ観測が強まる——円安加速で市場の圧力高まる",
+        "能登半島地震から約2年——仮設住宅の退去期限延長、復興格差が課題に",
+        "10月の訪日外客数、過去最多の350万人超——円安効果と観光地分散が鍵",
+        "政府、AIの国家戦略を改定——「主権AI」の確保と国産モデル育成を明記",
+        "東京五輪汚職、元電通幹部に実刑判決——スポンサー選定不正の全体像が明らかに",
+        "OpenTelemetryとCloudflareでClaude Codeの利用ログを収集する——エージェント可観測性の実践",
+        "LLMアプリのコストを60%削減——Claude APIのプロンプトキャッシュ実装で学んだこと",
+        "AIエージェントのテスト設計に挑む——「非決定的な動作」を検証するフレームワーク実践",
+        "GitHub Copilot Evals Enters Public Preview — Test MCP Tool Calls and Agent Behaviors at Scale",
+        "AWS Bedrock Cross-Region Inference Now Generally Available — Automatic Failover Across AWS Regions",
+        "Simon Willison: External Sandboxes for Coding Agents — Why Every Agent Needs Isolated Execution"
+      ]
+    },
     {
       "run_at": "2026-11-18T05:00:00+09:00",
       "urls": [

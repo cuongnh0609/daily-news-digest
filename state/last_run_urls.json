@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-18T10:00:00+09:00",
+  "last_run_at": "2026-11-18T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-18T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
+        "https://www.itmedia.co.jp/aiplus/article/2611/17/2000003260/",
+        "https://monoist.itmedia.co.jp/mn/articles/2611/18/news040.html",
+        "https://www.itmedia.co.jp/aiplus/article/2611/17/2000003249/",
+        "https://zenn.dev/enterprise_ai/articles/1b1f34af88fb8f",
+        "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
+        "https://zenn.dev/epicai_techblog/articles/29b509117755af",
+        "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+        "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+        "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+      ],
+      "titles": [
+        "米中間選挙、上院で全100議席の行方が確定——共和党が過半数を維持",
+        "KDDI、8年ぶりの「INFOBAR」新モデル発表——デザイン性と実用性を両立した新世代フィーチャーフォン",
+        "MUFGと松尾豊教授設立のAIスタートアップが提携——「遍在型AGI」を金融サービスへ展開",
+        "日立、AIエージェントの不正行動を生体認証で阻止する「PoHD」技術を発表",
+        "ジェンスン・フアン氏の復帰求める署名が18万人超に——NVIDIA従業員9000人を含む業界横断の声",
+        "エージェントの自律性を上げると何が得られて何を失うか——270回の実測で検証した承認・自律・助言の差",
+        "Claude Desktop 開発のすゝめ——VS CodeからClaude Desktopへ移行した開発者の実践報告",
+        "L40S 1台で社内RAGは何人まで使えるか——Gemma 4 vLLMで最大60人、徹底的な負荷計測レポート",
+        "FrontierHarness Eval v1.1 — Benchmarking 22 AI Agent Harnesses Across 62 Terminal Tasks at Scale",
+        "GitHub Copilot Fusion Updates: 71.2% on Terminal-Bench 4.1, New Models, and Broader Availability",
+        "Harvard Study: AI Coding Agents Shifted the Bottleneck to Code Review — 718 Firms, 725K Workers"
+      ]
+    },
     {
       "run_at": "2026-11-18T10:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Launches IPO Roadshow at $70–$78/Share — 825M Shares on Nasdaq as ANT",
         "Gemini 4 Hydrogen Now Generally Available in GitHub Copilot — Optimized for Agentic Coding",
         "GitHub Launches Bulk AI Scan for Repositories — REST API Now Controls Security Coverage at Scale"
-      ]
-    },
-    {
-      "run_at": "2026-11-17T00:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
-        "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
-        "https://www.itmedia.co.jp/news/article/2611/13/2000003186/",
-        "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
-        "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
-        "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-        "https://zenn.dev/jammaru_lab/articles/sakutto-local-llm-chrome-extension",
-        "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
-        "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-        "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-        "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api"
-      ],
-      "titles": [
-        "GoogleのAIが人間の関与なしに脆弱性を発見・悪用——GTIG初の観測レポート",
-        "ドコモ「5G SA」今月3度目の通信障害——「交換機への通信集中」が原因",
-        "「Qoo10」に不正アクセス——住所の地理座標や身体的特徴も漏えい対象に",
-        "データセンターの排熱でエビ養殖——NTT系が実験、育ったら食べられる？",
-        "ユナイテッド航空、外部AIアシスタントによる航空券予約を禁止——「チェックインには人間の確認が必要」",
-        "【pstack】AIに敵対的レビューをさせるな——トークンは検証に使え",
-        "ローカルLLMで動く翻訳拡張機能「Sakutto」を開発した話——プライバシー保護と実用性を両立",
-        "軽量マイクロVMでネイティブより高速起動「Hyperlight-Unikraft」登場——AI推論ワークロードに最適化",
-        "Old Bitly Short Links Being Hijacked and Redirected to Malicious Sites",
-        "What's Next for Nvidia After Jensen Huang's Resignation? — Steve Blank's Strategic Analysis",
-        "GitHub Launches AI Scan for Repositories via REST API — Manage AI-Generated Code Risk at Scale"
       ]
     }
   ]

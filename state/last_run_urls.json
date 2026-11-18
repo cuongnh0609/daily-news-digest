@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-19T00:00:00+09:00",
+  "last_run_at": "2026-11-19T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-19T05:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/18/2000003279/",
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003258/",
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003222/",
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003215/",
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003252/",
+        "https://zenn.dev/mizchi/articles/mutation-test-quality",
+        "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
+        "https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html",
+        "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+        "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+        "https://microsoft.ai/news/microsoft-ignite-2026/"
+      ],
+      "titles": [
+        "OpenAI、新フラッグシップ「GPT-6.2 Astra」と「Sol」を公開——AI自己改善能力が初めて「High」評価に",
+        "米商務省、第三国データセンター経由のAIチップ「遠隔利用」を規制——中国企業向け抜け穴を封鎖",
+        "マネックス証券に不正アクセス——免許証やマイナカードなど約1592件の本人確認書類が漏えいか",
+        "エンジニア転職サービス「paiza」、最大90万件の個人情報が約13年間にわたり漏えい状態に",
+        "NTT島田社長、宇宙光通信構想を発表——月面インフラや宇宙データセンター整備も視野に",
+        "「Mutation Testをやれ」——AI生成コードのテスト品質を計測する新しいアプローチ",
+        "QA生産性を爆上げする「QA AIプラットフォーム」——12のSkillでQA業務を全自動化",
+        "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗——「Microsoft Perception」正式提供開始",
+        "Unauthenticated Remote Code Execution in Nginx via HTTP/2 — Critical Vulnerability Disclosed by Wiz",
+        "Google DeepMind's Genie 4 Is Now Available — Natively Multimodal World Simulation with Interactive Audio",
+        "Microsoft Ignite 2026: Seven New AI Models at Scalable Price-Performance — From MAI Code to Phi-5"
+      ]
+    },
     {
       "run_at": "2026-11-19T00:00:00+09:00",
       "urls": [
@@ -51,7 +80,7 @@
         "NewsPicks情報漏えいの原因はMetabaseの脆弱性か——BIツールの設定不備が招いた大規模流出",
         "日ASEAN首脳会議、AI悪用・フェイク拡散に対処する新たな国際枠組みの構築で合意",
         "KDDI、インターネット接続機能を省いたシンプル携帯「INFOBAR ZERO」を12月25日に発売",
-        "Claude Codeの危険コマンド遮断hookが特定条件で素通りしていた——Zennで発覚したセキュリティ設計の盲点",
+        "Claude Codeの危険コマンド遮断hookが特定条件で素通ししていた——Zennで発覚したセキュリティ設計の盲点",
         "Muse（AIエージェント）の記憶と自己改善を観察する——境界を認識し学習するエージェントの実態",
         "Hyperlight-Unikraft——マイクロVMとUnikernelを融合させた超軽量VMが登場、コールドスタート5ms以下を実現",
         "Energy-Based Reasoners: 385x More Efficient Inference Without Sacrificing Accuracy",
@@ -191,7 +220,7 @@
         "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
       ],
       "titles": [
-        "楽天証券に不正アクセス、最大1125万口座の顧客情報が漏えいした可能性",
+        "楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか　「テスト環境」の一部情報が流出のおそれ",
         "KARTE不正アクセス、モリサワ・mineoなど多数企業の顧客情報が漏えい",
         "東京都、水道利用者の個人情報871件含むHDDを紛失",
         "Microsoft 365大規模障害、原因は7月の修正に潜んでいたバグ——世界規模に波及",

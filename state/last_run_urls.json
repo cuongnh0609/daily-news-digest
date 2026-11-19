@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-19T15:00:00+09:00",
+  "last_run_at": "2026-11-19T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-19T20:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003334/",
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003319/",
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003321/",
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003313/",
+        "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
+        "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
+        "https://zenn.dev/microsoft/articles/ms-decision-1-1",
+        "https://slowchronicle.com/posts/llm-assisted-reverse-engineering",
+        "https://www.langchain.com/blog/langsmith-coding-agents-roi",
+        "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team"
+      ],
+      "titles": [
+        "nginx「緊急」脆弱性——官房長官が事業者に対策を呼びかけ、国内サイトの約6割に影響",
+        "Microsoft Agent FrameworkがPyPIで侵害——認証情報盗難マルウェアが2バージョン流通",
+        "Google、AIエージェント「Tasks in Gemini」を日本含む6カ国で無償提供",
+        "OpenAIのAIモデル、AMDの次世代GPU回路設計を最大14%改善",
+        "JR東日本「手ぶら改札」、来春40駅で本格展開——UWB技術でSuica不要",
+        "自分の代わりに動くAgentへ——Claude CodeとCodexで作る自律改善ハーネス",
+        "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
+        "Microsoft-Decision-1.1公開——Gemma 4 26B MoEに換装、画像入力対応",
+        "LLM-Assisted Reverse Engineering: A Practitioner's Workflow with Ghidra MCP",
+        "LangSmith for Coding Agents: Track Agent Spend by Outcome",
+        "GitHub Copilot Team Customizations Go GA — Maintainers Can Now Lock Agent Plugins"
+      ]
+    },
     {
       "run_at": "2026-11-19T15:00:00+09:00",
       "urls": [
@@ -81,7 +110,7 @@
         "エンジニア転職サービス「paiza」、最大90万件の個人情報が約13年間にわたり漏えい状態に",
         "NTT島田社長、宇宙光通信構想を発表——月面インフラや宇宙データセンター整備も視野に",
         "「Mutation Testをやれ」——AI生成コードのテスト品質を計測する新しいアプローチ",
-        "QA生産性を爆上げする「QA AIプラットフォーム」——12のSkillでQA業務を全自動化",
+        "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
         "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗——「Microsoft Perception」正式提供開始",
         "Unauthenticated Remote Code Execution in Nginx via HTTP/2 — Critical Vulnerability Disclosed by Wiz",
         "Google DeepMind's Genie 4 Is Now Available — Natively Multimodal World Simulation with Interactive Audio",
@@ -173,93 +202,6 @@
         "FrontierHarness Eval v1.1 — Benchmarking 22 AI Agent Harnesses Across 62 Terminal Tasks at Scale",
         "GitHub Copilot Fusion Updates: 71.2% on Terminal-Bench 4.1, New Models, and Broader Availability",
         "Harvard Study: AI Coding Agents Shifted the Bottleneck to Code Review — 718 Firms, 725K Workers"
-      ]
-    },
-    {
-      "run_at": "2026-11-18T10:00:00+09:00",
-      "urls": [
-        "https://www.nikkei.com/article/DGXZQOUB180000X11C26A1000000/",
-        "https://www3.nhk.or.jp/news/html/20261118/k10014646001000.html",
-        "https://www.jnto.go.jp/statistics/data/tourists-visitjapan.html",
-        "https://www.cao.go.jp/ai/index.html",
-        "https://www.kyodo.co.jp/sports/tokyo-olympic/",
-        "https://zenn.dev/gemcook/articles/claude-code-otel-cloudflare",
-        "https://qiita.com/tags/AI/prompt-cache-claude",
-        "https://www.itmedia.co.jp/aiplus/agent-testing-framework/",
-        "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview",
-        "https://aws.amazon.com/blogs/aws/amazon-bedrock-cross-region-inference-now-generally-available/",
-        "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/"
-      ],
-      "titles": [
-        "日銀、12月の利上げ観測が強まる——円安加速で市場の圧力高まる",
-        "能登半島地震から約2年——仮設住宅の退去期限延長、復興格差が課題に",
-        "10月の訪日外客数、過去最多の350万人超——円安効果と観光地分散が鍵",
-        "政府、AIの国家戦略を改定——「主権AI」の確保と国産モデル育成を明記",
-        "東京五輪汚職、元電通幹部に実刑判決——スポンサー選定不正の全体像が明らかに",
-        "OpenTelemetryとCloudflareでClaude Codeの利用ログを収集する——エージェント可観測性の実践",
-        "LLMアプリのコストを60%削減——Claude APIのプロンプトキャッシュ実装で学んだこと",
-        "AIエージェントのテスト設計に挑む——「非決定的な動作」を検証するフレームワーク実践",
-        "GitHub Copilot Evals Enters Public Preview — Test MCP Tool Calls and Agent Behaviors at Scale",
-        "AWS Bedrock Cross-Region Inference Now Generally Available — Automatic Failover Across AWS Regions",
-        "Simon Willison: External Sandboxes for Coding Agents — Why Every Agent Needs Isolated Execution"
-      ]
-    },
-    {
-      "run_at": "2026-11-18T05:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003254/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003253/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003246/",
-        "https://www.itmedia.co.jp/news/article/2611/13/2000003178/",
-        "https://www.itmedia.co.jp/news/article/2611/13/2000003167/",
-        "https://zenn.dev/rimo/articles/701d18b7764669",
-        "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
-        "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html",
-        "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-        "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
-      ],
-      "titles": [
-        "OpenAI、児童性的虐待コンテンツ検出ツールを無償公開——生成AI画像も対象に、ChatGPTでの検索は24時間停止措置",
-        "スパコン「富岳」、不正アクセスで運用停止——SSH秘密鍵・研究データが流出の恐れ、他システムへの侵入試みも",
-        "カリフォルニア州、OpenAIを提訴——「AIエージェントの制御を80回以上失った」と主張、安全対策の不備を問題視",
-        "ANA予約システムに障害、国内線タイムセール初日に国内線の予約・確認が一時不能——JALでも同日に不具合",
-        "滋賀県甲賀市の音声放送システムにランサムウェア攻撃——屋外拡声器229か所が使用不能、緊急情報の伝達に支障",
-        "お問い合わせの8割を、AIボットが解決するようになった話——Rimo社がRAGとコンテキスト連携で自社CS業務を自動化",
-        "Cloudflare、AI専用の軽量ヘッドレスブラウザ「Kitesurf」をオープンソースで公開——タブもUIもないAgent向け設計",
-        "AWS、AIエージェント向け軽量VM「AWS Nitro Sandboxes」提供開始——ネイティブなEC2性能と強力な隔離を両立",
-        "OpenAI Introduces GPT-6.2 Astra and Sol — New Flagship Models with Multimodal Reasoning and Real-Time Agent Capabilities",
-        "Microsoft Launches MAI Code 2 and Code 2 Flash — High-Performance Coding Models at Drastically Reduced Cost",
-        "Anthropic Donates Agent Skills Standard to the Agentic AI Foundation — Open Standard with 280M Installs Moves to Linux Foundation"
-      ]
-    },
-    {
-      "run_at": "2026-11-18T00:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003250/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003261/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003248/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003266/",
-        "https://www.itmedia.co.jp/news/article/2611/16/2000003220/",
-        "https://zenn.dev/tree_and_tree/articles/ai-driven-discord-info-server",
-        "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-        "https://www.publickey1.jp/blog/26/postgresql_194ai.html",
-        "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-        "https://simonwillison.net/2026/Nov/16/llm/",
-        "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from"
-      ],
-      "titles": [
-        "京成スカイライナー予約システムに不正アクセス——会員情報最大337万件が漏えいの可能性",
-        "ドコモ5G SAが今月4度目の通信障害——総務省が原因究明と再発防止を要請",
-        "OpenAI、外部AI安全評価機関4社を社内に常駐——モデルの独立評価プログラム始動",
-        "メルカリと駿河屋、米国で合弁会社を設立——日本発のフリマ×中古品目利きで北米市場参入",
-        "「艦これアーケード」など一部再開——不正アクセスで停止したセガALL.Netが試験復旧",
-        "AI駆動開発で自分用の情報収集Discordサーバーを作る——Claude CodeとMCPで555件のイシューを自律処理",
-        "ローカルLLM入門——2026年のOllama・LM Studio・WebLLM完全ガイド",
-        "PostgreSQL 19リリース延期の背景——β4で多数の新機能が取り下げ、AIコードレビューが影響か",
-        "How the Claude Code Team Thinks About Verification — End-to-End Tests, Property Tests, and Adversarial Review",
-        "llm 0.37.3 Released — Simon Willison's LLM CLI Adds Provider Routing and Streaming Fix",
-        "GitHub Copilot Gains Customization Source Control — Organizations Can Now Lock or Restrict Where Copilot Instructions Come From"
       ]
     }
   ]

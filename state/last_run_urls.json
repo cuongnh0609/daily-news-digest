@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-19T20:00:00+09:00",
+  "last_run_at": "2026-11-20T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-20T00:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003250/",
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003253/",
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003344/",
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
+        "https://zenn.dev/aws_japan/articles/elasticache-distributed-kv-cache-bench",
+        "https://www.publickey1.jp/blog/26/postgresql_194ai.html",
+        "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+        "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+        "https://news.ycombinator.com/item?id=50548660",
+        "https://contralabs.com/"
+      ],
+      "titles": [
+        "北海道2市町、ゲーム「NIKKE」経由のマルウェア感染で住民情報が漏えいか",
+        "京成スカイライナー予約システムへの不正アクセス——約337万件の顧客情報が流出か",
+        "スパコン「富岳」に不正アクセス——公開ステータス画面の脆弱性が侵入経路に",
+        "モノガタリ社、11アプリで氏名・電話番号フィールドを予定より早く削除",
+        "AI会話ログが広告追跡システムに送信の可能性——ChatGPT・Claude・Geminiら42サービスを調査",
+        "AWSがElastiCache Distributed KV Cachingを発表——GPU 2台のvLLM推論で分散キャッシュを試す",
+        "PostgreSQL 19でβ4から多くの新機能が取り下げ——AIコードレビューの導入が遠因か",
+        "Cloudflare、AIエージェント専用の軽量ヘッドレスブラウザ「Kitesurf」をオープンソースで公開",
+        "External Sandboxes for Coding Agents: Three New MCP Servers Let Agents Run Code Safely",
+        "Mastra Factory Goes Open Source: The Agentic Software Factory Behind the Mastra Framework",
+        "Two Stealth Models Appear on LMSYS Leaderboard Above Claude Fable 5.2 — Community Speculates on Origins"
+      ]
+    },
     {
       "run_at": "2026-11-19T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Energy-Based Reasoners: 385x More Efficient Inference Without Sacrificing Accuracy",
         "GitHub Copilot App — Microsoft Ignite Releases: Browser Use, Cloud Sandbox, and Azure DevOps Integration",
         "Solid 2.0: The Long Hold — Fine-Grained Reactivity Framework Rethinks Rendering from the Ground Up"
-      ]
-    },
-    {
-      "run_at": "2026-11-18T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
-        "https://www.itmedia.co.jp/aiplus/article/2611/17/2000003260/",
-        "https://monoist.itmedia.co.jp/mn/articles/2611/18/news040.html",
-        "https://www.itmedia.co.jp/aiplus/article/2611/17/2000003249/",
-        "https://zenn.dev/enterprise_ai/articles/1b1f34af88fb8f",
-        "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-        "https://zenn.dev/epicai_techblog/articles/29b509117755af",
-        "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
-        "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
-        "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
-      ],
-      "titles": [
-        "米中間選挙、上院で全100議席の行方が確定——共和党が過半数を維持",
-        "KDDI、8年ぶりの「INFOBAR」新モデル発表——デザイン性と実用性を両立した新世代フィーチャーフォン",
-        "MUFGと松尾豊教授設立のAIスタートアップが提携——「遍在型AGI」を金融サービスへ展開",
-        "日立、AIエージェントの不正行動を生体認証で阻止する「PoHD」技術を発表",
-        "ジェンスン・フアン氏の復帰求める署名が18万人超に——NVIDIA従業員9000人を含む業界横断の声",
-        "エージェントの自律性を上げると何が得られて何を失うか——270回の実測で検証した承認・自律・助言の差",
-        "Claude Desktop 開発のすゝめ——VS CodeからClaude Desktopへ移行した開発者の実践報告",
-        "L40S 1台で社内RAGは何人まで使えるか——Gemma 4 vLLMで最大60人、徹底的な負荷計測レポート",
-        "FrontierHarness Eval v1.1 — Benchmarking 22 AI Agent Harnesses Across 62 Terminal Tasks at Scale",
-        "GitHub Copilot Fusion Updates: 71.2% on Terminal-Bench 4.1, New Models, and Broader Availability",
-        "Harvard Study: AI Coding Agents Shifted the Bottleneck to Code Review — 718 Firms, 725K Workers"
       ]
     }
   ]

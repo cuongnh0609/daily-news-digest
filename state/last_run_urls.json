@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-20T00:00:00+09:00",
+  "last_run_at": "2026-11-20T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-20T05:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003347/",
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003323/",
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003261/",
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003266/",
+        "https://zenn.dev/oshikaidesu/articles/8bce9bc005b3e7",
+        "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
+        "https://www.publickey1.jp/blog/26/database_hubai.html",
+        "https://www.anthropic.com/research/claude-black-hole-physics",
+        "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+        "https://verialabs.com/ruby2shell/"
+      ],
+      "titles": [
+        "楽天証券、アンソロピックIPO抽選で「対象外」表示の不具合——当選者が相次いで報告",
+        "体操強化にAI導入——JSCと富士通が共同研究、骨格データで技の習得を科学的に支援",
+        "AIエージェントとAPIルーターの危険な関係——428件の調査で判明した認証情報窃取の実態",
+        "ドコモ5G障害3度目、総務相「大変遺憾」——構造的課題の洗い出しを要求",
+        "メルカリ×駿河屋、米国で合弁——ロサンゼルス拠点にホビー商品の買取・販売事業へ",
+        "AEの式もWGSLシェーダーも動く動画編集ソフトを作りながらClaude Codeのモデル選択に悩んだ話",
+        "Claude Desktopでの開発への移行——VSCodeを捨て、5〜10セッション並列でエピック駆動開発を実践",
+        "マイクロソフト「Database Hub」正式リリース——AIエージェントがクラウド・オンプレDBを一元監視",
+        "Claude Solves Two Open Problems in the Physics of Black Holes",
+        "GitHub Copilot Fusion Scores 71.2% on Terminal-Bench 4.1 — Adds Claude Sonnet 5.5 and MAI-Code-2",
+        "Ruby2Shell: Pre-Authentication RCE in Rails via One-Byte Heap Overflow in Ruby String Case Conversion"
+      ]
+    },
     {
       "run_at": "2026-11-20T00:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Introducing Claude Fable 5.2 and Claude Mythos 5.2 — Anthropic's Most Capable Technical Models Yet",
         "GitHub Copilot Code Review: Adaptive Effort, Secret Detection, and Cross-Repository Context Now in Preview",
         "Google's AI Overviews Cut Website Clicks by 40% — SEO Is Alive but Sending Far Less Traffic"
-      ]
-    },
-    {
-      "run_at": "2026-11-18T20:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/18/2000003307/",
-        "https://www.itmedia.co.jp/news/article/2611/18/2000003302/",
-        "https://www.itmedia.co.jp/news/article/2611/18/2000003300/",
-        "https://www.itmedia.co.jp/news/article/2611/18/2000003294/",
-        "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
-        "https://zenn.dev/minewo/articles/claude-code-hook-fail-open",
-        "https://zenn.dev/daydream/articles/muse-observation-01-memory-and-boundaries",
-        "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
-        "https://energy-based-reasoners.github.io/",
-        "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-        "https://www.solidjs.com/blog/solid-2-0-the-long-hold/"
-      ],
-      "titles": [
-        "JR東日本の新マスコットキャラクターに「紫うさぎ」が選出——全国投票で過半数を獲得",
-        "楽天証券の情報漏えい、テスト環境に本番の顧客データを無対策で保存していたことが判明",
-        "NewsPicks情報漏えいの原因はMetabaseの脆弱性か——BIツールの設定不備が招いた大規模流出",
-        "日ASEAN首脳会議、AI悪用・フェイク拡散に対処する新たな国際枠組みの構築で合意",
-        "KDDI、インターネット接続機能を省いたシンプル携帯「INFOBAR ZERO」を12月25日に発売",
-        "Claude Codeの危険コマンド遮断hookが特定条件で素通ししていた——Zennで発覚したセキュリティ設計の盲点",
-        "Muse（AIエージェント）の記憶と自己改善を観察する——境界を認識し学習するエージェントの実態",
-        "Hyperlight-Unikraft——マイクロVMとUnikernelを融合させた超軽量VMが登場、コールドスタート5ms以下を実現",
-        "Energy-Based Reasoners: 385x More Efficient Inference Without Sacrificing Accuracy",
-        "GitHub Copilot App — Microsoft Ignite Releases: Browser Use, Cloud Sandbox, and Azure DevOps Integration",
-        "Solid 2.0: The Long Hold — Fine-Grained Reactivity Framework Rethinks Rendering from the Ground Up"
       ]
     }
   ]

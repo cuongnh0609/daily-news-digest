@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-19T10:00:00+09:00",
+  "last_run_at": "2026-11-19T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-19T15:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003325/",
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003324/",
+        "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003329/",
+        "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003306/",
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003309/",
+        "https://zenn.dev/karamage/books/50c18e52e7d19e",
+        "https://zenn.dev/applibot_tech/articles/6b8ec8d196634b",
+        "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
+        "https://www.langchain.com/blog/what-weve-learned-building-proactive-agents",
+        "https://www.langchain.com/blog/we-rebuilt-langsmith-around-the-agent",
+        "https://www.langchain.com/blog/agents-are-going-async"
+      ],
+      "titles": [
+        "政府、nginxの深刻な脆弱性に緊急対応を呼びかけ——未認証でのリモートコード実行が可能に",
+        "AIが職人の技を「見える化」——工業高校でモーションキャプチャと生成AIを活用した技能継承",
+        "ファミリーマート、AIロボットを全国本格導入——飲料補充作業の約7割を自動化",
+        "ElevenLabsが音声AIスタートアップ「Kotoba」を159億円で買収——日本語TTSの技術力を評価",
+        "「格安GPT」の中身は偽物か——非公式APIの428件を調査、AIモデル偽装の実態が明らかに",
+        "AIエージェントSkillの集大成——「pstack」ガイドブックで学ぶAgent Skills管理の実践",
+        "「QAの生産性を爆上げ」——AIがテスト設計から実行まで自動化する12スキル型QAプラットフォームの実践",
+        "MicrosoftがAI向けコーディングモデル「MAI Code 2」と「MAI Code 2 Flash」を発表——コスト大幅削減でエンタープライズ開発を加速",
+        "What We've Learned Building Proactive Agents — LangChain's Principles for Agents That Act Without Being Asked",
+        "We Rebuilt LangSmith Around the Agent — Observability Platform Redesigned for Agentic Workflows",
+        "Agents Are Going Async — Why Long-Running AI Agents Need Asynchronous Architecture"
+      ]
+    },
     {
       "run_at": "2026-11-19T10:00:00+09:00",
       "urls": [
@@ -231,35 +260,6 @@
         "How the Claude Code Team Thinks About Verification — End-to-End Tests, Property Tests, and Adversarial Review",
         "llm 0.37.3 Released — Simon Willison's LLM CLI Adds Provider Routing and Streaming Fix",
         "GitHub Copilot Gains Customization Source Control — Organizations Can Now Lock or Restrict Where Copilot Instructions Come From"
-      ]
-    },
-    {
-      "run_at": "2026-11-17T20:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003275/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003257/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003270/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003274/",
-        "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-        "https://zenn.dev/dress_code/articles/30bd78e1a67f87",
-        "https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html",
-        "https://www.langchain.com/blog/goal-engineering",
-        "https://opencode.ai/product/browse",
-        "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
-      ],
-      "titles": [
-        "楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか　「テスト環境」の一部情報が流出のおそれ",
-        "KARTE不正アクセス、モリサワ・mineoなど多数企業の顧客情報が漏えい",
-        "東京都、水道利用者の個人情報871件含むHDDを紛失",
-        "Microsoft 365大規模障害、原因は7月の修正に潜んでいたバグ——世界規模に波及",
-        "メルカリ、Google Playストアでアプリが検索・ダウンロード不能に——原因調査中",
-        "毎月6,000セッションのAIエージェントをキーボードなしで管理する——iPhoneとApple WatchからOrcaを操る実践",
-        "mise + gh skillでdotfilesからAgent Skillsを管理する——バージョン管理と安全な入れ替え戦略",
-        "Node.jsとnpmをWebブラウザ上で動かす「OpenVessel」——神戸ソフトがOSSで公開",
-        "Goal Engineering: How AI Agents Should Be Designed Around Outcomes, Not Tasks",
-        "OpenCode Browse: MCP Server That Lets AI Agents Use Your Real Browser with Your Logins",
-        "Optimizely Compromised: Malicious JavaScript Served to 178 Organizations Including Zoom, BBC, GitLab via CDN"
       ]
     }
   ]

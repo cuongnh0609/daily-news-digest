@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-20T10:00:00+09:00",
+  "last_run_at": "2026-11-20T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-20T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6603266",
+        "https://news.yahoo.co.jp/pickup/6603280",
+        "https://news.yahoo.co.jp/pickup/6603287",
+        "https://news.yahoo.co.jp/pickup/6603281",
+        "https://news.yahoo.co.jp/pickup/6603282",
+        "https://zenn.dev/hma2moto/articles/turtle-agent-rules-pros-cons",
+        "https://zenn.dev/genax_corp/articles/20261109-judge-models-faq-check",
+        "https://kn.itmedia.co.jp/kn/article/2611/20/2000003337/",
+        "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+        "https://github.com/openssl/openssl/pull/33652",
+        "https://www.langchain.com/blog/langsmith-tool-gateway"
+      ],
+      "titles": [
+        "日中首脳会談は見送り——習近平訪日に向けた関係修復、依然として困難",
+        "独メルツ首相、米中露の三者協議を批判——「欧州の頭越しに決定するな」",
+        "3歳女児死亡、父親のスマートフォンに虐待動画——逮捕状が請求される",
+        "ホンダ、新型3列シートSUVを世界初公開——2027年発売へ電動化と先進安全装備を搭載",
+        "駅ナカにサンドイッチ自動販売機が続々登場——利便性と食品ロス削減を両立",
+        "CLAUDE.md や SKILL.md のルールを Turtle で記述し、lint で矛盾を検査してみた",
+        "Decision ModelはFAQ回答確認と問い合わせ振り分けに使えるか——Gemini Decision 1で検証",
+        "さよなら「Claude Code」——人気AIツールに愛想を尽かしたエンジニアの意外な移行先",
+        "Token Fraud Is Here and It's Bad — Free-Trial Abuse Now Reaching Scale in AI Agent Products",
+        "OpenSSL Critical Vulnerability CVE-2026-121481 (CVSS 9.8) — Buffer Overflow in EVP_EncodeBlock()",
+        "LangSmith Tool Gateway: Secure, Governed Tool Use for Production AI Agents"
+      ]
+    },
     {
       "run_at": "2026-11-20T10:00:00+09:00",
       "urls": [

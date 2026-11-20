@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-20T05:00:00+09:00",
+  "last_run_at": "2026-11-20T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-20T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6603246",
+        "https://news.yahoo.co.jp/pickup/6603235",
+        "https://www.itmedia.co.jp/news/article/2611/20/2000003354/",
+        "https://www.itmedia.co.jp/news/article/2611/20/2000003357/",
+        "https://www.itmedia.co.jp/news/article/2611/20/2000003356/",
+        "https://zenn.dev/daiaoki/articles/webterm-ai-era-testing",
+        "https://zenn.dev/dress_code/articles/30bd78e1a67f87",
+        "https://zenn.dev/port_inc/articles/ff974c7456f4db",
+        "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+        "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
+        "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/"
+      ],
+      "titles": [
+        "日経平均 一時2000円以上の下落",
+        "露 クリミア橋攻撃受け報復宣言",
+        "AnthropicがNasdaq上場、IPO調達額は史上最大の813億ドル　初値は公開価格を34％上回る",
+        "PHP「緊急」脆弱性、サービス一時停止の動き再び　ウマ娘やグラブル、イープラスなど緊急メンテ",
+        "Mac版「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能追加　まず米国で",
+        "AIが爆速で開発する時代の、自動テストとの向き合い方",
+        "mise + gh skill で、dotfiles から Agent Skills を管理する",
+        "ローカルLLM入門",
+        "PostgreSQL 19 Released",
+        "Connect Supabase, Box, Calendly, and more to Copilot",
+        "UK government forced to admit it issued Apple a secret encryption order"
+      ]
+    },
     {
       "run_at": "2026-11-20T05:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Unauthenticated Remote Code Execution in Nginx via HTTP/2 — Critical Vulnerability Disclosed by Wiz",
         "Google DeepMind's Genie 4 Is Now Available — Natively Multimodal World Simulation with Interactive Audio",
         "Microsoft Ignite 2026: Seven New AI Models at Scalable Price-Performance — From MAI Code to Phi-5"
-      ]
-    },
-    {
-      "run_at": "2026-11-19T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6603076",
-        "https://news.yahoo.co.jp/pickup/6603084",
-        "https://www.itmedia.co.jp/news/article/2611/18/2000003304/",
-        "https://www.itmedia.co.jp/news/article/2611/18/2000003280/",
-        "https://www.itmedia.co.jp/news/article/2611/18/2000003287/",
-        "https://zenn.dev/dress_code/articles/6c179ae5129131",
-        "https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html",
-        "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
-        "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-        "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more/",
-        "https://revscope.co/blog/search-seo-geo-2026/"
-      ],
-      "titles": [
-        "子育て支援金の対象、年収下限「56万円」案が浮上——低所得世帯への配慮を巡り与野党で議論",
-        "G20サミットで日中首脳が握手——正式な二国間会談は見送りへ、関係正常化の道筋なお不透明",
-        "日本で最も使われているパスワードは「pass1111」——NordPass調査、世界1位の「123456」は4位に",
-        "NVIDIA、フアン前CEO退任後初の決算発表——売上高は前年同期比103%増、取締役会「後任CEOは急がない」",
-        "KARTEへの不正アクセス、JINSやRIZAPなど最大1829万件の顧客情報に被害が拡大",
-        "tsrsを導入したらoxlintのtype-aware lintingとtypecheckが爆速になった話——フロント・バック共に10倍近い高速化",
-        "マイクロソフト「Copilot Managed Runtime」正式リリース——AIが生成したアプリをM365テナント内で安全に実行",
-        "フロントエンドのlogicとUIは、エージェントの責任範囲で分けられるのか——7時間45分の実走で見えた課題",
-        "Introducing Claude Fable 5.2 and Claude Mythos 5.2 — Anthropic's Most Capable Technical Models Yet",
-        "GitHub Copilot Code Review: Adaptive Effort, Secret Detection, and Cross-Repository Context Now in Preview",
-        "Google's AI Overviews Cut Website Clicks by 40% — SEO Is Alive but Sending Far Less Traffic"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-20T15:00:00+09:00",
+  "last_run_at": "2026-11-20T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-20T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6603320",
+        "https://news.yahoo.co.jp/pickup/6603308",
+        "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
+        "https://www.itmedia.co.jp/news/article/2611/20/2000003376/",
+        "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
+        "https://zenn.dev/levtech/articles/14befd8e727f32",
+        "https://zenn.dev/shoyataguchi/articles/b1bc6a96d4b963",
+        "https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html",
+        "https://architectlabs.com/blog/frostbite",
+        "https://institute.deepmind.com/essays/what-comes-after-agi/",
+        "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview"
+      ],
+      "titles": [
+        "政府の内部資料流出か——デジタル庁、基幹ネットワークへの不正アクセスを発表",
+        "上海で日本人1人が死亡——中国当局、別の日本人を拘束し総領事館が面会",
+        "H3ロケット打ち上げ、JAXAから三菱重工に正式移管——来年1月の11号機から",
+        "韓国大学入試でAI受験疑惑——電子機器不正111件を摘発、死者も発生",
+        "湘南美容クリニック運営会社、162万人分の個人情報流出——パスワードを暗号化せず保存",
+        "CDKからTerraformへ——所有権移譲による本番インフラ無停止IaC移行の全記録",
+        "MetaのAIアシスタント「Muse」を解剖——内部構造とエージェントセキュリティ設計の調査",
+        "「Copilot Managed Runtime」正式リリース——AIが生成したアプリを企業内で安全に実行するMicrosoftの新基盤",
+        "Frostbite: A New CPU Architecture Discovered, Designed, and Verified End-to-End by AI Agent Swarms",
+        "What Comes After AGI? — DeepMind Researchers Map the Road from AGI to Superintelligence",
+        "GitHub Improves Pull Request Overview Page — Cleaner Merge Status, Better Review UX, Force-Push Diffs"
+      ]
+    },
     {
       "run_at": "2026-11-20T15:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Anthropic Prices IPO at $83/Share — Trading Begins November 19 on Nasdaq as \"ANT\"",
         "Gemini 4 Neon Now Generally Available in GitHub Copilot — Faster Agentic Coding at Lower Cost",
         "GitHub CLI Gets gh event listen — Native PR Event Streams for Agent Loops and CI Scripts"
-      ]
-    },
-    {
-      "run_at": "2026-11-19T05:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/18/2000003279/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003258/",
-        "https://www.itmedia.co.jp/news/article/2611/16/2000003222/",
-        "https://www.itmedia.co.jp/news/article/2611/16/2000003215/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003252/",
-        "https://zenn.dev/mizchi/articles/mutation-test-quality",
-        "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-        "https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html",
-        "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-        "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-        "https://microsoft.ai/news/microsoft-ignite-2026/"
-      ],
-      "titles": [
-        "OpenAI、新フラッグシップ「GPT-6.2 Astra」と「Sol」を公開——AI自己改善能力が初めて「High」評価に",
-        "米商務省、第三国データセンター経由のAIチップ「遠隔利用」を規制——中国企業向け抜け穴を封鎖",
-        "マネックス証券に不正アクセス——免許証やマイナカードなど約1592件の本人確認書類が漏えいか",
-        "エンジニア転職サービス「paiza」、最大90万件の個人情報が約13年間にわたり漏えい状態に",
-        "NTT島田社長、宇宙光通信構想を発表——月面インフラや宇宙データセンター整備も視野に",
-        "「Mutation Testをやれ」——AI生成コードのテスト品質を計測する新しいアプローチ",
-        "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
-        "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗——「Microsoft Perception」正式提供開始",
-        "Unauthenticated Remote Code Execution in Nginx via HTTP/2 — Critical Vulnerability Disclosed by Wiz",
-        "Google DeepMind's Genie 4 Is Now Available — Natively Multimodal World Simulation with Interactive Audio",
-        "Microsoft Ignite 2026: Seven New AI Models at Scalable Price-Performance — From MAI Code to Phi-5"
       ]
     }
   ]

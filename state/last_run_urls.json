@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-21T20:00:00+09:00",
+  "last_run_at": "2026-11-22T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-22T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6603470",
+        "https://news.yahoo.co.jp/pickup/6603464",
+        "https://news.yahoo.co.jp/pickup/6603481",
+        "https://news.yahoo.co.jp/pickup/6603485",
+        "https://news.yahoo.co.jp/pickup/6603477",
+        "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
+        "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
+        "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
+        "https://news.ycombinator.com/item?id=50574968",
+        "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+        "https://valkey.io/blog/from-skiplist-to-b+tree/"
+      ],
+      "titles": [
+        "防衛費増額をめぐる財務省案が波紋——自民党内で議論が過熱",
+        "ゼレンスキー大統領「プーチン氏は人殺しだ」——停戦交渉に改めて否定的な姿勢",
+        "危険運転で婚約者を失った遺族——「命の重さを知ってほしい」裁判で訴え",
+        "LED信号機に「着雪」の弱点——発熱が少なく雪が溶けないため視認性が低下",
+        "兵庫の住宅から金塊20キロなど盗まれる——複数の窃盗犯が犯行か",
+        "Google Antigravity、AIエージェントが「リモートで働く」機能を正式搭載——他社AIからの操作にも対応",
+        "毎月6,000件のAI Agentsを捌くためにキーボードを捨てた——音声駆動型エージェント運用の実践録",
+        "AWSエミュレータが正式リリース——ローカルでAWSサービスをネイティブ再現、コストと開発速度を両立",
+        "Mathematician Claims Proof of Generalized Riemann Hypothesis — 170-Year-Old Problem May Be Solved",
+        "GitHub CLI Gets `gh event listen` — Wait for Pull Request Events Programmatically",
+        "Valkey Replaces Skiplist with B+Tree, Cuts Sorted Set Overhead by Up to 43%"
+      ]
+    },
     {
       "run_at": "2026-11-21T20:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Token Fraud Is Here and It's Bad — Free-Trial Abuse Now Reaching Scale in AI Agent Products",
         "OpenSSL Critical Vulnerability CVE-2026-121481 (CVSS 9.8) — Buffer Overflow in EVP_EncodeBlock()",
         "LangSmith Tool Gateway: Secure, Governed Tool Use for Production AI Agents"
-      ]
-    },
-    {
-      "run_at": "2026-11-20T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6603246",
-        "https://news.yahoo.co.jp/pickup/6603235",
-        "https://www.itmedia.co.jp/news/article/2611/20/2000003354/",
-        "https://www.itmedia.co.jp/news/article/2611/20/2000003357/",
-        "https://www.itmedia.co.jp/news/article/2611/20/2000003356/",
-        "https://zenn.dev/daiaoki/articles/webterm-ai-era-testing",
-        "https://zenn.dev/dress_code/articles/30bd78e1a67f87",
-        "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-        "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-        "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-        "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/"
-      ],
-      "titles": [
-        "日経平均 一時2000円以上の下落",
-        "露 クリミア橋攻撃受け報復宣言",
-        "AnthropicがNasdaq上場、IPO調達額は史上最大の813億ドル　初値は公開価格を34％上回る",
-        "PHP「緊急」脆弱性、サービス一時停止の動き再び　ウマ娘やグラブル、イープラスなど緊急メンテ",
-        "Mac版「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能追加　まず米国で",
-        "AIが爆速で開発する時代の、自動テストとの向き合い方",
-        "mise + gh skill で、dotfiles から Agent Skills を管理する",
-        "ローカルLLM入門",
-        "PostgreSQL 19 Released",
-        "Connect Supabase, Box, Calendly, and more to Copilot",
-        "UK government forced to admit it issued Apple a secret encryption order"
-      ]
-    },
-    {
-      "run_at": "2026-11-20T05:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/19/2000003347/",
-        "https://www.itmedia.co.jp/news/article/2611/19/2000003323/",
-        "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003261/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003266/",
-        "https://zenn.dev/oshikaidesu/articles/8bce9bc005b3e7",
-        "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-        "https://www.publickey1.jp/blog/26/database_hubai.html",
-        "https://www.anthropic.com/research/claude-black-hole-physics",
-        "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
-        "https://verialabs.com/ruby2shell/"
-      ],
-      "titles": [
-        "楽天証券、アンソロピックIPO抽選で「対象外」表示の不具合——当選者が相次いで報告",
-        "体操強化にAI導入——JSCと富士通が共同研究、骨格データで技の習得を科学的に支援",
-        "AIエージェントとAPIルーターの危険な関係——428件の調査で判明した認証情報窃取の実態",
-        "ドコモ5G障害3度目、総務相「大変遺憾」——構造的課題の洗い出しを要求",
-        "メルカリ×駿河屋、米国で合弁——ロサンゼルス拠点にホビー商品の買取・販売事業へ",
-        "AEの式もWGSLシェーダーも動く動画編集ソフトを作りながらClaude Codeのモデル選択に悩んだ話",
-        "Claude Desktopでの開発への移行——VSCodeを捨て、5〜10セッション並列でエピック駆動開発を実践",
-        "マイクロソフト「Database Hub」正式リリース——AIエージェントがクラウド・オンプレDBを一元監視",
-        "Claude Solves Two Open Problems in the Physics of Black Holes",
-        "GitHub Copilot Fusion Scores 71.2% on Terminal-Bench 4.1 — Adds Claude Sonnet 5.5 and MAI-Code-2",
-        "Ruby2Shell: Pre-Authentication RCE in Rails via One-Byte Heap Overflow in Ruby String Case Conversion"
-      ]
-    },
-    {
-      "run_at": "2026-11-20T00:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003250/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003253/",
-        "https://www.itmedia.co.jp/news/article/2611/19/2000003344/",
-        "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
-        "https://zenn.dev/aws_japan/articles/elasticache-distributed-kv-cache-bench",
-        "https://www.publickey1.jp/blog/26/postgresql_194ai.html",
-        "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
-        "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
-        "https://news.ycombinator.com/item?id=50548660",
-        "https://contralabs.com/"
-      ],
-      "titles": [
-        "北海道2市町、ゲーム「NIKKE」経由のマルウェア感染で住民情報が漏えいか",
-        "京成スカイライナー予約システムへの不正アクセス——約337万件の顧客情報が流出か",
-        "スパコン「富岳」に不正アクセス——公開ステータス画面の脆弱性が侵入経路に",
-        "モノガタリ社、11アプリで氏名・電話番号フィールドを予定より早く削除",
-        "AI会話ログが広告追跡システムに送信の可能性——ChatGPT・Claude・Geminiら42サービスを調査",
-        "AWSがElastiCache Distributed KV Cachingを発表——GPU 2台のvLLM推論で分散キャッシュを試す",
-        "PostgreSQL 19でβ4から多くの新機能が取り下げ——AIコードレビューの導入が遠因か",
-        "Cloudflare、AIエージェント専用の軽量ヘッドレスブラウザ「Kitesurf」をオープンソースで公開",
-        "External Sandboxes for Coding Agents: Three New MCP Servers Let Agents Run Code Safely",
-        "Mastra Factory Goes Open Source: The Agentic Software Factory Behind the Mastra Framework",
-        "Two Stealth Models Appear on LMSYS Leaderboard Above Claude Fable 5.2 — Community Speculates on Origins"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-22T00:00:00+09:00",
+  "last_run_at": "2026-11-22T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-22T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/rss/ranking.rdf#nasdaq-ai-drop",
+        "https://www.jiji.com/rss/ranking.rdf#ldp-secretary-general",
+        "https://www.jiji.com/rss/ranking.rdf#sanseito-bill",
+        "https://www.jiji.com/rss/ranking.rdf#horigome-skateboard",
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#m1-grandprix",
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
+        "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003339/",
+        "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+        "https://simonwillison.net/2026/Nov/17/external-sandboxes-coding-agents/",
+        "https://github.blog/changelog/2026-11-18-eight-new-copilot-connectors",
+        "https://www.anthropic.com/news/claude-fable-5-2-mythos-5-2"
+      ],
+      "titles": [
+        "米ナスダック急落——AI株に売り圧力、アンソロピック上場後も下落止まらず",
+        "自民・幹事長、問題議員の交代示唆——優先法案成立へ党内調整を加速",
+        "参政党、国政選挙候補者の「帰化歴」開示義務化と二重国籍者の出馬禁止法案を提出",
+        "堀米雄斗がスケートボード準決勝へ——根布谷凱龍とともに世界選手権上位維持",
+        "M-1グランプリ準々決勝——ドンデコルテとエバーズが涙の敗退",
+        "MicrosoftエージェントフレームワークパッケージがPyPIで改ざん——資格情報窃取マルウェアを埋め込み",
+        "さくらインターネット、GLM-5.3-FlashとDeepSeek-V4.1-Flashを月3,000リクエストまで無料提供",
+        "CloudflareがAIエージェント向け軽量ヘッドレスブラウザ「Kitesurf」をOSS公開",
+        "External Sandboxes for Coding Agents: Three Open Implementations for Safe Tool Execution",
+        "GitHub Copilot Gets Eight New Connectors — Supabase, Box, Buildkite, ClickUp, and Webflow in Public Preview",
+        "Anthropic Introduces Claude Fable 5.2 and Claude Mythos 5.2 — New Frontier Models for Creative and Reasoning Tasks"
+      ]
+    },
     {
       "run_at": "2026-11-22T00:00:00+09:00",
       "urls": [

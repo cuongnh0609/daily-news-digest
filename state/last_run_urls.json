@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-21T10:00:00+09:00",
+  "last_run_at": "2026-11-21T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-21T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6603391",
+        "https://news.yahoo.co.jp/pickup/6603402",
+        "https://news.yahoo.co.jp/pickup/6603384",
+        "https://news.yahoo.co.jp/pickup/6603385",
+        "https://news.yahoo.co.jp/pickup/6603399",
+        "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
+        "https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html",
+        "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
+        "https://ankitg.me/blog/vibecoding-inference-chip/",
+        "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+        "https://github.com/diggerhq/opencomputer"
+      ],
+      "titles": [
+        "東北・北陸で積雪拡大、各地で交通障害が相次ぐ",
+        "デンマークで暗殺計画が阻止される——ロシア諜報機関の関与か",
+        "米で死刑囚が薬物投与中に「激痛」を訴える——執行方法の是非に議論",
+        "愛子さま、シンガポール訪問でマーライオンと記念撮影——親善外交を象徴する一幕",
+        "吉田麻也、LAギャラクシー退団を発表——キャリアの転換点に",
+        "自分の代わりに動くAgentへ——Claude CodeとCodexで作る自律改善ハーネス",
+        "Windows Server 2028パブリックプレビュー公開——AI推論基盤として大幅に進化",
+        "Microsoft「MAI Code 2」発表——コーディング特化モデルが高性能・低価格で登場",
+        "Vibecoding an Inference Chip: AI Agents Build a 213 tok/s FPGA LLM Accelerator from Scratch",
+        "GitHub Enterprise Server 3.23 Release Candidate: AI Secret Detection, Multi-Account Support, Project View Filters",
+        "OpenComputer: Open-Source Alternative to Devin Launches on Hacker News"
+      ]
+    },
     {
       "run_at": "2026-11-21T10:00:00+09:00",
       "urls": [
@@ -46,7 +75,7 @@
         "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available"
       ],
       "titles": [
-        "デジタル庁、政府ファイル共有基盤GSSへの不正アクセスを公表——7月から11月にかけ第三者が閲覧か",
+        "デジタル庁、政府機関向けファイル共有サービスで漏えいか",
         "丸井グループ、EC顧客情報883万件漏えいを発表——外部マーケティングツールへの不正アクセスが原因",
         "安保3文書改定——防衛省、原子力潜水艦の保有「検討着手」を素案に明記",
         "EV補助金の受け付け終了——予算が枯渇、申請件数が当初の想定を大幅に上回る",

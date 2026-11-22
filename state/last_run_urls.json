@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-22T05:00:00+09:00",
+  "last_run_at": "2026-11-22T10:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-22T10:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6603508",
+        "https://news.yahoo.co.jp/pickup/6603510",
+        "https://www.jiji.com/jc/article?k=2026112100340&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026112100387&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026112100337&g=int&m=rss",
+        "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+        "https://zenn.dev/daiaoki/articles/webterm-ai-era-testing",
+        "https://zenn.dev/karamage/books/50c18e52e7d19e",
+        "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+        "https://simonwillison.net/2026/Nov/19/postgresql-19/"
+      ],
+      "titles": [
+        "COP31で「脱化石燃料」文言の削除めぐり交渉が難航",
+        "大雪で水族館が停電——飼育動物を緊急移送",
+        "次期防衛費「60兆円は無責任」——ローン方式めぐり与党内が紛糾",
+        "関文科相の進退が焦点に——与党内に辞任論、野党も問責を検討",
+        "台湾地方選まで1週間——与党・民進党に勢い、台北は激戦区に",
+        "Anthropicの数学者、Claudeと共同で「リーマン予想」を証明——Leanコミュニティが認定",
+        "AIが爆速で開発する時代の、自動テストとの向き合い方",
+        "pstack完全ガイド——AIエージェントに雑なコードを書かせない技術",
+        "Lean Proof Assistant Formally Verifies Generalized Riemann Hypothesis",
+        "LLMs Can Read and Write Executable Binaries Directly in Hex",
+        "PostgreSQL 19 Released — Incremental View Maintenance, Columnar Storage Extension"
+      ]
+    },
     {
       "run_at": "2026-11-22T05:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Frostbite: A New CPU Architecture Discovered, Designed, and Verified End-to-End by AI Agent Swarms",
         "What Comes After AGI? — DeepMind Researchers Map the Road from AGI to Superintelligence",
         "GitHub Improves Pull Request Overview Page — Cleaner Merge Status, Better Review UX, Force-Push Diffs"
-      ]
-    },
-    {
-      "run_at": "2026-11-20T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6603266",
-        "https://news.yahoo.co.jp/pickup/6603280",
-        "https://news.yahoo.co.jp/pickup/6603287",
-        "https://news.yahoo.co.jp/pickup/6603281",
-        "https://news.yahoo.co.jp/pickup/6603282",
-        "https://zenn.dev/hma2moto/articles/turtle-agent-rules-pros-cons",
-        "https://zenn.dev/genax_corp/articles/20261109-judge-models-faq-check",
-        "https://kn.itmedia.co.jp/kn/article/2611/20/2000003337/",
-        "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
-        "https://github.com/openssl/openssl/pull/33652",
-        "https://www.langchain.com/blog/langsmith-tool-gateway"
-      ],
-      "titles": [
-        "日中首脳会談は見送り——習近平訪日に向けた関係修復、依然として困難",
-        "独メルツ首相、米中露の三者協議を批判——「欧州の頭越しに決定するな」",
-        "3歳女児死亡、父親のスマートフォンに虐待動画——逮捕状が請求される",
-        "ホンダ、新型3列シートSUVを世界初公開——2027年発売へ電動化と先進安全装備を搭載",
-        "駅ナカにサンドイッチ自動販売機が続々登場——利便性と食品ロス削減を両立",
-        "CLAUDE.md や SKILL.md のルールを Turtle で記述し、lint で矛盾を検査してみた",
-        "Decision ModelはFAQ回答確認と問い合わせ振り分けに使えるか——Gemini Decision 1で検証",
-        "さよなら「Claude Code」——人気AIツールに愛想を尽かしたエンジニアの意外な移行先",
-        "Token Fraud Is Here and It's Bad — Free-Trial Abuse Now Reaching Scale in AI Agent Products",
-        "OpenSSL Critical Vulnerability CVE-2026-121481 (CVSS 9.8) — Buffer Overflow in EVP_EncodeBlock()",
-        "LangSmith Tool Gateway: Secure, Governed Tool Use for Production AI Agents"
       ]
     }
   ]

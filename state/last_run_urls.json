@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-22T15:00:00+09:00",
+  "last_run_at": "2026-11-22T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-22T20:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026112200094&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026112200297&g=spo&m=rss",
+        "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo",
+        "https://www3.nhk.or.jp/news/",
+        "https://www.formula1.com",
+        "https://zenn.dev/acntechjp/articles/943c47ea8743de",
+        "https://www.publickey1.jp/blog/26/database_hubai.html",
+        "https://zenn.dev/frontline/articles/3a912df20d9210",
+        "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+        "https://github.blog/changelog/2026-07-09-innersource-security-advisories-are-generally-available",
+        "https://simonwillison.net/2026/Nov/18/llm-gemini/"
+      ],
+      "titles": [
+        "野党6党、関文科相への問責を視野に一致——任命責任で高市首相を追及",
+        "大の里、若元春との決定戦を制し九州場所優勝——大関が7度目の賜杯",
+        "日欧共同探査機「みお」、水星軌道投入に成功——8年の旅路が実を結ぶ",
+        "今季一番の寒さと大雪——岐阜県で約5300戸が停電、交通障害も相次ぐ",
+        "F1最終戦、フェルスタッペンが4連覇——アブダビGPで盤石の走りを見せる",
+        "Claude Desktop「Codeタブ」でIDEを超える——VSCodeと使い分けるMCP連携開発環境の実践",
+        "Microsoft「Database Hub」正式提供——AIエージェントが異種DBを横断管理する統合基盤",
+        "テスト設計の知識があるとAIへの指示が上手くなる——等価クラス・境界値分析で生成AIを使いこなす",
+        "Token Fraud Is Here and It's BAD — Free-Tier AI Abuse Costs Startups Tens of Thousands",
+        "GitHub Innersource Security Advisories Now GA — Internal CVEs Get a Structured Disclosure Channel",
+        "llm-gemini 0.38 Adds Gemini Decisions API — Zero Output-Token Answers with Typed Probabilities"
+      ]
+    },
     {
       "run_at": "2026-11-22T15:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "Vibecoding an Inference Chip: AI Agents Build a 213 tok/s FPGA LLM Accelerator from Scratch",
         "GitHub Enterprise Server 3.23 Release Candidate: AI Secret Detection, Multi-Account Support, Project View Filters",
         "OpenComputer: Open-Source Alternative to Devin Launches on Hacker News"
-      ]
-    },
-    {
-      "run_at": "2026-11-21T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6603354",
-        "https://news.yahoo.co.jp/pickup/6603362",
-        "https://news.yahoo.co.jp/pickup/6603367",
-        "https://news.yahoo.co.jp/pickup/6603360",
-        "https://news.yahoo.co.jp/pickup/6603369",
-        "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003359/",
-        "https://zenn.dev/kusuke/articles/98e178e6824cac",
-        "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
-        "https://www.langchain.com/blog/langsmith-tool-gateway",
-        "https://thinkingmachines.ai/news/inkling-2-mini/",
-        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
-      ],
-      "titles": [
-        "高市首相、APECで台湾代表と会談せず——中国との関係修復を優先か",
-        "外国代理人制度、政府が3要件を整理——国内法制化へ専門家会議で素案提示",
-        "伊丹3歳女児死亡事件——頭部外傷が致命傷、父親を虐待容疑で逮捕",
-        "167年の難問「リーマン予想」、生成AIが証明か——Anthropicの数学者がClaudeを活用",
-        "大谷翔平、ニューバランスと引退まで異例の"生涯契約"——MLB史上初か",
-        "ChatGPT「Plus」に常時起動AIエージェント「dots」解禁——自律的に情報収集・提案を行う新機能",
-        "相次ぐOSS脆弱性にクラウドWAFが効果大——Rootlessコンテナ併用でリスクを最小化する実践知",
-        "AIで成果を出す企業ほど「人を増やす」——IDC調査が示す逆説的な人材戦略",
-        "LangSmith Tool Gateway: Secure, Governed Tool Use for Production AI Agents",
-        "Inkling 2 Mini: Open-Weights Looped MoE Hits 79% SWE-bench, Runs on MacBook",
-        "Anthropic Donates Agent Skills Standard to Agentic AI Foundation — 280M Installs, 70+ Platforms Adopt Open Standard"
-      ]
-    },
-    {
-      "run_at": "2026-11-21T05:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/20/2000003381/",
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#marui",
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#anpo",
-        "https://news.yahoo.co.jp/rss/topics/top-picks.xml#ev",
-        "https://www.itmedia.co.jp/news/article/2611/20/2000003358/",
-        "https://zenn.dev/chaki/articles/4545be3475fdb4",
-        "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
-        "https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html",
-        "https://arxiv.org/abs/2611.21885",
-        "https://simonwillison.net/2026/Nov/17/gpt-62-astra-sol/",
-        "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available"
-      ],
-      "titles": [
-        "デジタル庁、政府機関向けファイル共有サービスで漏えいか",
-        "丸井グループ、EC顧客情報883万件漏えいを発表——外部マーケティングツールへの不正アクセスが原因",
-        "安保3文書改定——防衛省、原子力潜水艦の保有「検討着手」を素案に明記",
-        "EV補助金の受け付け終了——予算が枯渇、申請件数が当初の想定を大幅に上回る",
-        "Google「Project Suncatcher」——軌道上AIデータセンターをBlue Originと共同開発、2029年稼働目標",
-        "自宅PCで日本語レシートOCR——15設定・11枚比較から見えたマルチモーダルLLMの実力と限界",
-        "CNCFが「Hyperlight-Unikraft」をSandboxプロジェクトに採択——Linux未改変で動く軽量マイクロVMが注目",
-        "Microsoft「Perception」正式リリース——AIエージェントを標的にしたサイバー攻撃をAIで検知・遮断する新サービス",
-        "Language Models Can Rewrite Their Own Weights — New Research Shows Self-Modifying LLMs",
-        "OpenAI Releases GPT-6.2 \"Astra\" and \"Sol\" — Both Rated Critical for Cybersecurity Capability",
-        "Red Hat Enterprise Linux Runner Images Now GA on GitHub Actions — RHEL 9 and RHEL 10 Available"
-      ]
-    },
-    {
-      "run_at": "2026-11-20T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6603320",
-        "https://news.yahoo.co.jp/pickup/6603308",
-        "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
-        "https://www.itmedia.co.jp/news/article/2611/20/2000003376/",
-        "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
-        "https://zenn.dev/levtech/articles/14befd8e727f32",
-        "https://zenn.dev/shoyataguchi/articles/b1bc6a96d4b963",
-        "https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html",
-        "https://architectlabs.com/blog/frostbite",
-        "https://institute.deepmind.com/essays/what-comes-after-agi/",
-        "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview"
-      ],
-      "titles": [
-        "政府の内部資料流出か——デジタル庁、基幹ネットワークへの不正アクセスを発表",
-        "上海で日本人1人が死亡——中国当局、別の日本人を拘束し総領事館が面会",
-        "H3ロケット打ち上げ、JAXAから三菱重工に正式移管——来年1月の11号機から",
-        "韓国大学入試でAI受験疑惑——電子機器不正111件を摘発、死者も発生",
-        "湘南美容クリニック運営会社、162万人分の個人情報流出——パスワードを暗号化せず保存",
-        "CDKからTerraformへ——所有権移譲による本番インフラ無停止IaC移行の全記録",
-        "MetaのAIアシスタント「Muse」を解剖——内部構造とエージェントセキュリティ設計の調査",
-        "「Copilot Managed Runtime」正式リリース——AIが生成したアプリを企業内で安全に実行するMicrosoftの新基盤",
-        "Frostbite: A New CPU Architecture Discovered, Designed, and Verified End-to-End by AI Agent Swarms",
-        "What Comes After AGI? — DeepMind Researchers Map the Road from AGI to Superintelligence",
-        "GitHub Improves Pull Request Overview Page — Cleaner Merge Status, Better Review UX, Force-Push Diffs"
       ]
     }
   ]

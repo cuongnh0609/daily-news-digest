@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-22T10:00:00+09:00",
+  "last_run_at": "2026-11-22T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-22T15:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026112100335&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6603547",
+        "https://news.yahoo.co.jp/pickup/6603545",
+        "https://news.yahoo.co.jp/pickup/6603539",
+        "https://news.yahoo.co.jp/pickup/6603546",
+        "https://zenn.dev/kg_motors_mibot/articles/orca-bot-intro",
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
+        "https://simonwillison.net/2026/Nov/21/muru/",
+        "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "https://latent.space/p/formal-verification/"
+      ],
+      "titles": [
+        "首里城正殿が復元完成——沖縄県民「もう失わないで」、22日に政府主催の式典",
+        "柏崎刈羽原発敷地内で作業員がガラスの下敷きに——38歳男性が意識不明の重体",
+        "桑田真澄氏58歳、現役さながら118キロの速球を披露——「LEGENDS MATCH 2026」で場内騒然",
+        "元GKシュナイダー潤之介さん死去——横浜FC在籍の元守護神、享年49歳",
+        "郡山市で12歳男子中学生が行方不明——警察が市内の商業施設などを捜索",
+        "Orca Botsが正式ベータ——Claude CodeやCodexをBot化し、Slack/GitHub/Linearと連動した自律エージェントを常設",
+        "Microsoft Agent FrameworkのPyPIパッケージが侵害——認証情報を盗む不正版が一時公開、全トークン再発行を推奨",
+        "AIエージェントとLLMをつなぐ「APIルーター」の乗っ取り手口が判明——428件調査でペイロード注入と認証情報盗取を確認",
+        "Muru: AI-Assisted Rust Server for Python ASGI/WSGI Apps, Built in a Near-Daily Public Dev Log",
+        "Inkling 2 Mini: Open-Weights Looped MoE Model Hits 79% SWE-bench, Runs in ~20GB Memory",
+        "The War Against AI Slop: Formal Verification Emerges as a Practical Weapon for Developers"
+      ]
+    },
     {
       "run_at": "2026-11-22T10:00:00+09:00",
       "urls": [

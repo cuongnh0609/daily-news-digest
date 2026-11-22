@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-22T20:00:00+09:00",
+  "last_run_at": "2026-11-23T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-23T00:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
+        "https://www.itmedia.co.jp/news/article/2611/20/2000003358/",
+        "https://www.itmedia.co.jp/news/article/2611/20/2000003381/",
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003275/",
+        "https://www.itmedia.co.jp/news/article/2611/20/2000003357/",
+        "https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html",
+        "https://zenn.dev/port_inc/articles/ff974c7456f4db",
+        "https://www.publickey1.jp/blog/26/postgresql_194ai.html",
+        "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+        "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+        "https://www.pandex.io"
+      ],
+      "titles": [
+        "H3ロケットの打ち上げ運営、JAXAから三菱重工業へ移管——来年1月の11号機から商業化加速",
+        "Google、宇宙AIデータセンター構想「Project Suncatcher」でBlue Originと提携——2029年に衛星打ち上げへ",
+        "デジタル庁、政府機関向けファイル共有サービスで情報漏えいか——7月から第三者がアクセス可能な状態に",
+        "楽天証券に大規模不正アクセス——最大1,125万口座のID等が漏えいか、テスト環境に本番データ",
+        "PHP「緊急」脆弱性でゲームサービスが次々と緊急メンテ——ウマ娘・グラブルなど利用者に影響",
+        "Microsoft「Copilot Managed Runtime」正式リリース——AIが生成したアプリを企業内で安全に実行する専用ランタイム",
+        "ローカルLLM入門——メモリ・帯域・量子化を理解してオフライン推論を始める",
+        "PostgreSQL 19リリース延期の背景——AIコードレビューが原因で多数の新機能が取り下げられた可能性",
+        "Anthropic Donates Agent Skills Standard to Agentic AI Foundation — 70+ Platforms Adopt Open Spec",
+        "OpenRouter Discloses Data Processing Incidents on Inference Providers — User Prompts Logged by Third Parties",
+        "Pandex: European Regulation for AI Agents Over MCP — GDPR-Aware Agent Compliance as a Protocol Layer"
+      ]
+    },
     {
       "run_at": "2026-11-22T20:00:00+09:00",
       "urls": [
@@ -173,35 +202,6 @@
         "Anthropic Closes $119.5B IPO — Begins Trading on Nasdaq as \"ANT\"",
         "DreamCoder: A New AI Coding Harness and IDE Built for Serious Engineers",
         "Critical GPGME Security Advisory CVE-2026-129975 — Double-Free via Crafted OpenPGP Key"
-      ]
-    },
-    {
-      "run_at": "2026-11-21T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6603391",
-        "https://news.yahoo.co.jp/pickup/6603402",
-        "https://news.yahoo.co.jp/pickup/6603384",
-        "https://news.yahoo.co.jp/pickup/6603385",
-        "https://news.yahoo.co.jp/pickup/6603399",
-        "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-        "https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html",
-        "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
-        "https://ankitg.me/blog/vibecoding-inference-chip/",
-        "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
-        "https://github.com/diggerhq/opencomputer"
-      ],
-      "titles": [
-        "東北・北陸で積雪拡大、各地で交通障害が相次ぐ",
-        "デンマークで暗殺計画が阻止される——ロシア諜報機関の関与か",
-        "米で死刑囚が薬物投与中に「激痛」を訴える——執行方法の是非に議論",
-        "愛子さま、シンガポール訪問でマーライオンと記念撮影——親善外交を象徴する一幕",
-        "吉田麻也、LAギャラクシー退団を発表——キャリアの転換点に",
-        "自分の代わりに動くAgentへ——Claude CodeとCodexで作る自律改善ハーネス",
-        "Windows Server 2028パブリックプレビュー公開——AI推論基盤として大幅に進化",
-        "Microsoft「MAI Code 2」発表——コーディング特化モデルが高性能・低価格で登場",
-        "Vibecoding an Inference Chip: AI Agents Build a 213 tok/s FPGA LLM Accelerator from Scratch",
-        "GitHub Enterprise Server 3.23 Release Candidate: AI Secret Detection, Multi-Account Support, Project View Filters",
-        "OpenComputer: Open-Source Alternative to Devin Launches on Hacker News"
       ]
     }
   ]

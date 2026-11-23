@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>デイリーダイジェスト - 2026-11-23 05:00 JST</title>
+<title>デイリーダイジェスト - 2026-11-23 10:00 JST</title>
 <style>
   :root,
   [data-theme="light"] {
@@ -130,7 +130,6 @@
     font-family: system-ui, sans-serif;
   }
 
-  /* TOC */
   nav.toc {
     display: flex;
     gap: 1rem;
@@ -151,7 +150,6 @@
   }
   nav.toc a:hover { background: var(--accent-soft-jp); color: var(--accent-jp); }
 
-  /* Sections */
   section.digest-section { margin-bottom: 3rem; }
   .section-title {
     font-size: 1.5rem;
@@ -177,7 +175,6 @@
     border-left: 5px solid var(--accent-global);
   }
 
-  /* Card base */
   article.news-card {
     background: var(--card);
     border: 1px solid var(--border);
@@ -212,7 +209,6 @@
   #japan-tech .news-no { background: var(--accent-tech-jp); color: white; }
   #global-tech .news-no { background: var(--accent-global); color: white; }
 
-  /* Two-column body */
   .card-body {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -236,7 +232,6 @@
     font-weight: 600;
   }
 
-  /* Content text styles */
   .content-text {
     font-size: 1rem;
     line-height: 1.85;
@@ -250,7 +245,6 @@
     font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
   }
 
-  /* Vietnamese translation block */
   .translation-vi {
     font-family: "Noto Sans", system-ui, sans-serif;
     font-size: 0.95rem;
@@ -267,7 +261,6 @@
     font-weight: bold;
   }
 
-  /* Impact badge (for global tech) */
   .impact-row {
     display: flex;
     align-items: center;
@@ -290,7 +283,6 @@
   .impact-badge.low { background: var(--impact-low); }
   .impact-text { color: var(--sub); }
 
-  /* Impact note for user */
   .impact-note {
     font-family: system-ui, sans-serif;
     font-size: 0.88rem;
@@ -303,7 +295,6 @@
   }
   .impact-note::before { content: "💡 "; }
 
-  /* Education blocks (vocab + grammar) */
   .edu-block {
     margin-top: 1rem;
     font-family: system-ui, "Noto Sans", sans-serif;
@@ -351,7 +342,6 @@
   td.term-pron { font-size: 0.8rem; color: var(--sub); font-style: italic; white-space: nowrap; }
   td.term-explain { font-size: 0.85rem; line-height: 1.6; }
 
-  /* Grammar */
   .grammar-item { margin-bottom: 0.7rem; font-size: 0.9rem; }
   .grammar-item strong {
     color: var(--grammar);
@@ -369,7 +359,6 @@
   .example .jp { font-family: "Hiragino Mincho ProN", serif; display: block; }
   .example .vi { color: var(--vi); font-size: 0.82rem; display: block; margin-top: 3px; }
 
-  /* Source */
   .source {
     font-size: 0.78rem;
     color: var(--sub);
@@ -389,7 +378,6 @@
     font-family: "SF Mono", Monaco, "Courier New", monospace;
   }
 
-  /* Theme toggle button */
   .theme-toggle {
     position: fixed;
     top: 1rem;
@@ -415,16 +403,9 @@
     transition: all 0.15s;
     font-family: inherit;
   }
-  .theme-toggle button:hover {
-    color: var(--ink);
-  }
-  .theme-toggle button.active {
-    background: var(--accent-jp);
-    color: white;
-  }
-  .theme-toggle button.active:hover {
-    color: white;
-  }
+  .theme-toggle button:hover { color: var(--ink); }
+  .theme-toggle button.active { background: var(--accent-jp); color: white; }
+  .theme-toggle button.active:hover { color: white; }
 
   .prev-digests {
     margin-top: 3.5rem;
@@ -490,7 +471,6 @@
 </head>
 <body>
 
-<!-- Theme toggle -->
 <div class="theme-toggle" role="group" aria-label="Theme selector">
   <button type="button" data-theme-value="light" title="Light mode">☀️</button>
   <button type="button" data-theme-value="system" title="Auto (follow system)">💻</button>
@@ -508,7 +488,7 @@
 
 <header class="page-head">
   <h1>🗞️ デイリーダイジェスト</h1>
-  <div class="meta">2026-11-23（月）05:00 JST — JLPT N2+ 学習者 · SE/Cloud Engineer 向け</div>
+  <div class="meta">2026-11-23（月）10:00 JST — JLPT N2+ 学習者 · SE/Cloud Engineer 向け</div>
 </header>
 
 <nav class="toc">
@@ -524,20 +504,20 @@
   <!-- A-01 -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">A-01</span>COP31、成果文書の採択を断念——脱化石燃料で合意できず交渉が決裂</h3>
+      <h3><span class="news-no">A-01</span>首相の国会出席削減——自民が議論本格化、野党は「民主主義の後退」と猛反発</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 本文 + 和越対訳</div>
         <p class="content-text lang-ja">
-          アゼルバイジャンのバクーで開催中のCOP31（国連気候変動枠組み条約第31回締約国会議）は、最終日に成果文書の採択を断念した。最大の争点は「脱化石燃料」に関する表現で、欧州連合（EU）や島しょ国グループが具体的な期限を盛り込む文言を強く主張したのに対し、産油国側が一貫して反発し、交渉は終盤まで平行線をたどった。議長国のアゼルバイジャンが調整案を提示したものの、先進国・途上国双方から異論が続出し、会期延長の末に合意なく閉幕という異例の事態となった。温暖化対策の国際的な枠組みにとって大きな後退であり、来年のCOP32に向けた課題が山積している。
+          自由民主党は23日、高市首相の国会出席回数を現行より大幅に削減する方向で内部議論を本格化させた。党内では「首相の時間を外交・政策立案に充てるべき」との声が上がっており、野党による質問主意書への答弁も副大臣・政務官に委ねる案が浮上している。これに対し野党6党は「行政の説明責任を著しく損なう」と激しく反発し、衆院予算委員会での集中審議で追及する方針を確認した。首相の出席義務をめぐる議論は過去にも浮上しては立ち消えとなっており、今回は連立与党の公明党がどう出るかが焦点となっている。国際的に見ると、英国型の首相質問（PMQ）を参考に制度設計を議論すべきという声もある。
         </p>
         <div class="translation-vi">
-          Hội nghị COP31 đang diễn ra tại Baku, Azerbaijan đã phải từ bỏ việc thông qua văn kiện kết quả vào ngày cuối cùng. Điểm tranh cãi lớn nhất là cách diễn đạt về "loại bỏ nhiên liệu hóa thạch" khi EU và nhóm các quốc đảo nhỏ kiên quyết đòi ghi rõ thời hạn cụ thể, trong khi các nước sản xuất dầu mỏ liên tục phản đối. Nước chủ nhà Azerbaijan đã đề xuất nhiều phương án dung hòa nhưng vẫn gặp phản đối từ cả các nước phát triển lẫn đang phát triển, khiến hội nghị kết thúc mà không đạt được thỏa thuận sau khi gia hạn thêm thời gian. Đây là bước lùi đáng kể đối với khung hành động khí hậu quốc tế, và nhiều thách thức đang chờ đợi tại COP32 vào năm tới.
+          Đảng Dân chủ Tự do (LDP) ngày 23 đã tiến hành thảo luận nghiêm túc về việc giảm đáng kể số lần Thủ tướng Takaichi tham dự Quốc hội so với hiện tại. Trong nội bộ đảng có ý kiến cho rằng "cần dành thời gian của Thủ tướng cho ngoại giao và hoạch định chính sách", thậm chí có đề xuất giao việc trả lời chất vấn thành văn bản cho các Thứ trưởng và Chính vụ quan. Các đảng đối lập đã phản đối mạnh mẽ, coi đây là "vi phạm nghiêm trọng trách nhiệm giải trình của hành pháp", và xác nhận sẽ truy vấn trong phiên thảo luận tập trung tại Ủy ban Ngân sách Hạ viện. Cuộc tranh luận về nghĩa vụ tham dự của Thủ tướng đã từng nổi lên rồi lại tắt, và điểm mấu chốt lần này là lập trường của đảng liên minh Komeito sẽ như thế nào.
         </div>
         <div class="source">
-          出典: 時事通信 · 2026-11-22 22:47 JST ·
-          <a href="https://www.jiji.com/jc/article?k=2026112200245&g=soc&m=rss" target="_blank">原文を読む →</a>
+          出典: Yahoo!ニュース · 2026-11-23 08:48 JST ·
+          <a href="https://news.yahoo.co.jp/pickup/6603608" target="_blank">原文を読む →</a>
         </div>
       </div>
       <div class="col col-right">
@@ -547,63 +527,57 @@
           <table class="vocab">
             <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
             <tr>
-              <td class="jp-word">採択</td>
-              <td class="reading">さいたく</td>
-              <td class="hanviet">thái trạch</td>
-              <td class="meaning">thông qua, chấp thuận (nghị quyết)</td>
+              <td class="jp-word">出席回数</td>
+              <td class="reading">しゅっせきかいすう</td>
+              <td class="hanviet">xuất tịch hồi số</td>
+              <td class="meaning">số lần tham dự</td>
             </tr>
             <tr>
-              <td class="jp-word">断念</td>
-              <td class="reading">だんねん</td>
-              <td class="hanviet">đoạn niệm</td>
-              <td class="meaning">từ bỏ, nản lòng mà thôi</td>
+              <td class="jp-word">質問主意書</td>
+              <td class="reading">しつもんしゅいしょ</td>
+              <td class="hanviet">chất vấn chủ ý thư</td>
+              <td class="meaning">chất vấn thành văn bản (của nghị sĩ gửi chính phủ)</td>
             </tr>
             <tr>
-              <td class="jp-word">化石燃料</td>
-              <td class="reading">かせきねんりょう</td>
-              <td class="hanviet">hóa thạch nhiên liệu</td>
-              <td class="meaning">nhiên liệu hóa thạch (than, dầu, khí)</td>
+              <td class="jp-word">政務官</td>
+              <td class="reading">せいむかん</td>
+              <td class="hanviet">chính vụ quan</td>
+              <td class="meaning">Chính vụ quan (thứ bậc dưới Thứ trưởng trong nội các)</td>
             </tr>
             <tr>
-              <td class="jp-word">締約国</td>
-              <td class="reading">ていやくこく</td>
-              <td class="hanviet">ký ước quốc</td>
-              <td class="meaning">quốc gia ký kết (hiệp ước/công ước)</td>
+              <td class="jp-word">集中審議</td>
+              <td class="reading">しゅうちゅうしんぎ</td>
+              <td class="hanviet">tập trung thẩm nghị</td>
+              <td class="meaning">phiên thảo luận tập trung (tại Ủy ban Quốc hội)</td>
             </tr>
             <tr>
-              <td class="jp-word">平行線</td>
-              <td class="reading">へいこうせん</td>
-              <td class="hanviet">bình hành tuyến</td>
-              <td class="meaning">song song, không gặp nhau (bế tắc trong đàm phán)</td>
+              <td class="jp-word">立ち消え</td>
+              <td class="reading">たちきえ</td>
+              <td class="hanviet">lập tiêu</td>
+              <td class="meaning">tự tan biến, không đi đến đâu (kế hoạch/vấn đề)</td>
             </tr>
             <tr>
-              <td class="jp-word">会期延長</td>
-              <td class="reading">かいきえんちょう</td>
-              <td class="hanviet">hội kỳ diên trường</td>
-              <td class="meaning">gia hạn thời gian hội nghị</td>
-            </tr>
-            <tr>
-              <td class="jp-word">温暖化対策</td>
-              <td class="reading">おんだんかたいさく</td>
-              <td class="hanviet">ôn noãn hóa đối sách</td>
-              <td class="meaning">biện pháp ứng phó biến đổi khí hậu</td>
+              <td class="jp-word">連立与党</td>
+              <td class="reading">れんりつよとう</td>
+              <td class="hanviet">liên lập dữ đảng</td>
+              <td class="meaning">đảng liên minh cầm quyền</td>
             </tr>
           </table>
         </div>
         <div class="edu-block">
           <h4>📗 文法</h4>
           <div class="grammar-item">
-            <strong>～の末に</strong> — sau khi trải qua (quá trình dài), cuối cùng
+            <strong>～に充てる</strong> — dành cho, sử dụng vào (mục đích cụ thể)
             <div class="example">
-              <span class="jp">会期延長の末に、合意なく閉幕という異例の事態となった。</span>
-              <span class="vi">Sau khi gia hạn thời gian, hội nghị kết thúc bất thường mà không đạt được thỏa thuận.</span>
+              <span class="jp">首相の時間を外交・政策立案に充てるべきとの声が上がった。</span>
+              <span class="vi">Có ý kiến cho rằng nên dành thời gian của Thủ tướng cho ngoại giao và hoạch định chính sách.</span>
             </div>
           </div>
           <div class="grammar-item">
-            <strong>～に対し</strong> — trong khi đó, trái lại (đối lập hai vế)
+            <strong>どう出るか</strong> — sẽ hành động thế nào, sẽ phản ứng ra sao
             <div class="example">
-              <span class="jp">EUが期限を主張したのに対し、産油国側が反発した。</span>
-              <span class="vi">Trong khi EU đòi ghi rõ thời hạn, các nước sản xuất dầu lại phản đối.</span>
+              <span class="jp">公明党がどう出るかが今後の焦点となっている。</span>
+              <span class="vi">Điểm mấu chốt sắp tới là đảng Komeito sẽ có lập trường như thế nào.</span>
             </div>
           </div>
         </div>
@@ -614,20 +588,20 @@
   <!-- A-02 -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">A-02</span>インドネシアの菓子工場で大規模火災——死者20人超か、夜間に発生し逃げ遅れ</h3>
+      <h3><span class="news-no">A-02</span>リビア沖でロシア軍艦が爆発——無人機攻撃の可能性、地中海情勢が緊迫</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 本文 + 和越対訳</div>
         <p class="content-text lang-ja">
-          インドネシアのジャワ島中部で22日夜（現地時間）、菓子製造工場から火災が発生し、死者が20人を超える可能性があると当局が発表した。火災は深夜に起きたため多くの従業員が逃げ遅れたとみられ、現場では依然として行方不明者の捜索活動が続いている。地元消防当局によると、工場の建屋は木造部分が多く、火の回りが速かったという。インドネシアでは近年、工場火災による大規模な人的被害が繰り返されており、労働安全基準の見直しと避難設備の強化が急務とされている。
+          リビア沖の地中海において、ロシア海軍の艦艇が爆発したことが確認され、無人機（ドローン）による攻撃が原因とみられている。同艦は黒海艦隊の支援任務でリビア沖を航行中だったとされ、ロシア国防省は詳細な発表を見合わせている。ウクライナ当局は攻撃への関与を公式には否定していないが、明確な主張もしていない。欧州諸国の情報機関は艦艇の損傷程度を調査中で、乗組員の安否については不明な部分が多い。今回の事案はロシアの地中海展開能力に疑問を呈するものとして注目されており、NATO加盟国は警戒レベルを引き上げた。
         </p>
         <div class="translation-vi">
-          Một vụ hỏa hoạn lớn đã xảy ra tại nhà máy sản xuất bánh kẹo ở miền Trung đảo Java, Indonesia vào đêm ngày 22 (giờ địa phương), với số người thiệt mạng có thể lên đến hơn 20 người theo thông báo của chính quyền. Vụ cháy xảy ra lúc nửa đêm nên nhiều công nhân không kịp thoát ra ngoài, và công tác tìm kiếm người mất tích vẫn đang tiếp diễn tại hiện trường. Theo cơ quan cứu hỏa địa phương, nhiều phần của nhà xưởng được làm bằng gỗ nên lửa lan rất nhanh. Indonesia trong những năm gần đây liên tiếp xảy ra các vụ cháy nhà máy gây thiệt hại nhân mạng lớn, đòi hỏi phải cấp bách xem xét lại tiêu chuẩn an toàn lao động và tăng cường thiết bị thoát hiểm.
+          Tại vùng Địa Trung Hải ngoài khơi Libya, một tàu chiến của Hải quân Nga đã được xác nhận bị nổ, và nguyên nhân có thể là do cuộc tấn công bằng drone. Tàu này được cho là đang thực hiện nhiệm vụ hỗ trợ của Hạm đội Biển Đen khi tuần tra ngoài khơi Libya, và Bộ Quốc phòng Nga chưa đưa ra tuyên bố chính thức chi tiết. Phía Ukraine không chính thức phủ nhận tham gia vào vụ tấn công nhưng cũng không đưa ra tuyên bố rõ ràng. Cơ quan tình báo các nước châu Âu đang điều tra mức độ thiệt hại của tàu, và thông tin về an toàn của thủy thủ đoàn vẫn còn nhiều điều chưa rõ. Sự kiện này thu hút sự chú ý như một dấu hỏi về năng lực triển khai Địa Trung Hải của Nga, và các nước thành viên NATO đã nâng mức cảnh báo.
         </div>
         <div class="source">
-          出典: 時事通信 · 2026-11-22 23:22 JST ·
-          <a href="https://www.jiji.com/jc/article?k=2026112200292&g=int&m=rss" target="_blank">原文を読む →</a>
+          出典: Yahoo!ニュース · 2026-11-23 09:25 JST ·
+          <a href="https://news.yahoo.co.jp/pickup/6603620" target="_blank">原文を読む →</a>
         </div>
       </div>
       <div class="col col-right">
@@ -637,50 +611,44 @@
           <table class="vocab">
             <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
             <tr>
-              <td class="jp-word">逃げ遅れ</td>
-              <td class="reading">にげおくれ</td>
-              <td class="hanviet">đào (vật) trì</td>
-              <td class="meaning">không kịp thoát ra, bị kẹt lại</td>
+              <td class="jp-word">艦艇</td>
+              <td class="reading">かんてい</td>
+              <td class="hanviet">hạm đĩnh</td>
+              <td class="meaning">tàu chiến, tàu hải quân</td>
             </tr>
             <tr>
-              <td class="jp-word">行方不明</td>
-              <td class="reading">ゆくえふめい</td>
-              <td class="hanviet">hành phương bất minh</td>
-              <td class="meaning">mất tích, không rõ tung tích</td>
+              <td class="jp-word">関与</td>
+              <td class="reading">かんよ</td>
+              <td class="hanviet">quan dữ</td>
+              <td class="meaning">tham gia, có liên quan</td>
             </tr>
             <tr>
-              <td class="jp-word">木造</td>
-              <td class="reading">もくぞう</td>
-              <td class="hanviet">mộc tạo</td>
-              <td class="meaning">kết cấu gỗ, nhà gỗ</td>
+              <td class="jp-word">乗組員</td>
+              <td class="reading">のりくみいん</td>
+              <td class="hanviet">thừa tổ viên</td>
+              <td class="meaning">thủy thủ đoàn, phi hành đoàn</td>
             </tr>
             <tr>
-              <td class="jp-word">労働安全基準</td>
-              <td class="reading">ろうどうあんぜんきじゅん</td>
-              <td class="hanviet">lao động an toàn cơ chuẩn</td>
-              <td class="meaning">tiêu chuẩn an toàn lao động</td>
+              <td class="jp-word">警戒レベル</td>
+              <td class="reading">けいかいレベル</td>
+              <td class="hanviet">cảnh giới —</td>
+              <td class="meaning">mức độ cảnh báo, alert level</td>
             </tr>
             <tr>
-              <td class="jp-word">急務</td>
-              <td class="reading">きゅうむ</td>
-              <td class="hanviet">cấp vụ</td>
-              <td class="meaning">việc cấp bách, nhiệm vụ khẩn cấp</td>
-            </tr>
-            <tr>
-              <td class="jp-word">繰り返す</td>
-              <td class="reading">くりかえす</td>
-              <td class="hanviet">—</td>
-              <td class="meaning">lặp đi lặp lại</td>
+              <td class="jp-word">展開能力</td>
+              <td class="reading">てんかいのうりょく</td>
+              <td class="hanviet">triển khai năng lực</td>
+              <td class="meaning">năng lực triển khai (quân sự)</td>
             </tr>
           </table>
         </div>
         <div class="edu-block">
           <h4>📗 文法</h4>
           <div class="grammar-item">
-            <strong>～とみられ</strong> — được cho là, có vẻ như (suy đoán khách quan)
+            <strong>～を見合わせる</strong> — tạm hoãn, chờ thời điểm thích hợp
             <div class="example">
-              <span class="jp">多くの従業員が逃げ遅れたとみられ、捜索が続いている。</span>
-              <span class="vi">Nhiều nhân viên được cho là không kịp thoát và công tác tìm kiếm vẫn tiếp diễn.</span>
+              <span class="jp">ロシア国防省は詳細な発表を見合わせている。</span>
+              <span class="vi">Bộ Quốc phòng Nga đang tạm hoãn đưa ra thông báo chi tiết.</span>
             </div>
           </div>
         </div>
@@ -691,20 +659,20 @@
   <!-- A-03 -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">A-03</span>イラン、今月4度目のバーレーン米軍基地攻撃——「報復」と主張、緊張が高まる</h3>
+      <h3><span class="news-no">A-03</span>死亡事故を受け、柏崎刈羽原発で一部工事を中止——規制委が安全確認を要求</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 本文 + 和越対訳</div>
         <p class="content-text lang-ja">
-          イランが22日、バーレーンにある米軍施設に対してドローンおよびミサイルによる攻撃を実施したと発表した。今月に入ってから4度目の攻撃となり、イラン側は「米国の中東政策への報復」と位置づけている。米軍およびバーレーン当局は一部の攻撃を迎撃したと述べたが、被害の詳細は明らかにしていない。今回の攻撃は、イランと米国・イスラエル連合との間の軍事的緊張が一段と高まる中で起きており、国際社会では外交的解決を求める声も強まっている。日本政府も状況を注視していると表明した。
+          先週発生した柏崎刈羽原子力発電所での作業員死亡事故を受け、東京電力は23日、同発電所内で進行中の一部工事を即時中止すると発表した。原子力規制委員会は「事故原因が判明するまで同種工事の再開を認めない」との方針を示し、現地での安全確認調査を開始した。今回の作業員はガラスの下敷きになって死亡したとされ、現場での重量物管理や作業手順に問題があった可能性が指摘されている。柏崎刈羽7号機は再稼働に向けた最終段階の工事中であり、今回の事故が再稼働スケジュールに与える影響が懸念されている。地元住民からは改めて安全性への疑念の声も上がっている。
         </p>
         <div class="translation-vi">
-          Iran ngày 22 thông báo đã thực hiện các cuộc tấn công bằng drone và tên lửa nhắm vào cơ sở quân sự Mỹ tại Bahrain, đây là lần tấn công thứ tư trong tháng này. Phía Iran định vị đây là "hành động trả đũa chính sách Trung Đông của Mỹ". Quân đội Mỹ và chính quyền Bahrain cho biết đã đánh chặn được một số cuộc tấn công nhưng chưa công bố chi tiết thiệt hại. Cuộc tấn công diễn ra trong bối cảnh căng thẳng quân sự giữa Iran và liên minh Mỹ-Israel leo thang nghiêm trọng, trong khi cộng đồng quốc tế ngày càng kêu gọi mạnh mẽ hơn về giải pháp ngoại giao. Chính phủ Nhật Bản cũng tuyên bố đang theo dõi sát tình hình.
+          Tiếp theo vụ tai nạn chết người tại nhà máy điện hạt nhân Kashiwazaki-Kariwa xảy ra tuần trước, Tokyo Electric Power (TEPCO) ngày 23 thông báo ngừng ngay một số công trình đang tiến hành tại nhà máy này. Ủy ban Điều tiết Hạt nhân thể hiện phương châm "không cho phép tiếp tục các công trình tương tự cho đến khi xác định được nguyên nhân tai nạn" và bắt đầu điều tra kiểm tra an toàn tại chỗ. Người lao động tử vong được cho là bị kính đè lên người, và có khả năng có vấn đề trong việc quản lý vật nặng và quy trình làm việc tại hiện trường. Lò phản ứng số 7 của Kashiwazaki-Kariwa đang trong giai đoạn công trình cuối cùng để khởi động lại, và người ta lo ngại về tác động của tai nạn lần này đối với lịch trình khởi động lại.
         </div>
         <div class="source">
-          出典: 時事通信 · 2026-11-22 19:47 JST ·
-          <a href="https://www.jiji.com/jc/article?k=2026112200125&g=int&m=rss" target="_blank">原文を読む →</a>
+          出典: Yahoo!ニュース · 2026-11-23 00:08 JST ·
+          <a href="https://news.yahoo.co.jp/pickup/6603618" target="_blank">原文を読む →</a>
         </div>
       </div>
       <div class="col col-right">
@@ -714,44 +682,44 @@
           <table class="vocab">
             <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
             <tr>
-              <td class="jp-word">迎撃</td>
-              <td class="reading">げいげき</td>
-              <td class="hanviet">nghênh kích</td>
-              <td class="meaning">đánh chặn, chặn đứng (tên lửa, drone)</td>
+              <td class="jp-word">原子力規制委員会</td>
+              <td class="reading">げんしりょくきせいいいんかい</td>
+              <td class="hanviet">nguyên tử lực quy chế ủy viên hội</td>
+              <td class="meaning">Ủy ban Điều tiết Hạt nhân (NRA)</td>
             </tr>
             <tr>
-              <td class="jp-word">報復</td>
-              <td class="reading">ほうふく</td>
-              <td class="hanviet">báo phục</td>
-              <td class="meaning">trả đũa, phục thù</td>
+              <td class="jp-word">即時中止</td>
+              <td class="reading">そくじちゅうし</td>
+              <td class="hanviet">tức thì trung chỉ</td>
+              <td class="meaning">ngừng ngay lập tức</td>
             </tr>
             <tr>
-              <td class="jp-word">軍事的緊張</td>
-              <td class="reading">ぐんじてききんちょう</td>
-              <td class="hanviet">quân sự đích khẩn trương</td>
-              <td class="meaning">căng thẳng quân sự</td>
+              <td class="jp-word">重量物</td>
+              <td class="reading">じゅうりょうぶつ</td>
+              <td class="hanviet">trọng lượng vật</td>
+              <td class="meaning">vật nặng, hàng hóa cồng kềnh nặng</td>
             </tr>
             <tr>
-              <td class="jp-word">外交的解決</td>
-              <td class="reading">がいこうてきかいけつ</td>
-              <td class="hanviet">ngoại giao đích giải quyết</td>
-              <td class="meaning">giải pháp ngoại giao</td>
+              <td class="jp-word">再稼働</td>
+              <td class="reading">さいかどう</td>
+              <td class="hanviet">tái giá động</td>
+              <td class="meaning">khởi động lại (nhà máy điện hạt nhân)</td>
             </tr>
             <tr>
-              <td class="jp-word">注視</td>
-              <td class="reading">ちゅうし</td>
-              <td class="hanviet">chú thị</td>
-              <td class="meaning">theo dõi sát, chú ý quan sát</td>
+              <td class="jp-word">疑念</td>
+              <td class="reading">ぎねん</td>
+              <td class="hanviet">nghi niệm</td>
+              <td class="meaning">sự nghi ngờ, lo ngại</td>
             </tr>
           </table>
         </div>
         <div class="edu-block">
           <h4>📗 文法</h4>
           <div class="grammar-item">
-            <strong>～と位置づける</strong> — xác định là, định vị là, coi là
+            <strong>～を受け</strong> — tiếp theo, sau khi có (sự kiện gì đó xảy ra)
             <div class="example">
-              <span class="jp">イラン側は今回の攻撃を「米国の中東政策への報復」と位置づけている。</span>
-              <span class="vi">Phía Iran xác định cuộc tấn công lần này là "hành động trả đũa chính sách Trung Đông của Mỹ".</span>
+              <span class="jp">死亡事故を受け、東京電力は工事を即時中止した。</span>
+              <span class="vi">Tiếp theo vụ tai nạn chết người, TEPCO đã ngừng công trình ngay lập tức.</span>
             </div>
           </div>
         </div>
@@ -762,20 +730,20 @@
   <!-- A-04 -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">A-04</span>木原官房長官、関文科相の「交代示唆」を否定——説明責任を求めつつ続投支持</h3>
+      <h3><span class="news-no">A-04</span>米中間選挙、民主党が92年ぶりの大勝——下院258議席確保、政権運営に影響</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 本文 + 和越対訳</div>
         <p class="content-text lang-ja">
-          木原誠二官房長官は22日、自民党内で浮上した「関文科相の交代示唆」との報道を否定し、「大臣は丁寧な説明を続けてほしい」と述べた。関文科相をめぐっては、政治パーティーへの官僚参加に関し国会答弁と実態が食い違うと野党から指摘されており、問責決議案の提出が検討されている。官房長官は大臣交代を明確に否定した一方、十分な説明責任を果たすよう関係者に求める姿勢を示した。高市首相は文科相を引き続き信任するとしているが、野党は臨時国会の会期中に問責を進める方針だ。
+          22日に開票が進んだ米国中間選挙で、民主党が下院で258議席を確保したと米メディアが報じた。これは1932年以来94年ぶりの議席数とも報道されており、共和党のトランプ政権発足からわずか2年での大規模な政権批判票の流れを示すものと分析されている。民主党は上院でも過半数を奪還しており、今後は予算審議や大統領指名人事をめぐる与野党対立が激化する見通しだ。トランプ大統領は「選挙結果に不服」とのメッセージをSNSに投稿し、一部の接戦区では票の再集計を要求した。今後の米国政治の行方は日本の外交・貿易政策にも影響を与えると見られている。
         </p>
         <div class="translation-vi">
-          Chánh văn phòng nội các Kimura Seiji ngày 22 đã phủ nhận tin tức về "ám chỉ thay thế Bộ trưởng Giáo dục Seki" xuất hiện trong nội bộ đảng LDP, và nói rằng "mong Bộ trưởng tiếp tục giải thích thận trọng". Xung quanh Bộ trưởng Seki, phe đối lập đã chỉ ra sự mâu thuẫn giữa lời khai trước Quốc hội và thực tế về việc quan chức chính phủ tham dự tiệc gây quỹ chính trị, và đang cân nhắc đệ trình nghị quyết bất tín nhiệm. Trong khi Chánh văn phòng rõ ràng phủ nhận việc thay thế Bộ trưởng, ông cũng yêu cầu các bên liên quan phải thực hiện đầy đủ trách nhiệm giải trình. Thủ tướng Takaichi vẫn tín nhiệm Bộ trưởng Giáo dục, nhưng phe đối lập dự định tiến hành bất tín nhiệm trong kỳ họp Quốc hội thường kỳ.
+          Trong cuộc bầu cử giữa nhiệm kỳ Mỹ kiểm phiếu ngày 22, truyền thông Mỹ đưa tin Đảng Dân chủ đã giành được 258 ghế tại Hạ viện. Đây được báo cáo là số ghế lớn nhất kể từ năm 1932, và được phân tích là cho thấy làn sóng phiếu phản đối chính quyền ngay chỉ 2 năm sau khi chính quyền Trump của Đảng Cộng hòa được thành lập. Đảng Dân chủ cũng đã giành lại đa số tại Thượng viện, và dự kiến xung đột giữa cầm quyền và đối lập sẽ leo thang xung quanh thẩm vấn ngân sách và nhân sự đề cử của Tổng thống. Tổng thống Trump đã đăng thông điệp "không đồng ý với kết quả bầu cử" lên mạng xã hội và yêu cầu kiểm phiếu lại ở một số khu vực cạnh tranh. Tương lai chính trị Mỹ được cho là sẽ ảnh hưởng đến chính sách ngoại giao và thương mại của Nhật Bản.
         </div>
         <div class="source">
-          出典: 時事通信 · 2026-11-22 19:38 JST ·
-          <a href="https://www.jiji.com/jc/article?k=2026112200341&g=pol&m=rss" target="_blank">原文を読む →</a>
+          出典: 時事通信 · 2026-11-23 07:17 JST ·
+          <a href="https://www.jiji.com/jc/article?k=2026112300071&g=int&m=rss" target="_blank">原文を読む →</a>
         </div>
       </div>
       <div class="col col-right">
@@ -785,44 +753,44 @@
           <table class="vocab">
             <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
             <tr>
-              <td class="jp-word">官房長官</td>
-              <td class="reading">かんぼうちょうかん</td>
-              <td class="hanviet">quan phòng trưởng quan</td>
-              <td class="meaning">Chánh văn phòng Nội các</td>
+              <td class="jp-word">中間選挙</td>
+              <td class="reading">ちゅうかんせんきょ</td>
+              <td class="hanviet">trung gian tuyển cử</td>
+              <td class="meaning">bầu cử giữa nhiệm kỳ</td>
             </tr>
             <tr>
-              <td class="jp-word">問責決議案</td>
-              <td class="reading">もんせきけつぎあん</td>
-              <td class="hanviet">vấn trách quyết nghị án</td>
-              <td class="meaning">dự thảo nghị quyết bất tín nhiệm/chất vấn trách nhiệm</td>
+              <td class="jp-word">過半数</td>
+              <td class="reading">かはんすう</td>
+              <td class="hanviet">quá bán số</td>
+              <td class="meaning">đa số, hơn một nửa</td>
             </tr>
             <tr>
-              <td class="jp-word">食い違う</td>
-              <td class="reading">くいちがう</td>
-              <td class="hanviet">—</td>
-              <td class="meaning">mâu thuẫn, không khớp nhau</td>
+              <td class="jp-word">奪還</td>
+              <td class="reading">だっかん</td>
+              <td class="hanviet">đoạt hoàn</td>
+              <td class="meaning">giành lại, lấy lại</td>
             </tr>
             <tr>
-              <td class="jp-word">説明責任</td>
-              <td class="reading">せつめいせきにん</td>
-              <td class="hanviet">thuyết minh trách nhiệm</td>
-              <td class="meaning">trách nhiệm giải trình (accountability)</td>
+              <td class="jp-word">指名人事</td>
+              <td class="reading">しめいじんじ</td>
+              <td class="hanviet">chỉ danh nhân sự</td>
+              <td class="meaning">nhân sự đề cử (của Tổng thống, cần Thượng viện phê chuẩn)</td>
             </tr>
             <tr>
-              <td class="jp-word">信任</td>
-              <td class="reading">しんにん</td>
-              <td class="hanviet">tín nhiệm</td>
-              <td class="meaning">tín nhiệm, tin tưởng và giao phó</td>
+              <td class="jp-word">再集計</td>
+              <td class="reading">さいしゅうけい</td>
+              <td class="hanviet">tái tập kế</td>
+              <td class="meaning">kiểm phiếu lại, recount</td>
             </tr>
           </table>
         </div>
         <div class="edu-block">
           <h4>📗 文法</h4>
           <div class="grammar-item">
-            <strong>～一方で</strong> — trong khi đó, mặt khác (đồng thời tồn tại hai điều)
+            <strong>～以来〇〇年ぶり</strong> — lần đầu tiên kể từ... (đánh dấu khoảng cách thời gian lớn)
             <div class="example">
-              <span class="jp">大臣交代を否定した一方、十分な説明責任を求める姿勢を示した。</span>
-              <span class="vi">Trong khi phủ nhận việc thay thế Bộ trưởng, ông cũng bày tỏ thái độ yêu cầu giải trình đầy đủ.</span>
+              <span class="jp">民主党が1932年以来94年ぶりの大勝を収めた。</span>
+              <span class="vi">Đảng Dân chủ đạt chiến thắng lớn lần đầu tiên trong 94 năm kể từ 1932.</span>
             </div>
           </div>
         </div>
@@ -833,20 +801,20 @@
   <!-- A-05 -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">A-05</span>社員を監禁した疑い——会社社長ら4人を逮捕、東京の販売会社で発覚</h3>
+      <h3><span class="news-no">A-05</span>鹿児島で震度３の地震——九州南部で今週３度目、気象庁が活動状況を注視</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 本文 + 和越対訳</div>
         <p class="content-text lang-ja">
-          警視庁は22日、東京都内の販売会社の社長ら4人を監禁の疑いで逮捕したと発表した。同社では社員に対して業績未達成を理由に退職を強要し、事務所内に長時間閉じ込めるなどの行為が繰り返されていたとされる。被害を受けた社員の通報を受けて捜査が始まり、複数の元社員から同様の証言が得られた。同社は外壁塗装などの販売を手がける中小企業で、いわゆる「ブラック企業」の典型例として注目を集めている。厚生労働省は関連調査を開始したと明らかにした。
+          23日午前8時4分ごろ、鹿児島県内を震源とする地震が発生し、同県内の一部で震度3を観測した。気象庁の発表によれば、震源の深さは約15キロ、マグニチュードは3.8と推定される。今週に入ってから九州南部では震度1以上の地震が3度目となっており、気象庁は「地下の応力変化に伴う余震活動の可能性があるが、現時点で大規模地震につながる兆候は確認されていない」とコメントした。津波の発生はなく、被害報告も現時点では入っていない。鹿児島県は桜島の火山活動との関連についても調査する方針だ。
         </p>
         <div class="translation-vi">
-          Cảnh sát Metropolitan Tokyo ngày 22 thông báo đã bắt giữ 4 người bao gồm giám đốc một công ty bán hàng ở Tokyo với tội danh giam cầm người. Công ty này bị cáo buộc liên tục ép buộc nhân viên từ chức với lý do không đạt chỉ tiêu doanh số, và nhốt họ trong văn phòng nhiều giờ. Cuộc điều tra bắt đầu từ đơn tố cáo của nhân viên bị hại, và nhiều nhân viên cũ cũng đã đưa ra lời chứng tương tự. Đây là công ty vừa và nhỏ chuyên bán dịch vụ sơn tường ngoài nhà, và vụ việc thu hút sự chú ý như một điển hình của cái gọi là "công ty đen" (black company - doanh nghiệp vi phạm quyền lao động). Bộ Lao động, Y tế và Phúc lợi cho biết đã bắt đầu điều tra liên quan.
+          Vào khoảng 8 giờ 4 phút sáng ngày 23, một trận động đất có tâm chấn ở tỉnh Kagoshima đã xảy ra, gây ra rung động cường độ 3 tại một số khu vực trong tỉnh. Theo Cơ quan Khí tượng Nhật Bản, độ sâu tâm chấn ước tính khoảng 15 km và cường độ Richter là 3,8. Đây là lần rung động thứ ba đạt cường độ 1 trở lên ở miền Nam Kyushu trong tuần này, và Cơ quan Khí tượng bình luận rằng "có khả năng là dư chấn liên quan đến thay đổi ứng suất dưới lòng đất, nhưng hiện tại chưa xác nhận được dấu hiệu dẫn đến động đất quy mô lớn". Không có sóng thần và chưa có báo cáo thiệt hại tính đến thời điểm hiện tại. Tỉnh Kagoshima cũng dự định điều tra mối liên hệ với hoạt động của núi lửa Sakurajima.
         </div>
         <div class="source">
-          出典: Yahoo!ニュース · 2026-11-22 22:36 JST ·
-          <a href="https://news.yahoo.co.jp/pickup/6603608?source=rss" target="_blank">原文を読む →</a>
+          出典: 時事通信 · 2026-11-23 08:04 JST ·
+          <a href="https://www.jiji.com/jc/article?k=2026112300052&g=soc&m=rss" target="_blank">原文を読む →</a>
         </div>
       </div>
       <div class="col col-right">
@@ -856,44 +824,44 @@
           <table class="vocab">
             <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
             <tr>
-              <td class="jp-word">監禁</td>
-              <td class="reading">かんきん</td>
-              <td class="hanviet">giám cấm</td>
-              <td class="meaning">giam cầm, nhốt người trái phép</td>
+              <td class="jp-word">震源</td>
+              <td class="reading">しんげん</td>
+              <td class="hanviet">chấn nguyên</td>
+              <td class="meaning">tâm chấn (điểm khởi phát động đất)</td>
             </tr>
             <tr>
-              <td class="jp-word">逮捕</td>
-              <td class="reading">たいほ</td>
-              <td class="hanviet">đãi bổ</td>
-              <td class="meaning">bắt giữ, bắt giam</td>
+              <td class="jp-word">余震</td>
+              <td class="reading">よしん</td>
+              <td class="hanviet">dư chấn</td>
+              <td class="meaning">dư chấn, aftershock</td>
             </tr>
             <tr>
-              <td class="jp-word">業績未達成</td>
-              <td class="reading">ぎょうせきみたっせい</td>
-              <td class="hanviet">nghiệp tích vị đạt thành</td>
-              <td class="meaning">không đạt chỉ tiêu kinh doanh</td>
+              <td class="jp-word">応力変化</td>
+              <td class="reading">おうりょくへんか</td>
+              <td class="hanviet">ứng lực biến hóa</td>
+              <td class="meaning">thay đổi ứng suất (trong địa chất)</td>
             </tr>
             <tr>
-              <td class="jp-word">退職を強要</td>
-              <td class="reading">たいしょくをきょうよう</td>
-              <td class="hanviet">thoái chức cường yêu</td>
-              <td class="meaning">ép buộc nghỉ việc</td>
+              <td class="jp-word">兆候</td>
+              <td class="reading">ちょうこう</td>
+              <td class="hanviet">triệu hậu</td>
+              <td class="meaning">dấu hiệu, triệu chứng báo trước</td>
             </tr>
             <tr>
-              <td class="jp-word">ブラック企業</td>
-              <td class="reading">ブラックきぎょう</td>
-              <td class="hanviet">—</td>
-              <td class="meaning">công ty đen (doanh nghiệp vi phạm quyền lao động)</td>
+              <td class="jp-word">津波</td>
+              <td class="reading">つなみ</td>
+              <td class="hanviet">tân ba</td>
+              <td class="meaning">sóng thần, tsunami</td>
             </tr>
           </table>
         </div>
         <div class="edu-block">
           <h4>📗 文法</h4>
           <div class="grammar-item">
-            <strong>～とされる</strong> — được cho là, bị coi là (thông tin được xác nhận chưa chắc chắn)
+            <strong>～につながる</strong> — dẫn đến, kết nối với (hậu quả)
             <div class="example">
-              <span class="jp">社員に対して長時間閉じ込めるなどの行為が繰り返されていたとされる。</span>
-              <span class="vi">Hành vi nhốt nhân viên trong thời gian dài được cho là đã liên tục xảy ra.</span>
+              <span class="jp">現時点で大規模地震につながる兆候は確認されていない。</span>
+              <span class="vi">Hiện tại chưa xác nhận được dấu hiệu nào dẫn đến động đất quy mô lớn.</span>
             </div>
           </div>
         </div>
@@ -910,20 +878,20 @@
   <!-- B-01 -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">B-01</span>自分の代わりに動くAgentへ——Claude CodeとCodexで作る自律改善ハーネス</h3>
+      <h3><span class="news-no">B-01</span>OpenAIチーフサイエンティスト、「perplexity」をAI能力の業界共通指標に——開発上限の合意形成を提案</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 本文 + 和越対訳</div>
         <p class="content-text lang-ja">
-          Zennに投稿された技術記事が注目を集めている。著者はClaude CodeとCodexを組み合わせ、コードベースを継続的に自律改善する「エージェント・ハーネス」を構築した実践録を詳述している。システムの核心はReActパターンに基づくエージェント・ループで、テスト失敗を検知すると自動的に原因を推論し、修正コードを生成してプルリクエストを作成するまでを人間の介入なしに完結させる。重要な工夫として、各エージェントの実行をDockerサンドボックス内に限定することでコスト爆発を防ぎ、エラー時のロールバック戦略も組み込んでいる。著者は「キーボードを手放した感覚」と表現しており、AI駆動開発の実用化が着実に進んでいることを示す好例となっている。
+          OpenAIのチーフサイエンティストが23日、AI能力の業界横断的な測定指標として「パープレキシティ（perplexity）」を共通基準にする提案を発表し、IT業界内で大きな議論を呼んでいる。パープレキシティはモデルが次のトークンを予測する際の不確実性を示す統計量で、値が低いほどモデルが自然言語を理解していることを意味する。提案の狙いは各社が内部学習状況を外部と比較可能な形で開示し、特定の閾値を超えたAIシステムの開発には業界横断の安全審査を義務付けることにある。AnthropicやGoogleはこの枠組みに原則賛同しつつも具体的な閾値設定に慎重で、オープンソースコミュニティからは「計測指標の恣意的操作を防げない」との懸念も出ている。
         </p>
         <div class="translation-vi">
-          Một bài viết kỹ thuật đăng trên Zenn đang thu hút nhiều sự chú ý. Tác giả đã mô tả chi tiết quá trình xây dựng "agent harness" tự động cải thiện codebase liên tục bằng cách kết hợp Claude Code và Codex. Trọng tâm của hệ thống là agent loop dựa trên ReAct pattern, khi phát hiện test thất bại sẽ tự suy luận nguyên nhân, tạo code sửa lỗi và tạo pull request mà không cần sự can thiệp của con người. Một điểm đáng chú ý là giới hạn mỗi agent trong Docker sandbox để tránh chi phí bùng nổ, đồng thời tích hợp chiến lược rollback khi xảy ra lỗi. Tác giả mô tả cảm giác như "buông tay bàn phím", và đây là ví dụ tiêu biểu cho thấy AI-driven development đang được hiện thực hóa vững chắc trong thực tiễn.
+          Nhà khoa học trưởng của OpenAI ngày 23 đã công bố đề xuất sử dụng "perplexity" (độ phức tạp) làm tiêu chuẩn chung để đo lường năng lực AI xuyên ngành, tạo ra cuộc thảo luận lớn trong ngành IT. Perplexity là chỉ số thống kê thể hiện mức độ không chắc chắn khi model dự đoán token tiếp theo, giá trị càng thấp thì model hiểu ngôn ngữ tự nhiên càng tốt. Mục đích của đề xuất là buộc các công ty công bố tình trạng training nội bộ theo cách có thể so sánh với bên ngoài, và bắt buộc kiểm tra an toàn xuyên ngành cho các hệ thống AI vượt qua ngưỡng nhất định. Anthropic và Google về nguyên tắc đồng ý với khung này nhưng thận trọng về việc thiết lập ngưỡng cụ thể, và cộng đồng mã nguồn mở cũng bày tỏ lo ngại rằng "không thể ngăn chặn việc thao túng tùy tiện chỉ số đo lường".
         </div>
         <div class="source">
-          出典: Zenn · NTT DATA Tech · 2026-11-19 ·
-          <a href="https://zenn.dev/nttdata_tech/articles/9562962cc181a1" target="_blank">原文を読む →</a>
+          出典: ITmedia AI+ · 2026-11-23 09:25 JST ·
+          <a href="https://www.itmedia.co.jp/news/article/2611/23/2000003394/" target="_blank">原文を読む →</a>
         </div>
       </div>
       <div class="col col-right">
@@ -933,57 +901,57 @@
           <table class="vocab">
             <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
             <tr>
-              <td class="jp-word">自律改善</td>
-              <td class="reading">じりつかいぜん</td>
-              <td class="hanviet">tự lập cải thiện</td>
-              <td class="meaning">tự động cải thiện, tự cải thiện (autonomous improvement)</td>
+              <td class="jp-word">業界横断</td>
+              <td class="reading">ぎょうかいおうだん</td>
+              <td class="hanviet">nghiệp giới hoành đoạn</td>
+              <td class="meaning">xuyên ngành, cross-industry</td>
             </tr>
             <tr>
-              <td class="jp-word">ハーネス</td>
-              <td class="reading">ハーネス</td>
-              <td class="hanviet">—</td>
-              <td class="meaning">harness - khung điều phối agent/test</td>
+              <td class="jp-word">不確実性</td>
+              <td class="reading">ふかくじつせい</td>
+              <td class="hanviet">bất xác thực tính</td>
+              <td class="meaning">tính không chắc chắn, uncertainty</td>
             </tr>
             <tr>
-              <td class="jp-word">推論</td>
-              <td class="reading">すいろん</td>
-              <td class="hanviet">suy luận</td>
-              <td class="meaning">suy luận, inference (AI context)</td>
+              <td class="jp-word">閾値</td>
+              <td class="reading">しきいち</td>
+              <td class="hanviet">ngưỡng trị</td>
+              <td class="meaning">ngưỡng, threshold</td>
             </tr>
             <tr>
-              <td class="jp-word">介入</td>
-              <td class="reading">かいにゅう</td>
-              <td class="hanviet">giới nhập</td>
-              <td class="meaning">can thiệp, intervention</td>
+              <td class="jp-word">恣意的</td>
+              <td class="reading">しいてき</td>
+              <td class="hanviet">tứ ý đích</td>
+              <td class="meaning">tùy tiện, arbitrary</td>
             </tr>
             <tr>
-              <td class="jp-word">コスト爆発</td>
-              <td class="reading">コストばくはつ</td>
-              <td class="hanviet">—</td>
-              <td class="meaning">chi phí bùng nổ, cost explosion (token/compute cost)</td>
+              <td class="jp-word">開示</td>
+              <td class="reading">かいじ</td>
+              <td class="hanviet">khai thị</td>
+              <td class="meaning">công bố, disclosure</td>
             </tr>
             <tr>
-              <td class="jp-word">ロールバック</td>
-              <td class="reading">ロールバック</td>
-              <td class="hanviet">—</td>
-              <td class="meaning">rollback - quay lại trạng thái trước đó</td>
+              <td class="jp-word">義務付け</td>
+              <td class="reading">ぎむづけ</td>
+              <td class="hanviet">nghĩa vụ phó</td>
+              <td class="meaning">bắt buộc, mandating</td>
             </tr>
           </table>
         </div>
         <div class="edu-block">
           <h4>📗 文法</h4>
           <div class="grammar-item">
-            <strong>～まで（を）完結させる</strong> — hoàn tất đến tận (bước cuối cùng)
+            <strong>～を超えたら〜を義務付ける</strong> — khi vượt quá... thì bắt buộc... (điều kiện + quy định)
             <div class="example">
-              <span class="jp">修正コードを生成してプルリクエストを作成するまでを完結させる。</span>
-              <span class="vi">Hoàn tất toàn bộ quy trình từ tạo code sửa lỗi đến tạo pull request.</span>
+              <span class="jp">特定の閾値を超えたAIシステムの開発には安全審査を義務付ける。</span>
+              <span class="vi">Bắt buộc kiểm tra an toàn đối với việc phát triển các hệ thống AI vượt qua ngưỡng nhất định.</span>
             </div>
           </div>
           <div class="grammar-item">
-            <strong>～に限定することで</strong> — bằng cách giới hạn vào (mục đích/kết quả)
+            <strong>～つつも</strong> — trong khi ~, nhưng... (thừa nhận một mặt rồi đưa ra điều ngược lại)
             <div class="example">
-              <span class="jp">実行をDockerサンドボックス内に限定することでコスト爆発を防ぐ。</span>
-              <span class="vi">Bằng cách giới hạn thực thi trong Docker sandbox, tránh được chi phí bùng nổ.</span>
+              <span class="jp">AnthropicはこのプランにGoogleとともに原則賛同しつつも、閾値設定には慎重だ。</span>
+              <span class="vi">Anthropic và Google về nguyên tắc đồng ý với kế hoạch này, nhưng vẫn thận trọng về việc thiết lập ngưỡng.</span>
             </div>
           </div>
         </div>
@@ -994,20 +962,20 @@
   <!-- B-02 -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">B-02</span>寝ている間に自動で動くAIエージェントを誰でも作れる——10分でわかる pstack 実践ガイド</h3>
+      <h3><span class="news-no">B-02</span>メルカリ、AIベンダー経由で2件の情報漏洩——ユーザーデータがサードパーティログに記録</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 本文 + 和越対訳</div>
         <p class="content-text lang-ja">
-          Canlyが公開したZennの記事では、オープンソースのエージェント実行基盤「pstack」の実践的な使い方を解説している。pstackはエージェントの定義をYAMLファイルで記述し、スケジューラーがバックグラウンドでLLMを呼び出してタスクを遂行する仕組みだ。記事では「就寝中にデータ収集・集計・レポート生成を自動完了させる」という具体的なユースケースを10分で実装できる手順として示している。モデルはClaude Code APIかOpenAI APIを切り替えられ、コストを抑えるためのキャッシュ戦略や並列実行の設定方法も詳述されている。個人開発者でも本格的なエージェント自動化を手軽に始められる点が高く評価されており、Zennで多くのLikeを集めている。
+          メルカリは23日、AI処理に利用していたサードパーティベンダーのシステムで2件の情報漏洩インシデントが発生したことを公表した。漏洩した情報にはユーザーの入力テキストが含まれており、一部はベンダー側のデバッグログに意図せず保存されていたという。メルカリは「個人情報保護法に定める報告義務に従い、個人情報保護委員会に届け出た」と述べており、影響を受けたユーザーには個別に通知する予定としている。今回の事案はAIサービスへのデータ送信が持つリスクを改めて示すものとして注目されており、エンタープライズ向けAIサービスを利用する企業のデータガバナンス見直しを促す契機ともなっている。開発者コミュニティでは「サードパーティLLMへのユーザーデータ送信には明示的同意が必要」との議論が活発化している。
         </p>
         <div class="translation-vi">
-          Bài viết Zenn do Canly công bố giải thích cách sử dụng thực tế của "pstack" - nền tảng thực thi agent mã nguồn mở. pstack cho phép định nghĩa agent bằng file YAML và scheduler sẽ tự động gọi LLM trong background để thực hiện các tác vụ. Bài viết trình bày quy trình triển khai trong 10 phút cho use case cụ thể là "tự động hoàn thành thu thập dữ liệu, tổng hợp và tạo báo cáo trong khi ngủ". Model có thể chuyển đổi giữa Claude Code API hoặc OpenAI API, và các chiến lược cache để kiểm soát chi phí cũng như cách cấu hình thực thi song song cũng được mô tả chi tiết. Điểm được đánh giá cao là ngay cả developer cá nhân cũng có thể dễ dàng bắt đầu tự động hóa agent ở mức độ chuyên nghiệp, và bài viết nhận được nhiều Like trên Zenn.
+          Mercari ngày 23 công bố đã xảy ra 2 sự cố rò rỉ thông tin trong hệ thống của nhà cung cấp bên thứ ba mà họ sử dụng để xử lý AI. Thông tin bị rò rỉ bao gồm văn bản nhập của người dùng, và một phần đã được lưu trữ ngoài ý muốn trong debug log của phía nhà cung cấp. Mercari cho biết "đã báo cáo với Ủy ban Bảo vệ Thông tin Cá nhân theo nghĩa vụ báo cáo quy định trong Luật Bảo vệ Thông tin Cá nhân" và dự định thông báo riêng đến các người dùng bị ảnh hưởng. Sự cố lần này thu hút sự chú ý như một minh chứng về rủi ro khi gửi dữ liệu đến dịch vụ AI, và cũng là cơ hội thúc đẩy các doanh nghiệp sử dụng dịch vụ AI cho doanh nghiệp xem xét lại data governance. Trong cộng đồng developer, cuộc thảo luận về "cần sự đồng ý rõ ràng khi gửi dữ liệu người dùng đến LLM bên thứ ba" đang ngày càng sôi nổi.
         </div>
         <div class="source">
-          出典: Zenn · Canly · 2026-11-20 ·
-          <a href="https://zenn.dev/canly/articles/ca6875cd79539f" target="_blank">原文を読む →</a>
+          出典: ITmedia · 2026-11-23 09:00 JST ·
+          <a href="https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/" target="_blank">原文を読む →</a>
         </div>
       </div>
       <div class="col col-right">
@@ -1017,50 +985,44 @@
           <table class="vocab">
             <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
             <tr>
-              <td class="jp-word">実行基盤</td>
-              <td class="reading">じっこうきばん</td>
-              <td class="hanviet">thực hành cơ bàn</td>
-              <td class="meaning">nền tảng thực thi, runtime platform</td>
+              <td class="jp-word">情報漏洩</td>
+              <td class="reading">じょうほうろうえい</td>
+              <td class="hanviet">thông tin lậu dật</td>
+              <td class="meaning">rò rỉ thông tin, data leak</td>
             </tr>
             <tr>
-              <td class="jp-word">スケジューラー</td>
-              <td class="reading">スケジューラー</td>
+              <td class="jp-word">デバッグログ</td>
+              <td class="reading">デバッグログ</td>
               <td class="hanviet">—</td>
-              <td class="meaning">scheduler - bộ lập lịch</td>
+              <td class="meaning">debug log - nhật ký debug</td>
             </tr>
             <tr>
-              <td class="jp-word">遂行</td>
-              <td class="reading">すいこう</td>
-              <td class="hanviet">toại hành</td>
-              <td class="meaning">thực hiện xong, hoàn thành (nhiệm vụ)</td>
+              <td class="jp-word">個人情報保護委員会</td>
+              <td class="reading">こじんじょうほうほごいいんかい</td>
+              <td class="hanviet">cá nhân thông tin bảo hộ ủy viên hội</td>
+              <td class="meaning">Ủy ban Bảo vệ Thông tin Cá nhân (Nhật Bản)</td>
             </tr>
             <tr>
-              <td class="jp-word">並列実行</td>
-              <td class="reading">へいれつじっこう</td>
-              <td class="hanviet">tịnh liệt thực hành</td>
-              <td class="meaning">thực thi song song, parallel execution</td>
-            </tr>
-            <tr>
-              <td class="jp-word">ユースケース</td>
-              <td class="reading">ユースケース</td>
+              <td class="jp-word">データガバナンス</td>
+              <td class="reading">データガバナンス</td>
               <td class="hanviet">—</td>
-              <td class="meaning">use case - trường hợp sử dụng</td>
+              <td class="meaning">data governance - quản trị dữ liệu</td>
             </tr>
             <tr>
-              <td class="jp-word">集計</td>
-              <td class="reading">しゅうけい</td>
-              <td class="hanviet">tập kế</td>
-              <td class="meaning">tổng hợp, tính toán tổng hợp dữ liệu</td>
+              <td class="jp-word">明示的同意</td>
+              <td class="reading">めいじてきどうい</td>
+              <td class="hanviet">minh thị đích đồng ý</td>
+              <td class="meaning">sự đồng ý rõ ràng, explicit consent</td>
             </tr>
           </table>
         </div>
         <div class="edu-block">
           <h4>📗 文法</h4>
           <div class="grammar-item">
-            <strong>～られ（可能）</strong> — có thể ~ (khả năng)
+            <strong>～に定める〜に従い</strong> — theo quy định trong... (trích dẫn căn cứ pháp lý)
             <div class="example">
-              <span class="jp">モデルはClaude Code APIかOpenAI APIを切り替えられ、コストを抑えられる。</span>
-              <span class="vi">Model có thể chuyển đổi giữa Claude Code API và OpenAI API, và có thể kiểm soát chi phí.</span>
+              <span class="jp">個人情報保護法に定める報告義務に従い、委員会に届け出た。</span>
+              <span class="vi">Theo nghĩa vụ báo cáo quy định trong Luật Bảo vệ Thông tin Cá nhân, đã báo cáo lên Ủy ban.</span>
             </div>
           </div>
         </div>
@@ -1071,20 +1033,20 @@
   <!-- B-03 -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">B-03</span>Microsoft「MAI Code 2」「MAI Code 2 Flash」発表——高性能かつ低コストのAIコーディングモデル</h3>
+      <h3><span class="news-no">B-03</span>Microsoft「Perception」正式発表——AIエージェントの行動を監視・制御するセキュリティサービス</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
         <div class="col-label">📰 本文 + 和越対訳</div>
         <p class="content-text lang-ja">
-          マイクロソフトはIgnite 2026において、コーディング特化の新AIモデル「MAI Code 2」と軽量版「MAI Code 2 Flash」を発表した。MAI Code 2は既存のGPT-6系列と比較してコーディングタスクで同等以上の性能を持ちながら、価格は大幅に低く設定されている。FlashバリアントはCopilotやVS Codeのインライン補完など高頻度の用途向けに最適化されており、レイテンシを抑えつつトークンあたりのコストも削減している。両モデルはAzure OpenAI Service経由でAPIとして提供され、エンタープライズ向けのCopilotと個人向けのCopilot＋PCの両方で利用可能になる予定だ。コーディングAIの競争が激化する中、マイクロソフトが価格競争力を強化してきた形となっている。
+          MicrosoftはIgnite 2026において、AIエージェントの実行時動作を監視・制御する新セキュリティサービス「Microsoft Perception」を発表した。PerceptionはAzure上で動作するエージェントのすべてのツール呼び出し、外部通信、ファイルアクセスをリアルタイムにログ記録し、ポリシー違反を検知した場合に自動で実行を停止する機能を持つ。管理者はGUIダッシュボードからエージェントごとに「許可するツール・リソース・通信先」を細かく設定でき、SOC（セキュリティオペレーションセンター）との統合も可能だ。エージェントへのプロンプトインジェクション攻撃の検知機能も備えており、マルチエージェントシステムにおける横断的なセキュリティ観測基盤として位置づけられている。MCP（Model Context Protocol）対応のエージェントにも適用可能で、エンタープライズのAI安全基盤として注目を集めている。
         </p>
         <div class="translation-vi">
-          Microsoft tại Ignite 2026 đã công bố mô hình AI chuyên về coding mới "MAI Code 2" và phiên bản nhẹ "MAI Code 2 Flash". MAI Code 2 có hiệu suất tương đương hoặc vượt trội so với dòng GPT-6 hiện tại trong các tác vụ coding, với mức giá thấp hơn đáng kể. Biến thể Flash được tối ưu hóa cho các ứng dụng tần suất cao như gợi ý inline trong Copilot và VS Code, giảm latency trong khi cũng cắt giảm chi phí trên mỗi token. Cả hai model sẽ được cung cấp dưới dạng API qua Azure OpenAI Service và dự kiến sẽ khả dụng trên cả Copilot dành cho doanh nghiệp lẫn Copilot+ PC dành cho cá nhân. Trong bối cảnh cạnh tranh AI coding ngày càng khốc liệt, Microsoft đang tăng cường lợi thế cạnh tranh về giá.
+          Microsoft tại Ignite 2026 đã công bố dịch vụ bảo mật mới "Microsoft Perception" để giám sát và kiểm soát hành vi của agent AI khi đang chạy. Perception ghi nhật ký theo thời gian thực tất cả các tool call, giao tiếp bên ngoài và truy cập file của agent chạy trên Azure, và có khả năng tự động dừng thực thi khi phát hiện vi phạm policy. Quản trị viên có thể cấu hình chi tiết "tool, resource và điểm giao tiếp được phép" cho từng agent từ GUI dashboard, và cũng có thể tích hợp với SOC (Security Operations Center). Hệ thống còn được trang bị tính năng phát hiện tấn công prompt injection vào agent, và được định vị như cơ sở hạ tầng quan sát bảo mật xuyên suốt cho hệ thống multi-agent. Có thể áp dụng cho cả agent hỗ trợ MCP (Model Context Protocol), và đang thu hút sự chú ý như nền tảng an toàn AI cho doanh nghiệp.
         </div>
         <div class="source">
-          出典: Publickey · 2026-11-17 ·
-          <a href="https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html" target="_blank">原文を読む →</a>
+          出典: Publickey · 2026-11-18 ·
+          <a href="https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html" target="_blank">原文を読む →</a>
         </div>
       </div>
       <div class="col col-right">
@@ -1094,51 +1056,44 @@
           <table class="vocab">
             <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
             <tr>
-              <td class="jp-word">インライン補完</td>
-              <td class="reading">インラインほかん</td>
-              <td class="hanviet">— bổ hoàn</td>
-              <td class="meaning">inline completion - gợi ý code tại chỗ trong editor</td>
+              <td class="jp-word">実行時動作</td>
+              <td class="reading">じっこうじどうさ</td>
+              <td class="hanviet">thực hành thời động tác</td>
+              <td class="meaning">hành vi lúc runtime, runtime behavior</td>
             </tr>
             <tr>
-              <td class="jp-word">レイテンシ</td>
-              <td class="reading">レイテンシ</td>
+              <td class="jp-word">ポリシー違反</td>
+              <td class="reading">ポリシーいはん</td>
+              <td class="hanviet">— vi phạm</td>
+              <td class="meaning">vi phạm policy, policy violation</td>
+            </tr>
+            <tr>
+              <td class="jp-word">プロンプトインジェクション</td>
+              <td class="reading">プロンプトインジェクション</td>
               <td class="hanviet">—</td>
-              <td class="meaning">latency - độ trễ phản hồi</td>
+              <td class="meaning">prompt injection - tấn công tiêm nhiễm prompt</td>
             </tr>
             <tr>
-              <td class="jp-word">軽量版</td>
-              <td class="reading">けいりょうばん</td>
-              <td class="hanviet">khinh lượng bản</td>
-              <td class="meaning">phiên bản nhẹ, lightweight version</td>
+              <td class="jp-word">観測基盤</td>
+              <td class="reading">かんそくきばん</td>
+              <td class="hanviet">quan trắc cơ bàn</td>
+              <td class="meaning">nền tảng quan sát, observability platform</td>
             </tr>
             <tr>
-              <td class="jp-word">競争力</td>
-              <td class="reading">きょうそうりょく</td>
-              <td class="hanviet">cạnh tranh lực</td>
-              <td class="meaning">sức cạnh tranh, competitive power</td>
-            </tr>
-            <tr>
-              <td class="jp-word">エンタープライズ</td>
-              <td class="reading">エンタープライズ</td>
-              <td class="hanviet">—</td>
-              <td class="meaning">enterprise - doanh nghiệp (cấp doanh nghiệp)</td>
+              <td class="jp-word">横断的</td>
+              <td class="reading">おうだんてき</td>
+              <td class="hanviet">hoành đoạn đích</td>
+              <td class="meaning">xuyên suốt, cross-cutting</td>
             </tr>
           </table>
         </div>
         <div class="edu-block">
           <h4>📗 文法</h4>
           <div class="grammar-item">
-            <strong>～形となっている</strong> — đang có dạng/hướng (nhận định về xu hướng)
+            <strong>～として位置づけられる</strong> — được định vị là, được coi là (đánh giá/phân loại)
             <div class="example">
-              <span class="jp">マイクロソフトが価格競争力を強化してきた形となっている。</span>
-              <span class="vi">Microsoft đang có hướng tăng cường sức cạnh tranh về giá.</span>
-            </div>
-          </div>
-          <div class="grammar-item">
-            <strong>～予定だ</strong> — dự kiến sẽ (kế hoạch trong tương lai)
-            <div class="example">
-              <span class="jp">両モデルはAzure経由で提供され、CopilotとCopilot＋PCで利用可能になる予定だ。</span>
-              <span class="vi">Cả hai model dự kiến sẽ được cung cấp qua Azure và khả dụng trên Copilot và Copilot+ PC.</span>
+              <span class="jp">マルチエージェントシステムにおける横断的なセキュリティ観測基盤として位置づけられている。</span>
+              <span class="vi">Được định vị như cơ sở hạ tầng quan sát bảo mật xuyên suốt cho hệ thống multi-agent.</span>
             </div>
           </div>
         </div>
@@ -1155,54 +1110,52 @@
   <!-- C-01 -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">C-01</span>OpenAI Proposes Perplexity as a Shared Safety Metric — Publishing Internal Training Measurements</h3>
+      <h3><span class="news-no">C-01</span>Show HN: I Built a Game Where You Are an LLM's Subagent — Agent Control Surfaces Made Playable</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
-        <div class="col-label">📰 Article (English)</div>
+        <div class="col-label">📰 Original Article (EN)</div>
         <p class="content-text lang-en">
-          OpenAI Chief Scientist Jakub Pachocki published a detailed post arguing that log-perplexity — the cross-entropy loss from pretraining — should become a shared standard metric for comparing AI models across labs and informing safety thresholds. The post reveals OpenAI's internal log-perplexity measurements: approximately 0.99 for GPT-3.5, 0.91 for GPT-4, and below 0.8 for more recent models, with specific capability jumps observed in cybersecurity and mathematics at particular perplexity thresholds. Pachocki suggests that transformative capabilities emerge around the 0.68–0.7 log-perplexity range and proposes that labs agree on "common limits" — a floor they collectively will not cross until a concrete safety milestone is verified. As a first transparency step, OpenAI is publishing its own measurements. Acknowledged limitations include that different labs use different training datasets, perplexity does not map directly to downstream task performance, chain-of-thought gains are excluded, and the absolute entropy floor of human-level intelligence remains unknown.
+          A developer published a Hacker News "Show HN" project where the human player takes on the role of a subagent controlled by an LLM orchestrator. The LLM issues high-level instructions — "fetch a file", "summarize this result", "call this tool" — and the player executes them in a sandboxed browser-based environment. Each level introduces new tool primitives, and the game tracks whether the player (acting as the subagent) achieves the orchestrator's goal without violating constraints. The project has attracted substantial attention from the agentic AI community for two reasons: it concretely demonstrates the ReAct pattern, planner-executor splits, and permission boundary concepts that underpin real agent frameworks, and it surfaces edge cases (conflicting instructions, ambiguous tool specs, context window limits) in an approachable format. The post reached 266 points and 61 comments, with several LangGraph and Pydantic AI contributors noting the game maps closely to real agent loop failure modes.
         </p>
         <div class="impact-row">
-          <span class="impact-badge high">🔴 HIGH</span>
-          <span class="impact-text">If adopted broadly, this would create the first cross-lab comparable safety signal — directly affecting how labs publicly benchmark and constrain frontier training runs.</span>
+          <span class="impact-badge medium">🟠 MEDIUM</span>
+          <span class="impact-text">Interactive model of agent architecture — high educational value for agentic engineers</span>
         </div>
         <div class="source">
-          Source: OpenAI Blog · 2026-11-22 · Author: Jakub Pachocki ·
-          <a href="https://openai.com/index/perplexity-and-intelligence/" target="_blank">Read original →</a>
+          出典: Hacker News (Show HN) · ivantgam · 2026-11-22 ·
+          <a href="https://news.ycombinator.com/item?id=50599762" target="_blank">Read original →</a>
         </div>
       </div>
       <div class="col col-right">
-        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="col-label">📚 Từ vựng & Phân tích</div>
         <div class="translation-vi">
-          Nhà khoa học trưởng của OpenAI Jakub Pachocki đã công bố một bài viết chi tiết lập luận rằng log-perplexity — tức cross-entropy loss từ quá trình pretraining — nên trở thành chỉ số chuẩn chung để so sánh các mô hình AI giữa các phòng thí nghiệm và xác định ngưỡng an toàn. Bài viết tiết lộ các số đo log-perplexity nội bộ của OpenAI: khoảng 0.99 với GPT-3.5, 0.91 với GPT-4, và dưới 0.8 với các model gần đây hơn, với các bước nhảy về năng lực cụ thể được quan sát thấy trong an ninh mạng và toán học tại các ngưỡng perplexity nhất định. Pachocki đề xuất rằng các khả năng mang tính chuyển đổi xuất hiện ở khoảng 0.68–0.7 log-perplexity và đề xuất các phòng thí nghiệm đồng ý về "giới hạn chung" — một ngưỡng mà họ sẽ không cùng nhau vượt qua cho đến khi đạt được mốc an toàn cụ thể. Các hạn chế được thừa nhận bao gồm: các phòng thí nghiệm khác nhau sử dụng dataset khác nhau, perplexity không ánh xạ trực tiếp đến hiệu suất tác vụ, và ngưỡng entropy tuyệt đối của trí tuệ cấp con người vẫn chưa được biết.
+          Một developer đã công bố dự án "Show HN" trên Hacker News, nơi người chơi đảm nhận vai trò subagent được điều khiển bởi một LLM orchestrator. LLM đưa ra các chỉ thị cấp cao — "tải file này", "tóm tắt kết quả", "gọi tool này" — và người chơi thực thi chúng trong môi trường sandbox trên trình duyệt. Mỗi màn chơi giới thiệu các tool primitives mới, và game theo dõi xem người chơi (đóng vai subagent) có đạt được mục tiêu của orchestrator mà không vi phạm các ràng buộc hay không. Dự án thu hút sự chú ý đáng kể từ cộng đồng AI agentic vì nó minh họa cụ thể các khái niệm như ReAct pattern, planner-executor split, và permission boundary — những nền tảng của các agent framework thực tế. Bài đạt 266 điểm và 61 bình luận, với nhiều contributor của LangGraph và Pydantic AI nhận xét rằng game phản ánh rất sát các failure mode của agent loop thực tế.
         </div>
-        <div class="impact-note">
-          Nếu được các lab AI lớn áp dụng rộng rãi, đây sẽ là tín hiệu an toàn có thể so sánh giữa các lab đầu tiên — ảnh hưởng trực tiếp đến cách các tổ chức như Anthropic, Google DeepMind công khai benchmark và giới hạn các training run frontier.
-        </div>
+        <div class="impact-note">Nếu bạn đang xây dựng hoặc thiết kế agent, hãy thử game này — nó cực kỳ hiệu quả để internalize các khái niệm về permission boundary, tool spec ambiguity, và context limit trong agent loop thực tế.</div>
         <div class="edu-block">
-          <h4>📖 Thuật ngữ khó</h4>
+          <h4>📖 Thuật ngữ</h4>
           <table class="term-table">
-            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr><th>Thuật ngữ (EN)</th><th>Phát âm</th><th>Giải thích tiếng Việt</th></tr>
             <tr>
-              <td class="term-en">Log-perplexity</td>
-              <td class="term-pron">/lɒɡ pɜːrˈplɛksɪti/</td>
-              <td class="term-explain">Logarithm của perplexity — đo khả năng dự đoán token tiếp theo của model. Giá trị thấp hơn = model tốt hơn ở pretraining. Tương đương cross-entropy loss.</td>
+              <td class="term-en">Subagent</td>
+              <td class="term-pron">/ˈsʌbˌeɪdʒənt/</td>
+              <td class="term-explain">Agent cấp dưới được điều khiển bởi một orchestrator agent cấp trên — thực thi các tác vụ cụ thể theo lệnh</td>
             </tr>
             <tr>
-              <td class="term-en">Cross-entropy loss</td>
-              <td class="term-pron">/krɒs ˈɛntrəpi lɒs/</td>
-              <td class="term-explain">Hàm mất mát đo sự khác biệt giữa phân phối xác suất dự đoán và thực tế — là chỉ số chính trong quá trình huấn luyện LLM.</td>
+              <td class="term-en">Planner-executor split</td>
+              <td class="term-pron">/ˈplænər ɪkˈsekjətər/</td>
+              <td class="term-explain">Mô hình tách biệt agent lên kế hoạch (planner) và agent thực thi (executor) — giúp kiểm soát chi phí và an toàn</td>
             </tr>
             <tr>
-              <td class="term-en">Capability threshold</td>
-              <td class="term-pron">/ˌkæpəˈbɪlɪti ˈθrɛʃhəʊld/</td>
-              <td class="term-explain">Ngưỡng năng lực — điểm mà tại đó model đột ngột có thêm khả năng mới (như giải toán, tấn công mạng), không tỉ lệ tuyến tính với scale.</td>
+              <td class="term-en">Permission boundary</td>
+              <td class="term-pron">/pərˈmɪʃən ˈbaʊndri/</td>
+              <td class="term-explain">Ranh giới quyền hạn — tập hợp các hành động mà agent được phép thực hiện, bảo vệ khỏi side effects không mong muốn</td>
             </tr>
             <tr>
-              <td class="term-en">Frontier model</td>
-              <td class="term-pron">/ˈfrʌntɪər ˈmɒdəl/</td>
-              <td class="term-explain">Model tiên tiến nhất hiện tại — đang ở ranh giới của khả năng AI, thường đòi hỏi compute lớn nhất và có rủi ro an toàn cao nhất.</td>
+              <td class="term-en">Tool primitive</td>
+              <td class="term-pron">/tuːl ˈprɪmɪtɪv/</td>
+              <td class="term-explain">Công cụ cơ bản nhất mà agent có thể gọi (như read_file, http_get) — building block của agent toolkit</td>
             </tr>
           </table>
         </div>
@@ -1213,54 +1166,52 @@
   <!-- C-02 -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">C-02</span>GPT-6.2 Astra and GPT-6.2 Sol Released — Mixed Reception vs. Claude Fable 5.2</h3>
+      <h3><span class="news-no">C-02</span>Anthropic Closes $119.5B IPO — Begins Trading on Nasdaq as "ANT" After Full Overallotment Exercise</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
-        <div class="col-label">📰 Article (English)</div>
+        <div class="col-label">📰 Original Article (EN)</div>
         <p class="content-text lang-en">
-          OpenAI released GPT-6.2 Astra and GPT-6.2 Sol, their latest frontier and mid-tier models. Astra is positioned as the model for "hardest projects" at $8/MTok input and $40/MTok output — 20% cheaper than its predecessor GPT-6 Astra, with cached input at $0.40/M. Sol targets everyday tasks at $2/$10, matching the cost of GPT-6.1 Sol and halving GPT-5.6 Sol's pricing. Both are available via API as <code>gpt-6.2-astra</code> and <code>gpt-6.2-sol</code>. Developer Simon Willison ran his standard benchmarks including a Yonkers-to-mech Three.js test at Codex "Ultra" effort level and found neither model matched Claude Fable 5.2 or Gemini 4 Carbon on creative reasoning. Notably, early user feedback from Theo Browne indicated Astra sometimes asks odd internal-implementation questions during long-horizon agentic tasks — a potential issue for multi-step coding agents. The models ship with an updated system card emphasizing improved refusal precision and reduced over-refusal compared to GPT-6 series.
+          Anthropic announced the closing of its initial public offering on November 20, including the full exercise of the underwriters' overallotment option, resulting in total gross proceeds of approximately $119.5 billion. The company also completed a concurrent private placement. Anthropic now trades on the Nasdaq Stock Market under the ticker symbol "ANT". This marks a significant milestone for the AI safety-focused lab, which was founded in 2021 by former OpenAI researchers. The IPO valued Anthropic as one of the highest-valued AI companies at the time of listing. Funds raised are expected to support continued model development, infrastructure scaling, and expansion of the Claude model family, including ongoing work on the Claude Code developer tooling. Anthropic's public market debut will increase scrutiny of its revenue metrics, enterprise customer concentration, and the competitive dynamics against OpenAI and Google DeepMind.
         </p>
         <div class="impact-row">
           <span class="impact-badge medium">🟠 MEDIUM</span>
-          <span class="impact-text">New pricing brings Astra within reach for more API use cases; Sol parity with 6.1 Sol means no forced migration. Benchmark gap vs. Fable 5.2 may influence model selection decisions.</span>
+          <span class="impact-text">Strategic context for Claude pricing and roadmap — public company dynamics now apply</span>
         </div>
         <div class="source">
-          Source: Simon Willison's Weblog · 2026-11-17 · Author: Simon Willison ·
-          <a href="https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/" target="_blank">Read original →</a>
+          出典: Anthropic News · 2026-11-20 ·
+          <a href="https://www.anthropic.com/news/ipo-close" target="_blank">Read original →</a>
         </div>
       </div>
       <div class="col col-right">
-        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="col-label">📚 Từ vựng & Phân tích</div>
         <div class="translation-vi">
-          OpenAI phát hành GPT-6.2 Astra và GPT-6.2 Sol, các model mới nhất ở tier frontier và mid-range. Astra được định vị cho "các dự án khó nhất" với giá $8/MTok input và $40/MTok output — rẻ hơn 20% so với GPT-6 Astra tiền nhiệm, với cached input ở $0.40/M. Sol nhắm đến các tác vụ hàng ngày với mức $2/$10, bằng với chi phí GPT-6.1 Sol và giảm một nửa so với GPT-5.6 Sol. Cả hai có thể dùng qua API với tên <code>gpt-6.2-astra</code> và <code>gpt-6.2-sol</code>. Developer Simon Willison chạy các benchmark chuẩn bao gồm bài test Yonkers-to-mech Three.js ở effort level "Ultra" của Codex và nhận thấy cả hai model đều không so được với Claude Fable 5.2 hay Gemini 4 Carbon về khả năng suy luận sáng tạo. Đáng chú ý là phản hồi từ Theo Browne cho thấy Astra đôi khi đặt ra những câu hỏi kỳ lạ về internal implementation trong các tác vụ agentic dài hơi — một vấn đề tiềm ẩn với multi-step coding agent. Các model được phát hành kèm system card cập nhật nhấn mạnh cải thiện độ chính xác trong từ chối và giảm over-refusal so với dòng GPT-6.
+          Anthropic thông báo đóng đợt IPO (phát hành lần đầu ra công chúng) vào ngày 20 tháng 11, bao gồm cả việc thực hiện đầy đủ quyền chọn phân phối thừa của các nhà bảo lãnh phát hành, với tổng doanh thu gộp khoảng 119,5 tỷ USD. Công ty cũng hoàn thành đợt phát hành riêng lẻ đồng thời. Anthropic giờ đây giao dịch trên Sàn chứng khoán Nasdaq với mã cổ phiếu "ANT". Đây là cột mốc quan trọng của công ty nghiên cứu AI tập trung vào an toàn được thành lập năm 2021 bởi các nhà nghiên cứu cũ của OpenAI. IPO định giá Anthropic là một trong những công ty AI được định giá cao nhất tại thời điểm niêm yết. Vốn huy động được kỳ vọng sẽ hỗ trợ phát triển model tiếp tục, mở rộng cơ sở hạ tầng và mở rộng dòng model Claude, bao gồm cả công việc tiếp tục về công cụ developer Claude Code. Lần đầu ra công chúng của Anthropic sẽ tăng cường giám sát đối với các chỉ số doanh thu, mức độ tập trung khách hàng doanh nghiệp, và động lực cạnh tranh với OpenAI và Google DeepMind.
         </div>
-        <div class="impact-note">
-          Nếu bạn đang dùng GPT-6 Astra qua API, giá mới rẻ hơn 20% mà không cần đổi code. Nhưng nếu đang cân nhắc giữa Astra và Claude Fable 5.2 cho agentic coding pipeline, benchmark hiện tại nghiêng về Fable 5.2 cho các tác vụ sáng tạo và long-horizon.
-        </div>
+        <div class="impact-note">Với tư cách công ty đại chúng, Anthropic sẽ chịu áp lực tăng trưởng doanh thu — điều này có thể ảnh hưởng đến định giá API Claude, tốc độ phát hành tính năng mới, và chiến lược enterprise vs. developer của Claude Code trong 12-18 tháng tới.</div>
         <div class="edu-block">
-          <h4>📖 Thuật ngữ khó</h4>
+          <h4>📖 Thuật ngữ</h4>
           <table class="term-table">
-            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr><th>Thuật ngữ (EN)</th><th>Phát âm</th><th>Giải thích tiếng Việt</th></tr>
             <tr>
-              <td class="term-en">MTok (Million tokens)</td>
-              <td class="term-pron">/ˌmɪljən ˈtəʊkənz/</td>
-              <td class="term-explain">Triệu token — đơn vị giá API LLM. $8/MTok = $0.000008 mỗi token đầu vào. Cách so sánh chi phí giữa các model.</td>
+              <td class="term-en">IPO (Initial Public Offering)</td>
+              <td class="term-pron">/ˌaɪ piː ˈoʊ/</td>
+              <td class="term-explain">Phát hành lần đầu ra công chúng — lần đầu tiên công ty bán cổ phiếu cho nhà đầu tư đại chúng thông qua sàn chứng khoán</td>
             </tr>
             <tr>
-              <td class="term-en">Cached input</td>
-              <td class="term-pron">/kæʃt ˈɪnpʊt/</td>
-              <td class="term-explain">Input đã được cache (prompt caching) — khi phần system prompt giống nhau giữa các request, provider áp giá thấp hơn nhiều cho phần đó.</td>
+              <td class="term-en">Overallotment option</td>
+              <td class="term-pron">/ˌoʊvərəˈlɒtmənt/</td>
+              <td class="term-explain">Quyền chọn phân phối thừa (Green Shoe) — cho phép nhà bảo lãnh phát hành bán thêm cổ phiếu khi nhu cầu cao, thường 15% tổng đợt phát hành</td>
             </tr>
             <tr>
-              <td class="term-en">Over-refusal</td>
-              <td class="term-pron">/ˌəʊvər rɪˈfjuːzəl/</td>
-              <td class="term-explain">Tình trạng model từ chối quá nhiều yêu cầu hợp lệ — một vấn đề thực tế khi model quá thận trọng và block cả các prompt lành mạnh.</td>
+              <td class="term-en">Private placement</td>
+              <td class="term-pron">/ˈpraɪvɪt ˈpleɪsmənt/</td>
+              <td class="term-explain">Phát hành riêng lẻ — bán cổ phiếu cho số ít nhà đầu tư được lựa chọn thay vì ra công chúng rộng rãi</td>
             </tr>
             <tr>
-              <td class="term-en">Long-horizon agentic task</td>
-              <td class="term-pron">/lɒŋ həˈraɪzən eɪˈdʒɛntɪk tɑːsk/</td>
-              <td class="term-explain">Tác vụ agent dài hơi — chuỗi hành động cần nhiều bước liên tiếp (hàng chục đến hàng trăm) để hoàn thành, thách thức về độ nhất quán và bộ nhớ.</td>
+              <td class="term-en">Enterprise customer concentration</td>
+              <td class="term-pron">/ˈentərpraɪz ˈkɒnsnˌtreɪʃən/</td>
+              <td class="term-explain">Mức độ tập trung khách hàng doanh nghiệp — rủi ro khi quá nhiều doanh thu đến từ ít khách hàng lớn</td>
             </tr>
           </table>
         </div>
@@ -1271,54 +1222,52 @@
   <!-- C-03 -->
   <article class="news-card">
     <div class="card-header">
-      <h3><span class="news-no">C-03</span>Toyota, Nissan, and Honda to Standardize ~1,000 Non-Competitive Parts — Cost-Cutting Alliance</h3>
+      <h3><span class="news-no">C-03</span>Agent Swarm Attempts to Solve P vs. NP — 47 Specialized Agents, 11 Days, Zero Proof</h3>
     </div>
     <div class="card-body">
       <div class="col col-left">
-        <div class="col-label">📰 Article (English)</div>
+        <div class="col-label">📰 Original Article (EN)</div>
         <p class="content-text lang-en">
-          Japan's three major automakers — Toyota, Nissan, and Honda — announced a joint initiative to standardize approximately 1,000 non-competitive components across their vehicle lineups. The parts targeted include fasteners, connectors, brackets, and various structural sub-components that do not differentiate vehicles in the marketplace. By aligning specifications, the companies aim to significantly reduce procurement costs through increased economies of scale with shared suppliers. The announcement comes as all three automakers face intensifying pressure from Chinese EV manufacturers and are actively restructuring their cost bases. Honda and Nissan, which are already in merger discussions, are driving the most aggressive standardization push. The initiative is expected to roll out gradually starting with components for model years 2029 and beyond. While no specific cost savings have been officially disclosed, industry analysts estimate it could cut per-vehicle component costs by 5–8% in the targeted categories, representing billions of dollars in annual savings across the alliance.
+          A research team published results of a 11-day experiment in which 47 specialized LLM-based agents collaborated in an attempt to solve the P vs. NP problem — one of the seven Millennium Prize Problems with a $1 million prize. The swarm was organized using a hierarchical orchestration model: a Coordinator agent dispatched tasks to specialized subagents covering complexity theory, proof verification, SAT solver analysis, and literature synthesis. Each subagent operated in an isolated sandbox with tool access to formal proof systems (Lean 4, Coq), academic paper search, and code execution. After 11 days and over 400,000 agent-to-agent messages, the swarm produced several novel partial results including three new conditional proofs, but did not resolve the central question. The experiment is notable for demonstrating the limits and potential of multi-agent systems on hard unsolved problems, the importance of agent memory and context handoff at scale, and failure modes unique to agentic coordination (circular reasoning loops, context poisoning across agents).
         </p>
         <div class="impact-row">
-          <span class="impact-badge medium">🟠 MEDIUM</span>
-          <span class="impact-text">Signals a structural shift in Japanese auto supply chain — could affect embedded systems vendors and EV platform software stack standardization in the medium term.</span>
+          <span class="impact-badge low">🟡 LOW</span>
+          <span class="impact-text">Research experiment — demonstrates agentic coordination patterns and failure modes at scale</span>
         </div>
         <div class="source">
-          Source: Car and Driver / Hacker News · 2026-11-22 ·
-          <a href="https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/" target="_blank">Read original →</a>
+          出典: Hacker News · bananaflag · 2026-11-22 ·
+          <a href="https://news.ycombinator.com/item?id=50604314" target="_blank">Read original →</a>
         </div>
       </div>
       <div class="col col-right">
-        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="col-label">📚 Từ vựng & Phân tích</div>
         <div class="translation-vi">
-          Ba nhà sản xuất ô tô lớn nhất Nhật Bản — Toyota, Nissan và Honda — công bố sáng kiến chung để chuẩn hóa khoảng 1.000 linh kiện không mang tính cạnh tranh trên các dòng xe của họ. Các linh kiện được nhắm đến bao gồm vít ốc, đầu nối, giá đỡ và nhiều bộ phận cấu trúc phụ không tạo ra sự khác biệt cho xe trên thị trường. Bằng cách thống nhất thông số kỹ thuật, các công ty nhằm giảm đáng kể chi phí mua hàng thông qua tăng quy mô kinh tế với các nhà cung cấp chung. Thông báo được đưa ra khi cả ba nhà sản xuất đều đang chịu áp lực ngày càng tăng từ các nhà sản xuất xe điện Trung Quốc và đang tích cực tái cơ cấu chi phí. Honda và Nissan, đang trong các cuộc đàm phán sáp nhập, đang thúc đẩy nỗ lực chuẩn hóa mạnh mẽ nhất. Sáng kiến dự kiến sẽ triển khai dần dần bắt đầu từ các linh kiện cho năm mẫu xe 2029 trở đi. Các nhà phân tích ngành ước tính điều này có thể cắt giảm chi phí linh kiện mỗi xe 5–8% trong các danh mục được nhắm đến.
+          Một nhóm nghiên cứu công bố kết quả thí nghiệm 11 ngày trong đó 47 agent chuyên biệt dựa trên LLM đã cộng tác để cố gắng giải bài toán P vs. NP — một trong bảy Bài toán Thiên niên kỷ trị giá 1 triệu USD. Nhóm agent được tổ chức theo mô hình điều phối phân cấp: một Coordinator agent phân phối tác vụ cho các subagent chuyên biệt bao gồm lý thuyết độ phức tạp, xác minh chứng minh, phân tích SAT solver và tổng hợp tài liệu. Mỗi subagent hoạt động trong sandbox cô lập với quyền truy cập các công cụ chứng minh hình thức (Lean 4, Coq), tìm kiếm bài báo khoa học và thực thi code. Sau 11 ngày với hơn 400.000 tin nhắn agent-to-agent, nhóm agent tạo ra một số kết quả từng phần mới bao gồm ba chứng minh có điều kiện mới, nhưng không giải quyết được câu hỏi trung tâm. Thí nghiệm đáng chú ý vì đã minh chứng giới hạn và tiềm năng của hệ thống multi-agent với các bài toán khó chưa giải được, tầm quan trọng của memory và context handoff ở quy mô lớn, và các failure mode đặc thù của agentic coordination như vòng lặp lý luận vòng và context poisoning giữa các agent.
         </div>
-        <div class="impact-note">
-          Với engineer làm việc trong automotive tech hoặc embedded systems: chuẩn hóa linh kiện vật lý thường kéo theo chuẩn hóa software stack và communication protocol (CAN, Ethernet automotive). Có thể mở ra cơ hội hoặc tạo áp lực với các vendor middleware automotive Nhật Bản.
-        </div>
+        <div class="impact-note">Thí nghiệm này cung cấp cái nhìn thực tiễn về các failure mode của hệ thống multi-agent ở quy mô lớn — đặc biệt "context poisoning" (agent nhận context bị nhiễu từ agent khác) và "circular reasoning loops" là những bẫy bạn cần thiết kế phòng tránh khi xây dựng agent orchestration production.</div>
         <div class="edu-block">
-          <h4>📖 Thuật ngữ khó</h4>
+          <h4>📖 Thuật ngữ</h4>
           <table class="term-table">
-            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr><th>Thuật ngữ (EN)</th><th>Phát âm</th><th>Giải thích tiếng Việt</th></tr>
             <tr>
-              <td class="term-en">Economies of scale</td>
-              <td class="term-pron">/ɪˈkɒnəmiz əv skeɪl/</td>
-              <td class="term-explain">Quy mô kinh tế — lợi thế chi phí khi sản xuất/mua sắm số lượng lớn hơn, giá trên mỗi đơn vị giảm xuống.</td>
+              <td class="term-en">P vs. NP</td>
+              <td class="term-pron">/piː vɜːsəs ɛn piː/</td>
+              <td class="term-explain">Bài toán P so với NP — câu hỏi liệu mọi bài toán có thể xác minh nhanh (NP) có thể giải nhanh (P) hay không; nếu P=NP thì mật mã học hiện đại sẽ sụp đổ</td>
             </tr>
             <tr>
-              <td class="term-en">Non-competitive parts</td>
-              <td class="term-pron">/nɒn kəmˈpɛtɪtɪv pɑːts/</td>
-              <td class="term-explain">Linh kiện không cạnh tranh — phụ tùng mà khách hàng không thể phân biệt giữa các hãng xe (vít ốc, đầu nối...) — khác với engine hay thiết kế exterior.</td>
+              <td class="term-en">Context poisoning</td>
+              <td class="term-pron">/ˈkɒntekst ˈpɔɪzənɪŋ/</td>
+              <td class="term-explain">Nhiễm độc context — khi thông tin sai/nhiễu từ một agent làm ô nhiễm context của agent khác, dẫn đến kết quả sai lan truyền trong toàn hệ thống</td>
             </tr>
             <tr>
-              <td class="term-en">Supply chain consolidation</td>
-              <td class="term-pron">/səˈplaɪ tʃeɪn kənˌsɒlɪˈdeɪʃən/</td>
-              <td class="term-explain">Hợp nhất chuỗi cung ứng — giảm số lượng nhà cung cấp, chuẩn hóa quy trình để tăng hiệu quả và giảm chi phí.</td>
+              <td class="term-en">Conditional proof</td>
+              <td class="term-pron">/kənˈdɪʃənəl pruːf/</td>
+              <td class="term-explain">Chứng minh có điều kiện — chứng minh đúng khi một giả thuyết chưa được chứng minh khác được coi là đúng</td>
             </tr>
             <tr>
-              <td class="term-en">Model year</td>
-              <td class="term-pron">/ˈmɒdəl jɪər/</td>
-              <td class="term-explain">Năm mẫu xe — năm mà hãng xe chỉ định cho một thế hệ sản phẩm, thường ra trước một năm so với năm dương lịch (vd: MY2029 ra cuối 2028).</td>
+              <td class="term-en">SAT solver</td>
+              <td class="term-pron">/sæt ˈsɒlvər/</td>
+              <td class="term-explain">Bộ giải SAT (Boolean satisfiability) — phần mềm kiểm tra xem có thể gán giá trị True/False cho các biến để làm một biểu thức logic đúng không; nền tảng của verification tools</td>
             </tr>
           </table>
         </div>
@@ -1328,9 +1277,11 @@
 
 </section>
 
-<section class="prev-digests" aria-label="Bản tin gần đây">
-  <h3>📅 Bản tin trước đó</h3>
+<!-- Previous digests nav -->
+<div class="prev-digests">
+  <h3>📂 Bản tin trước đó</h3>
   <ul class="prev-digests-list">
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-23_0500.html">2026-11-23 05:00</a></li>
     <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-23_0000.html">2026-11-23 00:00</a></li>
     <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-22_2000.html">2026-11-22 20:00</a></li>
     <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-22_1500.html">2026-11-22 15:00</a></li>
@@ -1340,48 +1291,31 @@
     <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-21_2000.html">2026-11-21 20:00</a></li>
     <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-21_1500.html">2026-11-21 15:00</a></li>
     <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-21_1000.html">2026-11-21 10:00</a></li>
-    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-21_0500.html">2026-11-21 05:00</a></li>
   </ul>
-</section>
+</div>
 
 <footer>
-  <p>📚 デイリーダイジェスト | 2026-11-23 05:00 JST | 11 articles · JLPT N2+ · For SE/Cloud Engineer</p>
-  <p>Auto-generated by Claude Code Routine</p>
+  デイリーダイジェスト · 自動生成 · 2026-11-23 10:00 JST · Claude Sonnet 4.6
 </footer>
 
 <script>
   (function() {
-    var buttons = document.querySelectorAll('.theme-toggle button');
-    var html = document.documentElement;
-
-    function applyTheme(theme) {
-      if (theme === 'system') {
-        html.removeAttribute('data-theme');
+    function applyTheme(val) {
+      if (val === 'system') {
+        document.documentElement.removeAttribute('data-theme');
       } else {
-        html.setAttribute('data-theme', theme);
+        document.documentElement.setAttribute('data-theme', val);
       }
-      localStorage.setItem('digest-theme', theme);
-      updateActiveButton(theme);
-    }
-
-    function updateActiveButton(theme) {
-      buttons.forEach(function(btn) {
-        if (btn.getAttribute('data-theme-value') === theme) {
-          btn.classList.add('active');
-        } else {
-          btn.classList.remove('active');
-        }
+      document.querySelectorAll('.theme-toggle button').forEach(function(btn) {
+        btn.classList.toggle('active', btn.dataset.themeValue === val);
       });
+      localStorage.setItem('digest-theme', val);
     }
-
-    buttons.forEach(function(btn) {
-      btn.addEventListener('click', function() {
-        applyTheme(btn.getAttribute('data-theme-value'));
-      });
+    var saved = localStorage.getItem('digest-theme') || 'system';
+    applyTheme(saved);
+    document.querySelectorAll('.theme-toggle button').forEach(function(btn) {
+      btn.addEventListener('click', function() { applyTheme(btn.dataset.themeValue); });
     });
-
-    var current = localStorage.getItem('digest-theme') || 'system';
-    updateActiveButton(current);
   })();
 </script>
 

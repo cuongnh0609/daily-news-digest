@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-23T20:00:00+09:00",
+  "last_run_at": "2026-11-24T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-24T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6603732",
+        "https://news.yahoo.co.jp/pickup/6603711",
+        "https://news.yahoo.co.jp/pickup/6603729",
+        "https://news.yahoo.co.jp/pickup/6603730",
+        "https://news.yahoo.co.jp/pickup/6603733",
+        "https://zenn.dev/maruloop/articles/7ff108e29741b5",
+        "https://www.publickey1.jp/blog/26/postgresql_19repackio.html",
+        "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+        "https://news.yahoo.co.jp/pickup/6603732",
+        "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+        "https://news.ycombinator.com/item?id=50616001"
+      ],
+      "titles": [
+        "フアン氏、エヌビディアCEOに電撃復帰——会長職辞任から一夜にして取締役会が全会一致で再任",
+        "熊本県荒尾市の交番で巡査が死亡——拳銃使用の形跡、自殺か事故かを捜査",
+        "「演説妨害」規制の法整備へ議論加速——統一地方選を前に与野党が動く",
+        "COP脱化石燃料の遅れ、農業・食料安全保障への影響が深刻化",
+        "米大統領、フアン氏のエヌビディアCEO復帰を歓迎——AI政策との連携に期待",
+        "GoogleのSTAMP/STPA実践——SREにも使えるシステム安全分析の新アプローチ",
+        "PostgreSQL 19 正式リリース——ノンブロッキングREPACKとI/Oワーカー自動スケールが目玉",
+        "Cloudflare「Kitesurf」オープンソース化——AI向け軽量ヘッドレスブラウザ、Chromiumの最大7倍軽量",
+        "Jensen Huang Reinstated as Nvidia CEO — Unanimous Board Vote, Stock Surges 31%",
+        "External Sandboxes for Coding Agents — Prime Radiant Open-Sources Three Lightweight Isolation Runtimes",
+        "GLM-5.4 \"Loop Transformer\": Zhipu AI Introduces Iterative Reasoning Architecture for Coding"
+      ]
+    },
     {
       "run_at": "2026-11-23T20:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Muru: AI-Assisted Rust Server for Python ASGI/WSGI Apps, Built in a Near-Daily Public Dev Log",
         "Inkling 2 Mini: Open-Weights Looped MoE Model Hits 79% SWE-bench, Runs in ~20GB Memory",
         "The War Against AI Slop: Formal Verification Emerges as a Practical Weapon for Developers"
-      ]
-    },
-    {
-      "run_at": "2026-11-22T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6603508",
-        "https://news.yahoo.co.jp/pickup/6603510",
-        "https://www.jiji.com/jc/article?k=2026112100340&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026112100387&g=pol&m=rss",
-        "https://www.jiji.com/jc/article?k=2026112100337&g=int&m=rss",
-        "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
-        "https://zenn.dev/daiaoki/articles/webterm-ai-era-testing",
-        "https://zenn.dev/karamage/books/50c18e52e7d19e",
-        "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-        "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-        "https://simonwillison.net/2026/Nov/19/postgresql-19/"
-      ],
-      "titles": [
-        "COP31で「脱化石燃料」文言の削除めぐり交渉が難航",
-        "大雪で水族館が停電——飼育動物を緊急移送",
-        "次期防衛費「60兆円は無責任」——ローン方式めぐり与党内が紛糾",
-        "関文科相の進退が焦点に——与党内に辞任論、野党も問責を検討",
-        "台湾地方選まで1週間——与党・民進党に勢い、台北は激戦区に",
-        "Anthropicの数学者、Claudeと共同で「リーマン予想」を証明——Leanコミュニティが認定",
-        "AIが爆速で開発する時代の、自動テストとの向き合い方",
-        "pstack完全ガイド——AIエージェントに雑なコードを書かせない技術",
-        "Lean Proof Assistant Formally Verifies Generalized Riemann Hypothesis",
-        "LLMs Can Read and Write Executable Binaries Directly in Hex",
-        "PostgreSQL 19 Released — Incremental View Maintenance, Columnar Storage Extension"
       ]
     }
   ]

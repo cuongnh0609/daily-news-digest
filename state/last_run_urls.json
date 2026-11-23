@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-24T00:00:00+09:00",
+  "last_run_at": "2026-11-24T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-24T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026112300416&g=soc&m=rss",
+        "https://www.jiji.com/jc/article",
+        "https://www.jiji.com/jc/article",
+        "https://www.jiji.com/jc/article",
+        "https://www.jiji.com/jc/article",
+        "https://www.itmedia.co.jp/aiplus/",
+        "https://www.itmedia.co.jp/aiplus/",
+        "https://www.publickey1.jp/blog/26/omarchy_45linux_dhharch_linuxhyprland.html",
+        "https://www.anthropic.com/news",
+        "https://ladybird.org",
+        "https://news.ycombinator.com/item?id=50618441"
+      ],
+      "titles": [
+        "茨城・常陸大宮市が高レベル放射性廃棄物の最終処分地選定に向け初の住民説明会を開催",
+        "ロシアが核搭載衛星を軌道に配備か——米情報機関が警告、地球規模の脅威に緊張高まる",
+        "韓国、外相と統一相を交代へ——トランプ政権との外交立て直しが急務に",
+        "エヌビディア半導体の密輸ネットワーク——日本でも関係者逮捕、国際捜査が本格化",
+        "ロシア拘束の日本人ジャーナリスト、2回目の領事面会——「健康上の問題なし」と確認",
+        "アンソロピックの数学者がClaudeとリーマン予想を証明——Leanで1700万行の形式証明に成功",
+        "OpenAIチーフサイエンティスト、AIの「Perplexity」を業界共通の安全指標に——開発上限の合意形成を提案",
+        "DHH、Linuxデスクトップ環境「Omarchy 4.5」をリリース——開発者向け設定済みArch Linuxディストリビューション",
+        "Claude Fable 5.2 & Mythos 5.2: Anthropic's Most Capable Models Hit 49.1% on FrontierCode 2.0",
+        "Ladybird Browser Enters Alpha: A New Web Engine Built Entirely from Scratch",
+        "\"Yes, 17M Lines of Lean Is a Lot\" — The Riemann Hypothesis Proof and What It Means for AI-Assisted Mathematics"
+      ]
+    },
     {
       "run_at": "2026-11-24T00:00:00+09:00",
       "urls": [
@@ -202,35 +231,6 @@
         "Token Fraud Is Here and It's BAD — Free-Tier AI Abuse Costs Startups Tens of Thousands",
         "GitHub Innersource Security Advisories Now GA — Internal CVEs Get a Structured Disclosure Channel",
         "llm-gemini 0.38 Adds Gemini Decisions API — Zero Output-Token Answers with Typed Probabilities"
-      ]
-    },
-    {
-      "run_at": "2026-11-22T15:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026112100335&g=soc&m=rss",
-        "https://news.yahoo.co.jp/pickup/6603547",
-        "https://news.yahoo.co.jp/pickup/6603545",
-        "https://news.yahoo.co.jp/pickup/6603539",
-        "https://news.yahoo.co.jp/pickup/6603546",
-        "https://zenn.dev/kg_motors_mibot/articles/orca-bot-intro",
-        "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
-        "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
-        "https://simonwillison.net/2026/Nov/21/muru/",
-        "https://thinkingmachines.ai/news/inkling-2-mini/",
-        "https://latent.space/p/formal-verification/"
-      ],
-      "titles": [
-        "首里城正殿が復元完成——沖縄県民「もう失わないで」、22日に政府主催の式典",
-        "柏崎刈羽原発敷地内で作業員がガラスの下敷きに——38歳男性が意識不明の重体",
-        "桑田真澄氏58歳、現役さながら118キロの速球を披露——「LEGENDS MATCH 2026」で場内騒然",
-        "元GKシュナイダー潤之介さん死去——横浜FC在籍の元守護神、享年49歳",
-        "郡山市で12歳男子中学生が行方不明——警察が市内の商業施設などを捜索",
-        "Orca Botsが正式ベータ——Claude CodeやCodexをBot化し、Slack/GitHub/Linearと連動した自律エージェントを常設",
-        "Microsoft Agent FrameworkのPyPIパッケージが侵害——認証情報を盗む不正版が一時公開、全トークン再発行を推奨",
-        "AIエージェントとLLMをつなぐ「APIルーター」の乗っ取り手口が判明——428件調査でペイロード注入と認証情報盗取を確認",
-        "Muru: AI-Assisted Rust Server for Python ASGI/WSGI Apps, Built in a Near-Daily Public Dev Log",
-        "Inkling 2 Mini: Open-Weights Looped MoE Model Hits 79% SWE-bench, Runs in ~20GB Memory",
-        "The War Against AI Slop: Formal Verification Emerges as a Practical Weapon for Developers"
       ]
     }
   ]

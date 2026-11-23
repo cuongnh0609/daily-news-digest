@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-23T10:00:00+09:00",
+  "last_run_at": "2026-11-23T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-23T15:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6603661",
+        "https://news.yahoo.co.jp/pickup/6603663",
+        "https://news.yahoo.co.jp/pickup/6603649",
+        "https://news.yahoo.co.jp/pickup/6603667",
+        "https://www.jiji.com/jc/article?k=2026112300113&g=int&m=rss",
+        "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
+        "https://zenn.dev/mizchi/articles/mutation-test-quality",
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003315/",
+        "https://github.com/mjwsolo/localcode",
+        "https://www.anthropic.com/news/distillation-defenses",
+        "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available"
+      ],
+      "titles": [
+        "COP31閉幕——化石燃料をめぐる対立で成果文書の採択に失敗",
+        "復元完成の首里城正殿、一般公開が始まる——焼失から7年で待望の開場",
+        "キーウへの大規模攻撃——がれきの下から7歳の子供を救出",
+        "リフォーム工事業の倒産が過去最多——物価高・人手不足が直撃",
+        "たまごっちが30歳——ニューヨーク・タイムズスクエアで記念イベント",
+        "Claude Desktop「Codeタブ」でIDEを超える開発へ——VSCodeから乗り換えた実践報告",
+        "「Mutation Testをやれ」——AIが書いたテストのカバレッジ詐称を暴く",
+        "Google「Gemini 4 Neon」正式発表——ProプランユーザーもGemini 4推論モデルを利用可能に",
+        "Localcode: Open-Source Agentic Coding on Your Mac with One Command",
+        "Anthropic Reports Over 90% Reduction in Model Distillation Attacks",
+        "GitHub Security Advisory Permissions Now Generally Available"
+      ]
+    },
     {
       "run_at": "2026-11-23T10:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "External Sandboxes for Coding Agents: Three Open Implementations for Safe Tool Execution",
         "GitHub Copilot Gets Eight New Connectors — Supabase, Box, Buildkite, ClickUp, and Webflow in Public Preview",
         "Anthropic Introduces Claude Fable 5.2 and Claude Mythos 5.2 — New Frontier Models for Creative and Reasoning Tasks"
-      ]
-    },
-    {
-      "run_at": "2026-11-22T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6603470",
-        "https://news.yahoo.co.jp/pickup/6603464",
-        "https://news.yahoo.co.jp/pickup/6603481",
-        "https://news.yahoo.co.jp/pickup/6603485",
-        "https://news.yahoo.co.jp/pickup/6603477",
-        "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
-        "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-        "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
-        "https://news.ycombinator.com/item?id=50574968",
-        "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
-        "https://valkey.io/blog/from-skiplist-to-b+tree/"
-      ],
-      "titles": [
-        "防衛費増額をめぐる財務省案が波紋——自民党内で議論が過熱",
-        "ゼレンスキー大統領「プーチン氏は人殺しだ」——停戦交渉に改めて否定的な姿勢",
-        "危険運転で婚約者を失った遺族——「命の重さを知ってほしい」裁判で訴え",
-        "LED信号機に「着雪」の弱点——発熱が少なく雪が溶けないため視認性が低下",
-        "兵庫の住宅から金塊20キロなど盗まれる——複数の窃盗犯が犯行か",
-        "Google Antigravity、AIエージェントが「リモートで働く」機能を正式搭載——他社AIからの操作にも対応",
-        "毎月6,000件のAI Agentsを捌くためにキーボードを捨てた——音声駆動型エージェント運用の実践録",
-        "AWSエミュレータが正式リリース——ローカルでAWSサービスをネイティブ再現、コストと開発速度を両立",
-        "Mathematician Claims Proof of Generalized Riemann Hypothesis — 170-Year-Old Problem May Be Solved",
-        "GitHub CLI Gets `gh event listen` — Wait for Pull Request Events Programmatically",
-        "Valkey Replaces Skiplist with B+Tree, Cuts Sorted Set Overhead by Up to 43%"
-      ]
-    },
-    {
-      "run_at": "2026-11-21T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6603442",
-        "https://news.yahoo.co.jp/pickup/6603447",
-        "https://news.yahoo.co.jp/pickup/6603451",
-        "https://news.yahoo.co.jp/pickup/6603450",
-        "https://news.yahoo.co.jp/pickup/6603449",
-        "https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7",
-        "https://zenn.dev/karamage/articles/73027ee36796dc",
-        "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003378/",
-        "https://www.anthropic.com/news/ipo-close",
-        "https://www.masteringemacs.org/article/announcing-dreamcoder",
-        "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
-      ],
-      "titles": [
-        "米中露がICCを共同で非難——トランプ大統領が「制御不能」と批判",
-        "政治家パーティーへの官僚参加——関文科相、国会答弁と異なる事実が発覚",
-        "東京・多摩市の住宅玄関前で赤ちゃんの遺体発見——死体遺棄事件として捜査",
-        "沖縄のステーキ店で調理パフォ中に火災——客がやけど、元アルバイトに有罪判決",
-        "バスケットボール元日本代表・石橋貴俊さんが急逝——享年58歳",
-        "AIエージェントに堅牢なテストを書かせるには——15日間の実践から得た4つのアプローチ",
-        "【TLA+/Quint】AIにテストケースを書かせるな——人間が「ルール」を書き、機械が「ケース」を生成する",
-        "京都大学がAI依存チェックリストを公開——「当てはまるものあれば、しばらくAI触らないで」",
-        "Anthropic Closes $119.5B IPO — Begins Trading on Nasdaq as \"ANT\"",
-        "DreamCoder: A New AI Coding Harness and IDE Built for Serious Engineers",
-        "Critical GPGME Security Advisory CVE-2026-129975 — Double-Free via Crafted OpenPGP Key"
       ]
     }
   ]

@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-25T20:00:00+09:00",
+  "last_run_at": "2026-11-26T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-26T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6603980",
+        "https://news.yahoo.co.jp/pickup/6603985",
+        "https://news.yahoo.co.jp/pickup/6603988",
+        "https://news.yahoo.co.jp/pickup/6603979",
+        "https://news.yahoo.co.jp/pickup/6603986",
+        "https://zenn.dev/muroshima/articles/be47515ff9c16e",
+        "https://zenn.dev/google_cloud_jp/articles/7e29a9acf06557",
+        "https://www.publickey1.jp/atom.xml",
+        "https://github.com/github/spec-kit",
+        "https://news.ycombinator.com/item?id=50630809",
+        "https://news.ycombinator.com/item?id=50630809"
+      ],
+      "titles": [
+        "問責決議案をめぐる与野党攻防が激化——臨時国会の行方が焦点に",
+        "防衛力整備計画の新たな指針が判明——無人機・宇宙・サイバーを重点領域に",
+        "神奈川の死亡事故、5分以上逆走か——高速道路での逆走事故が相次ぐ",
+        "パイロット不足が深刻化——「2030年問題」解決へ養成加速と外国人活用を検討",
+        "佐藤輝明がセ・リーグMVP受賞——表彰式への異例の欠席が物議を醸す",
+        "AI時代の「要求管理ハンドブック」——IPAがSpec-Driven開発の実践指針を公開",
+        "モデルの性能が出ないのはAIゲートウェイのせいかもしれない——隠れたボトルネックを検証",
+        "「Skills over MCP」がMCPのベータ機能として追加——Anthropicがエージェント統合を強化",
+        "GitHub Spec-kit Reaches 151K Stars — The Open-Source Standard for Spec-Driven AI Development",
+        "Ask HN: Anthropic Is Accusing My Company of Distilling — How Can I Prove I'm Not?",
+        "Matrix Multiplication Is Θ(n²·²⁵) — New Algorithm Breaks 50-Year-Old Complexity Barrier"
+      ]
+    },
     {
       "run_at": "2026-11-25T20:00:00+09:00",
       "urls": [
@@ -173,93 +202,6 @@
         "NariQ: BF16-Level Qwen3.8-27B Fits in a 10 GB File via Latent Factorization",
         "Latent Introspection: LLMs Can Detect Prior Concept Injections in Their Own Activations",
         "Stalwart Becomes a Drop-In Replacement for Microsoft Exchange — Open-Source, Full Protocol Support"
-      ]
-    },
-    {
-      "run_at": "2026-11-24T15:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/topics/top-picks",
-        "https://news.yahoo.co.jp/topics/top-picks",
-        "https://news.yahoo.co.jp/topics/top-picks",
-        "https://www.itmedia.co.jp/news/article/2611/24/news_spacex_grok.html",
-        "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
-        "https://zenn.dev/feed",
-        "https://zenn.dev/feed",
-        "https://zenn.dev/feed",
-        "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-        "https://openai.com/index/introducing-shirudo/",
-        "https://news.ycombinator.com/item?id=50609685"
-      ],
-      "titles": [
-        "東電、廃炉・復興の新組織を設立へ——福島の長期的課題に対応",
-        "自民党、「宇宙庁」早期設立を提言——宇宙安全保障と産業育成を一元化",
-        "くら寿司、22品目を値上げ・34品目を値下げ——物価対応で二極化戦略",
-        "SpaceXのAI「Grok」、性的画像生成でオレゴン・バージニア両州が提訴",
-        "CrowdStrikeがZscalerを約4.4兆円で買収——AIエージェント時代のセキュリティ統合へ",
-        "WSL ContainersでClaude Codeを隔離する——権限リスクを最小化するローカル開発環境",
-        "コードを全部読まずにClaude Codeで本番リリース——実践的AI駆動開発の知見",
-        "著名なRust製OSSをLean 4で形式検証してみたら、バグが大量に見つかった話",
-        "GitHub Issue Statuses and Repository Boards Now in Public Preview",
-        "OpenAI and Cisco Open-Source \"Shirudo\" — Live Linux Protection via eBPF Without Reboots",
-        "GLM-5.4 \"Loop Transformer\": Zhipu AI Introduces Iterative Reasoning Architecture for Coding"
-      ]
-    },
-    {
-      "run_at": "2026-11-24T10:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/19/2000003313/",
-        "https://www.itmedia.co.jp/news/article/2611/18/2000003294/",
-        "https://www.itmedia.co.jp/news/article/2611/18/2000003304/",
-        "https://www.itmedia.co.jp/news/article/2611/20/2000003356/",
-        "https://www.nikkei.com/news/category/international/",
-        "https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565",
-        "https://zenn.dev/h_aso/articles/isolated-spec-tests-claude-code",
-        "https://zenn.dev/shino_i/articles/faeef70f08124c",
-        "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
-        "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
-        "https://github.com/anthropics/formal-math/tree/main/vp-vnp"
-      ],
-      "titles": [
-        "JR東日本、UWB改札を2028年春から40駅に導入——東京メトロも規格団体に参加",
-        "日本・ASEAN、先進AIの脅威に関する新枠組みに合意——重要鉱物・エネルギーでも協力強化",
-        "NordPass調査：日本で最も使われているパスワードは「pass1111」——「123456」は4位",
-        "GoogleのMac版「Gemini」アプリにcomputer use機能——英語の有料ユーザーから先行提供",
-        "高市首相、ペルー・チリと首脳会談——鉱物資源の調達多角化と太平洋経済連携を確認",
-        "コーディングエージェントが変えたOSS開発のプロセスと喜び——停滞していたメンテが動き出した",
-        "AIはテストに合わせて実装していないか？——「仕様テスト隠蔽」でSpec-Drivenを検証する",
-        "S3 VectorsはRAGのベクトルストアとして使えるか——40問で検証、ハイブリッド検索にも対応",
-        "CrowdStrike to Acquire Zscaler in $43.9B All-Stock Deal — AI Agent Security Merged into Falcon",
-        "Microsoft Agent Framework Python Package Poisoned on PyPI — Credentials Stolen at Import Time",
-        "Anthropic Formal Math Team Proves VP ≠ VNP Over Every Field — Hacker News Erupts"
-      ]
-    },
-    {
-      "run_at": "2026-11-24T05:00:00+09:00",
-      "urls": [
-        "https://www.jiji.com/jc/article?k=2026112300416&g=soc&m=rss",
-        "https://www.jiji.com/jc/article",
-        "https://www.jiji.com/jc/article",
-        "https://www.jiji.com/jc/article",
-        "https://www.jiji.com/jc/article",
-        "https://www.itmedia.co.jp/aiplus/",
-        "https://www.itmedia.co.jp/aiplus/",
-        "https://www.publickey1.jp/blog/26/omarchy_45linux_dhharch_linuxhyprland.html",
-        "https://www.anthropic.com/news",
-        "https://ladybird.org",
-        "https://news.ycombinator.com/item?id=50618441"
-      ],
-      "titles": [
-        "茨城・常陸大宮市が高レベル放射性廃棄物の最終処分地選定に向け初の住民説明会を開催",
-        "ロシアが核搭載衛星を軌道に配備か——米情報機関が警告、地球規模の脅威に緊張高まる",
-        "韓国、外相と統一相を交代へ——トランプ政権との外交立て直しが急務に",
-        "エヌビディア半導体の密輸ネットワーク——日本でも関係者逮捕、国際捜査が本格化",
-        "ロシア拘束の日本人ジャーナリスト、2回目の領事面会——「健康上の問題なし」と確認",
-        "アンソロピックの数学者がClaudeとリーマン予想を証明——Leanで1700万行の形式証明に成功",
-        "OpenAIチーフサイエンティスト、AIの「Perplexity」を業界共通の安全指標に——開発上限の合意形成を提案",
-        "DHH、Linuxデスクトップ環境「Omarchy 4.5」をリリース——開発者向け設定済みArch Linuxディストリビューション",
-        "Claude Fable 5.2 & Mythos 5.2: Anthropic's Most Capable Models Hit 49.1% on FrontierCode 2.0",
-        "Ladybird Browser Enters Alpha: A New Web Engine Built Entirely from Scratch",
-        "\"Yes, 17M Lines of Lean Is a Lot\" — The Riemann Hypothesis Proof and What It Means for AI-Assisted Mathematics"
       ]
     }
   ]

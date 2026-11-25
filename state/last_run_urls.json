@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-25T10:00:00+09:00",
+  "last_run_at": "2026-11-25T15:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-25T15:00:00+09:00",
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQOFL250PVTV21C26A1000000/",
+        "https://news.yahoo.co.jp/articles/7d2bc87f15d6c4387d7b66572b79d624e84fe282",
+        "https://news.yahoo.co.jp/pickup/6603905",
+        "https://news.yahoo.co.jp/pickup/6603899",
+        "https://news.yahoo.co.jp/pickup/6603894",
+        "https://zenn.dev/happy_elements/articles/27e14ff6754044",
+        "https://zenn.dev/headwaters/articles/c56ad35b556615",
+        "https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html",
+        "https://lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+        "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+      ],
+      "titles": [
+        "日経平均が一時2100円超急落——AI・半導体株への懸念が連鎖売りを呼ぶ",
+        "楽天証券、個人情報441万件と資産残高168万件の漏洩を確認——集団訴訟の動きも",
+        "米陪審、ファーウェイに「有罪」評決——制裁回避と技術窃盗の罪で通商摩擦が再燃",
+        "米FTC、SHEINに和解金160億円——虚偽配送・評価操作で消費者保護法違反",
+        "米比首脳会談の合意内容に食い違い——南シナ海問題で両国の立場に温度差が露わに",
+        "Claude Code のセキュリティ 2026年11月版——サンドボックス・権限・MCPの実践ベストプラクティス",
+        "AI駆動開発ハーネスにトレーサビリティを組み込む——目標からテストまでの繋がりを可視化する設計",
+        "マイクロソフト「Perception」正式リリース——AIエージェントがサイバー攻撃をリアルタイムに検知・対応",
+        "Models Can Communicate via Inference Servers Despite Being Sandboxed — New vLLM Side-Channel Discovery",
+        "OpenAI's GPT-6.2 Astra and Sol Now Available in GitHub Copilot — Agentic Coding Benchmarks Leap Forward",
+        "Google Launches Gemini 4 Neon — Mid-Tier Model Ranks Third on Intelligence Index, Targets Claude Opus and GPT-6.2 Sol"
+      ]
+    },
     {
       "run_at": "2026-11-25T10:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "Claude Fable 5.2 & Mythos 5.2: Anthropic's Most Capable Models Hit 49.1% on FrontierCode 2.0",
         "Ladybird Browser Enters Alpha: A New Web Engine Built Entirely from Scratch",
         "\"Yes, 17M Lines of Lean Is a Lot\" — The Riemann Hypothesis Proof and What It Means for AI-Assisted Mathematics"
-      ]
-    },
-    {
-      "run_at": "2026-11-24T00:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6603732",
-        "https://news.yahoo.co.jp/pickup/6603711",
-        "https://news.yahoo.co.jp/pickup/6603729",
-        "https://news.yahoo.co.jp/pickup/6603730",
-        "https://news.yahoo.co.jp/pickup/6603733",
-        "https://zenn.dev/maruloop/articles/7ff108e29741b5",
-        "https://www.publickey1.jp/blog/26/postgresql_19repackio.html",
-        "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
-        "https://news.yahoo.co.jp/pickup/6603732",
-        "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
-        "https://news.ycombinator.com/item?id=50616001"
-      ],
-      "titles": [
-        "フアン氏、エヌビディアCEOに電撃復帰——会長職辞任から一夜にして取締役会が全会一致で再任",
-        "熊本県荒尾市の交番で巡査が死亡——拳銃使用の形跡、自殺か事故かを捜査",
-        "「演説妨害」規制の法整備へ議論加速——統一地方選を前に与野党が動く",
-        "COP脱化石燃料の遅れ、農業・食料安全保障への影響が深刻化",
-        "米大統領、フアン氏のエヌビディアCEO復帰を歓迎——AI政策との連携に期待",
-        "GoogleのSTAMP/STPA実践——SREにも使えるシステム安全分析の新アプローチ",
-        "PostgreSQL 19 正式リリース——ノンブロッキングREPACKとI/Oワーカー自動スケールが目玉",
-        "Cloudflare「Kitesurf」オープンソース化——AI向け軽量ヘッドレスブラウザ、Chromiumの最大7倍軽量",
-        "Jensen Huang Reinstated as Nvidia CEO — Unanimous Board Vote, Stock Surges 31%",
-        "External Sandboxes for Coding Agents — Prime Radiant Open-Sources Three Lightweight Isolation Runtimes",
-        "GLM-5.4 \"Loop Transformer\": Zhipu AI Introduces Iterative Reasoning Architecture for Coding"
-      ]
-    },
-    {
-      "run_at": "2026-11-23T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6603661",
-        "https://news.yahoo.co.jp/pickup/6603667",
-        "https://news.yahoo.co.jp/pickup/6603608",
-        "https://www.itmedia.co.jp/news/article/2611/23/2000003395/",
-        "https://www.itmedia.co.jp/news/article/2611/20/2000003369/",
-        "https://zenn.dev/karamage/articles/73027ee36796dc",
-        "https://zenn.dev/kinuuu/articles/ai-coding-criteria-evidence-explanation",
-        "https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html",
-        "https://news.ycombinator.com/item?id=50610022",
-        "https://news.ycombinator.com/item?id=50606881",
-        "https://news.ycombinator.com/item?id=50610501"
-      ],
-      "titles": [
-        "野党、24日にも文科相問責案を協議——関大臣の辞任要求が本格化",
-        "ガソリン価格が大幅下落——米大統領、産油国に増産要求で不満の声",
-        "タッチ決済対応改札が全国拡大——利用者から戸惑いの声、鉄道各社が案内強化",
-        "「Microsoft To Do」、2027年6月にサービス終了——「Microsoft Planner」への移行を案内",
-        "ドン・キホーテのAI社員「近藤あい」正式デビュー——店頭案内から在庫確認まで対応",
-        "TLA+で「AIにテストケースを書かせるな、ルールを書け」——仕様記述による生成AIの制御",
-        "AIに実装を任せても理解と判断は手放さない——基準・証拠・説明をGoのAPIで実践",
-        "Windows Server 2028パブリックプレビュー——Microsoft Foundryでオンプレ推論基盤を構築可能に",
-        "A Beginner's Guide to Local AI: Running Inkling, Qwen, and Unsloth Without the Cloud",
-        "LittleBit: Ultra Low-Bit Quantization via Latent Factorization — Sub-1-Bit LLM Weights",
-        "The New Docker: Rebuilt on Trust, Transparency, and a Rust-Rewritten Core"
       ]
     }
   ]

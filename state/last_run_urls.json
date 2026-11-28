@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-29T00:00:00+09:00",
+  "last_run_at": "2026-11-29T05:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-29T05:00:00+09:00",
+      "urls": [
+        "https://www.jiji.com/jc/article?k=2026112800305&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026112800123&g=int&m=rss",
+        "https://www.jiji.com/jc/article?k=2026112800078&g=pol&m=rss",
+        "https://www.jiji.com/jc/article?k=2026112800241&g=soc&m=rss",
+        "https://news.yahoo.co.jp/pickup/6604351",
+        "https://zenn.dev/miraizuk/articles/ae8db2bc3ff561",
+        "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
+        "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
+        "https://simonwillison.net/2026/Nov/28/code-driven-ai-illustrations/",
+        "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+        "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
+      ],
+      "titles": [
+        "台湾統一地方選、与党・民進党が伸長――9県市長を制し、台北市長選は野党に惜敗",
+        "中国企業家が習氏退任求める書簡を実名で公開――異例の直接批判が内外で波紋",
+        "政府、原子力潜水艦の導入検討を安保3文書に明記へ――防衛力整備の新たな焦点に",
+        "年末に増える海産物の強引勧誘トラブル――国民生活センターが注意を呼びかけ",
+        "5台絡む玉突き事故、女性2人が死亡――大阪の幹線道路で重大事故",
+        "古いPHP/Laravelの脆弱性対応はRectorとAIでだいたい簡単に終わる",
+        "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindコマンド使い分けガイド",
+        "GitHub ActionsからPATもPrivate Keyも駆逐する——OIDC+AWS KMSで安全なApp Token発行システムを自作",
+        "Code-Driven AI Illustrations Are More Useful Than Images From Dedicated Image Models",
+        "Does Task Framing Change How Claude Code Works? A Benchmarking Study on Potential AI Sandbagging",
+        "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2,400+ Downloads Before Detection"
+      ]
+    },
     {
       "run_at": "2026-11-29T00:00:00+09:00",
       "urls": [

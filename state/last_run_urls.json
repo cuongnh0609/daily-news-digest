@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-28T15:00:00+09:00",
+  "last_run_at": "2026-11-28T20:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-28T20:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6604325",
+        "https://news.yahoo.co.jp/pickup/6604318",
+        "https://news.yahoo.co.jp/pickup/6604316",
+        "https://news.yahoo.co.jp/pickup/6604326",
+        "https://news.yahoo.co.jp/pickup/6604312",
+        "https://zenn.dev/kzchd/articles/ai-kicad-pihat-claude-codex",
+        "https://zenn.dev/hitori_pm/articles/cc955887656339",
+        "https://www.itmedia.co.jp/news/article/2611/26/2000003446",
+        "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview/",
+        "https://unkernel.dev",
+        "https://simonwillison.net/2026/Nov/27/datasette-mcp/"
+      ],
+      "titles": [
+        "防衛費5年「60兆円弱」米側は難色",
+        "大学病院 老朽化トラブル相次ぐ",
+        "拘束記者の妻手記 露で相次ぎ報道",
+        "銚子のサバ加工ピンチ 6社が倒産",
+        "書店がYouTube 10分で4千冊完売",
+        "Claude CodeでKiCad基板を設計してJLCPCBに発注——CodexとAI設計を同条件で比較",
+        "「日本語で」と指示しても英語に戻るClaude CodeをStopフックで制御する",
+        "AI活用で脆弱性発見数が1年で2倍超——Microsoft製品は月100件から1000件超に急増",
+        "GitHub Launches Issue Statuses and Repository Boards in Public Preview",
+        "Unkernel: Real Linux Kernel Compiled to WebAssembly Now Runs Full GUI Apps",
+        "datasette-mcp 0.4: Every Datasette Instance Becomes an MCP Server"
+      ]
+    },
     {
       "run_at": "2026-11-28T15:00:00+09:00",
       "urls": [
@@ -202,64 +231,6 @@
         "\"2035 Came Early\" — Linux Kernel Compiled to WebAssembly Now Runs Full GUI Apps in the Browser",
         "Microsoft Declares 'Code Red' After Historic Azure Outage — Internal Memos Reveal Unprecedented Response",
         "Songe: Train Your Local Model on Idle Compute — Open-Source Distributed Training Engine"
-      ]
-    },
-    {
-      "run_at": "2026-11-25T00:00:00+09:00",
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/24/2000003427/",
-        "https://www.itmedia.co.jp/news/article/2611/24/2000003409/",
-        "https://www.itmedia.co.jp/news/article/2611/24/2000003408/",
-        "https://www.itmedia.co.jp/news/article/2611/19/2000003324/",
-        "https://www.itmedia.co.jp/news/article/2611/19/2000003314/",
-        "https://zenn.dev/syarihu/articles/ba25f243ca79ed",
-        "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-        "https://www.publickey1.jp/blog/26/awsdynamodbextenddb10.html",
-        "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
-        "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-        "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1"
-      ],
-      "titles": [
-        "ソフトバンク、ITmediaの売却を検討か——日経が報道、両社はコメントを控える",
-        "東京都・区市町村、中小企業向けサイバーセキュリティ支援を本格開始",
-        "OTシステムへの攻撃が急増——元米軍セキュリティ専門家が日本企業に警鐘",
-        "AIモーションキャプチャで職人技を記録・継承——工業高校と企業が協力",
-        "AI活用で個人の生産性は上がっても、チームの成果は伸びず——9500人超の調査で判明",
-        "AIエージェント中心に開発フローを再設計——440本のPRで見えてきた「素早く決断する」という新しい職能",
-        "Claude Codeを5〜8セッション同時起動——個人用ダッシュボードを「バイブコーディング」で構築した話",
-        "AWS「ExtendDB」1.0正式リリース——DynamoDB互換のローカル実行データベースが本番対応へ",
-        "AI Agents Rewrote 340,000 Lines of curl's Codebase in Three Weeks — Daniel Stenberg's Report",
-        "LLM Agents Work for Their Parent Companies, Not for You — A Critical Perspective",
-        "GitHub Usage Reports Will Add a User ID Column Starting December 1 — Action Required for Scripts"
-      ]
-    },
-    {
-      "run_at": "2026-11-24T20:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6603825",
-        "https://www.itmedia.co.jp/news/article/2611/24/2000003419/",
-        "https://www.itmedia.co.jp/news/article/2611/24/2000003405/",
-        "https://news.yahoo.co.jp/pickup/6603812",
-        "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
-        "https://zenn.dev/aizangyobu/articles/claude-code-subagent-chousa",
-        "https://zenn.dev/kenshoya_ai/articles/6c7cdc73e270f1",
-        "https://zenn.dev/microsoft/articles/daedf42c8463b8",
-        "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-        "https://arxiv.org/abs/2602.20031",
-        "https://stalw.art/blog/microsoft-exchange-replacement/"
-      ],
-      "titles": [
-        "京王グループで約1063万件の個人情報が漏えいか——不正アクセスによる大規模流出が発覚",
-        "無印良品、不正アクセス受け株主優待を電子から紙クーポンに切り替え",
-        "NTTドコモ、今月3度目の障害——通信の信頼性に問い直しの機運",
-        "高市首相、ICC赤根所長と面会——国際刑事裁判所への支持を直接伝達",
-        "H3ロケット打ち上げ業務、JAXAから三菱重工に移管——2027年1月から民間主導へ",
-        "サブエージェントに調査を丸投げする設計パターン——Exploreと自作エージェントで本体コンテキストを汚染しない",
-        "AIエージェントへの依頼はチャットではなく「依頼書」で渡す——スコープ・成果物・タイミングを明文化する実践",
-        "Microsoft FoundryでAIエージェントを設計する際に決める5つのこと——データ・ツール・権限・ネットワークの設計指針",
-        "NariQ: BF16-Level Qwen3.8-27B Fits in a 10 GB File via Latent Factorization",
-        "Latent Introspection: LLMs Can Detect Prior Concept Injections in Their Own Activations",
-        "Stalwart Becomes a Drop-In Replacement for Microsoft Exchange — Open-Source, Full Protocol Support"
       ]
     }
   ]

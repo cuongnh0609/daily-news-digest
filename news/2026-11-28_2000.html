@@ -1,0 +1,1347 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>デイリーダイジェスト - 2026-11-28 20:00 JST</title>
+<style>
+  :root,
+  [data-theme="light"] {
+    --bg: #f8f5f0;
+    --card: #ffffff;
+    --card-alt: #fdfcf8;
+    --ink: #1a1a1a;
+    --ink-soft: #4a4a4a;
+    --accent-jp: #b91c1c;
+    --accent-tech-jp: #059669;
+    --accent-global: #0369a1;
+    --accent-soft-jp: #fef2f2;
+    --accent-soft-tech-jp: #ecfdf5;
+    --accent-soft-global: #f0f9ff;
+    --sub: #6b6b6b;
+    --border: #e5e1da;
+    --divider: #d4cfc5;
+    --jp-mark: #c2410c;
+    --vi: #0369a1;
+    --vi-bg: #f0f9ff;
+    --vi-ink: #0c4a6e;
+    --grammar: #7c3aed;
+    --grammar-bg: #fafaf5;
+    --code-bg: #f1efe9;
+    --note-bg: #fef9e7;
+    --note-border: #d69e2e;
+    --note-ink: #744210;
+    --impact-high: #dc2626;
+    --impact-med: #ea580c;
+    --impact-low: #ca8a04;
+    --header-gradient-start: #fafaf5;
+    --shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+
+  [data-theme="dark"] {
+    --bg: #0f0e0c;
+    --card: #1a1814;
+    --card-alt: #15130f;
+    --ink: #e8e4dc;
+    --ink-soft: #b8b4ac;
+    --accent-jp: #f87171;
+    --accent-tech-jp: #34d399;
+    --accent-global: #60a5fa;
+    --accent-soft-jp: #2a1515;
+    --accent-soft-tech-jp: #0d2820;
+    --accent-soft-global: #0c2440;
+    --sub: #8b8680;
+    --border: #332f28;
+    --divider: #2a2620;
+    --jp-mark: #fb923c;
+    --vi: #60a5fa;
+    --vi-bg: #0c2440;
+    --vi-ink: #bfdbfe;
+    --grammar: #c4b5fd;
+    --grammar-bg: #1c1a16;
+    --code-bg: #2a2620;
+    --note-bg: #2a2410;
+    --note-border: #ca8a04;
+    --note-ink: #fde68a;
+    --impact-high: #ef4444;
+    --impact-med: #f97316;
+    --impact-low: #eab308;
+    --header-gradient-start: #1c1a16;
+    --shadow: 0 1px 3px rgba(0,0,0,0.3);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme]) {
+      --bg: #0f0e0c;
+      --card: #1a1814;
+      --card-alt: #15130f;
+      --ink: #e8e4dc;
+      --ink-soft: #b8b4ac;
+      --accent-jp: #f87171;
+      --accent-tech-jp: #34d399;
+      --accent-global: #60a5fa;
+      --accent-soft-jp: #2a1515;
+      --accent-soft-tech-jp: #0d2820;
+      --accent-soft-global: #0c2440;
+      --sub: #8b8680;
+      --border: #332f28;
+      --divider: #2a2620;
+      --jp-mark: #fb923c;
+      --vi: #60a5fa;
+      --vi-bg: #0c2440;
+      --vi-ink: #bfdbfe;
+      --grammar: #c4b5fd;
+      --grammar-bg: #1c1a16;
+      --code-bg: #2a2620;
+      --note-bg: #2a2410;
+      --note-border: #ca8a04;
+      --note-ink: #fde68a;
+      --impact-high: #ef4444;
+      --impact-med: #f97316;
+      --impact-low: #eab308;
+      --header-gradient-start: #1c1a16;
+      --shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", "Times New Roman", serif;
+    background: var(--bg);
+    color: var(--ink);
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 2rem 2rem 4rem;
+    line-height: 1.75;
+  }
+  header.page-head {
+    border-bottom: 3px double var(--accent-jp);
+    padding-bottom: 1.2rem;
+    margin-bottom: 2.5rem;
+    text-align: center;
+  }
+  header.page-head h1 {
+    font-size: 2rem;
+    margin: 0 0 0.4rem;
+    letter-spacing: 0.08em;
+  }
+  header.page-head .meta {
+    color: var(--sub);
+    font-size: 0.95rem;
+    font-family: system-ui, sans-serif;
+  }
+
+  nav.toc {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+    font-family: system-ui, sans-serif;
+    font-size: 0.9rem;
+  }
+  nav.toc a {
+    text-decoration: none;
+    padding: 6px 14px;
+    border-radius: 20px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--ink);
+    transition: all 0.2s;
+  }
+  nav.toc a:hover { background: var(--accent-soft-jp); color: var(--accent-jp); }
+
+  section.digest-section { margin-bottom: 3rem; }
+  .section-title {
+    font-size: 1.5rem;
+    padding: 0.6rem 1.2rem;
+    margin: 0 0 1.5rem;
+    border-radius: 4px;
+    font-family: system-ui, "Noto Sans", sans-serif;
+    font-weight: 600;
+  }
+  #japan-news .section-title {
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    border-left: 5px solid var(--accent-jp);
+  }
+  #japan-tech .section-title {
+    background: var(--accent-soft-tech-jp);
+    color: var(--accent-tech-jp);
+    border-left: 5px solid var(--accent-tech-jp);
+  }
+  #global-tech .section-title {
+    background: var(--accent-soft-global);
+    color: var(--accent-global);
+    border-left: 5px solid var(--accent-global);
+  }
+
+  article.news-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    margin-bottom: 1.5rem;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+  }
+  .card-header {
+    padding: 1rem 1.5rem;
+    background: linear-gradient(to bottom, var(--header-gradient-start), var(--card));
+    border-bottom: 1px solid var(--border);
+  }
+  .card-header h3 {
+    margin: 0;
+    font-size: 1.15rem;
+    line-height: 1.5;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .news-no {
+    display: inline-block;
+    font-size: 0.7rem;
+    padding: 3px 9px;
+    border-radius: 3px;
+    font-family: system-ui, sans-serif;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  #japan-news .news-no { background: var(--accent-jp); color: white; }
+  #japan-tech .news-no { background: var(--accent-tech-jp); color: white; }
+  #global-tech .news-no { background: var(--accent-global); color: white; }
+
+  .card-body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .col {
+    padding: 1.25rem 1.5rem;
+  }
+  .col-left {
+    border-right: 1px solid var(--divider);
+  }
+  .col-right {
+    background: var(--card-alt);
+  }
+  .col-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--sub);
+    font-family: system-ui, sans-serif;
+    margin-bottom: 0.6rem;
+    font-weight: 600;
+  }
+
+  .content-text {
+    font-size: 1rem;
+    line-height: 1.85;
+    margin: 0 0 1rem;
+    text-align: justify;
+  }
+  .content-text.lang-en {
+    font-family: "Georgia", "Times New Roman", serif;
+  }
+  .content-text.lang-ja {
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+  }
+
+  .translation-vi {
+    font-family: "Noto Sans", system-ui, sans-serif;
+    font-size: 0.95rem;
+    line-height: 1.75;
+    margin: 1rem 0;
+    padding: 0.8rem 1rem;
+    background: var(--vi-bg);
+    border-left: 3px solid var(--vi);
+    border-radius: 2px;
+    color: var(--vi-ink);
+  }
+  .translation-vi::before {
+    content: "🇻🇳 ";
+    font-weight: bold;
+  }
+
+  .impact-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: system-ui, sans-serif;
+    font-size: 0.8rem;
+    margin: 0.8rem 0;
+    padding: 0.4rem 0;
+  }
+  .impact-badge {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 3px;
+    font-weight: 600;
+    font-size: 0.75rem;
+    color: white;
+  }
+  .impact-badge.high { background: var(--impact-high); }
+  .impact-badge.medium { background: var(--impact-med); }
+  .impact-badge.low { background: var(--impact-low); }
+  .impact-text { color: var(--sub); }
+
+  .impact-note {
+    font-family: system-ui, sans-serif;
+    font-size: 0.88rem;
+    color: var(--note-ink);
+    padding: 0.55rem 0.85rem;
+    background: var(--note-bg);
+    border-left: 3px solid var(--note-border);
+    border-radius: 2px;
+    margin: 0.6rem 0 1rem;
+  }
+  .impact-note::before { content: "💡 "; }
+
+  .edu-block {
+    margin-top: 1rem;
+    font-family: system-ui, "Noto Sans", sans-serif;
+  }
+  .edu-block h4 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--sub);
+    margin: 0.8rem 0 0.4rem;
+    border-bottom: 1px dotted var(--border);
+    padding-bottom: 3px;
+  }
+  table.vocab, table.term-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+  }
+  table.vocab th, table.vocab td,
+  table.term-table th, table.term-table td {
+    text-align: left;
+    padding: 6px 8px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  table.vocab th {
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    font-weight: 600;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+  }
+  table.term-table th {
+    background: var(--accent-soft-global);
+    color: var(--accent-global);
+    font-weight: 600;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+  }
+  td.jp-word { font-family: "Hiragino Mincho ProN", serif; font-size: 1rem; white-space: nowrap; }
+  td.reading { color: var(--sub); font-size: 0.8rem; white-space: nowrap; }
+  td.hanviet { color: var(--accent-jp); font-style: italic; font-size: 0.8rem; white-space: nowrap; }
+  td.meaning { font-size: 0.85rem; }
+  td.term-en { font-family: "SF Mono", Monaco, monospace; font-size: 0.9rem; font-weight: 600; color: var(--accent-global); white-space: nowrap; }
+  td.term-pron { font-size: 0.8rem; color: var(--sub); font-style: italic; white-space: nowrap; }
+  td.term-explain { font-size: 0.85rem; line-height: 1.6; }
+
+  .grammar-item { margin-bottom: 0.7rem; font-size: 0.9rem; }
+  .grammar-item strong {
+    color: var(--grammar);
+    font-size: 0.95rem;
+    display: inline-block;
+    margin-bottom: 2px;
+  }
+  .example {
+    background: var(--grammar-bg);
+    padding: 0.55rem 0.8rem;
+    margin-top: 0.35rem;
+    border-left: 2px solid var(--grammar);
+    font-size: 0.88rem;
+  }
+  .example .jp { font-family: "Hiragino Mincho ProN", serif; display: block; }
+  .example .vi { color: var(--vi); font-size: 0.82rem; display: block; margin-top: 3px; }
+
+  .source {
+    font-size: 0.78rem;
+    color: var(--sub);
+    margin-top: 0.8rem;
+    padding-top: 0.6rem;
+    border-top: 1px dotted var(--border);
+    font-family: system-ui, sans-serif;
+  }
+  .source a { color: var(--vi); text-decoration: none; }
+  .source a:hover { text-decoration: underline; }
+
+  code {
+    background: var(--code-bg);
+    padding: 1px 6px;
+    border-radius: 3px;
+    font-size: 0.88em;
+    font-family: "SF Mono", Monaco, "Courier New", monospace;
+  }
+
+  .theme-toggle {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 100;
+    display: flex;
+    gap: 4px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 3px;
+    font-family: system-ui, sans-serif;
+    font-size: 0.85rem;
+    box-shadow: var(--shadow);
+  }
+  .theme-toggle button {
+    background: transparent;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    color: var(--sub);
+    transition: all 0.15s;
+    font-family: inherit;
+  }
+  .theme-toggle button:hover { color: var(--ink); }
+  .theme-toggle button.active { background: var(--accent-jp); color: white; }
+  .theme-toggle button.active:hover { color: white; }
+
+  .prev-digests {
+    margin-top: 3.5rem;
+    padding: 1.2rem 1.4rem;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-family: system-ui, sans-serif;
+  }
+  .prev-digests h3 {
+    margin: 0 0 0.8rem;
+    font-size: 0.95rem;
+    color: var(--ink);
+    letter-spacing: 0.02em;
+  }
+  .prev-digests-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+  }
+  .prev-digests-list a {
+    display: inline-block;
+    padding: 0.35rem 0.7rem;
+    border-radius: 999px;
+    background: var(--accent-soft-jp);
+    color: var(--accent-jp);
+    font-size: 0.78rem;
+    text-decoration: none;
+    font-variant-numeric: tabular-nums;
+    border: 1px solid transparent;
+    transition: background 0.15s ease, border-color 0.15s ease;
+  }
+  .prev-digests-list a:hover {
+    background: transparent;
+    border-color: var(--accent-jp);
+  }
+  footer {
+    text-align: center;
+    color: var(--sub);
+    font-size: 0.85rem;
+    margin-top: 2.5rem;
+    font-family: system-ui, sans-serif;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border);
+  }
+
+  @media (max-width: 1000px) {
+    body { padding: 1rem 0.9rem 3rem; max-width: 100%; }
+    header.page-head h1 { font-size: 1.4rem; }
+    .card-body { grid-template-columns: 1fr; }
+    .col-left { border-right: none; border-bottom: 2px dashed var(--divider); }
+    .col { padding: 1rem 1.1rem; }
+    .section-title { font-size: 1.2rem; }
+    td.reading, td.hanviet, td.term-en, td.term-pron { white-space: normal; }
+  }
+</style>
+</head>
+<body>
+
+<div class="theme-toggle" role="group" aria-label="Theme selector">
+  <button type="button" data-theme-value="light" title="Light mode">☀️</button>
+  <button type="button" data-theme-value="system" title="Auto (follow system)">💻</button>
+  <button type="button" data-theme-value="dark" title="Dark mode">🌙</button>
+</div>
+
+<script>
+  (function() {
+    var saved = localStorage.getItem('digest-theme') || 'system';
+    if (saved !== 'system') {
+      document.documentElement.setAttribute('data-theme', saved);
+    }
+  })();
+</script>
+
+<header class="page-head">
+  <h1>🗞️ デイリーダイジェスト</h1>
+  <div class="meta">2026-11-28（土）20:00 JST — JLPT N2+ 学習者 · SE/Cloud Engineer 向け</div>
+</header>
+
+<nav class="toc">
+  <a href="#japan-news">🗾 日本ニュース (5)</a>
+  <a href="#japan-tech">🇯🇵 Tech JP (3)</a>
+  <a href="#global-tech">🌐 Global Tech (3)</a>
+</nav>
+
+<!-- SECTION A: JAPAN NEWS — 5 articles -->
+<section id="japan-news" class="digest-section">
+  <h2 class="section-title">🗾 日本ニュース</h2>
+
+  <!-- A-01 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A-01</span>防衛費5年間「60兆円弱」で調整——米側はさらなる増額を求め難色</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          政府は2027年度から始まる5カ年の防衛費総額を60兆円弱とする方向で最終調整に入った。高市首相は12月初旬にも防衛・財務両省に予算確保を指示する見通しだ。防衛省が試算していた70〜80兆円から大幅に圧縮されたことで、自民・公明両党は計画の見直しを求める声を上げている。一方、トランプ米政権は水面下でこの水準に難色を示しており、日米間の調整が難航する可能性がある。日本が60兆円弱にとどまる場合、GDPに占める防衛費の割合は目標の2％を下回るとみられ、同盟強化への取り組みが問われる局面を迎えている。
+        </p>
+        <div class="translation-vi">
+          Chính phủ Nhật Bản đang tiến hành điều chỉnh cuối cùng để ấn định tổng ngân sách quốc phòng 5 năm bắt đầu từ năm tài chính 2027 ở mức dưới 60 nghìn tỷ yen. Thủ tướng Takaichi dự kiến sẽ chỉ thị cho Bộ Quốc phòng và Bộ Tài chính đảm bảo ngân sách vào đầu tháng 12. Con số này thấp hơn nhiều so với ước tính 70–80 nghìn tỷ yen của Bộ Quốc phòng, khiến các đảng cầm quyền đòi xem xét lại kế hoạch. Trong khi đó, chính quyền Trump đã ngầm bày tỏ sự không hài lòng với mức này, và việc điều phối Nhật–Mỹ có thể gặp khó khăn. Nếu Nhật Bản dừng ở mức dưới 60 nghìn tỷ yen, tỷ lệ chi tiêu quốc phòng trong GDP sẽ không đạt mục tiêu 2%, đặt ra câu hỏi về cam kết tăng cường liên minh.
+        </div>
+        <div class="source">
+          出典: 共同通信 · 2026-11-28 19:00 JST ·
+          <a href="https://news.yahoo.co.jp/pickup/6604325" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">防衛費</td>
+              <td class="reading">ぼうえいひ</td>
+              <td class="hanviet">phòng vệ phí</td>
+              <td class="meaning">ngân sách quốc phòng</td>
+            </tr>
+            <tr>
+              <td class="jp-word">総額</td>
+              <td class="reading">そうがく</td>
+              <td class="hanviet">tổng ngạch</td>
+              <td class="meaning">tổng số tiền</td>
+            </tr>
+            <tr>
+              <td class="jp-word">圧縮</td>
+              <td class="reading">あっしゅく</td>
+              <td class="hanviet">áp súc</td>
+              <td class="meaning">nén, cắt giảm</td>
+            </tr>
+            <tr>
+              <td class="jp-word">難色</td>
+              <td class="reading">なんしょく</td>
+              <td class="hanviet">nan sắc</td>
+              <td class="meaning">sự không tán thành, phản đối</td>
+            </tr>
+            <tr>
+              <td class="jp-word">水面下</td>
+              <td class="reading">すいめんか</td>
+              <td class="hanviet">thủy diện hạ</td>
+              <td class="meaning">dưới bề mặt, hậu trường</td>
+            </tr>
+            <tr>
+              <td class="jp-word">同盟強化</td>
+              <td class="reading">どうめいきょうか</td>
+              <td class="hanviet">đồng minh cường hóa</td>
+              <td class="meaning">tăng cường liên minh</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>〜に難色を示す</strong> — tỏ ra phản đối/không hài lòng với
+            <div class="example">
+              <span class="jp">米側はこの水準に難色を示している。</span>
+              <span class="vi">Phía Mỹ đang tỏ ra không hài lòng với mức này.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>〜見通しだ</strong> — có triển vọng là, dự kiến sẽ
+            <div class="example">
+              <span class="jp">首相は12月初旬にも指示する見通しだ。</span>
+              <span class="vi">Thủ tướng dự kiến sẽ ra chỉ thị vào đầu tháng 12.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A-02 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A-02</span>大学病院の老朽化トラブル相次ぐ——修繕費不足で空調故障・漏水が頻発</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          全国の大学病院で老朽化に伴うトラブルが相次いでいる。空調設備の故障や天井からの漏水など、設備の劣化が目立つようになった。多くの大学病院は物価高騰や人件費増加により経営が赤字化しており、設備の更新や修繕を先送りせざるを得ない状況に追い込まれている。文部科学省は来年度から老朽化対策の支援を本格化させる方針で、5年間で約5000億円が必要と試算している。医療従事者からは「患者の安全に直結する問題だ」との声も上がっており、早急な対策が求められている。
+        </p>
+        <div class="translation-vi">
+          Các bệnh viện đại học trên khắp Nhật Bản đang liên tiếp xảy ra sự cố do cơ sở hạ tầng xuống cấp. Các vụ hỏng hóc điều hòa không khí và rò rỉ nước từ trần nhà ngày càng nổi cộm. Nhiều bệnh viện đại học rơi vào tình trạng thâm hụt do chi phí vật liệu và nhân công tăng cao, buộc phải trì hoãn việc nâng cấp và sửa chữa thiết bị. Bộ Giáo dục, Văn hóa, Thể thao, Khoa học và Công nghệ (MEXT) dự kiến bắt đầu hỗ trợ toàn diện cho việc chống xuống cấp từ năm tài chính tới, với ước tính cần khoảng 500 tỷ yen trong vòng 5 năm. Các y bác sĩ cũng lên tiếng rằng đây là vấn đề liên quan trực tiếp đến an toàn của bệnh nhân, đòi hỏi biện pháp xử lý khẩn cấp.
+        </div>
+        <div class="source">
+          出典: 読売新聞 · 2026-11-28 18:04 JST ·
+          <a href="https://news.yahoo.co.jp/pickup/6604318" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">老朽化</td>
+              <td class="reading">ろうきゅうか</td>
+              <td class="hanviet">lão cữu hóa</td>
+              <td class="meaning">xuống cấp, lão hóa (công trình)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">漏水</td>
+              <td class="reading">ろうすい</td>
+              <td class="hanviet">lậu thủy</td>
+              <td class="meaning">rò rỉ nước</td>
+            </tr>
+            <tr>
+              <td class="jp-word">赤字化</td>
+              <td class="reading">あかじか</td>
+              <td class="hanviet">xích tự hóa</td>
+              <td class="meaning">trở nên thâm hụt, lỗ</td>
+            </tr>
+            <tr>
+              <td class="jp-word">先送り</td>
+              <td class="reading">さきおくり</td>
+              <td class="hanviet">tiên tống</td>
+              <td class="meaning">trì hoãn, dời lại</td>
+            </tr>
+            <tr>
+              <td class="jp-word">修繕</td>
+              <td class="reading">しゅうぜん</td>
+              <td class="hanviet">tu thiện</td>
+              <td class="meaning">sửa chữa, bảo trì</td>
+            </tr>
+            <tr>
+              <td class="jp-word">人件費</td>
+              <td class="reading">じんけんひ</td>
+              <td class="hanviet">nhân kiện phí</td>
+              <td class="meaning">chi phí nhân công</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>〜ざるを得ない</strong> — không thể không làm, buộc phải
+            <div class="example">
+              <span class="jp">経費削減のため修繕を先送りせざるを得ない。</span>
+              <span class="vi">Để cắt giảm chi phí, buộc phải trì hoãn việc sửa chữa.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A-03 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A-03</span>拘束された邦人記者の妻の手記、ロシアメディアが相次ぎ報道</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          ロシア当局に拘束されている北海道新聞記者・今井大地さん（34）の妻が公開した手記が、複数のロシアメディアに相次いで取り上げられている。手記には「小さな娘に、大切なパパを返してください」との訴えが記されており、ロシア国内でも反響を呼んでいる。今井さんは取材活動中に拘束され、その経緯や拘束の理由は日本側にはまだ十分に伝えられていない。外務省は在ロシア日本大使館を通じて領事面会と情報提供を求め続けているが、ロシア側からの応答は限られた状況だ。
+        </p>
+        <div class="translation-vi">
+          Hồi ký do vợ của phóng viên Imai Daichi (34 tuổi) thuộc báo Hokkaido Shimbun — người đang bị chính quyền Nga giam giữ — công bố đã được nhiều cơ quan truyền thông Nga đưa tin liên tiếp. Hồi ký có đoạn kêu gọi "Hãy trả lại người cha yêu quý cho đứa con gái nhỏ của chúng tôi", tạo ra tiếng vang ngay cả trong nội địa Nga. Phóng viên Imai bị bắt giữ trong khi đang tác nghiệp, và phía Nhật Bản vẫn chưa được thông báo đầy đủ về diễn biến và lý do bắt giữ. Bộ Ngoại giao Nhật Bản tiếp tục yêu cầu thăm lãnh sự và cung cấp thông tin qua Đại sứ quán Nhật tại Nga, nhưng phản hồi từ phía Nga vẫn rất hạn chế.
+        </div>
+        <div class="source">
+          出典: 北海道ニュースUHB · 2026-11-28 17:25 JST ·
+          <a href="https://news.yahoo.co.jp/pickup/6604316" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">拘束</td>
+              <td class="reading">こうそく</td>
+              <td class="hanviet">câu thúc</td>
+              <td class="meaning">giam giữ, bắt giữ</td>
+            </tr>
+            <tr>
+              <td class="jp-word">手記</td>
+              <td class="reading">しゅき</td>
+              <td class="hanviet">thủ ký</td>
+              <td class="meaning">hồi ký, bài viết tay</td>
+            </tr>
+            <tr>
+              <td class="jp-word">邦人</td>
+              <td class="reading">ほうじん</td>
+              <td class="hanviet">bang nhân</td>
+              <td class="meaning">công dân Nhật Bản ở nước ngoài</td>
+            </tr>
+            <tr>
+              <td class="jp-word">領事面会</td>
+              <td class="reading">りょうじめんかい</td>
+              <td class="hanviet">lãnh sự diện hội</td>
+              <td class="meaning">thăm lãnh sự (quyền của công dân bị bắt)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">反響</td>
+              <td class="reading">はんきょう</td>
+              <td class="hanviet">phản hưởng</td>
+              <td class="meaning">tiếng vang, phản ứng dư luận</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>〜を通じて</strong> — thông qua, qua trung gian
+            <div class="example">
+              <span class="jp">大使館を通じて情報提供を求めている。</span>
+              <span class="vi">Yêu cầu cung cấp thông tin thông qua Đại sứ quán.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A-04 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A-04</span>銚子のサバ加工業がピンチ——円安・コスト高で今年だけで6社が倒産</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          千葉県銚子市のサバ加工業が深刻な経営危機に陥っている。塩焼き・干物として知られる銚子産サバを加工する業者が、円安による輸入原材料の価格高騰と人件費の増加により採算が合わなくなっており、今年だけで6社が倒産した。地元関係者によると、業界の存続自体が危ぶまれる状況だという。サバの水揚げ量も近年減少傾向にあり、原料調達面でも厳しい状況が続いている。地場産業の消滅を防ぐため、自治体や業界団体が支援策を検討しているが、即効性のある解決策は見当たらないのが現状だ。
+        </p>
+        <div class="translation-vi">
+          Ngành chế biến cá thu ở thành phố Choshi, tỉnh Chiba đang lâm vào khủng hoảng kinh doanh nghiêm trọng. Các doanh nghiệp chế biến cá thu Choshi — nổi tiếng với sản phẩm cá nướng muối và cá khô — đang thua lỗ do giá nguyên liệu nhập khẩu tăng vọt vì đồng yen yếu và chi phí nhân công tăng cao; chỉ trong năm nay đã có 6 công ty phá sản. Theo các doanh nghiệp địa phương, sự tồn tại của toàn ngành đang bị đe dọa. Sản lượng đánh bắt cá thu cũng có xu hướng giảm những năm gần đây, khiến nguồn cung nguyên liệu càng thêm khó khăn. Chính quyền địa phương và các hiệp hội ngành nghề đang xem xét các biện pháp hỗ trợ để bảo tồn ngành công nghiệp truyền thống, nhưng hiện chưa có giải pháp hiệu quả tức thì.
+        </div>
+        <div class="source">
+          出典: 読売新聞 · 2026-11-28 19:13 JST ·
+          <a href="https://news.yahoo.co.jp/pickup/6604326" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">倒産</td>
+              <td class="reading">とうさん</td>
+              <td class="hanviet">đảo sản</td>
+              <td class="meaning">phá sản</td>
+            </tr>
+            <tr>
+              <td class="jp-word">円安</td>
+              <td class="reading">えんやす</td>
+              <td class="hanviet">viên an</td>
+              <td class="meaning">đồng yen yếu</td>
+            </tr>
+            <tr>
+              <td class="jp-word">採算</td>
+              <td class="reading">さいさん</td>
+              <td class="hanviet">thái toán</td>
+              <td class="meaning">thu chi hòa vốn, lợi nhuận</td>
+            </tr>
+            <tr>
+              <td class="jp-word">水揚げ</td>
+              <td class="reading">みずあげ</td>
+              <td class="hanviet">thủy cử</td>
+              <td class="meaning">sản lượng đánh bắt, dỡ hàng lên bờ</td>
+            </tr>
+            <tr>
+              <td class="jp-word">地場産業</td>
+              <td class="reading">じばさんぎょう</td>
+              <td class="hanviet">địa tràng sản nghiệp</td>
+              <td class="meaning">ngành công nghiệp địa phương truyền thống</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>〜が危ぶまれる</strong> — lo ngại về, bị đe dọa
+            <div class="example">
+              <span class="jp">業界の存続自体が危ぶまれる状況だ。</span>
+              <span class="vi">Đây là tình trạng mà ngay cả sự tồn tại của ngành cũng bị đe dọa.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- A-05 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">A-05</span>書店チェーン「有隣堂」のYouTubeが急成長——図鑑4000冊が10分で完売</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          書店業界の厳しい状況が続く中、神奈川県を中心に展開する書店チェーン「有隣堂」がYouTubeチャンネルを武器に注目を集めている。登録者数は2026年11月時点で約62万人に達し、先日は特定の図鑑シリーズ約4000冊が動画公開後わずか10分で完売するという異例の事態が起きた。チャンネルの特徴は、書店スタッフが本への率直な愛着や個人的な意見を語る飾らない姿勢にある。出版市場が縮小し全国で書店閉店が相次ぐ中、実店舗とデジタルコンテンツを組み合わせた新しい書店モデルとして業界から熱い視線が注がれている。
+        </p>
+        <div class="translation-vi">
+          Trong bối cảnh ngành sách đang gặp khó khăn, chuỗi nhà sách Yurindo có trụ sở chính ở Kanagawa đang thu hút sự chú ý nhờ kênh YouTube. Tính đến tháng 11 năm 2026, số người đăng ký đã đạt khoảng 620.000 người, và gần đây đã xảy ra sự kiện bất thường khi khoảng 4.000 cuốn sách minh họa được bán hết chỉ trong vòng 10 phút sau khi video được đăng tải. Điểm nổi bật của kênh là thái độ chân thành, không giả tạo của nhân viên nhà sách khi chia sẻ tình yêu và quan điểm cá nhân về sách. Trong bối cảnh thị trường xuất bản thu hẹp và nhiều nhà sách đóng cửa trên toàn quốc, mô hình kết hợp cửa hàng thực tế và nội dung kỹ thuật số này đang được ngành nhìn nhận như một hướng đi mới.
+        </div>
+        <div class="source">
+          出典: ITmedia ビジネスオンライン · 2026-11-28 16:52 JST ·
+          <a href="https://news.yahoo.co.jp/pickup/6604312" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">完売</td>
+              <td class="reading">かんばい</td>
+              <td class="hanviet">hoàn mại</td>
+              <td class="meaning">bán hết sạch</td>
+            </tr>
+            <tr>
+              <td class="jp-word">登録者数</td>
+              <td class="reading">とうろくしゃすう</td>
+              <td class="hanviet">đăng lục giả số</td>
+              <td class="meaning">số người đăng ký (subscribe)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">率直</td>
+              <td class="reading">そっちょく</td>
+              <td class="hanviet">suất trực</td>
+              <td class="meaning">thẳng thắn, chân thành</td>
+            </tr>
+            <tr>
+              <td class="jp-word">出版市場</td>
+              <td class="reading">しゅっぱんしじょう</td>
+              <td class="hanviet">xuất bản thị trường</td>
+              <td class="meaning">thị trường xuất bản</td>
+            </tr>
+            <tr>
+              <td class="jp-word">実店舗</td>
+              <td class="reading">じつてんぽ</td>
+              <td class="hanviet">thực điếm phố</td>
+              <td class="meaning">cửa hàng thực tế (brick-and-mortar)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>〜を武器に</strong> — dùng … làm vũ khí, tận dụng
+            <div class="example">
+              <span class="jp">YouTubeチャンネルを武器に注目を集めている。</span>
+              <span class="vi">Thu hút sự chú ý bằng cách tận dụng kênh YouTube làm vũ khí.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<!-- SECTION B: JAPAN TECH — 3 articles -->
+<section id="japan-tech" class="digest-section">
+  <h2 class="section-title">🇯🇵 Tech / AI in Japanese</h2>
+
+  <!-- B-01 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B-01</span>Claude CodeでKiCad基板を設計してJLCPCBに発注——CodexとAI設計を同条件で比較</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          エンジニアの kz 氏がClaude Codeを使ってRaspberry Pi用の2層I/OボードをKiCadで設計し、JLCPCBに発注するまでの全工程を公開した。設計フローはG0〜G10のゲートチェック方式を採用し、ヒューマンアプルーバルを初期フェーズに集中させている。ユニークな点として、AIがPI HAT+仕様書を精査中に設計者の凍結要件に誤りを発見し、プルアップの欠如・値の誤り・EEPROM選定ミスの3点を指摘した。コスト比較では、2層設計のClaude Code案が約9337円に収まったのに対し、4層USB PDを採用したCodex案は1万7000円超となった。同一条件でのAI間の設計アプローチ比較は、実践的なデータとして注目を集めている。
+        </p>
+        <div class="translation-vi">
+          Kỹ sư kz đã công bố toàn bộ quy trình sử dụng Claude Code để thiết kế board I/O 2 lớp cho Raspberry Pi bằng KiCad và đặt hàng tại JLCPCB. Workflow thiết kế áp dụng hệ thống kiểm tra cổng G0–G10, tập trung human approval vào giai đoạn đầu. Điểm thú vị là trong khi đọc tài liệu đặc tả PI HAT+, AI đã phát hiện lỗi trong các yêu cầu đã đóng băng của tác giả, chỉ ra 3 vấn đề gồm thiếu pull-up, giá trị pull-up sai và chọn nhầm EEPROM. Về chi phí, phương án 2 lớp của Claude Code chỉ tốn khoảng 9.337 yen, trong khi phương án 4 lớp USB PD của Codex vượt 17.000 yen. Việc so sánh phương án thiết kế giữa các AI trong cùng điều kiện đang thu hút nhiều chú ý như dữ liệu thực tế hữu ích.
+        </div>
+        <div class="source">
+          出典: Zenn (@kz) · 2026-11-27 ·
+          <a href="https://zenn.dev/kzchd/articles/ai-kicad-pihat-claude-codex" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙 (技術日本語)</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">基板</td>
+              <td class="reading">きばん</td>
+              <td class="hanviet">cơ bản</td>
+              <td class="meaning">PCB (printed circuit board)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">発注</td>
+              <td class="reading">はっちゅう</td>
+              <td class="hanviet">phát đặt</td>
+              <td class="meaning">đặt hàng, order</td>
+            </tr>
+            <tr>
+              <td class="jp-word">凍結要件</td>
+              <td class="reading">とうけつようけん</td>
+              <td class="hanviet">đông kết yêu kiện</td>
+              <td class="meaning">yêu cầu đã được đóng băng (spec đã chốt)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">層</td>
+              <td class="reading">そう</td>
+              <td class="hanviet">tầng</td>
+              <td class="meaning">lớp (của PCB, ví dụ: 2層 = 2 lớp)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">仕様書</td>
+              <td class="reading">しようしょ</td>
+              <td class="hanviet">sĩ dạng thư</td>
+              <td class="meaning">tài liệu đặc tả (spec document)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">ゲートチェック</td>
+              <td class="reading">—</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">gate check — kiểm tra cổng (điểm phê duyệt)</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>〜に収まる</strong> — nằm trong giới hạn, không vượt quá
+            <div class="example">
+              <span class="jp">Claude Code案は約9337円に収まった。</span>
+              <span class="vi">Phương án của Claude Code nằm trong giới hạn khoảng 9.337 yen.</span>
+            </div>
+          </div>
+          <div class="grammar-item">
+            <strong>〜を精査する</strong> — xem xét kỹ lưỡng, phân tích chi tiết
+            <div class="example">
+              <span class="jp">AIが仕様書を精査中に要件の誤りを発見した。</span>
+              <span class="vi">AI đã phát hiện lỗi trong yêu cầu khi đang xem xét kỹ tài liệu đặc tả.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- B-02 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B-02</span>「日本語で」と指示しても英語に戻るClaude CodeをStopフックで制御する</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          「ひとりPM」氏がClaude Codeの言語逸脱問題——CLAUDE.mdで日本語対応を指示しても長いセッションで英語に戻ってしまう現象——をStopフックで解決する手法を公開した。根本原因は英語のシステムプロンプトへの応答が引き金となり、以降の返答も英語が連鎖する点にある。対策として、Pythonスクリプトがlast_assistant_messageを読み取り、英語文字が40字以上かつ日本語文字の3倍以下の条件を満たす場合に「{"decision": "block", ...}」を返し、日本語での再応答を要求する。コード・URL・パスはチェック対象外とし、stop_hook_activeフラグでループを防止する。61文の実験で英語6文を誤検知なしに検出することを確認している。
+        </p>
+        <div class="translation-vi">
+          Tác giả "ひとりPM" đã công bố phương pháp giải quyết vấn đề ngôn ngữ của Claude Code — hiện tượng mà dù đã chỉ định dùng tiếng Nhật trong CLAUDE.md, nhưng trong các phiên dài vẫn chuyển về tiếng Anh — bằng cách sử dụng Stop hook. Nguyên nhân gốc rễ là việc phản hồi hệ thống prompt bằng tiếng Anh kéo theo các câu trả lời tiếp theo cũng bằng tiếng Anh. Giải pháp là script Python đọc last_assistant_message và trả về `{"decision": "block", ...}` kèm yêu cầu trả lời lại bằng tiếng Nhật nếu số ký tự tiếng Anh từ 40 trở lên và ít hơn 3 lần số ký tự tiếng Nhật. Code, URL và path được loại trừ khỏi phạm vi kiểm tra, và flag stop_hook_active ngăn chặn vòng lặp vô hạn. Thực nghiệm với 61 câu xác nhận phát hiện được 6 câu tiếng Anh mà không có false positive.
+        </div>
+        <div class="source">
+          出典: Zenn (@hitori_pm) · 2026-11-26 (更新: 2026-11-28) ·
+          <a href="https://zenn.dev/hitori_pm/articles/cc955887656339" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙 (技術日本語)</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">言語逸脱</td>
+              <td class="reading">げんごいつだつ</td>
+              <td class="hanviet">ngôn ngữ dật thoát</td>
+              <td class="meaning">language drift — hiện tượng AI chuyển ngôn ngữ ngoài ý muốn</td>
+            </tr>
+            <tr>
+              <td class="jp-word">根本原因</td>
+              <td class="reading">こんぽんげんいん</td>
+              <td class="hanviet">căn bản nguyên nhân</td>
+              <td class="meaning">root cause — nguyên nhân gốc rễ</td>
+            </tr>
+            <tr>
+              <td class="jp-word">誤検知</td>
+              <td class="reading">ごけんち</td>
+              <td class="hanviet">ngộ kiểm tri</td>
+              <td class="meaning">false positive — phát hiện nhầm</td>
+            </tr>
+            <tr>
+              <td class="jp-word">フック</td>
+              <td class="reading">—</td>
+              <td class="hanviet">—</td>
+              <td class="meaning">hook — điểm can thiệp vào luồng thực thi</td>
+            </tr>
+            <tr>
+              <td class="jp-word">連鎖</td>
+              <td class="reading">れんさ</td>
+              <td class="hanviet">liên tỏa</td>
+              <td class="meaning">chuỗi phản ứng, hiệu ứng domino</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>〜が引き金となる</strong> — trở thành ngòi nổ, kích hoạt
+            <div class="example">
+              <span class="jp">英語の返答が引き金となり、以降も英語が連鎖した。</span>
+              <span class="vi">Câu trả lời bằng tiếng Anh đã trở thành ngòi nổ, kéo theo các câu tiếp theo cũng bằng tiếng Anh.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- B-03 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">B-03</span>AI活用で脆弱性発見数が1年で2倍超——Microsoft製品は月100件から1000件超に急増</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 本文 + 和越対訳</div>
+        <p class="content-text lang-ja">
+          Microsoftの2026年11月のパッチチューズデーでは1093件の脆弱性が修正され、うち63件が「緊急」に分類された。同社はAI活用による発見数増加を認めており、2026年の修正件数は累計5100件を超え、前年の月平均100件から1000件超へと急増している。さらに、ITmediaの報道によると、2026年に登録されたCVEは11月13日時点で10万件を突破し、前年の通年総数を倍以上上回った。セキュリティ企業CrowdStrikeの調査では、概念実証コードを用いた攻撃の88%がPoC公開から48時間以内に始まっていることも判明しており、AIが脆弱性探索の攻防双方を加速させている実態が浮かび上がった。
+        </p>
+        <div class="translation-vi">
+          Trong Patch Tuesday tháng 11 năm 2026 của Microsoft, 1.093 lỗ hổng bảo mật đã được vá, trong đó 63 lỗ hổng được phân loại "Critical". Công ty thừa nhận số lượng phát hiện tăng lên nhờ AI, với tổng số lỗ hổng được vá trong năm 2026 vượt 5.100 lỗ, tăng mạnh từ trung bình 100 lỗ/tháng lên hơn 1.000 lỗ/tháng so với năm trước. Hơn nữa, theo báo cáo của ITmedia, số CVE được đăng ký trong năm 2026 đã vượt 100.000 lỗ tính đến ngày 13 tháng 11, cao hơn gấp đôi tổng số của cả năm ngoái. Nghiên cứu của CrowdStrike cho thấy 88% các cuộc tấn công sử dụng mã proof-of-concept bắt đầu trong vòng 48 giờ sau khi PoC được công bố, làm nổi bật thực tế là AI đang tăng tốc cả hai phía tấn công và phòng thủ trong cuộc chiến bảo mật.
+        </div>
+        <div class="source">
+          出典: ITmedia NEWS (@鈴木聖子) · 2026-11-26 ·
+          <a href="https://www.itmedia.co.jp/news/article/2611/26/2000003446" target="_blank">原文を読む →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">📚 語彙・文法解説</div>
+        <div class="edu-block">
+          <h4>📘 語彙 (技術日本語)</h4>
+          <table class="vocab">
+            <tr><th>単語</th><th>読み方</th><th>漢越</th><th>意味</th></tr>
+            <tr>
+              <td class="jp-word">脆弱性</td>
+              <td class="reading">ぜいじゃくせい</td>
+              <td class="hanviet">tuy nhược tính</td>
+              <td class="meaning">vulnerability — lỗ hổng bảo mật</td>
+            </tr>
+            <tr>
+              <td class="jp-word">概念実証</td>
+              <td class="reading">がいねんじっしょう</td>
+              <td class="hanviet">khái niệm thực chứng</td>
+              <td class="meaning">proof of concept (PoC)</td>
+            </tr>
+            <tr>
+              <td class="jp-word">攻防</td>
+              <td class="reading">こうぼう</td>
+              <td class="hanviet">công phòng</td>
+              <td class="meaning">tấn công và phòng thủ</td>
+            </tr>
+            <tr>
+              <td class="jp-word">修正件数</td>
+              <td class="reading">しゅうせいけんすう</td>
+              <td class="hanviet">tu chính kiện số</td>
+              <td class="meaning">số lượng bản vá/sửa lỗi</td>
+            </tr>
+            <tr>
+              <td class="jp-word">急増</td>
+              <td class="reading">きゅうぞう</td>
+              <td class="hanviet">cấp tăng</td>
+              <td class="meaning">tăng đột biến, tăng nhanh</td>
+            </tr>
+          </table>
+        </div>
+        <div class="edu-block">
+          <h4>📗 文法</h4>
+          <div class="grammar-item">
+            <strong>〜が浮かび上がる</strong> — nổi lên, hiện ra rõ ràng
+            <div class="example">
+              <span class="jp">AIが攻防双方を加速させている実態が浮かび上がった。</span>
+              <span class="vi">Thực tế AI đang tăng tốc cả tấn công lẫn phòng thủ đã nổi lên rõ ràng.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<!-- SECTION C: GLOBAL TECH — 3 articles -->
+<section id="global-tech" class="digest-section">
+  <h2 class="section-title">🌐 Global Tech / AI (English)</h2>
+
+  <!-- C-01 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C-01</span>GitHub Launches Issue Statuses and Repository Boards in Public Preview</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Article (English)</div>
+        <p class="content-text lang-en">
+          GitHub has launched Issue Statuses and Repository Boards in public preview, bringing a structured project management layer directly into repositories. Issues can now be tagged with predefined statuses: Backlog, Todo, In progress, In review, Done, Not planned, and Duplicate — mirroring common engineering workflows. Status transitions integrate automatically with pull requests and assignments: opening a PR moves linked issues to "In review," merging sets them to "Done," and assigning moves them to "In progress." A new board layout in repository saved views renders issues as kanban-style cards, filterable by status, assignee, or label. The feature exposes full API and MCP support, meaning AI coding tools and automation pipelines can now read and update issue statuses programmatically. This is a significant evolution from GitHub's project-level (organization-scoped) boards toward repo-native workflows. Teams can now coordinate with status discipline without leaving the repository context, and specification-driven development workflows gain a native "spec → issue → status" traceability layer.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge medium">🟠 MEDIUM</span>
+          <span class="impact-text">New per-repo issue status workflow; MCP support enables AI tools to update statuses automatically</span>
+        </div>
+        <div class="source">
+          Source: GitHub Changelog · 2026-11-23 · Author: GitHub Team ·
+          <a href="https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview/" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          GitHub đã ra mắt Issue Statuses và Repository Boards trong public preview, mang lại một lớp quản lý dự án có cấu trúc trực tiếp vào trong repository. Các issue giờ đây có thể được gắn thẻ với các trạng thái được định nghĩa sẵn: Backlog, Todo, In progress, In review, Done, Not planned và Duplicate — phản ánh quy trình kỹ thuật thông thường. Chuyển đổi trạng thái tích hợp tự động với pull request và assignee: mở PR sẽ chuyển issue liên kết sang "In review", merge sẽ đặt thành "Done", và assign sẽ chuyển sang "In progress". Board view mới trong repository saved views hiển thị issue theo dạng thẻ kanban, có thể lọc theo trạng thái, assignee hoặc label. Tính năng này cung cấp API và MCP đầy đủ, nghĩa là các công cụ AI và pipeline tự động hóa có thể đọc và cập nhật trạng thái issue theo cách lập trình. Đây là bước tiến đáng kể từ board cấp project (phạm vi tổ chức) sang workflow native theo repo. Các team có thể phối hợp với kỷ luật trạng thái mà không cần rời khỏi context repository, và quy trình phát triển theo spec-driven cũng có thêm lớp traceability "spec → issue → status" native.
+        </div>
+        <div class="impact-note">
+          AI coding tools (Claude Code, Copilot) có thể dùng MCP để tự động cập nhật trạng thái issue khi thực hiện task. Đây là nền tảng quan trọng cho agentic development workflows — agent có thể tự chuyển issue từ "In progress" sang "In review" sau khi tạo PR.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ khó</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr>
+              <td class="term-en">Public preview</td>
+              <td class="term-pron">/ˈpʌblɪk ˈpriːvjuː/</td>
+              <td class="term-explain">Giai đoạn thử nghiệm công khai trước khi phát hành chính thức; ai cũng có thể dùng nhưng API có thể thay đổi</td>
+            </tr>
+            <tr>
+              <td class="term-en">Kanban board</td>
+              <td class="term-pron">/ˈkænbæn bɔːrd/</td>
+              <td class="term-explain">Bảng quản lý công việc theo cột trạng thái (kanban bắt nguồn từ tiếng Nhật 看板)</td>
+            </tr>
+            <tr>
+              <td class="term-en">MCP support</td>
+              <td class="term-pron">/ɛm siː piː/</td>
+              <td class="term-explain">Model Context Protocol — giao thức chuẩn để AI tools tương tác với external services như GitHub</td>
+            </tr>
+            <tr>
+              <td class="term-en">Traceability layer</td>
+              <td class="term-pron">/ˌtreɪsəˈbɪlɪti/</td>
+              <td class="term-explain">Khả năng theo dõi mối liên hệ từ spec/yêu cầu → code → issue → deployment</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- C-02 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C-02</span>Unkernel: Real Linux Kernel Compiled to WebAssembly Now Runs Full GUI Apps</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Article (English)</div>
+        <p class="content-text lang-en">
+          Unkernel (unkernel.dev) has achieved a landmark milestone: the actual Linux kernel compiled to WebAssembly and running full graphical applications in the browser, earning it 348 points and widespread discussion on Hacker News. Unlike previous "Linux in the browser" projects that emulated Linux behavior in JavaScript, Unkernel compiles the real kernel to WebAssembly using modified LLVM toolchain passes. The result is a complete virtualized Linux environment running inside a browser tab, capable of executing standard applications including GUI programs via a virtual framebuffer. The technical implications are significant: developers can ship reproducible development environments, sandboxed execution of arbitrary code, and browser-native CI runners that execute real Linux containers without server infrastructure. The project builds on years of WebAssembly systems interface (WASI) work and demonstrates that the gap between "runs in the browser" and "runs on Linux" is now negligible. This complements the recent "2035 Came Early" milestone of a full GUI desktop running in-browser WebAssembly.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge medium">🟠 MEDIUM</span>
+          <span class="impact-text">Browser-native Linux environments could replace lightweight VMs for sandboxed code execution and CI</span>
+        </div>
+        <div class="source">
+          Source: Hacker News / unkernel.dev · 2026-11-28 · Author: nreece ·
+          <a href="https://unkernel.dev" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          Unkernel (unkernel.dev) đã đạt một cột mốc quan trọng: Linux kernel thực sự được biên dịch sang WebAssembly và chạy được các ứng dụng đồ họa đầy đủ trên trình duyệt, thu về 348 điểm và thảo luận sôi nổi trên Hacker News. Khác với các dự án "Linux trên trình duyệt" trước đây mô phỏng hành vi Linux bằng JavaScript, Unkernel biên dịch kernel thực bằng các LLVM toolchain pass được chỉnh sửa. Kết quả là một môi trường Linux ảo hóa hoàn chỉnh chạy trong tab trình duyệt, có thể thực thi các ứng dụng tiêu chuẩn bao gồm cả chương trình GUI thông qua virtual framebuffer. Ý nghĩa kỹ thuật rất lớn: developer có thể cung cấp môi trường phát triển tái tạo được, thực thi code trong sandbox, và chạy CI runner native trên trình duyệt mà không cần hạ tầng server. Dự án này xây dựng trên nhiều năm phát triển WebAssembly System Interface (WASI) và chứng minh rằng khoảng cách giữa "chạy được trên browser" và "chạy được trên Linux" hiện gần như bằng không.
+        </div>
+        <div class="impact-note">
+          Với Cloud Engineer, đây mở ra khả năng chạy container Linux nhẹ ngay trong trình duyệt — hữu ích cho demo, debug và CI pipeline mà không cần cấp phát VM. Các agent AI cũng có thể dùng môi trường này như một sandbox an toàn để chạy code tùy ý.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ khó</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr>
+              <td class="term-en">WebAssembly (Wasm)</td>
+              <td class="term-pron">/wɛb əˈsɛmbli/</td>
+              <td class="term-explain">Định dạng binary bytecode chạy trong trình duyệt với hiệu năng gần native; hỗ trợ nhiều ngôn ngữ ngoài JavaScript</td>
+            </tr>
+            <tr>
+              <td class="term-en">LLVM toolchain</td>
+              <td class="term-pron">/ɛl ɛl viː ɛm/</td>
+              <td class="term-explain">Bộ công cụ compiler infrastructure; LLVM pass là các bước biến đổi IR (intermediate representation) khi biên dịch</td>
+            </tr>
+            <tr>
+              <td class="term-en">Virtual framebuffer</td>
+              <td class="term-pron">/ˈvɜːtʃuəl ˈfreɪmbʌfər/</td>
+              <td class="term-explain">Bộ đệm màn hình ảo cho phép render giao diện đồ họa mà không cần màn hình vật lý</td>
+            </tr>
+            <tr>
+              <td class="term-en">WASI</td>
+              <td class="term-pron">/ˈwɑːzi/</td>
+              <td class="term-explain">WebAssembly System Interface — API chuẩn để Wasm module tương tác với hệ điều hành (file, network...)</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- C-03 -->
+  <article class="news-card">
+    <div class="card-header">
+      <h3><span class="news-no">C-03</span>datasette-mcp 0.4: Every Datasette Instance Becomes an MCP Server</h3>
+    </div>
+    <div class="card-body">
+      <div class="col col-left">
+        <div class="col-label">📰 Article (English)</div>
+        <p class="content-text lang-en">
+          Simon Willison has released datasette-mcp 0.4, a plugin that exposes a standard MCP server endpoint at <code>/-/mcp</code> on any Datasette instance. The release, tagged for compatibility with Datasette 1.0a44, makes it trivial to wire up an AI coding assistant or any MCP-compatible tool to query a SQLite database. Rather than requiring custom integration code, any Datasette deployment — whether it serves a local database, a research dataset, or a production data API — becomes immediately queryable by Claude, Cursor, or other MCP clients with zero configuration. The plugin builds on Willison's broader datasette-agent work (datasette-agent 0.7a1 also shipped this week), which further closes the gap between natural language and structured database queries. For developers working with analytical or exploratory data workflows, this means AI tools can now navigate and query Datasette-served data as naturally as they query file contents or search code. The pattern of "plugin = instant MCP endpoint" is becoming a template for the broader data tooling ecosystem.
+        </p>
+        <div class="impact-row">
+          <span class="impact-badge medium">🟠 MEDIUM</span>
+          <span class="impact-text">Any SQLite/Datasette deployment can now be queried by AI tools via MCP with one plugin install</span>
+        </div>
+        <div class="source">
+          Source: Simon Willison's Weblog · 2026-11-27 · Author: Simon Willison ·
+          <a href="https://simonwillison.net/2026/Nov/27/datasette-mcp/" target="_blank">Read original →</a>
+        </div>
+      </div>
+      <div class="col col-right">
+        <div class="col-label">🇻🇳 Bản dịch + 📖 Giải thích thuật ngữ</div>
+        <div class="translation-vi">
+          Simon Willison đã phát hành datasette-mcp 0.4, một plugin giúp expose một MCP server chuẩn tại endpoint <code>/-/mcp</code> trên bất kỳ instance Datasette nào. Bản phát hành này, được đánh dấu tương thích với Datasette 1.0a44, giúp dễ dàng kết nối các AI coding assistant hoặc bất kỳ công cụ nào tương thích MCP để truy vấn cơ sở dữ liệu SQLite. Thay vì cần viết code tích hợp tùy chỉnh, bất kỳ deployment Datasette nào — dù phục vụ database cục bộ, dataset nghiên cứu hay data API production — đều trở nên có thể truy vấn ngay lập tức bởi Claude, Cursor hay các MCP client khác mà không cần cấu hình gì thêm. Plugin này được xây dựng dựa trên công việc datasette-agent rộng lớn hơn của Willison (datasette-agent 0.7a1 cũng ra mắt tuần này), giúp thu hẹp khoảng cách giữa ngôn ngữ tự nhiên và truy vấn database có cấu trúc. Với developer làm việc với analytical hoặc exploratory data workflow, điều này có nghĩa là các AI tool hiện có thể điều hướng và truy vấn dữ liệu được Datasette phục vụ một cách tự nhiên như truy vấn nội dung file hay tìm kiếm code. Pattern "plugin = MCP endpoint tức thì" đang trở thành template cho hệ sinh thái data tooling rộng lớn hơn.
+        </div>
+        <div class="impact-note">
+          Nếu bạn dùng Datasette để expose data (logs, analytics, SQLite DB), giờ đây Claude Code và các MCP client có thể truy vấn trực tiếp. Hữu ích cho agentic workflows cần đọc data từ nhiều nguồn mà không cần viết integration thủ công.
+        </div>
+        <div class="edu-block">
+          <h4>📖 Thuật ngữ khó</h4>
+          <table class="term-table">
+            <tr><th>Thuật ngữ</th><th>Phiên âm</th><th>Giải thích</th></tr>
+            <tr>
+              <td class="term-en">Datasette</td>
+              <td class="term-pron">/ˈdeɪtəsɛt/</td>
+              <td class="term-explain">Tool open-source của Simon Willison để publish SQLite database thành REST API và web UI có thể duyệt ngay</td>
+            </tr>
+            <tr>
+              <td class="term-en">MCP endpoint</td>
+              <td class="term-pron">/ɛm siː piː ˈɛndpɔɪnt/</td>
+              <td class="term-explain">URL mà AI tool kết nối tới để giao tiếp theo Model Context Protocol; giống REST endpoint nhưng theo schema MCP</td>
+            </tr>
+            <tr>
+              <td class="term-en">Exploratory data workflow</td>
+              <td class="term-pron">/ɪkˈsplɒrətəri/</td>
+              <td class="term-explain">Quy trình khám phá dữ liệu chưa biết cấu trúc — thử truy vấn, xem kết quả, điều chỉnh — thường là bước đầu data analysis</td>
+            </tr>
+            <tr>
+              <td class="term-en">Zero configuration</td>
+              <td class="term-pron">/ˈzɪərəʊ/</td>
+              <td class="term-explain">Hoạt động ngay mà không cần setup hay config thêm (zero-config); đây là điểm bán hàng chính của plugin này</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</section>
+
+<section class="prev-digests" aria-label="Bản tin gần đây">
+  <h3>📅 Bản tin trước đó</h3>
+  <ul class="prev-digests-list">
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-28_1500.html">2026-11-28 15:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-28_1000.html">2026-11-28 10:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-26_0500.html">2026-11-26 05:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-26_0000.html">2026-11-26 00:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-25_2000.html">2026-11-25 20:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-25_1500.html">2026-11-25 15:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-25_1000.html">2026-11-25 10:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-25_0500.html">2026-11-25 05:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-25_0000.html">2026-11-25 00:00</a></li>
+    <li><a href="https://cuongnh0609.github.io/daily-news-digest/news/2026-11-24_2000.html">2026-11-24 20:00</a></li>
+  </ul>
+</section>
+
+<footer>
+  <p>📚 デイリーダイジェスト | 2026-11-28 20:00 JST | 11 articles · JLPT N2+ · For SE/Cloud Engineer</p>
+  <p>Auto-generated by Claude Code Routine</p>
+</footer>
+
+<script>
+  (function() {
+    var buttons = document.querySelectorAll('.theme-toggle button');
+    var html = document.documentElement;
+
+    function applyTheme(theme) {
+      if (theme === 'system') {
+        html.removeAttribute('data-theme');
+      } else {
+        html.setAttribute('data-theme', theme);
+      }
+      localStorage.setItem('digest-theme', theme);
+      updateActiveButton(theme);
+    }
+
+    function updateActiveButton(theme) {
+      buttons.forEach(function(btn) {
+        if (btn.getAttribute('data-theme-value') === theme) {
+          btn.classList.add('active');
+        } else {
+          btn.classList.remove('active');
+        }
+      });
+    }
+
+    buttons.forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        applyTheme(btn.getAttribute('data-theme-value'));
+      });
+    });
+
+    var current = localStorage.getItem('digest-theme') || 'system';
+    updateActiveButton(current);
+  })();
+</script>
+
+</body>
+</html>

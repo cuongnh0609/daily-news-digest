@@ -1,6 +1,35 @@
 {
-  "last_run_at": "2026-11-28T20:00:00+09:00",
+  "last_run_at": "2026-11-29T00:00:00+09:00",
   "runs": [
+    {
+      "run_at": "2026-11-29T00:00:00+09:00",
+      "urls": [
+        "https://news.yahoo.co.jp/pickup/6604330",
+        "https://news.yahoo.co.jp/pickup/6604340",
+        "https://news.yahoo.co.jp/pickup/6604332",
+        "https://news.yahoo.co.jp/pickup/6604348",
+        "https://news.yahoo.co.jp/pickup/6604349",
+        "https://zenn.dev/mediaforce/articles/27df1f22a00546",
+        "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
+        "https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html",
+        "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+        "https://alignment.anthropic.com/2026/auditing-overt-saboteur",
+        "https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html"
+      ],
+      "titles": [
+        "高市氏側、昨年複数企業から分散した献金——政治とカネ問題が再燃",
+        "政党収入、グッズ販売で数千万円——2025年分収支報告書が公表",
+        "物理学者・大槻義彦氏が死去——早稲田大学名誉教授、科学普及の第一人者",
+        "誘拐疑いで男を逮捕——近隣住民「まさかこんな人が」と驚き",
+        "車5台が絡む玉突き事故、女性2人が心肺停止で搬送——重大事故相次ぐ",
+        "「grill-me」の作者本人から学ぶSkillsの本来の使い方——Spec-Drivenワークフローを強制する設計思想",
+        "Claude Codeを5〜8個並行稼働させるための自作ダッシュボード——バイブコーディングで実装した管理画面",
+        "「Google Workspace MCPサーバ」と「Google Workspace CLI」が正式版リリース——AIエージェントがGmail・Drive・Calendarを操作可能に",
+        "Claude Code Sabotage Benchmarking: Can AI Agents Undermine Their Own Evaluations?",
+        "Anthropic Alignment Science: Can Pre-Deployment Audits Catch an Overt Saboteur Model?",
+        "Google Workspace MCP Server Goes GA: 120+ Tools for AI Agents to Control Gmail, Drive, Calendar"
+      ]
+    },
     {
       "run_at": "2026-11-28T20:00:00+09:00",
       "urls": [
@@ -173,64 +202,6 @@
         "Models Can Communicate via Inference Servers Despite Being Sandboxed — New vLLM Side-Channel Discovery",
         "OpenAI's GPT-6.2 Astra and Sol Now Available in GitHub Copilot — Agentic Coding Benchmarks Leap Forward",
         "Google Launches Gemini 4 Neon — Mid-Tier Model Ranks Third on Intelligence Index, Targets Claude Opus and GPT-6.2 Sol"
-      ]
-    },
-    {
-      "run_at": "2026-11-25T10:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6603876",
-        "https://news.yahoo.co.jp/pickup/6603868",
-        "https://news.yahoo.co.jp/pickup/6603870",
-        "https://news.yahoo.co.jp/pickup/6603863",
-        "https://news.yahoo.co.jp/pickup/6603878",
-        "https://www.itmedia.co.jp/news/article/2611/25/2000003430/",
-        "https://atmarkit.itmedia.co.jp/ait/articles/2611/25/news002.html",
-        "https://zenn.dev/upgradetech/articles/a9a1637d3071c1",
-        "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
-        "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-        "https://prismml.com/news/bonsai-2-5-27b"
-      ],
-      "titles": [
-        "首相が文科相を擁護、辞任ドミノへの懸念が野党から噴出",
-        "「米中に次ぐAI国家」確立へ——日本政府が国家戦略案を提示",
-        "米司法長官「NVIDIAは善良な企業」——独禁法調査の終結を示唆",
-        "広島で女性が死亡——強盗殺人の疑いで30代男を逮捕",
-        "ソニー、新型ウォークマンを発表——歴代最高の65万円、職人手作りの限定モデル",
-        "AIエージェントは隙あらばサンドボックスの外に出るのか——Anthropicが評価手法「Siren」を発表",
-        "「ソフトウェアファクトリー」とは何か——OpenAI・Uber・freeeが描くAIエージェント工場の中身",
-        "Copilot StudioのエージェントをClaude Codeで実装——どこまで任せられるか検証した",
-        "Three LLM Inflection Points in Twelve Months — Simon Willison's Keynote Retrospective",
-        "GPT-6 Models Demonstrate Intrinsic Protein-Design Capabilities Without Fine-Tuning",
-        "Ternary Bonsai 2.5 27B: Open-Weight Model That Fits in 10GB via Sub-2-Bit Quantization"
-      ]
-    },
-    {
-      "run_at": "2026-11-25T05:00:00+09:00",
-      "urls": [
-        "https://news.yahoo.co.jp/pickup/6603844",
-        "https://news.yahoo.co.jp/pickup/6603839",
-        "https://www.nikkei.com/article/DGXZQOGM24AB50U6A121C2000000/",
-        "https://www.nikkei.com/article/DGXZQOGN2301I0T21C26A1000000/",
-        "https://www.nikkei.com/article/DGXZQOUA1860P0Y6A111C2000000/",
-        "https://zenn.dev/canly/articles/40e773759da8f8",
-        "https://zenn.dev/fixstars/articles/alpamayo-h100",
-        "https://www.publickey1.jp/blog/26/jquery_41queryselectoralljquery_3xjquery_38.html",
-        "https://fzakaria.com/2026/11/23/2035-came-early",
-        "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
-        "https://github.com/sous-labs/songe"
-      ],
-      "titles": [
-        "高市首相、第2次補正予算案の編成を指示——物価対策・能登支援を重点に",
-        "EUのEV優遇措置、修正案でも日本除外——通商摩擦が長期化の懸念",
-        "中国・上海市トップの陳吉寧氏を「重大な規律違反」で調査——習政権が地方幹部に引き続き圧力",
-        "アンソロピック株が上場後初の公開価格割れ——AI企業の収益化への懸念が表面化",
-        "子ども向けSNS対策、企業への報告義務と罰則で法制化へ——年齢確認の実効性が焦点",
-        "Gemini 4 Neon を API で試した：65万トークンの超長文、費用、失敗——Claude Code・Codex CLI との比較",
-        "AlpamayoはJetsonでリアルタイム推論できるか——H100プロファイルから各ハードへ実行時間を推定",
-        "jQuery 4.1 正式リリース——内部実装を querySelectorAll に統一、jQuery 3.8 も同時公開",
-        "\"2035 Came Early\" — Linux Kernel Compiled to WebAssembly Now Runs Full GUI Apps in the Browser",
-        "Microsoft Declares 'Code Red' After Historic Azure Outage — Internal Memos Reveal Unprecedented Response",
-        "Songe: Train Your Local Model on Idle Compute — Open-Source Distributed Training Engine"
       ]
     }
   ]
